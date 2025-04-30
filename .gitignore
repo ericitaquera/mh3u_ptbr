@@ -1,0 +1,32 @@
+# === Ignore game-related and build output folders ===
+/romfs_extracted/
+/arc_extracted/
+/gmd_repacked/
+/arc_repacked/
+/romfs_final/
+/tmp/
+/logs/
+
+# Optional: ignore if working dirs are rebuilt each time
+#/gmd_texts/
+#/gmd_texts_ptbr/
+
+# === Python artifacts ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# === Windows system files ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === VSCode ===
+.vscode/
+
+# === Temp/backups ===
+*.bak
+*.tmp
+~$*
+.DS_Store

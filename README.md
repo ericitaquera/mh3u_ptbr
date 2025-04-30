@@ -11,15 +11,17 @@ This repository contains scripts, tools, and documentation to extract, translate
 
 ## 📦 Project Structure
 
-| Folder / Script            | Description                                               |
-|---------------------------|-----------------------------------------------------------|
-| `env.bat`                 | Sets environment variables for use across scripts         |
-| `scripts/`                | Automation scripts for extraction, translation, and packing |
-| `tools/`                  | Tools like `arc_extractor`, (optionally Kuriimu2)         |
-| `original/`               | Extracted game assets (.arc, .gmd, etc.)                  |
-| `translated/`             | Edited `.txt` translation files                           |
-| `logs/`                   | Logs generated during pipeline execution                  |
-| `README.md`               | Project documentation                                     |
+| Folder Name          | Purpose                                                       |
+|----------------------|---------------------------------------------------------------|
+| `romfs_extracted/`   | Original ROMFS files extracted from the game                  |
+| `arc_extracted/`     | Unpacked `.arc` files from ROMFS                              |
+| `gmd_texts/`         | Extracted `.txt` files from `.gmd` (before translation)       |
+| `gmd_texts_ptbr/`    | Translated `.txt` files (Brazilian Portuguese)                |
+| `gmd_repacked/`      | `.gmd` files repacked from the translated texts               |
+| `arc_repacked/`      | `.arc` files rebuilt with the repacked `.gmd`                 |
+| `romfs_final/`       | Final ROMFS with all translated content ready to inject       |
+| `tmp/`               | Temporary or intermediary files                               |
+| `logs/`              | Processing and debug logs from scripts                        |
 
 ---
 
