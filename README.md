@@ -89,3 +89,11 @@ You must own a legal copy of *Monster Hunter 3 Ultimate* to use this pipeline.
   To everyone who contributed — knowingly or not — to the ROM hacking and fan translation scene:  co
   toolmakers, reverse engineers, tutorial writers, testers, and community sharers.  
   *"If I have seen further, it is by standing on the shoulders of giants."* — Isaac Newton   
+
+## 🛡️ License
+
+📘 All code and scripts in this repository are licensed under the [MIT License](LICENSE).  
+📚 All translated text content is shared under the [CC BY-NC 4.0 License](LICENSE-TRANSLATIONS.txt).
+
+> You must own a legal copy of *Monster Hunter 3 Ultimate* to use this pipeline.  
+> This is a non-commercial fan project and is not affiliated with Capcom or Nintendo.
