@@ -6,6 +6,8 @@ Thank you for your interest in contributing to the *Monster Hunter 3 Ultimate �
 This is a community-driven fan effort to bring the 3DS game **Monster Hunter 3 Ultimate** to Brazilian Portuguese.  
 We welcome contributions of all kinds — translations, script improvements, bug fixes, or documentation help.
 
+> 📄 See [DISCLAIMER.md](DISCLAIMER.md) for important legal and usage terms.
+
 ---
 
 ## 🧭 What You Can Contribute

@@ -7,6 +7,8 @@ This repository contains scripts, tools, and documentation to extract, translate
 
 > 🖤 *Made with heartache on Windows* — a Linux user’s sacrifice for compatibility.
 
+> 📄 See [DISCLAIMER.md](DISCLAIMER.md) for important legal and usage terms.
+
 ---
 
 ## 📦 Project Structure
@@ -20,8 +22,11 @@ This repository contains scripts, tools, and documentation to extract, translate
 | `gmd_repacked/`      | `.gmd` files repacked from the translated texts               |
 | `arc_repacked/`      | `.arc` files rebuilt with the repacked `.gmd`                 |
 | `romfs_final/`       | Final ROMFS with all translated content ready to inject       |
+| `scripts/`           | Auxiliary scripts                                             |
 | `tmp/`               | Temporary or intermediary files                               |
+| `tools/`             | Tools like extractors, editors, packers                       |
 | `logs/`              | Processing and debug logs from scripts                        |
+
 
 ---
 
@@ -33,11 +38,12 @@ This repository contains scripts, tools, and documentation to extract, translate
 - **Python 3.x** (mandatory)  
   Required for scripting GMD text extraction, processing, and batch automation
 
+- [ctrtool](https://github.com/3DSGuy/ctrtool) (mandatory)
+  Command-line tool to extract `romfs.bin` and other 3DS filesystem content.  
+  Used to unpack the dumped ROMFS from *Monster Hunter 3 Ultimate* into modifiable folders.
+
 - [`arc_extractor`](https://github.com/username/arc_extractor)  
   Tool for unpacking and repacking `.arc` files from the ROMFS
-
-- [Visual Studio Code](https://code.visualstudio.com/)  
-  Recommended text editor for translating `.txt` files
 
 - [GodMode9](https://github.com/d0k3/GodMode9)  
   To extract the ROMFS from a physical cartridge or CIA file on a real 3DS
@@ -45,6 +51,11 @@ This repository contains scripts, tools, and documentation to extract, translate
 - [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) *(optional)*  
   GUI tool that can help explore `.arc` and `.gmd` files during translation
 
+- [Visual Studio Code](https://code.visualstudio.com/) *(optional)*
+  Recommended text editor for translating `.txt` files
+
+- [Notepad++](https://notepad-plus-plus.org/) *(optional)*
+  Lightweight text editor useful for quick edits to `.txt` translation files.
 ---
 
 ## 🚀 How It Works
@@ -99,3 +110,4 @@ You must own a legal copy of *Monster Hunter 3 Ultimate* to use this pipeline.
 
 > You must own a legal copy of *Monster Hunter 3 Ultimate* to use this pipeline.  
 > This is a non-commercial fan project and is not affiliated with Capcom or Nintendo.
+

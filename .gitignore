@@ -5,7 +5,9 @@
 /arc_repacked/
 /romfs_final/
 /tmp/
+/tools/
 /logs/
+romfs.bin
 
 # Optional: ignore if working dirs are rebuilt each time
 #/gmd_texts/
