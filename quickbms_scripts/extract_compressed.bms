@@ -1,0 +1,8 @@
+# Extract and decompress GUI\font\icon\font_icon from ARC
+comtype zlib
+
+set FILE_OFFSET 0x0000bc75
+set FILE_SIZE   29990
+set FILE_NAME   "test.bin"
+
+clog FILE_NAME FILE_OFFSET FILE_SIZE 

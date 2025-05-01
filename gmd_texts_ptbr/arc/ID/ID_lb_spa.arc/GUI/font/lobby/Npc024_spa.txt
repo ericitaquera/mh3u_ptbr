@@ -1,0 +1,242 @@
+TMSG_NPC024_0
+--- BLOCK ---
+TMSG_NPC024_1
+--- BLOCK ---
+TMSG_NPC024_2
+--- BLOCK ---
+TMSG_NPC024_3
+--- BLOCK ---
+TMSG_NPC024_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+Miau? Ainda em missão! Se querer
+ir ao porto, precisa kyanseru antes
+da missão. "Kyanseru" é cancelar!
+--- BLOCK ---
+<SUBS 0>Neko com ciúmes do
+cabelo do Capitão, tenta fazer
+mesmo penteado! Fica ondulado...
+--- BLOCK ---
+Folha de Neko presente do capitão.
+Neko trabalhar no Argosy, mas aprender
+também Esgrima suja... Ña! Já! Ma!
+--- BLOCK ---
+<SUBS 0>Neko e capitão gostar
+de Moga, chamar de "Makaimura".
+Significa vila do oceano!
+--- BLOCK ---
+<SUBS 0>Barco não muito grande,
+honto, mas Neko usa para
+entregar artigos e material.
+--- BLOCK ---
+<SUBS 0>Você fez torihiki
+com o capitão da
+Argosy? "Torihiki" significa negócio!
+--- BLOCK ---
+Tanzia tem vários sabores. Tem Porto
+Multi, Porto Solo, Portos Amigos...
+--- BLOCK ---
+Lobo solitário como Neko preferir jogar no
+Porto Solo. Caçador com muitos amigos
+deve jogar no Porto Multi, miau.
+--- BLOCK ---
+<SUBS 0>Quando bravo caçador no
+porto, Neko te ajudar
+com a Fazenda. Promessa!
+--- BLOCK ---
+Saudações, caçador! Estar diante
+do melhor tripulante do
+capitão do Argosy.
+--- BLOCK ---
+Me chamam Tigre do Extremo Oriente, Neko.
+"Neko" significa tigre! Mais ou menos.
+--- BLOCK ---
+Neko realizar tarefas importantes como
+esfregar latrinas e levantar caixas.
+--- BLOCK ---
+Tarefas muuuito importantes. Juyo, juyo!
+--- BLOCK ---
+Tigre deve ter muitas
+listras, sabe? Miau então...
+--- BLOCK ---
+Já conhecer o capitão do Argosy?
+Ele e Neko ter mesma
+forma masculina de falar. Wakaru?
+--- BLOCK ---
+Também vestir mesmo estilo de roupa.
+Ele irradiar elegância de longe,
+como Tigre do Extremo Oriente.
+--- BLOCK ---
+Capitão do Argosy confiar a Neko
+ninmu especial aqui na Aldeia
+de Moga. "Ninmu" significa encargo!
+--- BLOCK ---
+Neko não ser quem cortar
+bacalhau, bens e artigos principais
+ainda depender do capitão.
+--- BLOCK ---
+Mas Neko ter ninmu igualmente importante.
+Neko encarregado de entregar artigos
+no Porto Tanzia! Juyo, juyo.
+--- BLOCK ---
+Estar diante do eixo
+da rede marinha Moga-Tanzia.
+Rede de importância vital!
+--- BLOCK ---
+Querer ir ao Porto Tanzia?
+Neko guardar assento confortável,
+levar você. Sem problema.
+--- BLOCK ---
+Nani? Preço de bilhete? Ma, ja,
+ja! Tigre do Extremo Oriente não
+enganar. Levar você de graça!
+--- BLOCK ---
+Talvez compartilhar sabedoria de tigre pelo
+caminho. Contar histórias assustadoras.
+Fazer fogueira... Umm, perigo incêndio...
+--- BLOCK ---
+Tonikaku! O que seja!
+--- BLOCK ---
+Tanzia na verdade três tipos de porto
+agrupados em hitotsu. "Hitotsu" é um.
+--- BLOCK ---
+Primeiro tipo é Porto Solo. Esse é para
+jogar sozinho; bem privado, como fechar a
+porta do banheiro do universo de caça.
+--- BLOCK ---
+Seguinte é Porto Multi. Usar para
+convidar amigos para jogar contigo. Dever
+ser bom naka, bom anfitrião.
+--- BLOCK ---
+Último é Portos Amigos: para visitar
+Portos Multi de amigos, destruir tudo
+e ficar bobo no dia seguinte.
+--- BLOCK ---
+Wakaru? Para ter mundo como Neko,
+você deve usar todos portos a
+fundo. De wa! Nós zarpar já?
+--- BLOCK ---
+Como vai você, caçador? Ouvir
+notícias do Fazendeiro chefe?
+--- BLOCK ---
+Eles começar a cultivar de novo na
+Fazenda! Agora você pode brincar na
+lama, sujar as mãos... muito emocionante.
+--- BLOCK ---
+Mas há pequeno mondai, problema. Como
+você visitar a Fazenda se estar
+o tempo todo no Porto Tanzia?
+--- BLOCK ---
+Não temer, miau! Neko ir à Fazenda
+em nome do caçador, trazer qualquer
+coisa que você precisar em segundos.
+--- BLOCK ---
+Fazendeiro chefe velho amigo de mentor
+de Neko. Quase família. Sua agricultura
+estar em boas mãos! Anzen!
+--- BLOCK ---
+Saudações, caçador! Goran! Finalmente!
+Capitão do Argosy
+chegou a Moga.
+--- BLOCK ---
+Capitão muito especial para Neko. Ele
+ser como mentor e patrão e
+consultor de moda tudo em um.
+--- BLOCK ---
+Conhecido como deus dos negócios no grande
+oceano de comércio. "Koeki" significa
+comércio! Deveria conhecê-lo. Zehi!
+--- BLOCK ---
+Como vai você, caçador? Melhor
+que Moga, sim? Kuso chegar
+ao ventilador proverbial, honto.
+--- BLOCK ---
+Mas Tigre do Extremo Oriente nunca fugir!
+Neko ainda levar você ao Porto Tanzia,
+ajudar com a Fazenda e ter estilo.
+--- BLOCK ---
+Se precisar de ajuda de Neko,
+só dizer hitokoto. "Hitokoto" é palavra!
+--- BLOCK ---
+Saudações e parabéns, caçador! Graças a
+você, Neko poder ir ao porto
+agora sem medo de desaparecer felino.
+--- BLOCK ---
+Você agora como herói. Salvar aldeia!
+Capitão do Argosy contar a todo
+o mundo suas proezas, suas katsuyaku!
+--- BLOCK ---
+Em breve todos falar de valente duo
+do Tigre do Extremo Oriente e Herói
+do Meio Oeste (Esse ser você).
+--- BLOCK ---
+Saudações, caçador! Ouvir? Monstro
+atacar amigo do
+capitão do Argosy.
+--- BLOCK ---
+Capitão forte, melhor de todos Esgrimistas.
+Se ele pronto para deixá-lo... Talvez
+este ser oshimai para Neko.
+--- BLOCK ---
+Nani? Ah... "Oshimai"
+significa grande chungo.
+--- BLOCK ---
+Domo! Saudações, caçador! Como se
+sentir por transformar Lagiacrus marmóreo
+em saco de ossos marmóreo?
+--- BLOCK ---
+Você é um pedaço de yaro,
+honto! "Yaro" significa... tanto faz.
+--- BLOCK ---
+Miau! Querer aprender Esgrima suja, como
+capitão do Argosy? Você poder ser
+o mais sujo! Muito fácil aprender.
+--- BLOCK ---
+Só lutar nu na lama com
+Arzuros com mãos amarradas nas costas.
+Como andar de bicicleta: nunca esquecer.
+--- BLOCK ---
+Nani? Neko dizer
+algo errado?
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Como vai você, caçador?
+--- BLOCK ---
+Domo! Saudações, caçador!
+--- BLOCK ---
+Procurar o melhor do Argosy?
+--- BLOCK ---
+De wa! Mais forte e avante!
+--- BLOCK ---
+Pronto para shukko! "Shukko" é zarpar.
+--- BLOCK ---
+De wa! Bon voyage, miau!
+--- BLOCK ---
+Em breve todo mundo a meus pés...
+--- BLOCK ---
+Até breve, mata.
+--- BLOCK ---
+Nós zarpar, miau!
+--- BLOCK ---
+Você falar e Neko ajudar você!
+--- BLOCK ---
+Miau! Que grande ideia?
+--- BLOCK ---
+Para onde, miau?
+--- BLOCK ---
+Não temer, Tigre do Extremo Oriente aqui!
+--- BLOCK ---
+Neko sempre muito ocupado. Taihen...
+--- BLOCK ---
+Confiar em Neko. "Neko" é tigre!
+--- BLOCK ---

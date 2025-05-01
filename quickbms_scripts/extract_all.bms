@@ -1,0 +1,94 @@
+# Monster Hunter 3U ARC – Extract All Files with Auto-Decompression
+set FILE_TABLE_START 0x000C
+set FILE_TABLE_END   0x7FFC
+comtype zlib
+
+set FOUND_UNCOMPRESSED 0
+
+goto FILE_TABLE_START
+
+for
+    savepos ENTRY_POS
+    if ENTRY_POS >= FILE_TABLE_END
+        break
+    endif
+
+    # Read filepath
+    getdstring FILEPATH 0x40
+    string FILEPATH -= "\x00"
+
+    # Read UNK1 (used for extension guessing)
+    math UNK1_POS = ENTRY_POS
+    math UNK1_POS += 0x40
+    goto UNK1_POS
+    get UNK1 long
+
+    # Read SIZE (uncompressed size)
+    math SIZE_POS = ENTRY_POS
+    math SIZE_POS += 0x44
+    goto SIZE_POS
+    get SIZE long
+
+    # Read FLAGS (compression flags)
+    math FLAGS_POS = ENTRY_POS
+    math FLAGS_POS += 0x48
+    goto FLAGS_POS
+    get FLAGS long
+
+    # Derive ZSIZE by stripping high byte from FLAGS
+    math ZSIZE = FLAGS
+    math ZSIZE -= 0x40000000
+
+    # Read OFFSET
+    math OFFSET_POS = ENTRY_POS
+    math OFFSET_POS += 0x4C
+    goto OFFSET_POS
+    get OFFSET long
+
+    if OFFSET == 0
+        break
+    endif
+
+    # Extension from known hashes (UNK1 values)
+    set EXT "bin"
+    if UNK1 == 0x241F5DEB
+        set EXT "tex"
+    elif UNK1 == 0x242BB29A
+        set EXT "gmd"
+    elif UNK1 == 0x07F768AF
+        set EXT "gii"
+    elif UNK1 == 0x2D462600
+        set EXT "gfd"
+    elif UNK1 == 0x22948394
+        set EXT "gui"
+    elif UNK1 == 0x0AAF2DB2
+        set EXT "xfs"
+    endif
+
+    # Append extension to output filename
+    set OUTFILE FILEPATH
+    string OUTFILE += "."
+    string OUTFILE += EXT
+
+    #print "%OFFSET|08X%\t%SIZE%\t%UNK1|08X%\t%FLAGS|08X%\t.%EXT%\t%OUTFILE%"
+
+    # Print status message
+    if EXT != "bin"
+        print "Extracting %OUTFILE%"
+    else
+        print "!!!!!!!!! %OUTFILE% Unknown file type !!!!!!!!"
+    endif
+
+    # Check if compressed (bit 0 or 1)
+    math COMPRESSED = FLAGS
+    math COMPRESSED &= 0x3
+
+    if COMPRESSED != 0
+        clog OUTFILE OFFSET SIZE ZSIZE
+    else
+        log OUTFILE OFFSET SIZE
+    endif
+
+    math ENTRY_POS += 0x50
+    goto ENTRY_POS
+next

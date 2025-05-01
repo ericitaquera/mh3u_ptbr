@@ -8,6 +8,7 @@
 /tools/
 /logs/
 romfs.bin
+*.header
 
 # Optional: ignore if working dirs are rebuilt each time
 #/gmd_texts/

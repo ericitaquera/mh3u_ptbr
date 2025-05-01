@@ -9,7 +9,7 @@ Write-Host "TOOLS_DIR set to $env:TOOLS_DIR`n"
 # === Define and create project folders ===
 $folders = @{
     ROMFS_DIR        = "$env:BASE_DIR\romfs_extracted"
-    ARC_DIR          = "$env:BASE_DIR\arc"
+    ARC_EXTRACTED    = "$env:BASE_DIR\arc_extracted"
     GMD_TXT_DIR      = "$env:BASE_DIR\gmd_texts"
     GMD_TXT_PTBR_DIR = "$env:BASE_DIR\gmd_texts_ptbr"
     GMD_REPACKED_DIR = "$env:BASE_DIR\gmd_repacked"
@@ -18,7 +18,9 @@ $folders = @{
     SCRIPTS          = "$env:BASE_DIR\scripts"
     TMP_DIR          = "$env:BASE_DIR\tmp"
     LOG_DIR          = "$env:BASE_DIR\logs"
-    TOOLS_DIR        = "$env:TOOLS_DIR"
+    TOOLS_DIR        = "$env:BASE_DIR\tools"
+    QUICKBMS_SCRIPTS_DIR        = "$env:BASE_DIR\quickbms_scripts"
+    PROMPTS_GPT        = "$env:BASE_DIR\prompts_gpt"
 
 }
 

@@ -1,0 +1,7 @@
+# Extract from ARC
+
+set FILE_OFFSET 0x0000bc75
+set FILE_SIZE   29990
+set FILE_NAME   ".\test.bin""
+
+log FILE_NAME FILE_OFFSET FILE_SIZE FILE_OFFSET
