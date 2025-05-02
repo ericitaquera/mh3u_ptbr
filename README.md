@@ -42,9 +42,6 @@ This repository contains scripts, tools, and documentation to extract, translate
   Command-line tool to extract `romfs.bin` and other 3DS filesystem content.  
   Used to unpack the dumped ROMFS from *Monster Hunter 3 Ultimate* into modifiable folders.
 
-- [`arc_extractor`](https://github.com/username/arc_extractor)  
-  Tool for unpacking and repacking `.arc` files from the ROMFS
-
 - [GodMode9](https://github.com/d0k3/GodMode9)  
   To extract the ROMFS from a physical cartridge or CIA file on a real 3DS
 
@@ -56,14 +53,18 @@ This repository contains scripts, tools, and documentation to extract, translate
 
 - [Notepad++](https://notepad-plus-plus.org/) *(optional)*
   Lightweight text editor useful for quick edits to `.txt` translation files.
+
+- [HxD](https://mh-nexus.de/en/hxd/) *(optional)*  
+  Powerful hex editor useful for inspecting and modifying binary `.arc` and compressed files at the byte level.
+  
 ---
 
 ## 🚀 How It Works
 
 1. **Extract** the ROMFS using GodMode9
-2. **Unpack** `.arc` containers using `arc_extractor`
+2. **Unpack** `.arc` containers using using Python scripts
 3. **Extract and convert** `.gmd` files to `.txt` using Python scripts
-4. **Translate** the `.txt` files manually (VSCode recommended)
+4. **Translate** the `.txt` files manually or using an IA.
 5. **Repack** translated `.txt` into `.gmd`, then back into `.arc`
 6. **Rebuild** the ROMFS and test your changes in Citra or on a real console
 
@@ -97,9 +98,9 @@ You must own a legal copy of *Monster Hunter 3 Ultimate* to use this pipeline.
 ## 💬 Credits
 
 - **Project Lead:** [@ericitaquera](https://github.com/ericitaquera)  
-- **Tools Used:** arc_extractor, Python 3, GodMode9, Visual Studio Code  
+- **Tools Used:** Python 3, GodMode9, Visual Studio Code, Notepad++, HxD Hex Editor, Citra Emulator.
 - **Special Thanks:** 🙌 
-  To everyone who contributed — knowingly or not — to the ROM hacking and fan translation scene:  co
+  To everyone who contributed — knowingly or not — to the ROM hacking and fan translation scene:
   toolmakers, reverse engineers, tutorial writers, testers, and community sharers.  
   *"If I have seen further, it is by standing on the shoulders of giants."* — Isaac Newton   
 

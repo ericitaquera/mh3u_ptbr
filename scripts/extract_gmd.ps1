@@ -20,7 +20,7 @@ if ($Help) {
 }
 
 # Define output filenames
-$relativePath = $SourceFile.Substring($env:ARC_EXTRACTED.Length).TrimStart('\')
+$relativePath = $SourceFile.Substring($env:ARC_EXTRACTED_DIR.Length).TrimStart('\')
 $baseName = [System.IO.Path]::GetFileNameWithoutExtension($SourceFile)
 
 $targetDir = Join-Path $env:GMD_TXT_DIR ([System.IO.Path]::GetDirectoryName($relativePath))

@@ -11,7 +11,14 @@ if (-not $env:GMD_REPACKED_DIR) {
     exit 1
 }
 
+# Check input file
+if (!(Test-Path $InputFile)) {
+    Write-Host "Error: Cannot find path '$InputFile'"
+    exit 1
+}
+
 $relativePath = $InputFile.Substring($env:GMD_TXT_PTBR_DIR.Length).TrimStart('\')
+Write-Host "relativePath: $RelativePath"
 $baseName = [System.IO.Path]::GetFileNameWithoutExtension($InputFile)
 $targetDir = Join-Path $env:GMD_REPACKED_DIR ([System.IO.Path]::GetDirectoryName($relativePath))
 if (-not (Test-Path $targetDir)) {
@@ -20,6 +27,7 @@ if (-not (Test-Path $targetDir)) {
 
 $headerRelativePath = $InputFile.Substring($env:GMD_TXT_PTBR.Length).TrimStart('\')
 $HeaderFile = Join-Path $env:GMD_TXT_DIR ($RelativePath -replace '\.txt$', '.header')
+
 
 $OutputGmd = Join-Path $targetDir ($baseName + ".gmd")
 
