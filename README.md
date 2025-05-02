@@ -26,6 +26,7 @@ This repository contains scripts, tools, and documentation to extract, translate
 | `tmp/`               | Temporary or intermediary files                               |
 | `tools/`             | Tools like extractors, editors, packers                       |
 | `logs/`              | Processing and debug logs from scripts                        |
+| `images/`            | Edited image textures edited                                  |
 
 
 ---
