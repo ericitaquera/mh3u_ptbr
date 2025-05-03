@@ -1,0 +1,384 @@
+﻿TMSG_NPC014_0
+--- BLOCK ---
+TMSG_NPC014_1
+--- BLOCK ---
+TMSG_NPC014_2
+--- BLOCK ---
+TMSG_NPC014_3
+--- BLOCK ---
+TMSG_NPC014_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+<SUBS 0>
+Puedes cancelar las conversaciones
+cuando la gente charla. ¿Lo sabías?
+--- BLOCK ---
+Cuando estés hablando con alguien,
+¡pulsa el mismo botón que usas para
+cancelar cosas!
+--- BLOCK ---
+Así, puedes saltarte las conversaciones
+aburridas con personas a las que no
+quieres escuchar. ¡Es superútil!
+--- BLOCK ---
+Pero ten cuidado. Hay cosas que luego no
+las podrás volver a escuchar, así que, si
+las cancelas, DESAPARECERÁN.
+--- BLOCK ---
+Dirás: "¡Oh, no! ¿Por qué le di a
+cancelar? ¡No podré volver a escuchar
+eso de nuevo! ¡Bua, bua!".
+--- BLOCK ---
+Ah, y también: hay cosas que no podrás
+cancelar, como información de la aldea
+importante y los sermones de tu madre...
+--- BLOCK ---
+<SUBS 0>
+¿Has visto ese bonito bra... bra...
+ese fuego, que arde fuera de la aldea?
+--- BLOCK ---
+Échale un vistazo. Encontrarás algo
+superchulo, ¡lo juro!
+--- BLOCK ---
+Pero no se lo cuentes al Jefe, ¿vale?
+¡Prométemelo!
+--- BLOCK ---
+Si los mayores se enteran de que estaba
+jugando con fuego, ¡me la voy a cargar!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Has visto esos molinos que hay por
+todas partes? Son para el arroz.
+--- BLOCK ---
+¿No sabes lo que significa moler?
+--- BLOCK ---
+¡Ja, ja! ¡Un cazador como tú no sabe
+una cosa tan fácil!
+--- BLOCK ---
+Moler es algo así como... llevar cosas
+de un lado a otro. Como: "voy a moler
+este pescado a la Pesquería".
+--- BLOCK ---
+Así que cuando los molinos muelen
+el arroz, lo llevan a alguna parte...
+¿Y tú adónde crees que se lo llevan?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+El jefe siempre nos da la lata con lo
+de que te ayudemos.
+--- BLOCK ---
+Supongo que debo echar una mano. ¡Vale!
+Solo por una vez, voy a contarte un
+secreto sobre el Bosque de Moga.
+--- BLOCK ---
+Ya sabes que hay una cueva en la Granja
+que lleva al Bosque de Moga, ¿no? Vamos,
+¡eso sí que lo tienes que saber ya!
+--- BLOCK ---
+Pues resulta que hay mogollón de
+pasadizos secretos como ese... ¡Explora
+el bosque mucho más y los verás!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Oye, ¿te he contado ya los detalles
+de mis Notas de chico "jenio"?
+--- BLOCK ---
+¡Puedo abrir mi menú del juego siempre
+que quiera y averiguar todo lo que
+quiera sobre mi vida!
+--- BLOCK ---
+Si se me olvida algo, solo tengo que
+mirar en mis Notas de chico "jenio"
+para acordarme. ¿A que mola?
+--- BLOCK ---
+Esa idea es mía, ¿vale?
+¡Así que no se te ocurra copiarla y
+crear tus propias Notas de cazador!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Conoces las Herramientas trampa? Hacen
+trampas para cazar monstruos.
+--- BLOCK ---
+Combinar una Herramienta trampa con
+un Bicho eléctrico ¡crea una Trampa
+choque!
+--- BLOCK ---
+Para hacer una Trampa escollo, ¡usa una
+Red en lugar de un Bicho eléctrico!
+--- BLOCK ---
+Pero las trampas no funcionan con todos
+los monstruos, así que ten cuidado. Los
+monstruos pueden ser bastante listos.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Quieres capturar un monstruo? ¡Combina
+Hiedra con Telaraña para hacer una Red!
+--- BLOCK ---
+Luego usa la Red para crear una Trampa
+escollo. ¡DESPUÉS, pon la trampa en
+un lugar donde caiga un monstruo enorme!
+--- BLOCK ---
+Cuando caiga, usa bombas para
+acorralarlo. Yo podría coger un monstruo
+si mamá me dejara jugar con bombas.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Te lo he contado ya? Una vez me topé
+con un monstruo enorme.
+--- BLOCK ---
+Estaba intentando escaparme de él,
+¡y empecé a correr de una manera muy
+graciosa! ¡Ja, ja!
+--- BLOCK ---
+También intenté... ¿cómo se dice?,
+evadir y, de repente, ¡salí volando por
+los aires como un tirachinas! ¡Guau!
+--- BLOCK ---
+¿Sabes lo que he oído? Que cuando estás
+haciendo uno de esos saltos enormes,
+¡el monstruo no puede hacerte daño!
+--- BLOCK ---
+Creo que los mayores lo llaman ser
+invulna... vulnera... Ay, se me olvida.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que la Tundra se mantiene fría
+siempre? ¡Eso dice el jefe!
+--- BLOCK ---
+Seguro que si te la comes demasiado
+rápido, te dará dentera.
+¡Tundra! Guau, ¿qué sabor tendrá?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Mi hermano asegura que hay un duende en
+el Bosque de Moga. ¡Qué cuentista!
+--- BLOCK ---
+¡Los duendecillos no existen!
+¡Mi hermano es muy rarito!
+--- BLOCK ---
+Le dije que era rarito y entonces
+se puso a llorar. ¡Y me regañaron
+a mí! ¡Agh, es insoportable!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¡Oh! ¿Has oído alguna vez el rugido
+poderoso de un gran monstruo? ¡Rarr!
+--- BLOCK ---
+¡He oído que es tan potente que hasta
+los cazadores fuertes tienen que parar
+para taparse los oídos!
+--- BLOCK ---
+¡Mamá dice que es tan fuerte que
+te puede agujerear las orejas!
+--- BLOCK ---
+¡Pero las mías ya tienen agujeros! Así
+que no me pasará nada.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Cuando tuvimos aquel terremoto enorme,
+me hice un corte en la frente.
+--- BLOCK ---
+Mi casa temblaba a lo loco y una gran
+cazuela empezó a caerse de la estantería
+¡e iba a caer sobre mi hermano!
+--- BLOCK ---
+Estaba allí SENTADO con cara de lelo,
+así que hice lo correcto: ¡salté allí
+y le di una patada para apartarlo!
+--- BLOCK ---
+¿A que soy genial? Mi hermano es
+un llorica, pero mamá dice que tiene
+cerebro.
+--- BLOCK ---
+¿Y si me lo tuviera que prestar un día?
+Por eso no quiero que se haga daño.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Crees que hay vida allá arriba
+en la Luna?
+--- BLOCK ---
+¿No tienen los cazadores zepelines
+gigantes que usan para volar muy lejos?
+--- BLOCK ---
+¿Y por qué no a la Luna? Me cuesta creer
+que sea la primera persona en pensarlo.
+<SUBS 1>
+--- BLOCK ---
+¡Ja, ja, ja, ja!
+¡Sí que vistes raro para ser cazador!
+--- BLOCK ---
+Eh, buscas al hijo del Jefe, ¿verdad?
+Es un tipo majo, pero, cuando se
+enfada, ¡hay que tener cuidado!
+--- BLOCK ---
+Probablemente estará en el centro
+de la aldea, al lado de las reservas.
+Si no, habrá ido al Bosque de Moga.
+--- BLOCK ---
+¡Es un lugar estupendo para encontrar
+Recursos! ¡Todo el mundo lo sabe!
+--- BLOCK ---
+Sí, recoger Recursos en el Bosque de
+Moga es el primer paso para ser alguien
+en esta aldea. Eso dice el Jefe.
+--- BLOCK ---
+<SUBS 0>
+Oye, ¿viste al Hijo del Jefe?
+--- BLOCK ---
+Si no está aquí, ve a mirar al Bosque
+de Moga. El puente que hay al final
+de la aldea te llevará hasta allí.
+--- BLOCK ---
+Pero, si vas a salir, ¡ten cuidado con
+los monstruos! ¡No querrás que te devore
+un carnivorón!
+--- BLOCK ---
+¿No sabes lo que son los carnivorones?
+¡Creía que eras un cazador! Vaya.
+--- BLOCK ---
+Los carnivorones son monstruos que comen
+filetes y los herbivorones comen papel.
+--- BLOCK ---
+¡Mi hermano pequeño y yo estamos
+haciendo una competición de pesca!
+--- BLOCK ---
+¡El primero en atrapar un Pez dorado
+legendario gana!
+--- BLOCK ---
+Solo tengo que mezclar mi cebo de
+luciérnaga con mmm... algo, ¡y tendré
+el mejor cebo de todos!
+--- BLOCK ---
+Oye, tengo demasiadas Megamoscas de
+pesca. ¿Quieres alguna? ¡Toma!
+--- BLOCK ---
+<SUBS 0>
+¡Bien, ha vuelto la Flota de pesca!
+¡Yupii!
+--- BLOCK ---
+El capitán dijo que lograron escapar
+por los pelos de las orejas.
+--- BLOCK ---
+¡Guau, no sabía que se podía tener pelo
+en las orejas! ¡Vaya tipos más raros!
+--- BLOCK ---
+<SUBS 0>
+¿Conoces las Herramientas trampa? Hacen
+trampas para cazar monstruos.
+--- BLOCK ---
+He oído que se puede, mmm... combinar
+Herramientas trampa con cosas para hacer
+Trampas escollo y Trampas choque.
+--- BLOCK ---
+Pero mamá ha dicho que no puedo jugar
+con ellas porque son "muy peligrosas".
+Jopé, nunca me deja divertirme.
+--- BLOCK ---
+<SUBS 0>
+No creas que con pegar a un monstruo en
+la cabeza ya está todo hecho.
+--- BLOCK ---
+¡Algunos monstruos tienen cabezas muy
+duras! ¡Mamá dice que yo también!
+--- BLOCK ---
+¡Si quieres liquidar monstruos, tienes
+que saber darles donde duele!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿De verdad el Lagiacrus es tan fuerte?
+A ver, ¿cuánto? ¿Más fuerte que yo?
+--- BLOCK ---
+Si quieres derrotar a alguien realmente
+fuerte, ¡trae muchas pociones! Claro que
+en una bolsa solo caben 10 Megapociones.
+--- BLOCK ---
+¡Pero puedes traer Miel y Pociones
+normales para combinarlas cuando
+estés por ahí fuera!
+--- BLOCK ---
+¿No es genial? ¡Mi hermano pequeño
+lo averiguó! Es feo, pero bastante
+listo.
+--- BLOCK ---
+La verdad es que, antes de que se fuera
+el enano, intenté quitarle la máscara
+mientras dormía para verle la cara.
+--- BLOCK ---
+Pero se despertó, ¡y cómo se puso!
+--- BLOCK ---
+Pensé que a lo mejor se había ido porque
+intenté invadir su intimidad o algo así.
+Me sentí muy, muy culpable.
+--- BLOCK ---
+¡Pero ha vuelto! ¡Eso significa que
+no fue por mi culpa! ¡Uf!
+¡Conciencia tranquila!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Siempre supe que era un tipo de enano
+diferente. ¡Lo sabía! ¡Desde el principio!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Vaya! ¡Eres impresionante!
+--- BLOCK ---
+Eso dice mi hermano menor, aunque él no
+sabe una palabra de ser impresionante...
+¡Pero todos los demás también lo dicen!
+--- BLOCK ---
+Pero se equivocan. No eres solo
+impresionante, ¡eres alucinante! ¡Ja!
+--- BLOCK ---
+¡Ja, ja, ja, ja!
+--- BLOCK ---
+¡Yujuuuuuu!
+--- BLOCK ---
+¡Eh, es el cazador!
+--- BLOCK ---
+Hola, ¿cómo estás? ¡Yo estoy genial!
+--- BLOCK ---
+¡Me pica la nariz! Ah, hola.
+--- BLOCK ---
+¡Eh, escucha esto!
+--- BLOCK ---
+¡Ah! ¡Me acabo de acordar!
+--- BLOCK ---
+¡Agh, qué calor hace hoy!
+--- BLOCK ---
+Tengo sueño, pero ya ha salido el sol.
+--- BLOCK ---
+¡Hasta luego!
+--- BLOCK ---
+Vale, adiós.
+--- BLOCK ---
+¡Ven a verme si quieres saber más cosas!
+--- BLOCK ---
+¡Adiós!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

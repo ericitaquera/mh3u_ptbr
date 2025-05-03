@@ -1,0 +1,1507 @@
+﻿﻿TMSG_NPC004_0
+--- BLOCK ---
+TMSG_NPC004_1
+--- BLOCK ---
+TMSG_NPC004_2
+--- BLOCK ---
+TMSG_NPC004_3
+--- BLOCK ---
+TMSG_NPC004_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+Ah, obrigado, caçador! Nunca imaginei
+que reuniria os Recursos para
+consertar o acampamento tão rápido!
+--- BLOCK ---
+Acho que meu pai estava certo:
+os caçadores são incríveis. Nós
+vamos cuidar dos reparos agora.
+--- BLOCK ---
+Nossa vida na aldeia está ligada aos
+Recursos. Vou calcular os Recursos de
+tudo que você caçar na floresta.
+--- BLOCK ---
+Às vezes encontro Itens
+valiosos quando estou
+inventariando seus saques.
+--- BLOCK ---
+Acredite: se encontrarmos algum
+Item, farei questão de
+fazer chegar até você.
+--- BLOCK ---
+Continue mostrando a esses carnívoros
+quem manda e terá muitos
+Recursos e Itens no futuro.
+--- BLOCK ---
+Lembre-se de informar suas presas depois
+de caçar na floresta. Sou eu
+quem faz o registro de tudo!
+--- BLOCK ---
+Ah, mais uma coisa: o Artesão Wyveriano
+estava te procurando. Ouvi dizer que ele
+quer falar contigo sobre melhorar armas.
+--- BLOCK ---
+Vá vê-lo em sua bigorna, certo?
+Os artesãos mais velhos como ele
+merecem seu respeito. Obrigado, caçador.
+--- BLOCK ---
+Você é um dos bons, caçador.
+Este material é de primeira!
+--- BLOCK ---
+Com isso podemos construir um
+acampamento base capaz de
+resistir a qualquer catástrofe!
+--- BLOCK ---
+A última coisa que quero é que um monstro 
+destrua este lugar novamente. Você faça o
+seu trabalho, caçador, que eu farei o meu.
+--- BLOCK ---
+Nunca me senti tão animado com o trabalho.
+Só espero que o dragão marinho continue 
+longe enquanto trabalhamos!
+--- BLOCK ---
+Ótimo. Vamos sair assim
+que tudo estiver preparado!
+--- BLOCK ---
+<SUBS 0> Quem me dera
+poder te mostrar o
+Clima de Moga, caçador.
+--- BLOCK ---
+Mas não consigo obter essa informação até
+que a floresta se acalme um pouco.
+--- BLOCK ---
+<SUBS 0> Quando vir um ícone
+com ? sobre sua cabeça, você
+está em uma área de coleta.
+--- BLOCK ---
+Pressione o botão e coletará materiais.
+Use-os para fabricar equipamentos, combinar
+objetos... O que você quiser!
+--- BLOCK ---
+<SUBS 0> Os Jaggi temem
+o fogo. Os aldeões sempre
+levam tochas para a floresta.
+--- BLOCK ---
+Se quiser fazer os Jaggi correrem,
+pegue uma Tocha debaixo do braseiro
+logo ao sair da vila.
+--- BLOCK ---
+As tochas que estão debaixo
+do braseiro lá fora são
+para os aldeões, mas...
+--- BLOCK ---
+É muito perigoso trazê-las para a
+aldeia. Você quer colocar fogo nela?
+Só precisa lembrar onde as deixou.
+--- BLOCK ---
+Esses Bnahabra zumbidores
+são irritantes.
+--- BLOCK ---
+Sabia que eles são atraídos
+pelas chamas? Acenda uma Tocha
+e poderá esmagá-los facilmente.
+--- BLOCK ---
+Às vezes, é bom
+apenas dar uma volta
+pela floresta, sabe?
+--- BLOCK ---
+A Floresta de Moga é linda e o ar é muito
+puro. Faça um passeio e vá coletando.
+Isso será útil em caçadas futuras.
+--- BLOCK ---
+Enquanto estiver na floresta,
+o tempo na aldeia
+avançará meio dia.
+--- BLOCK ---
+Não pode sair e voltar diretamente.
+Deve caçar por pelo menos dois
+minutos para que o tempo passe.
+--- BLOCK ---
+Já viu alguma
+vez um ponto
+brilhante na floresta?
+--- BLOCK ---
+É um sinal certo de que há
+um item valioso sob o solo. Cave
+para extrair e traga para a cidade!
+--- BLOCK ---
+Os monstros se comportam
+de maneiras muito diferentes.
+Por exemplo, o Aptonoth...
+--- BLOCK ---
+Alguns fogem ao serem atacados.
+Outros protegem seus filhotes. Eles
+têm personalidades distintas. É fascinante.
+--- BLOCK ---
+Você encontrará os objetos
+que os monstros comem
+espalhados pelos campos.
+--- BLOCK ---
+Como carniça ou restos de
+outros monstros. Você encontrará essas
+coisas passeando pela floresta.
+--- BLOCK ---
+Os monstros grandes procuram comida para
+recuperar sua Resistência quando estão
+exaustos. Dica: evite que comam.
+--- BLOCK ---
+Se tiver sorte,
+poderá encontrar itens
+na floresta.
+--- BLOCK ---
+Como Peças de osso de
+dragão e Peças de Abalone...
+Sim, esses sim são itens.
+--- BLOCK ---
+São difíceis de encontrar, mas
+valem muitos Recursos. Quando estiver
+na cidade, selecione Gerar recursos.
+--- BLOCK ---
+Se pensar bem, a
+floresta é como uma
+criatura gigante viva...
+--- BLOCK ---
+Às vezes está calma e outras vezes está
+irritadiça. A floresta tem muitos estados.
+Vou prever da melhor maneira possível.
+--- BLOCK ---
+A previsão do tempo serve para caçadas
+que não são do Gremio. As missões
+do Gremio têm seus horários e ambientes.
+--- BLOCK ---
+Uma vez me deparei com
+um Lagiacrus, quando estava em
+um barco no mar...
+--- BLOCK ---
+Você é especial, caçador, por ir atrás
+dessa coisa. Você é incrivelmente
+corajoso ou incrivelmente inconsciente.
+--- BLOCK ---
+Até o Lagiacrus tem seus limites. Quando
+ele fica furioso, se cansa e vai
+para a costa. É sua chance!
+--- BLOCK ---
+Oi, caçador. Obrigado pela carne! Eu fico
+tonta se não como a cada par de horas.
+*Arroto* Você e eu vamos nos dar bem...
+--- BLOCK ---
+Bem, já terminei de descobrir
+quais materiais precisaremos para
+consertar o acampamento base.
+--- BLOCK ---
+Devemos cavar novos banheiros e tampar
+os antigos, reconstruir a tenda e
+remover pulgas. Precisamos de Recursos.
+--- BLOCK ---
+Sabe o que são? Você pode aumentar nossos
+Recursos caçando monstros na Floresta
+de Moga ou procurando objetos.
+--- BLOCK ---
+Os aldeões não podem se aventurar
+muito na floresta. Os monstros
+gostam... do nosso sabor. Haha.
+--- BLOCK ---
+Mas um caçador como você poderia
+percorrer facilmente toda a floresta.
+E voltaria carregado de Recursos!
+--- BLOCK ---
+Não se preocupe, nós arrumamos os caminhos
+que se estragaram com o terremoto. Pegue
+Recursos na floresta, beleza?
+--- BLOCK ---
+Mas não ande por aí de noite. As coisas que
+você não vê podem te machucar na floresta.
+É melhor caçar de dia.
+--- BLOCK ---
+Ah, quase me esqueci,
+tenho algo para você.
+--- BLOCK ---
+Pega esta Churrasqueira. Eu que fiz! Use
+para assar a Carne crua cortada. Nada
+melhor do que cozinhar ao ar livre.
+--- BLOCK ---
+É muito fácil de usar. Vou te
+dar algumas dicas para a churrasqueira da
+próxima vez que estiver na floresta.
+--- BLOCK ---
+Ah, e vá levar um relatório para
+o meu pai, beleza? Ele adora relatórios.
+--- BLOCK ---
+<SUBS 0> Como está indo o
+jogo de coletar Recursos? Venha me
+ver quando tiver o suficiente.
+--- BLOCK ---
+É assim que se entregam.
+Primeiro, transforme suas presas em
+Recursos selecionando Relatório de caça.
+--- BLOCK ---
+Depois, selecione Pedidos pob. e
+você poderá dedicar os Recursos
+às necessidades da aldeia.
+--- BLOCK ---
+Os aldeões podem fazer outras
+solicitações no futuro. Você também
+usará Pedidos pob. para consultá-las.
+--- BLOCK ---
+O Artesão wyverniano estava
+te procurando. Disse algo
+sobre melhorias de armas...
+--- BLOCK ---
+Vá vê-lo em sua bigorna, ok?
+Os artesãos mais velhos como ele
+merecem seu respeito. Obrigado, caçador.
+--- BLOCK ---
+Quer mineral? Que legal! Eu
+quase me machuquei procurando mineral
+para ele um dia.
+--- BLOCK ---
+Siga os conselhos de Juni... digo, meus
+conselhos. Primeiro, sempre leve um Pico,
+porque não dá para picar com as mãos.
+--- BLOCK ---
+Em cavernas e áreas rochosas, explore
+ao redor. Olhe bem e você
+notará pedaços de cores diferentes.
+--- BLOCK ---
+Se o ícone de um Pico aparecer sobre sua
+cabeça quando se aproximar, bingo!
+Aperte o botão para usar seu Pico.
+--- BLOCK ---
+Quando extrair Minério de ferro, leve-o
+para a loja de artesanato. Novamente, em
+Missões sub. no menu do jogo.
+--- BLOCK ---
+Oi. Ouvi dizer que você foi
+ver o artesão na Ferraria.
+Você agradou a ele, né?
+--- BLOCK ---
+Haha! Você é mesmo especial! Aquele velho
+rabugento filho de Armeiro geralmente é
+bem relutante em aceitar gente nova.
+--- BLOCK ---
+Enquanto você fazia amigos, nós estávamos
+trabalhando duro. A reparação da base
+do acampamento está indo bem.
+--- BLOCK ---
+Ah, mais uma coisa: o fazendeiro chefe
+estava te procurando. Já o conheceu?
+--- BLOCK ---
+É outro velho camarada que você vai querer
+ver. A entrada para a fazenda está
+descendo à direita da ponte na floresta.
+--- BLOCK ---
+Ei, caçador! Ouvi dizer que está indo
+para o mar. E se o
+velho Junior te ensinar a nadar?
+--- BLOCK ---
+Nade na mesma direção para a qual está
+olhando e, quando seu indicador de oxigênio
+baixar, procure fornecimento de ar.
+--- BLOCK ---
+Lembre-se dessas três coisas e
+nunca dormirá com os peixes.
+--- BLOCK ---
+Ouvi dizer que está indo para
+o mar. Que tal se antes
+tivermos algumas aulas de natação?
+--- BLOCK ---
+Nade na mesma direção para a qual está
+olhando e, quando seu indicador de oxigênio
+baixar, procure fornecimento de ar.
+--- BLOCK ---
+Lembre-se dessas três coisas e
+nunca dormirá com os peixes.
+--- BLOCK ---
+Bom trabalho caçando Molidos. Você nada
+como se tivesse guelras, mas
+não esqueça o que aprendeu...
+--- BLOCK ---
+Ah, quase me esqueci. Ouvi dizer
+que a garota da Guilda
+tem uma mensagem para você.
+--- BLOCK ---
+É melhor você ir vê-la.
+--- BLOCK ---
+A reparação da base do
+acampamento está indo muito bem,
+graças a você, é claro.
+--- BLOCK ---
+Me disseram que a Guilda tem uma
+missão para você. Se apresse e
+vá para o posto de missão!
+--- BLOCK ---
+Não se esqueça: você pode entrar na
+floresta independentemente das missões.
+Vá caçar, eu cuidarei dos Recursos.
+--- BLOCK ---
+Você sabe algo
+sobre os Epioth?
+São herbívoros aquáticos...
+--- BLOCK ---
+Suas entranhas são macias e suculentas.
+Mas são difíceis de encontrar, em
+seu habitat vivem monstros mais perigosos.
+--- BLOCK ---
+Fico feliz que esteja bem, caçador.
+Quem poderia imaginar que você iria
+se deparar com um Lagiacrus?
+--- BLOCK ---
+Não se preocupe, não esperamos que você
+seja capaz de lidar com isso... ainda.
+--- BLOCK ---
+Observe-o em liberdade e aprenda. Aprenda
+qual é o melhor momento para atacar. Não
+precisa matá-lo... apenas afugentá-lo.
+--- BLOCK ---
+Sendo um caçador de primeira, você com
+certeza pensa que vai dar conta. Mas a
+arrogância já matou mais de um caçador!
+--- BLOCK ---
+Tudo vai chegar. Não tenha pressa.
+Como pescador, posso te dizer
+que a paciência dá frutos.
+--- BLOCK ---
+Oi, caçador! Ouvi dizer que
+recebeu uma missão para
+capturar um dos grandes!
+--- BLOCK ---
+Acho que é hora de falar
+sobre a Câmera alvo. Tire-a quando
+estiver atrás de grandes monstros.
+--- BLOCK ---
+Primeiro: toque em "Personalizar painéis"
+na tela inferior e coloque o painel
+da Câmera alvo na sua distribuição.
+--- BLOCK ---
+E quando estiver na mesma área que
+o monstro, toque no ícone da Câmera
+alvo para mudar para o Modo alvo.
+--- BLOCK ---
+Se você pressionar suavemente o
+botão L, a câmera mirará
+na besta! Útil, né?
+--- BLOCK ---
+Se quiser colocar a câmera na
+posição habitual (atrás de você), aperte
+o botão L duas vezes.
+--- BLOCK ---
+A Câmera alvo é sua melhor
+aliada para caçar presas enormes.
+--- BLOCK ---
+Ah, e se quiser saber mais
+coisas, toque no botão de Ajuda
+ao modificar a distribuição dos painéis.
+--- BLOCK ---
+Hum... Eu sei que você se
+esforçou muito para derrubar o Grande
+Jaggi e tudo mais, mas...
+--- BLOCK ---
+Agora avistamos mais Gran Jaggi na
+floresta. As bestas que fugiram
+do terremoto parecem estar retornando.
+--- BLOCK ---
+Conheço essa floresta melhor que ninguém.
+Não esqueça de verificar o Clima de
+Moga antes de sair da vila.
+--- BLOCK ---
+<SUBS 0> Pronto para uma
+missão de captura? Você tem
+coragem, caçador. Gosto de você.
+--- BLOCK ---
+É preciso enfraquecer os monstros para
+capturá-los. Saber quando estão fracos
+o suficiente é a chave.
+--- BLOCK ---
+Me escute bem. O segredo está
+em observar o monstro atentamente.
+--- BLOCK ---
+Lembra quando enfrentou o
+Arzuros... Viu como ele
+começou a mancar?
+--- BLOCK ---
+Isso foi um sinal claro de que
+seus ataques estavam fazendo efeito e
+a Vida do monstro estava diminuindo.
+--- BLOCK ---
+Está entendendo? Se não, tente
+caçar monstros grandes novamente
+e observe seus movimentos.
+--- BLOCK ---
+Não fique chateado se não conseguir.
+Capturar um monstro é muito mais
+difícil do que simplesmente matá-lo.
+--- BLOCK ---
+Acho que é uma habilidade
+que separa os verdadeiros caçadores
+dos impostores. Espero seu relatório.
+--- BLOCK ---
+Ei! Parece que você está por dentro
+de tudo o que acontece por aqui,
+então talvez você já saiba disso, mas...
+--- BLOCK ---
+As crianças não param de falar de uma
+criatura estranha que viram na floresta.
+--- BLOCK ---
+No início, pensei que fosse
+fruto da imaginação deles.
+--- BLOCK ---
+Mas depois encurralei o garoto que
+viu e ouvi sua história em
+primeira mão. Parece ser um Shakalaka.
+--- BLOCK ---
+Os Shakalaka se parecem conosco, mas são
+metade do tamanho e usam máscaras doidas.
+Não se deixe enganar pela estatura deles.
+--- BLOCK ---
+Já ouvi dizer que são piores que
+os wyverns quando atacam em grupo. Se
+uma tribo apareceu em nossa floresta...
+--- BLOCK ---
+Espero estar errado, mas se está
+pensando em procurar o maldito
+pequenino, é melhor se preparar.
+--- BLOCK ---
+Ah, aliás, as crianças insistem em pedir
+à Guilda que procure essa coisa que
+viram. Vá até o posto de missão.
+--- BLOCK ---
+Ha, ha, ha, ha! E
+eu aqui pensando que todos
+os Shakalaka eram brutamontes sanguinários!
+--- BLOCK ---
+Realmente, eu estava enganado. Ele parece
+mais um pequeno desmiolado *cof cof*
+quer dizer, um garotinho encantador!
+--- BLOCK ---
+Bom, acho que ele pode ser o companheiro
+perfeito para você. É preciso aproveitar
+as pequenas coisas da vida. Hehe.
+--- BLOCK ---
+De qualquer forma, acho curioso que ele
+esteja procurando uma máscara... Não sei
+como vamos poder ajudar o rapazinho.
+--- BLOCK ---
+Espere um momento. O Argosy viajou
+por muitas terras distantes. Talvez tenha
+algo que possa nos ser útil...
+--- BLOCK ---
+É só uma ideia, mas talvez valha
+a pena você ir ver o que
+o Capitão do Argosy tem a dizer.
+--- BLOCK ---
+Saudações, caçador. Sabia? As pessoas
+ouviram gritos estranhos vindo
+da Floresta de Moga.
+--- BLOCK ---
+Aposto que são os gritos do
+Qurupeco. Talvez a besta tenha construído
+um ninho em algum lugar.
+--- BLOCK ---
+Daqui para frente, talvez veja Qurupeco na
+floresta mesmo que não esteja em missão.
+--- BLOCK ---
+Pode contar comigo, digo, com o Junior,
+para obter informações, então continue
+verificando o Clima de Moga.
+--- BLOCK ---
+Ah, e seu pequeno companheiro mascarado,
+Che-Che ou algo assim, fez um pedido.
+Confira as solicitações da população!
+--- BLOCK ---
+Ah, aqui está você, caçador! No momento
+certo. Tenho algo para te contar.
+--- BLOCK ---
+Estava patrulhando a Floresta de
+Moga quando avistei um Ludroth
+real. É novo nesta área...
+--- BLOCK ---
+Não sei se tem algo a ver
+com o terremoto, mas a cadeia alimentar
+de toda a floresta ficou desequilibrada.
+--- BLOCK ---
+Isso significa que você pode encontrar um
+Ludroth real ao entrar na floresta, mesmo
+que não esteja em uma missão.
+--- BLOCK ---
+Já sabe disso, e consulte regularmente
+o Clima de Moga. Toda
+precaução e preparação são necessárias!
+--- BLOCK ---
+Obrigado por vir. Nosso pequeno Chaku-Baku,
+ou como quer que seja chamado,
+trouxe-me os planos da nova máscara.
+--- BLOCK ---
+Posso construí-la desde que me traga
+os materiais. Mãos à obra!
+Veja as solicitações da população!
+--- BLOCK ---
+Uma vez, quando
+estava no mar,
+encontrei um Lagiacrus...
+--- BLOCK ---
+Tentamos combatê-lo com o equipamento que
+tínhamos no barco, mas foi inútil. Mesmo
+assim, aprendi muito com a experiência.
+--- BLOCK ---
+O Lagiacrus, como vê, tem seus limites.
+Quando fica furioso, cansa-se e vai
+para a costa. É a sua oportunidade.
+--- BLOCK ---
+Estamos começando a ficar ocupados, né?
+O Lagiacrus está aqui e
+a batalha final se aproxima.
+--- BLOCK ---
+É hora de ouvir um par
+de conselhos importantes do Junior... quer
+dizer, meus, então preste atenção...
+--- BLOCK ---
+Primeiro, uma Rathian apareceu
+na floresta. Aparentemente, está
+tentando construir um ninho.
+--- BLOCK ---
+Lembre-se de consultar o Clima de Moga se
+você for entrar na floresta. Rathian podem
+aparecer mesmo se não estiver em missão.
+--- BLOCK ---
+Em segundo lugar, nosso amiguinho, Chi-Chi
+ou como quer que se chame... trouxe-me
+outro conjunto de planos para máscaras.
+--- BLOCK ---
+Esta parece bem interessante. Vou criá-la
+se você me trouxer os materiais!
+Olhe as solicitações da população.
+--- BLOCK ---
+E por último... essa história
+é antiga, quando o
+Lagiacrus atacou nosso barco...
+--- BLOCK ---
+O Lagiacrus, como vê, tem seus limites.
+Quando fica furioso, ele se cansa e vai
+para a margem. É a sua chance.
+--- BLOCK ---
+Bom, não quero te pressionar, mas
+o destino desta aldeia depende de
+suas habilidades. Espero que não vacile!
+--- BLOCK ---
+<SUBS 0> Uma vez, quando
+estava no mar, me
+deparei com um Lagiacrus...
+--- BLOCK ---
+Tentamos combatê-lo com o equipamento que
+tínhamos no barco, mas foi inútil. Mesmo
+assim, aprendi muito com a experiência.
+--- BLOCK ---
+O Lagiacrus, como vê, tem seus limites.
+Quando ele fica furioso, ele se cansa e
+vai para a margem. É a sua chance.
+--- BLOCK ---
+Outro terremoto? Logo depois de
+nos livrarmos do Lagiacrus?
+--- BLOCK ---
+Sabe de uma coisa? Estou
+começando a pensar que o
+Lagiacrus não causou os terremotos.
+--- BLOCK ---
+Mas em relação ao QUEM
+causou, não faço ideia.
+--- BLOCK ---
+Mas sei de uma coisa, se não
+fizermos algo em breve, nossa aldeia vai
+se desprender e cair no mar.
+--- BLOCK ---
+Esse último terremoto foi ainda
+pior que os anteriores.
+--- BLOCK ---
+Era como se algo enorme tivesse agarrado
+a aldeia e a tivesse sacudido. Algo
+muito mais enorme que o Lagiacrus...
+--- BLOCK ---
+Ah, bem, são só suposições. Esquece.
+Não importa qual seja a causa
+dos terremotos, vamos proteger Moga.
+--- BLOCK ---
+Você será o primeiro a saber
+se eu descobrir algo concreto.
+--- BLOCK ---
+Oi! Chee-Chee tem uma
+máscara nova, não é?
+--- BLOCK ---
+É como se transformar em
+outro... não sei o quê,
+quando troca de máscara. Hehe.
+--- BLOCK ---
+O quê? Quem ia saber
+que havia dois tolos... *Cof*
+Quero dizer, charmosos patifes?
+--- BLOCK ---
+Aposto que esses renanzinhos e
+você formarão um time
+perfeito. Se comportem, ouviram?
+--- BLOCK ---
+Parece que agora não
+é hora de brincadeiras.
+--- BLOCK ---
+Se o dragão vive nas profundezas,
+como vamos descer para investigar?
+--- BLOCK ---
+A pressão da água é muito maior no
+fundo do mar. Pode gastar todo o suprimento
+de oxigênio que quiser, não vai adiantar.
+--- BLOCK ---
+Hmm... Neste ponto, nossa única
+opção talvez seja a estátua.
+--- BLOCK ---
+Hein? Quer saber qual estátua? Bem,
+o velho da Forja me contou
+algo fascinante há algum tempo.
+--- BLOCK ---
+Conhece a caverna que fica atrás da
+Fazenda? A estátua guardiã de Moga
+está lá. Usa uma máscara antiga.
+--- BLOCK ---
+Se o Artesão Wyveriano e o fazendeiro
+chefe falem a verdade, essa máscara é
+muito mais do que uma simples relíqua.
+--- BLOCK ---
+Dizem que aqueles que viveram nas ruínas
+sob a nossa aldeia talvez tenham usado
+a máscara para respirar debaixo d'água.
+--- BLOCK ---
+É apenas uma ideia, mas, se consertare
+essa máscara, talvez consiga alcançar a
+caverna que o nosso amiguinho avistou.
+--- BLOCK ---
+Acho que o Artesão Wyveriano pensa
+o mesmo. Murmurou algo sobre partes
+de Lagiacrus para consertar a máscara.
+--- BLOCK ---
+Falando nisso... Recentemente viram
+outro Lagiacrus na floresta,
+diferente daquele que derrotaste.
+--- BLOCK ---
+Traga todos os materiais que conseguir
+extrair daquela coisa. Fiz uma
+lista de tudo que precisamos.
+--- BLOCK ---
+Meu pai talvez não concorde muito
+com esse plano, ficará entre você
+e eu... e o Artesão Wyveriano.
+--- BLOCK ---
+<SUBS 0> Talvez consigas
+chegar até aquela caverna
+se consertarmos a máscara.
+--- BLOCK ---
+Vale a pena tentar. Precisamos de partes
+de Lagiacrus. Vamos lá, caçador. Essa
+besta não vai se cortar sozinha.
+--- BLOCK ---
+Ei. O Artesão Wyveriano fez
+alguns ajustes na máscara daquela
+estátua enquanto você estava fora.
+--- BLOCK ---
+Exatamente como eu esperava, você
+poderá respirar debaixo d'água com
+ela por tempo ilimitado!
+--- BLOCK ---
+Só tem um problema...
+--- BLOCK ---
+Ele diz que a máscara é
+muito pequena para você usar. Parece
+grande, mas tem muitas coisas dentro.
+--- BLOCK ---
+Só os anões conseguem usar a
+máscara. Como eles se chamam mesmo?
+Cha-Chi e... ah, o outro?
+--- BLOCK ---
+Se nenhum desses pestinhas mergulhar,
+voltamos à estaca zero. Espero que
+sejam tão corajosos quanto parecem.
+--- BLOCK ---
+Então vai encarar o dragão... Eu
+sabia que você faria isso.
+--- BLOCK ---
+Claro que nunca vai vencer se jogar
+limpo. Entendo por que a Guilda
+está tentando te convencer do contrário.
+--- BLOCK ---
+Mas talvez tenhamos mais armas
+disponíveis do que você pensa.
+--- BLOCK ---
+Parece que a caverna daquela
+criatura faz parte das ruínas
+que existem sob nossa aldeia.
+--- BLOCK ---
+Os pescadores mergulharam lá para dar
+uma olhada e encontraram algo
+muito fascinante, além de útil.
+--- BLOCK ---
+Disseram que encontraram um monte de
+armas antimonstro lá embaixo, mais
+ou menos intactas. Interessante, né?
+--- BLOCK ---
+São antiguidades, então quem sabe se
+ainda funcionam. E mesmo que
+funcionem, boa sorte descobrindo como!
+--- BLOCK ---
+Pode ser perda de tempo, mas
+acho que vale a pena tentar.
+--- BLOCK ---
+Encontramos o lugar perfeito para montar
+um acampamento ao lado da caverna.
+--- BLOCK ---
+Podemos transformá-lo em sua base para
+caçar o dragão. Precisamos de
+materiais que não podemos conseguir.
+--- BLOCK ---
+Sinto muito por pedir, mas precisamos
+que colete materiais mais uma
+vez. Nós cuidaremos da construção.
+--- BLOCK ---
+Fiz uma lista das coisas necessárias.
+Confira as solicitações da população.
+--- BLOCK ---
+Ei, aqui está você.
+Concluímos todos os preparativos.
+--- BLOCK ---
+O Ceadeus está em sua toca subaquática.
+Construímos um acampamento novo bem
+em cima de sua cabeça.
+--- BLOCK ---
+Se conseguir fazer com que Chou-Chou ou
+o outro anão usem a máscara, você
+deve ser capaz de chegar ao fundo.
+--- BLOCK ---
+Me escute bem. O fundo daquela
+caverna está repleto de armas antigas.
+--- BLOCK ---
+Isso é bom. Duvido que nem o melhor
+caçador do mundo consiga derrotar essa
+fera com uma simples arma de mão.
+--- BLOCK ---
+Espere o momento certo e use
+essas armas antigas estrategicamente. Você
+é o caçador, descubra como.
+--- BLOCK ---
+O destino de nossa aldeia está
+em suas mãos. Mais uma vez,
+estaremos apoiando você. Mais uma vez.
+--- BLOCK ---
+Ha, ha, ha, ha! O
+valente herói volta inteiro!
+--- BLOCK ---
+Você parece invencível, caçador! Estou tão
+feliz que você tenha voltado que, *soluço*
+poderia chorar *soluço* de emoção...
+--- BLOCK ---
+Você salvou a aldeia e garantiu
+nosso sustento. Você protegeu a honra
+de meu pai. Você é... *soluço*
+--- BLOCK ---
+*Ahem* Prometi a mim mesmo que não
+*soluço* choraria, e olhe para mim...
+Poderia continuar, mas não sou bom nisso.
+--- BLOCK ---
+De qualquer forma, é desnecessário dizer
+que você pode ficar nesta aldeia o tempo
+que quiser. Você é um bom caçador.
+--- BLOCK ---
+Ei, amigo! Você foi recentemente
+para a Floresta de Moga?
+--- BLOCK ---
+O que você diz? Que a floresta é muito
+entediante para um ás da caça como você?
+--- BLOCK ---
+Sabia que você diria isso. Mas tenho
+algo para você. E se eu
+te dissesse que...? Rufar de tambores...
+--- BLOCK ---
+Agora você pode ir à noite
+para a Floresta de Moga!
+--- BLOCK ---
+A diferença entre a noite e o dia é como
+a noite e o dia! As bestas diurnas se
+deitam, e as noturnas saem!
+--- BLOCK ---
+Por isso não te deixamos
+ir lá à noite. Teríamos
+perdido um ótimo caçador!
+--- BLOCK ---
+Acontece que você pode obter certos
+itens apenas à noite. A
+floresta ficou mais interessante, né?
+--- BLOCK ---
+Sim, as missões noturnas são mais
+perigosas, mas o perigo é o
+seu cotidiano. Não faça nada estúpido.
+--- BLOCK ---
+É isso. Deveria dar um
+passeio por lá à meia-noite.
+--- BLOCK ---
+Ei, caçador! Seu amiguinho
+me passou os planos
+de uma nova máscara.
+--- BLOCK ---
+Posso construí-la desde que traga
+os materiais. Vamos lá! Veja
+as solicitações da população!
+--- BLOCK ---
+Ei! Estava te esperando! Seu
+amiguinho me deu os planos
+de uma nova máscara.
+--- BLOCK ---
+Posso construí-la assim que me trouxer
+os materiais. Mãos à obra! Dê
+uma olhada nas solicitações da população!
+--- BLOCK ---
+Ah, é você! O filhote
+me deu os planos
+de uma nova máscara.
+--- BLOCK ---
+Posso construí-la assim que me trouxer
+os materiais. Mãos à obra! Dê
+uma olhada nas solicitações da população!
+--- BLOCK ---
+Oi, caçador! Segundo os
+rumores, um Lagiacrus marmóreo
+ergueu sua traseira horrível.
+--- BLOCK ---
+Sabia que meu pai foi um
+caçador lendário? Claro! Se meu pai
+não falasse daquela época, estaria mudo!
+--- BLOCK ---
+Mas nem nos seus melhores dias
+era rival para um monstro em
+particular. Sim, o Lagiacrus marmóreo.
+--- BLOCK ---
+Será uma batalha épica, mas com certeza
+você vai vencer. Como meu nome é Junior...
+Bem, agora você sabe como me chamo.
+--- BLOCK ---
+Ah, e mais uma coisa.
+--- BLOCK ---
+Seu amigo, o baixinho, me deu os
+planos de um novo tipo de máscara.
+--- BLOCK ---
+Esta parece bem interessante. Vou criá-la
+se me trouxer os materiais! Dê
+uma olhada nas solicitações da população.
+--- BLOCK ---
+Hahaha! O valente
+herói voltou inteiro!
+--- BLOCK ---
+Você é de outro planeta, caçador!
+Conseguiste o que meu pai nunca
+conseguiu: caçar um Lagiacrus marmorizado!
+--- BLOCK ---
+Tomara que tivesse visto a
+cara do meu pai. Parece
+que voltou à infância!
+--- BLOCK ---
+Acredito que, quando ele te olha, vê
+refletida a figura forte de sua juventude.
+--- BLOCK ---
+Sei que este lugar não tem muito a
+oferecer para alguém como você, mas fique o
+tempo que quiser. Esta é sua aldeia.
+--- BLOCK ---
+Ah, quase esqueci. Tem
+outra missão para você.
+--- BLOCK ---
+O chefe fazendeiro quer adicionar uma
+Caixa de cogumelos à Fazenda. Ele
+a usaria para cultivar cogumelos.
+--- BLOCK ---
+Vai custar alguns Recursos, mas
+poderá colher muitos mais cogumelos.
+Uma coisa compensa a outra.
+--- BLOCK ---
+Fiz uma lista de tudo o que
+precisamos. Sei que está ocupado com
+a caça, mas tente arranjar tempo.
+--- BLOCK ---
+Ótimo, você está aqui! Tenho
+algo para te pedir!
+--- BLOCK ---
+Está usando a fazenda? Falei com o
+chefe fazendeiro e ele quer construir uma
+Caixa de insetos para criar bichos.
+--- BLOCK ---
+Se ele construir, você poderá
+pegar insetos diretamente da
+Fazenda para fabricar equipamento.
+--- BLOCK ---
+Mas serão necessários Recursos e materiais.
+Por isso precisamos de você.
+--- BLOCK ---
+Claro, você poderá usar a Caixa
+de insetos sempre que quiser. Já
+falei com o chefe fazendeiro.
+--- BLOCK ---
+Fiz uma lista de tudo o que
+precisamos. Tente abrir um espaço na sua
+agenda de caça para conseguir isso.
+--- BLOCK ---
+Oi, caçador. Obrigado por vir.
+Tenho outra solicitação para você.
+--- BLOCK ---
+Encontrei o chefe fazendeiro e ele diz
+que quer que os campos voltem a
+ser como eram antes do terremoto.
+--- BLOCK ---
+Fiz uma lista de tudo o
+que precisamos. Tente abrir espaço para
+isso na sua agenda de caça.
+--- BLOCK ---
+Hum... Um acordo
+bem interessante...
+--- BLOCK ---
+Desculpe, caçador, estava absorto em meus
+pensamentos.O capitão do Argosy trouxe
+notícias e não paro de pensar nisso.
+--- BLOCK ---
+Parece que não está mais na moda
+ser magro e todos os moradores
+estão fazendo dieta para ganhar peso.
+--- BLOCK ---
+Ouvi dizer que é porque muitos
+ricos são gordos e felizes,
+enquanto os trabalhadores são musculosos.
+--- BLOCK ---
+Então, os moradores magros estão desejando
+parecer gordos e ricos. Eles descobriram
+que ao comer Mel, engordam.
+--- BLOCK ---
+Chamam de "Dieta milagrosa" e tornaram o
+Mel um bem valioso. Vamos colocar
+uma Caixa de mel na fazenda.
+--- BLOCK ---
+Devemos aproveitar essa moda e fazer do
+Mel o produto mais exportado de Moga.
+Você também poderá usá-lo, é claro!
+--- BLOCK ---
+Preparei uma lista com o que precisamos.
+Eu sei que está ocupado, mas lembre-se
+de que os caçadores também usam Mel.
+--- BLOCK ---
+Você está aqui! Tenho novidades fresquinhas
+e um novo pedido para você!
+--- BLOCK ---
+É sobre a Fazenda, caçador! Vamos
+melhorar a Caixa de insetos para
+criar mais insetos! Imagine só.
+--- BLOCK ---
+Eu disse que eram ótimas notícias!
+Traga os Recursos e materiais, que
+faremos o resto. Mal posso esperar!
+--- BLOCK ---
+Preparei uma lista com o que precisamos.
+Eu sei que está ocupado caçando,
+mas é um bom negócio de insetos.
+--- BLOCK ---
+Ei, tenho um novo pedido para
+você. Acho que vai gostar.
+--- BLOCK ---
+Qual é o seu maior desejo? Não
+responda! Eu sei que quer aumentar
+a capacidade da Caixa de cogumelos!
+--- BLOCK ---
+Que sorte a sua! Os fazendeiros também!
+Os cogumelos vão bem em ensopados
+e saladas, além de serem nutritivos.
+--- BLOCK ---
+Fiz uma lista de tudo o que
+é necessário. Sei que está caçando, mas
+pense em todos os cogumelos que terá.
+--- BLOCK ---
+Chegaram os pedidos! É um
+boom de Mel sem precedentes!
+--- BLOCK ---
+Esses pobres cidadãos devoram com pão, com
+Carne crua... com o que for.
+A dieta melagrosa é um fenômeno!
+--- BLOCK ---
+As pessoas perceberam que o Mel de
+Moga tem mais calorias do que
+outros. É porque fazemos com amor.
+--- BLOCK ---
+Na pressa de parecerem gordos, estão
+gastando tanto dinheiro em nosso
+Mel que nunca ficarão ricos.
+--- BLOCK ---
+Ironicamente, não é? De qualquer forma,
+estamos muito atrasados na produção de
+Mel. O fazendeiro e eu decidimos...
+--- BLOCK ---
+Que vamos impulsionar a produção de
+Mel. E precisamos que você reúna
+os materiais e recursos, claro.
+--- BLOCK ---
+Eu fiz uma lista de tudo o
+que precisamos. Você acha que poderia nos
+fazer o favor de conseguir essas coisas?
+--- BLOCK ---
+Ah, oi! Tenho que
+te pedir um favor.
+--- BLOCK ---
+Alguns dias atrás, o Cozinheiro ambulante
+veio procurando mais peixe bom.
+--- BLOCK ---
+Claro, tendo sido eu pescador, disse
+a ele que era a
+pessoa ideal para aquele trabalho.
+--- BLOCK ---
+O problema é que minha vara
+de pescar é um pouco fraca.
+Só pode pegar os peixes comuns.
+--- BLOCK ---
+Então pensei em fabricar a vara de
+pescar definitiva. Se eu pegar um grande,
+te darei os pedaços mais saborosos!
+--- BLOCK ---
+Eu fiz uma lista de tudo
+que precisamos. Tente encaixar em sua
+agenda de caça para conseguir.
+--- BLOCK ---
+Olá, caçador. Obrigado por vir!
+Tenho um pedido para fazer.
+--- BLOCK ---
+Você sabe que há um
+campo da Fazenda que ainda
+não foi restaurado, não é?
+--- BLOCK ---
+Queremos trabalhar essa terra para que
+a produção da Fazenda alcance
+o nível anterior ao terremoto.
+--- BLOCK ---
+Se fizermos isso, também aumentará a
+quantidade de colheita que recolheremos.
+--- BLOCK ---
+Neste ponto, você já deve saber
+que isso requerirá materiais e recursos.
+Desculpe continuar pedindo isso a você.
+--- BLOCK ---
+Eu fiz uma lista de tudo o que
+é necessário. Você já fez muito por
+nós, mas tente arranjar tempo para isso.
+--- BLOCK ---
+Ei! Quero te pedir um favor!
+--- BLOCK ---
+O Cozinheiro Ambulante tem a receita
+de um leite super saudável. Mas
+são necessários os ingredientes corretos.
+--- BLOCK ---
+Com o melhor leite, são
+preparados pratos que enchem muito.
+Vai te fazer maravilhas!
+--- BLOCK ---
+Eu fiz uma lista de tudo o
+que precisamos. Tente arranjar um tempo em
+sua agenda de caça para conseguir.
+--- BLOCK ---
+Oi. Tenho mais trabalho relacionado
+aos insetos para você!
+--- BLOCK ---
+Gosta de ganhar dinheiro? Claro, como
+todos. Bem, esses insetos que criamos
+na Fazenda agora são mais lucrativos.
+--- BLOCK ---
+Os cidadãos nostálgicos estão começando a
+comprar insetos a um bom preço.
+Essa gente faz coisas muito estranhas.
+--- BLOCK ---
+Bom, o caso é que a demanda
+por insetos está nas alturas. Temos que
+melhorar a Caixa de insetos logo.
+--- BLOCK ---
+Fiz uma lista de tudo que
+é necessário. Você está ocupado, mas
+tente pensar na Caixa de insetos...
+--- BLOCK ---
+Ah, antes que eu me esqueça... nossa
+especialidade, o mel da Dieta Melagrosa, é
+um sucesso. A aldeia está famosa!
+--- BLOCK ---
+Aparentemente, uma famosa magrela ganhou
+130 quilos assim. E agora se recusa
+a comer qualquer outra coisa.
+--- BLOCK ---
+Nosso Mel vale seu peso em ouro!
+Agora os ricos estão cada vez mais
+gordos e os pobres continuam magros.
+--- BLOCK ---
+Quero que todo mundo tenha a
+oportunidade de desfrutar do nosso Mel,
+e não apenas uns poucos gordões.
+--- BLOCK ---
+Se concorda, vá coletar
+esses Recursos e materiais.
+--- BLOCK ---
+Fiz uma lista de tudo que é necessário.
+Sei que está ocupado caçando, mas pense
+na utilidade que todo o Mel terá.
+--- BLOCK ---
+Ah, antes que me esqueça! Poderia fazer um
+favor para Junior... quer dizer, para mim?
+--- BLOCK ---
+O Cozinheiro ambulante conhece um novo
+tipo de fermento que é mais
+saboroso que muitos cardápios completos.
+--- BLOCK ---
+Imagina o pedaço de pão que
+poderia preparar com ela... Com pedaço,
+quero dizer um pão espetacular!
+--- BLOCK ---
+E com certeza uns pedacinhos desse
+pão te cairiam muito bem...
+--- BLOCK ---
+Fiz uma lista com tudo o
+que precisamos. Arranje um tempinho para
+conseguir e então poderá comê-lo.
+--- BLOCK ---
+Aqui, caçador! Está aqui!
+O evento social
+do ano chegou!
+--- BLOCK ---
+Um Jhen Mohran apareceu no Grande
+deserto! O chamam de "símbolo de
+prosperidade". Para mim, tudo bem.
+--- BLOCK ---
+Mas teremos que construir caçadores
+de dragões bem robustos
+para derrubar essa fera.
+--- BLOCK ---
+Toma, uma lista com o que precisamos.
+Arranje tempo para conseguir tudo.
+Seria uma pena perder o espetáculo.
+--- BLOCK ---
+Ah, caçador, queria te
+dizer algo. Lembra do
+Arzuros que caçaste recentemente?
+--- BLOCK ---
+Desde então, as pessoas avistaram
+Arzuros andando à noite
+na Floresta de Moga.
+--- BLOCK ---
+Eu sempre fico de olho nessa floresta.
+Certifique-se de verificar o Clima de
+Moga antes de sair da aldeia.
+--- BLOCK ---
+Oi, caçador. As pessoas voltaram a ouvir
+estranhos lamentos vindos da Floresta
+de Moga, e à noite...
+--- BLOCK ---
+Com certeza são os gritos
+de um Qurupeco carmesim. Deve
+ter um ninho por aí.
+--- BLOCK ---
+A partir de agora, você avistará
+Qurupecos carmesins na floresta, mesmo que
+não esteja em uma missão.
+--- BLOCK ---
+Vou te ajudar a ficar
+por dentro, então continue consultando
+o Clima de Moga.
+--- BLOCK ---
+Que momento oportuno. Há algo que
+eu quero te dizer, caçador.
+--- BLOCK ---
+As pessoas começaram a avistar Rathian rosa
+à noite na Floresta de Moga.
+Aposto que têm um ninho lá.
+--- BLOCK ---
+Não se esqueça de sempre
+consultar o Clima de Moga!
+--- BLOCK ---
+Ah, na hora certa.
+Quero te dizer algo.
+--- BLOCK ---
+Ultimamente, as pessoas têm visto Barroths
+vagando pela Floresta de Moga.
+--- BLOCK ---
+Dê uma olhada no Clima de Moga
+antes de se dirigir à floresta.
+--- BLOCK ---
+Ah, aí está você, caçador!
+Que pontual. Tenho novidades.
+--- BLOCK ---
+Estava patrulhando a Floresta de Moga
+à noite quando vi um Ludroth
+roxo. Uma novidade por essas bandas.
+--- BLOCK ---
+Não sei se é por causa do
+Ceadeus, mas a cadeia alimentar de
+toda a floresta saiu do controle.
+--- BLOCK ---
+Por isso, é possível que você encontre
+Ludroth roxos na floresta à noite,
+mesmo sem ter aceitado uma missão.
+--- BLOCK ---
+Consulte regularmente o Clima de Moga.
+Saber dele te dará meia caçada!
+--- BLOCK ---
+Olá! Tenho notícias fresquinhas.
+--- BLOCK ---
+À noite, começamos a ver Wroggi
+magníficos na Floresta de Moga. Você
+caçou um deles, não foi?
+--- BLOCK ---
+Procure verificar o Clima de Moga
+antes de partir para a
+floresta. Ir preparado rende frutos!
+--- BLOCK ---
+Ah, olá! Tem algo
+que preciso te contar.
+--- BLOCK ---
+Começaram a aparecer Gran Baggi à
+noite na Floresta de Moga. Você
+vai encontrá-los a partir de agora.
+--- BLOCK ---
+Acostume-se a verificar o Clima de
+Moga antes de ir para a
+floresta, e não terá problemas.
+--- BLOCK ---
+Ei, espera...
+Tenho novidades.
+--- BLOCK ---
+Estava patrulhando a floresta
+ao entardecer quando achei
+que vi um Volvidon.
+--- BLOCK ---
+Então não se surpreenda se
+encontrar os Volvidon em uma
+de suas excursões noturnas.
+--- BLOCK ---
+Não se esqueça de recorrer a mim se
+precisar de informações locais. Consulte o
+Clima de Moga antes de partir.
+--- BLOCK ---
+Ah, sim. Tenho que
+te informar de algo.
+--- BLOCK ---
+Durante um passeio noturno pela praia,
+espreitei um Gobul. Com certeza haverá
+mais a partir de agora.
+--- BLOCK ---
+Acostume-se a verificar o Clima
+de Moga antes de se
+aventurar na floresta à noite.
+--- BLOCK ---
+Ah, é você, caçador. Chegou na hora certa.
+--- BLOCK ---
+Olha, estava pescando na outra
+noite na Floresta de Moga,
+e peguei um Plesioth!
+--- BLOCK ---
+Isso significa que você também verá
+Plesioth à noite na floresta.
+--- BLOCK ---
+Sugiro que você consulte o Clima de
+Moga antes de se dirigir à floresta.
+--- BLOCK ---
+Ah, é você.
+Tem um minutinho?
+--- BLOCK ---
+Estava patrulhando à noite na Floresta de
+Moga quando me deparei com um Duramboros.
+--- BLOCK ---
+Acho que a partir de
+agora você encontrará Duramboros
+à noite na floresta.
+--- BLOCK ---
+Consultar regularmente o Clima de Moga.
+Ir preparado vai te ajudar!
+--- BLOCK ---
+Ei! Tem algo que
+preciso te dizer.
+--- BLOCK ---
+Estava fazendo minha ronda noturna pela
+Floresta de Moga quando avistei um Diablos.
+--- BLOCK ---
+Pode ser que você também comece a
+vê-los a partir de agora. Não esqueça
+de consultar o Clima de Moga!
+--- BLOCK ---
+Yuju! Tenho novidades sobre
+a Floresta de Moga.
+--- BLOCK ---
+Me deparei com um Uragaan em uma das minhas
+excursões noturnas. Cuidado com eles se 
+estiver indo pela floresta ao anoitecer.
+--- BLOCK ---
+Não deixe de conferir
+o Clima de Moga!
+--- BLOCK ---
+Ah, caçador! Vimos um novo
+monstro vagando à noite
+pela Floresta de Moga.
+--- BLOCK ---
+Estava fazendo minha ronda noturna
+quando avistei um Brachydios. Ele
+dá charme ao lugar.
+--- BLOCK ---
+Cace de forma segura! Consulte sempre o
+Clima de Moga quando for à floresta.
+--- BLOCK ---
+Oi! Estava
+te esperando.
+--- BLOCK ---
+Já perseguiste um Zinogre outras vezes,
+não é? Pois começamos a vê-los
+à noite na Floresta de Moga.
+--- BLOCK ---
+Não esqueça de dar uma olhada no
+Clima de Moga antes de partir.
+--- BLOCK ---
+Olá, caçador! Tens
+um minuto?
+--- BLOCK ---
+Estava investigando na Floresta de Moga
+quando me deparei com uma Diablos negra.
+--- BLOCK ---
+Você deveria se acostumar a verificar a
+Previsão do Clima de Moga antes de
+se dirigir à floresta à noite.
+--- BLOCK ---
+Ah, oi. Tenho que te
+contar o que vi
+na Floresta de Moga.
+--- BLOCK ---
+Estava fazendo patrulha à noite quando
+me deparei com um Nargacuga.
+--- BLOCK ---
+É muito provável que você
+encontre um Nargacuga se percorrer
+a floresta à noite.
+--- BLOCK ---
+Verifique a Previsão do Clima de
+Moga e tome todas as precauções
+antes de se aventurar na floresta.
+--- BLOCK ---
+Oi! Podemos conversar
+um momento?
+--- BLOCK ---
+Estava passeando pela Floresta de Moga à
+noite quando vi uma sombra passar sobre
+minha cabeça. Era um Rathalos celeste!
+--- BLOCK ---
+Leve isso como um aviso. Pode ser
+que você também comece a ver
+Rathalos celestes à noite na floresta.
+--- BLOCK ---
+Você deveria sempre verificar a
+Previsão do Clima de Moga
+se pretende ir caçar lá.
+--- BLOCK ---
+Ei, caçador! Apareceu outro monstro à
+noite na Floresta de Moga.
+Até quando isso vai durar?
+--- BLOCK ---
+Estava procurando Recursos à noite na
+floresta, quando vi um Uragaan de aço.
+Se tem um, é porque há mais por aí.
+--- BLOCK ---
+Já te disse várias vezes, mas
+verifique regularmente a Previsão do Clima
+de Moga. Cace com responsabilidade!
+--- BLOCK ---
+Ah, aí está você, caçador! Bem na
+hora. Há algo que preciso te dizer.
+--- BLOCK ---
+Patrulhando a Floresta de Moga na
+outra noite, vi um Lagiacrus marmorizado.
+Provavelmente se instalou por lá.
+--- BLOCK ---
+Sei que você já caçou um
+desses, mas estamos falando de um
+Lagiacrus marmorizado. Fique alerta, ok?
+--- BLOCK ---
+É mais seguro verificar a Previsão
+do Clima de Moga antes de
+partir para a Floresta de Moga.
+--- BLOCK ---
+Ei, caçador! Tenho mais informações sobre
+a criatura que vagueia à
+noite pela Floresta de Moga.
+--- BLOCK ---
+Consegui vislumbrar um Deviljho em uma das
+minhas rondas noturnas. Fique de olho,
+pode ser que também o encontre.
+--- BLOCK ---
+Você já sabe, mas verifique a Previsão
+do Clima de Moga antes de partir.
+Melhor prevenir do que acabar despedaçado!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Ei, caçador! O que se conta?
+--- BLOCK ---
+E aí, caçador.
+--- BLOCK ---
+Como está a caça?
+--- BLOCK ---
+Ufa... tô tão ocupado quanto um Felyne!
+--- BLOCK ---
+Ei! Parece que tá de bom humor!
+--- BLOCK ---
+Tô tendo um bom dia, não estraga.
+--- BLOCK ---
+Já tá sentindo a floresta como sua casa?
+--- BLOCK ---
+Ei! Tava te esperando, caçador!
+--- BLOCK ---
+Até mais!
+--- BLOCK ---
+Lembre-se: cobre nossas costas!
+--- BLOCK ---
+Eu sei que não é fácil e agradeço.
+--- BLOCK ---
+Um prazer. Volte quando quiser!
+--- BLOCK ---
+Até a próxima, caçador.
+--- BLOCK ---
+Não abrace mais do que pode fazer.
+--- BLOCK ---
+Não se esforce demais, caçador.
+--- BLOCK ---
+Fica ligado. É um mundo cruel.
+--- BLOCK ---
+Temos agradecimento! Anotado
+e recebido!
+--- BLOCK ---
+Beleza, tá com boa cara! Deixa
+o resto com a gente, caçador!
+--- BLOCK ---
+Muito bom. Muito bom.
+Agradecemos, como sempre!
+--- BLOCK ---
+Ei, você é um
+verdadeiro profissional. Muito obrigado!
+--- BLOCK ---
+Ah, bem feito! Talvez eu te
+deixe me chamar de Junior...
+--- BLOCK ---
+Beleza, o que você quer?
+--- BLOCK ---
+Chega de papo furado. Você
+veio por um motivo, né?
+--- BLOCK ---
+Qual era mesmo? Ah, sim.
+Vamos direto ao ponto.
+--- BLOCK ---
+Claro. Se tiver alguma
+pergunta, pode me procurar.
+--- BLOCK ---
+Então... me conta o que te preocupa.
+--- BLOCK ---
+Beleza. Se tiver Materiais,
+eu vou pegar.
+--- BLOCK ---
+Legal, vamos ver como está esse bosque.
+--- BLOCK ---

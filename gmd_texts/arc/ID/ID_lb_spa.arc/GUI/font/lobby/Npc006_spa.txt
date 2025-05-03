@@ -1,0 +1,344 @@
+﻿TMSG_NPC006_0
+--- BLOCK ---
+TMSG_NPC006_1
+--- BLOCK ---
+TMSG_NPC006_2
+--- BLOCK ---
+TMSG_NPC006_3
+--- BLOCK ---
+TMSG_NPC006_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Bueno, bueno. Me gusta el aspecto que
+tiene hoy el mar, ¿a ti no?
+--- BLOCK ---
+En días como el de hoy, ¡me entran ganas
+de subirme a un barco!
+--- BLOCK ---
+<SUBS 0>
+Creo que podríamos reparar el barco
+si tuviéramos los materiales adecuados.
+--- BLOCK ---
+Deja que averigüe qué hace falta. Cuando
+lo sepa, ¡serás la primera persona
+en saberlo!
+--- BLOCK ---
+<SUBS 0>
+Los Avíos que envías en un barco
+solo se pueden usar una vez.
+--- BLOCK ---
+Aun así, puede tener efectos muy útiles:
+acortar la duración de los viajes,
+mejorar el cargamento... ¡Úsalos!
+--- BLOCK ---
+<SUBS 0>
+Algunos Avíos funcionan mejor en
+un tipo determinado de viaje.
+--- BLOCK ---
+Hay Avíos para caza, para búsquedas de
+tesoros... ¡La clave está en elegir
+el equipo correcto para lo que quieres!
+--- BLOCK ---
+<SUBS 0>
+El pescado que trae la flota de caza
+se puede utilizar para muchas cosas.
+--- BLOCK ---
+Puedes combinarlo con cosas, usarlo para
+generar Recursos... ¡Y algunos te los
+puedes comer directamente de la red!
+--- BLOCK ---
+<SUBS 0>
+¿Has enviado a los chicos alguna vez
+a buscar tesoros?
+--- BLOCK ---
+Algunas de las regiones a las que puedes
+enviar la Flota de caza son perfectas
+para eso. ¡Podrían traer una fortuna!
+--- BLOCK ---
+<SUBS 0>
+Cuando a mis chicos les apetezca,
+puedes enviarles de cacería.
+--- BLOCK ---
+Cazarán monstruos en vez de pescado,
+¡y traerán materiales! Aunque
+no lo parezcan, son tipos duros.
+--- BLOCK ---
+<SUBS 0>
+Nunca envíes la flota de caza sin
+comprobar cómo les va a los chicos.
+--- BLOCK ---
+En un buen día, pueden navegar rápido y
+volver con mejor cargamento. Hago los
+planes con ellos. Tú también deberías.
+--- BLOCK ---
+<SUBS 0>
+Si pillas a mis chicos de buen humor,
+pueden aceptar ir a algún sitio inusual.
+--- BLOCK ---
+Y con inusual me refiero a increíble.
+Legendario. De visita obligada, ¿me
+oyes? No pierdas tu oportunidad.
+--- BLOCK ---
+<SUBS 0>
+Bueno, todo el mundo sabe que el pescado
+tiene escamas de la cabeza a la cola.
+--- BLOCK ---
+Para descamar el pescado, debes
+empezar por la cola y pasar el cuchillo
+contra las escamas, hacia la cabeza.
+--- BLOCK ---
+<SUBS 0>
+¿Sabes filetear pescado? Córtalo desde
+el vientre hasta las branquias.
+--- BLOCK ---
+Retira la cabeza y las tripas, enjuaga.
+Córtalo por la espina desde la cola
+hasta la cabeza, luego el otro lado.
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que el hijo del Jefe puede crear
+Recursos a partir del pescado?
+--- BLOCK ---
+<SUBS 0>
+¿Has hecho rollos de sushi alguna vez? 
+Mezcla vinagre de arroz con azúcar.
+--- BLOCK ---
+Luego mezcla eso con arroz y enfríalo.
+Envuelve el arroz en algas asadas junto
+con tu pescado favorito, ¡y listo!
+--- BLOCK ---
+<SUBS 0>
+Los peces que puedes pescar en estas
+aguas están llenos de nutrientes.
+--- BLOCK ---
+Si quieres vivir como cazador,
+cariño, tienes que mantener alta tu
+Salud, y el pescado es muy bueno.
+--- BLOCK ---
+<SUBS 0>
+Lo siento, cariño. Los chicos están
+ocupados hasta que se calme la cosa.
+--- BLOCK ---
+Aunque debo decir... ¿dónde demonios
+están? ¿Están pescando o
+están escaqueándose?
+--- BLOCK ---
+Cuando regresen, ten por seguro que
+les cantaré las cuarenta. ¡Regaño
+incluso mejor de lo que pesco!
+--- BLOCK ---
+<SUBS 0>
+¿Le estás dando vueltas a algo sobre la
+flota de caza? No dudes en comentarlo.
+--- BLOCK ---
+Es probable que yo ya lo sepa. Quizá
+pienses que mis chicos deberían ducharse
+más. ¡Pues estoy de acuerdo! ¡Apestan!
+--- BLOCK ---
+Ah, ya sé. Tú eres ese cazador del que
+no paran de hablar. Soy la encargada de
+la Pesquería. ¡No lo olvides!
+--- BLOCK ---
+Tienes suerte de que no nos conociéramos
+antes. El último terremoto me puso de
+mal humor. ¡Pasé media noche limpiando!
+--- BLOCK ---
+Y no solo eso, mis chicos de la Flota
+de caza tenían que haber llegado hace
+siglos. Nunca tardan tanto tiempo.
+--- BLOCK ---
+¡Estoy muy preocupada! Si no supiera que
+están hechos de hierro y fuego, saldría
+al mar a rescatarlos yo misma.
+--- BLOCK ---
+Bueno, vuelve más tarde, cariño,
+cuando la Pesquería vuelva a funcionar.
+¿Vale?
+--- BLOCK ---
+<SUBS 0>
+¡Buf! Parece que por fin he conseguido
+ordenar este sitio. Ya era hora.
+--- BLOCK ---
+Ah, ahora que lo pienso, cariño,
+¿te has pasado ya por la Granja?
+--- BLOCK ---
+No somos los únicos que llenamos
+el estómago de los aldeanos, así que
+ve allí a saludar al granjero jefe.
+--- BLOCK ---
+¡Estará encantado de conocerte!
+<SUBS 1>
+--- BLOCK ---
+¡Santo cielo! ¿Te puedes creer esto?
+Si no es una cosa, pues claro,
+tendrá que ser otra.
+--- BLOCK ---
+¿Qué ha pasado con los días en que los
+sucesos eran culpa de las corrientes?
+Ahora un Laginosequé nos martiriza.
+--- BLOCK ---
+Bueno, al menos hemos podido salvar uno
+de los barcos y, aún más importante,
+la vida de nuestros chicos. ¡Pescaremos!
+--- BLOCK ---
+Lo que me recuerda: ahora que eres parte
+de nuestra aldea, ¿no quieres saber
+cómo funciona la Flota de caza?
+--- BLOCK ---
+Je, je. ¡Eso creía!
+Bien, escucha, cariño, te voy a
+enseñar lo básico.
+--- BLOCK ---
+El capitán de la flota es quien manda
+en el agua, pero yo le digo adónde ir.
+¿Tienes alguna petición? Habla conmigo.
+--- BLOCK ---
+Pero hay que hacerles caso cuando hablan
+sobre una región antes de enviarlos.
+Son los que mejor conocen el mar.
+--- BLOCK ---
+Si envías el barco a un lugar cercano,
+volverá en un día. Si lo envías lejos,
+estará fuera más tiempo.
+--- BLOCK ---
+Cuando regrese un barco, pásate por
+aquí a verme. Te daré tu parte
+del cargamento.
+--- BLOCK ---
+El barco solo puede almacenar cierta
+cantidad, así que tendrás que venir a
+descargarlo antes de que vuelva a salir.
+--- BLOCK ---
+Además, aquí utilizamos Avíos como estos
+para ayudar a nuestros barcos
+en sus viajes.
+--- BLOCK ---
+Puedes seleccionar Avíos en el menú
+Enviar barcos. Sé que harás buen uso
+de él.
+--- BLOCK ---
+Ah, una cosa más. El hijo del Jefe puede
+utilizar el pescado del cargamento de
+la Flota de caza para generar Recursos.
+--- BLOCK ---
+¡Ah! Crees que puedes aprender sobre
+la marcha, ¿eh? Bueno, admiro tu temple.
+--- BLOCK ---
+Pero toma, al menos deberías tener esto.
+Utilizamos Avíos como estos para ayudar
+a nuestros barcos en sus viajes.
+--- BLOCK ---
+Puedes seleccionar Avíos en el menú
+Enviar barcos. Sé que harás buen uso
+de él.
+--- BLOCK ---
+¡Vaya, cariño, nos has ayudado de
+verdad! Te daría un abrazo, si no
+tuviera tripas de pescado encima.
+--- BLOCK ---
+Ahora que tenemos un segundo barco en
+la Flota de caza, ¡puedes enviar a
+los chicos a dos lugares a la vez!
+--- BLOCK ---
+Te diré una cosa, cariño, la aldea
+estaba muy mal, pero, desde que has
+llegado, ha mejorado. ¡Eres un crack!
+--- BLOCK ---
+¡Soy fan tuya, cariño! Por fin tenemos
+los tres barcos de nuevo en el mar.
+¡La Flota de caza vuelve a estar entera!
+--- BLOCK ---
+¡Mis chicos están emocionados! Nunca
+los había visto tan animados
+con su trabajo.
+--- BLOCK ---
+Si necesitas algo, cualquier cosa,
+llámame, ¿vale? ¡Lo digo en serio,
+cariño! Estamos a tu servicio.
+--- BLOCK ---
+¿El pequeñajo tiene una nueva máscara?
+Ja, ja, menudo cuadro.
+--- BLOCK ---
+Bueno, como solía decir mi marido, por
+mucho que te tapes la cara, nunca será
+suficiente... Nunca me gustó mi marido.
+--- BLOCK ---
+¿Qué? ¿Ahora te van siguiendo dos
+enanos? Hazme caso, es como llevar
+gigantes.
+--- BLOCK ---
+No te preocupes, cariño. Si se pasan de
+la raya, mi regazo es lo bastante amplio
+como para darles azotes a los dos.
+--- BLOCK ---
+Cariño, ¡¡has vuelto!! Oh, menos mal.
+Estaba muy preocupada. Unos minutos más
+y me habría lanzado al agua a buscarte.
+--- BLOCK ---
+¡Le dije al Jefe que deberíamos mudarnos
+a algún otro lugar, en vez de enviarte
+en una misión tan peligrosa!
+--- BLOCK ---
+Hay muchos peces en el mar,
+y el mar es mucho más grande que esto.
+Pero entiendo cómo se siente el Jefe...
+--- BLOCK ---
+Bueno, todo ha salido bien.
+Me alegro mucho de que estés a salvo,
+cariño. Los chicos y tú sois mi vida.
+--- BLOCK ---
+¡La Pesquería es como una gran familia y
+tu madre está muy orgullosa de ti!
+--- BLOCK ---
+Cariño, recuerdo cuando llegaste a la
+aldea por primera vez, estabas verde
+como el mar que cruzaste. ¡Mírate ahora!
+--- BLOCK ---
+Mis chicos están tan celosos que están
+haciendo horas extras. ¡Pescan con
+ambición!
+--- BLOCK ---
+Verás cómo a partir de ahora te traen
+una buena pesca. Te lo dije, darles caña
+a esos vagos da sus frutos.
+--- BLOCK ---
+¡Santa caballa, madre del barbo!
+¿Es verdad que le has dado una buena
+tunda a un Lagiacrus marmóreo?
+--- BLOCK ---
+Mis chicos nunca han visto uno, y ahora
+seguro que te paseas por ahí con sus
+ojos o algo peor.
+--- BLOCK ---
+Esto... ¿Seguro que no quieres cambiar
+de profesión? ¿Dedicarte a pescar y
+devolverle la gloria a nuestra flota?
+--- BLOCK ---
+Quiero decir, ¿no te aburres después de
+tanto tiempo cazando monstruos?
+... Mejor no respondas.
+--- BLOCK ---
+¡Ah, eres tú! Me alegro de verte.
+--- BLOCK ---
+¡Ja! Sabía que vendrías por aquí.
+--- BLOCK ---
+¡Anda, estás aquí!
+--- BLOCK ---
+¡Bueno, no te cortes!
+--- BLOCK ---
+¡Gracias, cariño! ¡Sigue trabajando así!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Bueno, cazador, hablemos de negocios.
+Debo mantener a mis chicos ocupados.
+--- BLOCK ---
+Vale, ¿en qué puedo ayudarte hoy?
+--- BLOCK ---
+Venga, ¿qué te parece si ponemos
+a mis muchachos a trabajar?
+--- BLOCK ---

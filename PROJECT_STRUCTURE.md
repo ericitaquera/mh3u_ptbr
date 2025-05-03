@@ -16,6 +16,8 @@ gmd_texts/*/*/*/*/*/*/*/*.txt
 
 These are the original `.gmd` script text files extracted from the Spanish version of the game. Each file contains dialogue lines or UI messages tied to NPCs or interface elements:
 
+Example:
+
 * `Npc001_spa.txt` through `Npc025_spa.txt`: NPC dialogue
 * `NpcName_spa.txt`: NPC name labels
 

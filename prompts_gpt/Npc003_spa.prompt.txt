@@ -5,9 +5,3 @@ Seu trabalho é traduzir falas da personagem Aisha, a recepcionista da Guilda.
 Sempre, sempre leve em conta o contexto que é uma personagem do jogo Monster Hunter 3 Ultimate.
 Leve em conta os lugares do mapa do jogo como nomes de cidades, construções e acidentes geográficos.
 Evite traduções formais demais.
-
-
-
-Preservar os blocos que contém apenas nomes de constantes (uma única palavra toda em maiúsculas), tags <> e %s.
-Os blocos são delimitados entre "--- BLOCK ---"
-Manter a mesma quantidade de linhas do texto dentro de cada bloco.

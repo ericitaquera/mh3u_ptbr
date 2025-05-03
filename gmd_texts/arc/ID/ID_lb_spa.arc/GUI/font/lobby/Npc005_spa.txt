@@ -1,0 +1,732 @@
+﻿TMSG_NPC005_0
+--- BLOCK ---
+TMSG_NPC005_1
+--- BLOCK ---
+TMSG_NPC005_2
+--- BLOCK ---
+TMSG_NPC005_3
+--- BLOCK ---
+TMSG_NPC005_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Un Espadachín sin Piedras de afilar no
+vale. Los cazadores listos aprovisionan.
+--- BLOCK ---
+<SUBS 0>
+¡No hace falta que acumules trastos! 
+Véndeme lo que no necesites.
+--- BLOCK ---
+<SUBS 0>
+Mi mercado es el más barato de la
+ciudad, además de ser el único.
+--- BLOCK ---
+<SUBS 0>
+Ni la lluvia ni la actividad sísmica
+me obligarán a cerrar la tienda.
+--- BLOCK ---
+<SUBS 0>
+¡Objetos a mitad de precio cuando el
+Argosy esté en el puerto! ¡Una locura!
+--- BLOCK ---
+<SUBS 0>
+Las pociones son esenciales para la caza
+y por eso siempre tengo en la tienda.
+--- BLOCK ---
+<SUBS 0>
+El Pico y la Red de bichos combinan como
+Bichos amargos y la Miel. No lo olvides.
+--- BLOCK ---
+<SUBS 0>
+¿Quieres un consejo? Combina una Hierba
+con una Seta azul para crear una Poción.
+--- BLOCK ---
+<SUBS 0>
+¡Combina Miel en una poción para crear
+la supersaludable Megapoción!
+--- BLOCK ---
+<SUBS 0>
+Combina una Hierba de fuego y un Barril
+pequeño para crear la Bomba barril pq.
+--- BLOCK ---
+<SUBS 0>
+Puedes usar las Bombas barril incluso
+bajo el agua. ¡Un triunfo de la ciencia! 
+--- BLOCK ---
+<SUBS 0>
+Los Bichos amargos se pueden combinar
+para crear medicinas. ¡Hazte con ellos!
+--- BLOCK ---
+<SUBS 0>
+Si comes Pez sushi crudo, recuperarás la
+Salud. ¡Una delicia si estás en apuros!
+--- BLOCK ---
+<SUBS 0>
+Crea munición de Ballesta con bayas o
+pescado cuando tengas poca munición.
+--- BLOCK ---
+<SUBS 0>
+Los Arpones facilitan capturar peces en
+el mar. ¡Seguro que eres un profesional!
+--- BLOCK ---
+<SUBS 0>
+Si combinas con Libros de combos,
+tendrás mayor probabilidad de éxito.
+--- BLOCK ---
+Hay distintos tipos de Picos, desde
+antiguo hasta megapico. Los mejores
+tienen menos posibilidades de romperse.
+--- BLOCK ---
+Hay distintos tipos de Redes de bichos,
+desde antigua hasta megarred. Los
+mejores se rompen con menos facilidad.
+--- BLOCK ---
+<SUBS 0>
+La verdad, prefiero una Carne tostada
+crujiente que un Filete muy hecho.
+--- BLOCK ---
+<SUBS 0>
+Consejo para el hogar: las Plantas de
+savia son ideales para quitar el polvo.
+--- BLOCK ---
+<SUBS 0>
+*Suspiro* ¿Por qué solo piso Bayas
+pintura cuando llevo zapatos nuevos?
+--- BLOCK ---
+<SUBS 0>
+Aplica una Baya aguja en tus puntos de
+presión para eliminar el estrés.
+--- BLOCK ---
+<SUBS 0>
+¿Que tiene de raro el Hueso misterioso? 
+¿Será el misterio de su misterio?
+--- BLOCK ---
+<SUBS 0>
+Dar de comer Carne envenenada o tóxica a
+un monstruo facilitará su caza.
+--- BLOCK ---
+<SUBS 0>
+Un Disparo cortador es una bola de 
+cuchillas que corta la cola de un tajo.
+--- BLOCK ---
+<SUBS 0>
+Si atacas a un monstruo grande con
+Disparos de fatiga, se quedará cansado.
+--- BLOCK ---
+<SUBS 0>
+No sueñes con capturar monstruos. ¡Hazlo
+de verdad con una Herramienta trampa!
+--- BLOCK ---
+<SUBS 0>
+El Zumo de poder detiene la pérdida de
+Resistencia. ¡Bébelo mientras atacas!
+--- BLOCK ---
+<SUBS 0>
+Los monstruos grandes odian el olor de
+las Bombas Boñiga. ¡Ahuyéntalos!
+--- BLOCK ---
+<SUBS 0>
+Aprende cómo es una zona y tira el Mapa
+para dejar sitio en la Bolsa de objetos.
+--- BLOCK ---
+<SUBS 0>
+Los productos perecederos están salados.
+Ojalá inventaran la refrigeración. 
+--- BLOCK ---
+<SUBS 0>
+Me encantan las Bombas sónicas. A veces
+las tiro solo para escucharlas.
+--- BLOCK ---
+<SUBS 0>
+Si la cosa se pone difícil, cómete una
+Semilla armadura. Aumenta tus defensas.
+--- BLOCK ---
+<SUBS 0>
+Una Bomba barril pq. encendida puede ser
+la bomba. Je, je.
+--- BLOCK ---
+<SUBS 0>
+Los mapas son Suministros, así que no
+escribas información personal en ellos.
+--- BLOCK ---
+<SUBS 0>
+Por mucho calor que tengas, no intentes
+refrescarte con un Disparo de agua.
+--- BLOCK ---
+<SUBS 0>
+Cuando lanzo una Piedra, quiero usar
+Mineral hierro o Mineral machalita.
+--- BLOCK ---
+A veces los Huesos de monstruo son
+muy grandes para ser pequeños, y muy
+pequeños para ser medianos. *Suspiro*
+--- BLOCK ---
+<SUBS 0>
+A pesar de su nombre, el Cebo pez sushi
+NO se usa en sushi. Demasiado mercurio.
+--- BLOCK ---
+Yo prefiero el Filete poco hecho, pero
+restaura menos Resistencia que uno muy
+hecho. Le doy más importancia al sabor.
+--- BLOCK ---
+<SUBS 0>
+Disp. normal Nv3 está hecho para rebotar
+y la buena puntería causa daño repetido.
+--- BLOCK ---
+<SUBS 0>
+¿Te has preguntado si una Trampa choque
+al mínimo daría un buen masaje? Pues no.
+--- BLOCK ---
+<SUBS 0>
+Si los Cuchillos de lanzamiento se te
+dan bien, ¡dejaré que me los lances! Je.
+--- BLOCK ---
+<SUBS 0>
+Oí que un hombre bebió Zumo de poder
+para evitar la ejecución de su amigo.
+--- BLOCK ---
+<SUBS 0>
+La Droga demoníaca es una medicina que
+concede el poder de un demonio bueno.
+--- BLOCK ---
+<SUBS 0>
+Me pregunto qué otra cosa endurecerá la
+Piel de armadura. Quizá nunca se sepa.
+--- BLOCK ---
+<SUBS 0>
+Para los Artilleros es injusto no poder
+disparase a sí mismos con Disp. recup.
+--- BLOCK ---
+<SUBS 0>
+Hasta el Disp. normal Nv1 puede derribar
+a un dragón, según los Artilleros.
+--- BLOCK ---
+<SUBS 0>
+Uso Piedras de afilar en las cutículas, 
+pero no convierten mis uñas en armas.
+--- BLOCK ---
+<SUBS 0>
+Dicen que los Bichos divinos viven miles
+de años, pero me parece muy raro.
+--- BLOCK ---
+<SUBS 0>
+Claro que los Nutrientes son buenos,
+pero necesitas una dieta equilibrada.
+--- BLOCK ---
+¿Sabías que las raíces del Hongo dragón
+tienen forma humana? Seguro que son
+perfectas para hechizar a la gente. Je.
+--- BLOCK ---
+<SUBS 0>
+Una Bomba boñiga se activó dentro de
+una tienda y hubo que cerrar el local.
+--- BLOCK ---
+<SUBS 0>
+¿Qué es el Fluido monstruo? ¿Moco,
+sudor, lágrimas? Mejor no saberlo.
+--- BLOCK ---
+<SUBS 0>
+Ahora los investigadores del Gremio
+buscan cómo reutilizar la Basura.
+--- BLOCK ---
+Dicen que el Psicosuero te despierta el
+sexto sentido. Deja ver lo invisible o
+eso dice el Jaggi que está detrás de ti.
+--- BLOCK ---
+<SUBS 0>
+A un cazador le prohibieron echar pulsos
+por tomar Semillas de poder.
+--- BLOCK ---
+<SUBS 0>
+A algunos cazadores les gusta el olor de
+las Bolas de pintura. Pudren el cerebro.
+--- BLOCK ---
+<SUBS 0>
+La Flauta atrayente requiere unos buenos
+pulmones. Yo no puedo soplar...
+--- BLOCK ---
+<SUBS 0>
+¿Ves lo verde que es esta poción? Indica
+que el combinador era hábil.
+--- BLOCK ---
+<SUBS 0>
+¿Has olido una Paraliseta alguna vez? 
+Olerla me hace cosquillas en la nariz.
+--- BLOCK ---
+<SUBS 0>
+¿Sabes lo que no entiendo? Por qué es
+tan difícil lanzar las Bombas de luz.
+--- BLOCK ---
+<SUBS 0>
+Mis Bebidas calientes son de chocolate,
+pero he oído que también hay de manzana.
+--- BLOCK ---
+<SUBS 0>
+Hay un nuevo sabor de Bebida fría. 
+¡Ahora puedes tomarla de Insecto dulce!
+--- BLOCK ---
+<SUBS 0>
+La Carne envenenada tiene un tono lila
+muy bonito. Me pregunto a qué sabrá.
+--- BLOCK ---
+<SUBS 0>
+¡Combina Mineral machalita con Hueso
+para fabricar un Megapico!
+--- BLOCK ---
+<SUBS 0>
+Podría atrapar a un cazador gordo con la
+Trampa escollo, pero ninguno está gordo.
+--- BLOCK ---
+<SUBS 0>
+No quiero comprar más Boñiga de la que
+debo. Llévatela a otra parte, por favor.
+--- BLOCK ---
+<SUBS 0>
+La Poción máx. es un suero supersecreto.
+Si la encuentras, no digas nada.
+--- BLOCK ---
+Soy una gran admiradora del Héroe de
+Kokoto. ¡Se atrevería a darle una patada
+a una Bomba barril grande por diversión!
+--- BLOCK ---
+<SUBS 0>
+Dicen que en la ciudad usan moneda
+falsa, pero en Moga no habrá problemas.
+--- BLOCK ---
+<SUBS 0>
+Cuando las cosas se salgan de madre, da
+una patada a una Bomba barril grande.
+--- BLOCK ---
+<SUBS 0>
+A veces me duele la cabeza cuando me
+meto un Cristal hielo en la boca. Ag...
+--- BLOCK ---
+El equipo forense del Gremio puede saber
+el tipo de proyectil de Ballesta usado,
+¡analizando la Cáscara de hueso gastada!
+--- BLOCK ---
+<SUBS 0>
+Si una persona sorda como una tapia toca
+la Flauta de Salud, ¿sonará?
+--- BLOCK ---
+<SUBS 0>
+¡Vi a un artista callejero comer Semilla
+fuego y echar llamas! ¡No lo intentes! 
+--- BLOCK ---
+<SUBS 0>
+Entre tú y yo: no soporto el sabor de
+los Antídotos... ¡Es tan medicinal!
+--- BLOCK ---
+<SUBS 0>
+Un glotón podría coger un Pez sushi
+y cocerlo o hervirlo... Menudo error.
+--- BLOCK ---
+<SUBS 0>
+El Jefe prefiere la Medicina herbal a
+las Pociones. Perro viejo, truco nuevo.
+--- BLOCK ---
+Una vez que has tenido Piedra fuego en
+tus manos, nunca te volverás a conformar
+con Mineral machalita.
+--- BLOCK ---
+¡Que te tasen una Piedra oxidada siempre
+es muy emocionante! ¡Es como abrir
+un regalo de cumpleaños!
+--- BLOCK ---
+No vienes a verme lo suficiente, así que
+¡voy a hacer liquidación por cierre!
+¡Te parecerá bonito!
+--- BLOCK ---
+La verdad es que nos va bien. Solo
+intento hacerte sentir culpable para
+que compres más a menudo. Je, je.
+--- BLOCK ---
+Los medicamentos de Primeros auxilios
+están envueltos en papel poco resistente
+y no los puedes sacar del campo.
+--- BLOCK ---
+Parece creíble, ¿verdad? Anda,
+apáñatelas...
+--- BLOCK ---
+No eres ningún maestro de la combinación
+si no sabes distinguir entre el verde de
+una Poción y el verde de una Megapoción.
+--- BLOCK ---
+¿Ves la diferencia?
+--- BLOCK ---
+No lo vayas contando, pero hay dos tipos
+de Suministro de oxígeno: uno con aire
+puro y otro hecho en fábricas de Felyne.
+--- BLOCK ---
+Eso dicen. Comprueba siempre que tu aire
+no tenga bolas de pelo. Je.
+--- BLOCK ---
+¿Qué? ¿Un cliente? ¿De verdad?
+--- BLOCK ---
+¡Ah, debes de ser el cazador que acaba
+de llegar a la aldea! Espero que esto no
+suene raro: ¡me encantan los cazadores!
+--- BLOCK ---
+Soy como una fan de los cazadores. Por
+eso tengo el Mercado, ¡para conocerlos!
+--- BLOCK ---
+Bueno, no vendo ni armas ni armaduras,
+pero ofrezco muchas herramientas
+indispensables para los cazadores.
+--- BLOCK ---
+Tengo lo esencial para la recogida de
+objetos como Picos, Redes de bichos,
+cebos, plantas... Todo lo indispensable.
+--- BLOCK ---
+Necesitarás buen equipo si quieres
+sobrevivir mucho tiempo en el Bosque de
+Moga. ¡Está hasta arriba de monstruos!
+--- BLOCK ---
+Los terremotos han afectado al comercio,
+pero estoy haciendo contactos nuevos
+y espero poder aumentar el inventario.
+--- BLOCK ---
+¡Tienes que venir todos los días a ver
+mis existencias! ¡No hagas que te
+persiga! ¡Es broma! Je, je, es broma...
+--- BLOCK ---
+<SUBS 0>
+Ah, ¿buscas al hijo del Jefe?
+¿No a mí? ¿Seguro? Vale...
+--- BLOCK ---
+Si no está aquí en la aldea, debe
+de haber ido al bosque.
+--- BLOCK ---
+El Bosque de Moga se encuentra a
+las afueras de la aldea.
+--- BLOCK ---
+El hijo del Jefe es el encargado de
+recoger los Recursos allí. Está al
+cruzar el puente. Ve a echar un vistazo.
+--- BLOCK ---
+¡Cazador!
+--- BLOCK ---
+Ah, sí. Déjame que te lo cuente antes
+de que se me olvide...
+--- BLOCK ---
+El hijo del Jefe ha dejado algunos de
+los Asadores de barbacoa que hizo.
+¡Está hecho todo un Maestro asador!
+--- BLOCK ---
+Me he tomado la libertad de añadirlos
+a mi inventario.
+--- BLOCK ---
+Puedes cocinar tu Carne cruda para
+que sea comestible con uno de estos.
+A menos que prefieras la carne tártara.
+--- BLOCK ---
+Te avisaré cuando reciba cosas nuevas
+en el inventario.
+--- BLOCK ---
+Es mejor que vengas todos los días.
+No hagas que te persiga, cazador. ¡Je!
+--- BLOCK ---
+¡Aquí estás! ¿Dónde has estado?
+--- BLOCK ---
+Creía que teníamos un acuerdo: tú vienes
+a verme diariamente, ¡y yo no te
+perseguiré! Bueno...
+--- BLOCK ---
+Tengo algunos objetos nuevos. ¡En cuanto
+llegaron me acordé de ti!
+--- BLOCK ---
+Aunque, claro, la mayoría de las cosas
+me recuerdan a vosotros, los cazadores.
+Bueno, se trata de Libros de combos.
+--- BLOCK ---
+Estoy segura de que has estado
+combinando objetos, ¿verdad? ¿VERDAD?
+--- BLOCK ---
+Con un Libro de combos en tu Bolsa de
+objetos, aumenta la tasa de éxito
+de combinación. Es práctico, ¿verdad?
+--- BLOCK ---
+Un libro aumenta tu tasa de éxito
+ligeramente, dos libros aún más. Con
+tres libros... bueno, ya lo imaginas.
+--- BLOCK ---
+Tendrás que sacrificar espacio de tu
+Bolsa, pero tendrás menos posibilidades
+de obtener Basura. ¡No contamines!
+--- BLOCK ---
+De momento solo tengo los dos primeros
+volúmenes, ¡pero creo que son
+indispensables! Cómpralos. O no. Je, je.
+--- BLOCK ---
+¡Te doy la bienvenida, cazador!
+--- BLOCK ---
+El negocio ha mejorado mucho desde que
+el Argosy vuelve a venir por la aldea.
+Desde ahora, cuando esté atracado...
+--- BLOCK ---
+¡Ciertos objetos estarán a mitad de
+precio! ¡Una ganga!
+--- BLOCK ---
+He recibido un montón de objetos nuevos.
+¡Qué alivio! Antes de que volviera el
+Argosy, temía quedarme sin existencias.
+--- BLOCK ---
+Digo yo, que si vas a lugares más
+calurosos, deberías llevar Bebida fría.
+--- BLOCK ---
+Pasar mucho tiempo en zonas
+sofocantes mina la Salud.
+--- BLOCK ---
+Una Bebida fría despejará tu cabeza y te
+ayudará a combatir el calor, así dejarás
+de perder Salud un rato. ¡Mola! Je.
+--- BLOCK ---
+Las estoy vendiendo tan baratas que
+dicen que estoy loca. Pero no lo estoy.
+Es que me gustan los cazadores. Mucho.
+--- BLOCK ---
+¡Hola, cazadorín!
+¿Cómo esperas que te hable de objetos
+nuevos si no vienes a verme cada hora?
+--- BLOCK ---
+Tengo el sueño de todo Artillero: ¡un
+arsenal de munición de Ballesta! Hasta
+un Espadachín cambiaría de especialidad.
+--- BLOCK ---
+Y también tengo mi favorito:
+¡la Guía organizador!
+--- BLOCK ---
+Esta revista te permitirá sacarle
+el máximo partido, o meterle,
+a tu Caja de objetos.
+--- BLOCK ---
+¡No tendrás que volver a preocuparte de
+quedarte sin espacio! ¡Los cazadores
+tenéis cosas mejores en las que pensar!
+--- BLOCK ---
+El precio es un poco alto, pero podría
+canjearlo por un mechón de tu pelo.
+¡O tu armadura usada! ¡Es broma! Je, je.
+--- BLOCK ---
+¡Aquí estás!
+Estaba deseando que vinieras por aquí.
+--- BLOCK ---
+¡Mi negocio ha vivido un gran avance!
+Por fin he encontrado un buen proveedor
+para el valioso Disparo de perdigón Nv3.
+--- BLOCK ---
+Ahora no tendrás que escatimar en la
+potencia de fuego pesada. Se me acelera
+el pulso de pensar en ti usándolo. Je.
+--- BLOCK ---
+También tengo otros objetos nuevos.
+Algunos pueden parecer algo esotéricos,
+pero confía en mí, ¡los necesitas!
+--- BLOCK ---
+Examina mis cacharros todo el tiempo que
+quieras. En serio. Quédate un rato o
+para SIEMPRE. Je, je. Es broma.
+--- BLOCK ---
+Madre mía. Las cosas se han puesto feas
+¡incluso contigo aquí!
+--- BLOCK ---
+En momentos como este, es muy importante
+trabajar duro y no mirar atrás, ¿verdad?
+--- BLOCK ---
+Con eso en mente, te presento
+la Guía chamarilero.
+--- BLOCK ---
+Pertenece a la misma serie que la Guía
+organizador de antes. Ofrece consejos
+sobre cómo usar la Caja de objetos.
+--- BLOCK ---
+Sinceramente, creo que este libro podría
+cambiarte la vida...
+--- BLOCK ---
+¡Yo lo leí, y mírame! ¿Ves?
+--- BLOCK ---
+Hola, pequeñajo. 
+Hoy tienes un aspecto diferente...
+¿Te has cambiado de máscara?
+--- BLOCK ---
+¡Te sienta muy bien! No es que tu
+máscara de siempre te quedara mal. Je.
+--- BLOCK ---
+¿Qué? ¡Dos enanos enmascarados!
+--- BLOCK ---
+¡Por un segundo pensé que alguien me
+había puesto psicosuero y veía doble!
+--- BLOCK ---
+<SUBS 0>
+Estás preparándote para partir, ¿verdad?
+Te oí hablando con el Jefe.
+--- BLOCK ---
+Pasa otra hora, o diez, comprando antes
+de irte, por favor. Puede que encuentres
+lo que necesitas para salvar la aldea.
+--- BLOCK ---
+Vuelve con vida ¿vale? Si no, necesitaré
+una nueva obsesión. Herreros, quizá...
+--- BLOCK ---
+¡Te doy la bienvenida a casa!
+--- BLOCK ---
+¡Me alegro mucho de que hayas vuelto con
+vida! Temía perder mi razón para viv...
+digo, mi cliente "prefe". Je, je.
+--- BLOCK ---
+Aún quedan tantas cosas que me gustaría
+saber sobre los cazadores valientes como
+tú. Y, sin embargo, solo diré...
+--- BLOCK ---
+"Hola, ¿en qué puedo ayudarte?" Je, je.
+--- BLOCK ---
+"Hola, ¿en qué puedo ayudarte?"
+--- BLOCK ---
+¡No sabes lo feliz que me hace decirte
+de nuevo esas cinco palabras!
+--- BLOCK ---
+Después de todo, ni el Jefe pudo
+ocuparse de un Lagiacrus marmóreo.
+--- BLOCK ---
+Temía que volvieras todo golpeado y
+con ganas de abandonar, tal y como
+hizo el Jefe. 
+--- BLOCK ---
+Pero aquí estás, ¡y justo a tiempo!
+Ya estaba empezando a temblar.
+--- BLOCK ---
+¡Hola! Echa un vistazo.
+--- BLOCK ---
+Muchas gracias por pasar por aquí.
+--- BLOCK ---
+Mmm, veamos qué puedo hacer por ti.
+--- BLOCK ---
+Puedes mirar todo el tiempo que quieras.
+--- BLOCK ---
+¡Te doy la bienvenida, a tu disposición!
+--- BLOCK ---
+¿Quieres que te atienda con una sonrisa?
+--- BLOCK ---
+Hola. Hoy estás de compras, ¿verdad?
+--- BLOCK ---
+¡Vaya, si es mi cliente "prefe"!
+--- BLOCK ---
+Ah, lo has logrado. ¡Hurra!
+--- BLOCK ---
+Ah, sí. Tenía algo que contarte.
+--- BLOCK ---
+Ah, ya me acuerdo.
+--- BLOCK ---
+Toma esto.
+--- BLOCK ---
+¡Anda, estás aquí!
+--- BLOCK ---
+Tenía el presentimiento de que vendrías.
+--- BLOCK ---
+¡Te he estado esperando!
+--- BLOCK ---
+Hace buen tiempo, ¿no te parece?
+--- BLOCK ---
+¡Me volvería loca sin mis clientes! Je.
+--- BLOCK ---
+Bonito día, ¿eh?
+--- BLOCK ---
+¿Ah? ¿Haciendo unas compras?
+--- BLOCK ---
+Muchas gracias.
+¡Vuelve a venir lo antes posible!
+--- BLOCK ---
+Creo que podría mantener mi negocio solo
+contigo. ¡Ven pronto a comprar más!
+--- BLOCK ---
+¡Te veo luego! Je, je.
+¡A no ser que me veas tú primero!
+--- BLOCK ---
+Vuelve cuando quieras.
+Siempre tengo algo para ti.
+--- BLOCK ---
+¡Gracias!
+¡Nos vemos pronto!
+--- BLOCK ---
+Pásate la próxima vez que estés libre.
+¡Te estaré esperando! ¡Siempre!
+--- BLOCK ---
+Muchísimas gracias por el trato.
+¿Has visto algo que te guste?
+--- BLOCK ---
+¡Gracias por depositar tu confianza
+en mí! Huy, qué formal me ha quedado...
+--- BLOCK ---
+¡Gracias, cazador!
+--- BLOCK ---
+Aquí siempre se agradece tu visita,
+aunque vengas solo a charlar o lo que
+quieras.
+--- BLOCK ---
+¡Si hay otras tiendas que logren
+seducirte, dímelo!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Eh... bueno.
+Empezamos de nuevo. ¿Puedo ayudarte?
+--- BLOCK ---
+Continuamos... Aunque solo hayas venido
+a mirar, tómate tu tiempo.
+--- BLOCK ---
+¡Ven a ver las ofertas del día!
+--- BLOCK ---
+Si quieres, pásate horas mirando.
+--- BLOCK ---
+Bueno.
+Aquí tienes. ¡El inventario de hoy!
+--- BLOCK ---
+Vale.
+¡Tengo todo lo que necesitas!
+--- BLOCK ---
+¿Eh? ¿Es que tienes prisa o algo?
+Bueno, bueno. Te doy la bienvenida
+a mi tienda.
+--- BLOCK ---
+Vale, pongámonos serios...
+¿Qué puedo hacer por ti?
+--- BLOCK ---
+¿Qué se me ha olvidado?
+¡Ah! Las compras, claro.
+--- BLOCK ---
+Bueno, aquí están los objetos.
+--- BLOCK ---
+Y ya está. Je.
+¿Qué es lo que necesitabas?
+--- BLOCK ---
+¡Ah, sí, la tienda!
+--- BLOCK ---
+¡Y ahora a comprar, comprar y comprar!
+--- BLOCK ---
+Puedes holgazanear todo lo que quieras.
+¡Nos pasaremos el día hablando!
+--- BLOCK ---
+Y ahora...
+Escoge lo que más rabia te dé.
+--- BLOCK ---
+Fascinante, ¿verdad?
+¿Te han entrado ganas de comprar?
+--- BLOCK ---
+Espero que recuerdes algo de esto...
+Mientras tanto, de vuelta al tajo.
+--- BLOCK ---
+Y así son las cosas.
+Aun así, echa un vistazo.
+--- BLOCK ---
+*Suspiro*
+Dejaré que compres. Tómate tu tiempo.
+--- BLOCK ---
+Eh.
+No es momento de ser tacaño, ¿sabes?
+--- BLOCK ---
+Madre, mírame, charla que te charla.
+Estás aquí para comprar, ¿verdad?
+--- BLOCK ---

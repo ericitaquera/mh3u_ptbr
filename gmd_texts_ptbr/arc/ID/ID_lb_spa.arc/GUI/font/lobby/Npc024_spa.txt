@@ -18,13 +18,13 @@ Miau? Ainda em missão! Se querer
 ir ao porto, precisa kyanseru antes
 da missão. "Kyanseru" é cancelar!
 --- BLOCK ---
-<SUBS 0>Neko com ciúmes do
+<SUBS 0>Neko com ciúmes
 cabelo do Capitão, tenta fazer
 mesmo penteado! Fica ondulado...
 --- BLOCK ---
-Folha de Neko presente do capitão.
+Lâmina de Neko presente do capitão.
 Neko trabalhar no Argosy, mas aprender
-também Esgrima suja... Ña! Já! Ma!
+também Esgrima suja... Nhá! Ha! Ma!
 --- BLOCK ---
 <SUBS 0>Neko e capitão gostar
 de Moga, chamar de "Makaimura".
@@ -35,18 +35,18 @@ honto, mas Neko usa para
 entregar artigos e material.
 --- BLOCK ---
 <SUBS 0>Você fez torihiki
-com o capitão da
-Argosy? "Torihiki" significa negócio!
+com o capitão do Argosy?
+"Torihiki" significa negócio!
 --- BLOCK ---
 Tanzia tem vários sabores. Tem Porto
-Multi, Porto Solo, Portos Amigos...
+Multi, Porto Solo, Porto Amigos...
 --- BLOCK ---
-Lobo solitário como Neko preferir jogar no
+Lobo solitário como Neko preferir jogar
 Porto Solo. Caçador com muitos amigos
-deve jogar no Porto Multi, miau.
+deve jogar Porto Multi, miau.
 --- BLOCK ---
 <SUBS 0>Quando bravo caçador no
-porto, Neko te ajudar
+Porto, Neko te ajudar
 com a Fazenda. Promessa!
 --- BLOCK ---
 Saudações, caçador! Estar diante
@@ -64,7 +64,7 @@ Tarefas muuuito importantes. Juyo, juyo!
 Tigre deve ter muitas
 listras, sabe? Miau então...
 --- BLOCK ---
-Já conhecer o capitão do Argosy?
+Já conhecer capitão do Argosy?
 Ele e Neko ter mesma
 forma masculina de falar. Wakaru?
 --- BLOCK ---
@@ -76,8 +76,8 @@ Capitão do Argosy confiar a Neko
 ninmu especial aqui na Aldeia
 de Moga. "Ninmu" significa encargo!
 --- BLOCK ---
-Neko não ser quem cortar
-bacalhau, bens e artigos principais
+Neko não ser quem cortar bacalhau,
+bens e artigos principais
 ainda depender do capitão.
 --- BLOCK ---
 Mas Neko ter ninmu igualmente importante.
@@ -92,8 +92,8 @@ Querer ir ao Porto Tanzia?
 Neko guardar assento confortável,
 levar você. Sem problema.
 --- BLOCK ---
-Nani? Preço de bilhete? Ma, ja,
-ja! Tigre do Extremo Oriente não
+Nani? Preço de bilhete? Ma, ha,
+ha! Tigre do Extremo Oriente não
 enganar. Levar você de graça!
 --- BLOCK ---
 Talvez compartilhar sabedoria de tigre pelo
@@ -102,19 +102,19 @@ Fazer fogueira... Umm, perigo incêndio...
 --- BLOCK ---
 Tonikaku! O que seja!
 --- BLOCK ---
-Tanzia na verdade três tipos de porto
+Tanzia é na verdade três tipos de porto
 agrupados em hitotsu. "Hitotsu" é um.
 --- BLOCK ---
 Primeiro tipo é Porto Solo. Esse é para
 jogar sozinho; bem privado, como fechar a
-porta do banheiro do universo de caça.
+porta do banheiro do mundo da caça.
 --- BLOCK ---
 Seguinte é Porto Multi. Usar para
 convidar amigos para jogar contigo. Dever
 ser bom naka, bom anfitrião.
 --- BLOCK ---
-Último é Portos Amigos: para visitar
-Portos Multi de amigos, destruir tudo
+Último é Porto Amigos: para visitar
+Porto Multi de amigos, destruir tudo
 e ficar bobo no dia seguinte.
 --- BLOCK ---
 Wakaru? Para ter mundo como Neko,
@@ -140,15 +140,15 @@ Fazendeiro chefe velho amigo de mentor
 de Neko. Quase família. Sua agricultura
 estar em boas mãos! Anzen!
 --- BLOCK ---
-Saudações, caçador! Goran! Finalmente!
-Capitão do Argosy
+Saudações, caçador! Goran!
+Finalmente! Capitão do Argosy
 chegou a Moga.
 --- BLOCK ---
-Capitão muito especial para Neko. Ele
-ser como mentor e patrão e
-consultor de moda tudo em um.
+Capitão muito especial para Neko.
+Ele ser como mentor e patrão e
+consultor de moda tudo em um só.
 --- BLOCK ---
-Conhecido como deus dos negócios no grande
+Conhecido como Deus dos Negócios no grande
 oceano de comércio. "Koeki" significa
 comércio! Deveria conhecê-lo. Zehi!
 --- BLOCK ---

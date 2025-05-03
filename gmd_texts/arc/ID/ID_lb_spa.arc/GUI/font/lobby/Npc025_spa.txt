@@ -1,0 +1,231 @@
+﻿TMSG_NPC025_0
+--- BLOCK ---
+TMSG_NPC025_1
+--- BLOCK ---
+TMSG_NPC025_2
+--- BLOCK ---
+TMSG_NPC025_3
+--- BLOCK ---
+TMSG_NPC025_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Antes de salir, échate la siesta en
+la cama para guardar la partida.
+--- BLOCK ---
+¡Hasta un gato recién nacido sabe eso!
+--- BLOCK ---
+<SUBS 0>
+La Caja de objetos incluye hasta
+un set de acicalado, miau.
+--- BLOCK ---
+Cepíllate el pelo según tu estado de
+ánimo. ¡No tienes pelo de gato! Bueno,
+cambia de ropa y de peinado, miau.
+--- BLOCK ---
+<SUBS 0>
+Cuando vayas ganando equipo puedes crear
+conjuntos de equipo personalizados.
+--- BLOCK ---
+Puedes registrar equipos completos, de
+pies a cabeza. ¡Así los cambios de
+equipo serán un juego de niños!
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que puedes combinar elementos
+dentro de tu Caja de objetos, jefe?
+--- BLOCK ---
+Es muy práctico porque no hace falta
+que muevas los objetos a la Bolsa de
+objetos. ¡Pruébalo! Miau.
+--- BLOCK ---
+<SUBS 0>
+Además puedes organizar tu equipo y tus
+Amuletos en la Caja de Objetos, miau.
+--- BLOCK ---
+Si de vez en cuando ordenas
+el contenido siempre encontrarás
+lo que buscas.
+--- BLOCK ---
+<SUBS 0>
+Te hago la cama todos los días para que
+siempre esté lista para tus siestas.
+--- BLOCK ---
+También lavo y hago limpieza general.
+¡Miau! Tienes suerte de que a
+los Felyne nos guste la pulcritud.
+--- BLOCK ---
+<SUBS 0>
+¿Puedes ver ese molino grande
+de ahí atrás, miau?
+--- BLOCK ---
+Es mi deber arreglarlo si hace falta.
+Es bastante trabajo, la verdad.
+--- BLOCK ---
+<SUBS 0>
+La brisa marina es muy agradable...
+¡excepto si estás hecho de hierro, miau!
+--- BLOCK ---
+Hay que limpiar el metal del cuarto cada
+día para que no se oxide.
+--- BLOCK ---
+<SUBS 0>
+Esta ventana deja entrar la brisa fresca
+pero deja toda la habitación a la vista.
+--- BLOCK ---
+Miau... Se ve todo lo que haces dentro,
+por ejemplo, cambiarte de ropa, lo cual
+podría ser escandaloso, miau.
+--- BLOCK ---
+<SUBS 0>
+Puedes adquirir diferentes y refinados
+mobiliarios en el Argosy.
+--- BLOCK ---
+Colócalo y recolócalo a tu gusto.
+Prometo no arañarlo. Aunque seguro que
+dejaré pelos, miau.
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+Ya estás de vuelta, jefe.
+--- BLOCK ---
+Estoy a cargo de esta estancia. Mientras
+seas huésped de la Aldea de Moga,
+protegeré tus cosas.
+--- BLOCK ---
+Una advertencia: los cazadores que no
+guarden su progreso corren el riesgo de
+perder la fortuna y la fama obtenidas.
+--- BLOCK ---
+Acostúmbrate a la rutina de descansar
+en la cama y guardar tu progreso.
+--- BLOCK ---
+El botín de caza, el exceso de armadura
+y cosas así pueden guardarse en la Caja
+de objetos de la esquina.
+--- BLOCK ---
+La Caja de objetos tiene otro servicio:
+te permite cambiar de equipo,
+miau. Adelante...
+--- BLOCK ---
+Me he tomado la libertad de poner
+una Lámpara seta en tu Caja de
+objetos. Es un regalo de bienvenida.
+--- BLOCK ---
+Siempre estoy dispuesto a ayudarte a
+organizar el mobiliario.
+--- BLOCK ---
+Si deseas volver a ver un vídeo,
+simplemente ve a la Galería, ¡miau!
+La tengo perfectamente organizada.
+--- BLOCK ---
+También te ayudo a estar al corriente
+de tu DLC (contenido descargable).
+--- BLOCK ---
+Conéctate a internet para echarle
+la garra a las misiones y otros extras.
+Es un juego de cachorros, ¿no?
+--- BLOCK ---
+Creo que ya te he explicado todo.
+¡Será un placer servirte
+en lo que desees!
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+Ya estás de vuelta, jefe.
+--- BLOCK ---
+Parece que el Argosy ha vuelto a echar
+ancla en la Aldea de Moga.
+--- BLOCK ---
+Seguro que las bodegas están llenas de
+estupendo mobiliario. Echemos un vistazo
+y démosle un toque perrrsonal.
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+Ya estás de vuelta, jefe.
+--- BLOCK ---
+Debo decir que el terremoto me ha
+afectado mucho, y no lo digo
+por decir.
+--- BLOCK ---
+Pero ahora estás aquí para protegernos.
+No tengo duda de que hallarás y pondrás
+fin a la causa de mis males, miau.
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+¿Es... verdad?
+--- BLOCK ---
+He oído que has decidido cazar
+un monstruo terriblemente grande.
+--- BLOCK ---
+Pero... ¿y el peligro que vas a correr?
+¡Temo que no vuelvas, miau!
+--- BLOCK ---
+Mrrr...
+Creo que debo hacerte esta promesa por
+prurito profesional...
+--- BLOCK ---
+Cuando vuelvas, que lo harás, tendrás
+la cama recién hecha, y el cuarto
+estará reluciente.
+--- BLOCK ---
+Así que no te preocupes. Mantendré
+encendido el fuego del hogar. Tú
+concéntrate en sobrevivir, miau.
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+¡Lo has conseguido! ¡Has vuelto!
+--- BLOCK ---
+¡No te han desmembrado!
+--- BLOCK ---
+*Ejem* Perdona mi entusiasmo... Como
+ves, el cuarto está ordenado, y la cama
+limpia y casi sin chinches.
+--- BLOCK ---
+Espero que siempre consideres este lugar
+como tu casa. Estaré aquí para ayudarte
+perrrpetuamente.
+--- BLOCK ---
+¡Miau miau miarramamiauu!
+¡Has vuelto, jefe! ¡Has sobrevivido!
+--- BLOCK ---
+¡Perdona que me sorprenda, pero oí que
+perseguías a un monstruo muy peligroso!
+¡Me hace tan feliz que sigas con vida!
+--- BLOCK ---
+La verdad es que siempre me muerdo
+las uñas cuando sales a cazar, miau...
+--- BLOCK ---
+Así que, por favor, ¡prométeme que
+siempre volverás aquí de una pieza!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+--- BLOCK ---
+Saludos, jefe.
+--- BLOCK ---
+Ya estás de vuelta, jefe.
+--- BLOCK ---
+Un placer verte, jefe, miau.
+--- BLOCK ---
+Bien, te dejaré que merodees.
+--- BLOCK ---
+Buena caza, jefe.
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+¡Miau, miau, miau, miau!
+--- BLOCK ---
+¡Puedo cambiar el mobiliario
+a tu antojo!
+--- BLOCK ---
+Es un placer servirte.
+--- BLOCK ---
+Te he arreglado la habitación, jefe.
+--- BLOCK ---

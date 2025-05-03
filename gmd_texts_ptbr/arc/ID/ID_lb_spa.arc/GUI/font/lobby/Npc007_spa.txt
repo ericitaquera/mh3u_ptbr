@@ -1,0 +1,406 @@
+TMSG_NPC007_0
+--- BLOCK ---
+TMSG_NPC007_1
+--- BLOCK ---
+TMSG_NPC007_2
+--- BLOCK ---
+TMSG_NPC007_3
+--- BLOCK ---
+TMSG_NPC007_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Armas fracas que desferem muitos golpes.
+Outras são poderosas, mas lentas. Outras
+são difíceis de utilizar, mas...
+--- BLOCK ---
+"Não há arma perfeita. Cada uma tem
+seus pontos fortes e fracos." Vamos
+ver se meu avô estava certo...
+--- BLOCK ---
+Se busca equilíbrio entre
+ataque e defesa, recomendo
+Espada e Escudo.
+--- BLOCK ---
+O Escudo é pequeno, mas se utilizado
+corretamente, pode bloquear até mesmo os
+monstros grandes! RAR! CLANG! Isso aí!
+--- BLOCK ---
+A Espada pode despedaçar
+um oponente em questão
+de segundos! SISSH! SUASSSH!
+--- BLOCK ---
+Os golpes são fracos, mas você
+pode desferir muitos! E pode aumentar
+o dano com efeitos elementais!
+--- BLOCK ---
+Finalmente ousam enfrentar-me, hein,
+monstros? Então cumprimentem meus
+amiguinhos, Espada e Escudo...
+--- BLOCK ---
+Tome, coma um pouco de combo! BAM!
+E isso? Estou bebendo uma poção com
+a espada na mão? Como? Assim!
+--- BLOCK ---
+Oh, mmm.
+--- BLOCK ---
+Se só te interessa
+a potência, tua arma
+é a Grande espada!
+--- BLOCK ---
+Em plena potência, não há ataque
+mais forte que o Golpe carregado.
+SISHHHHH! Sofra seu castigo, monstro!
+--- BLOCK ---
+Tua prioridade no combate corpo a
+corpo é o alcance? A
+Grande espada é para ti.
+--- BLOCK ---
+Sua longa lâmina corta manadas de monstros
+de um golpe! E pode cortar caudas
+de monstros gigantes de uma só vez.
+--- BLOCK ---
+Um wyvern gigante se aproxima!
+Mas eu já estou avançando
+com a espada desembainhada...
+--- BLOCK ---
+Agora! Um Golpe carregado perfeito...
+SKRRIT! Com um único golpe, o wyvern
+cai desabado! A multidão aplaude!
+--- BLOCK ---
+Hmmm...
+--- BLOCK ---
+Quer potência com manobrabilidade?
+Então eu tenho a
+resposta: o Martelo.
+--- BLOCK ---
+O Martelo combina a potência das
+armas pesadas, mas é bastante leve.
+E pode ser carregado enquanto corre!
+--- BLOCK ---
+Se gosta de variar os
+ataques para despistar, sua
+arma é o Martelo.
+--- BLOCK ---
+A variedade de ataques que você pode
+realizar num golpe carregado é incrível.
+Encadeie-os e nenhum monstro vai resistir!
+--- BLOCK ---
+Corro pela floresta com o Martelo carregado
+e a Energia Vital nas veias. Meu
+alvo: a cabeça de um monstro!
+--- BLOCK ---
+ARRGH! É hora do Martelo! CRAC! O
+monstro é arremessado pelos ares! Não vai
+me incomodar por um bom tempo.
+--- BLOCK ---
+Oh, hehe, hmmm.
+--- BLOCK ---
+Uma caçadora invencível atrás de
+um muro de ferro? Sim,
+ela empunha uma Lança!
+--- BLOCK ---
+Seus escudos são tão grandes
+que protegem de ataques laterais.
+Aproxime-se com segurança... e ataque!
+--- BLOCK ---
+Se quiser avançar rumo
+à vitória, precisará
+dominar a Lança!
+--- BLOCK ---
+Com algumas investidas, seu inimigo será
+derrotado! Treine a técnica e vire
+o jogo a seu favor.
+--- BLOCK ---
+Sou eu, a grande lanceira! Que elegância,
+que ataques robustos! Surpreenda-se com a
+velocidade e alcance de minha grande arma!
+--- BLOCK ---
+Os monstros se escondem quando apareço.
+Cortar caudas é minha especialidade.
+Querem chorar, monstros? Venham!
+--- BLOCK ---
+Oh, hmmm.
+--- BLOCK ---
+Quer matar monstros à
+distância? Aqui está sua
+amiga, a Besta!
+--- BLOCK ---
+As Bestas são muito diferentes das
+armas corpo a corpo. Poderia completar
+uma missão sem sofrer nenhum dano!
+--- BLOCK ---
+Mantenha a calma e
+mire. Se quiser, pode
+usar a Besta.
+--- BLOCK ---
+Quando você se acostumar com a
+mira, poderá atirar em qualquer lugar!
+Aponte para a área mais brilhante!
+--- BLOCK ---
+Com a Balestra equipada,
+você não pode usar
+armaduras de Espadachim.
+--- BLOCK ---
+Isso desanima muitos caçadores, mas
+a Balestra oferece uma experiência
+diferente. Não custa nada experimentar!
+--- BLOCK ---
+Você sabe? A Balestra
+é a arma
+do homem reflexivo.
+--- BLOCK ---
+Escolha a munição de acordo com a
+fraqueza elementar do monstro, descubra seu
+ponto fraco... É preciso ter estratégia!
+--- BLOCK ---
+Veneno, paralisia, dano elemental... Com
+uma Balestra leve e munição, um
+Atirador pode fazer de tudo!
+--- BLOCK ---
+Os mestres rapidamente mudam para
+a munição certa para um
+monstro. Adoro os caçadores inteligentes!
+--- BLOCK ---
+Se você quer RAT-A-TAT-TAT,
+a Balestra pesada
+é sua arma!
+--- BLOCK ---
+Disparo em grupo, perfurante, explosivo. Há
+muito mais do que munição pesada.
+A Balestra é uma arma divertida!
+--- BLOCK ---
+Muitos caçadores aderiram à
+moda das duas armas
+há alguns anos.
+--- BLOCK ---
+Acho que o primeiro foi um chefe famoso.
+Se quiser levar duas armas para a
+caça, você precisa de uma Espadas Duplas.
+--- BLOCK ---
+As aparências enganam! Imagine a
+cara dos monstros atordoados ao
+ver como muda de forma!
+--- BLOCK ---
+Prefere a esgrima elegante
+à eficácia brutal? Use
+uma Espada Longa!
+--- BLOCK ---
+Ao golpear, você enche o indicador de 
+espírito, que permite usar a técnica da
+Espada Espiritual. Pura poesia em!
+--- BLOCK ---
+Ficou sem munição? Quer
+atirar de longe?
+Use uma Balestra!
+--- BLOCK ---
+Arme-se com uma e poderá disparar qualquer
+quantidade de flechas. Atire uma e outra
+vez, sem parar. Uma arma muito econômica!
+--- BLOCK ---
+Quer atirar e bloquear
+ao mesmo tempo? Então
+consiga uma Lança Pistola!
+--- BLOCK ---
+O Fogo de Wyvern e o Fogo Explosivo atacam
+com força; um escudo robusto te defende.
+A eficácia do yin e do yang!
+--- BLOCK ---
+Uma melodia sugestiva para
+ir caçar? Você terá
+com a Flauta!
+--- BLOCK ---
+Toque melodias inspiradoras misturando tons
+que fortaleçam você e seus aliados. É
+mais do que apenas apoio moral!
+--- BLOCK ---
+¿Quer voar como um Bnahabra
+e picar como um
+Vespoid? Use Espadas duplas!
+--- BLOCK ---
+Essas espadas picam e cortam no ar.
+E no modo Demoníaco, você potencializa suas
+habilidades para atacar com fúria veloz.
+--- BLOCK ---
+Não só os caçadores
+carregam armas. Os monstros
+têm presas e garras!
+--- BLOCK ---
+Então, vista uma armadura! O
+melhor ataque não vale quase
+nada sem uma boa defesa!
+--- BLOCK ---
+Você pode usar armadura
+em cinco partes: cabeça,
+peito, braços, cintura, pernas.
+--- BLOCK ---
+Você pode misturar armaduras como quiser.
+Procure por Defesa ou Pontos de habilidade,
+ou simplesmente escolha uma que goste.
+--- BLOCK ---
+Conhece as armaduras de
+couro que vendo? São
+boas para coletar objetos.
+--- BLOCK ---
+Com o set completo, aumenta a velocidade
+de coleta, o Machado e a Rede
+de insetos ficam mais fortes. Legal, né?
+--- BLOCK ---
+Uma dica para sua
+Saúde! Conhece as armaduras
+de malha que vendo?
+--- BLOCK ---
+Com o set completo, sua Saúde
+máxima aumenta e você se torna
+uma máquina exterminadora e imparável.
+--- BLOCK ---
+¡RARR! ¡RARGH! Um wyvern! Nos salve,
+fornece! SHHH! O Golpe carregado da
+minha Grande espada atravessa suas escamas!
+--- BLOCK ---
+O wyvern cambaleia. Todos enlouquecem!
+RAT-TAT-TAT! Atiro na besta
+com minha Besta perfurante!
+--- BLOCK ---
+Depois faço um ataque com a
+Lança! SNIKT! Pegue isso, wyvern!
+Fujo enquanto todos me aplaudem...
+--- BLOCK ---
+Oh.
+--- BLOCK ---
+Está... carregando muito aí? Você
+me pegou imaginando combates "virtuais"
+para determinar a melhor arma.
+--- BLOCK ---
+Trabalho numa armaria! Como vou ajudar
+os caçadores se não sei
+qual é a melhor arma?
+--- BLOCK ---
+As provas virtuais são
+bem sérias. Sério!
+--- BLOCK ---
+Ei, prefere que eu solte o discurso?
+"Não existe arma perfeita. Cada uma
+tem seus pontos fortes e fracos".
+--- BLOCK ---
+Ah, vá lá. Meu avô vendia
+armas assim, mas esta não
+é uma armaria para vovôs!
+--- BLOCK ---
+SEI que existe uma arma
+melhor que as outras, e
+vou descobrir qual é!
+--- BLOCK ---
+Mis simulaciones...
+Ah, nas
+palmadinhas...
+--- BLOCK ---
+Quer comprar?!
+--- BLOCK ---
+Que bom te
+ver. Sabe?
+--- BLOCK ---
+Quero comemorar a reparação do acampamento
+base. Acabei de receber umas armaduras
+que não podem ser perdidas!
+--- BLOCK ---
+Este material foi o primeiro nas
+minhas batalhas virtuais. Você precisa de
+uma dessas armaduras. Comece a economizar!
+--- BLOCK ---
+Que bom te ver. Sabe
+o que acabou de chegar?
+--- BLOCK ---
+Toneladas de armas novas! BAM! PUM!
+SPLASH! Imagine a matança que você
+pode fazer com elas... sério!
+--- BLOCK ---
+Elas são muito melhores que as
+antigas. E são "pegar e
+matar"! Não precisam de configuração!
+--- BLOCK ---
+Também chegaram umas armaduras que...
+Espero que tenha a carteira cheia...
+porque é hora de esvaziá-la!
+--- BLOCK ---
+Que bom te
+ver. Sabe?
+--- BLOCK ---
+Vou comemorar a derrota do Ceadeus
+com uma grande venda! Minhas prateleiras
+estão cheias de itens novos!
+--- BLOCK ---
+Sabe aquele momento na caça em que
+você diz "agora ou nunca"? Bem, este
+é o equivalente nas compras. Aproveite!
+--- BLOCK ---
+Me disseram que você caçou
+o lendário Lagiacrus de mármore!
+--- BLOCK ---
+É possível? Finalmente temos um caçador
+com verdadeira maestria nas armas?
+--- BLOCK ---
+Mas como? Pelo que sei,
+nem experimentou meus cenários
+de combate virtual ainda!
+--- BLOCK ---
+Não fique arrogante, caçador. ...
+Meu pai costumava dizer isso.
+--- BLOCK ---
+Talvez devesse seguir o exemplo dele
+e experimentar uma arma nova.
+--- BLOCK ---
+Olá! Esta não é uma loja para velhinhos.
+--- BLOCK ---
+Que tal um pouco disso...
+--- BLOCK ---
+Heh. Você vai gostar disso.
+--- BLOCK ---
+Prepare-se para algo incrível, caçador.
+--- BLOCK ---
+Ok, vou te contar algo.
+--- BLOCK ---
+Gosto de você, então preste atenção!
+--- BLOCK ---
+Vamos levar isso a sério.
+--- BLOCK ---
+¡BOOM! ¡CRACK! Ah... Oh, oi!
+--- BLOCK ---
+Até logo, caçador!
+--- BLOCK ---
+Qual é a arma mais forte?
+Pode ser que nunca se saiba...
+--- BLOCK ---
+Esteja sempre um passo à frente!
+--- BLOCK ---
+Todo monstro tem um
+ponto fraco. Lembre-se disso!
+--- BLOCK ---
+Ufa... As armas
+são realmente complicadas!
+--- BLOCK ---
+Bem, vou voltar aos
+meus testes virtuais...
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Você está empolgado, não está? É
+o estado ideal para comprar armas!
+--- BLOCK ---
+... Ah, sim,
+o trabalho.
+--- BLOCK ---
+Ok, nos vemos! E-espera,
+compre algo antes!
+--- BLOCK ---
+Ah, sempre acabamos conversando e eu
+esqueço que isso é um trabalho!
+--- BLOCK ---
+Entende? As armas são
+um assunto complexo.
+--- BLOCK ---
+O que você está fazendo
+aqui? Hã? Quer comprar?!
+--- BLOCK ---

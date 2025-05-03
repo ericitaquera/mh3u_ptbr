@@ -9,7 +9,7 @@ Located under:
 gmd_texts/*/*/*/*/*/*/*/*.txt
 ```
 
-These are the original `.gmd` script text files extracted from the Spanish version of the game. Each file contains dialogue lines or UI messages tied to NPCs or interface elements:
+These are the localized Portuguese versions of the `.gmd` files. They mirror the structure of the original files and are injected back into the game for patching.
 
 Example:
 

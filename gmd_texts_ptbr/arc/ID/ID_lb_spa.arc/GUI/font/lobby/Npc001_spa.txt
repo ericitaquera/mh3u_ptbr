@@ -1,0 +1,1142 @@
+﻿TMSG_NPC001_0
+--- BLOCK ---
+TMSG_NPC001_1
+--- BLOCK ---
+TMSG_NPC001_2
+--- BLOCK ---
+TMSG_NPC001_3
+--- BLOCK ---
+TMSG_NPC001_4
+--- BLOCK ---
+<SUBS 0>
+Você escolher ir com Cha-Cha em
+uma missão?
+--- BLOCK ---
+Shaka-laka-bing-bang!
+A vitória será nossa!
+--- BLOCK ---
+Bom, Cha-Cha também não vontade de missão.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Cha-quê? Você quer que Cha-Cha fique na 
+aldeia? Defender o forte forte?
+--- BLOCK ---
+Chaah.
+Cha-Cha gostar de sentar e
+relaxa-jar às vezes.
+--- BLOCK ---
+Oga-oga-cha-cha. Decisão sábia!
+--- BLOCK ---
+<SUBS 0>
+Você escolher ir com Cha-Cha em
+uma missão multiplayer?
+--- BLOCK ---
+Shaka-laka-bing-bang!
+Sozinho ou com amigo, Cha-Cha garante
+vitória total!
+--- BLOCK ---
+Bom, Cha-Cha também não estar com vontade
+de missão multiplayer.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Cha-quê? Você quer que Cha-Cha fique
+aqui enquanto você sai pra farra?
+--- BLOCK ---
+Cha-Cha entender.
+Tudo bem. De qualquer forma, Cha-Cha não
+estar com vontade de socializar hoje.
+--- BLOCK ---
+Oga-oga-cha-cha. Você escolher bem!
+--- BLOCK ---
+<SUBS 0>
+Com Cha-Cha ao lado, você conseguir muito!
+--- BLOCK ---
+Cha quê?
+Você dizer que JÁ conseguir muito?
+Você fazer Cha-Cha rir!
+--- BLOCK ---
+Você se tornar um caçador campeão
+qualificado quando conseguir modéstia
+como Cha-Cha. Caçador, seja mais como eu!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha sempre usar máscara.
+Assim fazem os Shakalaka!
+--- BLOCK ---
+Você perguntar por quê? No caso de Cha-Cha,
+máscara por segurança. Eu tão bonitão
+que todos desmaiar se não usar máscara.
+--- BLOCK ---
+Cha-cha-oga-oga.
+Se gostar de Cha-Cha, você queimar.
+Eu ter sangue quente! Você ver!
+--- BLOCK ---
+Deve sair em missão, trazer de volta
+tesouro. Ser ritual da aldeia Shakalaka
+para virar adulto.
+--- BLOCK ---
+Em longa caminhada de Cha-Cha, se perder
+e... *cha-jem* eu mudar de assunto.
+Com certeza tesouro estar aqui, venha!
+--- BLOCK ---
+O tipo de tesouro que Cha-Cha
+encontrar provará hombridade de Cha-Cha!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha fazer dieta sem carboidratos.
+Tirar gordura do abdômen de Cha-Cha! 
+--- BLOCK ---
+Então quando Cha-Cha ver sua comida em
+missão, ele querer comer. Não tentar!
+Cha-Cha não querer pneuzinhos!
+--- BLOCK ---
+<SUBS 0>
+Máscara pode não parecer, mas é grande
+tarefa manter em boa forma.
+--- BLOCK ---
+Ter que tirar terra, dar cera,
+correr para dar brilho.
+Cha fiú. Assim fazem os Shakalaka.
+--- BLOCK ---
+Se você querer item que Cha-Cha encontrar,
+ou ver habilidades de Cha-Cha, ou só
+ouvir a voz suave de Cha-Cha... 
+--- BLOCK ---
+Primeiro deve falar com Cha-Cha!
+Comunicação é crucial-laka!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha saber que você não atacar todos
+monstros que ver. Cha-Cha entender.
+--- BLOCK ---
+Então Cha-Cha pensar em plano.
+Quando você tiver arma embainhada,
+Cha-Cha não machu-car nada!
+--- BLOCK ---
+Melhor esconder arma se não querer ser
+detectado, se monstro estiver calmo
+ou se colocar bum-bum bomba!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha pode parecer vegetariano,
+mas eu adorar banquete de carne!
+--- BLOCK ---
+Dar carne para Cha-Cha em missão. Eu
+aceitar com muita alegria! Opa-opa!
+--- BLOCK ---
+Suco de carne ter efeito colateral em
+Cha-Cha. Entrar nos poros e virar pontos
+de experiência! Exceto se estiver cheio.
+--- BLOCK ---
+<SUBS 0>
+Conhecer o "sinal" que pode
+enviar pelo menu do jogo?
+--- BLOCK ---
+Sinal é música para ouvidos de Cha-Cha.
+Quando Cha-Cha ouvir o "ping-ping", eu
+correr como vento para seu lado.
+--- BLOCK ---
+Quando você sentir falta do carinho Cha-Cha
+ou minha astúcia, abra menu a qualquer
+hora e envie sinal. Cha-ping!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha ter reputação de Shakalaka
+muito tolerante. Mas ter limites.
+--- BLOCK ---
+Se Cha-Cha tiver muita dor, fúria
+alcançar máximo! Cha-Cha "ficar bravo"!
+Monstros não gostar de Cha-Cha bravo.
+--- BLOCK ---
+Cha-Cha bravo pode usar técnica
+de ataque secreta. Cha-Cha bravo
+não se responsabilizar por seus atos!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha já ter muito dano, eu ficar bravo. 
+Depois sentir culpa.
+--- BLOCK ---
+Fúria de Cha-Cha tão cansativa que eu
+ficar surdo como porta. Eu não ouvir
+nada que você dizer!
+--- BLOCK ---
+Melhor ler "Vida de
+caça" até fúria terrível de
+Cha-Cha passar.
+--- BLOCK ---
+<SUBS 0>
+Bombas! Potentes mas passageiras, como
+ensinamentos do mestre Cha-Cha!
+--- BLOCK ---
+Quando você colocar bomba, Cha-Cha também
+colocar bomba do lado da sua para máximo
+bum-bum. Cha-Cha gostar de bum-bum!
+--- BLOCK ---
+Cha-Cha deixar você acender pavio.
+Porque você ser ajudante de Cha-Cha!
+--- BLOCK ---
+<SUBS 0>
+Não é segredo que Cha-Cha ser
+apaixonado por dança!
+--- BLOCK ---
+Quando Cha-Cha ver seus gestos,
+corpo de Cha-Cha seguir o ritmo!
+Bum ba, bum ba!
+--- BLOCK ---
+Cha-Cha sugerir que você escolher gestos no
+menu do jogo às vezes. Não pode negar
+dança de Cha-Cha! Sha-ka! La-ka!
+--- BLOCK ---
+<SUBS 0>
+Teste do Cha-Cha: o que fazer se monstro
+te paralisar, dormir ou derrubar?
+--- BLOCK ---
+Oga-oga...
+Sua única esperança ser Cha-Cha!
+--- BLOCK ---
+Quando Cha-Cha oferecer mão benevolente
+para resgatar, você oferecer quantidade
+adequada de lágrimas de gratidão!
+--- BLOCK ---
+<SUBS 0>
+Ninguém superior a Cha-Cha em valor e
+coragem? Ser pergunta retórica.
+--- BLOCK ---
+Quando monstro grande aparecer, Cha-Cha
+lembrar de compromisso importante ou ter
+que ir fazer bum-bum no banho. É natural!
+--- BLOCK ---
+Cha-Cha diz: se eu ter Valor baixo,
+isso acontecer mais. Cha-Cha não
+fugir! Cha-Cha só estar ocupado!
+--- BLOCK ---
+<SUBS 0>
+Atitude de Cha-Cha ser óbvia se você
+olhar estatística de Valor. 
+--- BLOCK ---
+Experiência é mais importante!
+Quando Cha-Cha passear em missão muito
+longa, Valor subir.
+--- BLOCK ---
+Depois de muito passear, um dia Cha-Cha
+alcançar verdadeiro limite de coragem!
+--- BLOCK ---
+<SUBS 0>
+Nível do Cha-Cha ser mostra simples
+da força do Cha-Cha! Oh-pa oh-pa!
+--- BLOCK ---
+Quando Cha-Cha derrotar monstros,
+Nível subir. Velocidade de subida depender
+do monstro que machu-car!
+--- BLOCK ---
+Ah, mas não precisa Cha-Cha dar
+golpe final. Cha-Cha olhar para você e ver
+sua técnica de golpes de campeão!
+--- BLOCK ---
+<SUBS 0>
+Na coleção de máscaras de Cha-Cha,
+algumas ter poder shaka-especial.
+--- BLOCK ---
+Se Cha-Cha colocar máscara assim no rosto,
+nível de Maestria aumentar!
+--- BLOCK ---
+Quando Maestria subir, poder especial
+da máscara subir. Depois alcançar
+feitos poderosos! Cha-uau!
+--- BLOCK ---
+<SUBS 0>
+Se você der sinal quando Cha-Cha estiver
+Máscara de Pelúcia, ativar poder especial!
+--- BLOCK ---
+Cha-Cha buscar sons sutis de
+arredores e marcar no mapa local de
+monstro grande. Por tempo limitado!
+--- BLOCK ---
+<SUBS 0>
+Dar sinal quando Cha-Cha usar Máscara
+Antiga, ativar poder especial! Chah!
+--- BLOCK ---
+Cha-Cha cuspir ar na água! Se você perto
+de Cha-Cha, medidor de Oxigênio encher
+instantaneamente! Você respirar fácil!
+--- BLOCK ---
+<SUBS 0>
+Quando estar caçando, Cha-Cha proteger
+costas e cérebro de danos! Cha-ai!
+--- BLOCK ---
+Mas técnica mais importante de caça é
+evitar perigo. Se Cha-Cha perder Saúde,
+Cha-Cha recuar para lamber feridas.
+--- BLOCK ---
+Aliás... nível de compromisso de
+Cha-Cha e quando decidir fugir, depende
+da máscara que Cha-Cha usar.
+--- BLOCK ---
+<SUBS 0>
+Quando Cha-Cha vencer monstro e
+subir Nível, às vezes aprender habilidade.
+--- BLOCK ---
+Quando vencer monstro forte,
+às vezes Cha-Cha aprender habilidade
+não relacionada com nível. Cha uau!
+--- BLOCK ---
+Cha-cha-chuu! Cha-Cha usar muita
+habilidade, cortar muitos monstros!
+--- BLOCK ---
+<SUBS 0>
+Preciosa Máscara Bolota feita de
+nozes, aroma da natureza!
+--- BLOCK ---
+Quando Cha-Cha colocar máscara, sentir
+vontade de coletar material de plantas!
+--- BLOCK ---
+Melhor da máscara é conforto.
+Máscara Bolota não ter poder, mas
+é melhor para o rosto!
+--- BLOCK ---
+<SUBS 0>
+Máscara Bolota ser a mais básica-laka
+das máscaras artesanais de Cha-Cha.
+--- BLOCK ---
+Quando eu usar, Cha-Cha coletar
+material, e também fazer ataque corpo
+a corpo em monstro grande! Cha-já!
+--- BLOCK ---
+<SUBS 0>
+Máscara Misteriosa ser velha máscara
+misteriosa feita com recipiente antigo.
+--- BLOCK ---
+Você dar item para Cha-Cha, eu colocar em
+recipiente! Depois esperar um pouco,
+e virar item diferente! Incrível!
+--- BLOCK ---
+Quando você querer pegar e olhar dar sinal
+para Cha-Cha. O que será que vai sair!
+--- BLOCK ---
+<SUBS 0>
+Se usar Máscara Misteriosa, poder
+transformar item dentro do recipiente!
+--- BLOCK ---
+Dica! Normalmente dá para adivinhar
+o que vai acontecer olhando cor
+da fumaça que sair do recipiente.
+--- BLOCK ---
+Segredo para criar item de primeira
+é tempo. Você querer pegar item?
+Dar sinal para Cha-Cha. Criar!
+--- BLOCK ---
+<SUBS 0>
+Quando Cha-Cha usar Máscara Misteriosa
+ataca-laka de longe!
+--- BLOCK ---
+Cha-Cha esperar máscara nunca quebrar.
+Cha-Cha preferir respeitar espaço
+pessoal do monstro.
+--- BLOCK ---
+Cha-Cha ficar perto de ajudante!
+Você dar proteção de primeira
+e nós melhores amigos para sempre.
+--- BLOCK ---
+<SUBS 0>
+Máscara de Pelúcia ter orelhas de pelúcia
+para cair bem e estar na moda.
+--- BLOCK ---
+Mas máscara fazer ouvidos de Cha-Cha muito
+sensíveis a barulho de monstro, então
+Cha-Cha não atacar. Usar com cuidado!
+--- BLOCK ---
+<SUBS 0>
+Quando Cha-Cha usar Máscara de Pelúcia,
+Cha-Cha não ataca-laka.
+--- BLOCK ---
+Quando você não usar poder especial da
+máscara, Cha-Cha coletar materiais,
+então deixar Cha-Cha em paz.
+--- BLOCK ---
+<SUBS 0>
+Quando Cha-Cha ficar bravo usando Máscara
+de Pelúcia, Fúria de Cha-Cha sem igual!
+--- BLOCK ---
+Cha-Cha entrar em transe, laka-lançar
+Bombas de Estrume por toda parte. Cheiro
+ruim e monstro fugir para montanhas.
+--- BLOCK ---
+<SUBS 0>
+Máscara Lanterna acender fogo
+quando você der sinal para Cha-Cha.
+--- BLOCK ---
+Máscara assustar monstro também. Eles
+não gostar de fogo. Máscara ser melhor
+escolha para caçadores apaixonados.
+--- BLOCK ---
+<SUBS 0>
+Nenhuma máscara tão emocionante quanto
+Máscara Lanterna. Eu gostar muito!
+--- BLOCK ---
+Ataque virar corpo a corpo!
+Não usar ataque de longe, não!
+--- BLOCK ---
+Quando lutar com monstro pequeno,
+deixar esses pequenos para Cha-Cha
+com Máscara Lanterna!
+--- BLOCK ---
+<SUBS 0>
+Máscara Grelha ser melhor máscara
+para grande-grande apetite!
+--- BLOCK ---
+Até ter função churrasqueira
+dupla para cozinhar segunda
+carne enquanto assar primeira!
+--- BLOCK ---
+Máscara Grelha garantir
+ingestão de proteínas! Chaka-corte!
+--- BLOCK ---
+<SUBS 0>
+Quando Cha-Cha usar Máscara Grelha,
+você fazer carne. Me dá, me dá!
+--- BLOCK ---
+Cha-Cha pode grelhar para você!
+Viu, Cha-Cha generoso com ajudante!
+--- BLOCK ---
+Mas não reclamar se Cha-Cha
+queimar carne! Beijar o cozinheiro!
+--- BLOCK ---
+<SUBS 0>
+Máscara Grelha para retaguarda!
+--- BLOCK ---
+Quando monstro vir, Cha-Cha fazer
+ataque ocasional com orgulho e alegria
+Shakalaka: bumerangue! Cha-pum!
+--- BLOCK ---
+Manter linha de suprimentos
+importante estratégia! Isso ler Cha-Cha.
+Você defender Cha-Cha!
+--- BLOCK ---
+Máscara Felyne Falso destacar por toque
+felino. O já adorável Cha-Cha ficar
+ainda mais fofo. Você deve fazer carinho!
+--- BLOCK ---
+Mas fofura de Cha-Cha mata! Todos
+ataques de Cha-Cha virar
+babúm! Bum bum babúm!
+--- BLOCK ---
+<SUBS 0>
+Oh-pa... Cha-Cha se perguntar causa de
+terremoto. Todos estar estressados!
+--- BLOCK ---
+Cha-Cha achar que mundo precisar poder
+superior de raciocínio Cha-Cha!
+--- BLOCK ---
+Cha-Cha teorizar: grande grande monstro em
+floresta pular corda e fazer grande bum.
+Cha-Cha dizer coisas estranhas acontecer.
+--- BLOCK ---
+Vibração transmitir para terra, e terra
+tremer! Tempestade de ideias de Cha-Cha
+resolver mistério. Ciência é divertida.
+--- BLOCK ---
+<SUBS 0>
+Shakalaka não ser lobo solitário! Caçar com
+companheiro trazer melhor de Cha-Cha!
+--- BLOCK ---
+Cha-Cha não ser qualquer um! Caçar
+muito juntos para ganhar confiança.
+Cha-Cha precisar de carinho!
+--- BLOCK ---
+<SUBS 0>
+Kayamba shaka-irritante, como criança!
+--- BLOCK ---
+Achar que Cha-Cha exagerar? Ouve história!
+Uma vez, Cha-Cha e Kayamba ir pegar
+cogumelos perto de aldeia Shakalaka...
+--- BLOCK ---
+Barriga de Cha-Cha começar a roncar, então
+sentar para devorar carne.
+... Ou isso achar Cha-Cha!
+--- BLOCK ---
+Kayamba dar troco! Trocar
+filé ao ponto por carne tóxica! Acha
+engraçado? Você vomitar pela máscara!
+--- BLOCK ---
+Piada-laka muito cruel... Aprender
+lição: nunca dar carne que possa
+adoecer Cha-Cha!
+--- BLOCK ---
+<SUBS 0>
+Kayamba só causar dor a Cha-Cha
+ao viajar junto.
+--- BLOCK ---
+Kayamba não ter senso Shakalaka de
+orientação! Sempre se perder a quatro
+passos da aldeia. Oga-oga!
+--- BLOCK ---
+<SUBS 0>
+Máscara Curibaya parecer com
+barba grisalha de sábio!
+--- BLOCK ---
+Caçador dar sinal, Cha-Cha usar poder
+de sábio barbudo para remover efeitos
+de praga! Mesmo efeito que curibaya.
+--- BLOCK ---
+Cha-Cha não usar máscara para apagar
+más lembranças. Mas oferecer ombro
+para chorar. Cha-Cha ser bom amigo!
+--- BLOCK ---
+<SUBS 0>
+Máscara Fedida ser melhor máscara para
+criar cheiro de esgoto. Puaj-puaj!
+--- BLOCK ---
+Caçador encontrar monstro indesejado?
+Cha-Cha laka-lançar Bombas de Estrume!
+Pensar em fezes. Besta fugir fedendo!
+--- BLOCK ---
+Cha-quê? Não ser guerra biológica!
+Ser estratégia táctica!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha achar que Gag Gargwa ser exemplo
+de shaka-forma sobre laka-função. 
+--- BLOCK ---
+Valorizar fofura sobre durabilidade,
+então não servir para caçar monstros.
+--- BLOCK ---
+Mas escutar! Quando Cha-Cha fugir
+usando máscara, fazer como Gargwa e
+deixar item. Cha-chan!
+--- BLOCK ---
+<SUBS 0>
+Bum-bum, bum-bum! Máscara de Artilharia
+fazer shaka-bum! Para caçador agressivo!
+--- BLOCK ---
+Liberar ataque sagrado de dupla Shakalaka!
+Cha-Cha ou Kayamba se transformar em bala,
+e bum! Voar como artilharia pesada!
+--- BLOCK ---
+Chuva de balas cair de surpresa sobre
+monstro, mas não ser nada fácil para
+Shakalaka. Nós recuar para descansar.
+--- BLOCK ---
+<SUBS 0>
+Máscara Pedra de Amolar ser isso mesmo!
+Oh! Máscara ser pedra de amolar!
+--- BLOCK ---
+Se Cha-Cha usar Máscara Pedra de
+Amolar, caçador não temer se arma perder
+fio. Cha-Cha vai afiar!
+--- BLOCK ---
+Além disso, caçador liberar espaço de Pedra
+de Amolar! Cha-Cha oferecer o nunca
+visto! Todos ganham!
+--- BLOCK ---
+<SUBS 0>
+Réplica Melynx deixar dedos de Cha-Cha
+grudentos. Você entender?
+--- BLOCK ---
+Máscara transformar Cha-Cha em criminoso.
+Eu roubar materiais de monstros para
+caçador. Esperar não destruir shaka-karma.
+--- BLOCK ---
+<SUBS 0>
+Máscara Ídolo ser retrato vivo de ídolo
+Felyne de aldeia de águas termais.
+--- BLOCK ---
+Se caçador usar habilidade especial de
+máscara, puf! Voltar para acampamento!
+Passeio para trouxas.
+--- BLOCK ---
+Mesmo efeito que Transportador. Grande
+ídolo Felyne iluminar Cha-Cha e ajudante! 
+O acampamento. Obrigado!
+--- BLOCK ---
+<SUBS 0>
+Máscara Obstáculo transformar Cha-Cha em
+obstáculo! Shaka-simples!
+--- BLOCK ---
+Precisar prender monstro? Ou parar
+grande besta? Cha-Cha conseguir com
+obstáculo!
+--- BLOCK ---
+Máscara muito estratégica!
+Cha-Cha gostar quando plano der certo!
+--- BLOCK ---
+<SUBS 0>
+Máscara Rathalos feita para
+liberar poder!
+--- BLOCK ---
+Se caçador dar sinal, Cha-Cha soltar
+rugido assustador que destrói ouvidos
+de monstro! Igual a Bomba Sônica!
+--- BLOCK ---
+GRRROOOORR! Cha-Cha fazer som ssustador
+ao cuspir fogo! Caçador não ficar bravo
+se for atingido. Pode acontecer.
+--- BLOCK ---
+Cha ja!
+Um caçador que quer tudo, tudo!
+--- BLOCK ---
+Cha-Cha tentar machucar monstro,
+mas então caçador atacar, roubar,
+trovão de Cha-Cha com macha-do!
+--- BLOCK ---
+Língua de Cha-Cha enrolar!
+--- BLOCK ---
+Cha quê?
+Você perguntar quem é Cha-Cha?
+--- BLOCK ---
+Shaka-laka-cha!
+Não conhecer Cha-Cha? Sua cabeça
+doer muito?
+--- BLOCK ---
+Eu ser orgulhoso lobo solitário
+grande campeão da tribo Shakalaka.
+Meu nome é Cha-Cha!
+--- BLOCK ---
+Agora escuta-cha: Cha-Cha não estar
+perdido! Eu dar passeio muito longo.
+--- BLOCK ---
+É tradição do povo Shakalaka...
+para virar adulto, fazer
+jornada para encontrar própria máscara.
+--- BLOCK ---
+Cha quê?
+Perguntar por que Cha-Cha caminhar
+aqui na floresta?
+--- BLOCK ---
+Está shaka-claro que Cha-Cha
+se perder assim que sair
+da alde...
+--- BLOCK ---
+Cha-jem!
+--- BLOCK ---
+Cha-Cha ir direto ao ponto. Em viagens
+lendárias, descobrir incrível máscara
+dourada. Olhos de Cha-Cha fazer oga-oga!
+--- BLOCK ---
+Cha-Cha quase pegar, mas máscara
+escapar. Por quê?
+História triste. Desgostar Cha-Cha.
+--- BLOCK ---
+Cha-Cha fabricar muitas máscaras na
+aldeia. Cha-Cha inventar máscara que
+deixar dourada no chinelo! Oga-oga!
+--- BLOCK ---
+Cha-Cha aqui até Shakalaka enviar
+equipe de busca... Ahem! Até fazer
+muitas máscaras. Fim da história.
+--- BLOCK ---
+Você perseguir comida de Cha-Cha
+e eu exigir compensação:
+você agora ajudante de Cha-Cha! Oga-oga!
+--- BLOCK ---
+Mas eu amar-laka bom. Quando você
+precisar cha-conversar, venha visitar
+Cha-Cha! Assim fazem os Shakalaka.
+--- BLOCK ---
+<SUBS 0>
+Fale com Cha-Cha e escolha se
+levar eu para caçar.
+--- BLOCK ---
+Lembrar: você ser ajudante de Cha-Cha!
+Você ficar atento ao humor de Cha-Cha
+e tomar boas decisões!
+--- BLOCK ---
+Além disso, se você querer itens que
+Cha-Cha encontrar, você pedir para
+Cha-Cha. Os Shakalaka ser generosos!
+--- BLOCK ---
+Cha-Cha pedir que você prestar atenção
+em Cha-Cha para eu não ficar sozinho!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Um, dois, três, quatro! Ideia para nova
+máscara chegar na cabeça de Cha-Cha
+como cometa do céu!
+--- BLOCK ---
+Uma máscara com grandes orelhas caídas,
+de pelúcia, para dar carinho!
+--- BLOCK ---
+Cha-Cha deixar planos para filho do
+chefe da aldeia, Junior. Você ver já?
+Tem que ver!
+--- BLOCK ---
+<SUBS 0>
+O Ludroth Real ser leviathan que
+preferir habitat marinho.
+--- BLOCK ---
+Ter costume de fazer cha-chof,
+na água, quando estar acabado. Se
+você querer pegar, entrar na água.
+--- BLOCK ---
+Cha-ah?
+Como ter Cha-Cha essas palavras
+na cabeça?
+--- BLOCK ---
+É fácil: Cha-Cha ouvir Flota de Caça falar,
+*cha-jem*. Digo...
+Cha-Cha mais esperto do que parecer.
+--- BLOCK ---
+Oga-oga! Ideia para nova máscara entrar
+na cabeça de Cha-Cha como tsunami.
+--- BLOCK ---
+Uma máscara bem feita estimula-shaka
+muito apetite! Barriga de caçador
+roncar!
+--- BLOCK ---
+Cha-Cha deixar planos para filho do
+Chefe da aldeia, Junior. Já ter
+visto planos? Olhar!
+--- BLOCK ---
+Oga-oga! Ideia para máscara entrar na
+cabeça de Cha-Cha como flecha-cha.
+--- BLOCK ---
+Cha-Cha muito bravo para ataque
+épico do Lagiacrus!
+--- BLOCK ---
+Cha-Cha pensar em máscara para dar
+alma fogo e força. Ok, Cha-Cha
+agora bravo! Precisar tomar ducha-cha. 
+--- BLOCK ---
+Cha-Cha deixar planos de máscara para
+filho do Chefe da aldeia, Junior. Você
+ver? Esquecer ducha-cha. Quer olhar!
+--- BLOCK ---
+Chaah...
+--- BLOCK ---
+Cha-Cha certo que estava shaka-laka-morto.
+--- BLOCK ---
+Cha-Cha ir nadar para ver
+fonte de terremotos, no fundo
+do mar.
+--- BLOCK ---
+Prestar atenção: não é que Cha-Cha
+cair do píer e não conseguir subir.
+Campanha anti-Cha-Cha!
+--- BLOCK ---
+Quando Cha-Cha debaixo d'água, ver grande
+monstro gigante nunca visto antes!
+Tamanho, você perguntar a Cha-Cha?
+--- BLOCK ---
+Eeeh, talvez cem vezes maior
+que Lagiacrus. Três vezes mais alto que
+Cha-Cha. Grande para engolir aldeia!
+--- BLOCK ---
+Você dizer Cha-Cha mentir? Eu estar
+apavorado! Não lembrar detalhes!
+--- BLOCK ---
+Mas escutar-cha Cha-Cha: eu certo
+que terremotos na aldeia ser
+culpa de monstro gigante!
+--- BLOCK ---
+Grande-grande monstro! Acreditar em
+Cha-Cha! Grande dragão marinho nadar
+para caverna escura no fundo do mar.
+--- BLOCK ---
+Cha-Cha seguir até último fôlego,
+depois vida passar diante dos olhos!
+Cha-Cha vir para Floresta de Moga...
+--- BLOCK ---
+Um antes e depois na vida de Cha-Cha.
+Eu repensar prioridades...
+Ops! Cha-Cha soltar peido.
+--- BLOCK ---
+...!?
+--- BLOCK ---
+Cha-quê?
+Oga-oga! O que Kayamba fazer aqui?
+--- BLOCK ---
+Cha-Cha conhecer Kayamba desde criança.
+Estudamos juntos em aldeia Shakalaka. E
+compartilhar ritual sagrado de maturidade.
+--- BLOCK ---
+Shakalaka não ser adultos até
+empreender missão para achar própria
+máscara. Caçador não entender Shakalaka.
+--- BLOCK ---
+Por ter mesma idade, Cha-Cha e
+Kayamba devem ir juntos em missões.
+--- BLOCK ---
+Mas Kayamba muito desastrado! Atrasar
+Cha-Cha a cada passo do caminho! 
+--- BLOCK ---
+Cha-Cha não esquecer aquele dia fatídico...
+--- BLOCK ---
+Herói Cha-Cha usar até última gota
+de astúcia para descobrir melhor máscara
+do mundo, a Máscara Definitiva!
+--- BLOCK ---
+Mas...
+--- BLOCK ---
+Em reviravolta dramática, monstro roubar
+máscara de Cha-Cha, por culpa de tropeço
+do desastrado Kayamba.
+--- BLOCK ---
+Cha-Cha lamentar aquele dia! Decidir
+começar missão para conseguir Máscara
+Definitiva. Mas Cha-Cha trabalhar sozinho!
+--- BLOCK ---
+Se caçador querer que Kayamba vir,
+é sob sua responsabilidade! Cha-Cha
+não se envolver com esse trapalhão!
+--- BLOCK ---
+Para alcançar caverna do dragão no fundo
+do mar, caçador precisar equipamento
+especial para segurar respiração.
+--- BLOCK ---
+Cha-Cha conhecer importância do ar.
+Ter estresse pós-traumático de
+encontro anterior com a morte!
+--- BLOCK ---
+Mmm... Cha-Cha não parar de pensar em
+máscara na caverna atrás da Fazenda...
+--- BLOCK ---
+Cha-Cha pensar em ir ver máscara
+agora mesmo! Tão na shaka-moda!
+--- BLOCK ---
+Agora chegar hora do destino! Atacar
+o Ceadeus e devolver paz à aldeia!
+E Cha-Cha fazer banquete de carne.
+--- BLOCK ---
+Depois, Cha-Cha ganhar eleição para Chefe
+da aldeia, e entrar para história
+política! Opa-opa!
+--- BLOCK ---
+Primeiro Cha-Cha ir para
+desafio final.
+Ajudante também poder vir.
+--- BLOCK ---
+Não esquecer levar Máscara Antiga,
+Cha-Cha avisar!
+--- BLOCK ---
+Cha-cha-oga-uuuh-uuuh!
+--- BLOCK ---
+Conseguimos! Conseguimos!
+Graças a campeão Cha-Cha, paz voltar
+finalmente para Aldeia de Moga. Gha-uau!
+--- BLOCK ---
+Cha-shaka-laka! Claro Cha-Cha não
+esquecer ajuda de ajudante!
+--- BLOCK ---
+Agora, você ser popular número dois,
+depois de Cha-Cha. Muito espaço
+sob holofotes! Opa-opa!
+--- BLOCK ---
+Cha-Cha emocionado com final feliz!
+Assim fazem os Shakalaka!
+--- BLOCK ---
+... Às vezes final é novo começo.
+Opa-opa! Bom Shakalaka não afundar!
+--- BLOCK ---
+Cha-Cha ainda pensar muito em
+máscara! Criatividade de Cha-Cha
+estar no auge.
+--- BLOCK ---
+Agora que não ter ameaça para
+aldeia, ajudante ter tempo livre para
+ajudar Cha-Cha fazer máscaras!
+--- BLOCK ---
+Cha-Cha não esquecer ajudante valioso. 
+Permito caçador servir Cha-Cha!
+--- BLOCK ---
+Venha, amigo! A jornada continua!
+--- BLOCK ---
+Oga-oga! Pensar em nova máscara fazer
+cabeça de Cha-Cha explodir, como
+uma contusão!
+--- BLOCK ---
+Máscara de sábio com barba grisalha
+farta! Adeus más vibrações! 
+Devolver vigor ao passo do caçador!
+--- BLOCK ---
+Cha-Cha deixar planos para filho do
+chefe da aldeia, Junior. Você ver já?
+Tem que ver!
+--- BLOCK ---
+Oga-oga! Ideia para nova máscara chegar
+na cabeça de Cha-Cha como cocô
+de pássaro! Opa. Desculpe imagem.
+--- BLOCK ---
+Máscara ser superfofa. Inspiração
+chegar a Cha-Cha vendo pássaros em
+Picos Tempestuosos.
+--- BLOCK ---
+Cha-Cha deixar planos para filho do
+chefe da aldeia, Junior. Você ver já?
+Ir rápido ver!
+--- BLOCK ---
+Oga-oga!
+Em aventuras anteriores, Cha-Cha achar
+fabulosa máscara dourada. Brilhante!
+--- BLOCK ---
+Mas triunfo de Cha-Cha efêmero.
+Wyvern cuspidor de fogo atacar Cha-Cha!
+Depois roubar máscara! Ser o fim!
+--- BLOCK ---
+Claro, Cha-Cha revidar! Mesmo
+assim, não conseguir recuperar máscara. 
+--- BLOCK ---
+Não ser culpa do Cha-Cha! Se bobo
+Kayamba não tivesse atrapalhado Cha-Cha,
+agora eu teria a máscara!
+--- BLOCK ---
+Eh, mas Cha-Cha não lamentar nada. Eu ser
+herói popular dos Shakalaka. Cha-Cha não
+viver no passado.
+--- BLOCK ---
+Pelo contrário, eu ocupado pensando ideias
+para máscaras novas. Cha-Cha criar
+montes de máscaras!
+--- BLOCK ---
+Na verdade, lembranças recentes do
+passado dar ao Cha-Cha ideia para máscara!
+--- BLOCK ---
+Oga-oga!
+Inspiração chegar! Ideia para
+nova máscara vai encantar caçador!
+--- BLOCK ---
+Máscara permitir roubo grandão
+automaticamente! Roubar materiais
+ser moleza!
+--- BLOCK ---
+Cha-Cha deixar planos com filho do
+chefe da aldeia, Junior. Você ver já?
+Se não, vai dar uma olhada!
+--- BLOCK ---
+Megatron!
+Cha-Cha estar hoje fora de controle! 
+Ideia para máscara chegar como bala!
+--- BLOCK ---
+Superataque em dupla de Shakalaka
+causar grande impacto! Transformar
+Shakalaka em artilharia! Monstros chorar!
+--- BLOCK ---
+Cha-Cha deixar planos com filho do
+Chefe da aldeia, Junior. Você ver já?
+Tem que ver!
+--- BLOCK ---
+Oga-oga-cha-cha!
+Cha-Cha ouvir rumores. Kayamba
+encontrar com Rathalos! Assustador! 
+--- BLOCK ---
+Ser normal Kayamba achar máscara
+lendária. Esse bobo fez Rathalos
+roubar de Cha-Cha!
+--- BLOCK ---
+Cha-Cha não ligar mais!
+Cha-Cha curtir grande carreira
+como mestre artesão de máscaras!
+--- BLOCK ---
+Cha-Cha muito ocupado criando novos
+conceitos de máscaras!
+--- BLOCK ---
+Cha-mmm...
+--- BLOCK ---
+Que estranho...
+A máscara que Cha-Cha viu antes...
+Não parecer nada com essa!
+--- BLOCK ---
+Aquela era a Máscara Definitiva.
+Essa é...
+--- BLOCK ---
+É mais a Máscara Funesta.
+--- BLOCK ---
+Oga-oga!
+Cha-Cha achar que Máscara Funesta ser
+perfeita para Kayamba! Moda desastrada.
+--- BLOCK ---
+Kayamba sempre reclamar de choques.
+Generoso Cha-Cha dar máscara
+para Kayamba! Eu lavar as mãos.
+--- BLOCK ---
+Cha-Cha ocupado criando nova máscara.
+Estar mergulhado em onda criativa.
+--- BLOCK ---
+Na verdade, tanta cha-conversa dar
+ao Cha-Cha ideia para máscara!
+--- BLOCK ---
+Oga-oga!
+Cha-Cha ter ideia para máscara
+que não pode falhar! 
+--- BLOCK ---
+Imaginar máscara que prende
+presa! Monstros entrar, nunca sair! 
+Cha-Cha inventar armadilha perfeita!
+--- BLOCK ---
+Cha-Cha deixar planos com filho do
+chefe da aldeia, Junior. Você já saber
+o que fazer!
+--- BLOCK ---
+Cha-quê? Kayamba dizer que Máscara
+Funesta reagir a algo? E daí?
+Cha-Cha ter coisas mais importantes.
+--- BLOCK ---
+Sério, Cha-Cha não precisar de Máscara
+Funesta. Verdade! Tradição Shakalaka
+muito clara sobre presentes. Regras!
+--- BLOCK ---
+Cha-Cha achar ridícula conexão entre
+raio de Zinogre e Máscara Funesta!
+Oga-oga!
+--- BLOCK ---
+Olha, Cha-Cha saber do que fala. Não
+ter ligação entre raio e Máscara
+Funesta. Nunca duvidar de Cha-Cha!
+--- BLOCK ---
+E se máscara brilhar? Ser fenômeno
+natural. Gás do pântano, talvez.
+Máscara Funesta segura para Kayamba!
+--- BLOCK ---
+Cha-Cha arriscar vida criando
+nova máscara!
+--- BLOCK ---
+Hora de Cha-Cha juntar materiais!
+Ajudante melhor não interromper!
+--- BLOCK ---
+Shaka-laka-sisssh!
+Ideia para nova máscara chegar como
+wyvern supersônico desgovernado!
+--- BLOCK ---
+Cha-Cha criar máscara que atira
+bolas de fogo! Será acessório mais
+poderoso da temporada!
+--- BLOCK ---
+Quem liga para estúpida Máscara
+Funesta? Ser acessório Kayamba! 
+Destacar cor dos olhos! Opa-opa!
+--- BLOCK ---
+Com nova máscara que Cha-Cha criar,
+caçar monstros como Lagiacrus marmóreo
+ser moleza!
+--- BLOCK ---
+Cha-Cha deixar planos com filho do
+chefe da aldeia, Junior. Chorar no
+rio! De alegria, claro.
+--- BLOCK ---
+Cha-cha-oga-uuuh-uuuh!
+--- BLOCK ---
+Kayamba usar agora reluzente
+máscara dourada!
+--- BLOCK ---
+Cha-Cha descobrir mesma Máscara Funesta
+em caverna no caminho da aldeia!
+--- BLOCK ---
+Que brilho! Que luxo!
+Cha-Cha nunca esquecer máscara que
+escapou...
+--- BLOCK ---
+Ao ver que máscara que tiramos de
+Rathalos ser Máscara Funesta, Cha-Cha
+achar que nunca veria tanto brilho!
+--- BLOCK ---
+Mas agora...
+A máscara que Kayamba usar...
+--- BLOCK ---
+Sempre foi a Máscara Funesta.
+Oga-oga! Que ironia!
+--- BLOCK ---
+Então, Cha-Cha decidir dar Máscara
+Funesta para Kayamba. Shakalaka
+cumpre palavra!
+--- BLOCK ---
+Mas Cha-Cha não ligar mais para Máscara
+Funesta! Cha-Cha não precisar de máscara
+estúpida para ser feliz. De verdade!
+--- BLOCK ---
+E bom, Cha-Cha já transferir para
+Kayamba direitos sobre Máscara Funesta.
+Código shaka muito claro nisso.
+--- BLOCK ---
+Aproveitar generosidade de Cha-Cha!
+Viu? Coração de Cha-Cha brilhar mais
+que máscara chique!
+--- BLOCK ---
+Mas... Cha-Cha conhecer brecha no código
+shaka. Virá dia que caçador pedir
+para Cha-Cha usar Máscara Funesta!
+--- BLOCK ---
+Claro, Cha-Cha não ter interesse
+na máscara, mas se caçador pedir...
+Cha-Cha não ter escolha, né?
+--- BLOCK ---
+Quem é Cha-Cha para recusar pedido
+de ajudante? Cha-Cha aceitar com má
+vontade o dever.
+--- BLOCK ---
+Não ser trabalho fácil, mas Cha-Cha
+fazer. Altruísmo de Cha-Cha brilhar mais
+que máscara estúpida-laka!
+--- BLOCK ---
+Chajaja!
+Desastrado Kayamba só tropeçar
+quando viajar com Cha-Cha!
+--- BLOCK ---
+Mas graças a ensinamentos do ajudante,
+Kayamba quase não tropeçar.
+--- BLOCK ---
+Continuar assim, ajudante!
+Continuar cuidando de Kayamba!
+--- BLOCK ---
+Chajaja!
+Parece que Kayamba vai ficar
+um tiquinho mais útil!
+--- BLOCK ---
+Claro, Kayamba ter longo caminho para
+chegar no nível de Cha-Cha. 
+Qualquer caçador ver isso!
+--- BLOCK ---
+Se continuar levando desastrado Kayamba
+para caçar, cada vez tropeçar menos!
+Em teoria.
+--- BLOCK ---
+Chajaja!
+Oga-oga chaka-chaka-laka!
+--- BLOCK ---
+Cha-Cha ter química-laka incrível com
+Kayamba! O time perfeito!
+--- BLOCK ---
+Cha-Cha agora ser outro Shakalaka!
+Caçar com parceiro trazer melhor
+de Cha-Cha!
+--- BLOCK ---
+Com ajudante e Kayamba do lado de
+Cha-Cha, estar pronto para qualquer
+desafio! Prontos para abraço de grupo?
+--- BLOCK ---
+Cha-Cha!
+--- BLOCK ---
+Oga-oga!
+--- BLOCK ---
+Ta-ta-cha-chán!
+--- BLOCK ---
+Shaka-oi-laka!
+--- BLOCK ---
+Cha-Cha estar brincalhão hoje!
+--- BLOCK ---
+Barriga de Cha-Cha roncar. Esperar comer.
+--- BLOCK ---
+Cha-Cha dançar depois de cha-papo.
+--- BLOCK ---
+Cha-Cha sentir como cha-garoto selvagem!
+--- BLOCK ---
+Cha! Você interromper Cha-Cha pensar!
+--- BLOCK ---
+Cha-Cha ter dia ruim... Paciência!
+--- BLOCK ---
+Dança fazer coração saudável, viu?
+--- BLOCK ---
+Chu, Cha-Cha agora estar ocupado...
+--- BLOCK ---
+Tchau-cha!
+--- BLOCK ---
+Até laka-logo!
+--- BLOCK ---
+Oga-oga! Tchau-cha!
+--- BLOCK ---
+Até laka-outra!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

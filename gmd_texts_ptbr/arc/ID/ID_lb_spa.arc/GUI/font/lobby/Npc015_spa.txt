@@ -1,0 +1,388 @@
+TMSG_NPC015_0
+--- BLOCK ---
+TMSG_NPC015_1
+--- BLOCK ---
+TMSG_NPC015_2
+--- BLOCK ---
+TMSG_NPC015_3
+--- BLOCK ---
+TMSG_NPC015_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Uma vez fui ver o
+Chefe da aldeia por algo
+e não consegui encontrá-lo.
+--- BLOCK ---
+Procurei e procurei, sabe. Pois não
+imagina onde ele estava: lá
+fora, na ponta do cais!
+--- BLOCK ---
+Ele estava lá em pé,
+olhando para o mar... como
+se estivesse esperando algo.
+--- BLOCK ---
+Me deu arrepios e esqueci
+o que precisava falar com
+ele. Mamãe não gostou...
+--- BLOCK ---
+Vou te contar algo
+bom. Mas não conte
+a ninguém, ok?
+--- BLOCK ---
+Há uma caverna secreta atrás da Fazenda.
+E, dentro dela, uma estranha estátua...
+--- BLOCK ---
+Mas cuidado! Se entrar
+na caverna sozinho, o
+Chefe vai ficar bravo.
+--- BLOCK ---
+Se colocar Carne crua
+no chão, os monstros
+virão para comê-la.
+--- BLOCK ---
+Assim, se combinar Paralisetas ou Ervas
+soníferas com a Carne crua, pode
+paralisar ou fazer os monstros dormirem.
+--- BLOCK ---
+Mas requer discrição! Mantenha
+distância, agache-se bem e
+não faça barulho.
+--- BLOCK ---
+Senão, vão
+te devorar!
+--- BLOCK ---
+As pessoas me confundem
+com meu irmão mais
+velho o tempo todo.
+--- BLOCK ---
+Somos tão difíceis de distinguir? Meu irmão
+mais velho é rude e mesquinho.
+--- BLOCK ---
+Bem, no geral não é
+tão ruim, mas ele precisa
+crescer de uma vez.
+--- BLOCK ---
+Aproxime-se e te contarei
+um segredo, só porque
+você é especial...
+--- BLOCK ---
+(Deixei de molhar a cama antes
+do que meu irmão mais velho!)
+--- BLOCK ---
+É nosso segredo, não conte
+a ninguém. Ele me mataria
+e depois me bateria.
+--- BLOCK ---
+Sabe o que tenho que
+fazer hoje? Ajudar a fazer
+medicamentos com Cogumelos azuis.
+--- BLOCK ---
+Eles são combinados com Ervas para
+Poções, com Ervas antídoto para Antídotos,
+com Insetos divinos para Nutrientes...
+--- BLOCK ---
+Mas devo ter cuidado.
+Se a combinação falhar,
+o material é desperdiçado.
+--- BLOCK ---
+Pode fazer Material explosivo com
+Planta de seiva e uma
+Pedra ou Minério de ferro.
+--- BLOCK ---
+O Material explosivo é usado para fazer
+todo tipo de ferramentas. Experimente
+combinar um com Insetos luminosos ou Hera.
+--- BLOCK ---
+Mas não seja como meu irmão. Ele
+usou Esterco e tentou me atingir com
+a bomba que havia fabricado. Que imaturo!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+As Bombas sônicas são
+mais grossas que meu
+irmão mais velho.
+--- BLOCK ---
+Não causam dano ao explodir, mas
+fazem um barulho enooooorme que soa
+como "¡Iiiiiiii!". Li em um livro.
+--- BLOCK ---
+O barulho se propaga sob
+a terra e pela
+água. Os monstros enlouquecem!
+--- BLOCK ---
+Se usar o Limpiador em si
+mesmo, se livra da sujeira
+e do gelo que tiver.
+--- BLOCK ---
+Mas é difícil de fazer. Tem
+que misturar Peixe Trovejante com
+um Catalisador com muito cuidado.
+--- BLOCK ---
+Se for brusco, o Peixe
+Trovejante explode e te
+cobre de tripas. ¡Eca!
+--- BLOCK ---
+Se encontrar plantas
+e cogumelos raros
+ou incomuns...
+--- BLOCK ---
+Deveria cultivá-los na Fazenda. Assi
+poderá criar mais e não terá
+que se preocupar quando acabar.
+--- BLOCK ---
+Crescem melhor com
+Fertilizante. Está
+bem, né?
+--- BLOCK ---
+Com uma Lança poderá
+capturar peixes vivos na
+margem da floresta.
+--- BLOCK ---
+Mas ouvi dizer que alguns só
+podem ser capturados depois de serem
+esgotados com uma arma normal.
+--- BLOCK ---
+Parece difícil. Como saber
+quais peixes são
+os mais fortes?
+--- BLOCK ---
+Vou contar algo, mas
+tem que PROMETER
+que nunca dirá.
+--- BLOCK ---
+Prometido? Ok.
+--- BLOCK ---
+Há um duende que
+vive na floresta. Sério!
+--- BLOCK ---
+Vi ele. Era uma coisa
+engraçada e usava uma máscara!
+Mas ninguém acredita em mim.
+--- BLOCK ---
+Tudo bem.
+--- BLOCK ---
+Desculpe... Caçador?
+--- BLOCK ---
+Se quiser chegar à Floresta
+de Moga, atravesse esta ponte.
+--- BLOCK ---
+Pode voltar do mesmo jeito,
+então tente lembrar da entrada!
+--- BLOCK ---
+Supostamente temos que pedir permissão para
+entrar na floresta... Oh, mas não
+estou dizendo o que deve fazer!
+--- BLOCK ---
+Tem uma loja de equipamentos bem aqui,
+caso precise. Não acho que deva sair
+com a mesma roupa que a minha.
+--- BLOCK ---
+Ah, sim! Tenho uma pedra que
+peguei quando ouvi que um
+caçador estava chegando. Quer? Aqui.
+--- BLOCK ---
+Usamos para afiar lâminas.
+--- BLOCK ---
+Ufa! És mais gentil do que eu pensava.
+Meu irmão mais velho disse que você me
+quebraria como um ramo, mas és bondoso.
+--- BLOCK ---
+O filho do Chefe? Ah,
+acabou de passar por
+aqui há um momento.
+--- BLOCK ---
+Com certeza estava indo
+verificar o acampamento base.
+--- BLOCK ---
+Tem uma loja de equipamentos bem aqui,
+caso precise. Não pode andar pela
+floresta nu, o Chefe fica bravo.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Veja aquela casa embaixo
+das escadas com cortina
+vermelha e amarela.
+--- BLOCK ---
+Esta é a sua casa. O Chefe disse que você
+deve salvar seu progresso com
+frequência... por precaução!
+--- BLOCK ---
+Talvez eu não tenha entendido direito...
+Ah! E há uma Caixa de itens lá para
+armazenar objetos/trocar de equipamento.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Veja aquela casa embaixo
+das escadas com cortina
+vermelha e amarela.
+--- BLOCK ---
+Esta é a sua casa. O Chefe disse que você
+deve salvar seu progresso com frequência.
+Por precaução!
+--- BLOCK ---
+Talvez eu não tenha entendido direito...
+Ah! E há uma Caixa de itens lá para
+armazenar objetos/trocar de equipamento.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Caçador? Quero te dar uma coisa. É
+uma Rede de insetos feita por mim.
+--- BLOCK ---
+Na Floresta de Moga, há muitos
+insetos. Se vir algum em um
+arbusto, basta lançar isso nele!
+--- BLOCK ---
+Existem insetos brilhantes, outros úteis
+para fazer medicamentos... muitas coisas.
+Um caçador como você saberá aproveitar.
+--- BLOCK ---
+A Rede de insetos está bem feita,
+acredito. Mas se quebrar, você pode comprar
+outra no Mercado da aldeia. Divirta-se!
+--- BLOCK ---
+Ei, estou fazendo uma competição de pesca
+com meu irmão mais velho!
+--- BLOCK ---
+O primeiro a pegar um Peixe
+dourado lendário será o vencedor!
+--- BLOCK ---
+Se eu ganhar, ele terá que parar de
+me incomodar. Esta manhã ele me chamou de
+Bolota de Kelbi e me jogou na água.
+--- BLOCK ---
+Ah, mas tenho uma vantagem: um segredo! O
+Chefe me deixou estudar o Peixe dourado
+em um livro de ciências de sua casa.
+--- BLOCK ---
+Pelo que li, estou bastante certo de que
+ele vive em algum lugar da Área
+10 no mapa da Floresta de Moga.
+--- BLOCK ---
+Descobri que sua isca favorita é feita
+combinando uma Larva serpente com... algo.
+Essa parte não está clara para mim.
+--- BLOCK ---
+Tome, vou te dar um dos meus.
+--- BLOCK ---
+Estou fazendo uma competição
+de pesca com meu
+irmão mais velho!
+--- BLOCK ---
+Tenho certeza de que o Peixe dourado que
+procuramos vive em algum lugar da Área
+10 no mapa da Floresta de Moga.
+--- BLOCK ---
+Meu irmão terá que parar de
+me chamar de apelidos se eu
+ganhar. Não sou Bolota de Kelbi!
+--- BLOCK ---
+A Frota de pesca é
+super importante. Eles pescam
+para que possamos comer!
+--- BLOCK ---
+Sem os barcos, morreríamos de fome.
+É o que mamãe diz. Mas
+dois dos três barcos foram destruídos...
+--- BLOCK ---
+Dois terços de nós ficarão
+sem comer? Meu irmão vai
+querer que seja eu.
+--- BLOCK ---
+Se tocar em um Inseto
+elétrico com as mãos nuas,
+você leva um choque.
+--- BLOCK ---
+Por isso usam os Insetos elétricos para
+fazer Armadilhas elétricas. Acredito que
+os monstros também levam choque!
+--- BLOCK ---
+Você também pode fazer uma Armadilha de
+pedras com uma Rede. Meu irmão pregou uma
+peça me jogando em uma... não achei graça.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Vi um duende vivo
+e se movendo na
+Floresta de Moga. Sério!
+--- BLOCK ---
+Fez um dança estranha e tudo!
+Mas ninguém acredita em mim.
+--- BLOCK ---
+Você acredita em mim, caçador? Eu não
+minto. Há um duende na floresta,
+vá ver com seus próprios olhos!
+--- BLOCK ---
+Muito obrigado por
+encontrar o
+duende, caçador!
+--- BLOCK ---
+Agora posso provar a todos
+que não sou um mentiroso!
+--- BLOCK ---
+E o que acha da
+recompensa da missão? Uau!
+--- BLOCK ---
+Gastei nela todo o pagamento!
+--- BLOCK ---
+O duende voltou! Podemos
+brincar juntos de novo?
+--- BLOCK ---
+Eu me sentia muito sozinho. Todos ocupados
+demais para brincar com uma criança.
+--- BLOCK ---
+Como? DOIS duendes? Um
+aqui e outro ali...
+Estou ficando tonto!
+--- BLOCK ---
+Isso é fabuloso! Agora tenho dois
+amigos para brincar! Ou um de
+reserva caso o outro se canse!
+--- BLOCK ---
+Você é incrível, caçador! É
+incrível que tenha caçado
+o Lagiacrus de mármore!
+--- BLOCK ---
+Ouvi o chefe murmurando algo sozinho
+sobre isso... Algo sobre o Lagiacrus
+de mármore ser uma besta lendária!
+--- BLOCK ---
+E você o caçou! A
+besta lendária! Acho que isso
+te torna um caçador lendário!
+--- BLOCK ---
+Sabe de uma coisa? Talvez eu
+também comece a caçar. Bem, quando
+meus músculos crescerem um pouco.
+--- BLOCK ---
+Oh, você precisa ouvir isso.
+--- BLOCK ---
+Hum... O que eu ia dizer? Ah, sim!
+--- BLOCK ---
+Como vai tudo?
+--- BLOCK ---
+Olá de novo.
+--- BLOCK ---
+Ah! Olá, caçador!
+--- BLOCK ---
+Ei, como está o tempo hoje?
+--- BLOCK ---
+Volte para conversar comigo, certo?
+--- BLOCK ---
+Adeus!
+--- BLOCK ---
+Até logo!
+--- BLOCK ---
+Força, caçador!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

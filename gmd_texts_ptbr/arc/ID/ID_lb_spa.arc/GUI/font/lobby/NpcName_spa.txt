@@ -1,0 +1,202 @@
+﻿TMSG_NPCNAME
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Menino Shak perdido
+--- BLOCK ---
+Chefe da Aldeia
+--- BLOCK ---
+Menina da Guilda
+--- BLOCK ---
+Filho do Chefe
+--- BLOCK ---
+Garota atraente
+--- BLOCK ---
+Pescadora
+--- BLOCK ---
+Armeira
+--- BLOCK ---
+Artesão Wyveriano
+--- BLOCK ---
+Capitão do Argosy
+--- BLOCK ---
+Capitão de frota
+--- BLOCK ---
+Caçador lanzarroja
+--- BLOCK ---
+Caçador lanzanegra
+--- BLOCK ---
+Cozinheiro ambulante
+--- BLOCK ---
+Futuro macho alfa
+--- BLOCK ---
+Criança descuidada
+--- BLOCK ---
+Aldeã amável
+--- BLOCK ---
+Marinheiro do Argosy
+--- BLOCK ---
+Menino Shak perdido
+--- BLOCK ---
+Fazendeiro jefe
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Kayamba
+--- BLOCK ---
+Chamberlyne
+--- BLOCK ---
+Menino
+--- BLOCK ---
+Cumprimentador
+--- BLOCK ---
+Guia de Loc Lac
+--- BLOCK ---
+Empregada da Arena
+--- BLOCK ---
+Guia de Loc Lac
+--- BLOCK ---
+Guia de Loc Lac
+--- BLOCK ---
+Frequentador da Arena
+--- BLOCK ---
+Caçadora novata
+--- BLOCK ---
+Cidadã amável
+--- BLOCK ---
+Nativa Estilosa
+--- BLOCK ---
+Marinheiro Caça-dragão
+--- BLOCK ---
+Marinheiro Caça-dragão
+--- BLOCK ---
+Dama do comércio
+--- BLOCK ---
+Vendedor Pequenino
+--- BLOCK ---
+O Combinador
+--- BLOCK ---
+Capitão Útil
+--- BLOCK ---
+Adivino interior
+--- BLOCK ---
+Guia de Loc Lac
+--- BLOCK ---
+Sabia ambiciosa
+--- BLOCK ---
+DUMMY045
+--- BLOCK ---
+Marinheiro Caça-dragão
+--- BLOCK ---
+Marinheiro Caça-dragão
+--- BLOCK ---
+Mestre da Guilda
+--- BLOCK ---
+Recepcionista
+--- BLOCK ---
+Vendedora da Guilda
+--- BLOCK ---
+Empregada da Arena
+--- BLOCK ---
+Marinheiro Caça-dragão
+--- BLOCK ---
+Instrutor orgulhoso
+--- BLOCK ---
+Caçador incrível
+--- BLOCK ---
+Marino cazadragones
+--- BLOCK ---
+Mestre herrero
+--- BLOCK ---
+Vendedor de armas
+--- BLOCK ---
+Guia de Loc Lac
+--- BLOCK ---
+Ferreiro
+--- BLOCK ---
+Aprendiz hábil
+--- BLOCK ---
+Aprendiz genial
+--- BLOCK ---
+Caçador sagaz
+--- BLOCK ---
+Caçadora Opulenta
+--- BLOCK ---
+Dono da pensão
+--- BLOCK ---
+Guia de Loc Lac
+--- BLOCK ---
+Poogie
+--- BLOCK ---
+DUMMY067
+--- BLOCK ---
+Caçador intrépido
+--- BLOCK ---
+Caçadora gruñona
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Chamberlyne
+--- BLOCK ---
+Caçador tímido
+--- BLOCK ---
+Leitão do patrão
+--- BLOCK ---
+Neko (gato)
+--- BLOCK ---
+Mensageiro Felyne
+--- BLOCK ---
+Menino nervoso
+--- BLOCK ---
+Abuela para todo
+--- BLOCK ---
+Mestre Ferreiro
+--- BLOCK ---
+Vendedor de armas
+--- BLOCK ---
+Cidadã amável
+--- BLOCK ---
+Instructor ufano
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Marinheiro amigable
+--- BLOCK ---
+Gata sagaz
+--- BLOCK ---
+Mestre del Gremio
+--- BLOCK ---
+Chica del gong
+--- BLOCK ---
+Recepcionista
+--- BLOCK ---
+Empregada da Arena
+--- BLOCK ---
+Vendedora da guilda
+--- BLOCK ---
+Mestre churrasqueiro
+--- BLOCK ---
+Camareiro
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Kayamba
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Puerto Cha-Cha (TMP)
+--- BLOCK ---
+Puerto Cha-Cha (TMP)
+--- BLOCK ---
+Puerto Cha-Cha (TMP)
+--- BLOCK ---
+Puerto Cha-Cha (TMP)
+--- BLOCK ---

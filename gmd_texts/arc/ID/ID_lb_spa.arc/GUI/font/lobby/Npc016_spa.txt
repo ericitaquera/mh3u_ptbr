@@ -1,0 +1,497 @@
+﻿TMSG_NPC016_0
+--- BLOCK ---
+TMSG_NPC016_1
+--- BLOCK ---
+TMSG_NPC016_2
+--- BLOCK ---
+TMSG_NPC016_3
+--- BLOCK ---
+TMSG_NPC016_4
+--- BLOCK ---
+¡En fin, bienvenido!
+--- BLOCK ---
+¡Pásate pronto por aquí!
+--- BLOCK ---
+<SUBS 0>
+¿Has encontrado alguna vez objetos con
+los que no sabes qué hacer?
+--- BLOCK ---
+No te preocupes. Cuando vayas obteniendo
+experiencia como cazador, averiguarás
+la forma de aprovechar esos objetos.
+--- BLOCK ---
+Por eso pusimos una Caja de objetos
+en tu casa. ¡Así puedes guardarlos
+para otro momento!
+--- BLOCK ---
+Después de todo, nunca se sabe lo que
+nos reserva el día. Ja, ja, ¿LO PILLAS?
+¡Objetos reservados! ¡En la caja! Buf.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Siempre se nota cuando el jefe está
+con ánimo pensativo.
+--- BLOCK ---
+Se para en el muelle de la izquierda y
+contempla el mar... Si no
+lo encuentras, búscalo allí.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Qué es eso? ¿Te sabe mal matar
+a esos Kelbi pequeñitos?
+--- BLOCK ---
+¡Oh, qué tierno! Bueno, siempre
+puedes aporrearlos con un escudo u
+otra cosa para que se desmayen.
+--- BLOCK ---
+Entonces, les arrancas los cuernos
+y... ¿Qué? ¿Que no crees que les
+importe un cuerno? No lo pillo...
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que puedes combinar objetos
+sin sacarlos de la Caja de objetos?
+--- BLOCK ---
+¡Es verdad! Usa "Combinar objetos de
+la Caja" y te ahorrarás muuucho
+trabajo.
+--- BLOCK ---
+Ordena tu Caja de objetos con frecuencia
+o te costará encontrar las cosas en ese
+cajón "desastre". *Risita*
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+El jefe nunca habla mucho de su propio
+pasado.
+--- BLOCK ---
+¿Cómo habrá llegado a saber tanto sobre
+la caza de monstruos?
+--- BLOCK ---
+Bueno, yo no soy de los que van
+señalando, pero apostaría mil zenis
+a que hace mucho tiempo...
+--- BLOCK ---
+¡Nuestro jefe fue bibliotecario!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Si te paras a pensarlo, el jefe debe
+de tener muchos amigos en el Gremio.
+--- BLOCK ---
+Es decir, ¿cómo, si no, conseguiría que
+un cazador como tú viniera a
+una diminuta aldea perdida del mundo?
+--- BLOCK ---
+¡Para eso hacen falta contactos! Te
+lo digo yo, ha movido algunos hilos.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+El jefe tiene un hijo, ¿no? Pues es
+lógico suponer que estuvo casado.
+--- BLOCK ---
+Me pregunto cómo sería la Sra. Jefe...
+--- BLOCK ---
+Seguro que era amable y generosa...
+¡Y para morirse de guapa, seguro!
+--- BLOCK ---
+Sí, deben de haber estado
+"jefelizmente" enamorados. ¡Ja, ja, ja!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+En la Aldea de Moga se lleva lo de usar
+la Lista de combinaciones para combinar.
+--- BLOCK ---
+Si tienes los objetos, puedes hacer tus
+combinaciones favoritas en un paso.
+¡Ya no te harás un lío! ¡Ja, ja!
+--- BLOCK ---
+Mi hermano es cazador en la ciudad, y
+dice que eso ayuda a los Artilleros, que
+suelen combinar cuando disparan.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Conoces la cascada que hay junto
+a la Granja de la aldea?
+--- BLOCK ---
+Bueno, apuesto a que no sabías que
+detrás tiene un extraño altar.
+--- BLOCK ---
+En mi opinión, la historia de esta
+aldea es anterior al Jefe.
+--- BLOCK ---
+Intenté que me contara algo, pero
+no se mojó. Ja, ja, ¿LO PILLAS?
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Cuando los monstruos se acercan mucho
+a la aldea, los ahuyentamos con bombas.
+--- BLOCK ---
+Solo hay que poner una Hierba de fuego
+dentro de un Barril pequeño y ¡tachán!
+Ya tienes una Bomba barril pequeña.
+--- BLOCK ---
+O, si realmente quieres ser la bomba,
+ja, ja, "bomba", ¿LO PILLAS?, puedes
+fabricar Pólvora.
+--- BLOCK ---
+Solo hay que combinar Hierba de fuego
+con una Nitroseta. Pero hace falta algo
+para guardar la Pólvora por seguridad.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Has visto alguna vez a un Jaggia
+sentarse a descansar?
+--- BLOCK ---
+Pues es una visión que te dejará
+sentado. Ja, ja, ¿LO PILLAS?
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Si combinas un Bicho amargo con Miel,
+tendrás un Catalizador.
+--- BLOCK ---
+Un Catalizador sirve para aumentar
+la fuerza de diversos objetos.
+¡Posibilita más combinaciones avanzadas!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Qué haces con los Filetes poco hechos
+que no están bien hechos?
+--- BLOCK ---
+Verás, a mí me gusta combinarlos con
+Catalizadores para hacer Zumo de poder,
+tiene muchos nutrientes de Resistencia.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Sabes lo que hace falta para capturar
+monstruos, ¿no? Tranquilizantes.
+--- BLOCK ---
+Alguien tan listillo sabrá que se puede
+hacer combinando una Hierba somnífera
+con una Paraliseta, ¿verdad?
+--- BLOCK ---
+Entonces, se aplica el Tranquilizante a
+un Cuchillo de lanzamiento o a Material
+bomba para hacer armas arrojadizas.
+--- BLOCK ---
+Los Artilleros lo meten en Cáscara
+de hueso pequeña para hacer munición.
+¡Algo disparatado! Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Qué? ¿La chica del puesto de misión
+no hace su trabajo?
+--- BLOCK ---
+Oh, venga. ¿Ese encanto? ¡Si es
+adicta al trabajo! Cuando no estás, se
+entierra en libros o escribe al Gremio.
+--- BLOCK ---
+De hecho, nunca la he visto salir
+del puesto de misión, algo que da
+que pensar en cuanto a la higiene.
+--- BLOCK ---
+Habrá otra razón para la falta de
+información sobre monstruos y zonas
+de caza. ¡No seas tan duro con ella!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Hola. Uno de los viajeros me dijo que
+mis juegos de palabras son terribles...
+Pero a ti te gustan, ¿verdad?
+--- BLOCK ---
+Es decir, yo solo intento que nos
+riamos un poco. *Risita* ¿Qué hay de
+malo en un poco de humor?
+--- BLOCK ---
+¡Sin estos divertidos intercambios
+no creo que pudiera seguir *ronquido*
+viva y "comicoleando"!
+--- BLOCK ---
+E-espera, ¡no te vayas!
+Pillaste el chiste, ¿verdad? ¿VERDAD?
+--- BLOCK ---
+Me he... enterado de un terrible
+secreto. No pretendía espiar, pero...
+--- BLOCK ---
+Bueno, creo que deberías saberlo. Oí
+ruidos extraños que venían de tu casa
+y me asomé. Y vi...
+--- BLOCK ---
+Vi a tu Chamberlyne mirándose al
+espejo... ¡y haciendo como que ladraba!
+--- BLOCK ---
+No es que tenga nada de malo.
+O sea, no es que sea un "ladrón"...
+Pfff, ¡JA, JA, JA! Oh, no puedo parar.
+--- BLOCK ---
+<SUBS 0>
+El otro día, los chicos fueron a jugar
+a la Granja.
+--- BLOCK ---
+¡Figúrate, volvieron cubiertos de pies
+a cabeza con lodo! ¡Parecían
+una pareja de Poogie!
+--- BLOCK ---
+Hubo que remojarlos bien en el mar para
+limpiarlos. ¿En qué otro sitio podríamos
+haberles quitado toda esa porquería?
+--- BLOCK ---
+Mmm, seguro que a esos monstruos que
+cazas les vendría bien un baño. ¿Cómo lo
+agua-ntas? Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¡"Qurupeco" es un nombre muy mono
+para un monstruo!
+--- BLOCK ---
+Dicen que los Qurupeco tienen pasos de
+baile impresionantes. Bailan para curar,
+para defenderse, cuando se enfadan...
+--- BLOCK ---
+¡No puedo ni imaginar verlos en su
+salsa! Ja, ja, ¿LO PILLAS? Aah... Bueno,
+yo también sé un par de bailes.
+--- BLOCK ---
+Y si hay algo que no aguanto es que me
+interrumpan cuando estoy inspirada para
+el baile. ¡Soy una fiera del ritmo!
+--- BLOCK ---
+Mira, si un monstruo quiere bailar,
+adelántate a moverte y cancelarás su
+actuación. ¡Actus interruptus!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Lo sabías? ¡El jefe era antes un
+cazador famoso del Gremio!
+--- BLOCK ---
+Ya veo por qué tiene tanta influencia. Y
+eso explica por qué sabe tanto
+de monstruos.
+--- BLOCK ---
+En esta aldea puede modelar sus
+sueños. ¡Después de todo, tiene todo el
+"Barroth" del mundo! Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Ah, hola! ¡Se te ve
+atento y lleno de energía!
+--- BLOCK ---
+No te agradecí que me ayudaras a limpiar
+tras el terremoto. Con la sacudida,
+olvidé sacudir tu mano. Ja, ¿LO PILLAS?
+--- BLOCK ---
+Aún queda mucho por organizar,
+pero podría haber sido peor.
+--- BLOCK ---
+Ah, por cierto, ¿ves esa casa de allí
+con la cortina de colores?
+Es tu nueva casa.
+--- BLOCK ---
+Dentro encontrarás la Caja de objetos.
+En ella hay todo tipo de armas
+y armaduras.
+--- BLOCK ---
+Usa la Caja de objetos cuando quieras
+cambiar de equipo.
+--- BLOCK ---
+Además, dentro hay un Felyne que puede
+orientarte. No olvides estrecharle
+la zarpa. Ji, ji, "estrechar la zarpa".
+--- BLOCK ---
+Sé por qué has venido. El Jefe quiere
+que resuelvas lo del terremoto.
+--- BLOCK ---
+¡No me extraña! ¿Has visto lo que pasó
+con la Granja? No paramos de cosechar
+problemas. Ja, ja, cosechar, ¿LO PILLAS?
+--- BLOCK ---
+¿Eeh? ¿Y esa cara? Has ido a
+la Granja, ¿no? La que está cruzando
+el puente desde la entrada del bosque.
+--- BLOCK ---
+Fíjate en esa cosa llamada "pantalla",
+¿vale? La entrada de la Granja está
+en la esquina inferior derecha. ¡Ja!
+--- BLOCK ---
+El granjero jefe está agotado de reparar
+daños, ¿por qué no siembras un poco
+de felicidad en su vida? ¡Ja, ja, ja!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Siempre se nota cuando el jefe está
+con ánimo pensativo.
+--- BLOCK ---
+Se para en el muelle de la izquierda y
+contempla el mar. ¡Es la mar de fácil
+encontrarlo allí! Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Lo sabías? El Gremio está buscando a alguien que
+cace Tripas de monstruo.
+--- BLOCK ---
+¡Son deliciooosas! ¡De esas delicias
+que se derriten en la boca! Pruébalas si
+tienes estómago. Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+... Vale, ha sido un poco asqueroso.
+--- BLOCK ---
+En fin, no recuerdo de qué monstruo son
+las Tripas de monstruo, pero alguien que
+conozca bien el bosque lo sabrá.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Sabes lo que hace falta para capturar
+monstruos, ¿no? Tranquilizantes.
+--- BLOCK ---
+Alguien tan listillo sabrá que se puede
+hacer combinando una Hierba somnífera
+con una Paraliseta, ¿verdad?
+--- BLOCK ---
+Entonces, se aplica el Tranquilizante a
+un Cuchillo de lanzamiento o a Material
+bomba para hacer armas arrojadizas.
+--- BLOCK ---
+Los Artilleros lo meten en Cáscara
+de hueso pequeña para hacer munición.
+¡Algo disparatado! Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¡"Qurupeco" es un nombre muy mono para
+un monstruo! Como "Fido", o "Minino". 
+--- BLOCK ---
+Dicen que los Qurupeco tienen pasos de
+baile impresionantes. Bailan para curar,
+para defenderse, cuando se enfadan...
+--- BLOCK ---
+¡No puedo ni imaginar verlos en su
+salsa! Ja, ja, ¿LO PILLAS? Aah... Bueno,
+yo también sé un par de bailes.
+--- BLOCK ---
+Y si hay algo que no aguanto es que me
+interrumpan cuando estoy inspirada para
+el baile. ¡Soy una fiera del ritmo!
+--- BLOCK ---
+Mira, si un monstruo quiere bailar,
+adelántate a moverte y cancelarás su
+actuación. ¡Actus interruptus!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¿Eeh? ¿Qué ha sido de ese encantador
+chiquillo que iba siempre contigo?
+--- BLOCK ---
+¡Salió de la ciudad! ¿Y dices que no
+lo has visto desde la última misión?
+--- BLOCK ---
+No es propio de él esfumarse sin más,
+¿eh? No logro enmascarar mi sorpresa.
+Ja. ¿LO PILLAS? ¿Máscara? ¿Lleva una?
+--- BLOCK ---
+¡Oh! ¡Esa ricura ha conseguido
+volver! ¿Se habrá encontrado
+a sí mismo? ¡Ja!
+--- BLOCK ---
+¿Eh? ¿Es otro amigo enmascarado?
+¿Distinto del de antes?
+--- BLOCK ---
+¡Bueno, es doblemente sorprendente!
+¿LO PILLAS? ¡Porque son dos
+de esos mocosos! Un clásico.
+--- BLOCK ---
+El niño se perdió y casi se ahoga,
+¿no?
+--- BLOCK ---
+Entonces, ¿aparece el segundo niño y
+todos lo confunden con el primero?
+--- BLOCK ---
+No me extraña. ¡Son como dos gotas de
+agua! ¿Serán gemelos separados al nacer?
+--- BLOCK ---
+Pero bien está lo que bien acaba, ¿no?
+¡Este final me satisface mucho!
+--- BLOCK ---
+¡Dicen que has cazado al Lagiacrus
+marmóreo, el terrible rival del jefe!
+¡Se acabó! Ja, ja, ¿LO PILLAS?
+--- BLOCK ---
+Será por eso por lo que el jefe está
+de buen humor. ¡Y todo el mundo!
+--- BLOCK ---
+Aunque podría ser por mis ingeniosos
+juegos de palabras. ¡Mejoran el genio! 
+--- BLOCK ---
+¡Ah, hola!
+--- BLOCK ---
+¿Has salido al bosque hoy?
+--- BLOCK ---
+Hierbas, eso es lo que olvidé... ¡Ah!
+--- BLOCK ---
+¡Hola! Vaya, hueles de maravilla.
+--- BLOCK ---
+Aah, hola. Ahora que estás aquí...
+--- BLOCK ---
+¡Vaya, vaya! ¡Qué músculos! Mmm...
+--- BLOCK ---
+¡Oh, me encanta tu arma! Caramba...
+--- BLOCK ---
+¡Hola, qué hay! Me encanta tu ropa.
+--- BLOCK ---
+Oh, porras. Olvidé la colada...
+--- BLOCK ---
+¡Anda! ¡Si es mi cazador favorito!
+--- BLOCK ---
+Buf... Un día muy largo.
+--- BLOCK ---
+Vale, hablamos luego.
+--- BLOCK ---
+¡Ah! ¡Qué tarde! ¡Mira que eres cotorra!
+--- BLOCK ---
+Vale, dejaré que te vayas.
+--- BLOCK ---
+Tenía que decirte algo más... Es igual.
+--- BLOCK ---
+¡Hasta luego! Ven a verme pronto.
+--- BLOCK ---
+¡Bueno, sigue trabajando así!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

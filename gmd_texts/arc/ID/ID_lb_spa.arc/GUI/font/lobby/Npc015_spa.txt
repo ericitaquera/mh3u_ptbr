@@ -1,0 +1,388 @@
+﻿TMSG_NPC015_0
+--- BLOCK ---
+TMSG_NPC015_1
+--- BLOCK ---
+TMSG_NPC015_2
+--- BLOCK ---
+TMSG_NPC015_3
+--- BLOCK ---
+TMSG_NPC015_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+<SUBS 0>
+Una vez fui a ver al Jefe de la aldea
+por algo y no conseguí encontrarlo.
+--- BLOCK ---
+Busqué y busqué, vaya. Pues no te
+imaginarías dónde estaba: ¡ahí fuera,
+en el extremo del muelle!
+--- BLOCK ---
+Estaba allí de pie, mirando hacia
+el mar... como si estuviera
+esperando algo.
+--- BLOCK ---
+Daba escalofríos y se me olvidó lo que
+tenía que decirle. A mamá no le gustó...
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Te voy a contar algo bueno. Pero no
+se lo digas a nadie, ¿vale?
+--- BLOCK ---
+Hay una cueva secreta tras la Granja.
+Y, dentro de ella, una extraña estatua...
+--- BLOCK ---
+¡Pero ten cuidado! Si entras en la cueva
+por tu cuenta, el Jefe la va a liar.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Si pones Carne cruda en el suelo,
+vendrán los monstruos a zampársela.
+--- BLOCK ---
+Así, si combinas Paralisetas o Hierbas
+somníferas con la Carne cruda, puedes
+paralizar monstruos o hacerlos dormir.
+--- BLOCK ---
+¡Pero requiere discreción! Mantén
+la distancia, agáchate bien y no
+hagas ruido.
+--- BLOCK ---
+¡Si no, se te zamparán a ti!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+La gente me confunde con mi hermano
+mayor cada dos por tres.
+--- BLOCK ---
+¿Tan difíciles somos de distinguir?
+Mi hermano mayor es el grosero y ruin.
+--- BLOCK ---
+Bueno, en general no está tan mal,
+pero tiene que crecer de una vez.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Acércate y te contaré un secreto,
+solo porque eres especial...
+--- BLOCK ---
+(¡Dejé de mojar la cama antes que
+ mi hermano mayor!)
+--- BLOCK ---
+Es nuestro secreto, no se lo digas a
+nadie. Él me mataría y luego me pegaría.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Sabes qué tengo que hacer hoy? Ayudar
+a hacer medicinas con Setas azules.
+--- BLOCK ---
+Se combinan con Hierbas para Pociones,
+con Hierbas antídoto para Antídotos,
+con Bichos divinos para Nutrientes...
+--- BLOCK ---
+Pero debo tener cuidado. Si falla la
+combinación, se desperdicia material.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Puedes hacer Material bomba con Planta
+de savia y una Piedra o Mineral hierro.
+--- BLOCK ---
+El Material bomba se usa para hacer toda
+clase de herramientas. Prueba a combinar
+uno con Bichos luminosos o Hiedra.
+--- BLOCK ---
+Pero no seas como mi hermano. Usó
+Boñiga e intentó darme con la bomba que
+había fabricado. ¡Qué inmaduro es!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Solo hay una cosa más grosera que mi
+hermano mayor: las Bombas sónicas.
+--- BLOCK ---
+No hacen daño al explotar, sino
+un ruido enoooorme que suena como
+"¡Iiiiiiii!". Lo leí en un libro.
+--- BLOCK ---
+El ruido se transmite bajo tierra y por
+el agua. ¡Los monstruos enloquecen!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Si usas Limpiador sobre ti, te libras
+del barro y el hielo que tengas.
+--- BLOCK ---
+Pero es difícil hacerlo.
+Tienes que mezclar Pez estruendoso con
+un Catalizador con mucho cuidado.
+--- BLOCK ---
+Si eres brusco, el Pez estruendoso
+explota y te cubre de tripas. ¡Puaj!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Si encuentras plantas y setas raras o
+infrecuentes...
+--- BLOCK ---
+Deberías cultivarlas en la Granja.
+Así podrás crear más, y no tendrás que
+preocuparte cuando las gastes.
+--- BLOCK ---
+Crecen mejor con Fertilizante. 
+Está bien, ¿eh?
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Con un Arpón podrás capturar peces vivos
+en la orilla del bosque.
+--- BLOCK ---
+Pero he oído que algunos no se pueden
+capturar hasta que los agotas con
+un arma normal.
+--- BLOCK ---
+Parece difícil. ¿Cómo saber
+qué peces son los más fuertes?
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Te voy a contar algo, pero tienes que
+PROMETER que no lo dirás nunca.
+--- BLOCK ---
+¿Prometido? Vale.
+--- BLOCK ---
+Hay un duendecillo que vive en
+el bosque. ¡En serio!
+--- BLOCK ---
+Yo lo vi. Era una cosita graciosa, ¡y
+llevaba una máscara! Pero nadie
+quiere creerme.
+--- BLOCK ---
+Pues vale.
+--- BLOCK ---
+Mmm, discúlpame... ¿Cazador?
+--- BLOCK ---
+Em, em... si quieres llegar al Bosque
+de Moga, cruza este puente.
+--- BLOCK ---
+Puedes v-volver del mismo modo, ¡así
+que intenta re-recordar la entrada!
+--- BLOCK ---
+Se supone que debemos pedir permiso para
+ir al bosque... ¡Oh, p-pero no es que
+te esté diciendo lo que debes hacer!
+--- BLOCK ---
+Hay una tienda de equipos aquí mismo,
+por si necesitas. N-no es que crea que
+debes salir con ropa igual que la mía.
+--- BLOCK ---
+¡O-oh, sí! Tengo una piedra que cogí
+cuando oí que se acercaba un cazador.
+¿La qui-quieres? Toma.
+--- BLOCK ---
+Estas las usamos para afilar hojas.
+--- BLOCK ---
+¡Buf! Eres más amable de lo que pensaba.
+Mi hermano mayor dijo que me troncharías
+como a una ramita, pero tienes bondad.
+--- BLOCK ---
+<SUBS 0>
+¿El hijo del Jefe? Ah, justo acaba
+de pasar hace un momento.
+--- BLOCK ---
+Seguro que iba a controlar
+el campamento base.
+--- BLOCK ---
+Hay una tienda de equipos aquí mismo
+por si necesitas. No puedes ir por
+el bosque en pelotas, el Jefe se enfada.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Ves esa casa bajo las escaleras
+con la cortina roja y amarilla?
+--- BLOCK ---
+Es tu casa. El Jefe dijo que debes
+guardar tu progreso con tanta frecuencia
+como sea posible... ¡por si las moscas!
+--- BLOCK ---
+Puede que no me enterara bien...
+¡Ah! Y hay una Caja de objetos allí para
+almacenar objetos o cambiar de equipo.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Ves esa casa bajo las escaleras
+con la cortina roja y amarilla?
+--- BLOCK ---
+Es tu casa. El Jefe dijo que debes
+guardar tu progreso con tanta frecuencia
+como sea posible... ¡por si las moscas!
+--- BLOCK ---
+Puede que no me enterara bien...
+¡Ah! Y hay una Caja de objetos allí para
+almacenar objetos o cambiar de equipo.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¿Cazador? Quiero darte una cosa.
+Es una Red de bichos hecha por mí.
+--- BLOCK ---
+En el Bosque de Moga hay montones de
+insectos. ¡Si ves alguno en un matorral,
+solo tienes que lanzarle esto!
+--- BLOCK ---
+Hay bichos que brillan, otros que sirven
+para hacer medicinas... muchas cosas.
+Un cazador como tú podrá averiguarlo.
+--- BLOCK ---
+La Red de bichos está bien hecha, creo.
+Pero, si se rompe, puedes comprar otra
+en el Mercado de la aldea. ¡Pásalo bien!
+--- BLOCK ---
+Eh, ¿sabes lo que hago? ¡Es un concurso
+de pesca contra mi hermano mayor!
+--- BLOCK ---
+¡El que primero tenga un Pez dorado
+legendario será el ganador!
+--- BLOCK ---
+Si gano, tendrá que dejar de chincharme.
+Esta mañana me llamó Boñiga de Kelbi
+y me tiró al agua.
+--- BLOCK ---
+Ah, pero tengo una ventaja: ¡un secreto!
+El Jefe me dejó estudiar al Pez dorado
+en un libro de ciencias de su casa.
+--- BLOCK ---
+Por lo que he leído, estoy bastante
+seguro de que vive en alguna parte
+del Área 10 del mapa del Bosque de Moga.
+--- BLOCK ---
+Descubrí que su cebo favorito se hace
+combinando una Larva serpiente con...
+algo. Esa parte no la tengo clara.
+--- BLOCK ---
+Toma, te daré uno de los míos.
+--- BLOCK ---
+<SUBS 0>
+¡Estoy haciendo un concurso de pesca
+con mi hermano mayor!
+--- BLOCK ---
+Estoy seguro de que el Pez dorado que
+buscamos vive en alguna parte
+del Área 10 del mapa del Bosque de Moga.
+--- BLOCK ---
+Mi hermano tendrá que dejar de ponerme
+motes si gano. ¡No soy Boñiga de Kelbi!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+La Flota de pesca es superimportante.
+¡Van a pescar para que podamos comer!
+--- BLOCK ---
+Sin los botes, moriríamos de hambre.
+Eso dice mamá. Pero dos de los tres
+botes han sido destruidos...
+--- BLOCK ---
+¿Dos tercios de nosotros nos quedamos
+sin comer? Mi hermano querrá que sea yo.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Si tocas un Bicho eléctrico con las
+manos desnudas, te electrocutas.
+--- BLOCK ---
+Por eso usan los Bichos eléctricos para
+hacer Trampas choque. ¡Supongo que
+los monstruos también se electrocutan!
+--- BLOCK ---
+También puedes hacer una Trampa escollo
+con una Red. Mi hermano me gastó una
+broma tirándome a una, pero no me reí.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+He visto un duende vivito y coleando en
+el Bosque de Moga. ¡De verdad!
+--- BLOCK ---
+¡Hizo un bailecito raro y
+todo! Pero nadie me cree.
+--- BLOCK ---
+Tú me crees, ¿no, cazador?
+Yo no miento. Hay un duendecillo en
+el bosque, ¡ve a verlo con tus ojos!
+--- BLOCK ---
+<SUBS 0>
+¡Millones de gracias por encontrarme
+al duende, cazador!
+--- BLOCK ---
+¡Ya puedo demostrar a todos que no
+soy un embustero!
+--- BLOCK ---
+¿Y qué te parece la recompensa de
+misión? ¡Yuju!
+--- BLOCK ---
+¡Me dejé en ella toda la paga!
+--- BLOCK ---
+¡Ha vuelto el duendecillo! ¿Podremos
+volver a jugar juntos?
+--- BLOCK ---
+Me sentía muy solo. Todos están demasiado
+ocupados para jugar con un niño como yo.
+--- BLOCK ---
+¿Cómo? ¿DOS duendes? Un duendecillo por
+aquí y un duendecillo por allá... 
+¡Me estoy mareando!
+--- BLOCK ---
+¡Esto es fabuloso! ¡Ahora tengo dos
+amigos con los que jugar! ¡O uno de
+repuesto por si el otro se cansa!
+--- BLOCK ---
+¡Eres la monda, cazador!
+¡Es increíble que hayas cazado
+al Lagiacrus marmóreo!
+--- BLOCK ---
+Oí al jefe murmurando solo sobre eso...
+¡Algo de que el Lagiacrus marmóreo
+es una bestia legendaria!
+--- BLOCK ---
+¡Y tú lo cazaste! ¡A la bestia
+legendaria! ¡Creo que eso te convierte
+en cazador legendario!
+--- BLOCK ---
+¿Sabes qué? A lo mejor yo también
+me dedico a cazar. Bueno, en cuanto
+me crezcan algo los músculos.
+--- BLOCK ---
+¡Ooh! Tienes que oír esto.
+--- BLOCK ---
+Mmm... ¿Qué iba a decir? ¡Ah, sí!
+--- BLOCK ---
+¿Cómo va todo?
+--- BLOCK ---
+Hola otra vez.
+--- BLOCK ---
+¡Ah! ¡Hola, cazador!
+--- BLOCK ---
+Oye, ¿qué te parece hoy el tiempo?
+--- BLOCK ---
+Vuelve para charlar conmigo, ¿vale?
+--- BLOCK ---
+¡Adiós!
+--- BLOCK ---
+¡Hasta luego!
+--- BLOCK ---
+¡Ánimo, cazador!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

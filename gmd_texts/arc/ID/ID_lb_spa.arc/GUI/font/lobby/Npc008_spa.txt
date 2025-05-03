@@ -1,0 +1,717 @@
+﻿TMSG_NPC008_0
+--- BLOCK ---
+TMSG_NPC008_1
+--- BLOCK ---
+TMSG_NPC008_2
+--- BLOCK ---
+TMSG_NPC008_3
+--- BLOCK ---
+TMSG_NPC008_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Guau! ¡Mira este Mineral hierro!
+Es... ¡es de gran calidad!
+--- BLOCK ---
+Bueno, puede que no de la MEJOR calidad,
+pero esto no lo ha sacado un aficionado,
+eso seguro. ¡Tienes futuro, colega!
+--- BLOCK ---
+Si esto es lo que consigues con
+un triste Pico de hierro... ¡tu futuro
+se presenta férreo y brillante!
+--- BLOCK ---
+Hrmf... Parece que te has ganado
+una lección sobre la mejora. Es tan
+importante como la forja, créeme.
+--- BLOCK ---
+Consiste en mejorar las armas
+o armaduras que ya posees.
+--- BLOCK ---
+Es mucho más barato que forjar de cero,
+así que no tengas miedo de mejorar
+tu equipo favorito cuanto quieras.
+--- BLOCK ---
+Ah, y puedes consultar tus selectas
+Notas de cazador para ver todos
+los detalles.
+--- BLOCK ---
+<SUBS 0>
+¿El sueño de mi vida? Crear un arma que
+jamas haya visto nadie, supongo.
+--- BLOCK ---
+He perdido la cuenta de las veces que he
+probado y fallado, probado y fallado.
+¡Lo conseguiré algún día, ya lo verás!
+--- BLOCK ---
+<SUBS 0>
+Para decidir qué equipo quieres forjar o
+conmprar, ¡usa "Ver información"!
+--- BLOCK ---
+Toca "Ver información", busca, compara
+y elige. ¡Es esencial!
+--- BLOCK ---
+<SUBS 0>
+Las armas cuerpo a cuerpo cortan mejor
+las pieles duras si tiene mucho Afilado.
+--- BLOCK ---
+El Afilado usa una escala de colores.
+Naranja corta más que amarillo, que
+corta más que verde. ¡Memorízalo!
+--- BLOCK ---
+<SUBS 0>
+En tu armadura, fíjate en la Defensa.
+Cuanta más tenga, menos daño sufrirás.
+--- BLOCK ---
+No se usa con los ataques elementales.
+¡Para estos se emplea la Resistencia!
+La Defensa tiene un límite.
+--- BLOCK ---
+<SUBS 0>
+Ahora tienes la armadura de Espadachín
+y la armadura de Artillero.
+--- BLOCK ---
+Presta atención: ¡puedes usar
+un arma que no concuerde con
+tu armadura!
+--- BLOCK ---
+<SUBS 0>
+¡Su gran defensa es la baza de la
+armadura de Espadachín!
+--- BLOCK ---
+Me gusta forjarlas de modo que
+resistan cualquier castigo. ¡Incluso
+el coletazo de un monstruo gigante!
+--- BLOCK ---
+<SUBS 0>
+Fabrico la armadura de Artillero con una
+idea: ¡la resistencia elemental!
+--- BLOCK ---
+Los Artilleros no suelen recibir
+impactos directos, pero sí alientos de
+llamas y otros proyectiles.
+--- BLOCK ---
+<SUBS 0>
+¿Qué sabes de las habilidades? ¡Para ser
+buen cazador, tienes que dominarlas!
+--- BLOCK ---
+Cuando los Puntos de habilidad de
+tu armadura superan un nivel, se activan
+habilidades. ¡Consulta las estadísticas!
+--- BLOCK ---
+Las habilidades funcionan así: tienes
+una armadura de cinco piezas, cada una
+con dos Puntos de habilidad Salud.
+--- BLOCK ---
+Las reglas dicen que necesitas diez
+Puntos de habilidad Salud para activar
+la habilidad Salud +20.
+--- BLOCK ---
+Cinco piezas de armadura a dos puntos
+cada una son diez Puntos de habilidad.
+¡Se activa la habilidad Salud +20!
+--- BLOCK ---
+<SUBS 0>
+¡Tráeme una esfera de armadura y podré
+mejorar tu armadura todavía más!
+--- BLOCK ---
+Es mucho más barato que comprar.
+Si te gusta el aspecto de tu armadura,
+mejórala y sigue usándola.
+--- BLOCK ---
+<SUBS 0>
+¡Las resistencias de la armadura pueden
+ser aún más importantes que la defensa!
+--- BLOCK ---
+Por ejemplo, con una Resistencia al
+fuego baja, el aliento de fuego te hará
+arder. ¡No descuides la Resistencia!
+--- BLOCK ---
+<SUBS 0>
+Ataques elementales como fuego y hielo
+pueden hacer cosas raras con tu cuerpo.
+--- BLOCK ---
+Estas plagas pueden sanarse con
+objetos, pero ¿por qué no evitarlas con
+las Resistencias de tu armadura?
+--- BLOCK ---
+<SUBS 0>
+¿Te has fijado en los espacios que
+usas con las armas?
+--- BLOCK ---
+Puedes llenarlas con adornos, ¿sabías?
+¡De este modo, tus habilidades
+aumentarán en buena medida!
+--- BLOCK ---
+<SUBS 0>
+Un ataque con elemento de fuego puede
+incendiarte. ¡Es la Plaga de fuego!
+--- BLOCK ---
+El fuego QUEMA: mientras el cuerpo arda,
+irá bajando tu Salud. ¡No pierdas de
+vista el valor de Resistencia al fuego!
+--- BLOCK ---
+<SUBS 0>
+Un ataque con elemento de trueno puede
+electrocutarte. ¡Es la Plaga de Trueno!
+--- BLOCK ---
+En este estado, es más probable que los
+ataques te aturdan. ¡No pierdas de vista
+el valor de Resistencia al trueno!
+--- BLOCK ---
+<SUBS 0>
+Un ataque con elemento de agua puede
+asfixiarte. ¡Es la Plaga de agua!
+--- BLOCK ---
+La falta de oxígeno frena
+la recuperación de Resistencia.
+¡Mira el valor de Resistencia al agua!
+--- BLOCK ---
+<SUBS 0>
+Un ataque con elemento de hielo puede
+congelarte. ¡Es la Plaga de hielo!
+--- BLOCK ---
+Gastarás mucha más Resistencia al
+maniobrar en esa condición. ¡No dejes de
+mirar el valor de Resistencia al hielo!
+--- BLOCK ---
+<SUBS 0>
+Pero si te atacan con elemento de dragón
+sentirás que te arrastra un hechizo.
+--- BLOCK ---
+Se llama Plaga de dragón y volverá locas
+las funciones elementales de tu arma.
+¡Vigila tu Resistencia a dragón!
+--- BLOCK ---
+<SUBS 0>
+Hay Ballestas ligeras con una función
+curiosa llamada Fuego rápido.
+--- BLOCK ---
+¡Aprietas el gatillo una vez y disparas
+varios tiros! El tipo de munición que
+admiten es distinta en cada arma.
+--- BLOCK ---
+<SUBS 0>
+¡Atención! ¡Te voy a enseñar la receta
+de munición de Artillero más básica!
+--- BLOCK ---
+Mete una Baya aguja en una Baya hueca,
+¿qué obtienes? ¡Disparo normal Nv2!
+Todo Artillero debería llevarlo encima.
+--- BLOCK ---
+<SUBS 0>
+¡Pon un Diente wyv. páj. en una Baya
+hueca para hacer un Disp. perf. Nv1!
+--- BLOCK ---
+Las Cásc. hueso pq. y Bayas huecas son
+la base inicial para combinar casi
+cualquier tipo de munición.
+--- BLOCK ---
+<SUBS 0>
+Algunos monstruos son muy vulnerables
+a los ataques elementales.
+--- BLOCK ---
+Combina una Baya hueca y una Hierba de
+fuego y crea Disparo de llama. ¡Prueba
+para obtener otra munición elemental!
+--- BLOCK ---
+<SUBS 0>
+Los monstruos venenosos con Disp. veneno
+Nv1 pueden ser muy efectivos.
+--- BLOCK ---
+Es fácil de crear: solo hay que juntar
+un Hongo y una Baya hueca.
+--- BLOCK ---
+<SUBS 0>
+D. sub. Nv1 es una munición especial que
+dispara un racimo de balas bajo agua.
+--- BLOCK ---
+¿Quieres crearla? Mete un Colmillo
+afilado en una Baya hueca. ¡Listo!
+--- BLOCK ---
+<SUBS 0>
+La munición F. Wyvern te permite causar
+mucho daño a quemarropa.
+--- BLOCK ---
+Combina una Arrowana revent. con
+una Cásc. hueso gr. para crearla.
+--- BLOCK ---
+<SUBS 0>
+Necesitarás un cartucho más duro para
+fabricar D. perdigón Nv3.
+--- BLOCK ---
+Prueba a combinar un Colmillo wyvern con
+una Cáscara de hueso pequeña. Me da
+a mí que te va a funcionar...
+--- BLOCK ---
+<SUBS 0>
+Rellena una Baya hueca con Boñiga
+y podrás lanzar D. fatiga Nv1.
+--- BLOCK ---
+Agota y hiere a los monstruos grandes.
+¡Hasta los excrementos tienen utilidad!
+--- BLOCK ---
+<SUBS 0>
+Mete una Caballa cuchillo en una Cásc.
+hueso pq. y tendrás Disparo cortador.
+--- BLOCK ---
+Puedes lograr toda clase de munición
+con Cáscaras de hueso y Bayas huecas.
+¡Experimenta con las combinaciones!
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que puedes hacer Esferas
+de armadura con combinaciones?
+--- BLOCK ---
+Si encuentras una Piedra armadura,
+combínala con Mineral machalita.
+--- BLOCK ---
+<SUBS 0>
+Las Piedras antisépticas son lo que su
+nombre indica: ¡rocas germicidas!
+--- BLOCK ---
+¿Quieres una? Baña un Cristal tierra en
+extracto de Bicho amargo. ¡Es muy fácil!
+--- BLOCK ---
+Ah, eres el cazador del que he oído
+hablar. Las pintas las tienes.
+--- BLOCK ---
+¿Eh, yo? ¡Soy el mejor herrero que hay!
+¡Soy quien fabrica todo el equipo que
+se vende por aquí!
+--- BLOCK ---
+¡Espadas capaces de partirte en dos de
+un tajo! ¡Las Ballestas más precisas
+del mundo! ¡Y qué armaduras!
+--- BLOCK ---
+Si me traes los materiales, te fabrico
+lo que sea. ¡Hay que equiparse bien
+antes de entrar en los bosques!
+--- BLOCK ---
+<SUBS 0>
+¿Eh? ¿Tienes alguna idea?
+--- BLOCK ---
+Atiende. En el Bosque de Moga puedes
+encontrar todos los recursos naturales
+imaginables.
+--- BLOCK ---
+Con solo darte un paseo y cazar
+monstruos, conseguirás muchos de estos
+Recursos.
+--- BLOCK ---
+Vamos, que, si vas a vivir en la aldea
+de Moga, lo mejor es empezar dándote
+una vuelta por el bosque.
+--- BLOCK ---
+¿No entiendes algo? Consulta
+las Notas de cazador en el menú
+del juego.
+--- BLOCK ---
+¡La sección Información de cazador
+contiene montones de consejos para
+ganarte la vida cazando!
+--- BLOCK ---
+Ah, eres tú. ¿Tienes cubiertas
+las necesidades de armas
+y armaduras?
+--- BLOCK ---
+Ese maldito Jefe me pidió que te
+hablara de la forja de equipo. ¡Atiende!
+--- BLOCK ---
+A crear equipo nuevo a partir de
+un montón de materiales es a lo que
+llamamos "forjar".
+--- BLOCK ---
+Si quieres crear un arma de metal,
+necesitas mineral; y si quieres una
+armadura de hueso, necesitas hueso.
+--- BLOCK ---
+Tráeme los materiales y el dinero, y yo
+te forjo lo que necesites. ¡Y además
+lo haré mejor que ningún otro!
+--- BLOCK ---
+¿No entiendes algo? Consulta
+las Notas de cazador en el menú
+del juego.
+--- BLOCK ---
+¡La sección Información de cazador
+contiene montones de consejos
+para ganarte la vida cazando!
+--- BLOCK ---
+<SUBS 0>
+¿Eh? Vienes a conocer mi negocio, ¿no?
+--- BLOCK ---
+¡Bueno, vale! Te explicaré algo,
+¡pero solo por esta vez, así que
+límpiate bien los oídos!
+--- BLOCK ---
+Tengo dos trabajos aquí, en la Herrería:
+puedo hacer trabajo de "forja"
+o de "mejora".
+--- BLOCK ---
+Forjar es lo que parece:
+¡crear equipo nuevo donde
+antes no lo había!
+--- BLOCK ---
+Si quieres crear un arma de metal,
+necesitas mineral; y si quieres una
+armadura de hueso, necesitas hueso.
+--- BLOCK ---
+Y... Bueno, no me gusta sacar este
+tema, pero este mundo nuestro
+lo mueven los zenis.
+--- BLOCK ---
+Combustible, productos químicos para
+la forja... Todo eso cuesta dinero, y te
+toca pagarlo a ti.
+--- BLOCK ---
+Tráeme los materiales y el dinero, y yo
+te forjo lo que necesites. ¡Y además
+lo haré mejor que ningún otro!
+--- BLOCK ---
+En cuanto a las mejoras... Bueno,
+podemos hablar en otro momento. A ver,
+¿has aprendido algo?
+--- BLOCK ---
+Así me gusta. ¡Recuerda que no intento
+robarte ni nada parecido!
+--- BLOCK ---
+Si tienes problemas con alguna parte,
+consulta tus Notas de cazador en
+el menú del juego. ¡Ahí lo tienes todo!
+--- BLOCK ---
+¡Ah, tú! Justo a tiempo, colega.
+Tenía que pedirte un favor.
+--- BLOCK ---
+Si vas a quedarte en la aldea a cazar,
+necesitarás mi ayuda. ¡Y no
+me refiero a soplar el cuerno!
+--- BLOCK ---
+Y he pensado: instalemos una pequeña
+mejora en esa arma tuya, para que
+veas en qué consiste.
+--- BLOCK ---
+¡Eh, eh, borra esa sonrisa de la cara!
+Ni toco el martillo hasta que me traigas
+el material básico: Mineral hierro.
+--- BLOCK ---
+Conseguir los materiales para
+tu equipo, esa es la vida del cazador.
+--- BLOCK ---
+Demuestra que vales para esto, que
+tienes ojo para localizar depósitos y
+habilidad para extraer el mineral.
+--- BLOCK ---
+Toma, mi Pico de hierro.
+Úsalo bien cuando encuentres
+un depósito de mineral, ¿de acuerdo?
+--- BLOCK ---
+<SUBS 0>
+¿Eh? ¿Qué será ahora? Estás pensando
+en traerme Mineral hierro, ¿o no?
+--- BLOCK ---
+Tienes que usar un Pico para extraerlo.
+¡Si el que te di se rompe, compra otro
+en el Mercado!
+--- BLOCK ---
+Cuando encuentres el mineral, elige
+Solicitudes poblac. en mi lista,
+¿entendido? ¡En marcha, cazador!
+--- BLOCK ---
+¡Eh, cazador! Te está yendo bastante
+bien, ¿eh?
+--- BLOCK ---
+¿Ahora trabajas para el Gremio de
+cazadores? ¡Ya verás la que se te
+viene encima, ja, ja!
+--- BLOCK ---
+Bueno, había pensado en darte
+algo. Encima que me traes
+todo ese mineral...
+--- BLOCK ---
+Esto es una Esfera de armadura. Se
+suelen conseguir extrayendo, y puedo
+usarla para mejorar tu armadura.
+--- BLOCK ---
+¡Echa un vistazo a mi menú!
+Arte de armaduras, y luego Mejorar
+armadura. ¿Lo tienes?
+--- BLOCK ---
+Y no te olvides de consultar
+los detalles en tus Notas de cazador.
+--- BLOCK ---
+¡Venga, es para ti!
+--- BLOCK ---
+¡Mil demonios, colega! ¡He oído
+que te has cargado a un Ludroth!
+No está mal, nada mal...
+--- BLOCK ---
+De hecho, te va tan bien que me dieron
+ganas de probar algo diferente...
+--- BLOCK ---
+¡Los llamo "amuletos"! Ganas Puntos
+de habilidad solo por llevarlos, como
+con cualquier equipo.
+--- BLOCK ---
+Digamos que tienes una habilidad
+a la que le faltan unos puntos para
+activarse. ¡Pues ahí está el amuleto!
+--- BLOCK ---
+¡Este es un regalo, pero, si quieres
+más, me tendrás que conseguir
+los materiales!
+--- BLOCK ---
+¡Eh, colega! ¡Tus cacerías son
+la comidilla de toda la aldea!
+--- BLOCK ---
+Creo que es hora de que te
+hable de los adornos.
+--- BLOCK ---
+¿Te has fijado en que tu equipo tiene
+huecos llamados espacios?
+--- BLOCK ---
+¡Pues, resumiendo, esos espacios
+son para los adornos!
+--- BLOCK ---
+Los adornos conceden Puntos de
+habilidad, como todo el equipo.
+--- BLOCK ---
+Bueno, sí, muchos puntos no es que
+den... pero toda ayuda es poca,
+¿o no?
+--- BLOCK ---
+Si tu armadura tiene muchos espacios,
+puedes llenarlos todos con adornos.
+¡Puntos de habilidad al instante!
+--- BLOCK ---
+¿Entendido? No te equipas
+directamente con adornos, como con
+los amuletos. Los asignas al equipo.
+--- BLOCK ---
+Si lo has entendido todo...
+ten. ¡Para hacer adornos usamos
+joyas como esta!
+--- BLOCK ---
+¡Hola!
+Me alegro de verte por aquí.
+--- BLOCK ---
+Dicen que andas pensando en liarte con
+las subespecies de monstruos. Me gusta
+eso: ¡hacen falta agallas! ¡Ji, ji!
+--- BLOCK ---
+Verás, si me traes unas cuantas partes
+de monstruo de élite, ¡te hago la
+armadura de los campeones! ¡De muchos!
+--- BLOCK ---
+Ah, y... Por haberle dado para el pelo a
+ese Ceadeus, voy a hacerte un regalito:
+¡una Esfera de armadura avanzada! 
+--- BLOCK ---
+Es como una Esfera de armadura...
+¡pero avanzada! Con las normales solo
+puedes hacer ciertas mejoras...
+--- BLOCK ---
+¡Pero con esta, no hay límites!
+--- BLOCK ---
+No son fáciles de encontrar, pero si
+reúnes suficientes, podrás crearte una
+protección importante.
+--- BLOCK ---
+¡Ahí tienes!
+--- BLOCK ---
+¡Hola!
+No podías llegar en mejor momento.
+--- BLOCK ---
+Estaba leyendo un poco sobre Ballestas.
+Resulta que puedes quitarles los
+limitadores cuando sube su rareza.
+--- BLOCK ---
+Sin limitador puedes mejorar la Ballesta
+y eso es algo serio. Ahora te cuento
+los detalles.
+--- BLOCK ---
+Hablemos primero de las Ballestas
+ligeras.
+--- BLOCK ---
+Al quitar el limitador, te mueves más
+despacio y pierdes el Paso atrás y el
+Fuego rápido.
+--- BLOCK ---
+PERO (y esto es un gran "pero") puedes
+cargarla con más munición y no tienes
+que recargar al cambiar de munición.
+--- BLOCK ---
+Esto es lo mejor: si pulsas el botón X
+y el botón A a la vez, recargas todos
+los tipos de munición a la vez. ¡Hala!
+--- BLOCK ---
+Y en cuanto a las Ballestas pesadas...
+--- BLOCK ---
+Al quitar el limitador te moverás más
+despacio y no podrás esquivar justo
+después de hacer el disparo.
+--- BLOCK ---
+¿Y el Disparo agachado? Ya puedes
+olvidarte también de él.
+--- BLOCK ---
+PERO... puedes cargar más munición y
+empezar a usar Fuego wyvern, ¡y tu
+potencia de fuego se multiplica! ¡Hala!
+--- BLOCK ---
+Además, tu escudo se traga más daño,
+si es que llevas uno.
+--- BLOCK ---
+A ver: ¿te impresiona, o simplemente
+te deja con la boca abierta?
+--- BLOCK ---
+Es casi como si te dieran acceso a
+un arma completamente nueva, ¿verdad?
+Estarás pensando: "Me apunto".
+--- BLOCK ---
+Pues tienes que traerme una Ballesta
+con una rareza mínima de 6... ¡y tampoco
+estaría mal que me pagaras algo!
+--- BLOCK ---
+No te preocupes, si no te satisface
+siempre puedes cambiarlo: selecciona
+Con limitador, ya sabes dónde.
+--- BLOCK ---
+¿Comprendido? Bien.
+¿Y si pruebas un poco ahora?
+--- BLOCK ---
+¡Vaya, fíjate! Me acabo de acordar:
+¿Te ha hablado alguien de las armas
+a base de baba?
+--- BLOCK ---
+Las armas con ese elemento "babifican"
+(es el término clínico) gradualmente
+al objetivo.
+--- BLOCK ---
+Cuando el valor de baba alcanza el
+"babeo crítico", ¡activas una explosión
+que daña al monstruo y a sus partes!
+--- BLOCK ---
+¡Y eso no es todo! Puedes menguar la
+resistencia de las partes en el proceso.
+¡Si resisten menos, se machacan mejor!
+--- BLOCK ---
+Y oí tras las ramas de una Baya aguja
+que la baba es lo mejor contra monstruos
+con defensas rígidas.
+--- BLOCK ---
+No está mal, ¿verdad?
+"¿Dónde consigo baba de la mejor?",
+estarás pensando. Pues...
+--- BLOCK ---
+Con los materiales adecuados y algo de
+dinero, ¡te hago un arma de baba ya!
+--- BLOCK ---
+¡Joven! ¿Puedo llamarte "joven" ahora?
+Dicen que has derrotado a un Lagiacrus
+marmóreo.
+--- BLOCK ---
+El jefe de la aldea y yo nos contamos
+muchas batallitas, y él era un buen
+cazador en sus tiempos.
+--- BLOCK ---
+Pero ni él consiguió "tachar al
+marmóreo". ¡Así lo llamábamos!
+--- BLOCK ---
+Joven, tienes un lugar sin tacha en la
+historia de Moga. Es un honor haber
+cruzado mi martillo con tu potente arma.
+--- BLOCK ---
+¡Ejem! En fin, déjate caer con los
+materiales cuando quieras mis servicios.
+¡Me encantará mejorar a una leyenda!
+--- BLOCK ---
+¡Ven aquí!
+--- BLOCK ---
+¡Vaya, si es el gran cazador!
+--- BLOCK ---
+¿En qué puedo ayudarte?
+--- BLOCK ---
+¡Te doy la bienvenida a la Herrería!
+--- BLOCK ---
+¡Eh! ¡Ven a tomar un té!
+--- BLOCK ---
+¡He oído hablar de ti, cazador!
+--- BLOCK ---
+Ah, mi mejor cliente.
+--- BLOCK ---
+¡Aah, este tiempo es maravilloso!
+--- BLOCK ---
+Vuelve por aquí, ¿de acuerdo?
+--- BLOCK ---
+¡Bien! ¡Vuelve cuando quieras!
+--- BLOCK ---
+¡Bien! ¡Nos vemos, colega!
+--- BLOCK ---
+¡Tienes mi promesa! Mi yunque estará
+listo cuando lo necesites.
+--- BLOCK ---
+Ten cuidado al almacenar equipo de
+hierro. ¡La brisa salada lo oxida!
+--- BLOCK ---
+Asegúrate de cuidar tu equipo tras
+una misión. ¡Una armadura es
+como un hijo!
+--- BLOCK ---
+Las Piedras de afilar tienen un truco:
+¡hay que darlo todo por ellas!
+--- BLOCK ---
+¡Todos los productos de la Herrería
+tienen cien años de garantía!
+¡Nos vemos!
+--- BLOCK ---
+¿Eh, ya te vas? ¡Rayos y truenos,
+me lo estaba pasando bien!
+--- BLOCK ---
+Bueno, recuerda: ¡dime qué quieres
+y yo te lo forjo!
+--- BLOCK ---
+¡Alterar una armadura no es como pasear
+por el campo, así que ten cuidado con
+lo que comes, colega!
+--- BLOCK ---
+¿Lo oyes? ¡Mi martillo está llorando!
+¡Suplica fabricar equipo de calidad!
+Ya puedes volver.
+--- BLOCK ---
+El buen equipo no vale de nada si no
+hay detrás un buen cazador.
+Ten mucho cuidado.
+--- BLOCK ---
+¿Quieres armadura de calidad? Solo hace
+falta material adecuado ¡y mi talento!
+--- BLOCK ---
+Es un placer fabricar equipo
+para un buen cazador como
+tú. ¡Vuelve pronto por aquí!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Bueno, da igual.
+¿Qué te trae por aquí?
+--- BLOCK ---
+Basta de cháchara. ¡Dispara!
+¿Qué puedo hacer por ti?
+--- BLOCK ---
+¡Muy buenas! ¿Qué asuntos te traen
+por aquí? ¿Armas? ¿Armadura?
+--- BLOCK ---
+Muy buenas. ¿Qué será hoy, forja
+o mejora? Estoy abierto a todo.
+--- BLOCK ---
+Bueno, ¿y si vamos al asunto?
+¡Tú pídemelo y yo te fabrico una
+obra maestra!
+--- BLOCK ---
+Pero escucha. ¡Ja, ja!
+¡Pongámonos manos a la forja!
+--- BLOCK ---
+Bueno, ¿qué se ofrece hoy?
+¡Quiero crear una nueva obra maestra!
+--- BLOCK ---
