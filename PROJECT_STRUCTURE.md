@@ -24,7 +24,7 @@ These are the original `.gmd` script text files extracted from the Spanish versi
 Located under:
 
 ```
-gmd_texts_ptbr/arc/ID/ID_lb_spa.arc/GUI/font/lobby/*.txt
+gmd_texts_ptbr/*/*/*/*/*/*/*/*.txt
 ```
 
 These are the localized Portuguese versions of the `.gmd` files. They mirror the structure of the original files and are injected back into the game for patching.
