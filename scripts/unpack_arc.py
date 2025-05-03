@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import sys
 import struct
@@ -60,24 +61,53 @@ def extract_files(file, entries, output_dir):
             compressed = "NO"
             sig = "0x00000000"
 
-        ext_map = {
-            0x241F5DEB: '.tex',
-            0x242BB29A: '.gmd',
-            0x07F768AF: '.gii',
-            0x2D462600: '.gfd',
-            0x22948394: '.gui',
-            0x0AAF2DB2: '.xfs',            
-            0x2749c8a8: '.mrl',
-            0x58a15856: '.mod',
-            0x76820d81: '.lmt',
-            0x6d5ae854: '.efl',
-            0x4c0db839: '.sdl',
+        magic_ext_map = {
+            b'GMD\x00': '.gmd',
+            b'GFD\x00': '.gfd',
+            b'GUI\x00': '.gui',
+            b'GII\x00': '.gii',
+            b'TEX\x00': '.tex',
+            b'MRL\x00': '.mrl',
+            b'MOD\x00': '.mod',
+            b'LMT\x00': '.lmt',
+            b'EAN\x00': '.ean',
+            b'EFL\x00': '.efl',
+            b'XFS\x00': '.xfs',
+            b'DCM\x00': '.dcm',
+            b'ESQ\x00': '.esq',
+            b'MSS\x00': '.mss',
+            b'EMS\x00': '.ems',
+            b'EMM\x00': '.emm',
+            b'EMG\x00': '.emg',
+            b'EML\x00': '.eml',
+            b'EMT\x00': '.emt',
+            b'EAR\x00': '.ear',
+            b'EMC\x00': '.emc',
+            b'HTD\x00': '.htd',
+            b'BDD\x00': '.bdd',
+            b'HTS\x00': '.hts',
+            b'SDL\x00': '.sdl',
+            b'rvl\x00': '.rvl',
+            b'MADP': '.madp',            
+            b'DMEM': '.dmem',
+            b'SNDB': '.sndb',
+            b'SREQ': '.sreq',
+            b'QTDS': '.qtds',
+            b'REV\x00': '.rev',
+            b'CFL\x00': '.cfl',
+            b'SBC\xFF': '.sbc',
+            b'LFP\x00': '.lfp',
+
+            # Add more if needed
         }
-        if entry['unk1'] not in ext_map:
-            print(f"Error: Can´t unpack {file.name}. Unknown UNK1 signature 0x{entry['unk1']:08x} for file {entry['path']}, size {entry['raw_size']}")  
-             
+
+        magic = raw[:4]
+        extension = magic_ext_map.get(magic)
+        if not extension:
+            print(f"Error: Can’t unpack {file.name}. Unknown magic header {magic.hex()} for file {entry['path']}, size {entry['raw_size']}")
+            print(f"Magic (hex): 0x{magic.hex()} | Magic (ascii): {magic.decode('ascii', errors='replace')}")
+            print(f"b\'{magic.decode('ascii', errors='replace')}\\x00\': \'.{magic.decode('ascii', errors='replace').lower()}\',")
             sys.exit(1)
-        extension = ext_map[entry['unk1']]
         out_path = os.path.join(output_dir, entry['path'] + extension)
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
         with open(out_path, 'wb') as f:
@@ -138,7 +168,6 @@ def main():
             entries = extract_entries(file, num_files)
             props = extract_files(file, entries, output_dir)
 
-        
         with open(props_path, 'w', encoding='utf-16') as f:
             f.write("\n".join(props))
 

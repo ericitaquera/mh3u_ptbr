@@ -90,7 +90,7 @@ def translate_batch(batch_text, log_f):
     
     log_output_stdout("[INFO] Sending batch to OpenAI...", 3, log_f)    
     log_output_stdout(f"[INFO] Full Prompt:{full_prompt}", 2, log_f)
-    log_output_stdout("[INFO] Text being sent to GPT for translation:", 3, log_f)
+    log_output_stdout("[INFO] Text being sent to GPT for translation:", 2, log_f)
     cleaned_batch_text = "\n".join([line for line in batch_text.splitlines() if line.strip()])
     log_output_stdout(cleaned_batch_text, 2, log_f)
 
@@ -225,6 +225,7 @@ if not prompt_dir:
 prompt_path = os.path.join(prompt_dir, f"{name_without_ext}.prompt.txt")
 if not os.path.exists(prompt_path):
     raise FileNotFoundError(f"Prompt file not found: {prompt_path}")
+    sys.exit()
 
 with open(prompt_path, "r", encoding="utf-8") as pf:
     PROMPT_STYLE = pf.read().strip()
@@ -346,4 +347,4 @@ with open(output_file, "a", encoding="utf-8") as out_f, open(log_file, "w", enco
         log_output_stdout("[INFO] No lines exceed 43 characters:", 3, log_f)
     log_output_stdout(f"[INFO] Input File: {input_file}", 3, log_f) 
     log_output_stdout(f"[INFO] Log file saved at: {log_file}", 3, log_f) 
-    print(f"\.find_files.ps1 {input_file} {output_file}")
+    print(f".\\.find_files.ps1 {input_file} {output_file}")
