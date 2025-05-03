@@ -22,29 +22,31 @@ Below is a description of each .txt files found under gmd_texts_ptbr/arc/ID/ID_l
 
 Help_spa.txt: Help menu or tutorial text
 
-Npc001_spa.txt: Dialogue for * Npc001: Menino Shak perdido
+Npc001_spa.txt: Dialogue for Menino Shak perdido
 
-Npc002_spa.txt: Dialogue for NPC #002
+Npc002_spa.txt: Dialogue for Chefe da Aldeia
 
-Npc003_spa.txt: Dialogue for NPC #003
+Npc003_spa.txt: Dialogue for Menina da Guilda
 
-Npc004_spa.txt: Dialogue for NPC #004
+Npc004_spa.txt: Dialogue for Filho do Chefe
 
-Npc005_spa.txt: Dialogue for NPC #005
+Npc005_spa.txt: Dialogue for Garota atraente
 
-Npc006_spa.txt: Dialogue for NPC #006
+Npc006_spa.txt: Dialogue for Pescadora
 
-Npc007_spa.txt: Dialogue for NPC #007
+Npc007_spa.txt: Dialogue for Armeira
 
-Npc008_spa.txt: Dialogue for NPC #008
+Npc008_spa.txt: Dialogue for Artesão Wyveriano
 
-Npc014_spa.txt: Dialogue for NPC #014
+Npc014_spa.txt: Dialogue for Futuro macho alfa
 
-Npc015_spa.txt: Dialogue for NPC #015
+Npc015_spa.txt: Dialogue for Criança descuidada
 
-Npc016_spa.txt: Dialogue for NPC #016
+Npc016_spa.txt: Dialogue for Aldeã amável
 
-Npc025_spa.txt: Dialogue for NPC #025
+Npc024_spa.txt: Dialogue for Neko
+
+Npc025_spa.txt: Dialogue for Chamberlyne
 
 NpcName_spa.txt: List of NPC display names shown in menus
 
