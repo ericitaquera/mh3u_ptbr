@@ -14,7 +14,9 @@ Used for rendering **icon-style text labels** within the interface.
 * **Font Color**: `#ffffdd` (pale yellow)
 * **Outline**: +2px, `#723f00` (brown)
 
-![td\_icon\_ID\_spa.tex preview](td_icon_ID_spa.png)
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="images/td_icon_ID_spa.preview.png" alt="td_icon_ID_spa preview">
+</div>
 
 ---
 
@@ -45,6 +47,10 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 * **Font Color**: `#e81f13` (red)
 * **Outline**: +2px, `#fff7e6` (cream)
 
-![td\_M\_v\_under\_ID\_spa.tex preview](td_M_v_under_ID_spa.png)
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="images/td_M_v_under_ID_spa.preview.png" alt="td_M_v_under_ID_spa preview">
+</div>
 
 ---
+
+Let us know if you’d like to add in-game screenshots or hex color samples.
