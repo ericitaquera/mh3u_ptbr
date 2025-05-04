@@ -24,7 +24,7 @@ Zoom
 --- BLOCK ---
 Girar
 --- BLOCK ---
-Prueba
+Testar
 --- BLOCK ---
 Sim
 --- BLOCK ---

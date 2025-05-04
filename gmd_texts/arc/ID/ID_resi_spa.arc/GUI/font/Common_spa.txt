@@ -1,0 +1,288 @@
+﻿LOAD_MSG
+--- BLOCK ---
+SAVE_MSG
+--- BLOCK ---
+SAVE_ERR_MSG
+--- BLOCK ---
+DRC_GUID
+--- BLOCK ---
+SAVE_MYSET_DEFAULT
+--- BLOCK ---
+Preparando misión...
+--- BLOCK ---
+Comenzando misión...
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Guardando...
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Guardando en la tarjeta SD...
+No extraigas la tarjeta SD.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Preparando datos de guardado...
+--- BLOCK ---
+¿Quieres preparar los datos
+de guardado?
+--- BLOCK ---
+La preparación se ha completado.
+--- BLOCK ---
+¿Quieres crear datos
+adicionales en la tarjeta SD?
+--- BLOCK ---
+¿Quieres eliminar los datos corruptos
+y crear nuevos?
+<COLO 2>Nota: los datos dañados también se
+pueden eliminar desde la configuración
+de la consola.
+--- BLOCK ---
+Datos adicionales creados.
+--- BLOCK ---
+Borrando datos de guardado...
+--- BLOCK ---
+Borrando datos adicionales...
+--- BLOCK ---
+Necesitas una tarjeta SD para
+almacenar contenido descargable,
+tarjetas del Gremio de otros cazadores,
+etc. ¿Quieres utilizar una tarjeta SD?
+--- BLOCK ---
+Apaga la consola, inserta una
+tarjeta SD sin protección contra
+escritura y reinicia el juego.
+--- BLOCK ---
+Necesitas una tarjeta SD sin protección
+contra escritura con al menos 18 bloques
+de espacio libre para contenido
+descargable, tarjetas del Gremio de
+otros cazadores, etc. ¿Utilizarás una?
+--- BLOCK ---
+Ya existen datos adicionales
+almacenados en esta tarjeta SD.
+--- BLOCK ---
+Si utilizas esta tarjeta SD, los datos
+adicionales existentes se sobrescribirán
+cuando guardes contenido descargable,
+tarjetas del Gremio de otros cazadores,
+etc. ¿Seguro que quieres utilizarla?
+--- BLOCK ---
+No se ha podido acceder a la tarjeta SD
+insertada. Apaga la consola y vuelve a
+insertar la tarjeta SD.
+--- BLOCK ---
+Los datos de guardado incompletos
+se borrarán.
+--- BLOCK ---
+Los datos adicionales están dañados.
+Para usar esta tarjeta SD, deberás
+borrar los datos adicionales dañados
+y crear nuevos datos adicionales.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Los datos de guardado no se pueden
+utilizar.
+--- BLOCK ---
+Los datos de guardado no se pueden
+utilizar.
+--- BLOCK ---
+No se detecta ninguna tarjeta SD.
+--- BLOCK ---
+La tarjeta SD está protegida contra
+escritura.
+--- BLOCK ---
+No hay espacio suficiente en
+la tarjeta SD.
+--- BLOCK ---
+No se ha podido acceder a la tarjeta SD.
+--- BLOCK ---
+No se ha podido detectar una tarjeta SD.
+--- BLOCK ---
+Los datos adicionales están dañados.
+--- BLOCK ---
+No hay datos adicionales en
+la tarjeta SD.
+--- BLOCK ---
+Error de lectura de la tarjeta SD.
+--- BLOCK ---
+No se ha podido acceder a la tarjeta SD
+insertada. Apaga la consola y vuelve a
+insertar la tarjeta SD.
+--- BLOCK ---
+No se han podido leer los datos
+de guardado. Apaga la consola y
+vuelve a insertar la tarjeta.
+--- BLOCK ---
+Se ha producido un error desconocido.
+--- BLOCK ---
+Este error no debería producirse en
+la versión comercial del juego.
+Si así fuera, por favor, contacta
+con nosotros.
+--- BLOCK ---
+Los datos de guardado no se pueden
+utilizar y se crearán datos nuevos.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Set %d
+--- BLOCK ---

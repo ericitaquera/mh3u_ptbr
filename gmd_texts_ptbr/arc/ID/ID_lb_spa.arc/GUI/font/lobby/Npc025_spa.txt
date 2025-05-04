@@ -42,8 +42,8 @@ Caixa de itens, chefe?
 mover os objetos para a
 Bolsa de itens. Experimente! Miau.
 --- BLOCK ---
-<SUBS 0>Além disso, você pode organizar
-sua equipe e seus Amuletos
+<SUBS 0>Além disso, você
+pode organizar sua equipe e seus Amuletos
 na Caixa de Itens, miau.
 --- BLOCK ---
 Se você organizar o conteúdo
