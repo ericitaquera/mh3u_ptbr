@@ -14,7 +14,7 @@ Used for rendering **icon-style text labels** within the interface.
 * **Font Color**: `#ffffdd` (pale yellow)
 * **Outline**: +2px, `#723f00` (brown)
 
-![td\_icon\_ID\_spa.tex preview](images/td_icon_ID_spa.png)
+![td\_icon\_ID\_spa.tex preview](td_icon_ID_spa.png)
 
 ---
 
