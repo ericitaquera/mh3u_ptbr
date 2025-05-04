@@ -48,5 +48,3 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 ![td\_M\_v\_under\_ID\_spa.tex preview](td_M_v_under_ID_spa.png)
 
 ---
-
-Let us know if you’d like to add in-game screenshots or hex color samples.
