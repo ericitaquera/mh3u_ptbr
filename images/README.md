@@ -45,7 +45,7 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 * **Font Color**: `#e81f13` (red)
 * **Outline**: +2px, `#fff7e6` (cream)
 
-![td\_M\_v\_under\_ID\_spa.tex preview](images/td_M_v_under_ID_spa.png)
+![td\_M\_v\_under\_ID\_spa.tex preview](td_M_v_under_ID_spa.png)
 
 ---
 
