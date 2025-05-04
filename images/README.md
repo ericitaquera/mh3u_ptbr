@@ -4,6 +4,22 @@ This document describes the usage, font styling, and purpose of specific `.tex` 
 
 ---
 
+## 🎨 `st_menu_01_spa.tex`
+
+Used for rendering **icon-style text labels** within startup menus.
+
+### ✏️ Font Settings
+
+* **Font**: MingLiU\_HKSCS-ExtB Bold 
+* **Font Color**: `#??????` 
+* **Outline**: +2px, `#??????`
+
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="td_ist_menu_01_spa.preview.png" alt="st_menu_01_spa. preview">
+</div>
+
+---
+
 ## 🎨 `td_icon_ID_spa.tex`
 
 Used for rendering **icon-style text labels** within the interface.
@@ -28,21 +44,28 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 
 #### Main Labels (e.g. Porto / Vila)
 
+##### Big
+* **Font**: MingLiU\_HKSCS-ExtB Bold 20
+* **Font Color**: `#ffffff` (white)
+* **Outline**: +2px, `#000000` (black)
+
+##### Little
 * **Font**: MingLiU\_HKSCS-ExtB Bold 16
 * **Font Color**: `#ffffff` (white)
 * **Outline**: +2px, `#000000` (black)
 
-#### Low Altitude (Baixo)
+#### Baixo
 
+* **Font**: MingLiU\_HKSCS-ExtB Bold 16
 * **Font Color**: `#19aeec` (blue)
 * **Outline**: +2px, `#17154f` (navy)
 
-#### High Altitude (Alto)
+#### Alto
 
 * **Font Color**: `#e3b8b8` (light pink)
 * **Outline**: +2px, `#8c2738` (burgundy)
 
-#### Complete / Done (Feito)
+#### FEITO
 
 * **Font Color**: `#e81f13` (red)
 * **Outline**: +2px, `#fff7e6` (cream)
