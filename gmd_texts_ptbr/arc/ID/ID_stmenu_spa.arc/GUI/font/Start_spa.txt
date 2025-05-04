@@ -1,0 +1,361 @@
+START_MSG
+--- BLOCK ---
+STMENU_HELP_MSG
+--- BLOCK ---
+STMENU_INTRO_DEFAULT
+--- BLOCK ---
+* Dica de Neko *
+--- BLOCK ---
+Caçar monstros é divertido, mas cansa.
+Tire um Kyukei de vez em quando
+quando. "Kyukei" significa descanso.
+--- BLOCK ---
+* Dica de Cha-Cha *
+--- BLOCK ---
+Capanga, lembre-se de fazer sempre uma
+pausa! Veja como até o Cha-Cha também
+precisa descansar às vezes.
+--- BLOCK ---
+Crie um personagem e comece a jogar
+desde o início.
+--- BLOCK ---
+Selecione um dos personagens já
+existentes e continua de onde
+você parou.
+--- BLOCK ---
+Ajuste as configurações do jogo.
+A configuração afeta a todos
+os personagens do jogo.
+--- BLOCK ---
+Conecte-se à Internet para descobrir o
+conteúdo para download disponível.
+--- BLOCK ---
+Dê um nome ao seu personagem.
+<COLO 02>(Os nomes não podem ter
+mais que 10 caracteres).
+--- BLOCK ---
+Escolha o gênero do seu personagem.
+--- BLOCK ---
+Selecione o gênero.
+--- BLOCK ---
+Escolha o tom de pele do seu personagem.
+--- BLOCK ---
+Selecione um tom de pele.
+--- BLOCK ---
+Escolha as roupas do seu personagem
+(ele vestirá sob sua armadura).
+--- BLOCK ---
+Escolha o tipo de roupa.
+--- BLOCK ---
+Escolha a cor das roupas
+do seu personagem.
+--- BLOCK ---
+Escolha a cor das roupas.
+--- BLOCK ---
+Escolha o formato do rosto
+do seu personagem.
+--- BLOCK ---
+Escolha um rosto.
+--- BLOCK ---
+Escolha as características faciais de
+seu personagem.
+--- BLOCK ---
+Selecione as características faciais que
+você deseja ativar. Use a opção Cor para
+definir a cor quando possível.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selecione uma cor para esta
+característica do rosto.
+--- BLOCK ---
+Escolha o penteado do seu personagem.
+--- BLOCK ---
+Escolha um penteado.
+--- BLOCK ---
+Escolha a cor do cabelo do personagem.
+--- BLOCK ---
+Escolha uma cor de cabelo.
+--- BLOCK ---
+Escolha uma voz para seu personagem.
+--- BLOCK ---
+Escolha uma voz.
+--- BLOCK ---
+Selecione uma configuração inicial
+para o touchpad e informações
+na tela.
+Você pode ajustar as configurações do
+touchpad no menu do jogo.
+--- BLOCK ---
+Baseado em outros Monster Hunter. 
+Indicador de saúde e outras informações
+aparecerão na tela superior.
+--- BLOCK ---
+Experimente Monster Hunter de uma outra
+maneira.Indicador de Saúde e outras
+informações aparecerão na tela inferior.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Defina onde você deseja salvar
+informações sobre esse personagem.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bem-vindo(a) ao mundo de
+Monster Hunter!
+--- BLOCK ---
+Escolha os dados de jogo que você deseja
+utilizar.
+--- BLOCK ---
+Cancela a criação do personagem.
+--- BLOCK ---
+Deseja cancelar a criação do
+personagem e retornar ao menu principal?
+--- BLOCK ---
+Continue com este personagem.
+--- BLOCK ---
+Ajuste o controle de volume.
+--- BLOCK ---
+Ajusta o nível dos efeitos na tela
+como brilhos, sangue, etc.
+--- BLOCK ---
+Alterar as configurações do jogo.
+--- BLOCK ---
+Voltar ao menu principal.
+--- BLOCK ---
+Todos que receberem seu cartão da
+Guilda verão seu nome.
+Não utilize conteúdo ilegal, ofensivo,
+pessoal ou que afete de qualquer modo
+os direitos dos outros.
+--- BLOCK ---
+Escreva um nome.
+--- BLOCK ---
+Já existe um personagem salvo aqui.
+Se você substituí-lo, o personagem se
+perderá para sempre. Tem certeza de que
+deseja substituir essas informações?
+--- BLOCK ---
+Você quer usar o Circle Pad Pro
+do Nintendo 3DS?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Confirmando a conexão com o Circle Pad
+Pro. Se o acessório estiver em modo de
+repouso, pressione o botão ZL
+ou o botão ZR.
+--- BLOCK ---
+A conexão falhou.
+Verifique se o Circle Pad Pro
+está encaixado corretamente e se
+a bateria não está descarregada.
+--- BLOCK ---
+O Circle Pad Pro foi
+definido como "Não utilizar".
+--- BLOCK ---
+O Circle Pad Pro foi ativado.
+--- BLOCK ---
+O Circle Pad Pro foi ativado.
+<COLO 02>Atenção: A bateria do Circle Pad
+Pro está prestes a acabar.
+--- BLOCK ---
+Você deseja excluir os dados salvos,
+bem como os dados no cartão SD?
+Atenção: os dados apagados não
+poderão ser recuperados.
+--- BLOCK ---
+* * * AVISO FINAL * * *
+Os dados excluídos não poderão ser
+recuperados. Tem certeza de que quer?
+continuar?
+--- BLOCK ---
+Dados salvos foram excluídos.
+Para usar o cartão SD, desligue
+o console, reinicie o jogo e crie
+novos dados adicionais.
+--- BLOCK ---
+Ajuste o volume da música.
+--- BLOCK ---
+Ajusta o volume dos efeitos.
+--- BLOCK ---
+Mantém a quantidade normal de sangue,
+cintilação da tela e outros efeitos.
+--- BLOCK ---
+Cintilação da tela, sangue e
+outros efeitos serão reduzidos.
+--- BLOCK ---
+Desativa as imagens 3D durante
+o jogo.
+--- BLOCK ---
+Ativa as imagens 3D durante
+o jogo.
+--- BLOCK ---
+Ativa o desactiva o Circle
+Pad Pro.
+--- BLOCK ---
+Calibra o Circle Pad Pro.
+--- BLOCK ---
+Utilizar este personagem?
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+English
+--- BLOCK ---
+Français
+--- BLOCK ---
+Español
+--- BLOCK ---
+Deutsch
+--- BLOCK ---
+Italiano
+--- BLOCK ---
+Dutch
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Altera as configurações de idioma.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+O jogo será reiniciado no idioma
+selecionado.
+--- BLOCK ---
+Selecione o idioma do jogo.
+<COLO 02>O jogo será reiniciado no idioma
+selecionado.
+--- BLOCK ---
+Alterar idioma do jogo?
+<COLO 02>Modificar esta configuración
+reiniciará el juego.
+--- BLOCK ---
+O idioma foi alterado
+para %s.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Você alterou o idioma do jogo para:
+%s
+Você pode alterá-lo novamente em "Opções".
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+¡Hola!
+--- BLOCK ---

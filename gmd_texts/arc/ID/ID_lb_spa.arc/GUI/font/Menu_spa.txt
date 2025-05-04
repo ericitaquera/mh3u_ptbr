@@ -1,0 +1,1482 @@
+﻿MENU_BASIC_ITEMS
+--- BLOCK ---
+MENU_BASIC_ITEMS_Q
+--- BLOCK ---
+MENU_BASIC_ITEMS_FQ
+--- BLOCK ---
+MENU_INFO_ITEMS
+--- BLOCK ---
+MENU_INFO_ITEMS_Q
+--- BLOCK ---
+MENU_BASIC_GEND_ITEMS
+--- BLOCK ---
+MENU_MESSAGE_ITEMS
+--- BLOCK ---
+MENU_ITEM_CMD
+--- BLOCK ---
+MENU_NOTE_MEMO_CMD
+--- BLOCK ---
+MENU_YES_OR_NO
+--- BLOCK ---
+ITEM_STOCK_CMD
+--- BLOCK ---
+ITEM_POUCH_TYPE_INFO
+--- BLOCK ---
+MENU_TOP_HELP_MESSAGE0
+--- BLOCK ---
+MENU_TOP_HELP_MESSAGE1
+--- BLOCK ---
+MENU_TOP_HELP_MESSAGE0_ED
+--- BLOCK ---
+MENU_SUB_HELP_MESSAGE_GE
+--- BLOCK ---
+MENU_SUB_HELP_MESSAGE_GC
+--- BLOCK ---
+MENU_TOP_HELP_MESSAGE_PAUSE
+--- BLOCK ---
+MENU_OPTION_TITLE_NAME
+--- BLOCK ---
+OPTION_SUB_TYPE
+--- BLOCK ---
+MENU_OPTION_SUB_SOUND
+--- BLOCK ---
+MENU_OPTION_SUB_YESNO
+--- BLOCK ---
+MENU_OPTION_SUB_REV
+--- BLOCK ---
+MENU_OPTION_SUB_KICK
+--- BLOCK ---
+MENU_OPTION_SUB_ONOFF
+--- BLOCK ---
+MENU_OPTION_HELP_MESSAGE
+--- BLOCK ---
+OPTION_HELP_MESS_BGMVO
+--- BLOCK ---
+OPTION_HELP_MESS_SEVO
+--- BLOCK ---
+OPTION_HELP_MESS_COCK
+--- BLOCK ---
+OPTION_HELP_MESS_MAP
+--- BLOCK ---
+OPTION_SUB_START
+--- BLOCK ---
+OPTION_HELP_MESS_CAMPOS
+--- BLOCK ---
+OPTION_HELP_MESS_CAMOPE
+--- BLOCK ---
+OPTION_HELP_MESS_SCOPETYPE
+--- BLOCK ---
+OPTION_HELP_MESS_SIGHTOPE
+--- BLOCK ---
+OPTION_HELP_MESS_SIGNTCAM
+--- BLOCK ---
+OPTION_HELP_MESS_DIRECTION
+--- BLOCK ---
+OPTION_HELP_MESS_KICKMENU
+--- BLOCK ---
+OPTION_HELP_MESS_TARGETCAMERA
+--- BLOCK ---
+OPTION_HELP_MESS_DODGECAMERA
+--- BLOCK ---
+OPTION_HELP_MESS_EXCONTROL
+--- BLOCK ---
+OPTION_HELP_MESS_RESET
+--- BLOCK ---
+MENU_QUEST_RETIRE_CONFIRM
+--- BLOCK ---
+MENU_MOGA_SELECT
+--- BLOCK ---
+MENU_TITLE_TAB
+--- BLOCK ---
+MENU_TITLE_BOX
+--- BLOCK ---
+MENU_TITLE_SUB
+--- BLOCK ---
+MENU_STATUS_PARAMS_A
+--- BLOCK ---
+MENU_STATUS_PARAMS_B
+--- BLOCK ---
+MENU_STATUS_PARAMS_C
+--- BLOCK ---
+MENU_STATUS_PARAMS_D
+--- BLOCK ---
+MENU_STATUS_PARAMS_WEAPONS
+--- BLOCK ---
+MENU_STATUS_PARAMS_ATTR
+--- BLOCK ---
+MENU_STATUS_PARAMS_SP_ATTR
+--- BLOCK ---
+MENU_STATUS_PARAMS_ESKILL
+--- BLOCK ---
+MENU_EQUIP_SUB
+--- BLOCK ---
+MENU_IG
+--- BLOCK ---
+MENU_ACTION
+--- BLOCK ---
+MENU_SELBUTTON
+--- BLOCK ---
+MENU_VILLAGEINFO_TITLE
+--- BLOCK ---
+MENU_VILLAGEINFO_INFO
+--- BLOCK ---
+MENU_VILLAGEINFO_STATE
+--- BLOCK ---
+MENU_VILLAGEINFO_PLACE
+--- BLOCK ---
+MENU_VILLAGEINFO_TIME
+--- BLOCK ---
+MENU_MIX
+--- BLOCK ---
+MENU_MIXLIST
+--- BLOCK ---
+MENU_CHOGO_HELP
+--- BLOCK ---
+ACTION_HELP
+--- BLOCK ---
+EQUIP_STATUS
+--- BLOCK ---
+EQUIP_BOUWGUN_ADD
+--- BLOCK ---
+EQUIP_GUN_STATUS
+--- BLOCK ---
+EQUIP_BOW_STATUS
+--- BLOCK ---
+MENU_STATUS_SKILL
+--- BLOCK ---
+MENU_QUEST_DETAIL
+--- BLOCK ---
+EQUIP_BOE_SKILL
+--- BLOCK ---
+EQUIP_BOW_BOTTLE
+--- BLOCK ---
+EQUIP_BOW_BOTTLE_UP
+--- BLOCK ---
+MENU_HUNTER_NOTE
+--- BLOCK ---
+MIXLIST
+--- BLOCK ---
+ITEM_DETAIL
+--- BLOCK ---
+MENU_ON_SELECT
+--- BLOCK ---
+HELP_KEY
+--- BLOCK ---
+HELP_GUID
+--- BLOCK ---
+MENU_ITEM_HELP
+--- BLOCK ---
+PAUSE_MSG
+--- BLOCK ---
+SORT_TYPE
+--- BLOCK ---
+Bolsa de objetos
+--- BLOCK ---
+Combinar
+--- BLOCK ---
+Lista Combo
+--- BLOCK ---
+Notas de cazador
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Salir
+--- BLOCK ---
+Bolsa de objetos
+--- BLOCK ---
+Combinar
+--- BLOCK ---
+Lista Combo
+--- BLOCK ---
+Notas de cazador
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Abandonar misión
+--- BLOCK ---
+Bolsa de objetos
+--- BLOCK ---
+Combinar
+--- BLOCK ---
+Lista Combo
+--- BLOCK ---
+Notas de cazador
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Volver a aldea
+--- BLOCK ---
+Info. misión
+--- BLOCK ---
+Estado
+--- BLOCK ---
+Equipo
+--- BLOCK ---
+Tarjeta Gremio
+--- BLOCK ---
+Aldea Moga
+--- BLOCK ---
+Opciones
+--- BLOCK ---
+Info. misión
+--- BLOCK ---
+Estado
+--- BLOCK ---
+Equipo
+--- BLOCK ---
+Pausa
+--- BLOCK ---
+Aldea Moga
+--- BLOCK ---
+Opciones
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Descartar
+--- BLOCK ---
+Cambiar
+--- BLOCK ---
+Dar
+--- BLOCK ---
+Entregar
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Sí
+--- BLOCK ---
+No
+--- BLOCK ---
+Cambiar
+--- BLOCK ---
+Descartar
+--- BLOCK ---
+Espadachín
+--- BLOCK ---
+Artillero
+--- BLOCK ---
+Abre la bolsa de tu Espadachín para ver
+los objetos que llevas.
+--- BLOCK ---
+Combina objetos.
+--- BLOCK ---
+Combina objetos directamente
+de la Lista Combo.
+--- BLOCK ---
+Accede a información útil sobre la caza.
+--- BLOCK ---
+Saluda, aplaude o realiza otros gestos.
+--- BLOCK ---
+Sale de la partida.
+--- BLOCK ---
+Abre la bolsa de tu Artillero para ver
+los objetos que llevas.
+--- BLOCK ---
+Muestra el estado y las condiciones
+de la misión en la que estás.
+--- BLOCK ---
+Muestra el estado de tu personaje.
+--- BLOCK ---
+Muestra más información sobre tu equipo.
+--- BLOCK ---
+Ve, edita o envía tu tarjeta del Gremio.
+--- BLOCK ---
+Muestra lo que ocurre en la aldea
+de Moga.
+--- BLOCK ---
+Cambia los diversos ajustes del juego.
+--- BLOCK ---
+Vuelve directamente a la aldea.
+--- BLOCK ---
+Sale de la misión en la que estás
+y vuelve a la aldea.
+--- BLOCK ---
+Sal de la misión principal y vuelve
+al puerto.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Salir y volver a la aldea?
+--- BLOCK ---
+Volverás al estado anterior a
+esta misión y cualquier progreso
+que hayas hecho se perderá.
+--- BLOCK ---
+¿Seguro?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pausa la partida.
+--- BLOCK ---
+Volumen música
+--- BLOCK ---
+Volumen efectos
+--- BLOCK ---
+Info en pantalla
+--- BLOCK ---
+Mapa sí
+--- BLOCK ---
+Ángulo de cámara
+--- BLOCK ---
+Vista
+--- BLOCK ---
+Control de mira
+--- BLOCK ---
+Ctrl mira rápida
+--- BLOCK ---
+Cám. mira rápida
+--- BLOCK ---
+Orientación
+--- BLOCK ---
+Botón START
+--- BLOCK ---
+Cámara objetivo
+--- BLOCK ---
+Cámara evasión
+--- BLOCK ---
+Botón deslizante Pro
+--- BLOCK ---
+Conf. inic.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Tipo 1
+--- BLOCK ---
+Tipo 2
+--- BLOCK ---
+Tipo 3
+--- BLOCK ---
+Tipo 4
+--- BLOCK ---
+Tipo 5
+--- BLOCK ---
+Tipo 6
+--- BLOCK ---
+Mín.
+--- BLOCK ---
+1
+--- BLOCK ---
+2
+--- BLOCK ---
+3
+--- BLOCK ---
+4
+--- BLOCK ---
+5
+--- BLOCK ---
+6
+--- BLOCK ---
+Máx.
+--- BLOCK ---
+Act.
+--- BLOCK ---
+Desact.
+--- BLOCK ---
+Normal
+--- BLOCK ---
+Inv. Y
+--- BLOCK ---
+Inv. X
+--- BLOCK ---
+Inv. X+Y
+--- BLOCK ---
+Patada
+--- BLOCK ---
+Menú
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Sí
+--- BLOCK ---
+No
+--- BLOCK ---
+Ajusta el volumen de música de fondo.
+--- BLOCK ---
+Ajusta el volumen de los efectos
+de sonido.
+--- BLOCK ---
+Elige si se mantiene la información
+de pantalla siempre visible.
+--- BLOCK ---
+Activa o desactiva mapa.
+--- BLOCK ---
+Establece el ángulo inicial al comenzar
+las misiones.
+--- BLOCK ---
+Establece los controles de la cámara.
+--- BLOCK ---
+Ajusta los controles de la cámara para
+la mira de la Ballesta.
+--- BLOCK ---
+Configura los controles de la cámara
+al usar la mira rápida con vista externa
+del Arco o la Ballesta.
+--- BLOCK ---
+Configura el comportamiento de la cámara
+al usar la mira rápida con vista externa
+del Arco o la Ballesta.
+--- BLOCK ---
+Configura el control de la orientación
+para las acciones direccionales como
+la evasión inmediata tras atacar.
+--- BLOCK ---
+Configura el botón START para dar
+patadas o para abrir el menú del juego.
+--- BLOCK ---
+Configura el comportamiento de la cámara
+al usar la Cámara objetivo.
+--- BLOCK ---
+Configura el comportamiento de la cámara
+al realizar tácticas evasivas como
+evadir después de un ataque.
+--- BLOCK ---
+Configura las funciones del botón ZL
+y el botón ZR al usar el botón
+deslizante Pro.
+--- BLOCK ---
+Restablece todas las opciones a
+su configuración inicial.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Usa izquierda y derecha en la cruz
+de control para ajustar el volumen.
+--- BLOCK ---
+Usa izquierda y derecha en la cruz
+de control para ajustar el volumen.
+--- BLOCK ---
+Mantiene la información de pantalla
+siempre visible.
+--- BLOCK ---
+Oculta la información de pantalla cuando
+no está en uso.
+--- BLOCK ---
+Muestra el mapa.
+--- BLOCK ---
+Oculta el mapa.
+--- BLOCK ---
+Restablecer
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+La cámara empieza en el ángulo más alto.
+--- BLOCK ---
+La cámara empieza en el segundo ángulo
+más alto.
+--- BLOCK ---
+La cámara empieza desde el tercer ángulo
+más elevado.
+--- BLOCK ---
+La cámara empieza en un ángulo neutro.
+--- BLOCK ---
+La cámara empieza en el segundo ángulo
+más bajo.
+--- BLOCK ---
+La cámara empieza en el ángulo más bajo.
+--- BLOCK ---
+Todos los controles son normales.
+--- BLOCK ---
+Controles arriba/abajo invertidos y
+controles izquierda/derecha normales.
+--- BLOCK ---
+Controles arriba/abajo normales y
+izquierda/derecha invertidos.
+--- BLOCK ---
+Todos los controles son invertidos.
+--- BLOCK ---
+Todos los controles son normales.
+--- BLOCK ---
+Controles arriba/abajo invertidos y
+controles izquierda/derecha normales.
+--- BLOCK ---
+Controles arriba/abajo normales y
+izquierda/derecha invertidos.
+--- BLOCK ---
+Todos los controles son invertidos.
+--- BLOCK ---
+Todos los controles son normales.
+--- BLOCK ---
+Controles arriba/abajo invertidos y
+controles izquierda/derecha normales.
+--- BLOCK ---
+Controles arriba/abajo normales y
+izquierda/derecha invertidos.
+--- BLOCK ---
+Todos los controles son invertidos.
+--- BLOCK ---
+Mueve la cámara detrás de ti (pero no
+de manera vertical cuando estás bajo
+el agua o con una Ballesta).
+--- BLOCK ---
+La cámara no se mueve detrás de ti.
+--- BLOCK ---
+Mueve la cámara detrás y restablece
+la vista (pero no en vertical al estar
+bajo el agua o con una Ballesta).
+--- BLOCK ---
+Mover el botón deslizante hacia arriba
+se corresponde con la dirección hacia
+la que mira tu personaje.
+--- BLOCK ---
+Mover el botón deslizante hacia arriba
+se corresponde con la dirección hacia
+la que apunta la cámara.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Pulsa el botón START para dar
+una patada. Usa la pantalla táctil
+para abrir el menú del juego.
+--- BLOCK ---
+Pulsa el botón START para abrir el menú
+del juego. Usa la pantalla táctil para
+dar una patada.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Pulsa el botón L una vez para girar
+la cámara hacia el monstruo objetivo;
+dos veces para que vuelva detrás de ti.
+--- BLOCK ---
+Pulsa el botón L una vez para colocar
+la cámara detrás de ti; dos veces para
+que apunte hacia el monstruo objetivo.
+--- BLOCK ---
+La cámara se girará automáticamente
+cuando evadas después de un ataque.
+--- BLOCK ---
+La cámara no se girará cuando evadas
+después de un ataque.
+--- BLOCK ---
+El botón ZL y el botón ZR realizarán
+las mismas funciones que el botón L
+y el botón R.
+--- BLOCK ---
+El botón ZL y el botón ZR harán lo mismo
+que si pulsas la cruz de control hacia
+la izquierda y derecha.
+--- BLOCK ---
+El botón ZL y el botón ZR harán lo mismo
+que si pulsas la cruz de control hacia
+arriba y abajo.
+--- BLOCK ---
+Se restablecerán todas las opciones a
+su configuración inicial. ¿Quieres
+continuar?
+--- BLOCK ---
+¿Quieres volver a la aldea?
+--- BLOCK ---
+¿Quieres salir y volver al puerto?
+--- BLOCK ---
+¿Salir y volver a la aldea?
+--- BLOCK ---
+Volverás al estado anterior a
+esta misión y cualquier progreso
+que hayas hecho se perderá.
+--- BLOCK ---
+¿Seguro?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Quieres salir de la partida?
+<COLO 2>¡No olvides guardar tu progreso
+o se perderá!</COLO>
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+En dirección al Bosque de Moga.
+¿Cuándo quieres llegar?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Día
+--- BLOCK ---
+Noche
+--- BLOCK ---
+Caz.
+--- BLOCK ---
+Info
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Caja objt.
+--- BLOCK ---
+Caja eqp.
+--- BLOCK ---
+Lista objetos
+--- BLOCK ---
+Munición/Rev.
+--- BLOCK ---
+Lista Combo
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Opciones
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Estadísticas
+--- BLOCK ---
+Equipo
+--- BLOCK ---
+Habilidades
+--- BLOCK ---
+Equipo
+--- BLOCK ---
+Aldea Moga
+--- BLOCK ---
+Chamberlyne
+--- BLOCK ---
+Info. misión
+--- BLOCK ---
+Conjun. Equipo
+--- BLOCK ---
+Lista monstr.
+--- BLOCK ---
+Info. cazador
+--- BLOCK ---
+Nom.
+--- BLOCK ---
+Arma
+--- BLOCK ---
+Fondos
+--- BLOCK ---
+z
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Res
+--- BLOCK ---
+pt
+--- BLOCK ---
+Salud
+--- BLOCK ---
+Resist.
+--- BLOCK ---
+Oxígeno
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Elem
+--- BLOCK ---
+Defensa
+--- BLOCK ---
+Fuego
+--- BLOCK ---
+Agua
+--- BLOCK ---
+Hielo
+--- BLOCK ---
+Trueno
+--- BLOCK ---
+Dragón
+--- BLOCK ---
+Gran espada
+--- BLOCK ---
+Espada
+--- BLOCK ---
+Martillo
+--- BLOCK ---
+Lanza
+--- BLOCK ---
+Ballesta pesada
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Ballesta ligera
+--- BLOCK ---
+Espada larga
+--- BLOCK ---
+Hacha espada
+--- BLOCK ---
+Lanza pistola
+--- BLOCK ---
+Arco
+--- BLOCK ---
+Espada doble
+--- BLOCK ---
+Flauta
+--- BLOCK ---
+Nada
+--- BLOCK ---
+FUE
+--- BLOCK ---
+AGU
+--- BLOCK ---
+TRU
+--- BLOCK ---
+DRA
+--- BLOCK ---
+HIE
+--- BLOCK ---
+VN
+--- BLOCK ---
+PA
+--- BLOCK ---
+SÑ
+--- BLOCK ---
+BA
+--- BLOCK ---
+Hab. comida
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Arma
+--- BLOCK ---
+Armadura
+--- BLOCK ---
+Amuleto
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Saludo
+--- BLOCK ---
+Reveren.
+--- BLOCK ---
+Asentir
+--- BLOCK ---
+Hombros
+--- BLOCK ---
+Saludar
+--- BLOCK ---
+Aplauso
+--- BLOCK ---
+Ovación
+--- BLOCK ---
+Señalar
+--- BLOCK ---
+Llorar
+--- BLOCK ---
+Maldecir
+--- BLOCK ---
+Descans.
+--- BLOCK ---
+Boxear
+--- BLOCK ---
+Provocar
+--- BLOCK ---
+Alardear
+--- BLOCK ---
+Brincar
+--- BLOCK ---
+Bailar
+--- BLOCK ---
+Selecciona el gesto
+que quieres hacer.
+--- BLOCK ---
+Vale
+--- BLOCK ---
+Atr.
+--- BLOCK ---
+Cerrar
+--- BLOCK ---
+Notas de cazador
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Combin.
+--- BLOCK ---
+Canc.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Quitar
+--- BLOCK ---
+Cambiar
+--- BLOCK ---
+Descartar
+--- BLOCK ---
+Ver
+mapa
+--- BLOCK ---
+Usar
+dinero
+--- BLOCK ---
+Usar
+recur.
+--- BLOCK ---
+Trato
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pedido
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Eliminar
+--- BLOCK ---
+Sí
+--- BLOCK ---
+No
+--- BLOCK ---
+Revisar
+--- BLOCK ---
+Buscar
+más
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Orden
+inic.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Est. aldea
+--- BLOCK ---
+Est. flota
+--- BLOCK ---
+Est. Granja
+--- BLOCK ---
+Res
+--- BLOCK ---
+Argosy
+--- BLOCK ---
+Capit.
+--- BLOCK ---
+Rojo
+--- BLOCK ---
+Negro
+--- BLOCK ---
+Salida
+--- BLOCK ---
+　
+--- BLOCK ---
+ día(s)
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Listo
+--- BLOCK ---
+En el mar
+--- BLOCK ---
+Pes. lista
+--- BLOCK ---
+Cos. lista
+--- BLOCK ---
+En espera
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Costa de Moga
+--- BLOCK ---
+Bajío de Moga
+--- BLOCK ---
+Aguas prof. Moga
+--- BLOCK ---
+Mareas legend.
+--- BLOCK ---
+Aguas oscuras
+--- BLOCK ---
+Estrecho de Moga
+--- BLOCK ---
+Volcán abisal
+--- BLOCK ---
+Tumba pirata
+--- BLOCK ---
+Isla próxima
+--- BLOCK ---
+Isla distante
+--- BLOCK ---
+Tierra de nadie
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+1 d.
+--- BLOCK ---
+2 d.
+--- BLOCK ---
+3 d.
+--- BLOCK ---
+4 d.
+--- BLOCK ---
+5 d.
+--- BLOCK ---
+6 d.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Materiales insuficientes
+--- BLOCK ---
+Tu bolsa está llena.
+--- BLOCK ---
+No puedes llevar más.
+--- BLOCK ---
+Tu Caja está llena.
+--- BLOCK ---
+Result.:
+--- BLOCK ---
+Hecho:
+--- BLOCK ---
+Logrado:
+--- BLOCK ---
+Produc.:
+--- BLOCK ---
+<COLO 02>(No combinas al evadir).
+--- BLOCK ---
+Material
+--- BLOCK ---
+Logrado:
+--- BLOCK ---
+Produc.:
+--- BLOCK ---
+%d%%
+--- BLOCK ---
+???%
+--- BLOCK ---
+???
+--- BLOCK ---
+? ? ? ? ? ?
+--- BLOCK ---
+%d-%d
+--- BLOCK ---
+Elige el primer material
+para combinar.
+--- BLOCK ---
+Ahora, elige el segundo
+material para combinar.
+--- BLOCK ---
+Continuar con la
+combinación elegida.
+--- BLOCK ---
+Cancelar el proceso
+de combinación.
+--- BLOCK ---
+Combinación realizada.
+--- BLOCK ---
+La combinación ha fallado.
+--- BLOCK ---
+ 
+--- BLOCK ---
+Elegir de la lista.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(No puedes llevar más).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Quieres restablecer la lista
+a su orden inicial?
+--- BLOCK ---
+Selecciona el destino para
+el combo seleccionado.
+--- BLOCK ---
+Selecciona el gesto
+que quieres hacer.
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Afilado
+--- BLOCK ---
+Ranuras
+--- BLOCK ---
+Afinidad
+--- BLOCK ---
+Recarga
+--- BLOCK ---
+Desvío
+--- BLOCK ---
+Retroceso
+--- BLOCK ---
+D. Arco
+--- BLOCK ---
+Defensa
+--- BLOCK ---
+Nv
+--- BLOCK ---
+Fuego
+--- BLOCK ---
+Agua
+--- BLOCK ---
+Trueno
+--- BLOCK ---
+Hielo
+--- BLOCK ---
+Dragón
+--- BLOCK ---
+Tipo cazador:
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Fijo
+--- BLOCK ---
+Var.
+--- BLOCK ---
+Hab.activ.
+--- BLOCK ---
+Árbol hab. / Puntos hab.
+--- BLOCK ---
+Ef. mel. 1
+--- BLOCK ---
+Ef. mel. 2
+--- BLOCK ---
+Capac.
+--- BLOCK ---
+At carga
+--- BLOCK ---
+Rev. equipab.
+--- BLOCK ---
+Fuego Ráp.
+--- BLOCK ---
+Disp.
+--- BLOCK ---
+Esp.
+--- BLOCK ---
+D. agachado
+--- BLOCK ---
+Aum.Rev.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Hab. nata 1
+--- BLOCK ---
+Hab. nata 2
+--- BLOCK ---
+Tipo cazador:
+--- BLOCK ---
+Notas
+--- BLOCK ---
+Nv 1
+--- BLOCK ---
+1
+--- BLOCK ---
+2
+--- BLOCK ---
+3
+--- BLOCK ---
+Fase
+--- BLOCK ---
+(Ninguno)
+--- BLOCK ---
+(Ninguno)
+--- BLOCK ---
+Cort
+--- BLOCK ---
+Med
+--- BLOCK ---
+Larg
+--- BLOCK ---
+Lar+
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Espadachín
+--- BLOCK ---
+Artillero
+--- BLOCK ---
+Espad./Artil.
+--- BLOCK ---
+Cañón poder
+--- BLOCK ---
+Escudo
+--- BLOCK ---
+Cañón largo
+--- BLOCK ---
+Silenciador
+--- BLOCK ---
+(Normal)
+--- BLOCK ---
+(Amplio)
+--- BLOCK ---
+(Largo)
+--- BLOCK ---
+Nvl disp.
+--- BLOCK ---
+Ráfag.
+--- BLOCK ---
+Foco
+--- BLOCK ---
+Amplio
+--- BLOCK ---
+Habilidad.
+--- BLOCK ---
+Árbol hab.
+--- BLOCK ---
+Hab.activ.
+--- BLOCK ---
+Mis. recog.
+--- BLOCK ---
+Mis. captura
+--- BLOCK ---
+Mis. abatim.
+--- BLOCK ---
+Mis. cacería
+--- BLOCK ---
+Mis. espec.
+--- BLOCK ---
+Lugar
+--- BLOCK ---
+Límite
+--- BLOCK ---
+Recom.
+--- BLOCK ---
+Tarifa
+--- BLOCK ---
+Entorno
+--- BLOCK ---
+Mons. princip.
+--- BLOCK ---
+Requisitos
+--- BLOCK ---
+Nvl misión
+--- BLOCK ---
+Éxito
+--- BLOCK ---
+Fracaso
+--- BLOCK ---
+Cliente
+--- BLOCK ---
+Detalles
+--- BLOCK ---
+Términos
+--- BLOCK ---
+Estab.
+--- BLOCK ---
+Inest.
+--- BLOCK ---
+Objetivos
+--- BLOCK ---
+Compl.
+--- BLOCK ---
+Clasificación de la Arena
+--- BLOCK ---
+Rango S
+--- BLOCK ---
+Rango A
+--- BLOCK ---
+Rango B
+--- BLOCK ---
+Derrotas
+--- BLOCK ---
+Recompen.
+--- BLOCK ---
+Tiempo
+--- BLOCK ---
+Integr. cazad.
+--- BLOCK ---
+Tiempo
+--- BLOCK ---
+Ráp. N1
+--- BLOCK ---
+Ráp. N2
+--- BLOCK ---
+Ráp. N3
+--- BLOCK ---
+Ráp. N4
+--- BLOCK ---
+Ráp. N5
+--- BLOCK ---
+Ab. N1
+--- BLOCK ---
+Ab. N2
+--- BLOCK ---
+Ab. N3
+--- BLOCK ---
+Ab. N4
+--- BLOCK ---
+Ab. N5
+--- BLOCK ---
+Pe. N1
+--- BLOCK ---
+Pe. N2
+--- BLOCK ---
+Pe. N3
+--- BLOCK ---
+Pe. N4
+--- BLOCK ---
+Pe. N5
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Poder
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Parálisis
+--- BLOCK ---
+Sueño
+--- BLOCK ---
+Alcance C
+--- BLOCK ---
+Pintura
+--- BLOCK ---
+Fatiga
+--- BLOCK ---
+Baba
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Parálisis
+--- BLOCK ---
+Sueño
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Baba
+--- BLOCK ---
+Nom.
+--- BLOCK ---
+Tipo
+--- BLOCK ---
+Muerto
+--- BLOCK ---
+Capt.
+--- BLOCK ---
+Hostil
+--- BLOCK ---
++ largo
+--- BLOCK ---
++ corto
+--- BLOCK ---
+(Sin datos)
+--- BLOCK ---
+? ? ?
+--- BLOCK ---
+---
+--- BLOCK ---
+★
+--- BLOCK ---
+★★
+--- BLOCK ---
+★★★
+--- BLOCK ---
+★★★★
+--- BLOCK ---
+★★★★★
+--- BLOCK ---
+★★★★★★
+--- BLOCK ---
+Reordenar
+--- BLOCK ---
+Combinable
+--- BLOCK ---
+Ord. inicial
+--- BLOCK ---
+Ord. person.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Cambiar
+--- BLOCK ---
+Confirmar salida
+--- BLOCK ---
+Una vez confirmes, la misión empezará.
+--- BLOCK ---
+¿Todo listo para partir?
+--- BLOCK ---
+Sí
+--- BLOCK ---
+No
+--- BLOCK ---
+Algunos miembros no están listos.
+--- BLOCK ---
+¿Quieres empezar de todos modos?
+--- BLOCK ---
+El grupo se ha disuelto.
+--- BLOCK ---
+Error al unirse a la misión.
+--- BLOCK ---
+En proceso.
+--- BLOCK ---
+Miembros misión
+--- BLOCK ---
+A
+--- BLOCK ---
+B
+--- BLOCK ---
+X
+--- BLOCK ---
+Y
+--- BLOCK ---
+L
+--- BLOCK ---
+R
+--- BLOCK ---
+Cantidad
+--- BLOCK ---
+Ordenar
+--- BLOCK ---
+Ver pantalla
+--- BLOCK ---
+Edit. nombre
+--- BLOCK ---
+Mostrar arma
+--- BLOCK ---
+Ocultar arma
+--- BLOCK ---
+Vista
+--- BLOCK ---
+Cerrar
+--- BLOCK ---
+Abrir
+--- BLOCK ---
+Vender
+--- BLOCK ---
+Mostrar menú
+--- BLOCK ---
+Cambiar lista
+--- BLOCK ---
+Nombres hab.
+--- BLOCK ---
+Nombre Ador.
+--- BLOCK ---
+Habilidades
+--- BLOCK ---
+Comparar
+--- BLOCK ---
+Detalles
+--- BLOCK ---
+Reordenar
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Descarta objeto elegido.
+--- BLOCK ---
+Mueve el objeto elegido a otra posición
+dentro de la lista.
+--- BLOCK ---
+Da el objeto elegido a otro jugador.
+--- BLOCK ---
+Entrega el objeto seleccionado.
+--- BLOCK ---
+¿Mover a qué posición?
+--- BLOCK ---
+El objeto seleccionado será desechado.
+¿Seguro que quieres continuar?
+--- BLOCK ---
+¿Cuántos quieres entregar?
+--- BLOCK ---
+Selecciona un recipiente.
+--- BLOCK ---
+¿Cuántos quieres entregar?
+--- BLOCK ---
+¿Entregar los objetos solicitados?
+--- BLOCK ---
+¿Ordenar objetos?
+--- BLOCK ---
+<COLO 2>(Solo puedes colocar munición
+en la lista de munición).
+--- BLOCK ---
+－－－－－－－－
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+En pausa.
+--- BLOCK ---
+Lista actual
+--- BLOCK ---
+Todas
+--- BLOCK ---
+Espadachín
+--- BLOCK ---
+Artillero
+--- BLOCK ---

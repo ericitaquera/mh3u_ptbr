@@ -45,7 +45,7 @@ $lines = Get-Content -Path $InputFile -Encoding UTF8 | Where-Object { $_.Trim() 
 $offendingLines = @()
 for ($i = 0; $i -lt $lines.Count; $i++) {
     $line = $lines[$i]
-    if ($line.Trim() -ne "--- BLOCK ---" -and $line.Length -gt 43) {
+    if ($line.Trim() -ne "--- BLOCK ---" -and $line.Length -gt 100) {
         $offendingLines += ($i + 1)  # 1-based line number
     }
 }

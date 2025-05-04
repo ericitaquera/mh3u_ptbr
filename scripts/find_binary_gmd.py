@@ -21,7 +21,17 @@ def find_txt_counterpart(gmd_path):
 
     return txt_path if os.path.isfile(txt_path) else None
 
-def search_gmd_files(search_bytes, directory):
+def preview_txt_match(txt_file, search_string):
+    try:
+        with open(txt_file, "r", encoding="utf-8") as f:
+            for line in f:
+                if search_string in line:
+                    print(f"   → Sample: {line.strip()}")
+                    return
+    except Exception as e:
+        print(f"   ⚠️  Could not read sample from {txt_file}: {e}")
+
+def search_gmd_files(search_bytes, directory, search_string):
     for root, _, files in os.walk(directory):
         for filename in files:
             if filename.lower().endswith(".gmd"):
@@ -34,6 +44,7 @@ def search_gmd_files(search_bytes, directory):
                             txt_file = find_txt_counterpart(filepath)
                             if txt_file:
                                 print(f"   → Translation found: {txt_file}")
+                                preview_txt_match(txt_file, search_string)
                             else:
                                 print("   ⚠️  No Translation found.")
                 except Exception as e:
@@ -53,7 +64,7 @@ def main():
 
     search_bytes = get_search_bytes(search_string)
     print(f"🔍 Searching for UTF-8 bytes: {search_bytes.hex(' ').upper()}")
-    search_gmd_files(search_bytes, directory)
+    search_gmd_files(search_bytes, directory, search_string)
 
 if __name__ == "__main__":
     main()

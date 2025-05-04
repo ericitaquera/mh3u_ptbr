@@ -347,4 +347,4 @@ with open(output_file, "a", encoding="utf-8") as out_f, open(log_file, "w", enco
         log_output_stdout("[INFO] No lines exceed 43 characters:", 3, log_f)
     log_output_stdout(f"[INFO] Input File: {input_file}", 3, log_f) 
     log_output_stdout(f"[INFO] Log file saved at: {log_file}", 3, log_f) 
-    print(f".\\.find_files.ps1 {input_file} {output_file}")
+    print(f".\\find_lines.ps1 {input_file} {output_file}")

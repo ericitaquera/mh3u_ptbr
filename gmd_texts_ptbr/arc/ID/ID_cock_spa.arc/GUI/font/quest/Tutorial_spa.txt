@@ -1,0 +1,1034 @@
+TUTO_MSG_01_00
+--- BLOCK ---
+TUTO_MSG_01_01
+--- BLOCK ---
+TUTO_MSG_01_02
+--- BLOCK ---
+TUTO_MSG_01_03
+--- BLOCK ---
+TUTO_MSG_01_04
+--- BLOCK ---
+TUTO_MSG_01_05
+--- BLOCK ---
+TUTO_MSG_01_06
+--- BLOCK ---
+TUTO_MSG_01_07
+--- BLOCK ---
+TUTO_MSG_02_00
+--- BLOCK ---
+TUTO_MSG_02_01
+--- BLOCK ---
+TUTO_MSG_02_02
+--- BLOCK ---
+TUTO_MSG_02_03
+--- BLOCK ---
+TUTO_MSG_02_04
+--- BLOCK ---
+TUTO_MSG_02_05
+--- BLOCK ---
+TUTO_MSG_02_06
+--- BLOCK ---
+TUTO_MSG_02_07
+--- BLOCK ---
+TUTO_MSG_02_08
+--- BLOCK ---
+TUTO_MSG_03_00
+--- BLOCK ---
+TUTO_MSG_03_01
+--- BLOCK ---
+TUTO_MSG_03_02
+--- BLOCK ---
+TUTO_MSG_03_03
+--- BLOCK ---
+TUTO_MSG_03_04
+--- BLOCK ---
+TUTO_MSG_03_05
+--- BLOCK ---
+TUTO_MSG_04_00
+--- BLOCK ---
+TUTO_MSG_04_01
+--- BLOCK ---
+TUTO_MSG_04_02
+--- BLOCK ---
+TUTO_MSG_04_03
+--- BLOCK ---
+TUTO_MSG_04_04
+--- BLOCK ---
+TUTO_MSG_04_05
+--- BLOCK ---
+TUTO_MSG_05_00
+--- BLOCK ---
+TUTO_MSG_05_01
+--- BLOCK ---
+TUTO_MSG_05_02
+--- BLOCK ---
+TUTO_MSG_05_03
+--- BLOCK ---
+TUTO_MSG_05_04
+--- BLOCK ---
+TUTO_MSG_05_05
+--- BLOCK ---
+TUTO_MSG_05_06
+--- BLOCK ---
+TUTO_MSG_06_00
+--- BLOCK ---
+TUTO_MSG_06_01
+--- BLOCK ---
+TUTO_MSG_07_00
+--- BLOCK ---
+TUTO_MSG_08_00
+--- BLOCK ---
+TUTO_MSG_09_00
+--- BLOCK ---
+TUTO_MSG_10_00
+--- BLOCK ---
+TUTO_MSG_11_00
+--- BLOCK ---
+TUTO_MSG_12_00
+--- BLOCK ---
+TUTO_MSG_12_01
+--- BLOCK ---
+TUTO_MSG_13_00
+--- BLOCK ---
+TUTO_MSG_13_01
+--- BLOCK ---
+TUTO_MSG_14_01
+--- BLOCK ---
+TUTO_MSG_15_01
+--- BLOCK ---
+TUTO_MSG_16_01
+--- BLOCK ---
+TUTO_MSG_17_01
+--- BLOCK ---
+TUTO_NAME
+--- BLOCK ---
+TUTO_END
+--- BLOCK ---
+TUTO_QUEST_NAME
+--- BLOCK ---
+TUTO_QUEST_MSG
+--- BLOCK ---
+MOGA_QUEST_MSG
+--- BLOCK ---
+Olá, jovem. Você pode me ouvir?
+Sabe, você deveria conhecer meu filho,
+Junior. Ele estará no acampamento.
+--- BLOCK ---
+Meus antepassados diziam: "Onde quer que
+vá, lá estará você." Você
+vê o mapa naquela tela?
+--- BLOCK ---
+O triângulo vermelho mostra onde você 
+está. O ícone branco que parece uma cabana
+pequena aponta para o acampamento base.
+--- BLOCK ---
+Use o mapa para encontrar o
+caminho até o acampamento base.
+--- BLOCK ---
+Ah, antes que eu me esqueça, há
+algo que devo te contar sobre correr.
+--- BLOCK ---
+A barra amarela na parte superior
+é o seu indicador de Resistência.
+--- BLOCK ---
+Ao correr, a Resistência será
+consumida. Se acabar, você irá
+mais devagar até recarregar.
+--- BLOCK ---
+Por isso, preste atenção ao
+indicador de Resistência enquanto corre.
+Controle sua velocidade, jovem!
+--- BLOCK ---
+Também pode usar os controles
+da câmera para olhar
+ao redor enquanto avança.
+--- BLOCK ---
+Bem... o monstro que você está vendo
+agora é o Aptonoth, um tipo de
+herbívoro. Já sabe, um comedor de plantas.
+--- BLOCK ---
+Tenho certeza de que Junior adorará a
+Carne crua. Por que não pega
+um pouco do Aptonoth... se conseguir?
+--- BLOCK ---
+Vamos lá! Enfrente o Aptonoth e ataque
+antes que ele fuja. Esse comedor
+de folhas não conseguirá te machucar.
+--- BLOCK ---
+Isso me lembra algo! A barra verde na
+parte superior é o indicador de Saúde. Se
+chegar a zero, você cairá no chão.
+--- BLOCK ---
+Lembre-se de verificar o indicador de
+Saúde ao caçar. Mostre a
+essa besta vegetariana quem manda!
+--- BLOCK ---
+Ah, quase esqueci! Dê uma
+olhada na tela inferior.
+--- BLOCK ---
+Vê os painéis? Toque neles para acessar
+funções que te ajudarão durante a caça.
+Legal a tecnologia atual, não é?
+--- BLOCK ---
+Pressione START para abrir o menu do
+jogo; nele, toque em "Pers. painéis". Lá,
+poderá mover os painéis como quiser.
+--- BLOCK ---
+Quer saber o que um painel faz?
+Toque no botão Ajuda na tela
+"Pers. painéis" para ver os detalhes.
+--- BLOCK ---
+Certamente você viu a barra chamada
+"Busca do caçador" na tela
+inferior. Não deixe nada passar!
+--- BLOCK ---
+Se estiver perto de outros
+caçadores jogando Monster Hunter 3
+Ultimate, você os verá lá.
+--- BLOCK ---
+Toque na área "Busca do
+caçador" e verá informações
+dos caçadores que encontrar.
+--- BLOCK ---
+Caçar sozinho é bom e tal; mas será que
+caçará tão bem com companhia?
+Jogar com amigos é superdivertido.
+--- BLOCK ---
+Se encontrar companheiros caçadores com
+"Busca de caçador", não gostaria de
+sair para caçar com eles?
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Não está mal, jovem. Você me lembra de mim
+quando tinha sua idade. Embora, claro,
+minha resistência fosse maior.
+--- BLOCK ---
+Pode usar sua habilidade de
+Cortar para remover itens
+dos monstros que matou.
+--- BLOCK ---
+Pode cortar mais itens de uns monstros
+do que de outros. Meus antepassados
+usavam todas as partes do monstro.
+--- BLOCK ---
+Poderá obter Carne crua do
+Aptonoth, além de outros itens.
+--- BLOCK ---
+Quando tiver a Carne crua,
+leve-a para meu filho. Junior
+adora os bifes de Aptonoth.
+--- BLOCK ---
+Olá, jovem. Parece que conseguiu levar a
+carne para Junior. Fico feliz em
+ver que consegue realizar tarefas simples.
+--- BLOCK ---
+Acho que é hora de
+voltar para a vila.
+--- BLOCK ---
+Olhe a Área 1 do mapa. Vê o
+ícone da porta da vila? A ponte atrás
+da porta te leva para a vila.
+--- BLOCK ---
+Conseguiste! Pressione o botão A
+para voltar para a vila.
+--- BLOCK ---
+Ao retornar para a vila de
+Moga, fale com meu filho.
+--- BLOCK ---
+Além disso, gostaria de te dar algo
+em agradecimento pela ajuda. Venha me
+ver depois de falar com Junior.
+--- BLOCK ---
+Bom trabalho! Parece que
+chegou inteiro ao acampamento.
+--- BLOCK ---
+É apenas uma sombra do que
+era, por causa do terremoto.
+--- BLOCK ---
+Bem, bem... Se é meu filho, bem
+na sua frente! Não tenha vergonha, se
+aproxime de Junior e o cumprimente.
+--- BLOCK ---
+Olá, sou eu, o filho do Chefe.
+Junior não! Ninguém me chama assim!
+Bem, olhe seu mapa. Está ampliado!
+--- BLOCK ---
+Agora que me lembro: sei que
+ainda é um novato, caçador, mas
+preciso pedir um favor a você.
+--- BLOCK ---
+Quero que colete Recursos para nos
+ajudar a restaurar o acampamento.
+--- BLOCK ---
+Sabe quem tem muitos Recursos?
+Os carnívoros. Cace alguns, caçador!
+--- BLOCK ---
+E como a sorte nos acompanha, na
+Área 6 do mapa há um ninho
+de carnívoros, prontos para serem caçados!
+--- BLOCK ---
+Deveria coletar algumas Ervas para
+restaurar sua Saúde caso leve uma surra,
+e depois ir caçar carnívoros!
+--- BLOCK ---
+As Ervas crescem de forma selvagem,
+até por aqui. Pegue algumas! Ou
+espera que eu faça tudo?
+--- BLOCK ---
+Encontrou as Ervas, caçador? Ei,
+tenho uma dica para você.
+--- BLOCK ---
+Percebeu que o indicador de
+Resistência diminuiu? Não se preocupe,
+acontece com todos nós.
+--- BLOCK ---
+Pois não há melhor cura para
+a diminuição de Resistência do que
+um suculento Bife ao ponto!
+--- BLOCK ---
+Para que acha que lhe dei
+aquela Grelha de churrasco? Não é
+para mexer na salada, sabe?
+--- BLOCK ---
+Quando tiver Carne crua, selecione a
+Grelha de churrasco na janela de
+objetos do canto inferior direito.
+--- BLOCK ---
+Aperte o botão A quando a
+carne estiver dourada. Calcule bem!
+--- BLOCK ---
+Cozinhe o bife malpassado ou
+ao ponto e sua Resistência
+máxima aumentará ao comê-lo.
+--- BLOCK ---
+Ei! Está cozinhando muito bem! Fica
+fácil quando pega o jeito.
+--- BLOCK ---
+Dê uma grande mordida no bife
+e sua Resistência máxima aumentará antes
+que possa dizer "Jaggi flambeado".
+--- BLOCK ---
+Vamos, coma! Selecione o Bife ao
+ponto na janela de objetos e
+use. E mastigue de boca fechada!
+--- BLOCK ---
+Ei, parece que encontrou Ervas!
+Pode coletar objetos como as
+Ervas várias vezes, sabe?
+--- BLOCK ---
+Além das Ervas, encontrará todo tipo
+de coisinhas na Floresta de Moga.
+Lembre-se de coletá-las ao caçar...
+--- BLOCK ---
+Dê uma olhada na Bolsa de
+objetos no menu do jogo para
+saber a utilidade dos objetos encontrados.
+--- BLOCK ---
+Certo. Quando estiver pronto, é hora de
+caçar carnívoros. Lembre-se: a Área 6 do
+mapa está cheia de comedores de carne!
+--- BLOCK ---
+Olhe ali! Esses pequenos
+carnívoros se chamam Jaggi!
+--- BLOCK ---
+Matar essas pragas é uma
+ótima forma de coletar Recursos.
+--- BLOCK ---
+Se sua Saúde estiver baixa, use uma
+Erva para se curar, rápido! Os Jaggi
+odeiam o fogo, afaste-os com uma tocha!
+--- BLOCK ---
+Se focar demais em atacar,
+talvez nunca retorne. Lembre-se que
+também tem movimentos evasivos!
+--- BLOCK ---
+Precisamos de 30 pontos de
+Recursos para reorganizar o acampamento.
+Contamos com você, caçador!
+--- BLOCK ---
+Bom, bom! Coletou os Recursos?
+São apenas 30 pontos. Fácil
+até para um caçador novato!
+--- BLOCK ---
+Não quero te apressar. Pode ir
+e vir da vila para
+a floresta quantas vezes quiser.
+--- BLOCK ---
+Mas, cada vez que retornar
+à vila, lembre-se de me
+dar seu Relatório de caça.
+--- BLOCK ---
+Um Relatório de caça garante que
+os Recursos que coletou sejam adicionados
+às lojas da vila imediatamente.
+--- BLOCK ---
+Não se esqueça de entregar
+o relatório depois de caçar!
+Não vamos atrasar a reconstrução.
+--- BLOCK ---
+Ótimo ataque! Talvez não seja tão
+novato assim como caçador, afinal...
+--- BLOCK ---
+Você verá os Recursos que
+coletou dos monstros caçados quando
+retornar à Aldeia de Moga.
+--- BLOCK ---
+Quando eu me calar, olhe no
+canto inferior esquerdo da tela.
+--- BLOCK ---
+Assim que tiver 30 pontos de
+Recursos, estaremos prontos. Boa caçada!
+--- BLOCK ---
+Bom, bom, bom. Parece que
+sua arma não está mais
+tão afiada. Vamos resolver isso...
+--- BLOCK ---
+Tem uma Pedra de amolar? São
+ótimas para restaurar o nível de
+Afiamento da arma e deixá-la pronta!
+--- BLOCK ---
+Agora que penso nisso, ainda não lhe falei
+sobre a Lista de monstros, não é?
+--- BLOCK ---
+Você verá esta lista em
+suas Notas de caçador. Contém
+dados sobre os monstros!
+--- BLOCK ---
+Aumente as categorias de sua
+Lista de monstros comprando compêndios
+de monstros no Mercado.
+--- BLOCK ---
+Então está procurando Minério de ferro, não
+é? Que bom que não preciso fazer
+essa tarefa. Ser Chefe é legal...
+--- BLOCK ---
+A caverna da Área 4 é
+um bom lugar para procurar minério.
+--- BLOCK ---
+Desculpe a intromissão, jovem, mas...
+--- BLOCK ---
+Tem um Pico, certo?
+--- BLOCK ---
+Vai precisar de um se estiver pensando
+em extrair minerais. Seu crânio é duro,
+mas não o bastante para quebrar pedra.
+--- BLOCK ---
+No Mercado da vila, encontrará Picos,
+então passe por lá e pegue
+alguns se os seus se desgastarem.
+--- BLOCK ---
+Bom trabalho, jovem. Agora
+só precisa levar ao
+Mestre ferreiro na Ferraria.
+--- BLOCK ---
+Pode extrair minerais onde vir grandes
+rachaduras nas paredes de pedra.
+--- BLOCK ---
+No chão verá grandes pedras coloridas
+para picar. Assim que as
+identificar, verá por toda parte!
+--- BLOCK ---
+Bom, agora que fez o
+que veio fazer, é hora
+de voltar à vila.
+--- BLOCK ---
+Certo. Deve ter Minério de ferro
+em algum lugar desta caverna. Procure
+em todas as rachaduras e cantos!
+--- BLOCK ---
+Se se perder, saia da caverna
+seguindo qualquer direção em que
+veja um pouco de luz.
+--- BLOCK ---
+Bom... Está quase de
+volta à vila.
+--- BLOCK ---
+Meus sábios antepassados diziam: "A vida
+na vila está relacionada com a
+terra ao redor". Eles tinham razão.
+--- BLOCK ---
+Conforme explorar, coletar Recursos
+e cortar objetos, verá como sua vida
+em Moga vai se enriquecendo.
+--- BLOCK ---
+Até pode combinar materiais para
+criar novas ferramentas de caça.
+--- BLOCK ---
+"O bom caçador nunca deixa de explorar",
+diziam meus antepassados. Siga o conselho
+e não se perderá na Floresta de Moga.
+--- BLOCK ---
+Bom, me pergunto se o velho
+ferreiro gostará do Minério de ferro
+que você encontrou. Deve ser bom!
+--- BLOCK ---
+Quando chegar a um lugar
+onde possa extrair minério, verá
+o ícone de mineração.
+--- BLOCK ---
+Com um Pico, pode extrair
+minério apertando o botão A.
+--- BLOCK ---
+Ei! Sou eu, Juni... quer dizer, o
+filho do Chefe. Olha, fiquei sabendo
+que extraiu minério. Não está mal!
+--- BLOCK ---
+Bom, dê uma olhada em seu mapa... Vê
+aquilo? Toda a Floresta de Moga está ao
+seu alcance! Bem feito, precisava sair.
+--- BLOCK ---
+Agora poderá percorrer toda a
+floresta... diretamente até o mar!
+--- BLOCK ---
+Isso é bom, porque gostaria
+que caçasse um daqueles Ludros
+que estão nadando por aí.
+--- BLOCK ---
+Um Ludro será útil para praticar
+a caça submarina... e aposto que
+a prática será boa para você.
+--- BLOCK ---
+Além disso, seria um ótimo presente
+para a garota encarregada de lhe
+dar as missões da Guilda.
+--- BLOCK ---
+Bom, quando estiver pronto, saia em
+direção ao mar na Área 11.
+--- BLOCK ---
+Pronto para molhar os pés? Permita-me
+instruí-lo na arte Moga de nadar,
+como minha mãe me ensinou.
+--- BLOCK ---
+Já faz uma hora que não come, não
+é? Não importa. Aponte a câmera na
+direção em que deseja nadar e movimente-se.
+--- BLOCK ---
+Use os controles da câmera para
+mudar a vista e nadará
+nessa direção. Não tem segredo.
+--- BLOCK ---
+Correr, se esquivar e atacar
+funcionam da mesma forma
+que em terra firme.
+--- BLOCK ---
+Pratique o controle da câmera
+e do movimento. Antes que
+perceba, nadará como um Epioth!
+--- BLOCK ---
+Vê o peixe com o corpo longo
+e plano? Inconfundível, não é? É
+um Ludro, sua presa nesta caçada.
+--- BLOCK ---
+Felizmente, não nada muito rápido.
+Chegue o mais perto
+possível dele e derrube-o.
+--- BLOCK ---
+Focalize seu alvo com a
+câmera e ataque! Lembre-se desta
+técnica e progredirá rapidamente.
+--- BLOCK ---
+Sua arma pode enfraquecer os peixes,
+mas recomendo que use um arpão.
+Depois poderá cortar materiais deles.
+--- BLOCK ---
+Ótimo! Que comece a luta
+marinha! Derrube aquele peixe!
+--- BLOCK ---
+Bom trabalho, caçador! Continue assim e
+talvez um dia ganhe o direito
+de me chamar de Junior.
+--- BLOCK ---
+E então, o que achou da caça
+submarina? Use a câmera para encontrar
+seu alvo, esse é o truque.
+--- BLOCK ---
+Isto fica entre você e eu:
+foi adicionada a opção "Voltar para
+a vila" no menu do jogo.
+--- BLOCK ---
+Escolha essa opção para ir diretamente à
+Aldeia de Moga. Melhor do que ir a pé.
+--- BLOCK ---
+Quando retornar à vila, fale com
+a garota que tem todas as informações
+de missão. Ela está impaciente!
+--- BLOCK ---
+Ah, sim, há mais uma coisa
+que devo mencionar para quando estiver
+nadando: tente não se afogar.
+--- BLOCK ---
+Se olhar à esquerda da
+tela, verá uma barra vertical.
+É seu indicador de Oxigênio.
+--- BLOCK ---
+Se chegar ao fim, não poderá respirar!
+E isso fará com que seu indicador de
+Saúde diminua gradualmente.
+--- BLOCK ---
+Felizmente, há três maneiras de reabastecer
+o indicador de Oxigênio antes de
+se tornar comida de peixes.
+--- BLOCK ---
+Pode nadar até a superfície e respirar,
+reabastecê-lo em uma zona de suprimento de
+ar ou usar um item de oxigênio.
+--- BLOCK ---
+Reconhecerá as zonas de suprimento
+de ar pelas bolhas saindo
+do fundo do oceano.
+--- BLOCK ---
+Quando se acostumar aos controles
+da câmera, não terá dificuldade
+em encontrar essas bolhas vitais.
+--- BLOCK ---
+Ha! Está se perguntando como
+está o acampamento, não é?
+--- BLOCK ---
+Usamos os Recursos que coletou
+para consertá-lo rapidamente. Agora
+está tudo como antes!
+--- BLOCK ---
+Vá lá ver aquela
+garota das missões...
+--- BLOCK ---
+Acho que ela tem trabalhado sem
+parar para deixar tudo pronto. Espero
+que demonstre a mesma dedicação.
+--- BLOCK ---
+Bom, chegou minha hora de brilhar! Sou
+a especialista em missões de Moga.
+--- BLOCK ---
+Com o acampamento de volta em pé,
+é o melhor momento para ser caçador:
+uma profissão à prova de catástrofes!
+--- BLOCK ---
+Este acampamento é o ponto de
+partida e chegada de suas missões.
+--- BLOCK ---
+O acampamento está equipado com três
+coisas para ajudá-lo nas missões.
+--- BLOCK ---
+Que coisas?, se perguntará. Então
+pergunte. Bem, direi a você: a caixa
+vermelha, a caixa azul e a cama!
+--- BLOCK ---
+Agora, pratique a caça, caçador.
+Dê uma olhada ao redor,
+e procure essas três maravilhas!
+--- BLOCK ---
+Encontrou! Aquela caixa azul à sua
+frente é a Caixa de suprimentos.
+--- BLOCK ---
+Contém suprimentos cortesia do Gremio
+para ajudar nas missões.
+--- BLOCK ---
+Muitos dos suprimentos devem ser devolvidos
+ao final da missão, então
+não se apegue a eles.
+--- BLOCK ---
+Que tal apertar o botão A
+para ver o que tem dentro?
+--- BLOCK ---
+Parece que você se saiu bem! A
+caixa vermelha é a Caixa de entrega!
+--- BLOCK ---
+Quando a missão exigir que você
+entregue itens, como nesta missão,
+essa caixa será muito útil.
+--- BLOCK ---
+Quando tiver itens para entregar,
+traga-os para a Caixa de
+entrega. Viu como é prático?
+--- BLOCK ---
+Nesta missão, você precisa
+entregar Cogumelos especiais.
+--- BLOCK ---
+Vamos ver o que tem aqui... Sim,
+é uma cama! Sua habilidade em
+encontrar móveis não tem igual, caçador!
+--- BLOCK ---
+Ao dormir nesta cama, sua saúde será
+restaurada e você será curado se estiver
+envenenado. Você vai acordar como novo!
+--- BLOCK ---
+Você pode descansar na cama quantas
+vezes quiser durante as missões. Caçar
+é difícil, é necessário dormir!
+--- BLOCK ---
+Ah! Quase esqueci de falar
+sobre outro item importante!
+--- BLOCK ---
+Você vê o relógio no canto superior
+esquerdo da tela? Ele controla o tempo
+restante da missão. Fique de olho nele!
+--- BLOCK ---
+O ponteiro branco avança um ponto a
+cada cinco minutos. Isso significa que esta
+missão tem um limite de 50 min.
+--- BLOCK ---
+Se você ficar sem tempo, falhará
+na missão. Que vergonha! Então, se
+apresse se o relógio ficar vermelho!
+--- BLOCK ---
+Ótimo! Fantástico! Maravilhoso! Você
+completou a missão!
+--- BLOCK ---
+Em seguida, você receberá sua recompensa e
+terá que voltar para a vila.
+--- BLOCK ---
+Vou enviar seus resultados para o Gremio
+e eles vão te passar novas missões.
+Bons caçadores nunca ficam sem trabalho!
+--- BLOCK ---
+Conforme avançar, terá acesso a mais
+missões dedicadas a caçar monstros,
+então deve melhorar seu equipamento.
+--- BLOCK ---
+Sim! Aqui está um exemplar! É um dos
+chamados Cogumelos especiais. Eu sei muito
+bem porque gosto muito de cogumelos.
+--- BLOCK ---
+Se quiser rever as informações
+da missão, acesse Informações da
+missão no menu do jogo.
+--- BLOCK ---
+Aqui você pode verificar os
+requisitos para completar a missão
+e outros dados básicos dela.
+--- BLOCK ---
+Olá de novo! Sabia que vivo para o
+meu trabalho, então pensei em vir te
+dar um conselho. Que sorte a sua!
+--- BLOCK ---
+Quando começar uma missão, sua lista
+de tarefas imediatas terá duas entradas:
+--- BLOCK ---
+1: Fique de olho no tempo
+limite da missão! 2: Retire
+itens da Caixa de suprimentos!
+--- BLOCK ---
+Com essas duas regras simples,
+sua carreira como caçador será
+longa e feliz. Boa sorte!
+--- BLOCK ---
+Oh, não!
+--- BLOCK ---
+Bom caçador, isso é... terrível!
+--- BLOCK ---
+A criatura que você vê à sua
+frente é o Lagiacrus, o monstro marinho
+que está atormentando nossa pobre vila.
+--- BLOCK ---
+Que momento inoportuno! Relaxe... eu tenho
+que relaxar... Bem. Saia dali
+o mais rápido possível agora!
+--- BLOCK ---
+Se você insiste em adquirir os
+itens da missão, escolha uma área
+onde o Lagiacrus não esteja!
+--- BLOCK ---
+Não seja imprudente, você não
+pode enfrentar essa criatura agora!
+Viva para caçar outro dia!
+--- BLOCK ---
+Meu bom caçador, desta vez temos para
+você o que chamamos de uma missão
+urgente. Como imagina, precisa fazer agora!
+--- BLOCK ---
+A conclusão desta missão é muito,
+muito importante. Pode ajudar a
+obter o reconhecimento do Gremio!
+--- BLOCK ---
+Seu objetivo será um monstro aquático:
+o Ludroth. Pode ser um pouco
+mais forte do que o normal.
+--- BLOCK ---
+Deixe-me adivinhar: você está pronto e
+ansioso para começar? Claro que sim!
+Faça o seu melhor! Não nos decepcione.
+--- BLOCK ---
+Graaargh! Gostou do meu grito de guerra?
+Estou aqui para animá-lo a ter
+uma boa caçada. Raaaargh! Melhor assim?
+--- BLOCK ---
+Seu objetivo agora é um Grande Jaggi. Este
+grandalhão é muito mais forte do que
+qualquer outro monstro que você já caçou.
+--- BLOCK ---
+Dizem que um Grande Jaggi pode
+comandar outros Jaggi e organizá-los para
+atacar em grupo. Que temível!
+--- BLOCK ---
+Os Grandes Jaggi são espertos o suficiente
+para fugir quando estão em perigo. Já
+sente falta da missão de pesca?
+--- BLOCK ---
+Não desanime. Você encontrará uma Bola
+de tinta na Caixa de suprimentos.
+--- BLOCK ---
+É um item muito útil.
+Jogue em um monstro e
+poderá rastreá-lo no mapa.
+--- BLOCK ---
+As Bolas de tinta são ótimas
+para monstros que tentam fugir. Deixe-os!
+Você poderá ver para onde vão.
+--- BLOCK ---
+Vamos começar esta missão com
+um bom grito de guerra.
+Um, dois, três... Graaargh!
+--- BLOCK ---
+Desta vez, sua missão é um pouco
+mais... como eu diria, animada. Você
+terá que capturar um monstro... vivo!
+--- BLOCK ---
+A parte mais importante
+de tentar capturar um
+monstro é enfraquecê-lo primeiro.
+--- BLOCK ---
+Observe o monstro em busca de sinais de
+fraqueza, como quando ele arrasta os pés.
+É nesse momento que você deve capturá-lo!
+--- BLOCK ---
+Quando seu alvo começar a fraquejar,
+use uma Armadilha escollo ou
+uma Armadilha choque para imobilizá-lo.
+--- BLOCK ---
+Depois, lance uma Bomba tranquilizante
+ou duas. Atiradores podem
+usar tiros tranquilizantes também.
+--- BLOCK ---
+Monstros maiores podem exigir mais
+quantidade do que você
+decidir usar para capturá-los.
+--- BLOCK ---
+Se não enfraquecer o monstro o suficiente,
+pode não conseguir capturá-lo. Com
+a prática, pegará o jeito.
+--- BLOCK ---
+Hmm... Chegou a hora da verdade,
+como previram meus antepassados. Será que
+poderiam se enganar só desta vez?
+--- BLOCK ---
+Parece que o temível Lagiacrus emergiu
+do mar... O avistaram bastante perto,
+na Área 5 do mapa.
+--- BLOCK ---
+Como você sabe, jovem, o Lagiacrus é
+uma fera terrível. Eu poderia lidar com
+ele facilmente em sua idade, é claro...
+--- BLOCK ---
+Bem, você percorreu um longo caminho,
+jovem, e agora tem a chance
+de se destacar... Que inveja!
+--- BLOCK ---
+Reúna todas as suas forças e enfrente
+o Lagiacrus! Faça com que todos
+nós nos sintamos orgulhosos de você!
+--- BLOCK ---
+É hora de enfrentar o vil
+monstro que tem atormentado a
+vila, o Lagiacrus! Que emocionante!
+--- BLOCK ---
+Você não está sozinho, bom
+caçador. Não se esqueça!
+--- BLOCK ---
+Todos na vila te consideram como parte
+da família! Acreditamos em você! Derrote
+o Lagiacrus e volte em segurança!
+--- BLOCK ---
+Muito bem, parece que veio ao
+lugar certo. O grande dragão
+marinho está bem ali embaixo.
+--- BLOCK ---
+Nossos antepassados falavam de ruínas no
+fundo do mar, perto da vila,
+que é onde ele parece viver.
+--- BLOCK ---
+Quando a luta começar, você deve
+primeiro focar em reduzir a saúde
+dele e depois encurralá-lo nas ruínas!
+--- BLOCK ---
+Bem, você percorreu um longo caminho,
+jovem, e agora tem a chance
+de se destacar... Que inveja!
+--- BLOCK ---
+Reúna todas as suas forças e enfrente
+o Ceadeus! Faça com que todos
+nós nos sintamos orgulhosos de você!
+--- BLOCK ---
+Ótimo! Você fez um ótimo trabalho
+fazendo-o recuar! Mesmo se você
+desmaiasse agora, ele estaria ferido.
+--- BLOCK ---
+Parece que era ele quem causava
+os terremotos, batendo seu grande
+chifre no fundo do oceano.
+--- BLOCK ---
+Você precisa fazer algo
+com esse chifre!
+--- BLOCK ---
+Reduza a saúde dele! Se concentrar
+seus ataques na cabeça, deve ser
+capaz de danificar esse chifre.
+--- BLOCK ---
+Continue avançando e encontrará algum tipo
+de arma gigante nas ruínas. Procure
+um interruptor lá em cima.
+--- BLOCK ---
+Se conseguir arrancar o chifre dele, estará
+mais perto de acabar! Nos salve,
+caçador! Salve a Vila de Moga!
+--- BLOCK ---
+Muito bem! Alguma pergunta para mim?
+Porque eu tenho respostas para você!
+Bem, você me entende, não é?
+--- BLOCK ---
+Vamos ver... Sua missão atual
+é caçar e entregar
+um Peixe dourado, certo?
+--- BLOCK ---
+Que sorte a sua! Juntei todas
+as informações! Há um belo local
+para pescar na Área 10.
+--- BLOCK ---
+O Chefe da vila me disse que
+você terá mais sorte pescando o
+Peixe dourado naquele ponto da costa.
+--- BLOCK ---
+Se usar uma isca no ponto de
+pesca, poderá pescar quantas vezes quiser.
+--- BLOCK ---
+Os peixes mordem mais quando você
+usa isca. Se fosse você, levaria
+minhocas da Caixa de suprimentos.
+--- BLOCK ---
+Aaah... Você consegue sentir a brisa
+do mar? Acho que é o
+lugar perfeito para completar uma missão!
+--- BLOCK ---
+Vamos ver... Parece que você
+pode pescar da praia
+à direita do mapa.
+--- BLOCK ---
+Deve conseguir ver alguns
+peixes nadando por ali.
+Fique de olho.
+--- BLOCK ---
+Mas não se empolgue e entre
+de uma vez... assustará os peixes!
+--- BLOCK ---
+Assim que vir o ícone de
+pesca, jogue a isca. Boa sorte
+e pesque um grande Peixe dourado!
+--- BLOCK ---
+Quer informações sobre missões de alto
+escalão, não é? Sorte a sua!
+Sou o melhor explicando essas coisas!
+--- BLOCK ---
+Bem, em sua primeira missão de alto escalão,
+você irá para um território desconhecido.
+Chamamos de Cumbres borrascosas!
+--- BLOCK ---
+Tem rios! Montanhas! E, entre as montanhas,
+vales! E também monstros novos!
+É o paraíso do caçador!
+--- BLOCK ---
+Pode encontrar espécies novas, mas não se
+preocupe: elas têm mais medo de você
+do que você delas. Ou talvez não...
+--- BLOCK ---
+Superar a adversidade é o dia a
+dia do caçador, não é mesmo? Então
+saia e faça o que sabe fazer!
+--- BLOCK ---
+...?!
+--- BLOCK ---
+Que ruim! Muito ruim! Na verdade, é
+como o pior cenário possível. Alguma
+ideia do que podemos fazer, caçador?
+--- BLOCK ---
+Eu... conheço essa besta! O Devi...
+luto? Não? O Devilijo? Ah,
+está na ponta da língua...
+--- BLOCK ---
+Bem, esse monstro devora tudo que
+encontra. Tem uma barriga enorme! Se
+cruzar com ele, é uma refeição!
+--- BLOCK ---
+Só um maluco iria caçá-lo. Nesta
+missão, seu objetivo são apenas os
+Jaggi, recue e siga o plano!
+--- BLOCK ---
+Ah, Deviljho! É assim que se chama
+esse monstro! Mas não importa! Corra! Fuja!
+--- BLOCK ---
+Bem, parece um bom momento para
+você enfrentar o Lagiacrus marmóreo. É
+uma subespécie do Lagiacrus, sabe?
+--- BLOCK ---
+Não vou mentir: essa caçada é complicada.
+Ele vai te atacar, te encharcar com
+seu hálito de wyvern e te eletrocutar.
+--- BLOCK ---
+Faça o que eu faria
+nesta situação: use tudo o
+que tem e não estrague!
+--- BLOCK ---
+Tenho muita fé em você. Seja o meu orgulho!
+--- BLOCK ---
+É a hora de mostrar
+o que vale, caçador!
+--- BLOCK ---
+Os monstros desta caçada são todos
+difíceis, mas eu acredito em você!
+--- BLOCK ---
+Você é o orgulho da Vila de
+Moga! Mas não se sinta pressionado. Apenas
+vá e faça o que sabe fazer!
+--- BLOCK ---
+Chefe da vila
+--- BLOCK ---
+Filho do Chefe
+--- BLOCK ---
+Chica do Gremio
+--- BLOCK ---
+Fechar
+--- BLOCK ---
+Voltar a ler
+--- BLOCK ---
+Lições de caça básicas
+--- BLOCK ---
+Dê 1 pedaço de Carne
+crua ao filho do
+Chefe no acampamento base.
+--- BLOCK ---
+Lições básicas de caça:
+Dê 30 pontos de
+Recursos ao filho do
+Chefe na aldeia.
+--- BLOCK ---
+Lições básicas de caça:
+Dê 1 pepita de
+Minério de ferro ao
+Artesão Wyveriano na aldeia.
+--- BLOCK ---
+Lições básicas de caça:
+Cace 1 Mólido na
+Floresta de Moga.
+--- BLOCK ---
+ <COLO 6>Não há missões iniciadas.
+--- BLOCK ---

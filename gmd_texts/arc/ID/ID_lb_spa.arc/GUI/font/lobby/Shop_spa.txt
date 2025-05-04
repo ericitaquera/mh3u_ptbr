@@ -1,0 +1,1365 @@
+﻿TMSG_LOBBYSHOP
+--- BLOCK ---
+TMSG_LOBBY_LEVELUP
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_TOPMENU
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_MOGAINFO
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_MOGAINFO_FINFO
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_REPORT
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_REPORT_SUBTITLE
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_EXPLAIN
+--- BLOCK ---
+TMSG_LOBBY_GUILD_RULES
+--- BLOCK ---
+TMSG_LOBBY_KAKOPARTS
+--- BLOCK ---
+TMSG_LOBBY_GUILD_DLQ
+--- BLOCK ---
+TMSG_LOBBY_KAKO_KYOUKA
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Inven.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Sin pot.
+--- BLOCK ---
+Salud
+--- BLOCK ---
+Resist.
+--- BLOCK ---
+Oxígeno
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Defensa
+--- BLOCK ---
+R.fuego
+--- BLOCK ---
+R.agua
+--- BLOCK ---
+R.trueno
+--- BLOCK ---
+R.hielo
+--- BLOCK ---
+R.dragón
+--- BLOCK ---
+Piripi
+--- BLOCK ---
+---
+--- BLOCK ---
+? ? ?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Comprar
+--- BLOCK ---
+Vender
+--- BLOCK ---
+Comprar (Caja)
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Arte de armas
+--- BLOCK ---
+Arte de armaduras
+--- BLOCK ---
+Adornos
+--- BLOCK ---
+Solicit. pobl.
+--- BLOCK ---
+Forjar armas
+--- BLOCK ---
+Mejorar armas
+--- BLOCK ---
+Forjar armaduras
+--- BLOCK ---
+Mejorar armaduras
+--- BLOCK ---
+Forjar adornos
+--- BLOCK ---
+Colocar adornos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armas
+--- BLOCK ---
+Armadura
+--- BLOCK ---
+Cabeça
+--- BLOCK ---
+Peito
+--- BLOCK ---
+Braços
+--- BLOCK ---
+Cintura
+--- BLOCK ---
+Pernas
+--- BLOCK ---
+Grande espada
+--- BLOCK ---
+Espada longa
+--- BLOCK ---
+Espada e escudo
+--- BLOCK ---
+Espadas duplas
+--- BLOCK ---
+Martelo
+--- BLOCK ---
+Flauta
+--- BLOCK ---
+Lança
+--- BLOCK ---
+Lança pistola
+--- BLOCK ---
+Espada machado
+--- BLOCK ---
+Balista rápida
+--- BLOCK ---
+Balista pesada
+--- BLOCK ---
+Arco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+FUEG
+--- BLOCK ---
+AGUA
+--- BLOCK ---
+TRUE
+--- BLOCK ---
+DRAG
+--- BLOCK ---
+HIEL
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+VENE
+--- BLOCK ---
+PARÁ
+--- BLOCK ---
+SUEÑ
+--- BLOCK ---
+BABA
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vista
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vista
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+R.fuego
+--- BLOCK ---
+R.agua
+--- BLOCK ---
+R.hielo
+--- BLOCK ---
+R.trueno
+--- BLOCK ---
+R.dragón
+--- BLOCK ---
+Defensa
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Clima de Moga
+--- BLOCK ---
+Informe de caza
+--- BLOCK ---
+Generar Recursos
+--- BLOCK ---
+Info de Recursos
+--- BLOCK ---
+Solicitudes pob.
+--- BLOCK ---
+Hoy
+--- BLOCK ---
+Mañana
+--- BLOCK ---
+Pasado m.
+--- BLOCK ---
+Monstruos grandes
+--- BLOCK ---
+Estado campo
+--- BLOCK ---
+Calma
+--- BLOCK ---
+Cría herbív.
+--- BLOCK ---
+Calma
+--- BLOCK ---
+Cría Jaggi
+--- BLOCK ---
+Epid. Bnahabra
+--- BLOCK ---
+Calma
+--- BLOCK ---
+Cría Ludroth
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Enviar
+--- BLOCK ---
+Ver Caja de pesca
+--- BLOCK ---
+Ver estado flota
+--- BLOCK ---
+Cap.
+--- BLOCK ---
+Rojo
+--- BLOCK ---
+Negr
+--- BLOCK ---
+CostRecu
+--- BLOCK ---
+Región
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Días
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+1 d.
+--- BLOCK ---
+2 d.
+--- BLOCK ---
+3 d.
+--- BLOCK ---
+4 d.
+--- BLOCK ---
+5 d.
+--- BLOCK ---
+6 d.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿%s? Buen
+tiempo. ¡Habrá buena pesca!
+--- BLOCK ---
+¿%s? Se anuncia
+tormenta. ¿Te atreves?
+--- BLOCK ---
+¿%s? Buenas
+olas. ¡Podría haber suerte!
+--- BLOCK ---
+Hemos hecho mejoras. ¡Hoy
+podemos ir a un sitio nuevo!
+--- BLOCK ---
+¡Mar en calma! Puede que
+todo vaya como la seda.
+--- BLOCK ---
+Buen oleaje. ¡La pesca será
+buena en casi todas partes!
+--- BLOCK ---
+No hay mucha novedad,
+me temo.
+--- BLOCK ---
+Hoy es un buen día. Quizá
+cacemos algún monstruo.
+--- BLOCK ---
+¡Vamos allá!
+--- BLOCK ---
+Pesc
+--- BLOCK ---
+Tesoro
+--- BLOCK ---
+Caza
+--- BLOCK ---
+Costa de Moga
+--- BLOCK ---
+Bajío de Moga
+--- BLOCK ---
+Aguas prof. Moga
+--- BLOCK ---
+Mareas legendar.
+--- BLOCK ---
+Aguas oscuras
+--- BLOCK ---
+Estrecho de Moga
+--- BLOCK ---
+Volcán abisal
+--- BLOCK ---
+Tumba pirata
+--- BLOCK ---
+Isla próxima
+--- BLOCK ---
+Isla distante
+--- BLOCK ---
+Tierra de nadie
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(Pesca) Lugar que visita a
+menudo la población. Hay
+peces de Moga comunes.
+--- BLOCK ---
+(Pesca) Lugar popular donde
+pueden pescarse peces
+valiosos. No está muy lejos.
+--- BLOCK ---
+(Pesca) Lugar de difícil
+acceso, pero vale la pena ir
+por sus inusuales peces.
+--- BLOCK ---
+(Pesca) Lugar donde dicen
+que faenó un pescador de
+leyenda. Paraíso de peces.
+--- BLOCK ---
+(Tesoro) Lugar terrible.
+Pueden recuperarse objetos
+de barcos naufragados.
+--- BLOCK ---
+(Tesoro) Estrecho con mareas
+especiales. Dicen que oculta
+tesoros inusuales.
+--- BLOCK ---
+(Tesoro) Aquí temen por su
+vida hasta los más expertos.
+Abundan las riquezas.
+--- BLOCK ---
+(Tesoro) Lugar maldito que
+enloquece a los hombres.
+Está plagado de tesoros.
+--- BLOCK ---
+(Caza) Isla próxima
+al pueblo. Viven monstruos
+fáciles de cazar.
+--- BLOCK ---
+(Caza) Aguas cercanas a una
+isla lejana. Solo triunfan
+los cazadores preparados.
+--- BLOCK ---
+(Caza) Monstruos peligrosos.
+Hasta los más expertos
+temen esta isla.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Objetos:
+--- BLOCK ---
+Cultivos
+--- BLOCK ---
+Fertiliz.
+--- BLOCK ---
+Cultivar
+--- BLOCK ---
+Ver Caja de mies
+--- BLOCK ---
+Estad
+--- BLOCK ---
+Campo
+--- BLOCK ---
+Setas
+--- BLOCK ---
+Miel
+--- BLOCK ---
+Insec
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cos. Rec:
+--- BLOCK ---
+Canje
+--- BLOCK ---
+C. raro
+--- BLOCK ---
+Solic. escalas
+--- BLOCK ---
+Canje
+--- BLOCK ---
+C. raro
+--- BLOCK ---
+Ver escalas
+--- BLOCK ---
+Elegir artículos
+--- BLOCK ---
+Elegir bienes
+--- BLOCK ---
+Elegir artículos raros
+--- BLOCK ---
+Elegir bien raro
+--- BLOCK ---
+Reino granja
+--- BLOCK ---
+Reino caza
+--- BLOCK ---
+Reino wyvern
+--- BLOCK ---
+Destinos
+--- BLOCK ---
+Ay. viaje
+--- BLOCK ---
+Duración
+--- BLOCK ---
+Tierra fértil de granjeros
+autosuficientes que venden
+al Argosy cosechas y mercancías.
+--- BLOCK ---
+Tierra de cazadores cuyas armas
+y herramientas son difíciles de
+encontrar en la Aldea de Moga.
+--- BLOCK ---
+Tierra natal wyveriana:
+un tesoro oculto de medicinas
+y conocimientos de otro mundo.
+--- BLOCK ---
+Visita
+--- BLOCK ---
+Desviación
+--- BLOCK ---
+Queda(n)
+--- BLOCK ---
+%d d más
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Salida
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Info. objeto
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vale
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Misiones de Arena
+--- BLOCK ---
+Misiones de desafío
+--- BLOCK ---
+Clasificaciones
+--- BLOCK ---
+Tmps. calif.
+--- BLOCK ---
+Rango S
+--- BLOCK ---
+Rango A
+--- BLOCK ---
+Rango B
+--- BLOCK ---
+Mejor
+--- BLOCK ---
+Tiempo
+--- BLOCK ---
+Compañeros
+--- BLOCK ---
+Objetos
+--- BLOCK ---
+Más info
+de habil.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Objetivo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(Sin espac.)
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Has aprendido: %s.
+--- BLOCK ---
+Coger
+--- BLOCK ---
+Jugar
+--- BLOCK ---
+Camb. traje
+--- BLOCK ---
+Nuevo traje emp.
+--- BLOCK ---
+Rayas conmemor.
+--- BLOCK ---
+Mascota de rosa
+--- BLOCK ---
+Cerdi Andía
+--- BLOCK ---
+Mallas de ángel
+--- BLOCK ---
+Oveja soñolienta
+--- BLOCK ---
+Cerdo rana
+--- BLOCK ---
+Miel negra
+--- BLOCK ---
+Mobiliario
+--- BLOCK ---
+Galería
+--- BLOCK ---
+Descargas
+--- BLOCK ---
+Colocar
+--- BLOCK ---
+Quitar
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Mis. llena
+--- BLOCK ---
+La entrada a esta misión ha acabado.
+--- BLOCK ---
+Ya tienes 1 misión.
+--- BLOCK ---
+Has recibido: %s.
+--- BLOCK ---
+En la bolsa: %s.
+--- BLOCK ---
+Tu bolsa está llena.
+--- BLOCK ---
+En Caja objetos: %s.
+--- BLOCK ---
+La Caja de objetos está llena.
+--- BLOCK ---
+Recebido: %d z.
+--- BLOCK ---
+En la Caja: %s.
+--- BLOCK ---
+La Caja está llena.
+--- BLOCK ---
+No cumples los requisitos.
+--- BLOCK ---
+Invent.:
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Espacios req.:
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armazenando objetos
+--- BLOCK ---
+Remover objetos
+--- BLOCK ---
+Combin./Gerenc. itens
+--- BLOCK ---
+Gerenciar equipamento
+--- BLOCK ---
+Mudar a aparência
+--- BLOCK ---
+Conjuntos de equipamentos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Caixa de itens
+--- BLOCK ---
+Caixa de itens
+--- BLOCK ---
+Bolsa de Espadachim
+--- BLOCK ---
+Bolsa do Artilheiro
+--- BLOCK ---
+Comb. itens Caixa
+--- BLOCK ---
+Lista Combo
+--- BLOCK ---
+Mover
+--- BLOCK ---
+Vender
+--- BLOCK ---
+Ordenar por:
+--- BLOCK ---
+Raridade
+--- BLOCK ---
+Hab. nata 1
+--- BLOCK ---
+Hab. nata 2
+--- BLOCK ---
+Núm esp.
+--- BLOCK ---
+Valor
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+- - - - -
+--- BLOCK ---
+Quitar adorno
+--- BLOCK ---
+Vendo:
+--- BLOCK ---
+NomAdor.
+--- BLOCK ---
+NomHab.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Trocar de roupa
+--- BLOCK ---
+Mudar penteado
+--- BLOCK ---
+Traços
+--- BLOCK ---
+Muda. cor. armad.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equipar
+--- BLOCK ---
+Ver talismãs
+--- BLOCK ---
+Colocar adornos
+--- BLOCK ---
+Reorganizar
+--- BLOCK ---
+Vender
+--- BLOCK ---
+Equipar conjunto
+--- BLOCK ---
+Regist. equipamento
+--- BLOCK ---
+Reorganizar
+--- BLOCK ---
+Remover conjunto
+--- BLOCK ---
+Equipar conjunto
+--- BLOCK ---
+Guard. equipamento
+--- BLOCK ---
+Reorganizar
+--- BLOCK ---
+Remover conjunto
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+1
+--- BLOCK ---
+2
+--- BLOCK ---
+3
+--- BLOCK ---
+4
+--- BLOCK ---
+5
+--- BLOCK ---
+6
+--- BLOCK ---
+7
+--- BLOCK ---
+8
+--- BLOCK ---
+9
+--- BLOCK ---
+10
+--- BLOCK ---
+11
+--- BLOCK ---
+12
+--- BLOCK ---
+Tipo 1
+--- BLOCK ---
+Tipo 2
+--- BLOCK ---
+Tipo 3
+--- BLOCK ---
+Tipo 4
+--- BLOCK ---
+Tipo 5
+--- BLOCK ---
+Tipo 6
+--- BLOCK ---
+Tipo 7
+--- BLOCK ---
+Tipo 8
+--- BLOCK ---
+Tipo 9
+--- BLOCK ---
+Tipo 10
+--- BLOCK ---
+Tipo 11
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Sube nivel
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Can.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Tamaño de Caja de objetos aumentado!
+--- BLOCK ---
+La Caja de objetos está al máximo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Total
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Lista objetos
+--- BLOCK ---
+Categor.
+--- BLOCK ---
+Gran espada
+--- BLOCK ---
+Espada y escudo
+--- BLOCK ---
+Martillo
+--- BLOCK ---
+Lanza
+--- BLOCK ---
+Ballesta ligera
+--- BLOCK ---
+Ballesta pesada
+--- BLOCK ---
+Hacha espada
+--- BLOCK ---
+Espada larga
+--- BLOCK ---
+Arco
+--- BLOCK ---
+Lanza pistola
+--- BLOCK ---
+Espadas dobles
+--- BLOCK ---
+Flauta
+--- BLOCK ---
+Arte de las armas
+--- BLOCK ---
+Categor.
+--- BLOCK ---
+Cabeza
+--- BLOCK ---
+Pecho
+--- BLOCK ---
+Brazos
+--- BLOCK ---
+Cintura
+--- BLOCK ---
+Piernas
+--- BLOCK ---
+Arte de armaduras
+--- BLOCK ---
+Adornos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Forjar adornos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Lista nombr.
+--- BLOCK ---
+Tocar gong
+--- BLOCK ---
+Canc. búsq. compañ.
+--- BLOCK ---
+Buscando compañeros
+--- BLOCK ---
+Ocultar menú
+--- BLOCK ---
+Mostrar menú
+--- BLOCK ---
+¡Actualizada la Lista de monstruos!
+--- BLOCK ---
+¡Subió el Nivel de Cha-Cha!
+--- BLOCK ---
+¡Subió el Nivel de Kayamba!
+--- BLOCK ---
+¡Subió el Valor de Cha-Cha!
+--- BLOCK ---
+¡Subió el Valor de Kayamba!
+--- BLOCK ---
+¡Subió la Maestría de %s!
+--- BLOCK ---
+¡Subió el Cha-chi de Cha-Cha y Kayamba!
+--- BLOCK ---
+¡Obtenido: %s!
+--- BLOCK ---
+Másc. total (?) lograda.
+--- BLOCK ---
+¡Máscara gafe mejorada!
+--- BLOCK ---
+ 
+--- BLOCK ---
+Misiones Arena
+--- BLOCK ---
+Girar
+--- BLOCK ---
+Clima de Moga
+--- BLOCK ---
+Informe de caza
+--- BLOCK ---
+Generar Recursos
+--- BLOCK ---
+Info de Recursos
+--- BLOCK ---
+Solicitudes pob.
+--- BLOCK ---
+Hoy
+--- BLOCK ---
+Mañana
+--- BLOCK ---
+Pasado m.
+--- BLOCK ---
+Monstruos
+grandes
+--- BLOCK ---
+Estado campo
+--- BLOCK ---
+No se han visto
+monstruos grandes.
+--- BLOCK ---
+Recursos
+--- BLOCK ---
+Norte
+--- BLOCK ---
+Centro
+--- BLOCK ---
+Sur
+--- BLOCK ---
+Ver
+mapa
+--- BLOCK ---
+Día
+--- BLOCK ---
+Noche
+--- BLOCK ---
+Calma
+--- BLOCK ---
+Cría herbív.
+--- BLOCK ---
+Cría Bullfango
+--- BLOCK ---
+Calma
+--- BLOCK ---
+Cría Jaggi
+--- BLOCK ---
+Epid. Bnahabra
+--- BLOCK ---
+Cría de Jaggi
+--- BLOCK ---
+Cría de Wroggi
+--- BLOCK ---
+Calma
+--- BLOCK ---
+Cría Ludroth
+--- BLOCK ---
+Recursos: calma
+--- BLOCK ---
+Muchos bienes
+--- BLOCK ---
+Info caza
+--- BLOCK ---
+Total pt
+--- BLOCK ---
+Rec.gan.
+--- BLOCK ---
+Monst. grandes
+--- BLOCK ---
+Monst. pequeños
+--- BLOCK ---
+Ob. Recursos
+--- BLOCK ---
+Monst. pequeños
+--- BLOCK ---
+Monst. grandes
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Añadir silenciador
+--- BLOCK ---
+Añadir cañón largo
+--- BLOCK ---
+Añadir mira con zoom
+--- BLOCK ---
+Añadir escudo
+--- BLOCK ---
+Añadir cañón poder
+--- BLOCK ---
+Quitar limitador
+--- BLOCK ---
+Quitar limitador
+--- BLOCK ---
+Quitar silenciador
+--- BLOCK ---
+Quitar cañón largo
+--- BLOCK ---
+Añadir mira fija
+--- BLOCK ---
+Quitar escudo
+--- BLOCK ---
+Quitar cañón poder
+--- BLOCK ---
+Con limitador
+--- BLOCK ---
+Con limitador
+--- BLOCK ---
+Pieza prestada de la Armería.
+Apaga el ruido y hace que
+los monstruos tengan
+dificultad para localizarte.
+Reduce un poco el Retroceso.
+--- BLOCK ---
+Pieza prestada de la Armería.
+Aumenta el Ataque.
+--- BLOCK ---
+Pieza prestada de la Armería.
+Se puede acercar o alejar la
+vista con la cruz de control.
+--- BLOCK ---
+Pieza prestada de la Armería.
+Un Escudo añadido posibilita
+la Autoguardia.
+--- BLOCK ---
+Pieza prestada de la Armería.
+Aumenta el Ataque.
+--- BLOCK ---
+Para Ball. ligera, rareza +6.
+El arma sigue cargada al cambiar
+de munición, y cargas toda la
+munición con los botones X y A.
+No hace disparos muy seguidos.
+--- BLOCK ---
+Para Ball. pesada, rareza +6.
+Mejora más el Ataque y puedes
+cargar Fuego de wyvern. Pero
+es dura de manejar y no
+permite el Disparo agachado.
+--- BLOCK ---
+Quita el silenciador del arma
+y lo devuelve a la Armería.
+--- BLOCK ---
+Quita el cañón largo del arma
+y lo devuelve a la Armería.
+--- BLOCK ---
+Quita la mira con zoom del
+arma y restablece la mira
+normal.
+--- BLOCK ---
+Quita el escudo del arma
+y lo devuelve a la Armería.
+--- BLOCK ---
+Quita el cañón de poder del
+arma y lo devuelve
+a la Armería.
+--- BLOCK ---
+Para Ball. ligera, rareza +6.
+Reinstala el limitador
+en el arma.
+--- BLOCK ---
+Para Ball. pesada, rareza +6.
+Reinstala el limitador
+en el arma.
+--- BLOCK ---
+(Sin datos de misión).
+--- BLOCK ---
+Mejora
+--- BLOCK ---
+Este equipo no se mejora.
+--- BLOCK ---
+Este equipo no se puede mejorar más.
+--- BLOCK ---
+Camb. pza.
+--- BLOCK ---
+Sube nivel
+--- BLOCK ---

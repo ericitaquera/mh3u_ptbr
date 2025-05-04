@@ -1,0 +1,79 @@
+﻿TMSG_NPC074_0
+--- BLOCK ---
+TMSG_NPC074_1
+--- BLOCK ---
+TMSG_NPC074_2
+--- BLOCK ---
+TMSG_NPC074_3
+--- BLOCK ---
+TMSG_NPC074_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 0>
+Neko celoso de pelo de capitán, ¡prueba
+a hacer mismo peinado! Acaba ondulado...
+--- BLOCK ---
+Hoja de Neko regalo de capitán.
+Neko trabajar en Argosy, pero también
+aprender Esgrima sucia... ¡Ña! ¡Ya! ¡Ma!
+--- BLOCK ---
+<SUBS 0>
+Barco no muy grande, honto, pero Neko
+usar para entregar artículos y material.
+--- BLOCK ---
+<SUBS 0>
+¿Tú torihiki de artículos con capitán de
+Argosy? ¡"Tohiriki" significa trato!
+--- BLOCK ---
+Tanzia tener varios sabores. Está Puerto
+Multi, Puerto Solo, Puertos Amigos...
+--- BLOCK ---
+Lobo solitario como Neko preferir jugar
+en Puerto Solo. Cazador con muchos
+amigos debe jugar en Puerto Multi, miau.
+--- BLOCK ---
+¡Domo!
+Esto llamarse Puerto Tanzia.
+--- BLOCK ---
+Sitio muy grande. Muchos mercaderes
+de todo el mundo se reúnen aquí para
+koeki. ¡"Koeki" es comercio!
+--- BLOCK ---
+Tú seguro querer ir a misión, ¿sí?
+Tú ir a Taberna de otro lado de puente.
+Tú encontrar Gremio allí sin problema.
+--- BLOCK ---
+Y gente de ciudad allí siempre ayudarte
+si tú perderte. ¡Anshin, anshin!
+--- BLOCK ---
+¿Cómo ir tú, cazador?
+--- BLOCK ---
+¡Domo! ¡Saludos, cazador!
+--- BLOCK ---
+¡De wa! ¡Más fuerte y adelante!
+--- BLOCK ---
+¡Listo para shukko! "Shukko" es zarpar.
+--- BLOCK ---
+¡De wa! ¡Bon voyage, miau!
+--- BLOCK ---
+Pronto todo mundo a mis pies...
+--- BLOCK ---
+Hasta pronto, mata.
+--- BLOCK ---
+¡Nosotros zarpar, miau!
+--- BLOCK ---
+¡Tú hablar y Neko ayudarte!
+--- BLOCK ---
+¡Miau! ¿Qué gran idea?
+--- BLOCK ---
+¿A dónde, miau?
+--- BLOCK ---
+¡No temer, Tigre de Lejano Oriente aquí!
+--- BLOCK ---
+Neko siempre muy ocupado. Taihen...
+--- BLOCK ---

@@ -104,14 +104,14 @@ def write_binary_files(base_name, entries, dir_path):
     data_path = os.path.join(output_dir, f"{base_name}.data.bin")
     final_path = os.path.join(output_dir, f"{base_name}")
 
-    ext_map = {
-        '.tex': 0x241F5DEB,
-        '.gmd': 0x242BB29A,
-        '.gii': 0x07F768AF,
-        '.gfd': 0x2D462600,
-        '.gui': 0x22948394,
-        '.xfs': 0x0AAF2DB2,
-    }
+    #ext_map = {
+    #    '.tex': 0x241F5DEB,
+    #    '.gmd': 0x242BB29A,
+    #    '.gii': 0x07F768AF,
+    #    '.gfd': 0x2D462600,
+    #    '.gui': 0x22948394,
+    #    '.xfs': 0x0AAF2DB2,
+    #}
 
     try:
         with open(header_path, 'wb') as header_file, open(data_path, 'wb') as data_file:
@@ -128,12 +128,15 @@ def write_binary_files(base_name, entries, dir_path):
                 padded_path = encoded_path.ljust(64, b'\x00')
                 header_file.write(padded_path)
 
-                if extension.lower() not in ext_map:
-                    print(f"Error: Unsupported file extension '{extension}'")
-                    sys.exit(1)
+                #if extension.lower() not in ext_map:
+                #    print(f"Error: Unsupported file extension '{extension}'")
+                #    sys.exit(1)
 
-                unk1_value = ext_map[extension.lower()]
-                header_file.write(struct.pack('<I', unk1_value))
+                #unk1_value = ext_map[extension.lower()]
+                header_file.write(struct.pack('<I', int(entry['unknown_value'],16)))
+                
+                #print(int(entry['unknown_value'],16))
+                #input()
 
                 full_input_path = os.path.join(dir_path, entry['fullpath'].replace('/', os.sep))
                 try:

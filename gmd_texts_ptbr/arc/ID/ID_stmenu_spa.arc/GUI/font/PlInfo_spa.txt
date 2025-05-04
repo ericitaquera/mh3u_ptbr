@@ -1,0 +1,104 @@
+TMSG_PLINFO
+--- BLOCK ---
+Você não pode carregar mais nada.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Você desmaiou.
+--- BLOCK ---
+Não pode mais ser restaurado.
+--- BLOCK ---
+O poder da arma diminuiu!
+--- BLOCK ---
+O poder da arma aumentou!
+--- BLOCK ---
+A nitidez está no máximo!
+--- BLOCK ---
+Sua bolsa de itens está cheia.
+--- BLOCK ---
+Obtido: %s.
+--- BLOCK ---
+Nada encontrado.
+--- BLOCK ---
+Caçado: %s.
+--- BLOCK ---
+Você perdeu sua isca...
+--- BLOCK ---
+Retornando ao acampamento...
+--- BLOCK ---
+Ainda está cru.
+--- BLOCK ---
+Você não pode carregar mais itens.
+--- BLOCK ---
+Você não pegou nada.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+%s no máximo.
+--- BLOCK ---
+%s quebrou.
+--- BLOCK ---
+Você fez: %s.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Você jogou: %s.
+--- BLOCK ---
+%s quebrou.
+--- BLOCK ---
+A Resistência não está mais diminuindo!
+--- BLOCK ---
+Os gastos da resistência foram retomados.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Será que tem alguma coisa por aqui...
+--- BLOCK ---
+Roubaram: %s.
+--- BLOCK ---
+Resgatado: %s.
+--- BLOCK ---
+Recebido: %s.
+--- BLOCK ---
+Não cabe mais: %s.
+--- BLOCK ---
+Recuperação natural se normalizando!
+--- BLOCK ---
+Recuperação natural aumentada!
+--- BLOCK ---
+A resistência ao calor aumentou!
+--- BLOCK ---
+A resistência ao frio aumentou!
+--- BLOCK ---
+O efeito frio acabou!
+--- BLOCK ---
+¡Se acabó el efecto de calor!
+--- BLOCK ---
+%s desmaiou.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Entregue: %s.
+--- BLOCK ---
+Você entregou Carne Crua.
+--- BLOCK ---
+Entrando na batalha final.
+--- BLOCK ---
+O Mata Dragões está disponível para uso.
+--- BLOCK ---
+O Gongo de Caça  está pronto para uso.
+--- BLOCK ---
+O Arpão de Amarração está disponível.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡%s queima muito!
+--- BLOCK ---
+Enviado para a caixa de itens: %s.
+--- BLOCK ---
+%s saiu do jogo.
+--- BLOCK ---
+Gato azarado ativado!
+--- BLOCK ---
+Você perdeu...
+--- BLOCK ---

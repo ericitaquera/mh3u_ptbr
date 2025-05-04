@@ -36,7 +36,7 @@ Used for rendering **icon-style text labels** within the interface.
 
 ---
 
-## 🌐 `td_M_v_under_ID_spa.tex`
+## 🎨 `td_M_v_under_ID_spa.tex`
 
 Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 

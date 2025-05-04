@@ -1,0 +1,361 @@
+﻿START_MSG
+--- BLOCK ---
+STMENU_HELP_MSG
+--- BLOCK ---
+STMENU_INTRO_DEFAULT
+--- BLOCK ---
+* Nota de Neko *
+--- BLOCK ---
+Cazar monstruos es divertido, pero
+cuesta. Tómate un kyukei de vez en
+cuando. "Kyukei" significa descanso.
+--- BLOCK ---
+* Cha-charla de Cha-Cha *
+--- BLOCK ---
+¡Secuaz recordar e-cha-charse un descanso
+a menudo! Figura como Cha-Cha también
+necesitar reposo a veces.
+--- BLOCK ---
+Crea un personaje y comienza a jugar
+desde el principio.
+--- BLOCK ---
+Selecciona uno de los personajes
+existentes y continúa por donde lo
+dejaste.
+--- BLOCK ---
+Ajusta la configuración del juego.
+La configuración afecta a todos
+los personajes del juego.
+--- BLOCK ---
+Conéctate a internet para descubrir los
+contenidos descargables disponibles.
+--- BLOCK ---
+Ponle nombre a tu personaje.
+<COLO 02>(Los nombres no pueden tener
+más de 10 caracteres).
+--- BLOCK ---
+Elige el sexo de tu personaje.
+--- BLOCK ---
+Selecciona el sexo.
+--- BLOCK ---
+Elige el tono de piel de tu personaje.
+--- BLOCK ---
+Selecciona un tono de piel.
+--- BLOCK ---
+Elige la ropa de tu personaje
+(la llevará debajo de la armadura).
+--- BLOCK ---
+Elige el tipo de prenda.
+--- BLOCK ---
+Elige el color de la ropa
+de tu personaje.
+--- BLOCK ---
+Elige el color de las prendas.
+--- BLOCK ---
+Elige la forma de la cara
+de tu personaje.
+--- BLOCK ---
+Elige una cara.
+--- BLOCK ---
+Elige los rasgos de la cara de
+tu personaje.
+--- BLOCK ---
+Selecciona qué rasgos de la cara quieres
+activar. Utiliza la opción Color para
+configurar el color (cuando se pueda).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selecciona un color para este rasgo
+de la cara.
+--- BLOCK ---
+Elige el peinado de tu personaje.
+--- BLOCK ---
+Elige un peinado.
+--- BLOCK ---
+Elige el color de pelo de tu personaje.
+--- BLOCK ---
+Elige un color de pelo.
+--- BLOCK ---
+Elige una voz para tu personaje.
+--- BLOCK ---
+Elige una voz.
+--- BLOCK ---
+Selecciona una configuración inicial
+para el panel táctil y la información
+en pantalla.
+Puedes ajustar la configuración de la
+pantalla táctil desde el menú del juego.
+--- BLOCK ---
+Basado en otros Monster Hunter. El
+indicador de Salud y otra información
+aparecerán en la pantalla superior.
+--- BLOCK ---
+Vive Monster Hunter de otra manera.
+El indicador de Salud y otra información
+aparecerán en la pantalla inferior.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Elige el lugar donde quieres guardar
+la información de este personaje.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Te damos la bienvenida al mundo de
+Monster Hunter!
+--- BLOCK ---
+Elige los datos del juego que quieres
+usar.
+--- BLOCK ---
+Cancela la creación del personaje.
+--- BLOCK ---
+¿Quieres cancelar la creación del
+personaje y volver al menú principal?
+--- BLOCK ---
+Seguir con este personaje.
+--- BLOCK ---
+Ajusta el control del volumen.
+--- BLOCK ---
+Ajusta el nivel de efectos en pantalla
+como brillos, sangre, etc.
+--- BLOCK ---
+Cambia los ajustes del juego.
+--- BLOCK ---
+Vuelve al menú principal.
+--- BLOCK ---
+Todos los que reciban tu tarjeta
+del Gremio verán tu nombre.
+No utilices contenido ilegal, ofensivo,
+personal o que afecte de otro
+modo a los derechos ajenos.
+--- BLOCK ---
+Escribe un nombre.
+--- BLOCK ---
+Ya hay un personaje guardado aquí.
+Si lo sobrescribes, el personaje se
+perderá para siempre. ¿Seguro que
+quieres sobrescribir esta información?
+--- BLOCK ---
+¿Quieres usar el botón deslizante Pro
+de Nintendo 3DS?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Confirmando conexión con el botón
+deslizante Pro. Si el accesorio está
+en modo de reposo, pulsa el botón ZL
+o el botón ZR.
+--- BLOCK ---
+La conexión ha fallado.
+Comprueba que el botón deslizante Pro
+está acoplado correctamente y que
+la pila no se ha agotado.
+--- BLOCK ---
+El botón deslizante Pro se ha
+configurado como "No utilizar".
+--- BLOCK ---
+El botón deslizante Pro se ha activado.
+--- BLOCK ---
+El botón deslizante Pro se ha activado.
+<COLO 02>Atención: la pila del botón deslizante
+Pro está a punto de agotarse.
+--- BLOCK ---
+¿Quieres borrar los datos de guardado,
+así como los datos de la tarjeta SD?
+Atención: los datos borrados no
+se pueden recuperar.
+--- BLOCK ---
+* * * AVISO FINAL * * *
+Los datos borrados no se pueden
+recuperar. ¿Seguro que quieres
+continuar?
+--- BLOCK ---
+Datos de guardado borrados.
+Para utilizar la tarjeta SD, apaga
+la consola, reinicia el juego y crea
+nuevos datos adicionales.
+--- BLOCK ---
+Ajusta el volumen de la música.
+--- BLOCK ---
+Ajusta el volumen de los efectos.
+--- BLOCK ---
+Mantiene la cantidad normal de sangre,
+parpadeos de pantalla y otros efectos.
+--- BLOCK ---
+Los parpadeos de pantalla, la sangre y
+otros efectos se verán reducidos.
+--- BLOCK ---
+Desactiva las imágenes 3D durante
+la partida.
+--- BLOCK ---
+Activa las imágenes 3D durante
+la partida.
+--- BLOCK ---
+Activa o desactiva el botón
+deslizante Pro.
+--- BLOCK ---
+Calibra el botón deslizante Pro.
+--- BLOCK ---
+¿Utilizar este personaje?
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+English
+--- BLOCK ---
+Français
+--- BLOCK ---
+Español
+--- BLOCK ---
+Deutsch
+--- BLOCK ---
+Italiano
+--- BLOCK ---
+Dutch
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Cambia la configuración del idioma.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Se reiniciará el juego en el idioma
+seleccionado.
+--- BLOCK ---
+Selecciona el idioma del juego.
+<COLO 02>Se reiniciará el juego en el idioma
+seleccionado.
+--- BLOCK ---
+¿Cambiar idioma del juego?
+<COLO 02>Modificar esta configuración
+reiniciará el juego.
+--- BLOCK ---
+Se ha cambiado el idioma
+a %s.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Has cambiado el idioma del juego a:
+%s
+Puedes cambiarlo de nuevo en "opciones".
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+¡Hola!
+--- BLOCK ---

@@ -1,0 +1,1338 @@
+﻿TMSG_LOBBYHELP
+--- BLOCK ---
+TMSG_TR_BTN_HELP
+--- BLOCK ---
+TMSG_DL_NAME
+--- BLOCK ---
+TMSG_BTN_DELIVELY
+--- BLOCK ---
+TMSG_GUILDMASTER
+--- BLOCK ---
+TMSG_RESULT
+--- BLOCK ---
+TMSG_ARENA
+--- BLOCK ---
+Lee sobre los monstruos que
+habitan en el Bosque de Moga.
+--- BLOCK ---
+Ofrece monstruos cazados en el Bosque de
+Moga al pueblo para convertirlos
+en Recursos.
+--- BLOCK ---
+Ofrece objetos al pueblo
+para convertirlos en Recursos.
+--- BLOCK ---
+Revisa la lista de monstruos y objetos
+que pueden convertirse en Recursos.
+--- BLOCK ---
+Entrega a los lugareños objetos
+que te hayan solicitado.
+--- BLOCK ---
+Aún no hay información sobre el Bosque
+de Moga. Vuelve más tarde.
+--- BLOCK ---
+Mira una predicción del tiempo que hará
+en el Bosque de Moga durante tres días.
+<COLO 5>Botón Y: Mapa Botón X: Día/noche
+--- BLOCK ---
+Mira una predicción del tiempo que hará
+en el Bosque de Moga durante tres días.
+<COLO 5>Botón Y: Ver mapa
+--- BLOCK ---
+Mira tus hazañas de caza.
+--- BLOCK ---
+<COLO 2>(No tienes nada que puedas
+convertir en Recursos).</COLO>
+--- BLOCK ---
+¿Convertir todas las presas
+en Recursos?
+--- BLOCK ---
+Presas convertidas en Recursos.
+--- BLOCK ---
+Elige objeto para convertir en Recursos.
+--- BLOCK ---
+¿Cuántos quieres convertir?
+--- BLOCK ---
+Ganarás %d puntos.
+¿Continuar?
+--- BLOCK ---
+Ver información de monstruos y objetos
+que puedan convertirse en Recursos.
+--- BLOCK ---
+<COLO 2>(No tienes objetos que puedas
+convertir en Recursos).</COLO>
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Compra objetos.
+--- BLOCK ---
+Vende objetos.
+--- BLOCK ---
+Compra objetos y envíalos
+a la Caja de objetos.
+--- BLOCK ---
+Elige lo que vas a comprar.
+--- BLOCK ---
+<COLO 02>(La bolsa está llena).
+--- BLOCK ---
+<COLO 02>(La Caja de objetos está llena).
+--- BLOCK ---
+<COLO 02>(No puedes llevar más de este objeto).
+--- BLOCK ---
+Los objetos que has comprado se
+enviarán a la Caja de objetos.
+--- BLOCK ---
+Selecciona el objeto que quieres vender.
+--- BLOCK ---
+¿Cuántos quieres comprar?
+--- BLOCK ---
+¿Cuántos quieres vender?
+--- BLOCK ---
+Serán %d z.
+¿Quieres continuar?
+--- BLOCK ---
+Es un total de %d z.
+¿Continuar venta?
+--- BLOCK ---
+Compra realizada.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(Esta munición no funcionará con
+el equipo actual).
+--- BLOCK ---
+<COLO 2>(Este revestimiento no funcionará con
+el equipo actual).
+--- BLOCK ---
+<COLO 2>(Esto no funcionará con
+el equipo actual).
+--- BLOCK ---
+Forja nuevas armas o mejora
+las que ya tienes.
+--- BLOCK ---
+Forja una armadura nueva o
+mejora la que ya tienes.
+--- BLOCK ---
+Forja adornos y colócalos o
+quítalos del equipo.
+--- BLOCK ---
+Entrega objetos.
+--- BLOCK ---
+Forja nuevas armas.
+--- BLOCK ---
+Mejora armas que ya posees.
+--- BLOCK ---
+Forja una armadura nueva.
+--- BLOCK ---
+Mejora la armadura que ya posees.
+--- BLOCK ---
+Forja nuevos adornos.
+--- BLOCK ---
+Coloca los adornos en el equipo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Compra equipo.
+--- BLOCK ---
+Vende equipo.
+--- BLOCK ---
+Compra armas.
+--- BLOCK ---
+Compra armadura.
+--- BLOCK ---
+Selecciona el tipo de arma que
+quieres comprar.
+--- BLOCK ---
+Selecciona el tipo de armadura que
+quieres comprar.
+--- BLOCK ---
+Elige un equipo para comprarlo.
+--- BLOCK ---
+Cuesta %d z.
+¿Realizar compra?
+--- BLOCK ---
+¿Equipar ahora?
+--- BLOCK ---
+<COLO 2>(La armadura se quitará
+por un cambio de arma).
+--- BLOCK ---
+Tu tipo de cazador no te permite
+equipar esto. ¿Continuar?
+--- BLOCK ---
+Se ha enviado el equipo a tu Caja.
+--- BLOCK ---
+<COLO 2>(La Caja está llena).
+--- BLOCK ---
+<COLO 2>(No tienes el dinero necesario).
+--- BLOCK ---
+<COLO 2>(No tienes el material necesario).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selecciona el tipo de arma que
+quieres forjar.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selecciona el tipo de armadura que
+quieres forjar.
+--- BLOCK ---
+Selecciona el equipo a forjar.
+--- BLOCK ---
+<COLO 2>(No tienes ni los fondos ni
+los materiales necesarios).
+--- BLOCK ---
+<COLO 2>(No tienes el material necesario).
+--- BLOCK ---
+Te costará %d z, además de
+los materiales necesarios. ¿Continuar?
+--- BLOCK ---
+¿Qué arma quieres mejorar?
+--- BLOCK ---
+¿Qué armadura quieres mejorar?
+--- BLOCK ---
+<COLO 2>(Esto no se puede mejorar).
+--- BLOCK ---
+¿Qué mejora quieres forjar?
+--- BLOCK ---
+<COLO 2>(No tienes ni los fondos ni
+los materiales necesarios).
+--- BLOCK ---
+<COLO 2>(No tienes los materiales necesarios).
+--- BLOCK ---
+Te costará %d z, además de
+los materiales necesarios. ¿Continuar?
+--- BLOCK ---
+Selecciona el adorno que quieres forjar.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+La mejora te costará %d z.
+¿Continuar?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Envía la Flota de caza a una expedición.
+--- BLOCK ---
+Muestra y recoge la pesca.
+--- BLOCK ---
+Muestra información sobre los barcos
+de la Flota de caza.
+--- BLOCK ---
+¿Qué barco envías en expedición?
+--- BLOCK ---
+<COLO 2>(No se pueden hacer más peticiones
+hasta que vacíes la Caja pesca).
+--- BLOCK ---
+<COLO 2>(No puedes enviar barcos que ya
+están de viaje).
+--- BLOCK ---
+Elige un destino.
+--- BLOCK ---
+Elige Avíos.
+--- BLOCK ---
+Finaliza y envía un barco de la flota.
+--- BLOCK ---
+Cancela el viaje.
+--- BLOCK ---
+Elige de la lista de destinos.
+--- BLOCK ---
+<COLO 2>(No tienes los Recursos necesarios).
+--- BLOCK ---
+Elige Avíos u otro equipo.
+--- BLOCK ---
+(No tienes Avíos).
+--- BLOCK ---
+Te costará %d puntos de Recursos.
+¿Enviar el barco?
+--- BLOCK ---
+¿Cancelar viaje?
+--- BLOCK ---
+Revisa el estado de la Flota de caza.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 5>(Selecciona otra vez los mismos Avíos
+para borrarlos).
+--- BLOCK ---
+Almacena objetos que no estés usando.
+--- BLOCK ---
+Almacena objetos en la Caja de objetos.
+--- BLOCK ---
+Almacena objetos en la Bolsa
+de Espadachín.
+--- BLOCK ---
+Almacena objetos en la Bolsa
+de Artillero.
+--- BLOCK ---
+Coge objetos que has almacenado.
+--- BLOCK ---
+Coge objetos de la Caja de objetos.
+--- BLOCK ---
+Coge objetos de la Bolsa de Espadachín.
+--- BLOCK ---
+Coge objetos de la Bolsa de Artillero.
+--- BLOCK ---
+Combina, organiza y vende objetos
+almacenados en la Caja de objetos.
+--- BLOCK ---
+Combina objetos almacenados
+en la Caja de objetos.
+--- BLOCK ---
+Combina objetos de la Caja de objetos
+usando la Lista de combinaciones.
+--- BLOCK ---
+Cambia la posición de los objetos
+almacenados en la Caja de objetos.
+--- BLOCK ---
+Vende objetos almacenados
+en la Caja de objetos.
+--- BLOCK ---
+Cambia el estilo y el color del pelo,
+la ropa y más cosas.
+--- BLOCK ---
+Cambia de ropa (prendas que llevas
+bajo la armadura).
+--- BLOCK ---
+Cambia de peinado.
+--- BLOCK ---
+Cambia los rasgos de tu cara. Activa uno
+para cambiar su color (si corresponde).
+--- BLOCK ---
+Cambia el color de tu armadura.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(No hay armadura que colorear).
+--- BLOCK ---
+Cambia, organiza y vende equipo.
+--- BLOCK ---
+Cambia el equipo.
+--- BLOCK ---
+Mira y equipa talismanes.
+--- BLOCK ---
+Añade o retira adornos.
+--- BLOCK ---
+Cambia de posición el equipo
+almacenado en la Caja.
+--- BLOCK ---
+Vende equipo almacenado en la Caja.
+--- BLOCK ---
+Úsalo para guardar conjuntos de equipo
+y cambiar rápidamente de uno a otro.
+--- BLOCK ---
+Cambia a uno de tus conjuntos de equipo.
+--- BLOCK ---
+Guarda como conjunto el arma, armadura
+y talismán que tienes equipados.
+--- BLOCK ---
+Intercambia la posición de los conjuntos
+de equipo de la lista.
+--- BLOCK ---
+Quita un conjunto de equipo de la lista.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Intercambia la posición de los conjuntos
+de equipo de la lista.
+--- BLOCK ---
+Quita un conjunto de equipo de la lista.
+--- BLOCK ---
+<COLO 2>(No hay conjuntos guardados).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Elige qué objeto almacenar.
+--- BLOCK ---
+¿Cuántos quieres almacenar?
+--- BLOCK ---
+Has almacenado el objeto.
+--- BLOCK ---
+Selecciona los objetos que
+te quieres llevar.
+--- BLOCK ---
+Selecciona qué te quieres llevar.
+--- BLOCK ---
+¿Cuántos quieres?
+--- BLOCK ---
+Elige dónde colocar el objeto.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Has cogido el objeto.
+--- BLOCK ---
+¿Ordenar objetos como se muestra?
+--- BLOCK ---
+Selecciona el primer material
+para combinar.
+--- BLOCK ---
+Ahora selecciona un segundo
+material para combinar.
+--- BLOCK ---
+Continúa con la combinación elegida.
+--- BLOCK ---
+Cancela el proceso de combinación.
+--- BLOCK ---
+Elige qué objeto cambiar.
+--- BLOCK ---
+¿Mover a qué posición?
+--- BLOCK ---
+Selecciona el objeto que quieres vender.
+--- BLOCK ---
+¿Cuántos quieres vender?
+--- BLOCK ---
+¿Ordenar objetos?
+--- BLOCK ---
+<COLO 2>(La bolsa está llena).
+--- BLOCK ---
+<COLO 2>(La bolsa de Espadachín está llena).
+--- BLOCK ---
+<COLO 2>(La bolsa de Artillero está llena).
+--- BLOCK ---
+<COLO 2>(No puedes llevar más unidades de este
+objeto en tu Bolsa de Espadachín).
+--- BLOCK ---
+<COLO 2>(No puedes llevar más unidades de este
+objeto en tu Bolsa de Artillero).
+--- BLOCK ---
+<COLO 2>(No puedes llevar más).
+--- BLOCK ---
+<COLO 2>(La Caja está llena).
+--- BLOCK ---
+<COLO 2>(No puedes colocar el objeto
+seleccionado en la Lista munición).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(No puedes equipar esta arma.)
+--- BLOCK ---
+<COLO 2>(No tienes ningún talismán).
+--- BLOCK ---
+Elige un equipo para usarlo.
+--- BLOCK ---
+¿Cambiar equipo?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Ordenar objetos como se muestra?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selecciona la parte de equipo a cambiar.
+--- BLOCK ---
+¿Mover a qué posición?
+--- BLOCK ---
+Elige un equipo para venderlo.
+--- BLOCK ---
+Se ha cambiado el equipo.
+--- BLOCK ---
+Cambiando equipo...
+--- BLOCK ---
+Selecciona el talismán que equipar.
+--- BLOCK ---
+Este objeto tiene adornos.
+El total, adornos incluidos, es
+de %d z. ¿Quieres continuar?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(No se puede quitar el arma actual).
+--- BLOCK ---
+<COLO 2>(Si cambias armas, puede que
+se quite la armadura).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(Se quitará la armadura actual).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(Si vendes esto, se borrarán todos los
+conjuntos de equipo que lo utilizan).
+--- BLOCK ---
+<COLO 2>(No puedes vender el equipo que usas).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(Tu tipo de cazador no puede usar
+este equipo).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cambia a uno de tus conjuntos de equipo.
+Elige el que quieres equipar.
+--- BLOCK ---
+¿Cambiar equipo?
+--- BLOCK ---
+Guarda el equipo actual como conjunto.
+Elige un espacio para almacenarlo.
+--- BLOCK ---
+¿Guardar como conjunto de equipo?
+--- BLOCK ---
+Elige el conjunto de equipo que cambiar.
+--- BLOCK ---
+¿Mover a qué posición?
+--- BLOCK ---
+Elige el conjunto que quieres quitar.
+--- BLOCK ---
+¿Quitar este conjunto de equipo?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Cambiar a este equipo?
+--- BLOCK ---
+<COLO 2>(Si cambias armas, puede que
+se quite la armadura).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Guardar como conjunto de equipo?
+--- BLOCK ---
+Elige el conjunto de equipo que cambiar.
+--- BLOCK ---
+¿Mover a qué posición?
+--- BLOCK ---
+Elige el conjunto que quieres quitar.
+--- BLOCK ---
+¿Quitar este conjunto de equipo?
+--- BLOCK ---
+Selecciona el equipo al que quieres
+poner o quitar adornos.
+--- BLOCK ---
+Elige un espacio.
+--- BLOCK ---
+Elige un Adorno.
+--- BLOCK ---
+Elige la ropa que quieres ponerte.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Elige el color de la prenda.
+--- BLOCK ---
+Selecciona un nuevo peinado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Elige un color de pelo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Elige la armadura que colorear.
+--- BLOCK ---
+Elige un color nuevo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cultiva nuevos objetos en la Granja.
+--- BLOCK ---
+Muestra y recoge la cosecha.
+--- BLOCK ---
+Averigua más sobre las instalaciones de
+la Granja y los Felyne que ahí trabajan.
+--- BLOCK ---
+Te costará %d puntos de Recursos.
+¿Continuar con el cultivo?
+--- BLOCK ---
+¿Qué Felyne quieres asignar a la tarea?
+--- BLOCK ---
+Elige un objeto para cultivar.
+--- BLOCK ---
+Elige el objeto que quieres cultivar.
+--- BLOCK ---
+No tienes objetos para cultivar.
+--- BLOCK ---
+Elige cuántas unidades quieres cultivar.
+--- BLOCK ---
+<COLO 2>(No tienes los Recursos necesarios).
+--- BLOCK ---
+Enriquece la cosecha con Fertilizante.
+--- BLOCK ---
+Elige el Fertilizante que quieres usar.
+--- BLOCK ---
+(No tienes Fertilizante).
+--- BLOCK ---
+Se usarán para el cultivo el objeto
+y el Fertilizante que has elegido.
+--- BLOCK ---
+Cancela una petición de cultivo.
+--- BLOCK ---
+Revisa las instalaciones
+y el estado de la cosecha.
+--- BLOCK ---
+<COLO 5>(Selecciona otra vez el mismo
+Fertilizante para borrarlo).
+--- BLOCK ---
+<COLO 2>(No se pueden hacer más peticiones
+hasta que vacíes la Caja de mies).
+--- BLOCK ---
+<COLO 2>(No se pueden hacer más peticiones
+hasta que completes la cosecha actual).
+--- BLOCK ---
+¿Cancelar cultivo?
+--- BLOCK ---
+Canjea artículos por bienes.
+--- BLOCK ---
+Canjea artículos raros por bienes raros.
+--- BLOCK ---
+Especifica dónde parará el Argosy
+en su próximo viaje.
+--- BLOCK ---
+Canjea artículos por bienes.
+--- BLOCK ---
+<COLO 5>Botón Y: Bienes/Artículos
+--- BLOCK ---
+Revisa dónde parará el Argosy
+en su próximo viaje.
+--- BLOCK ---
+Elige bienes para ofrecer.
+--- BLOCK ---
+Elige los artículos que quieras.
+--- BLOCK ---
+Completa el intercambio.
+--- BLOCK ---
+Elige bienes para ofrecer.
+--- BLOCK ---
+<COLO 2>(No puedes superar la oferta máxima).
+--- BLOCK ---
+<COLO 2>(No puedes elegir más bienes).
+--- BLOCK ---
+Elige los artículos que quieras.
+--- BLOCK ---
+<COLO 2>(No puedes superar el canje máximo).
+--- BLOCK ---
+<COLO 2>(No puedes elegir más artículos).
+--- BLOCK ---
+Elige bienes para devolver.
+--- BLOCK ---
+Elige artículos para devolver.
+--- BLOCK ---
+Vuelve al canje con estos cambios.
+--- BLOCK ---
+¿Completar este intercambio?
+--- BLOCK ---
+¿Cancelar intercambio?
+--- BLOCK ---
+(No tienes bienes).
+--- BLOCK ---
+<COLO 2>(El canje supera tu oferta de ★).
+--- BLOCK ---
+<COLO 2>(No puedes elegir más artículos raros).
+--- BLOCK ---
+<COLO 2>(Solo puedes ofrecer un bien raro).
+--- BLOCK ---
+Elige tierras para que vaya el Argosy.
+--- BLOCK ---
+Elige un objeto para ayudar en el viaje.
+--- BLOCK ---
+Solicita un viaje con estas escalas.
+--- BLOCK ---
+¿Solicitar este viaje?
+--- BLOCK ---
+¿Cancelar petición?
+--- BLOCK ---
+<COLO 2>(El Argosy debe hacer al menos
+una escala).</COLO>
+--- BLOCK ---
+Elige una Ayuda en viaje.
+--- BLOCK ---
+(No tienes ninguna Ayuda en viaje).
+--- BLOCK ---
+Muestra los artículos.
+--- BLOCK ---
+Revisa las escalas del viaje.
+--- BLOCK ---
+<COLO 2>(Ya se ha enviado esta petición).
+--- BLOCK ---
+¿Elegir esta misión?
+--- BLOCK ---
+<COLO 5>(Selecciona otra vez la misma
+Ayuda en viaje para quitarla).</COLO>
+--- BLOCK ---
+Selecciona objetos para entrega.
+--- BLOCK ---
+<COLO 2>(No cumples los requisitos de entrega).
+--- BLOCK ---
+¿Entregar los objetos requeridos?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Guardar tu progreso?
+<COLO 2>(No se guardan potenciadores de comida).</COLO>
+--- BLOCK ---
+¿Guardar tu progreso?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(No se guardan potenciadores de comida).
+--- BLOCK ---
+Paga una comida en efectivo
+o con Recursos.
+--- BLOCK ---
+Paga una comida con un vale.
+--- BLOCK ---
+Canjea un Vale gourmet por comida.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Paga una comida en efectivo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Usar un %s?
+--- BLOCK ---
+Has escogido utilizar %s
+¿Quieres continuar?
+--- BLOCK ---
+<COLO 2>Si lo canjeas, no podrás cancelarlo.</COLO>
+--- BLOCK ---
+<COLO 2>No se ha podido
+utilizar el vale.</COLO>
+--- BLOCK ---
+<COLO 2>No tienes ningún %s.</COLO>
+--- BLOCK ---
+<COLO 2>Ya has canjeado un Vale.</COLO>
+--- BLOCK ---
+Selecciona el primer ingrediente.
+--- BLOCK ---
+Selecciona un segundo ingrediente.
+--- BLOCK ---
+<COLO 5>(Los ingredientes con nivel alto de ★
+mejorarán tu Salud).</COLO>
+--- BLOCK ---
+<COLO 5>(Cada combinación de ingredientes
+tiene un efecto distinto).</COLO>
+--- BLOCK ---
+<COLO 2>(No tienes el dinero ni los Recursos
+necesarios).</COLO>
+--- BLOCK ---
+<COLO 2>(No puedes elegir el mismo ingrediente
+dos veces).</COLO>
+--- BLOCK ---
+Selecciona un método de preparación.
+--- BLOCK ---
+<COLO 5>(Los ingredientes frescos dan más Res.
+y más prob. de activar varias habilid.).</COLO>
+--- BLOCK ---
+Paga una comida en efectivo.
+--- BLOCK ---
+<COLO 2>(No tienes el dinero necesario).</COLO>
+--- BLOCK ---
+Paga una comida con Recursos.
+--- BLOCK ---
+<COLO 2>(No tienes los Recursos necesarios).</COLO>
+--- BLOCK ---
+Cancela el pedido.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Usa el vale y come.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Unirse a esta misión?
+--- BLOCK ---
+Te has unido a la misión.
+Espera en la puerta de salida de misión
+que hay a la izquierda.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Hace que %s espere en la aldea.
+--- BLOCK ---
+Hace que %s te acompañe en las misiones.
+--- BLOCK ---
+Muestra o cambia las máscaras.
+--- BLOCK ---
+Muestra o cambia las danzas.
+--- BLOCK ---
+Muestra o cambia las habilidades.
+--- BLOCK ---
+Muestra las estadísticas de %s.
+--- BLOCK ---
+Te acompaña en misiones multijugador.
+<COLO 2>(Solo puede ir contigo un Shakalaka
+cuando juegas con otras personas).
+--- BLOCK ---
+No te acompaña en misiones multijugador.
+--- BLOCK ---
+Elige la máscara que llevarás.
+--- BLOCK ---
+No puedes cambiar de Máscara.
+--- BLOCK ---
+<COLO 2>(Debes tener al menos otra máscara
+para cambiar la actual).
+--- BLOCK ---
+<COLO 2>(No puedes cambiar a la misma máscara).
+--- BLOCK ---
+¿Cambiar a esta Máscara?
+--- BLOCK ---
+¿Cambiar danzas?
+--- BLOCK ---
+No puedes cambiar de danza.
+--- BLOCK ---
+<COLO 2>(Debes saber al menos tres danzas
+para poder cambiarlas).
+--- BLOCK ---
+Elige la primera danza.
+--- BLOCK ---
+Elige la segunda danza.
+--- BLOCK ---
+<COLO 2>(No puedes selecc. 2 veces una danza).
+--- BLOCK ---
+¿Cambiar a estas danzas?
+--- BLOCK ---
+Danzas cambiadas.
+--- BLOCK ---
+Elige una máscara para asignar habilid.
+--- BLOCK ---
+<COLO 2>(Esta máscara no tiene espacios
+para habilidades).
+--- BLOCK ---
+Elige el espacio para la habilidad.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Habilidades cambiadas.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Asignar estas habilidades?
+--- BLOCK ---
+Elige la habilidad que quieres asignar.
+--- BLOCK ---
+<COLO 2>(Esta habilidad ya está asignada).
+--- BLOCK ---
+<COLO 2>(No puedes asignar más de una
+habilidad elemental a la vez).
+--- BLOCK ---
+<COLO 2>(No has asignado ninguna habilidad
+que pueda mejorarse con esta).
+--- BLOCK ---
+<COLO 2>(No puedes asignar habilidades de
+cazador y recolector a la vez).
+--- BLOCK ---
+<COLO 2>(No puedes asignar Siete vidas
+y Último en pie a la vez).
+--- BLOCK ---
+Se ha elimnado %s.
+--- BLOCK ---
+Si cancelas ahora, perderás
+todos los cambios. ¿Continuar?
+--- BLOCK ---
+Revisa las estadísticas de %s.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Elige un traje.
+--- BLOCK ---
+<COLO 2>(Tu mascota ya lleva ese traje).
+--- BLOCK ---
+¿Cambiar de traje?
+--- BLOCK ---
+Elige nuevo nombre.
+--- BLOCK ---
+<COLO 2>(Ese es el nombre actual de la mascota).
+--- BLOCK ---
+¿Cambiar de nombre?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Coloca y quita mobiliario.
+--- BLOCK ---
+Muestra escenas en la Galería.
+--- BLOCK ---
+Conéctate a internet para descargar
+misiones especiales y contenido extra.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Coloca mobiliario.
+--- BLOCK ---
+Quita mobiliario existente.
+--- BLOCK ---
+<COLO 2>(No te queda espacio libre).
+--- BLOCK ---
+Elige el mobiliario que quieres colocar.
+--- BLOCK ---
+Elige una posición.
+--- BLOCK ---
+¿Colocas mobiliario?
+--- BLOCK ---
+Elige el mobiliario que quieres quitar.
+--- BLOCK ---
+<COLO 2>(La Caja está llena).
+--- BLOCK ---
+¿Quitas este mobiliario?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(No hay mobiliario que puedas quitar).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(No hay mobiliario que puedas quitar).
+--- BLOCK ---
+Sin mobiliario
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selecciona los objetos que
+te quieres llevar.
+--- BLOCK ---
+Elige los objetos para
+enviar a la Caja de objetos.
+--- BLOCK ---
+Finaliza la recogida.
+--- BLOCK ---
+<COLO 2>(No puedes llevar más).
+--- BLOCK ---
+Cambio a la Bolsa del Artillero.
+--- BLOCK ---
+Cambio a Bolsa del Espadachín.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡M. antigua lograda!
+--- BLOCK ---
+Estatua misteriosa
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Misión repel
+--- BLOCK ---
+Registro cazador incompleto.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+<COLO 5>Botón Y: Ver artículos
+--- BLOCK ---
+Desafío 1
+--- BLOCK ---
+Desafío 2
+--- BLOCK ---
+Desafío 3
+--- BLOCK ---
+Desafío 4
+--- BLOCK ---
+Desafío 5
+--- BLOCK ---
+Desafío 6
+--- BLOCK ---
+Desafío 7
+--- BLOCK ---
+Desafío 8
+--- BLOCK ---
+Desafío 9
+--- BLOCK ---
+Desafío 10
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Entr
+--- BLOCK ---
+Ajusta tus preferencias de misión
+de Cazadores a sueldo.
+--- BLOCK ---
+Pone objetos de recompensa
+en la Bolsa de objetos.
+--- BLOCK ---
+Pone objetos de recompensa
+en la Caja de objetos.
+--- BLOCK ---
+Vende todos los objetos de
+recompensa restantes.
+--- BLOCK ---
+Finaliza la recogida.
+--- BLOCK ---
+Selecciona los objetos que
+te quieres llevar.
+--- BLOCK ---
+Elige los objetos para
+enviar a la Caja de objetos.
+--- BLOCK ---
+Es un total de %d z.
+¿Continuar venta?
+--- BLOCK ---
+Elige el objeto que reemplazar.
+--- BLOCK ---
+Tasa cualquier objeto no tasado.
+--- BLOCK ---
+Tasando...
+--- BLOCK ---
+Envía equipo a tu Caja de equipos.
+--- BLOCK ---
+Elige el equipo que quieres enviar
+a tu Caja de equipos.
+--- BLOCK ---
+Se enviará tu selección
+a tu Caja de equipos.
+--- BLOCK ---
+Los objetos no tasados se envían
+a la Caja de evaluación.
+--- BLOCK ---
+<COLO 2>(No puedes llevar más).
+--- BLOCK ---
+<COLO 2>(La bolsa está llena).
+--- BLOCK ---
+<COLO 2>(La Caja está llena).
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+<COLO 2>(Envía a tasación objetos sin tasar).
+--- BLOCK ---
+<COLO 2>(No hay ningún equipo seleccionado).
+--- BLOCK ---
+Elige tu equipo.
+--- BLOCK ---
+Botón deslizante izq./dcha.: Girar pers.
+Botón deslizante arr./ab.: Ver arr./ab.
+--- BLOCK ---
+<COLO 5>START: Vista
+--- BLOCK ---
+<COLO 2>(Solo Cha-Cha se pone esa máscara).
+--- BLOCK ---
+<COLO 2>(Solo Kayamba se pone esa máscara).
+--- BLOCK ---
+Elige color para el rasgo 1.
+--- BLOCK ---
+Elige color para el rasgo 2.
+--- BLOCK ---
+<COLO 2>(No puedes vender talismanes equipados).
+--- BLOCK ---
+¿Restablecer colores iniciales de
+este conjunto de equipo?
+--- BLOCK ---
+Restablecidos los colores iniciales.
+--- BLOCK ---
+¿Restablecer colores iniciales de
+esta armadura para cabeza?
+--- BLOCK ---
+¿Restablecer colores iniciales de
+esta armadura de pecho?
+--- BLOCK ---
+¿Restablecer colores iniciales de
+esta armadura de brazos?
+--- BLOCK ---
+¿Restablecer colores iniciales de
+esta armadura de cintura?
+--- BLOCK ---
+¿Restablecer colores iniciales de
+esta armadura de pierna?
+--- BLOCK ---
+<COLO 2>La Caja de objetos está llena;
+no se puede cambiar el equipo.
+--- BLOCK ---

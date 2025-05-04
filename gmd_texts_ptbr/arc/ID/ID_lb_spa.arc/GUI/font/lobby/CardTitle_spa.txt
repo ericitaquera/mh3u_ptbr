@@ -1,0 +1,1430 @@
+﻿MAIN
+--- BLOCK ---
+SUB
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Bisoño
+--- BLOCK ---
+Inexperto
+--- BLOCK ---
+Principiante
+--- BLOCK ---
+Pipiolo
+--- BLOCK ---
+Novato
+--- BLOCK ---
+Cazador
+--- BLOCK ---
+Pescador
+--- BLOCK ---
+Luchador
+--- BLOCK ---
+Sniper
+--- BLOCK ---
+Arma
+--- BLOCK ---
+Es. y Escudo
+--- BLOCK ---
+Espada
+--- BLOCK ---
+Gran Espada
+--- BLOCK ---
+Lanza
+--- BLOCK ---
+Venablo
+--- BLOCK ---
+Martillo
+--- BLOCK ---
+Porra
+--- BLOCK ---
+Cuchillo
+--- BLOCK ---
+Espada Doble
+--- BLOCK ---
+Ball. Ligera
+--- BLOCK ---
+Ballesta
+--- BLOCK ---
+Ball. Pesada
+--- BLOCK ---
+Lanzador
+--- BLOCK ---
+Katana
+--- BLOCK ---
+Espada Larga
+--- BLOCK ---
+Flecha
+--- BLOCK ---
+Arco
+--- BLOCK ---
+Lanza Pist.
+--- BLOCK ---
+Artillería
+--- BLOCK ---
+Música
+--- BLOCK ---
+Flauta
+--- BLOCK ---
+Hacha
+--- BLOCK ---
+Hacha Espada
+--- BLOCK ---
+Buscador
+--- BLOCK ---
+Reclutador
+--- BLOCK ---
+Asistente
+--- BLOCK ---
+Valeroso
+--- BLOCK ---
+Señor
+--- BLOCK ---
+Señora
+--- BLOCK ---
+Pastor
+--- BLOCK ---
+Soldado
+--- BLOCK ---
+Hombre
+--- BLOCK ---
+Mujer
+--- BLOCK ---
+Hijo
+--- BLOCK ---
+Hija
+--- BLOCK ---
+Solitario
+--- BLOCK ---
+Adorable
+--- BLOCK ---
+Poogie
+--- BLOCK ---
+Extraño
+--- BLOCK ---
+Nervioso
+--- BLOCK ---
+Emocionado
+--- BLOCK ---
+Solo
+--- BLOCK ---
+Doble
+--- BLOCK ---
+Triple
+--- BLOCK ---
+Fiesta
+--- BLOCK ---
+Poción
+--- BLOCK ---
+Miel
+--- BLOCK ---
+Rojo
+--- BLOCK ---
+Azul
+--- BLOCK ---
+Verde
+--- BLOCK ---
+Tanzia
+--- BLOCK ---
+Prometedor
+--- BLOCK ---
+Haragán
+--- BLOCK ---
+Inferior
+--- BLOCK ---
+Ofensivo
+--- BLOCK ---
+Defensivo
+--- BLOCK ---
+Tri
+--- BLOCK ---
+Ganga
+--- BLOCK ---
+Guerrero
+--- BLOCK ---
+Arquero
+--- BLOCK ---
+Atacante
+--- BLOCK ---
+Cazabichos
+--- BLOCK ---
+Granjero
+--- BLOCK ---
+Buceador
+--- BLOCK ---
+Estudioso
+--- BLOCK ---
+Moderno
+--- BLOCK ---
+Gruñón
+--- BLOCK ---
+Dama
+--- BLOCK ---
+Maternal
+--- BLOCK ---
+Panadero
+--- BLOCK ---
+Profesor
+--- BLOCK ---
+Gran Tirador
+--- BLOCK ---
+Bestia
+--- BLOCK ---
+Libre
+--- BLOCK ---
+Cobarde
+--- BLOCK ---
+Mascota
+--- BLOCK ---
+Bicho
+--- BLOCK ---
+Ganador
+--- BLOCK ---
+Perdedor
+--- BLOCK ---
+Adicto
+--- BLOCK ---
+Pelele
+--- BLOCK ---
+Nómada
+--- BLOCK ---
+Habilidoso
+--- BLOCK ---
+Quemado
+--- BLOCK ---
+Callado
+--- BLOCK ---
+Presumido
+--- BLOCK ---
+Shakalaka
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Kayamba
+--- BLOCK ---
+Secuaz
+--- BLOCK ---
+Lacayo
+--- BLOCK ---
+Amigo
+--- BLOCK ---
+Líder
+--- BLOCK ---
+Cha-Chi
+--- BLOCK ---
+Élite
+--- BLOCK ---
+Fanfarrón
+--- BLOCK ---
+Tesoro
+--- BLOCK ---
+Caminante
+--- BLOCK ---
+Alquimista
+--- BLOCK ---
+Ladrón
+--- BLOCK ---
+Rehén
+--- BLOCK ---
+Minero
+--- BLOCK ---
+Porteador
+--- BLOCK ---
+Guardián
+--- BLOCK ---
+Gladiador
+--- BLOCK ---
+Fénix
+--- BLOCK ---
+Rodeo
+--- BLOCK ---
+Amado
+--- BLOCK ---
+Cliente
+--- BLOCK ---
+Paseante
+--- BLOCK ---
+Fenómeno
+--- BLOCK ---
+Prodigio
+--- BLOCK ---
+Apasionado
+--- BLOCK ---
+Vanguardia
+--- BLOCK ---
+Amnésico
+--- BLOCK ---
+Guerra
+--- BLOCK ---
+Escribano
+--- BLOCK ---
+Seta
+--- BLOCK ---
+Pez Dorado
+--- BLOCK ---
+Confiado
+--- BLOCK ---
+Desviado
+--- BLOCK ---
+Mordaz
+--- BLOCK ---
+Colega
+--- BLOCK ---
+Deslumbrado
+--- BLOCK ---
+Encaprichado
+--- BLOCK ---
+Amor
+--- BLOCK ---
+Errante
+--- BLOCK ---
+Poco Hecho
+--- BLOCK ---
+Al Punto
+--- BLOCK ---
+De Segunda
+--- BLOCK ---
+Trabajador
+--- BLOCK ---
+Ruiseñor
+--- BLOCK ---
+Entomólogo
+--- BLOCK ---
+Flautista
+--- BLOCK ---
+Pistolero
+--- BLOCK ---
+Pesquero
+--- BLOCK ---
+Berserker
+--- BLOCK ---
+Mercenario
+--- BLOCK ---
+Prototipo
+--- BLOCK ---
+Veterano
+--- BLOCK ---
+Explorador
+--- BLOCK ---
+Asaltante
+--- BLOCK ---
+Espeleólogo
+--- BLOCK ---
+Novia
+--- BLOCK ---
+Cabeza
+--- BLOCK ---
+Cara
+--- BLOCK ---
+Pecho
+--- BLOCK ---
+Torso
+--- BLOCK ---
+Brazos
+--- BLOCK ---
+Manos
+--- BLOCK ---
+Cintura
+--- BLOCK ---
+Caderas
+--- BLOCK ---
+Piernas
+--- BLOCK ---
+Pies
+--- BLOCK ---
+Armadura
+--- BLOCK ---
+Asesino
+--- BLOCK ---
+Espléndido
+--- BLOCK ---
+Quebrador
+--- BLOCK ---
+Montaraz
+--- BLOCK ---
+Sable
+--- BLOCK ---
+Homicida
+--- BLOCK ---
+Valiente
+--- BLOCK ---
+Pionero
+--- BLOCK ---
+Reconocido
+--- BLOCK ---
+Comando
+--- BLOCK ---
+Separador
+--- BLOCK ---
+Destello
+--- BLOCK ---
+Melodía
+--- BLOCK ---
+Cañón
+--- BLOCK ---
+Mutación
+--- BLOCK ---
+Giratorio
+--- BLOCK ---
+Frenético
+--- BLOCK ---
+Fiable
+--- BLOCK ---
+Aventurero
+--- BLOCK ---
+Meteoro
+--- BLOCK ---
+Diestro
+--- BLOCK ---
+Gobernante
+--- BLOCK ---
+Ninja
+--- BLOCK ---
+Libertad
+--- BLOCK ---
+Sueño
+--- BLOCK ---
+Altair
+--- BLOCK ---
+Kunoichi
+--- BLOCK ---
+Vega
+--- BLOCK ---
+Vagabundo
+--- BLOCK ---
+Hierro
+--- BLOCK ---
+Rompedor
+--- BLOCK ---
+Samurái
+--- BLOCK ---
+Modelo
+--- BLOCK ---
+Viajero
+--- BLOCK ---
+Corte
+--- BLOCK ---
+Ala
+--- BLOCK ---
+Roto
+--- BLOCK ---
+Todo
+--- BLOCK ---
+Armado
+--- BLOCK ---
+Anónimo
+--- BLOCK ---
+Cola
+--- BLOCK ---
+Cortador
+--- BLOCK ---
+Agitador
+--- BLOCK ---
+Enfundado
+--- BLOCK ---
+Tirador
+--- BLOCK ---
+Recolector
+--- BLOCK ---
+Coordinado
+--- BLOCK ---
+Real
+--- BLOCK ---
+Maníaco
+--- BLOCK ---
+Millonario
+--- BLOCK ---
+Ídolo
+--- BLOCK ---
+Dedicado
+--- BLOCK ---
+Detallado
+--- BLOCK ---
+Clemente
+--- BLOCK ---
+Implacable
+--- BLOCK ---
+Fogoso
+--- BLOCK ---
+Completo
+--- BLOCK ---
+Sabio
+--- BLOCK ---
+Perfecto
+--- BLOCK ---
+Soberano
+--- BLOCK ---
+Artillero
+--- BLOCK ---
+Espadachín
+--- BLOCK ---
+Sanguinario
+--- BLOCK ---
+Arriesgado
+--- BLOCK ---
+Peso pesado
+--- BLOCK ---
+Mecánico
+--- BLOCK ---
+Verdugo
+--- BLOCK ---
+Acaparador
+--- BLOCK ---
+Leyenda
+--- BLOCK ---
+Campeón
+--- BLOCK ---
+Héroe
+--- BLOCK ---
+Salvador
+--- BLOCK ---
+Compuesto
+--- BLOCK ---
+Voraz
+--- BLOCK ---
+De primera
+--- BLOCK ---
+Fortísimo
+--- BLOCK ---
+Inigualable
+--- BLOCK ---
+<COLO 2>Monstruo</COLO>
+--- BLOCK ---
+Secreto
+--- BLOCK ---
+Oculto
+--- BLOCK ---
+Isla Desier.
+--- BLOCK ---
+Llanos Aren.
+--- BLOCK ---
+Bosque Inun.
+--- BLOCK ---
+Tundra
+--- BLOCK ---
+Volcán
+--- BLOCK ---
+Cumbres Bor.
+--- BLOCK ---
+Guía
+--- BLOCK ---
+Investigador
+--- BLOCK ---
+Protector
+--- BLOCK ---
+Arcadia
+--- BLOCK ---
+Mar
+--- BLOCK ---
+Compañero
+--- BLOCK ---
+Defensor
+--- BLOCK ---
+Reconocedor
+--- BLOCK ---
+Observador
+--- BLOCK ---
+Maestro
+--- BLOCK ---
+Portador
+--- BLOCK ---
+Comandante
+--- BLOCK ---
+Rescatador
+--- BLOCK ---
+Gremio
+--- BLOCK ---
+Caballeroso
+--- BLOCK ---
+As
+--- BLOCK ---
+Profesional
+--- BLOCK ---
+General
+--- BLOCK ---
+Imperial
+--- BLOCK ---
+Desesperado
+--- BLOCK ---
+Supremo
+--- BLOCK ---
+Importante
+--- BLOCK ---
+Gurú
+--- BLOCK ---
+Curtido
+--- BLOCK ---
+Forzudo
+--- BLOCK ---
+Instructor
+--- BLOCK ---
+Jaggi
+--- BLOCK ---
+Superfluo
+--- BLOCK ---
+Alfa
+--- BLOCK ---
+Jefe
+--- BLOCK ---
+Baggi
+--- BLOCK ---
+Inteligente
+--- BLOCK ---
+Crestado
+--- BLOCK ---
+Soñoliento
+--- BLOCK ---
+Wroggi
+--- BLOCK ---
+Astuto
+--- BLOCK ---
+Vaquero
+--- BLOCK ---
+Neblinoso
+--- BLOCK ---
+Arzuros
+--- BLOCK ---
+Montaña
+--- BLOCK ---
+Oso
+--- BLOCK ---
+Carne
+--- BLOCK ---
+Lagombi
+--- BLOCK ---
+Hielo
+--- BLOCK ---
+Planeador
+--- BLOCK ---
+Conejo
+--- BLOCK ---
+Volvidon
+--- BLOCK ---
+Armadillo
+--- BLOCK ---
+Ronda
+--- BLOCK ---
+Lengua
+--- BLOCK ---
+Qurupeco
+--- BLOCK ---
+Colorido
+--- BLOCK ---
+Imitador
+--- BLOCK ---
+Exuberante
+--- BLOCK ---
+Bailarín
+--- BLOCK ---
+Carmesí
+--- BLOCK ---
+Intenso
+--- BLOCK ---
+Sacudidor
+--- BLOCK ---
+Ludroth Real
+--- BLOCK ---
+Lluvia
+--- BLOCK ---
+Esponjoso
+--- BLOCK ---
+Melena
+--- BLOCK ---
+Púrpura
+--- BLOCK ---
+Toxina
+--- BLOCK ---
+Aura
+--- BLOCK ---
+Humedad
+--- BLOCK ---
+Barroth
+--- BLOCK ---
+Corona
+--- BLOCK ---
+Embarrado
+--- BLOCK ---
+Fuerte
+--- BLOCK ---
+Esmeralda
+--- BLOCK ---
+Iceberg
+--- BLOCK ---
+Helada
+--- BLOCK ---
+Destrozado
+--- BLOCK ---
+Gobul
+--- BLOCK ---
+Bigote
+--- BLOCK ---
+Encubierto
+--- BLOCK ---
+Acechador
+--- BLOCK ---
+Rathian
+--- BLOCK ---
+Tierra
+--- BLOCK ---
+Elegante
+--- BLOCK ---
+Wyvernidad
+--- BLOCK ---
+Rosa
+--- BLOCK ---
+Venenoso
+--- BLOCK ---
+Volador
+--- BLOCK ---
+Reina
+--- BLOCK ---
+Hembra
+--- BLOCK ---
+Dorado
+--- BLOCK ---
+Lúnula
+--- BLOCK ---
+Corazón
+--- BLOCK ---
+Plesioth
+--- BLOCK ---
+Torrente
+--- BLOCK ---
+De aletas
+--- BLOCK ---
+Pez
+--- BLOCK ---
+Verdoso
+--- BLOCK ---
+Carga
+--- BLOCK ---
+Acuático
+--- BLOCK ---
+Piscine
+--- BLOCK ---
+Gigginox
+--- BLOCK ---
+Asombroso
+--- BLOCK ---
+Vampiro
+--- BLOCK ---
+Muerte
+--- BLOCK ---
+Aterrador
+--- BLOCK ---
+Espeluznante
+--- BLOCK ---
+Maldito
+--- BLOCK ---
+Eléctrico
+--- BLOCK ---
+Barioth
+--- BLOCK ---
+Ventisca
+--- BLOCK ---
+Rápido
+--- BLOCK ---
+Congelante
+--- BLOCK ---
+Colmillo
+--- BLOCK ---
+Arena
+--- BLOCK ---
+Tornado
+--- BLOCK ---
+Centinela
+--- BLOCK ---
+Nibelsnarf
+--- BLOCK ---
+Glotón
+--- BLOCK ---
+Mandíbula
+--- BLOCK ---
+Excavador
+--- BLOCK ---
+Duramboros
+--- BLOCK ---
+Azote
+--- BLOCK ---
+Gigante
+--- BLOCK ---
+Musgoso
+--- BLOCK ---
+Tremendo
+--- BLOCK ---
+Herrumbre
+--- BLOCK ---
+Robusto
+--- BLOCK ---
+Leñador
+--- BLOCK ---
+Diablos
+--- BLOCK ---
+Caótico
+--- BLOCK ---
+Desierto
+--- BLOCK ---
+Astado
+--- BLOCK ---
+Territorial
+--- BLOCK ---
+Tirano
+--- BLOCK ---
+Retorcido
+--- BLOCK ---
+Catástrofe
+--- BLOCK ---
+Rathalos
+--- BLOCK ---
+Cielos
+--- BLOCK ---
+Bola de fuego
+--- BLOCK ---
+Rey
+--- BLOCK ---
+Celeste
+--- BLOCK ---
+Aéreo
+--- BLOCK ---
+Alma
+--- BLOCK ---
+Llama
+--- BLOCK ---
+Macho
+--- BLOCK ---
+Plata
+--- BLOCK ---
+Sol
+--- BLOCK ---
+Heráldico
+--- BLOCK ---
+Uragaan
+--- BLOCK ---
+Lava
+--- BLOCK ---
+Rodador
+--- BLOCK ---
+Mineral
+--- BLOCK ---
+Acero
+--- BLOCK ---
+Cavador
+--- BLOCK ---
+Bombardero
+--- BLOCK ---
+Combustión
+--- BLOCK ---
+Agnaktor
+--- BLOCK ---
+Chispa
+--- BLOCK ---
+Abrasado
+--- BLOCK ---
+Magma
+--- BLOCK ---
+Gélido
+--- BLOCK ---
+Nieve
+--- BLOCK ---
+Congelado
+--- BLOCK ---
+Glacial
+--- BLOCK ---
+Nargacuga
+--- BLOCK ---
+Nocturno
+--- BLOCK ---
+Medianoche
+--- BLOCK ---
+Predador
+--- BLOCK ---
+Camuflaje
+--- BLOCK ---
+Bosque
+--- BLOCK ---
+Espinoso
+--- BLOCK ---
+Sombra
+--- BLOCK ---
+Invisible
+--- BLOCK ---
+Eclipse
+--- BLOCK ---
+Golpe mortal
+--- BLOCK ---
+Lunar
+--- BLOCK ---
+Brachydios
+--- BLOCK ---
+Baba
+--- BLOCK ---
+Obsidiana
+--- BLOCK ---
+Explosivo
+--- BLOCK ---
+Lagiacrus
+--- BLOCK ---
+Remolino
+--- BLOCK ---
+Rival
+--- BLOCK ---
+Lord
+--- BLOCK ---
+Voltaje
+--- BLOCK ---
+Condenado
+--- BLOCK ---
+Marfil
+--- BLOCK ---
+Electrochoque
+--- BLOCK ---
+Tinieblas
+--- BLOCK ---
+Abismal
+--- BLOCK ---
+Destructor
+--- BLOCK ---
+Omega
+--- BLOCK ---
+Zinogre
+--- BLOCK ---
+Incomparable
+--- BLOCK ---
+Lobo
+--- BLOCK ---
+Monarca
+--- BLOCK ---
+Inframundo
+--- BLOCK ---
+Estigio
+--- BLOCK ---
+Rebelde
+--- BLOCK ---
+Emperador
+--- BLOCK ---
+Deviljho
+--- BLOCK ---
+Demoníaco
+--- BLOCK ---
+Salvaje
+--- BLOCK ---
+Devorador
+--- BLOCK ---
+Ceadeus
+--- BLOCK ---
+Terremoto
+--- BLOCK ---
+Abismos
+--- BLOCK ---
+Brillante
+--- BLOCK ---
+Legendario
+--- BLOCK ---
+Sagrado
+--- BLOCK ---
+Divino
+--- BLOCK ---
+Barba dorada
+--- BLOCK ---
+Ruinas
+--- BLOCK ---
+Majestuoso
+--- BLOCK ---
+Jhen Mohran
+--- BLOCK ---
+Disputa
+--- BLOCK ---
+Juggernaut
+--- BLOCK ---
+Prosperidad
+--- BLOCK ---
+Santificado
+--- BLOCK ---
+Místico
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Cristal
+--- BLOCK ---
+Alatreon
+--- BLOCK ---
+Malvado
+--- BLOCK ---
+Oscuridad
+--- BLOCK ---
+Final
+--- BLOCK ---
+Funesto
+--- BLOCK ---
+Averno
+--- BLOCK ---
+Creación
+--- BLOCK ---
+Aniquilación
+--- BLOCK ---
+Precursor
+--- BLOCK ---
+StreetPass
+--- BLOCK ---
+Kokoto
+--- BLOCK ---
+Jumbo
+--- BLOCK ---
+Minegarde
+--- BLOCK ---
+Dondruma
+--- BLOCK ---
+Yukumo
+--- BLOCK ---
+Pokke
+--- BLOCK ---
+Moga
+--- BLOCK ---
+Loc Lac
+--- BLOCK ---
+Schrade
+--- BLOCK ---
+Erudito
+--- BLOCK ---
+Graduado
+--- BLOCK ---
+Anciano
+--- BLOCK ---
+Fan
+--- BLOCK ---
+Unidad
+--- BLOCK ---
+Apretado
+--- BLOCK ---
+MonHan
+--- BLOCK ---
+VIP
+--- BLOCK ---
+Felyne
+--- BLOCK ---
+Fuego
+--- BLOCK ---
+Draco
+--- BLOCK ---
+Escarlata
+--- BLOCK ---
+Valeroso
+--- BLOCK ---
+Bullfango
+--- BLOCK ---
+Bruto
+--- BLOCK ---
+Absoluto
+--- BLOCK ---
+Feroz
+--- BLOCK ---
+Músculo
+--- BLOCK ---
+Conquistador
+--- BLOCK ---
+Boleador
+--- BLOCK ---
+Eterno
+--- BLOCK ---
+Bebida
+--- BLOCK ---
+Huevo
+--- BLOCK ---
+Tarta
+--- BLOCK ---
+Amigable
+--- BLOCK ---
+Cuidador
+--- BLOCK ---
+Miau
+--- BLOCK ---
+Cofrade
+--- BLOCK ---
+Extraviado
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Soldado
+--- BLOCK ---
+Pirata
+--- BLOCK ---
+Bandido
+--- BLOCK ---
+Asustador
+--- BLOCK ---
+Herrero
+--- BLOCK ---
+Perfecto
+--- BLOCK ---
+Garras
+--- BLOCK ---
+Ególatra
+--- BLOCK ---
+Fuerte
+--- BLOCK ---
+Suave
+--- BLOCK ---
+Desconocido
+--- BLOCK ---
+Ilimitado
+--- BLOCK ---
+Sargento
+--- BLOCK ---
+Cabo
+--- BLOCK ---
+Privado
+--- BLOCK ---
+Estratega
+--- BLOCK ---
+Luchador
+--- BLOCK ---
+Scherzando
+--- BLOCK ---
+Molesto
+--- BLOCK ---
+Luz estelar
+--- BLOCK ---
+Barón
+--- BLOCK ---
+Marginado
+--- BLOCK ---
+Raro
+--- BLOCK ---
+Dueño
+--- BLOCK ---
+Perplejo
+--- BLOCK ---
+Tonto
+--- BLOCK ---
+Impresionante
+--- BLOCK ---
+Genial
+--- BLOCK ---
+Abrumado
+--- BLOCK ---
+Pesadilla
+--- BLOCK ---
+Pueblo
+--- BLOCK ---
+Avanzado
+--- BLOCK ---
+Coloso
+--- BLOCK ---
+Entrenador
+--- BLOCK ---
+Asedio
+--- BLOCK ---
+Inspector
+--- BLOCK ---
+Oficial
+--- BLOCK ---
+Líder
+--- BLOCK ---
+Atacante
+--- BLOCK ---
+Combatiente
+--- BLOCK ---
+Trampero
+--- BLOCK ---
+Productor
+--- BLOCK ---
+Humanitario
+--- BLOCK ---
+Director
+--- BLOCK ---
+Capcom
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+De
+--- BLOCK ---
+Y
+--- BLOCK ---
+Para
+--- BLOCK ---
+Por
+--- BLOCK ---
+O
+--- BLOCK ---
+A
+--- BLOCK ---
+De
+--- BLOCK ---
+En
+--- BLOCK ---
+Sale
+--- BLOCK ---
+Va
+--- BLOCK ---
+En
+--- BLOCK ---
+Pero
+--- BLOCK ---
+No
+--- BLOCK ---
+Aún
+--- BLOCK ---
+Mi
+--- BLOCK ---
+Tu
+--- BLOCK ---
+Casi
+--- BLOCK ---
+Sube
+--- BLOCK ---
+Hace
+--- BLOCK ---
+Tras
+--- BLOCK ---
+Buen
+--- BLOCK ---
+Este
+--- BLOCK ---
+Con
+--- BLOCK ---
+Tope
+--- BLOCK ---
+Bajo
+--- BLOCK ---
+Vía
+--- BLOCK ---
+A
+--- BLOCK ---
+Más
+--- BLOCK ---
+Para
+--- BLOCK ---
+Como
+--- BLOCK ---
+El
+--- BLOCK ---
+Sabe
+--- BLOCK ---
+Con
+--- BLOCK ---
+Es
+--- BLOCK ---
+Son
+--- BLOCK ---
+Así
+--- BLOCK ---
+Mega
+--- BLOCK ---
+Maxi
+--- BLOCK ---
+Fue
+--- BLOCK ---
+Será
+--- BLOCK ---
+Guía
+--- BLOCK ---
+Saca
+--- BLOCK ---
+Sé
+--- BLOCK ---
+Solo
+--- BLOCK ---
+Más
+--- BLOCK ---
+Mini
+--- BLOCK ---
+Khan
+--- BLOCK ---
+Czar
+--- BLOCK ---
+Miss
+--- BLOCK ---
+Duke
+--- BLOCK ---
+Earl
+--- BLOCK ---
+Von
+--- BLOCK ---
+Van
+--- BLOCK ---
+Ser
+--- BLOCK ---
+Sire
+--- BLOCK ---
+&
+--- BLOCK ---
++
+--- BLOCK ---
+-
+--- BLOCK ---
+×
+--- BLOCK ---
+?
+--- BLOCK ---
+!
+--- BLOCK ---
+=
+--- BLOCK ---
+～
+--- BLOCK ---
+・
+--- BLOCK ---
+/
+--- BLOCK ---
+:
+--- BLOCK ---
+,
+--- BLOCK ---
+$
+--- BLOCK ---
+\
+--- BLOCK ---
+€
+--- BLOCK ---
+α
+--- BLOCK ---
+β
+--- BLOCK ---
+γ
+--- BLOCK ---
+★
+--- BLOCK ---
+A
+--- BLOCK ---
+B
+--- BLOCK ---
+C
+--- BLOCK ---
+D
+--- BLOCK ---
+E
+--- BLOCK ---
+F
+--- BLOCK ---
+G
+--- BLOCK ---
+H
+--- BLOCK ---
+I
+--- BLOCK ---
+J
+--- BLOCK ---
+K
+--- BLOCK ---
+L
+--- BLOCK ---
+M
+--- BLOCK ---
+N
+--- BLOCK ---
+O
+--- BLOCK ---
+P
+--- BLOCK ---
+Q
+--- BLOCK ---
+R
+--- BLOCK ---
+S
+--- BLOCK ---
+T
+--- BLOCK ---
+U
+--- BLOCK ---
+V
+--- BLOCK ---
+W
+--- BLOCK ---
+X
+--- BLOCK ---
+Y
+--- BLOCK ---
+Z
+--- BLOCK ---

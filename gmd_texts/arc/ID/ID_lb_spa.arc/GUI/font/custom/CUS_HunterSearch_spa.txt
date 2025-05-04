@@ -1,0 +1,106 @@
+﻿HS_MENU
+--- BLOCK ---
+HS_PSTATE
+--- BLOCK ---
+HS_QSTATE
+--- BLOCK ---
+HS_WARNING
+--- BLOCK ---
+HS_HELP
+--- BLOCK ---
+Selección de jugador
+--- BLOCK ---
+Información puerto
+--- BLOCK ---
+A puerto
+--- BLOCK ---
+Marina
+--- BLOCK ---
+Taberna
+--- BLOCK ---
+Estado
+--- BLOCK ---
+Misión
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Coment.
+--- BLOCK ---
+Tiempo juego
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Arma
+--- BLOCK ---
+Armd
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Datos equipo
+--- BLOCK ---
+Vista previa
+--- BLOCK ---
+Infor. jugador
+--- BLOCK ---
+RC
+--- BLOCK ---
+%3d %
+--- BLOCK ---
+%3d p
+--- BLOCK ---
+Aldea de Moga
+--- BLOCK ---
+Puerto Tanzia
+--- BLOCK ---
+En misión
+--- BLOCK ---
+Buscando compañeros
+--- BLOCK ---
+Bosque de Moga
+--- BLOCK ---
+Evento
+--- BLOCK ---
+Misión de desafío
+--- BLOCK ---
+ (%02d+ min)
+--- BLOCK ---
+ (Salida)
+--- BLOCK ---
+ (Compl.)
+--- BLOCK ---
+ (Aband.)
+--- BLOCK ---
+ (Fracaso)
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+(Desconocido)
+--- BLOCK ---
+Comprobando con. inalámbrica...
+--- BLOCK ---
+Se han encontrado jugadores.
+Toca el panel de un jugador
+para ver su información actual.
+--- BLOCK ---
+Si hay cerca un jugador con Búsqueda
+de cazador activada, se mostrará
+su información en esta pantalla.
+--- BLOCK ---
+Búsqueda de cazador está desactivada.
+Para activarla, toca el botón NO.
+--- BLOCK ---
+Conexión inalámbrica desactivada.
+Para activar Búsqueda de cazador, pulsa
+el interruptor de la conexión inalámbrica.
+--- BLOCK ---
+Mostrando información del jugador.
+--- BLOCK ---
+Mostrando información del jugador.
+<COLO 5>Botón Y: Datos de equipo
+--- BLOCK ---
+Mostrando información del jugador.
+<COLO 5>Botón X: Previsualizar
+<COLO 5>Botón Y: Información del jugador
+--- BLOCK ---

@@ -1,0 +1,104 @@
+﻿TMSG_PLINFO
+--- BLOCK ---
+No puedes llevar más.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Te has desmayado.
+--- BLOCK ---
+No se puede restaurar más.
+--- BLOCK ---
+¡El poder del arma ha disminuido!
+--- BLOCK ---
+¡El poder del arma ha aumentado!
+--- BLOCK ---
+¡El afilado está al máximo!
+--- BLOCK ---
+Tu bolsa de objetos está llena.
+--- BLOCK ---
+Obtenido: %s.
+--- BLOCK ---
+Nada encontrado.
+--- BLOCK ---
+Cazado: %s.
+--- BLOCK ---
+Has perdido tu cebo...
+--- BLOCK ---
+Regresando al campamento...
+--- BLOCK ---
+Todavía está crudo.
+--- BLOCK ---
+No puedes llevar más objetos.
+--- BLOCK ---
+No has cazado nada.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+%s al máximo.
+--- BLOCK ---
+%s se ha roto.
+--- BLOCK ---
+Has hecho: %s.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Has tirado: %s.
+--- BLOCK ---
+%s se ha roto.
+--- BLOCK ---
+¡La Resistencia ya no disminuye!
+--- BLOCK ---
+El gasto de Resistencia se ha reanudado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Me pregunto si hay algo por aquí...
+--- BLOCK ---
+Han robado: %s.
+--- BLOCK ---
+Rescatado: %s.
+--- BLOCK ---
+Recibido: %s.
+--- BLOCK ---
+No te caben más: %s.
+--- BLOCK ---
+¡Recuperación natural se normaliza!
+--- BLOCK ---
+¡Aumentó la recuperación natural!
+--- BLOCK ---
+¡Ha aumentado resistencia al calor!
+--- BLOCK ---
+¡Ha aumentado la resistencia al frío!
+--- BLOCK ---
+¡Se acabó el efecto de frío!
+--- BLOCK ---
+¡Se acabó el efecto de calor!
+--- BLOCK ---
+%s se desmayó.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Entregado: %s.
+--- BLOCK ---
+Has entregado Carne cruda.
+--- BLOCK ---
+Entrando a la batalla final.
+--- BLOCK ---
+Ya se puede utilizar el Matadragones.
+--- BLOCK ---
+Ya se puede utilizar el Gong de caza.
+--- BLOCK ---
+Ya se puede utilizar el Ciñebalista.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡%s quema mucho!
+--- BLOCK ---
+Enviado a la Caja de objetos: %s.
+--- BLOCK ---
+%s dejó la partida.
+--- BLOCK ---
+¡Gato desafortunado activado!
+--- BLOCK ---
+Se te ha escapado...
+--- BLOCK ---

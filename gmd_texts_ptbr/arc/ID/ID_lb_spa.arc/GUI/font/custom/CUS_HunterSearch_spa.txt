@@ -1,0 +1,106 @@
+HS_MENU
+--- BLOCK ---
+HS_PSTATE
+--- BLOCK ---
+HS_QSTATE
+--- BLOCK ---
+HS_WARNING
+--- BLOCK ---
+HS_HELP
+--- BLOCK ---
+Seleção de jogador
+--- BLOCK ---
+Informações do porto
+--- BLOCK ---
+Para o porto
+--- BLOCK ---
+Marina
+--- BLOCK ---
+Taverna
+--- BLOCK ---
+Estado
+--- BLOCK ---
+Missão
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Comentário
+--- BLOCK ---
+Tempo de jogo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Arma
+--- BLOCK ---
+Armd
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Dados da equipe
+--- BLOCK ---
+Pré-visualização
+--- BLOCK ---
+Info. do jogador
+--- BLOCK ---
+RC
+--- BLOCK ---
+%3d %
+--- BLOCK ---
+%3d p
+--- BLOCK ---
+Aldeia de Moga
+--- BLOCK ---
+Porto Tanzia
+--- BLOCK ---
+Em missão
+--- BLOCK ---
+Procurando companheiros
+--- BLOCK ---
+Floresta de Moga
+--- BLOCK ---
+Evento
+--- BLOCK ---
+Missão de desafio
+--- BLOCK ---
+(%02d+ min)
+--- BLOCK ---
+(Saída)
+--- BLOCK ---
+(Completo)
+--- BLOCK ---
+(Abandonado)
+--- BLOCK ---
+(Fracasso)
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+(Desconhecido)
+--- BLOCK ---
+Verificando conexão sem fio...
+--- BLOCK ---
+Jogadores encontrados. Toque no painel
+de um jogador para
+ver suas informações atuais.
+--- BLOCK ---
+Se houver um jogador próximo com
+a Busca de Caçador ativada, suas
+informações serão exibidas nesta tela.
+--- BLOCK ---
+Busca de Caçador desativada. Para
+ativar, toque no botão NÃO.
+--- BLOCK ---
+Conexão sem fio desativada. Para ativar
+a Busca de Caçador, pressione o
+interruptor da conexão sem fio.
+--- BLOCK ---
+Exibindo informações do jogador.
+--- BLOCK ---
+Mostrando informações do jogador. <COLO
+5>Botão Y: Dados de equipamento
+--- BLOCK ---
+Exibindo informações do jogador. <COLO
+5>Botão X: Pré-visualizar <COLO 5>Botão
+Y: Informações do jogador
+--- BLOCK ---
