@@ -15,7 +15,7 @@ Used for rendering **icon-style text labels** within the interface.
 * **Outline**: +2px, `#723f00` (brown)
 
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
-  <img src="td_icon_ID_spa.png" alt="td_icon_ID_spa preview">
+  <img src="td_icon_ID_spa.preview.png" alt="td_icon_ID_spa preview">
 </div>
 
 ---
@@ -48,7 +48,7 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 * **Outline**: +2px, `#fff7e6` (cream)
 
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
-  <img src="td_M_v_under_ID_spa.png" alt="td_M_v_under_ID_spa preview">
+  <img src="td_M_v_under_ID_spa.preview.png" alt="td_M_v_under_ID_spa preview">
 </div>
 
 ---
