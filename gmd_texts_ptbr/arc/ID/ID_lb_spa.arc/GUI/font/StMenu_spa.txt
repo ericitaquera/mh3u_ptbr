@@ -1,0 +1,250 @@
+STMENU_ETC_MSG
+--- BLOCK ---
+CMAKE_MSG
+--- BLOCK ---
+SAVEPLATE_MSG
+--- BLOCK ---
+PANELMODE_MSG
+--- BLOCK ---
+CMAKE_PLTYPE_MSG
+--- BLOCK ---
+CMAKE_CELLTYPE_MSG
+--- BLOCK ---
+CMAKE_CELLTYPE_MIN_MSG
+--- BLOCK ---
+CMAKE_COLORBASE_MSG
+--- BLOCK ---
+CMAKE_COLORINNER_MSG
+--- BLOCK ---
+Voltar
+--- BLOCK ---
+Vale
+--- BLOCK ---
+Zoom
+--- BLOCK ---
+Girar
+--- BLOCK ---
+Provar
+--- BLOCK ---
+Sim
+--- BLOCK ---
+Não
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Sexo
+--- BLOCK ---
+Roupa
+--- BLOCK ---
+Rosto
+--- BLOCK ---
+Características
+--- BLOCK ---
+Cor do cabelo
+--- BLOCK ---
+Tom de pele
+--- BLOCK ---
+Cor da roupa
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Penteado
+--- BLOCK ---
+Voz
+--- BLOCK ---
+Nome
+--- BLOCK ---
+Avançar
+--- BLOCK ---
+Característica 1
+--- BLOCK ---
+Característica 2
+--- BLOCK ---
+Sim
+--- BLOCK ---
+Não
+--- BLOCK ---
+Cor
+--- BLOCK ---
+Cor
+--- BLOCK ---
+Selecionar peça
+--- BLOCK ---
+Cabeça
+--- BLOCK ---
+Peito
+--- BLOCK ---
+Braços
+--- BLOCK ---
+Cintura
+--- BLOCK ---
+Pernas
+--- BLOCK ---
+Alterar
+--- BLOCK ---
+Pigmento: cabeça
+--- BLOCK ---
+Pigmento: peito
+--- BLOCK ---
+Pigmento: braços
+--- BLOCK ---
+Pigmento: cintura
+--- BLOCK ---
+Pigmento: pernas
+--- BLOCK ---
+Pigmento: todo
+--- BLOCK ---
+(Sem dados)
+--- BLOCK ---
+Sexo
+--- BLOCK ---
+Tmp jog.
+--- BLOCK ---
+Fundo
+--- BLOCK ---
+RC
+--- BLOCK ---
+Padrão
+--- BLOCK ---
+Dinâmico
+--- BLOCK ---
+Pan. tácteis
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Homem
+--- BLOCK ---
+Mulher
+--- BLOCK ---
+Tipo 1
+--- BLOCK ---
+Tipo 2
+--- BLOCK ---
+Tipo 3
+--- BLOCK ---
+Tipo 4
+--- BLOCK ---
+Tipo 5
+--- BLOCK ---
+Tipo 6
+--- BLOCK ---
+Tipo 7
+--- BLOCK ---
+Tipo 8
+--- BLOCK ---
+Tipo 9
+--- BLOCK ---
+Tipo 10
+--- BLOCK ---
+Tipo 11
+--- BLOCK ---
+Tipo 12
+--- BLOCK ---
+Tipo 13
+--- BLOCK ---
+Tipo 14
+--- BLOCK ---
+Tipo 15
+--- BLOCK ---
+Tipo 16
+--- BLOCK ---
+Tipo 17
+--- BLOCK ---
+Tipo 18
+--- BLOCK ---
+Tipo 19
+--- BLOCK ---
+Tipo 20
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Tipo 1
+--- BLOCK ---
+Tipo 2
+--- BLOCK ---
+Tipo 3
+--- BLOCK ---
+Tipo 4
+--- BLOCK ---
+Tipo 5
+--- BLOCK ---
+Tipo 6
+--- BLOCK ---
+Tipo 7
+--- BLOCK ---
+Tipo 8
+--- BLOCK ---
+Tipo 9
+--- BLOCK ---
+Tipo 10
+--- BLOCK ---
+Tipo 11
+--- BLOCK ---
+Tipo 12
+--- BLOCK ---
+Tipo 13
+--- BLOCK ---
+Tipo 14
+--- BLOCK ---
+Tipo 15
+--- BLOCK ---
+Tipo 16
+--- BLOCK ---
+Tipo 17
+--- BLOCK ---
+Tipo 18
+--- BLOCK ---
+Tipo 19
+--- BLOCK ---
+Tipo 20
+--- BLOCK ---
+1
+--- BLOCK ---
+2
+--- BLOCK ---
+3
+--- BLOCK ---
+4
+--- BLOCK ---
+5
+--- BLOCK ---
+6
+--- BLOCK ---
+7
+--- BLOCK ---
+8
+--- BLOCK ---
+9
+--- BLOCK ---
+10
+--- BLOCK ---
+11
+--- BLOCK ---
+12
+--- BLOCK ---
+1
+--- BLOCK ---
+2
+--- BLOCK ---
+3
+--- BLOCK ---
+4
+--- BLOCK ---
+5
+--- BLOCK ---
+6
+--- BLOCK ---
+7
+--- BLOCK ---
+8
+--- BLOCK ---
+9
+--- BLOCK ---
+10
+--- BLOCK ---
+11
+--- BLOCK ---
+12
+--- BLOCK ---

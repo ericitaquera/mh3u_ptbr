@@ -1,0 +1,762 @@
+﻿TMSG_HELM
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Cubrecabeza de cuero
+--- BLOCK ---
+Máscara piscine
+--- BLOCK ---
+Cubrecabeza de malla
+--- BLOCK ---
+Casco de cazador
+--- BLOCK ---
+Gorro de cazador
+--- BLOCK ---
+Casco de hueso
+--- BLOCK ---
+Gorro de hueso
+--- BLOCK ---
+Casco de aleación
+--- BLOCK ---
+Gorro de aleación
+--- BLOCK ---
+Casco de Jaggi
+--- BLOCK ---
+Gorro de Jaggi
+--- BLOCK ---
+Sombrero de Bnahabra
+--- BLOCK ---
+Tocado de Bnahabra
+--- BLOCK ---
+Casco de Rhenoplos
+--- BLOCK ---
+Gorro de Rhenoplos
+--- BLOCK ---
+Casco de Qurupeco
+--- BLOCK ---
+Gorro de Qurupeco
+--- BLOCK ---
+Casco de Ludroth
+--- BLOCK ---
+Gorro de Ludroth
+--- BLOCK ---
+Casco de Baggi
+--- BLOCK ---
+Gorro de Baggi
+--- BLOCK ---
+Casco de Barroth
+--- BLOCK ---
+Gorro de Barroth
+--- BLOCK ---
+Casco de Gobul
+--- BLOCK ---
+Gorro de Gobul
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pluma bardo gremio
+--- BLOCK ---
+Sombrero bardo grem.
+--- BLOCK ---
+Birrete de colegiala
+--- BLOCK ---
+Gorro de colegiala
+--- BLOCK ---
+Casco de Rathian
+--- BLOCK ---
+Gorro de Rathian
+--- BLOCK ---
+Casco de Gigginox
+--- BLOCK ---
+Gorro de Gigginox
+--- BLOCK ---
+Casco de lingote
+--- BLOCK ---
+Gorro de lingote
+--- BLOCK ---
+Casco de Lagiacrus
+--- BLOCK ---
+Gorro de Lagiacrus
+--- BLOCK ---
+Casco de Rathalos
+--- BLOCK ---
+Gorro de Rathalos
+--- BLOCK ---
+Casco de Barioth
+--- BLOCK ---
+Gorro de Barioth
+--- BLOCK ---
+Casco de Diablos
+--- BLOCK ---
+Gorro de Diablos
+--- BLOCK ---
+Casco de Uragaan
+--- BLOCK ---
+Gorro de Uragaan
+--- BLOCK ---
+Casco de Agnaktor
+--- BLOCK ---
+Gorro de Agnaktor
+--- BLOCK ---
+Casco de Helios
+--- BLOCK ---
+Gorro de Helios
+--- BLOCK ---
+Casco de Selene
+--- BLOCK ---
+Gorro de Selene
+--- BLOCK ---
+Sombrero de Wroggi
+--- BLOCK ---
+Gorro de Wroggi
+--- BLOCK ---
+Casco de Arzuros
+--- BLOCK ---
+Gorro de Arzuros
+--- BLOCK ---
+Casco de Lagombi
+--- BLOCK ---
+Gorro de Lagombi
+--- BLOCK ---
+Casco de Volvidon
+--- BLOCK ---
+Gorro de Volvidon
+--- BLOCK ---
+Casco de Nibelsnarf
+--- BLOCK ---
+Gorro de Nibelsnarf
+--- BLOCK ---
+Casco de Duramboros
+--- BLOCK ---
+Gorro de Duramboros
+--- BLOCK ---
+Kasa Yukumo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Casco de cuero S
+--- BLOCK ---
+Gorro de cuero S
+--- BLOCK ---
+Máscara de piscine S
+--- BLOCK ---
+Esnórquel piscine S
+--- BLOCK ---
+Casco cota malla S
+--- BLOCK ---
+Gorro de malla S
+--- BLOCK ---
+Casco de cazador S
+--- BLOCK ---
+Gorro de cazador S
+--- BLOCK ---
+Casco de hueso S
+--- BLOCK ---
+Gorro de hueso S
+--- BLOCK ---
+Casco de aleación S
+--- BLOCK ---
+Gorro de aleación S
+--- BLOCK ---
+Casco de Jaggi S
+--- BLOCK ---
+Gorro de Jaggi S
+--- BLOCK ---
+Sombrero Bnahabra S
+--- BLOCK ---
+Tocado de Bnahabra S
+--- BLOCK ---
+Casco de Rhenoplos S
+--- BLOCK ---
+Gorro de Rhenoplos S
+--- BLOCK ---
+Capucha de Slagtoth
+--- BLOCK ---
+Caperuza de Slagtoth
+--- BLOCK ---
+Casco de Qurupeco S
+--- BLOCK ---
+Gorro de Qurupeco S
+--- BLOCK ---
+Casco de Qurupeco U
+--- BLOCK ---
+Gorro de Qurupeco U
+--- BLOCK ---
+Casco de Ludroth S
+--- BLOCK ---
+Gorro de Ludroth S
+--- BLOCK ---
+Casco de Ludroth U
+--- BLOCK ---
+Gorro de Ludroth U
+--- BLOCK ---
+Casco de Baggi S
+--- BLOCK ---
+Gorro de Baggi S
+--- BLOCK ---
+Sombrero de Wroggi S
+--- BLOCK ---
+Gorro de Wroggi S
+--- BLOCK ---
+Casco de Arzuros S
+--- BLOCK ---
+Gorro de Arzuros S
+--- BLOCK ---
+Casco de Lagombi S
+--- BLOCK ---
+Gorro de Lagombi S
+--- BLOCK ---
+Casco de Volvidon S
+--- BLOCK ---
+Gorro de Volvidon S
+--- BLOCK ---
+Casco de Barroth S
+--- BLOCK ---
+Gorro de Barroth S
+--- BLOCK ---
+Casco de Barroth U
+--- BLOCK ---
+Gorro de Barroth U
+--- BLOCK ---
+Casco de Gobul S
+--- BLOCK ---
+Gorro de Gobul S
+--- BLOCK ---
+Pluma bardo grem. S
+--- BLOCK ---
+Sombr. bardo grem. S
+--- BLOCK ---
+Birrete colegiala S
+--- BLOCK ---
+Gorro de colegiala S
+--- BLOCK ---
+Casco de Rathian S
+--- BLOCK ---
+Gorro de Rathian S
+--- BLOCK ---
+Casco corazón wyvern
+--- BLOCK ---
+Gorro corazón wyvern
+--- BLOCK ---
+Casco de Gigginox S
+--- BLOCK ---
+Gorro de Gigginox S
+--- BLOCK ---
+Casco de Gigginox U
+--- BLOCK ---
+Gorro de Gigginox U
+--- BLOCK ---
+Casco de lingote S
+--- BLOCK ---
+Gorro de lingote S
+--- BLOCK ---
+Casco de Dober
+--- BLOCK ---
+Gorro de Dober
+--- BLOCK ---
+Kasa cielo Yukumo
+--- BLOCK ---
+Kasa tierra Yukumo
+--- BLOCK ---
+Vértice de Aelucanth
+--- BLOCK ---
+Clípeo de Aelucanth
+--- BLOCK ---
+Vértice de Rhopessa
+--- BLOCK ---
+Clípeo de Rhopessa
+--- BLOCK ---
+Visera de Mosgharl
+--- BLOCK ---
+Ala de Mosgharl
+--- BLOCK ---
+Casco de Lagiacrus S
+--- BLOCK ---
+Gorro de Lagiacrus S
+--- BLOCK ---
+Casco de Lagiacrus U
+--- BLOCK ---
+Gorro de Lagiacrus U
+--- BLOCK ---
+Casco de Rathalos S
+--- BLOCK ---
+Gorro de Rathalos S
+--- BLOCK ---
+Casco alma de wyvern
+--- BLOCK ---
+Gorro alma de wyvern
+--- BLOCK ---
+Casco de Barioth S
+--- BLOCK ---
+Gorro de Barioth S
+--- BLOCK ---
+Casco de Barioth U
+--- BLOCK ---
+Gorro de Barioth U
+--- BLOCK ---
+Casco de Diablos S
+--- BLOCK ---
+Gorro de Diablos S
+--- BLOCK ---
+Casco de Diablos U
+--- BLOCK ---
+Gorro de Diablos U
+--- BLOCK ---
+Casco de Uragaan S
+--- BLOCK ---
+Gorro de Uragaan S
+--- BLOCK ---
+Casco de Uragaan U
+--- BLOCK ---
+Gorro de Uragaan U
+--- BLOCK ---
+Casco de Agnaktor S
+--- BLOCK ---
+Gorro de Agnaktor S
+--- BLOCK ---
+Casco de Agnaktor U
+--- BLOCK ---
+Gorro de Agnaktor U
+--- BLOCK ---
+Casco Vangis
+--- BLOCK ---
+Gorro Vangis
+--- BLOCK ---
+Casco de Damasco
+--- BLOCK ---
+Gorro de Damasco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Kabuto Yamato
+--- BLOCK ---
+Eboshi Mutsu
+--- BLOCK ---
+Hachigane Hyuga
+--- BLOCK ---
+Hachigane Amagi
+--- BLOCK ---
+Sabiduría Escadora
+--- BLOCK ---
+Sapiencia Escadora
+--- BLOCK ---
+Casco de Zinogre
+--- BLOCK ---
+Gorro de Zinogre
+--- BLOCK ---
+Casco Nibelsnarf S
+--- BLOCK ---
+Gorro Nibelsnarf S
+--- BLOCK ---
+Casco Duramboros S
+--- BLOCK ---
+Gorro Duramboros S
+--- BLOCK ---
+Casco de Nargacuga
+--- BLOCK ---
+Gorro de Nargacuga
+--- BLOCK ---
+Casco de Plesioth
+--- BLOCK ---
+Gorro de Plesioth
+--- BLOCK ---
+Casco de Brachydios
+--- BLOCK ---
+Gorro de Brachydios
+--- BLOCK ---
+Capucha floral
+--- BLOCK ---
+Capucha campanilla
+--- BLOCK ---
+Cubrecabeza soldado
+--- BLOCK ---
+Turbante de arquero
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Casco de lingote X
+--- BLOCK ---
+Gorro de lingote X
+--- BLOCK ---
+Sombrero Bnahabra X
+--- BLOCK ---
+Tocado de Bnahabra X
+--- BLOCK ---
+Casco de Rhenoplos X
+--- BLOCK ---
+Gorro de Rhenoplos X
+--- BLOCK ---
+Capucha Slagtoth X
+--- BLOCK ---
+Caperuza Slagtoth X
+--- BLOCK ---
+Casco de Jaggi X
+--- BLOCK ---
+Gorro de Jaggi X
+--- BLOCK ---
+Casco de Baggi X
+--- BLOCK ---
+Gorro de Baggi X
+--- BLOCK ---
+Sombrero de Wroggi X
+--- BLOCK ---
+Gorro de Wroggi X
+--- BLOCK ---
+Casco de Arzuros X
+--- BLOCK ---
+Gorro de Arzuros X
+--- BLOCK ---
+Casco de Lagombi X
+--- BLOCK ---
+Gorro de Lagombi X
+--- BLOCK ---
+Casco de Volvidon X
+--- BLOCK ---
+Gorro de Volvidon X
+--- BLOCK ---
+Casco de Qurupeco X
+--- BLOCK ---
+Gorro de Qurupeco X
+--- BLOCK ---
+Casco de Qurupeco Z
+--- BLOCK ---
+Gorro de Qurupeco Z
+--- BLOCK ---
+Casco de Ludroth X
+--- BLOCK ---
+Gorro de Ludroth X
+--- BLOCK ---
+Casco de Ludroth Z
+--- BLOCK ---
+Gorro de Ludroth Z
+--- BLOCK ---
+Casco de Barroth X
+--- BLOCK ---
+Gorro de Barroth X
+--- BLOCK ---
+Casco de Barroth Z
+--- BLOCK ---
+Gorro de Barroth Z
+--- BLOCK ---
+Casco de Gobul X
+--- BLOCK ---
+Gorro de Gobul X
+--- BLOCK ---
+Casco de Rathalos X
+--- BLOCK ---
+Gorro de Rathalos X
+--- BLOCK ---
+Casco alma wyvern Z
+--- BLOCK ---
+Gorro alma wyvern Z
+--- BLOCK ---
+Plata del averno
+--- BLOCK ---
+Yelmo argénteo
+--- BLOCK ---
+Casco de Rathian X
+--- BLOCK ---
+Gorro de Rathian X
+--- BLOCK ---
+Casco corazón wyv. Z
+--- BLOCK ---
+Gorro corazón wyv. Z
+--- BLOCK ---
+Casco lunar de oro
+--- BLOCK ---
+Gorro lunar de oro
+--- BLOCK ---
+Casco de Lagiacrus X
+--- BLOCK ---
+Gorro de Lagiacrus X
+--- BLOCK ---
+Casco de Lagiacrus Z
+--- BLOCK ---
+Gorro de Lagiacrus Z
+--- BLOCK ---
+Casco tenebroso
+--- BLOCK ---
+Gorro tenebroso
+--- BLOCK ---
+Casco de Gigginox X
+--- BLOCK ---
+Gorro de Gigginox X
+--- BLOCK ---
+Casco de Gigginox Z
+--- BLOCK ---
+Gorro de Gigginox Z
+--- BLOCK ---
+Casco de Barioth X
+--- BLOCK ---
+Gorro de Barioth X
+--- BLOCK ---
+Casco de Barioth Z
+--- BLOCK ---
+Gorro de Barioth Z
+--- BLOCK ---
+Casco de Diablos X
+--- BLOCK ---
+Gorro de Diablos X
+--- BLOCK ---
+Casco de Diablos Z
+--- BLOCK ---
+Gorro de Diablos Z
+--- BLOCK ---
+Casco de Uragaan X
+--- BLOCK ---
+Gorro de Uragaan X
+--- BLOCK ---
+Casco de Uragaan Z
+--- BLOCK ---
+Gorro de Uragaan Z
+--- BLOCK ---
+Casco de Agnaktor X
+--- BLOCK ---
+Gorro de Agnaktor X
+--- BLOCK ---
+Casco de Agnaktor Z
+--- BLOCK ---
+Gorro de Agnaktor Z
+--- BLOCK ---
+Casco de Helios X
+--- BLOCK ---
+Gorro de Helios X
+--- BLOCK ---
+Casco de Helios Z
+--- BLOCK ---
+Gorro de Helios Z
+--- BLOCK ---
+Casco de Selene X
+--- BLOCK ---
+Gorro de Selene X
+--- BLOCK ---
+Casco de Selene Z
+--- BLOCK ---
+Gorro de Selene Z
+--- BLOCK ---
+Gran Kabuto Yamato
+--- BLOCK ---
+Gran Eboshi Mutsu
+--- BLOCK ---
+Gran Hachig. Hyuga
+--- BLOCK ---
+Gran Jingasa Amagi
+--- BLOCK ---
+Real Kabuto Yamato
+--- BLOCK ---
+Real Eboshi Mutsu
+--- BLOCK ---
+Real Hachig. Hyuga
+--- BLOCK ---
+Real Jingasa Amagi
+--- BLOCK ---
+Casco Vangis X
+--- BLOCK ---
+Gorro Vangis X
+--- BLOCK ---
+Sabiduría Escadora X
+--- BLOCK ---
+Sapiencia Escadora X
+--- BLOCK ---
+Casco de Zinogre X
+--- BLOCK ---
+Gorro de Zinogre X
+--- BLOCK ---
+Casco de Zinogre Z
+--- BLOCK ---
+Gorro de Zinogre Z
+--- BLOCK ---
+Casco Nibelsnarf X
+--- BLOCK ---
+Gorro Nibelsnarf X
+--- BLOCK ---
+Casco Duramboros X
+--- BLOCK ---
+Gorro Duramboros X
+--- BLOCK ---
+Casco Duramboros Z
+--- BLOCK ---
+Gorro Duramboros Z
+--- BLOCK ---
+Casco de Nargacuga X
+--- BLOCK ---
+Gorro de Nargacuga X
+--- BLOCK ---
+Casco de Nargacuga Z
+--- BLOCK ---
+Gorro de Nargacuga Z
+--- BLOCK ---
+Casco radiante
+--- BLOCK ---
+Casco silueta
+--- BLOCK ---
+Casco de Plesioth X
+--- BLOCK ---
+Gorro de Plesioth X
+--- BLOCK ---
+Casco de Plesioth Z
+--- BLOCK ---
+Gorro de Plesioth Z
+--- BLOCK ---
+Casco Brachydios X
+--- BLOCK ---
+Gorro Brachydios X
+--- BLOCK ---
+Diadema de Miralis
+--- BLOCK ---
+Corona de Miralis
+--- BLOCK ---
+Casco de Damasco X
+--- BLOCK ---
+Gorro de Damasco X
+--- BLOCK ---
+Casco de Dober X
+--- BLOCK ---
+Gorro de Dober X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vértice Aelucanth X
+--- BLOCK ---
+Clípeo Aelucanth X
+--- BLOCK ---
+Vértice Rhopessa X
+--- BLOCK ---
+Clípeo de Rhopessa X
+--- BLOCK ---
+Visera de Mosgharl X
+--- BLOCK ---
+Ala de Mosgharl X
+--- BLOCK ---
+Capuchón floral
+--- BLOCK ---
+Capuchón campanilla
+--- BLOCK ---
+Cubrecabeza montaraz
+--- BLOCK ---
+Turbante de tirador
+--- BLOCK ---
+Pluma bardo gremio X
+--- BLOCK ---
+Sombr. bardo grem. X
+--- BLOCK ---
+Birrete colegiala X
+--- BLOCK ---
+Gorro de colegiala X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Sombrero de marinero
+--- BLOCK ---
+Gorro de marinero
+--- BLOCK ---
+Gafas sombrías
+--- BLOCK ---
+Máscara de Jaggi
+--- BLOCK ---
+Máscara de Gargwa
+--- BLOCK ---
+Máscara de Bullfango
+--- BLOCK ---
+Máscara de calavera
+--- BLOCK ---
+Piercing Chakra
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Piercing de espada
+--- BLOCK ---
+Piercing artillería
+--- BLOCK ---
+Rostro cadavérico
+--- BLOCK ---
+Piercing de espada
+--- BLOCK ---

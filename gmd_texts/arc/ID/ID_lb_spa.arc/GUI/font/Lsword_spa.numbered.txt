@@ -1,0 +1,280 @@
+﻿TMSG_LSWORD
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Espada de hierro
+--- BLOCK [003] ---
+Espada de hierro+
+--- BLOCK [004] ---
+Espada vengadora
+--- BLOCK [005] ---
+Espada vengadora+
+--- BLOCK [006] ---
+Hoja vengadora
+--- BLOCK [007] ---
+Hoja devastadora
+--- BLOCK [008] ---
+Hoja devastadora+
+--- BLOCK [009] ---
+Hoja laceradora
+--- BLOCK [010] ---
+Espada devastadora
+--- BLOCK [011] ---
+Navaja cromada
+--- BLOCK [012] ---
+Muerte cromada
+--- BLOCK [013] ---
+Muro de latón
+--- BLOCK [014] ---
+Muro escarlata
+--- BLOCK [015] ---
+Escarpada
+--- BLOCK [016] ---
+Grito de Goliat
+--- BLOCK [017] ---
+Hoja oculta
+--- BLOCK [018] ---
+Noche cerrada
+--- BLOCK [019] ---
+Gran espada Avidya
+--- BLOCK [020] ---
+Hoja del eclipse
+--- BLOCK [021] ---
+Asterismo de Merak
+--- BLOCK [022] ---
+Matawyverns tipo 41
+--- BLOCK [023] ---
+Remalgalipso
+--- BLOCK [024] ---
+Remalgagorgón
+--- BLOCK [025] ---
+Gran espada dura
+--- BLOCK [026] ---
+Gran espada de jefe
+--- BLOCK [027] ---
+Gran esp. gran jefe
+--- BLOCK [028] ---
+Hoja de Lagiacrus
+--- BLOCK [029] ---
+Hoja de Lagiacrus+
+--- BLOCK [030] ---
+Gran hoja de Lagia
+--- BLOCK [031] ---
+Rayo de Lagia
+--- BLOCK [032] ---
+Llama de Lagia
+--- BLOCK [033] ---
+Hoja nova de Lagia
+--- BLOCK [034] ---
+Fulminación de Lagia
+--- BLOCK [035] ---
+Tormenta usurpador
+--- BLOCK [036] ---
+Tormenta del déspota
+--- BLOCK [037] ---
+Celada del opresor
+--- BLOCK [038] ---
+Orcus Tonitrus
+--- BLOCK [039] ---
+Gran esp. tenebrosa
+--- BLOCK [040] ---
+Lufactrus tenebroso
+--- BLOCK [041] ---
+Orgullo de Brimstren
+--- BLOCK [042] ---
+Acedia estigia
+--- BLOCK [043] ---
+Espada de caparazón
+--- BLOCK [044] ---
+Hoja de caparazón
+--- BLOCK [045] ---
+Maza de Barroth
+--- BLOCK [046] ---
+Hoja de la aurora
+--- BLOCK [047] ---
+Luces del norte
+--- BLOCK [048] ---
+Cruz del norte
+--- BLOCK [049] ---
+Esp. cuerno vikinga
+--- BLOCK [050] ---
+Espada Ancharius
+--- BLOCK [051] ---
+Espada Excalius
+--- BLOCK [052] ---
+Hoja de hueso
+--- BLOCK [053] ---
+Hoja de hueso+
+--- BLOCK [054] ---
+Hoja de mandíbula
+--- BLOCK [055] ---
+Hoja mandíb. gigante
+--- BLOCK [056] ---
+Ala roja
+--- BLOCK [057] ---
+Esp. fuego Rathalos
+--- BLOCK [058] ---
+Esp. llama Rathalos
+--- BLOCK [059] ---
+Ala azul
+--- BLOCK [060] ---
+Glinespada Rathalos
+--- BLOCK [061] ---
+Brillaspada Rathalos
+--- BLOCK [062] ---
+Hoja de Brachydios
+--- BLOCK [063] ---
+Hoja de Brachydios+
+--- BLOCK [064] ---
+Espada de demolición
+--- BLOCK [065] ---
+Mixodemoledora
+--- BLOCK [066] ---
+Hoja de valkiria
+--- BLOCK [067] ---
+Sieglinde
+--- BLOCK [068] ---
+Alto Sieglinde
+--- BLOCK [069] ---
+Titania
+--- BLOCK [070] ---
+Dama turbada
+--- BLOCK [071] ---
+Ljósálfar
+--- BLOCK [072] ---
+Brünnhilde
+--- BLOCK [073] ---
+Siegmund
+--- BLOCK [074] ---
+Gran Siegmund
+--- BLOCK [075] ---
+Blindada roja
+--- BLOCK [076] ---
+Oberón
+--- BLOCK [077] ---
+Káiser pálido
+--- BLOCK [078] ---
+Hoja gólem
+--- BLOCK [079] ---
+Hoja de Talos
+--- BLOCK [080] ---
+Hoja del tártaro
+--- BLOCK [081] ---
+Hoja mandíb. wyvern
+--- BLOCK [082] ---
+Esp. cuerno de riña
+--- BLOCK [083] ---
+Esp. cuerno de riña+
+--- BLOCK [084] ---
+Diablos dobles
+--- BLOCK [085] ---
+Címbolo de cerámica
+--- BLOCK [086] ---
+Cimetería cerámica
+--- BLOCK [087] ---
+Espada hueso Ludroth
+--- BLOCK [088] ---
+Espada de cataclismo
+--- BLOCK [089] ---
+Hoja de cataclismo
+--- BLOCK [090] ---
+Colmillo carámbano
+--- BLOCK [091] ---
+Colmillo carámbano+
+--- BLOCK [092] ---
+Palafunesto
+--- BLOCK [093] ---
+Punta tempestuosa
+--- BLOCK [094] ---
+Simún Barbarena
+--- BLOCK [095] ---
+Simún Mascarena
+--- BLOCK [096] ---
+Hoja aleta
+--- BLOCK [097] ---
+Cortaaguas Plesioth
+--- BLOCK [098] ---
+Acuahoja Plesioth
+--- BLOCK [099] ---
+Nana Plesioth
+--- BLOCK [100] ---
+Matananas Plesioth
+--- BLOCK [101] ---
+Percha de wyvern
+--- BLOCK [102] ---
+Amanita canalla
+--- BLOCK [103] ---
+Amanita señorial
+--- BLOCK [104] ---
+Hoja de amatista
+--- BLOCK [105] ---
+Miasmatista
+--- BLOCK [106] ---
+Espada furiosa
+--- BLOCK [107] ---
+Angustia
+--- BLOCK [108] ---
+Angustia de Nerón
+--- BLOCK [109] ---
+Pez arpón helado
+--- BLOCK [110] ---
+Pez arpón congelante
+--- BLOCK [111] ---
+Xiphias gladius
+--- BLOCK [112] ---
+Vulcanis
+--- BLOCK [113] ---
+Vulcanis+
+--- BLOCK [114] ---
+Vulcanvil
+--- BLOCK [115] ---
+Vulcamagnon
+--- BLOCK [116] ---
+Vulcatástrofe
+--- BLOCK [117] ---
+Vulcavendetta
+--- BLOCK [118] ---
+Gran espada oxidada
+--- BLOCK [119] ---
+G. esp. deslustrada
+--- BLOCK [120] ---
+Hoja antigua
+--- BLOCK [121] ---
+Monumento antiguo
+--- BLOCK [122] ---
+Jeroglífico eterno
+--- BLOCK [123] ---
+Gran esp. desgastada
+--- BLOCK [124] ---
+Gran esp. estropeada
+--- BLOCK [125] ---
+Hoja epitafio
+--- BLOCK [126] ---
+Epitafio eterno
+--- BLOCK [127] ---
+Gran espada Alatreon
+--- BLOCK [128] ---
+Revolución Alatreon
+--- BLOCK [129] ---
+Altheos Evolutia
+--- BLOCK [130] ---
+Fuego de Megido
+--- BLOCK [131] ---
+Depoteosis
+--- BLOCK [132] ---
+DUMMY
+--- BLOCK [133] ---
+DUMMY
+--- BLOCK [134] ---
+DUMMY
+--- BLOCK [135] ---
+DUMMY
+--- BLOCK [136] ---
+DUMMY
+--- BLOCK [137] ---
+Azote del león
+--- BLOCK [138] ---
+Cosechador de almas
+--- BLOCK [139] ---
+Eisenfaust
+--- BLOCK [140] ---

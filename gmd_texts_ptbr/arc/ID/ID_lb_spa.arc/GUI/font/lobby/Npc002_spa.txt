@@ -30,7 +30,7 @@ Você sem dúvida notou que alguns
 dos moradores têm marcas na pele.
 --- BLOCK ---
 É verdade que as pessoas do mar são
-diferentes de humanos, mas a Vila de Moga
+diferentes de humanos, mas a Vila Moga
 estaria perdida sem sua sabedoria.
 --- BLOCK ---
 Sua habilidade em construir e navegar
@@ -290,7 +290,7 @@ uma posição muito importante na Guilda,
 apesar da sua idade.
 --- BLOCK ---
 Mas quando descobriu sobre os estranhos
-terremotos na aldeia de Moga,
+terremotos na Vila Moga,
 deixou de lado seus sonhos e veio ajudar.
 --- BLOCK ---
 Um dos meus amigos da Guilda me disse
@@ -708,16 +708,16 @@ eu continuarei observando você.
 Bom dia, senhor caçador!
 Você dormiu bem?
 --- BLOCK ---
-Se lhe serve de consolo, a Aldeia
-de Moga nunca sofreu dois terremotos
+Se lhe serve de consolo, a Vila Moga
+nunca sofreu dois terremotos
 no mesm dia... bate na madeira.
 --- BLOCK ---
 Mas vamos lá. Seja bem-vindo!
 Eu sou o Chefe desta pequena
 comunidade.
 --- BLOCK ---
-A natureza nos proporciona à Aldeia de
-Moga tudo o que necessitamos. O bosque e
+A natureza proporciona à Vila Moga
+tudo o que necessitamos. O bosque e
 o mar são a nossa fortaleza.
 --- BLOCK ---
 Dizem que se viver aqui por muito 
@@ -1194,7 +1194,7 @@ voltar para casa!
 Bem, você sabe o que isso significa?
 Deve ser cozido vivo!
 --- BLOCK ---
-Ha ha, brincadeira! Na aldeia de Moga
+Ha ha, brincadeira! Na Vila Moga
 Damos as boas-vindas a todos os de 
 braços abertos, seja Shakalaka ou Lynian.
 --- BLOCK ---
@@ -1318,7 +1318,7 @@ Então foi atrás de um Gobul na Floresta
 inundada. Estou orgulhoso, meu jovem.
 --- BLOCK ---
 Parece que foi ontem que você chegou à
-Vila de Moga... e agora você está aqui,
+Vila Moga... e agora você está aqui,
 atacando um cara durão daquele jeito.
 --- BLOCK ---
 Isso servirá como prática para você.
@@ -1647,7 +1647,7 @@ Você vai se surpreender! Sim.
 --- BLOCK ---
 Quais são as chances de que dois
 Shakalaka perdidos encontrem o caminho
-de volta para a aldeia de Moga?
+de volta para a Vila Moga?
 --- BLOCK ---
 Você deve atraí-los, caçador. Você é
 bom em lidar com baixinhos excêntricos.
@@ -1763,7 +1763,7 @@ E claro que eu não poderia
 seja mais feliz.
 --- BLOCK ---
 Viu como tudo se encaixa? Meu sonho era
-construir a Vila de Moga... Mais que isso,
+construir a Vila Moga... Mais que isso,
 era o sonho dos meus ancestrais.
 --- BLOCK ---
 Agora você sabe por que tenho influência
@@ -1875,7 +1875,7 @@ identificado causava dos terremotos. Me
 escolheram para ficar e investigar.
 --- BLOCK ---
 Fiquei muito feliz. Era meu sonho
-construir a Vila de Moga... Era algo além
+construir a Vila Moga... Era algo além
 disso, era o sonho dos meus ancestrais.
 --- BLOCK ---
 Agora eu sei que o Ceadeus, é assim que o
@@ -1954,7 +1954,7 @@ caçador de destaque em qualquer lugar.
 Espero que onde quer que você vá, nunca
 se esqueça dos amigos que você tem aqui.
 --- BLOCK ---
-A Aldeia de Moga sempre será seu lar.
+A Vila Moga sempre será seu lar.
 --- BLOCK ---
 E um dia, quando olharmos para o mar te
 virmos em pé na proa de um navio de

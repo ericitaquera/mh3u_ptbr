@@ -1,0 +1,461 @@
+GAL_TITLE
+--- BLOCK ---
+GAL_DESC
+--- BLOCK ---
+GAL_UI
+--- BLOCK ---
+Porto Tanzia
+--- BLOCK ---
+Santuário da Vida
+--- BLOCK ---
+Montanhas Eternas
+--- BLOCK ---
+Terra dos Extremos
+--- BLOCK ---
+Paraíso Arborizado
+--- BLOCK ---
+Tempo Congelado
+--- BLOCK ---
+Região das Chamas
+--- BLOCK ---
+Carnívoro Pequeno
+--- BLOCK ---
+Testando as Águas
+--- BLOCK ---
+Lagiacrus
+--- BLOCK ---
+Carnívoros Marinhos
+--- BLOCK ---
+Cazamiel
+--- BLOCK ---
+Líder da Matilha
+--- BLOCK ---
+Orgulho do Clã
+--- BLOCK ---
+O Imitador
+--- BLOCK ---
+Juba Poderosa
+--- BLOCK ---
+Juggernaut Arenoso
+--- BLOCK ---
+Abra e diga "argh"
+--- BLOCK ---
+Assassino do abismo
+--- BLOCK ---
+Milagre sobre gelo
+--- BLOCK ---
+Nanuk azul
+--- BLOCK ---
+O wyvern dorme
+--- BLOCK ---
+Rainha da terra
+--- BLOCK ---
+Sombra à espreita
+--- BLOCK ---
+Levin Maelstrom
+--- BLOCK ---
+Montanha contra topo
+--- BLOCK ---
+Rolador vermelho
+--- BLOCK ---
+Glutão das areias
+--- BLOCK ---
+Rei dos céus
+--- BLOCK ---
+Arrepio veloz
+--- BLOCK ---
+Tirano impiedoso
+--- BLOCK ---
+Ameaça vulcânica
+--- BLOCK ---
+Armadura carmesim
+--- BLOCK ---
+Lua na água
+--- BLOCK ---
+Deus furioso
+--- BLOCK ---
+O grande devorador
+--- BLOCK ---
+Wyvern das águas
+--- BLOCK ---
+Luz da lua noturna
+--- BLOCK ---
+Humor explosivo
+--- BLOCK ---
+Furacão furioso
+--- BLOCK ---
+Conquistador mundial
+--- BLOCK ---
+Símbolo adorado
+--- BLOCK ---
+Mais que um deus
+--- BLOCK ---
+Arquiteto do caos
+--- BLOCK ---
+(vídeo em 2D)
+--- BLOCK ---
+Da escuridão
+--- BLOCK ---
+Vida do Qurupeco
+--- BLOCK ---
+Vida do Barroth
+--- BLOCK ---
+Vida do Gobul
+--- BLOCK ---
+Vida do Uragaan
+--- BLOCK ---
+A vida do Plesioth
+--- BLOCK ---
+A vida do Zinogre
+--- BLOCK ---
+Vida do Brachydios
+--- BLOCK ---
+Introdução do MH3U
+--- BLOCK ---
+Introdução do MH3
+--- BLOCK ---
+Vila de Moga
+--- BLOCK ---
+Sempre lembrado
+--- BLOCK ---
+Revelando a verdade
+--- BLOCK ---
+Créditos
+--- BLOCK ---
+Tocar o gongo
+--- BLOCK ---
+Promoção de MH3U
+--- BLOCK ---
+Ode à vida
+--- BLOCK ---
+Todos são enormes!
+--- BLOCK ---
+Vídeo conceitual de MH4
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Movimentado porto que serve como
+núcleo comercial. Conhecido como o
+"oásis marítimo", Tanzia é
+ideal para trocar informações.
+--- BLOCK ---
+Uma ilha deserta, cercada pelo mar
+e coroada por densas montanhas, oferece
+à vida e ao povo de
+Moga tudo o que precisam.
+--- BLOCK ---
+A remota região das Montanhas
+Tempestuosas possui uma beleza imperecível.
+As correntes formam neblina que
+se ergue bem cedo.
+--- BLOCK ---
+Os dias quentes e as
+noites frias dos planaltos arenosos
+são o habitat de muitos
+monstros que lutam para sobreviver.
+--- BLOCK ---
+As nascentes cristalinas que alimentam o
+ano todo a floresta alagada dão
+origem a um denso dossel verde,
+berço de uma vida abundante.
+--- BLOCK ---
+A tundra, um mundo cintilante de
+temperatura glacial. Que tipo de
+vida pode existir em uma
+paisagem tão branca e imutável?
+--- BLOCK ---
+O vulcão: um lugar remoto onde
+o magma mantém os exploradores à
+distância. Aqui estão monstros gigantes
+e minerais de grande valor.
+--- BLOCK ---
+Enfrente o Jaggi, um tipo
+de carnívoro pequeno. Caçam em
+matilhas. Não os subestime,
+apesar de seu tamanho.
+--- BLOCK ---
+Peixes multicoloridos nadam nestas águas. Podem
+chegar a 2,5 m de comprimento.
+São parte insubstituível e muito valiosa
+da vida na vila Moga.
+--- BLOCK ---
+Lagiacrus, senhor dos mares, aparece
+em um local inesperado. Será
+que um simples caçador pode
+sobreviver aos poderosos golpes?
+--- BLOCK ---
+Ludroths são pequenos monstros territoriais
+costeiros liderados por um macho
+alfa. Atacam intrusos com
+violência e sem piedade.
+--- BLOCK ---
+Arzuros passeia em busca de comida. Os
+pequenos monstros escorregam em sua baba.
+Mas não têm medo, pois ele
+só quer seu tão desejado mel.
+--- BLOCK ---
+O Grande Jaggi lidera os Jaggi
+menores na caça. Ele pode convocá-los
+com seus gritos e há quem
+diga que dá ordens de ataque.
+--- BLOCK ---
+Cha-Cha, um garoto da tribo Shakalaka,
+cai acidentalmente nas mandíbulas do perigo.
+Será que ele conseguirá se
+defender e orgulhar seu clã?
+--- BLOCK ---
+O astuto Qurupeco é conhecido por
+seu órgão vocal versátil e
+sua habilidade de imitar gritos
+de socorro de outros monstros.
+--- BLOCK ---
+O Ludroth real é maior
+do que a fêmea Ludroth.
+Sua famosa juba, formada por
+escamas fofas, prova seu liderança.
+--- BLOCK ---
+O Barroth costuma se esconder em
+terras pantanosas, mas quando fica irritado,
+é imparável. Sua fúria destroça até
+mesmo os formigueiros mais resistentes.
+--- BLOCK ---
+O venenoso hálito do Wroggi magnífico
+aterroriza as criaturas. Nem escamas nem
+peles são suficientes contra a toxina
+que ataca de dentro para fora.
+--- BLOCK ---
+O Gobul é especialista em camuflagem.
+Suas presas geralmente têm um momento
+para ver seu atacante antes de
+caírem na grande boca do Gobul.
+--- BLOCK ---
+O Lagombi usa a pele grossa
+de sua barriga para deslizar sobre
+áreas congeladas. Uma ótima forma de
+viajar sobre o gelo escorregadio.
+--- BLOCK ---
+O Grande Baggi marca seu
+território na tundra, cercando e
+sedando sua presa antes de
+devorar a inocente vítima.
+--- BLOCK ---
+O Lagiacrus dorme sem medo em
+terra firme, indiferente aos Jaggi
+que passam por perto. Mesmo
+dormindo, este senhor impõe respeito.
+--- BLOCK ---
+A Rathian desce dos céus para
+levantar sua presa do chão. Seu
+poder e graça lhe renderam o
+título de "Rainha da terra".
+--- BLOCK ---
+O Gigginox é um wyvern grotesco
+que frequenta lugares cavernosos. As inúmeras
+escamas em suas costas permitem que
+ele escale paredes e tetos.
+--- BLOCK ---
+Chegou a hora, não há
+mais volta. A esperança da
+vila depende do caçador, que
+enfrentará um verdadeiro adversário.
+--- BLOCK ---
+O Duramboros descansa ao espalhar
+sua cauda em forma de
+martelo no chão. Mas um
+Shakalaka parecido com Cha-Cha aparece...
+--- BLOCK ---
+O blindado Volvidon se esmaga
+e rola no meio do
+calor abrasador. Sua longa língua
+pode capturar presas distantes rapidamente.
+--- BLOCK ---
+Nibelsnarf. A sinistra sombra do raro
+leviatã espreita os Llanos arenosos. Sua
+audição permite que ele ouça os
+sons de sua presa de longe.
+--- BLOCK ---
+Os temíveis Rathalos descem para capturar
+suas presas com suas garras
+venenosas. Junto com a Rathian,
+são os wyverns mais famosos.
+--- BLOCK ---
+O rápido Barioth se senta
+em seu trono gelado com
+dignidade. Qualquer presa que o
+encontre acabará capturada e consumida.
+--- BLOCK ---
+O Diablos, wyvern e tirano do
+deserto, é orgulhoso e territorial.
+Ele utiliza seus dois grandes
+chifres para defender seu território.
+--- BLOCK ---
+O Uragaan é conhecido pela peculiar
+prática de colar pedras em seu
+corpo com lava. Para atrair
+parceiros? Para alimentação? Quem sabe.
+--- BLOCK ---
+O Agnaktor cobre seu corpo com
+uma armadura de lava e usa
+seu bico especial para abrir
+conchas de Rhenoplos e comê-los.
+--- BLOCK ---
+O Ceadeus, um dragão marinho ancião
+conhecido como o "gigante brilhante" pela
+luz que emite. Há séculos
+não se vê um exemplar.
+--- BLOCK ---
+O Ceadeus ameaça a vila
+de Moga com desastre. O
+caçador sai para desafiá-lo determinado
+a não decepcionar os aldeões.
+--- BLOCK ---
+Enquanto um Grande Jaggi se
+prepara para uma refeição de
+Aptonoth, o voraz Deviljho irrompe
+na cena. É extremamente aterrorizante.
+--- BLOCK ---
+O Plesioth desliza graciosamente pelo
+mar. Apesar de seu tamanho,
+se aproxima sorrateiramente de sua
+presa antes do golpe fatal.
+--- BLOCK ---
+Quando o uivo de Zinogre ecoa
+pela noite, seu corpo brilha com
+luzes fosforescentes. O caçador sem igual
+aguarda por um rival digno.
+--- BLOCK ---
+As patas dianteiras do Brachydios são
+assustadoras, mas o que realmente aterroriza
+o inimigo é sua agilidade
+junto com sua saliva explosiva.
+--- BLOCK ---
+O Nargacuga atravessa a noite como um
+vento negro feroz. Aquele que vê o
+brilho da assustadora luz vermelha não verá
+a luz de um novo dia.
+--- BLOCK ---
+O arqui-inimigo do Chefe aparece. O
+dia da fatídica luta chegou. O
+espírito do caçador que herdaste
+do ancião brilha em ti.
+--- BLOCK ---
+O Jhen Mohran: símbolo de coragem
+e prosperidade. Os caçadores de fortuna
+o perseguem em caçadragões, sem
+se importar com o perigo.
+--- BLOCK ---
+Uma subespécie de Ceadeus! Tremem diante
+da luz dourada que emana de
+seu grande corpo. O desafio iguala-se
+ao tesouro obtido da besta.
+--- BLOCK ---
+O Miralis funesto lendário emerge das
+profundezas do oceano. É o titã
+que criou o mundo? Ou
+o demônio que deseja destruí-lo?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Alatreon, rei das trevas, emerge
+das profundezas. Suas asas negras
+eclipsam as esperanças e vidas
+daqueles que as veem.
+--- BLOCK ---
+Na costa, o Qurupeco
+pesca seus peixes favoritos...
+até que visitantes muito
+inconvenientes estragam sua pescaria.
+--- BLOCK ---
+O Barroth dorme sob uma
+cama de lama, mas bandidos
+perturbaram seu descanso. Agora
+enfrentarão a dura realidade.
+--- BLOCK ---
+Um cardume de peixes desaparece num
+piscar de olhos, devorado por
+um Gobul que tem como
+norma: devorar primeiro, digerir depois.
+--- BLOCK ---
+Dois Uragaan se confrontam sem parar.
+Competirão pela atenção de uma fêmea
+ou apenas desfrutam de um
+pouco de diversão? Quem sabe.
+--- BLOCK ---
+O Plesioth se aproxima silenciosamente quando
+sua vítima se aproxima da margem.
+Num instante, a presa mergulha
+e nunca mais aparecerá viva.
+--- BLOCK ---
+A floresta se agita e as
+bestas começam a marcha real. Seu
+instinto lhes permite sentir o poder
+devastador do caçador sem igual.
+--- BLOCK ---
+Quando o Brachydios invade a terra
+sagrada do Agnaktor, a violência
+se desencadeia. Que monstro reinará
+sobre o vulcão no final?
+--- BLOCK ---
+Introdução do Monster
+Hunter 3 Ultimate.
+--- BLOCK ---
+Vídeo introdutório do
+Monster Hunter Tri
+(versão japonesa).
+--- BLOCK ---
+Além da proa, avista-se uma
+pequena vila insular. As florestas
+próximas e os mares fornecem
+ao povo o que precisam.
+--- BLOCK ---
+O medo abandona o coração dos habitantes
+de Moga e a paz retorna.
+Eles celebram com um grande banquete
+em honra ao seu amado herói.
+--- BLOCK ---
+Final do MH3U. Em busca da
+máscara definitiva, Cha-Cha e Kayamba embarcam
+em uma aventura que revela o
+outro lado de um conto familiar.
+--- BLOCK ---
+Créditos do Monster
+Hunter 3 Ultimate.
+--- BLOCK ---
+Jhen Mohran se aproxima, o minério
+em suas costas denota prosperidade. Os
+caçadores sobem a bordo e, sem
+medo, se preparam para o encontro.
+--- BLOCK ---
+Vídeo promocional criado para o Monster
+Hunter 3 Ultimate no Japão.
+--- BLOCK ---
+A terra fala, os mares cantam
+e os céus ressoam. A bondade
+da natureza é distribuída igualmente
+entre todos os seres vivos.
+--- BLOCK ---
+Vídeo especial feito para o Monster
+Hunter Festa '09 no Japão. Cha-Cha
+nos mostra o quão grandes
+essas ferozes bestas podem ser!
+--- BLOCK ---
+Vídeo conceitual para o Monster Hunter
+4, mostrado pela primeira vez no
+Japão no outono de 2011.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Selecione um vídeo para assistir.
+--- BLOCK ---
+Voltar
+--- BLOCK ---
+Selecione o período do dia.
+--- BLOCK ---
+Dia
+--- BLOCK ---
+Noite
+--- BLOCK ---

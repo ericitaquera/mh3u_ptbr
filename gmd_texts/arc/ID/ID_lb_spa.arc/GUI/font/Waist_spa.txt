@@ -1,0 +1,744 @@
+﻿TMSG_WAIST
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Cinturón de cuero
+--- BLOCK ---
+Cinturón piscine
+--- BLOCK ---
+Cinturón de malla
+--- BLOCK ---
+Falda Loc Lac
+--- BLOCK ---
+Muslera de cazador
+--- BLOCK ---
+Cota de cazador
+--- BLOCK ---
+Muslera de hueso
+--- BLOCK ---
+Cota de hueso
+--- BLOCK ---
+Faja de aleación
+--- BLOCK ---
+Cota de aleación
+--- BLOCK ---
+Muslera de Jaggi
+--- BLOCK ---
+Cota de Jaggi
+--- BLOCK ---
+Faja de Bnahabra
+--- BLOCK ---
+Cota de Bnahabra
+--- BLOCK ---
+Faja de Rhenoplos
+--- BLOCK ---
+Cota de Rhenoplos
+--- BLOCK ---
+Faja de Qurupeco
+--- BLOCK ---
+Cota de Qurupeco
+--- BLOCK ---
+Muslera de Ludroth
+--- BLOCK ---
+Cota de Ludroth
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Faja de Baggi
+--- BLOCK ---
+Cota de Baggi
+--- BLOCK ---
+Muslera de Barroth
+--- BLOCK ---
+Cota de Barroth
+--- BLOCK ---
+Muslera de Gobul
+--- BLOCK ---
+Cota de Gobul
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Faja bardo gremio
+--- BLOCK ---
+Cota de bardo gremio
+--- BLOCK ---
+Falda de colegiala
+--- BLOCK ---
+Minifalda colegiala
+--- BLOCK ---
+Muslera de Rathian
+--- BLOCK ---
+Cota de Rathian
+--- BLOCK ---
+Muslera de Gigginox
+--- BLOCK ---
+Cota de Gigginox
+--- BLOCK ---
+Faja de lingote
+--- BLOCK ---
+Cota de lingote
+--- BLOCK ---
+Muslera de Lagiacrus
+--- BLOCK ---
+Cota de Lagiacrus
+--- BLOCK ---
+Muslera de Rathalos
+--- BLOCK ---
+Cota de Rathalos
+--- BLOCK ---
+Muslera de Barioth
+--- BLOCK ---
+Cota de Barioth
+--- BLOCK ---
+Faja de Diablos
+--- BLOCK ---
+Cota de Diablos
+--- BLOCK ---
+Muslera de Uragaan
+--- BLOCK ---
+Cota de Uragaan
+--- BLOCK ---
+Muslera de Agnaktor
+--- BLOCK ---
+Cota de Agnaktor
+--- BLOCK ---
+Faja de Helios
+--- BLOCK ---
+Cota de Helios
+--- BLOCK ---
+Faja de Selene
+--- BLOCK ---
+Cota de Selene
+--- BLOCK ---
+Muslera de Wroggi
+--- BLOCK ---
+Cota de Wroggi
+--- BLOCK ---
+Muslera de Arzuros
+--- BLOCK ---
+Cota de Arzuros
+--- BLOCK ---
+Muslera de Lagombi
+--- BLOCK ---
+Cota de Lagombi
+--- BLOCK ---
+Muslera de Volvidon
+--- BLOCK ---
+Cota de Volvidon
+--- BLOCK ---
+Muslera Nibelsnarf
+--- BLOCK ---
+Cota de Nibelsnarf
+--- BLOCK ---
+Muslera Duramboros
+--- BLOCK ---
+Cota de Duramboros
+--- BLOCK ---
+Obi Yukumo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Muslera de cuero S
+--- BLOCK ---
+Cota de cuero S
+--- BLOCK ---
+Cinturón piscine S
+--- BLOCK ---
+Tanque de piscine S
+--- BLOCK ---
+Muslera de malla S
+--- BLOCK ---
+Cota de malla S
+--- BLOCK ---
+Falda Loc Lac S
+--- BLOCK ---
+Cota Loc Lac S
+--- BLOCK ---
+Muslera de cazador S
+--- BLOCK ---
+Cota de cazador S
+--- BLOCK ---
+Muslera de hueso S
+--- BLOCK ---
+Cota de hueso S
+--- BLOCK ---
+Faja de aleación S
+--- BLOCK ---
+Cota de aleación S
+--- BLOCK ---
+Muslera de Jaggi S
+--- BLOCK ---
+Cota de Jaggi S
+--- BLOCK ---
+Faja de Bnahabra S
+--- BLOCK ---
+Cota de Bnahabra S
+--- BLOCK ---
+Faja de Rhenoplos S
+--- BLOCK ---
+Cota de Rhenoplos S
+--- BLOCK ---
+Faja de Qurupeco S
+--- BLOCK ---
+Cota de Qurupeco S
+--- BLOCK ---
+Faja de Qurupeco U
+--- BLOCK ---
+Cota de Qurupeco U
+--- BLOCK ---
+Muslera de Ludroth S
+--- BLOCK ---
+Cota de Ludroth S
+--- BLOCK ---
+Muslera de Ludroth U
+--- BLOCK ---
+Cota de Ludroth U
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Faja de Baggi S
+--- BLOCK ---
+Cota de Baggi S
+--- BLOCK ---
+Muslera de Wroggi S
+--- BLOCK ---
+Cota de Wroggi S
+--- BLOCK ---
+Muslera de Arzuros S
+--- BLOCK ---
+Cota de Arzuros S
+--- BLOCK ---
+Muslera de Lagombi S
+--- BLOCK ---
+Cota de Lagombi S
+--- BLOCK ---
+Muslera Volvidon S
+--- BLOCK ---
+Cota de Volvidon S
+--- BLOCK ---
+Muslera de Barroth S
+--- BLOCK ---
+Cota de Barroth S
+--- BLOCK ---
+Muslera de Barroth U
+--- BLOCK ---
+Cota de Barroth U
+--- BLOCK ---
+Muslera de Gobul S
+--- BLOCK ---
+Cota de Gobul S
+--- BLOCK ---
+Faja bardo gremio S
+--- BLOCK ---
+Cota bardo gremio S
+--- BLOCK ---
+Falda de colegiala S
+--- BLOCK ---
+Minifalda coleg. S
+--- BLOCK ---
+Muslera de Rathian S
+--- BLOCK ---
+Cota de Rathian S
+--- BLOCK ---
+Faja corazón wyvern
+--- BLOCK ---
+Cota corazón wyvern
+--- BLOCK ---
+Muslera Gigginox S
+--- BLOCK ---
+Cota de Gigginox S
+--- BLOCK ---
+Muslera Gigginox U
+--- BLOCK ---
+Cota de Gigginox U
+--- BLOCK ---
+Faja de lingote S
+--- BLOCK ---
+Cota de lingote S
+--- BLOCK ---
+Faja de Dober
+--- BLOCK ---
+Cota de Dober
+--- BLOCK ---
+Obi cielo Yukumo
+--- BLOCK ---
+Obi tierra Yukumo
+--- BLOCK ---
+Élitro de Aelucanth
+--- BLOCK ---
+Ala de Aelucanth
+--- BLOCK ---
+Élitro de Rhopessa
+--- BLOCK ---
+Ala de Rhopessa
+--- BLOCK ---
+Hoja de Mosgharl
+--- BLOCK ---
+Fronda de Mosgharl
+--- BLOCK ---
+Muslera Lagiacrus S
+--- BLOCK ---
+Cota de Lagiacrus S
+--- BLOCK ---
+Muslera Lagiacrus U
+--- BLOCK ---
+Cota de Lagiacrus U
+--- BLOCK ---
+Muslera Rathalos S
+--- BLOCK ---
+Cota de Rathalos S
+--- BLOCK ---
+Faja alma wyvern
+--- BLOCK ---
+Cota alma wyvern
+--- BLOCK ---
+Muslera de Barioth S
+--- BLOCK ---
+Cota de Barioth S
+--- BLOCK ---
+Muslera de Barioth U
+--- BLOCK ---
+Cota de Barioth U
+--- BLOCK ---
+Faja de Diablos S
+--- BLOCK ---
+Cota de Diablos S
+--- BLOCK ---
+Faja de Diablos U
+--- BLOCK ---
+Cota de Diablos U
+--- BLOCK ---
+Muslera de Uragaan S
+--- BLOCK ---
+Cota de Uragaan S
+--- BLOCK ---
+Muslera de Uragaan U
+--- BLOCK ---
+Cota de Uragaan U
+--- BLOCK ---
+Muslera Agnaktor S
+--- BLOCK ---
+Cota de Agnaktor S
+--- BLOCK ---
+Muslera Agnaktor U
+--- BLOCK ---
+Cota de Agnaktor U
+--- BLOCK ---
+Faja Vangis
+--- BLOCK ---
+Cota Vangis
+--- BLOCK ---
+Faja de Damasco
+--- BLOCK ---
+Cota de Damasco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Koshiate Yamato
+--- BLOCK ---
+Koshiate Mutsu
+--- BLOCK ---
+Koshiate Hyuga
+--- BLOCK ---
+Koshiate Amagi
+--- BLOCK ---
+Poder Escadora
+--- BLOCK ---
+Fuerza Escadora
+--- BLOCK ---
+Muslera de Zinogre
+--- BLOCK ---
+Cota de Zinogre
+--- BLOCK ---
+Muslera Nibelsnarf S
+--- BLOCK ---
+Cota de Nibelsnarf S
+--- BLOCK ---
+Muslera Duramboros S
+--- BLOCK ---
+Cota de Duramboros S
+--- BLOCK ---
+Muslera de Nargacuga
+--- BLOCK ---
+Cota de Nargacuga
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Muslera Brachydios
+--- BLOCK ---
+Cota de Brachydios
+--- BLOCK ---
+Falda floral
+--- BLOCK ---
+Falda campanilla
+--- BLOCK ---
+Fajín de soldado
+--- BLOCK ---
+Cinturón de arquero
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Faja de lingote X
+--- BLOCK ---
+Cota de lingote X
+--- BLOCK ---
+Faja de Bnahabra X
+--- BLOCK ---
+Cota de Bnahabra X
+--- BLOCK ---
+Faja de Rhenoplos X
+--- BLOCK ---
+Cota de Rhenoplos X
+--- BLOCK ---
+Muslera de Jaggi X
+--- BLOCK ---
+Cota de Jaggi X
+--- BLOCK ---
+Faja de Baggi X
+--- BLOCK ---
+Cota de Baggi X
+--- BLOCK ---
+Muslera de Wroggi X
+--- BLOCK ---
+Cota de Wroggi X
+--- BLOCK ---
+Muslera de Arzuros X
+--- BLOCK ---
+Cota de Arzuros X
+--- BLOCK ---
+Muslera de Lagombi X
+--- BLOCK ---
+Cota de Lagombi X
+--- BLOCK ---
+Muslera Volvidon X
+--- BLOCK ---
+Cota de Volvidon X
+--- BLOCK ---
+Faja de Qurupeco X
+--- BLOCK ---
+Cota de Qurupeco X
+--- BLOCK ---
+Faja de Qurupeco Z
+--- BLOCK ---
+Cota de Qurupeco Z
+--- BLOCK ---
+Muslera de Ludroth X
+--- BLOCK ---
+Cota de Ludroth X
+--- BLOCK ---
+Muslera de Ludroth Z
+--- BLOCK ---
+Cota de Ludroth Z
+--- BLOCK ---
+Muslera de Barroth X
+--- BLOCK ---
+Cota de Barroth X
+--- BLOCK ---
+Muslera de Barroth Z
+--- BLOCK ---
+Cota de Barroth Z
+--- BLOCK ---
+Muslera de Gobul X
+--- BLOCK ---
+Cota de Gobul X
+--- BLOCK ---
+Muslera Rathalos X
+--- BLOCK ---
+Cota de Rathalos X
+--- BLOCK ---
+Faja alma wyvern Z
+--- BLOCK ---
+Cota alma wyvern Z
+--- BLOCK ---
+Faja argéntea
+--- BLOCK ---
+Cota argéntea
+--- BLOCK ---
+Muslera de Rathian X
+--- BLOCK ---
+Cota de Rathian X
+--- BLOCK ---
+Faja corazón wyv. Z
+--- BLOCK ---
+Cota corazón wyv. Z
+--- BLOCK ---
+Faja lunar de oro
+--- BLOCK ---
+Cota lunar de oro
+--- BLOCK ---
+Muslera Lagiacrus X
+--- BLOCK ---
+Cota de Lagiacrus X
+--- BLOCK ---
+Muslera Lagiacrus Z
+--- BLOCK ---
+Cota de Lagiacrus Z
+--- BLOCK ---
+Muslera tenebrosa
+--- BLOCK ---
+Cota tenebrosa
+--- BLOCK ---
+Muslera Gigginox X
+--- BLOCK ---
+Cota de Gigginox X
+--- BLOCK ---
+Muslera Gigginox Z
+--- BLOCK ---
+Cota de Gigginox Z
+--- BLOCK ---
+Muslera de Barioth X
+--- BLOCK ---
+Cota de Barioth X
+--- BLOCK ---
+Muslera de Barioth Z
+--- BLOCK ---
+Cota de Barioth Z
+--- BLOCK ---
+Faja de Diablos X
+--- BLOCK ---
+Cota de Diablos X
+--- BLOCK ---
+Faja de Diablos Z
+--- BLOCK ---
+Cota de Diablos Z
+--- BLOCK ---
+Muslera de Uragaan X
+--- BLOCK ---
+Cota de Uragaan X
+--- BLOCK ---
+Muslera de Uragaan Z
+--- BLOCK ---
+Cota de Uragaan Z
+--- BLOCK ---
+Muslera Agnaktor X
+--- BLOCK ---
+Cota de Agnaktor X
+--- BLOCK ---
+Muslera Agnaktor Z
+--- BLOCK ---
+Cota de Agnaktor Z
+--- BLOCK ---
+Faja de Helios X
+--- BLOCK ---
+Cota de Helios X
+--- BLOCK ---
+Faja de Helios Z
+--- BLOCK ---
+Cota de Helios Z
+--- BLOCK ---
+Faja de Selene X
+--- BLOCK ---
+Cota de Selene X
+--- BLOCK ---
+Faja de Selene Z
+--- BLOCK ---
+Cota de Selene Z
+--- BLOCK ---
+Gran Koshiate Yamato
+--- BLOCK ---
+Gran Koshiate Mutsu
+--- BLOCK ---
+Gran Koshiate Hyuga
+--- BLOCK ---
+Gran Koshiate Amagi
+--- BLOCK ---
+Real Koshiate Yamato
+--- BLOCK ---
+Real Koshiate Mutsu
+--- BLOCK ---
+Real Koshiate Hyuga
+--- BLOCK ---
+Real Koshiate Amagi
+--- BLOCK ---
+Faja Vangis X
+--- BLOCK ---
+Cota Vangis X
+--- BLOCK ---
+Poder Escadora X
+--- BLOCK ---
+Fuerza Escadora X
+--- BLOCK ---
+Faja de Zinogre X
+--- BLOCK ---
+Cota de Zinogre X
+--- BLOCK ---
+Faja de Zinogre Z
+--- BLOCK ---
+Cota de Zinogre Z
+--- BLOCK ---
+Muslera Nibelsnarf X
+--- BLOCK ---
+Cota de Nibelsnarf X
+--- BLOCK ---
+Muslera Duramboros X
+--- BLOCK ---
+Cota de Duramboros X
+--- BLOCK ---
+Muslera Duramboros Z
+--- BLOCK ---
+Cota de Duramboros Z
+--- BLOCK ---
+Muslera Nargacuga X
+--- BLOCK ---
+Cota de Nargacuga X
+--- BLOCK ---
+Muslera Nargacuga Z
+--- BLOCK ---
+Cota de Nargacuga Z
+--- BLOCK ---
+Fajín radiante
+--- BLOCK ---
+Fajín silueta
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Muslera Brachydios X
+--- BLOCK ---
+Cota de Brachydios X
+--- BLOCK ---
+Lengüeta de Miralis
+--- BLOCK ---
+Vaina de Miralis
+--- BLOCK ---
+Faja de Damasco X
+--- BLOCK ---
+Cota de Damasco X
+--- BLOCK ---
+Faja de Dober X
+--- BLOCK ---
+Cota de Dober X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Élitro Aelucanth X
+--- BLOCK ---
+Ala de Aelucanth X
+--- BLOCK ---
+Élitro de Rhopessa X
+--- BLOCK ---
+Ala de Rhopessa X
+--- BLOCK ---
+Hoja de Mosgharl X
+--- BLOCK ---
+Fronda de Mosgharl X
+--- BLOCK ---
+Faldón floral
+--- BLOCK ---
+Faldón campanilla
+--- BLOCK ---
+Fajín montaraz
+--- BLOCK ---
+Cinturón de tirador
+--- BLOCK ---
+Faja bardo gremio X
+--- BLOCK ---
+Cota bardo gremio X
+--- BLOCK ---
+Falda de colegiala X
+--- BLOCK ---
+Minifalda coleg. X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Falda de marinero
+--- BLOCK ---
+Minifalda marinero
+--- BLOCK ---
+Ceñidor Chakra
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

@@ -1,0 +1,5543 @@
+TMSG_ITEM
+--- BLOCK ---
+－－－－－－
+--- BLOCK ---
+(Nenhum)
+--- BLOCK ---
+Texto introdutório para novos
+combinadores. Oferece melhores
+opções de sucesso.
+--- BLOCK ---
+Texto básico. Junto com
+1, melhora as opções
+de sucesso ao combinar.
+--- BLOCK ---
+Texto intermediário. Junto com
+1 e 2, melhora
+as opções de sucesso.
+--- BLOCK ---
+Texto avançado. Com 1, 2
+e 3, melhora as opções
+de sucesso ao combinar.
+--- BLOCK ---
+Texto profissional. Com 1, 2,
+3 e 4, melhora
+as opções de sucesso.
+--- BLOCK ---
+Edição da revista "Vida de
+caça" com um artigo sobre
+a Caixa de objetos.
+--- BLOCK ---
+Edição da revista "Vida de
+caça" com artigo sobre
+o transporte de objetos.
+--- BLOCK ---
+Restaura levemente
+a Saúde.
+--- BLOCK ---
+Restaura moderadamente
+a Saúde.
+--- BLOCK ---
+Aumenta levemente o
+nível de Saúde.
+--- BLOCK ---
+Medicamento que aumenta
+levemente o nível
+máximo de Saúde.
+--- BLOCK ---
+Elimina eficazmente qualquer
+vestígio de veneno
+em seu sistema.
+--- BLOCK ---
+Medicamento que aumenta
+a capacidade natural
+de recuperação.
+--- BLOCK ---
+Permite correr sem se
+cansar por um certo
+período de tempo.
+--- BLOCK ---
+Permite correr sem se cansar
+por mais tempo do que
+o Suco de poder.
+--- BLOCK ---
+Aumenta o Ataque concedendo a
+força do próprio Asura
+a quem o consome.
+--- BLOCK ---
+Aumenta o Ataque ainda
+mais do que
+a Droga demoníaca.
+--- BLOCK ---
+Um comprimido fortalecedor que
+concede o poder de
+um deus feroz.
+--- BLOCK ---
+Aumenta a Defesa ao
+endurecer a pele como
+uma armadura de pedra.
+--- BLOCK ---
+Aumenta a Defesa ainda
+mais do que a
+pele de armadura.
+--- BLOCK ---
+Um comprimido que temporariamente
+dá à sua pele
+a força do metal.
+--- BLOCK ---
+Bebida que concede
+resistência temporária ao
+calor extremo.
+--- BLOCK ---
+Bebida que concede
+resistência temporária ao
+frio extremo.
+--- BLOCK ---
+Elimina imediatamente o gelo
+ou lama do corpo.
+Como por mágica!
+--- BLOCK ---
+Melhora temporariamente seu
+sexto sentido para
+detectar monstros.
+--- BLOCK ---
+Cura eficazmente o
+veneno e restaura
+levemente a Saúde.
+--- BLOCK ---
+Restaura a Saúde ao
+máximo e aumenta o
+indicador de Saúde.
+--- BLOCK ---
+Restaura a Saúde ao máximo
+e aumenta os indicadores
+de Saúde e Resistência.
+--- BLOCK ---
+Mistura-se com materiais para
+melhorar o efeito. Não
+pode ser usado sozinho.
+--- BLOCK ---
+Bebida da Guilda que
+aumenta sua Resistência. Ajuda
+a afastar o sono!
+--- BLOCK ---
+Poção que restaura o
+oxigênio e permite aguentar
+mais debaixo d'água.
+--- BLOCK ---
+Poção que restaura o
+oxigênio e permite aguentar
+muito tempo debaixo d'água.
+--- BLOCK ---
+Substância perigosa que
+explode ao ser
+atingida ou aquecida.
+--- BLOCK ---
+Cristais misteriosos adorados
+como fonte
+de vida.
+--- BLOCK ---
+Medicamento feito de Cristais
+de vida. Cura instantaneamente
+a todos ao alcance.
+--- BLOCK ---
+Amuleto modesto de sorte.
+O que faz? Termine
+a aventura e descobrirá.
+--- BLOCK ---
+Amuleto curioso de sorte.
+O que faz? Termine
+a aventura e descobrirá.
+--- BLOCK ---
+Amuleto poderoso de sorte.
+O que faz? Termine
+a aventura e descobrirá.
+--- BLOCK ---
+Amuleto misterioso de sorte.
+O que faz? Termine
+a aventura e descobrirá.
+--- BLOCK ---
+Amuleto que aumenta o poder
+de Ataque. Concede a
+força de um demônio.
+--- BLOCK ---
+Amuleto que aumenta o
+Ataque. Feito com a
+garra de um Deviljho.
+--- BLOCK ---
+Amuleto que aumenta a
+Defesa. A pele endurece
+como uma pedra.
+--- BLOCK ---
+Amuleto que aumenta a
+Defesa. Feito com a
+garra de um Deviljho.
+--- BLOCK ---
+Medicamento usado
+como anestésico
+quando combinado.
+--- BLOCK ---
+Carne obtida ao
+esquartejar um monstro.
+Tem diversos usos.
+--- BLOCK ---
+Carne crua envenenada. Usada
+como isca em armadilhas.
+--- BLOCK ---
+Carne crua paralisante. Usada
+como isca em armadilhas.
+--- BLOCK ---
+Carne crua sonífera. Usada
+como isca em armadilhas.
+--- BLOCK ---
+Carne malpassada.
+Aumenta levemente
+a Resistência.
+--- BLOCK ---
+Carne bem passada.
+Aumenta moderadamente
+a Resistência.
+--- BLOCK ---
+Carne tostada e crocante.
+Aumenta a Resistência, mas
+pode enfraquecer também.
+--- BLOCK ---
+Carne que aquece, combate
+o frio e
+aumenta a Resistência.
+--- BLOCK ---
+Carne refrescante que combate
+o calor e
+aumenta a Resistência.
+--- BLOCK ---
+Fígado acre de certos
+monstros grandes. Não costuma
+agradar aos humanos.
+--- BLOCK ---
+Carne rara e fibrosa de
+wyvern com chifres. Não
+costuma agradar aos humanos.
+--- BLOCK ---
+Arma incrivelmente afiada trazida
+do exterior que volta
+após ser lançada.
+--- BLOCK ---
+Faca de arremesso padrão.
+Voando reto e
+preciso. <COLO 05>(Fornecimento)
+--- BLOCK ---
+Faca de arremesso
+envenenada. Envenena os
+alvos. <COLO 05>(Fornecimento)
+--- BLOCK ---
+Faca de arremesso
+com propriedades soníferas.
+<COLO 05>(Provisionamento)
+--- BLOCK ---
+Faca de arremesso
+com toxinas paralisantes.
+<COLO 05>(Suprimento)
+--- BLOCK ---
+Faca de arremesso
+para capturar monstros
+presos. <COLO 05>(Fornecimento)
+--- BLOCK ---
+Ingrediente básico para fazer
+bombas de mão.
+--- BLOCK ---
+Pode ser lançado no
+monstro para marcá-lo e
+seguir seu rastro.
+--- BLOCK ---
+Bomba que emite um
+brilhante clarão ao
+impactar. Causa cegueira.
+--- BLOCK ---
+Emite um potente
+som de alta
+frequência ao detonar.
+--- BLOCK ---
+Excremento de monstro. Seu
+cheiro revela do que
+o monstro se alimenta.
+--- BLOCK ---
+Fertilizante para o campo.
+Os Aptonoth crescem com
+isso. Supera a adubação.
+--- BLOCK ---
+Lama onde os Barroth
+se revolvem. Rica em
+nutrientes e para cultivo.
+--- BLOCK ---
+Ao ser lançado, emite
+um forte odor repulsivo
+para certos monstros.
+--- BLOCK ---
+Cria uma grande nuvem
+de fumaça na
+área onde cai.
+--- BLOCK ---
+Bomba de fumaça com
+componente tóxico. Bomba
+caseira para insetos.
+--- BLOCK ---
+Transporta instantaneamente para a
+base do acampamento.
+--- BLOCK ---
+Para dominar e capturar
+os monstros capturados.
+--- BLOCK ---
+Uma bola cheia de
+oxigênio. Útil quando estiver
+sem ar debaixo d'água.
+--- BLOCK ---
+Teia de aranha.
+Muito pegajosa.
+--- BLOCK ---
+Rede potente capaz
+de suportar
+bastante peso.
+--- BLOCK ---
+Ferramenta necessária para colocar
+a Armadilha escolho
+e outras armadilhas.
+--- BLOCK ---
+Armadilha para capturar
+grandes monstros. Ativada
+por grandes pesos.
+--- BLOCK ---
+Armadilha que imobiliza
+o alvo. Usada
+para capturar monstros.
+--- BLOCK ---
+Barril pequeno vazio.
+--- BLOCK ---
+Barril grande vazio.
+--- BLOCK ---
+Bomba de relógio
+submersível pequena.
+--- BLOCK ---
+Bomba barril pequena
+aprimorada. Pequena, mas
+potente. Submersível.
+--- BLOCK ---
+Bomba potente ativada
+por impacto.
+É submersível.
+--- BLOCK ---
+Bomba barril grande
+aprimorada. Seus efeitos
+são letais. Submersível.
+--- BLOCK ---
+Levita ao ser ativada.
+Requer habilidade para usar
+essa bomba modificada.
+--- BLOCK ---
+Versão aprimorada da
+Bomba de rebote.
+Requer habilidade.
+--- BLOCK ---
+Emite um aroma que
+os Felyne adoram. Ataca
+os monstros com ele.
+--- BLOCK ---
+Bagas ocas
+por dentro.
+--- BLOCK ---
+Cápsula de munição de
+osso. Mais forte que
+a Baga oca.
+--- BLOCK ---
+Cápsula de munição de
+osso capaz de resistir
+a explosões potentes.
+--- BLOCK ---
+Munição barata com baixas
+expectativas. Use à
+vontade: é ilimitada.
+--- BLOCK ---
+Munição normal mais
+potente que Nv1.
+Disparos máx. 99.
+--- BLOCK ---
+Munição normal que ricocheteia
+para causar mais dano.
+Disp. máx. 99.
+--- BLOCK ---
+Disparo perfurante que causa
+múltiplos impactos em alguns
+monstros. Disp. máx. 60.
+--- BLOCK ---
+D. perfurante de alto calibre.
+Causa mais impactos que
+Nv1. Disp. máx. 60.
+--- BLOCK ---
+D. perfurante de grande
+calibre. Causa muitos impactos.
+Disp. máx. 60.
+--- BLOCK ---
+Munição de grande cobertura. Causa
+muitos impactos de curto
+alcance. Disp. máx. 80.
+--- BLOCK ---
+Munição de alto calibre de
+grande cobertura. Mais impactos que
+Nv1. Disp. máx. 70.
+--- BLOCK ---
+Grande calibre. Abrange uma
+grande área. Causa muitos
+impactos. Disp. máx. 60.
+--- BLOCK ---
+Poderosa munição que penetra
+e explode dentro do
+alvo. Disp. máx. 9.
+--- BLOCK ---
+Munição muito potente que se
+aloja no alvo e depois
+explode. Disp. máx. 9.
+--- BLOCK ---
+Munição potentíssima que se
+aloja no alvo e
+explode. Disp. máx. 9.
+--- BLOCK ---
+Munição que se divide em três
+ao impactar. Cuidado com o
+fogo amigo! D. máx. 3.
+--- BLOCK ---
+Munição que se divide em quatro
+ao impactar. Cuidado com o
+fogo amigo! D. máx. 3.
+--- BLOCK ---
+Munição que se divide em cinco
+ao impactar. Cuidado com o
+fogo amigo! D. máx. 3.
+--- BLOCK ---
+Munição com efeito extra
+em monstros vulneráveis ao
+fogo. Disp. máx. 60.
+--- BLOCK ---
+Munição com efeito extra
+em monstros vulneráveis à
+água. Disp. máx. 60.
+--- BLOCK ---
+Munição com efeito extra
+em monstros vulneráveis ao
+trovão. Disp. máx. 60.
+--- BLOCK ---
+Munição com efeito extra
+em monstros vulneráveis ao
+gelo. Disp. máx. 60.
+--- BLOCK ---
+Munição misteriosa que não
+funciona em Bestas normais.
+Disp. máx. 3.
+--- BLOCK ---
+Munição que restaura um pouco
+da Saúde de um aliado
+ao impactar. Disp. máx. 12.
+--- BLOCK ---
+Munição que restaura algo da
+Saúde de um aliado ao
+impactar. Disp. máx. 12.
+--- BLOCK ---
+Munição envenenada. Alguns alvos
+necessitam de vários disparos.
+Disp. máx. 12.
+--- BLOCK ---
+Munição envenenada aprimorada. Alguns
+alvos necessitam de vários
+disparos. D. máx. 12.
+--- BLOCK ---
+Munição paralisante. Alguns alvos
+necessitam de vários disparos.
+D. máx. 12.
+--- BLOCK ---
+Munição paralisante aprimorada. Alguns
+alvos necessitam de vários
+disparos. D. máx. 8.
+--- BLOCK ---
+Munição sonífera. Alguns alvos
+necessitam de vários disparos.
+D. máx. 12.
+--- BLOCK ---
+Munição sonífera aprimorada. Alguns
+alvos necessitam de vários
+disparos. D. máx. 8.
+--- BLOCK ---
+Munição de besta para
+capturar monstros aprisionados.
+Disp. máx. 8.
+--- BLOCK ---
+Mostra a posição do monstro
+no mapa por um
+tempo. Disparos máx. 99.
+--- BLOCK ---
+Munição que concede ao
+alvo uma força incrível.
+Disparos máx. 5.
+--- BLOCK ---
+DUMMY 1
+--- BLOCK ---
+Munição que endurece a pele
+do alvo como uma
+pedra. Disp. máx. 5.
+--- BLOCK ---
+DUMMY 2
+--- BLOCK ---
+Tem mais potência
+debaixo d'água. Disparos
+máx. 60.
+--- BLOCK ---
+Tem mais potência debaixo
+d'água. Mais impactos que
+Nv1. Disparos máx. 60.
+--- BLOCK ---
+Munição especial que enfraquece
+a resistência de monstros.
+Disp. máx. 12.
+--- BLOCK ---
+Munição especial aprimorada que
+enfraquece a resistência de
+monstros. Disp. máx. 8.
+--- BLOCK ---
+Munição especial que lança lâminas
+afiadas ao impactar. Corta
+caudas. D. máx. 30.
+--- BLOCK ---
+DUMMY 3
+--- BLOCK ---
+DUMMY 4
+--- BLOCK ---
+Lembra o fogo dos
+wyverns. Menos potente, mas
+rápida. Disp. máx. 10.
+--- BLOCK ---
+Munição para a
+besta submarina montada.
+--- BLOCK ---
+Dados fictícios para o software.
+--- BLOCK ---
+Frasco vazio comum. Nada
+mais, nada menos.
+--- BLOCK ---
+Revestimento de flecha que aumenta
+o Ataque ao ser
+disparada. Disp. máx. 50.
+--- BLOCK ---
+Revestimento que aumenta a potência
+a curto alcance e o
+Afiamento. Disp. máx. 20.
+--- BLOCK ---
+Revestimento que aplica veneno
+às flechas disparadas.
+Disp. máx. 20.
+--- BLOCK ---
+Revestimento que aplica efeito
+paralisante às flechas.
+Disp. máx. 20.
+--- BLOCK ---
+Revestimento que aplica efeito
+sonífero às flechas.
+Disp. máx. 20.
+--- BLOCK ---
+Revestimento de flecha que
+enfraquece a resistência dos
+monstros. D. máx. 20.
+--- BLOCK ---
+Revestimento que marca a posição de
+um monstro no mapa por
+um tempo. D. máx. 99.
+--- BLOCK ---
+DUMMY 5
+--- BLOCK ---
+Isca de pesca. Se contorce
+embaixo d'água e assim atrai
+os peixes a morder.
+--- BLOCK ---
+DUMMY 6
+--- BLOCK ---
+Isca de pesca que
+provoca um frenesi devorador.
+Nenhum peixe resiste!
+--- BLOCK ---
+Isca de pesca. Ideal
+para certos monstros aquáticos.
+--- BLOCK ---
+Isca de pesca
+que enlouquece os
+Makos faca.
+--- BLOCK ---
+Isca de pesca que
+enlouquece os Peixes sushi.
+--- BLOCK ---
+Isca de pesca que
+enlouquece os Atuns.
+--- BLOCK ---
+DUMMY 7
+--- BLOCK ---
+Isca de pesca que
+enlouquece os Peixes dourados.
+--- BLOCK ---
+Isca de pesca deliciosa
+que faz os peixes
+explodirem de prazer.
+--- BLOCK ---
+DUMMY 8
+--- BLOCK ---
+Pico barato. Sua lâmina
+se quebra facilmente.
+--- BLOCK ---
+Pico de ferro com
+uma lâmina resistente.
+--- BLOCK ---
+Pico de aço
+reforçado difícil
+de quebrar.
+--- BLOCK ---
+Rede barata para capturar
+insetos, pouco resistente.
+--- BLOCK ---
+Rede forte para
+capturar insetos.
+--- BLOCK ---
+Rede muito durável
+para capturar insetos.
+--- BLOCK ---
+Essencial se quiser
+materiais de peixes.
+Enfraquece e arpoeia.
+--- BLOCK ---
+Essencial se quiser
+materiais de peixes.
+Enfraquece e arpoeia.
+--- BLOCK ---
+Objeto essencial para todo
+caçador. Serve para
+cozinhar a carne.
+--- BLOCK ---
+A churrasqueira mais moderna! Mantenha
+pressionado o botão de
+corrida durante a churrasqueira.
+--- BLOCK ---
+Pedra de afiar padrão. Ao
+polir armas com ela,
+o Afiamento é restaurado.
+--- BLOCK ---
+Permitem observar
+de longe.
+--- BLOCK ---
+Resíduos criados quando
+uma combinação não
+é bem-sucedida.
+--- BLOCK ---
+Dispositivo perigoso para atrair
+certos monstros. Pode
+quebrar ao usar.
+--- BLOCK ---
+Restaura a Saúde de
+quem a ouve. Pode
+quebrar ao usar.
+--- BLOCK ---
+Remove o veneno do
+sangue de quem a
+ouve. Pode quebrar.
+--- BLOCK ---
+Aumenta a força de
+quem a ouve. Pode
+quebrar ao usar.
+--- BLOCK ---
+Aumenta a resistência de
+quem a ouve. Pode
+quebrar ao usar.
+--- BLOCK ---
+Mel, doce mel. Com
+alto valor nutritivo.
+--- BLOCK ---
+Planta que restaura levemente
+a Saúde. É
+um pouco insípida.
+--- BLOCK ---
+Planta usada em antídotos.
+Cura o envenenamento às
+vezes se ingerida crua.
+--- BLOCK ---
+Planta maravilhosa com
+propriedades inflamáveis.
+--- BLOCK ---
+DUMMY 9
+--- BLOCK ---
+Hera muito resistente. Entrelaçada,
+pode suportar o peso
+de uma pessoa.
+--- BLOCK ---
+Planta com
+propriedades soníferas.
+--- BLOCK ---
+A seiva que secreta é
+um adesivo potente. Não
+deixe vazar na mochila.
+--- BLOCK ---
+Encanta os Melynx.
+Eles não resistem
+ao seu encanto.
+--- BLOCK ---
+Contém substâncias antídoto, mas
+não tem efeito
+por si só.
+--- BLOCK ---
+Libera oxigênio ao mastigar,
+mas é difícil,
+é muito pegajosa.
+--- BLOCK ---
+Arde ao ser
+mordida. Aquece, mas
+queima demais.
+--- BLOCK ---
+DUMMY 10
+--- BLOCK ---
+Material famoso para combo
+para aumentar a potência.
+Melhor quanto mais azul.
+--- BLOCK ---
+Cogumelo raro com a
+capacidade de gerar
+um calor abrasador.
+--- BLOCK ---
+Cogumelo com efeito
+de paralisia.
+--- BLOCK ---
+O lógico é não
+comer esse cogumelo venenoso,
+mas não descarte.
+--- BLOCK ---
+Cogumelo com um aroma
+muito estranho. O que
+acontecerá se você comê-lo...?
+--- BLOCK ---
+DUMMY 11
+--- BLOCK ---
+Fungo perigoso que dizem
+roubar a vida
+das pessoas. Cuidado.
+--- BLOCK ---
+Cogumelo paralisante gigante. Cuidado,
+só de tocar
+ele te imobiliza!
+--- BLOCK ---
+Bagas de cor
+impactante e aroma
+avassalador. Cuidado: mancha.
+--- BLOCK ---
+Melhora o fluxo
+energético e aumenta
+temporariamente o Ataque.
+--- BLOCK ---
+Endurece os tecidos
+e aumenta temporariamente
+a Defesa.
+--- BLOCK ---
+Fruto misterioso que, de
+acordo com a lenda,
+é detestado por dragões.
+--- BLOCK ---
+Fruto seco que expulsa
+seu conteúdo violentamente
+ao se romper.
+--- BLOCK ---
+Fruto coberto de espinhos
+semelhantes a agulhas.
+--- BLOCK ---
+DUMMY 12
+--- BLOCK ---
+Fruto que explode
+ao sofrer
+um impacto.
+--- BLOCK ---
+DUMMY 13
+--- BLOCK ---
+DUMMY 14
+--- BLOCK ---
+DUMMY 15
+--- BLOCK ---
+DUMMY 16
+--- BLOCK ---
+Fruto que cura as
+pragas elementais (fogo, água,
+gelo, trovão e dragão).
+--- BLOCK ---
+Abóbora moderna laranja.
+Se deixada crescer,
+pode ficar gigantesca.
+--- BLOCK ---
+Bonito fragmento, mas não te
+darão muito por ele quando
+perceberem que está quebrado.
+--- BLOCK ---
+A Frota de caça às vezes
+as traz. Seu brilho negro
+confere alto valor a ela.
+--- BLOCK ---
+Uma pérola enorme. Tão
+grande que pode ser
+rejeitada por considerarem falsa.
+--- BLOCK ---
+Pedra com peso
+adequado para ser
+lançada. Testado.
+--- BLOCK ---
+Mineral muito férreo. Pode
+ser fundido para
+forjar diferentes objetos.
+--- BLOCK ---
+Microorganismos cristalizados usados
+como abrasivo na
+forja de armas.
+--- BLOCK ---
+Mais duro que ferro e
+muito mais difícil de forjar.
+--- BLOCK ---
+O metal extraído dele
+supera o da machalita.
+Valioso e pouco comum.
+--- BLOCK ---
+Tecnicamente não é um
+mineral, mas um osso
+pré-histórico. Encontrado debaixo d'água.
+--- BLOCK ---
+DUMMY 17
+--- BLOCK ---
+DUMMY 18
+--- BLOCK ---
+DUMMY 19
+--- BLOCK ---
+Mineral experimental cujo metal
+é ainda melhor que
+o da dragonita.
+--- BLOCK ---
+Novo mineral promissor que
+produz metal de melhor
+qualidade que o carbalita.
+--- BLOCK ---
+Mineral composto de metal
+misterioso capaz de unir
+quase todos os materiais.
+--- BLOCK ---
+Mineral composto de metal
+flexível e durável. Bom
+agente de fusão.
+--- BLOCK ---
+Ossos pré-históricos submetidos a
+altas pressões. Nunca
+visto em terra.
+--- BLOCK ---
+Rocha fundida extraída de
+um Uragaan ou um
+Agnaktor. Contém vários minerais.
+--- BLOCK ---
+Arde mesmo em temperatura
+ambiente. Seu calor serve
+para fundir materiais.
+--- BLOCK ---
+Mineral similar ao magma.
+Apenas para especialistas.
+--- BLOCK ---
+Mineral que arde com
+uma chama consumidora. Habilidade
+é necessária para extraí-lo.
+--- BLOCK ---
+Cristal de brilho suave.
+Muito duro, usado em
+ferramentas na armaria.
+--- BLOCK ---
+Metal precioso com
+infinitas aplicações. Branco
+imaculado à luz.
+--- BLOCK ---
+DUMMY 20
+--- BLOCK ---
+Metal precioso com infinitas
+aplicações. Azul claro
+à luz. Valioso.
+--- BLOCK ---
+Não existe naturalmente. Criado
+com Cristal terra e
+nutrientes de insetos.
+--- BLOCK ---
+Não derrete em temperatura
+ambiente. Aumenta a
+densidade do mineral.
+--- BLOCK ---
+Mineral com reação única
+ao calor. Usado
+para revestir armaduras.
+--- BLOCK ---
+Sua reação única ao
+calor aumenta a
+resistência da armadura.
+--- BLOCK ---
+Funda esta esfera de alta
+qualidade com uma armadura
+para aumentar sua resistência.
+--- BLOCK ---
+Esfera de armadura avançada.
+Rara em Moga. Guarde
+para uma melhoria especial.
+--- BLOCK ---
+Esfera de armadura densa
+e resistente. Use para
+melhorias avançadas em armaduras.
+--- BLOCK ---
+Esfera de armadura espessa e
+resistente. Esta raridade potencializa
+as armaduras ao máximo.
+--- BLOCK ---
+DUMMY 21
+--- BLOCK ---
+Esfera de armadura de
+grande pureza. Requer técnicas
+avançadas de extração.
+--- BLOCK ---
+Peixe com barbatana
+dorsal suficientemente dura
+para afiar armas.
+--- BLOCK ---
+Peixe delicioso que restaura
+um pouco da
+saúde ao consumi-lo.
+--- BLOCK ---
+Peixe com
+propriedades soníferas.
+--- BLOCK ---
+Peixe com mandíbula
+coberta de espinhos.
+--- BLOCK ---
+Peixe que se abre
+ao ser morto.
+--- BLOCK ---
+Peixe que se quebra em
+pedaços ao ser morto.
+--- BLOCK ---
+Peixe que explode e se
+abre ao ser morto.
+--- BLOCK ---
+Peixe que explode
+ao ser morto.
+--- BLOCK ---
+Devorará qualquer coisa e
+às vezes o que
+devorar ficará dentro dele.
+--- BLOCK ---
+Peixe pequeno raro que atinge
+um preço muito alto.
+Não recomendado para iniciantes.
+--- BLOCK ---
+Peixe que pode
+induzir fadiga.
+--- BLOCK ---
+DUMMY 22
+--- BLOCK ---
+Peixe que emite luz azul.
+Seu corpo afiado pode te
+cortar se não tiver cuidado.
+--- BLOCK ---
+Concha gigante com espinhos. Se
+ouvir atentamente, poderá ouvir
+o murmúrio da maré.
+--- BLOCK ---
+DUMMY 23
+--- BLOCK ---
+Restos de um inseto.
+Você deve ser alguém
+com muita experiência!
+--- BLOCK ---
+Criatura parecida com nabo que libera
+um cheiro que enlouquece o
+Atum. Ótima isca para pesca.
+--- BLOCK ---
+Gafanhoto arredondado. Usado
+como isca, enlouquece
+a Cavala faca.
+--- BLOCK ---
+DUMMY 215
+--- BLOCK ---
+Gafanhoto com odor fétido.
+Usado como isca, enlouquece
+os peixes explosivos.
+--- BLOCK ---
+Larva pouco comum. Adorada
+pelo Peixe dourado.
+Usada como isca.
+--- BLOCK ---
+Dizem que vive mil
+anos, mas ninguém viveu
+tanto para comprovar.
+--- BLOCK ---
+Criatura com propriedades curativas.
+Coma uma e talvez
+cure seu envenenamento.
+--- BLOCK ---
+Inseto noturno, também visto
+durante o dia. Emite
+forte brilho ao morrer.
+--- BLOCK ---
+Libera eletricidade ao ser
+atingido. Usado para iluminar
+e acender fogueiras.
+--- BLOCK ---
+Insetos elétricos estimulados
+por Zinogre. Emitindo
+leve luz azul.
+--- BLOCK ---
+Usa fluidos viscosos
+e mandíbula para
+construir formigueiros incríveis.
+--- BLOCK ---
+Inseto com asas brilhantes.
+Sua concha dura é
+geralmente usada como abrasivo.
+--- BLOCK ---
+Dizem ser o inseto mais
+forte. Usado na forja
+e culinária, entre outros.
+--- BLOCK ---
+DUMMY 24
+--- BLOCK ---
+Classe real de besouros,
+com casca dura
+e asas brilhantes.
+--- BLOCK ---
+Inseto raro e valioso, muito
+útil para unir metais.
+--- BLOCK ---
+DUMMY 25
+--- BLOCK ---
+Borboleta de asas brilhantes. Vista
+tão raramente que muitos
+acreditam ser um mito.
+--- BLOCK ---
+DUMMY 26
+--- BLOCK ---
+Ingrediente básico para fazer
+bombas de mão.
+--- BLOCK ---
+Órgão interno de um
+monstro. Ao quebrar, emite
+um som agudo.
+--- BLOCK ---
+Órgão de um monstro
+cheio de toxinas
+letais. Extrema precaução.
+--- BLOCK ---
+Órgão de monstro cheio
+de toxinas potentes. Apenas
+tocá-lo já é perigoso.
+--- BLOCK ---
+DUMMY 27
+--- BLOCK ---
+Órgão interno de um
+monstro repleto de
+uma neurotoxina paralisante.
+--- BLOCK ---
+Órgão de monstro cheio
+de neurotoxinas potentes. Tocá-lo
+pode te paralisar.
+--- BLOCK ---
+Órgão interno de um
+monstro cheio de pó
+que induz sonolência.
+--- BLOCK ---
+Órgão interno de um
+monstro cheio de pó
+que induz coma.
+--- BLOCK ---
+Órgão interno de um
+monstro. Contém um
+pó altamente inflamável.
+--- BLOCK ---
+Órgão interno de um
+monstro cheio de pó
+inflamável ao toque.
+--- BLOCK ---
+Órgão de monstro cheio
+de pó altamente
+explosivo. Extremamente perigoso!
+--- BLOCK ---
+Órgão de monstro projetado
+para armazenar água.
+--- BLOCK ---
+Órgão de monstro projetado
+para armazenar grandes
+quantidades de água.
+--- BLOCK ---
+DUMMY 217
+--- BLOCK ---
+Órgão de monstro capaz
+de armazenar eletricidade
+de alta voltagem.
+--- BLOCK ---
+Órgão de monstro com
+eletricidade de um raio.
+Estronda como um trovão.
+--- BLOCK ---
+Órgão de monstro com um
+líquido abaixo de zero. Deve
+ser manuseado com cuidado.
+--- BLOCK ---
+Órgão de monstro com
+incrível poder congelante.
+--- BLOCK ---
+Substância misteriosa
+extraída de
+certos monstros.
+--- BLOCK ---
+Tem capacidade de
+aumentar o efeito
+de certas medicinas.
+--- BLOCK ---
+Material útil, usado para
+fazer de tudo, desde
+equipamentos até diversos itens.
+--- BLOCK ---
+Forte e flexível ao mesmo
+tempo, é tão confiável quanto
+o aço ou a madeira.
+--- BLOCK ---
+Crucial para criar objetos
+grandes. Certo item pode
+uni-lo a uma concha.
+--- BLOCK ---
+Osso muito desgastado. Não
+é resistente o suficiente
+para ser combinado.
+--- BLOCK ---
+Crânio animal. Desgastado
+e erodido, não
+pode ser identificado.
+--- BLOCK ---
+Osso longo e fino.
+Inútil em todos os
+sentidos, mas não totalmente.
+--- BLOCK ---
+Osso robusto de um
+wyvern pássaro. Durável e
+fácil de trabalhar.
+--- BLOCK ---
+DUMMY 218
+--- BLOCK ---
+De alta qualidade. Difícil
+de encontrar, mas chave
+para criar equipamento poderoso.
+--- BLOCK ---
+Osso raro com ponta
+afiada que mantém sua
+força mesmo após trabalhado.
+--- BLOCK ---
+Osso valioso e raro
+de wyverns grandes. Difícil
+de trabalhar, mas forte.
+--- BLOCK ---
+Osso incrivelmente forte extraído
+de um temível wyvern.
+Seu peso impressiona.
+--- BLOCK ---
+Osso de um Jaggi ou
+de outra ave wyvern. São
+pequenos, mas de alta qualidade.
+--- BLOCK ---
+Osso grande e grosso. Costuma
+ser cortado em oficinas
+para uso em artesanato.
+--- BLOCK ---
+Osso grande e robusto
+de besta. Valorizado como
+material de forja.
+--- BLOCK ---
+Curioso osso não fossilizado de
+um dragão que outrora
+vagava por estas terras.
+--- BLOCK ---
+Usado para fazer munição
+de Besta. Com explosivo,
+os tiros se expandem.
+--- BLOCK ---
+Usado para fazer munição
+de Besta. Com explosivo,
+os tiros explodem.
+--- BLOCK ---
+As impurezas acumuladas ao
+longo da vida dos
+wyverns formam esta pedra.
+--- BLOCK ---
+Pedra de wyvern enorme
+após anos de crescimento.
+Emite um brilho singular.
+--- BLOCK ---
+Gema valiosa extraída
+de Jaggi e
+outras aves wyvern.
+--- BLOCK ---
+Gema de grande pureza extraída de
+um wyvern pássaro. Difícil de
+cortar devido a sua fragilidade.
+--- BLOCK ---
+Contém um ingrediente
+desconhecido. Objeto de
+estudos acadêmicos.
+--- BLOCK ---
+DUMMY 28
+--- BLOCK ---
+Joia lendária que provoca
+uma morte rápida para
+quem a possui.
+--- BLOCK ---
+A lenda diz que o
+descobrimento desta gema anuncia
+o fim do mundo.
+--- BLOCK ---
+Item cotidiano. Estas escamas
+de cor âmbar são
+comercializadas em grande quantidade.
+--- BLOCK ---
+Item cotidiano. A Frota de
+caça as pesca. Devem ser
+vendidas em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Criadas perto
+da costa de Moga.
+Vendidas em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Estas peles
+de Kelbi duráveis são
+vendidas em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Reduz as
+viagens em um dia.
+Vendido em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Estes dentes
+de ave wyvern são
+vendidos em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Podem se
+tornar Recursos ou serem
+vendidos em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Podem se
+tornar Recursos ou serem
+vendidos em grande quantidade.
+--- BLOCK ---
+Item cotidiano. Podem se
+tornar Recursos ou serem
+vendidos em grande quantidade.
+--- BLOCK ---
+Item de qualidade. Até estas
+penas de arco-íris são
+bem aceitas em trocas.
+--- BLOCK ---
+Item de qualidade. Até estes
+habitantes do solo são
+bem aceitos em trocas.
+--- BLOCK ---
+Item de qualidade. Até
+estes peixes apreciados são
+bem aceitos em trocas.
+--- BLOCK ---
+Item de qualidade. Reduz as
+viagens em dois dias.
+É uma boa troca.
+--- BLOCK ---
+Item de qualidade. Até estes
+dentes pouco comuns são
+bem aceitos em trocas.
+--- BLOCK ---
+Item de qualidade. Este dente
+erosionado de cor branca brilhante
+é bem aceito em trocas.
+--- BLOCK ---
+Um item raro ★. Faça
+uma troca rara com
+este crânio de monstro.
+--- BLOCK ---
+Um item raro ★. Este
+caranguejo contém uma gema preciosa.
+Faça uma troca rara.
+--- BLOCK ---
+Item raro ★. Use este
+ferrão de rainha Bnahabra para
+fazer uma troca rara.
+--- BLOCK ---
+Item raro ★★. Produzido por
+Ludroth real e Lagiacrus.
+Faça uma troca rara.
+--- BLOCK ---
+Item raro ★★. Faça uma
+troca rara com esta
+pena de cores estridentes.
+--- BLOCK ---
+Um item raro ★. Faça
+uma troca rara com este
+antigo habitante do solo.
+--- BLOCK ---
+Item raro ★★★. Faça uma
+troca rara com este
+soro de osso Rathian.
+--- BLOCK ---
+Item raro ★★★★. Use
+esta escama ardente para
+fazer uma troca rara.
+--- BLOCK ---
+Item raro ★★★★. Esta
+escama nunca seca. Use
+em trocas raras.
+--- BLOCK ---
+Ovo misterioso, só encontrado
+na floresta de Moga.
+Pode se tornar Recursos.
+--- BLOCK ---
+Fertilizante para a fazenda.
+Use para caçar criaturas
+estranhas do solo.
+--- BLOCK ---
+Fertilizante para a Caixa de
+insetos. Diz: "Dez insetos por
+gota ou eu como um".
+--- BLOCK ---
+Fertilizante para a Caixa de
+insetos. Os insetos adoram
+este cheiro de monstro.
+--- BLOCK ---
+Fertilizante para a Caixa
+de cogumelos. Certos monstros
+possuem esta bactéria.
+--- BLOCK ---
+Fertilizante para a Caixa
+de cogumelos. Esta bactéria
+é insuperável. O germinador!
+--- BLOCK ---
+Fertilizante para a Caixa de
+mel. Estas abelhas zumbidoras
+nunca param de trabalhar.
+--- BLOCK ---
+Melhora as capturas da Frota
+de caça ao pescar. Caso
+contrário, é menos eficaz.
+--- BLOCK ---
+Melhora as capturas da Frota
+ao buscar tesouros. Caso
+contrário, é menos eficaz.
+--- BLOCK ---
+Melhora as capturas da
+Frota de caça. Caso
+contrário, é menos eficaz.
+--- BLOCK ---
+Dente de wyvern da
+Floresta de Moga de
+pouco valor. Venda barato.
+--- BLOCK ---
+Dente de monstro da Floresta
+de Moga. Muito valioso.
+Faça valer o preço.
+--- BLOCK ---
+Ferrão de certos
+monstros. Venda por
+pouco dinheiro.
+--- BLOCK ---
+Ouro cristalizado ao longo dos
+anos na barriga de um
+wyvern. Vale uma fortuna.
+--- BLOCK ---
+Tesouro do Rei Pirata.
+Quem sabe por que
+riquezas poderá ser vendido.
+--- BLOCK ---
+Ovo brilhante de aço.
+Muito caro e raro.
+Não serve para caçadores.
+--- BLOCK ---
+Ovo brilhante de prata.
+Muito caro e raro.
+Não serve para caçadores.
+--- BLOCK ---
+Ovo brilhante de ouro.
+Muito caro e raro.
+Não serve para caçadores.
+--- BLOCK ---
+Mobiliário feito com Chifre
+de Kelbi. Encantador! Mas
+cuidado com os olhos.
+--- BLOCK ---
+Elegante mobiliário feito com
+chifre de Diablos.
+Impressionante e valioso.
+--- BLOCK ---
+Mobiliário de primeira classe.
+Símbolo da cidade e
+do seu trabalho.
+--- BLOCK ---
+Mobiliário moderno inspirado em
+um Poogie. Para
+todos os gostos.
+--- BLOCK ---
+Mobiliário elegante inspirado
+em um Poogie.
+Esqueça suas preocupações.
+--- BLOCK ---
+Mobiliário de primeira classe
+inspirado em um Poogie.
+Encantador e intimidante!
+--- BLOCK ---
+Mobiliário. Planta relaxante
+e colorida proveniente
+de Llanos Arenosos.
+--- BLOCK ---
+Elegante mobiliário. Esta planta
+é de uma variedade
+que raramente floresce.
+--- BLOCK ---
+Mobiliário de primeira classe. Planta
+da tundra que só cresce
+com o frio eterno.
+--- BLOCK ---
+Mobiliário em forma de
+cogumelo. As mulheres enlouquecem
+com seu design.
+--- BLOCK ---
+Mobiliário de primeira classe,
+inspirado em um Qurupeco.
+Funciona como lâmpada!
+--- BLOCK ---
+Mobiliário super elegante inspirado
+em um Gobul.
+Move-se! É incrível.
+--- BLOCK ---
+Mobiliário inspirado em um
+Lagiacrus. A água caindo
+acalma a alma.
+--- BLOCK ---
+Elegante mobiliário inspirado em
+um Giggi. Seu
+designer se divertiria.
+--- BLOCK ---
+Mobiliário de primeira classe,
+inspirado em um
+Agnaktor. Sem preço.
+--- BLOCK ---
+Mobiliário obtido de minério
+de ferro. Fazê-lo requer
+tempo e esforço.
+--- BLOCK ---
+Elegante mobiliário obtido de
+minério precioso. Nunca
+perde seu brilho.
+--- BLOCK ---
+Mobiliário de primeira classe, obtido
+de minério raro. As
+pessoas matariam para tê-lo.
+--- BLOCK ---
+Mobiliário. Modelo em escala
+que traz a criança
+interior à tona.
+--- BLOCK ---
+Elegante mobiliário que parece
+um verdadeiro zepelim. Ideal
+para todas as idades.
+--- BLOCK ---
+Mobiliário super elegante com
+um Poogie na vela.
+As crianças adorariam.
+--- BLOCK ---
+Mobiliário. Bom, é mais
+uma boneca. É a
+recepcionista da taverna.
+--- BLOCK ---
+Elegante mobiliário. Bom, é
+mais uma boneca. É
+a vendedora da guilda.
+--- BLOCK ---
+Mobiliário de primeira classe. Bom,
+é mais uma boneca. É
+a funcionária da Arena.
+--- BLOCK ---
+Mobiliário moderno inspirado em...
+um Poogie? Sem
+dúvida, bem curioso.
+--- BLOCK ---
+Coroa de ouro. Tem
+um buraco por falta
+de uma gema.
+--- BLOCK ---
+Pedra preciosa e pura que
+fazia parte de uma coroa.
+Valiosa por si só.
+--- BLOCK ---
+Símbolo sofisticado de riqueza,
+brilha ao sol.
+Todos querem um!
+--- BLOCK ---
+Mobiliário considerado um presente
+dos deuses guerreiros para
+quem domina os mortais.
+--- BLOCK ---
+Mobiliário considerado um presente
+dos deuses bons para
+os combatentes veteranos.
+--- BLOCK ---
+Infusões de Pó de
+Chifre de Kelbi são
+usadas como medicamento.
+--- BLOCK ---
+Chifre de Kelbi
+raro. Apreciado
+pelos comerciantes.
+--- BLOCK ---
+Pele de um animal
+pequeno. Tem diversos usos,
+principalmente para fazer roupas.
+--- BLOCK ---
+Pele de um animal
+pequeno. Tem diversos usos,
+principalmente para fazer roupas.
+--- BLOCK ---
+Pena preciosa extraída de
+um Gargwa. Costuma ser
+usada como acessório.
+--- BLOCK ---
+DUMMY 29
+--- BLOCK ---
+DUMMY 30
+--- BLOCK ---
+Chifre usado como
+matéria-prima para armaduras.
+Apreciado pelos decoradores.
+--- BLOCK ---
+DUMMY 31
+--- BLOCK ---
+Tão resistente quanto a armadura
+de wyvern nas mãos
+de um bom artesão.
+--- BLOCK ---
+DUMMY 32
+--- BLOCK ---
+Parte mais dura da
+casca. Ao forjar, revelam-se
+suas propriedades curiosas.
+--- BLOCK ---
+Difícil de forjar, mas os
+resultados variam de acordo
+com a superfície utilizada.
+--- BLOCK ---
+DUMMY 33
+--- BLOCK ---
+Asa afiada como uma faca.
+Difícil de usar na forja.
+--- BLOCK ---
+Aguilhão do Bnahabra para
+atacar invasores. Segrega
+um fluido paralisante.
+--- BLOCK ---
+Parte resistente da boca
+que é muito
+difícil de extrair.
+--- BLOCK ---
+DUMMY 34
+--- BLOCK ---
+Bolsa transparente do abdômen
+do Altaroth que ninguém
+sabe o que contém.
+--- BLOCK ---
+Excelente bolsa do abdômen do
+Altaroth. Difícil de ver devido
+ao tamanho e transparência.
+--- BLOCK ---
+Bolsa de alta qualidade do
+abdômen de um Altaroth. Feita
+de material fino, porém durável.
+--- BLOCK ---
+Pele de um
+Bullfango coberta por
+uma pelagem espessa.
+--- BLOCK ---
+DUMMY 35
+--- BLOCK ---
+Cabeça de Bullfango com
+dois colmilhos incríveis.
+--- BLOCK ---
+Extraído de insetos. Adesivo
+quando misturado com fluidos
+digestivos de insetos.
+--- BLOCK ---
+Caldo feito apenas com os
+sucos mais densos de
+um monstro. Muito saboroso.
+--- BLOCK ---
+Concha muito resistente, considerando
+que vem de um
+monstro tão pequeno.
+--- BLOCK ---
+Forte e pesado, este
+osso de Rhenoplos é
+ideal para fazer armaduras.
+--- BLOCK ---
+Parte resistente do
+crânio. Os resultados
+são surpreendentes.
+--- BLOCK ---
+DUMMY 36
+--- BLOCK ---
+Carapaça espessa endurecida com
+o tempo. Forte para
+um monstro tão pequeno.
+--- BLOCK ---
+DUMMY 219
+--- BLOCK ---
+Pele brilhante e firme que
+pode ser cortada em grandes
+pedaços. Resistente à água.
+--- BLOCK ---
+DUMMY 37
+--- BLOCK ---
+Existem muitas formas e tamanhos.
+Há barbatanas adequadas para
+todo tipo de trabalho.
+--- BLOCK ---
+DUMMY 38
+--- BLOCK ---
+Existem muitas formas e tamanhos.
+Há barbatanas adequadas para
+todo tipo de trabalho.
+--- BLOCK ---
+Barbatana de alta qualidade
+que proporciona beleza e
+força. Excelente para criar.
+--- BLOCK ---
+Existem muitas formas e tamanhos.
+Há presas adequadas para
+todo tipo de trabalho.
+--- BLOCK ---
+A demanda por esta pele de
+uma criatura macia é limitada
+e seu preço é baixo.
+--- BLOCK ---
+Pele de um peixe carnívoro que
+vive na costa de Moga.
+Valorizada por sua textura única.
+--- BLOCK ---
+Escama cortada de um Jaggi.
+Apreciada pelos caçadores por
+sua beleza e versatilidade.
+--- BLOCK ---
+Escama colorida de Jaggi
+usada para criar
+equipamentos mais resistentes.
+--- BLOCK ---
+DUMMY 39
+--- BLOCK ---
+Pele macia de escamas de
+Jaggi. Barata e fácil de
+trabalhar, com muitos usos.
+--- BLOCK ---
+DUMMY 40
+--- BLOCK ---
+DUMMY 41
+--- BLOCK ---
+Colmilho afiado de um
+wyvern pássaro. Usado como
+munição para a Besta.
+--- BLOCK ---
+Pele durável e elegante de
+um Gran Jaggi. O coloca
+como líder da matilha.
+--- BLOCK ---
+Pele dura de um Gran
+Jaggi forte. Menos feridas significam
+maior qualidade e valor.
+--- BLOCK ---
+Pele excelente de um
+Gran Jaggi poderoso.
+Durável e flexível.
+--- BLOCK ---
+Garra em forma de gancho de
+um Gran Jaggi. Muito maior
+que a de um Jaggi.
+--- BLOCK ---
+Garra em forma de gancho
+de um Gran Jaggi.
+Afiada de tantas batalhas.
+--- BLOCK ---
+DUMMY 42
+--- BLOCK ---
+Prova de quem manda entre os
+Jaggi e também de que você
+está se tornando um caçador habilidoso.
+--- BLOCK ---
+Adorno roubado do mais feroz
+dos líderes Jaggi. Prova
+de um caçador habilidoso.
+--- BLOCK ---
+Os adornos seriam preciosos
+se não estivessem presos
+a uma cabeça decepada.
+--- BLOCK ---
+DUMMY 43
+--- BLOCK ---
+Pele macia das escamas
+de um Baggi. Um
+salva-vidas em ambientes árduos.
+--- BLOCK ---
+Devido ao habitat remoto do
+Baggi, sua pele vale mais
+que a do Jaggi.
+--- BLOCK ---
+Escama superior cortada de
+um Baggi. Ideal para
+criar equipamentos mais resistentes.
+--- BLOCK ---
+DUMMY 44
+--- BLOCK ---
+Pele marcada de um
+Gran Baggi. Um salva-vidas
+em ambientes árduos.
+--- BLOCK ---
+Pele dura e resistente de
+um Gran Baggi forte. Deve
+ter tido grande presença.
+--- BLOCK ---
+Pele excelente de um
+Gran Baggi poderoso.
+Durável e flexível.
+--- BLOCK ---
+Garra robusta de um Gran
+Baggi. Como a de um
+Baggi, porém mais larga.
+--- BLOCK ---
+Garra robusta de um
+Gran Baggi. Afiada
+de tantas batalhas.
+--- BLOCK ---
+DUMMY 45
+--- BLOCK ---
+Prova de quem manda entre os
+Baggi e também de que
+você é um bom caçador.
+--- BLOCK ---
+Crista roubada do mais feroz
+dos líderes Baggi. Prova
+de um caçador habilidoso.
+--- BLOCK ---
+Escama de cor estranha que
+avisa predadores de que
+os Wroggi são venenosos.
+--- BLOCK ---
+Escama superior de Wroggi. Devido
+à espessura, pertenceu a
+uma besta muito antiga.
+--- BLOCK ---
+DUMMY 46
+--- BLOCK ---
+Pele que adquire um
+brilho laranja ao ser
+curtida. Apropriada para criar.
+--- BLOCK ---
+Colmilho que libera um
+veneno potente, mesmo
+para monstros grandes.
+--- BLOCK ---
+Pele de dois tons
+laranja de um Wroggi
+magnífico. Parece um tapete.
+--- BLOCK ---
+Pele excelente de um
+Wroggi magnífico poderoso.
+Durável e flexível.
+--- BLOCK ---
+Pele colorida de um
+Wroggi magnífico forte. Usada
+em armaduras avançadas.
+--- BLOCK ---
+Braçadeira robusta de um
+Wroggi magnífico. Repleta de
+escamas, conchas e garras.
+--- BLOCK ---
+DUMMY 47
+--- BLOCK ---
+Braçadeira superior de um
+Wroggi magnífico. Contém excelentes
+garras e conchas.
+--- BLOCK ---
+Bico de um
+Wroggi magnífico. Produz
+veneno. Cuidado!
+--- BLOCK ---
+Bico roubado do mais feroz
+dos líderes Wroggi. Prova
+de um caçador habilidoso.
+--- BLOCK ---
+Escama coberta de
+plumagem intensa. Olhe
+perto das patas.
+--- BLOCK ---
+Escama superior coberta de
+plumagem intensa. Resistente após
+muitos anos de crescimento.
+--- BLOCK ---
+Escama dura com plumagem
+densa, pronta após muitos
+anos de crescimento.
+--- BLOCK ---
+Pena com um toque tropical.
+Usada para fazer lembranças
+da vila de Moga.
+--- BLOCK ---
+Pena colorida com brilho
+elegante. De um Qurupeco
+que habita certas regiões.
+--- BLOCK ---
+Pena com toque tropical.
+Usada para fazer lembranças
+da vila de Moga.
+--- BLOCK ---
+Asa especial do
+Qurupeco incrivelmente endurecida
+após muitos anos.
+--- BLOCK ---
+Pena de Qurupeco com cores
+magníficas. Nada menos que uma
+obra de arte natural.
+--- BLOCK ---
+Bico de forma estranha.
+Agradável à vista.
+--- BLOCK ---
+Bico de forma estranha.
+Bonito à sua maneira.
+--- BLOCK ---
+Bico de forma
+estranha. Absolutamente atraente!
+--- BLOCK ---
+Parte do corpo que o
+Qurupeco usa para iniciar
+fogo. Tem seu truque.
+--- BLOCK ---
+Parte do corpo de um
+Qurupeco usada para fazer fogo.
+Gera faíscas muito danosas.
+--- BLOCK ---
+Escama superior coberta de plumagem
+vermelha. Suas múltiplas camadas
+a tornam muito resistente.
+--- BLOCK ---
+Escama dura coberta de
+plumagem carmesim. Amadureceu após
+muitos anos de crescimento.
+--- BLOCK ---
+Grande asa de um
+Qurupeco carmesim. Sua cor
+vermelha alucinante atrai nobres.
+--- BLOCK ---
+Asa de Qurupeco
+carmesim incrivelmente endurecida
+após muitos anos.
+--- BLOCK ---
+Fonte de eletricidade de
+um Qurupeco carmesim.
+Descarrega ao impactar.
+--- BLOCK ---
+Fonte de eletricidade de
+um Qurupeco carmesim. Cuidado
+com sua alta voltagem.
+--- BLOCK ---
+Muito resistente à água,
+mas não espere
+muito por ela.
+--- BLOCK ---
+Pele durável de um
+monstro aquático. Resistente à
+água e perfeitamente moldada.
+--- BLOCK ---
+DUMMY 48
+--- BLOCK ---
+Material de esponja jovem.
+Mais comumente usado para
+fabricação de equipamentos.
+--- BLOCK ---
+Material de esponja madura.
+Mais comumente usado para
+fabricação de equipamentos.
+--- BLOCK ---
+Pele incrivelmente elástica capaz
+de armazenar água.
+--- BLOCK ---
+Pele muito elástica com
+capacidade de armazenar água.
+--- BLOCK ---
+Pele elástica quase perfeita
+que retém água melhor
+que qualquer outra.
+--- BLOCK ---
+Pequena escama que permite
+movimentos graciosos. Use várias
+para criar equipamentos.
+--- BLOCK ---
+Escama grande e resistente de
+um Ludroth real. Reflete a
+luz em todas as direções.
+--- BLOCK ---
+Escama suprema de Ludroth
+real. Um arco-íris brilha
+em sua superfície.
+--- BLOCK ---
+Garra de Ludroth real.
+Mais adequada para movimentos
+do que para ataques.
+--- BLOCK ---
+Garra afiada de um
+Ludroth real. Afunda na
+terra a cada passo.
+--- BLOCK ---
+Poderosa garra de Ludroth
+real que permite investidas
+em qualquer terreno.
+--- BLOCK ---
+Fica rígida quando a
+besta se enfurece. A
+quantidade indica o estado.
+--- BLOCK ---
+Crina altiva digna de
+um líder de matilha.
+Seus chifres reluzem.
+--- BLOCK ---
+Crina altiva digna de um
+líder de matilha. Extremamente
+afiada e ferozmente bela.
+--- BLOCK ---
+Cauda completa do Ludroth real,
+com barbatanas e tudo.
+Usada para construir embarcações.
+--- BLOCK ---
+Pele incrivelmente elástica
+de cor púrpura
+pelas toxinas.
+--- BLOCK ---
+Pele especialmente elástica. As
+toxinas que contém lhe
+dão uma aparência sinistra.
+--- BLOCK ---
+Escama branca de um Ludroth
+púrpura. As que não perdem
+a cor são muito populares.
+--- BLOCK ---
+Escama branca de um
+Ludroth púrpura. Espessa e
+dura, cria belas armaduras.
+--- BLOCK ---
+Garra afiada vermelha de um
+Ludroth púrpura. Mais para movimento
+do que para ataque.
+--- BLOCK ---
+Garra afiada e espessa
+de um Ludroth púrpura.
+Para movimento, mas mortal.
+--- BLOCK ---
+Concha de Barroth, geralmente
+coberta de lama, mas
+é muito resistente.
+--- BLOCK ---
+Carapaça de Barroth com
+múltiplas camadas de lama
+que lhe dão rigidez.
+--- BLOCK ---
+Casca de Barroth. A
+lama a endureceu
+de forma incrível.
+--- BLOCK ---
+Proteção para as costas.
+Menos comum que as
+conchas e mais valiosa.
+--- BLOCK ---
+Parte espessa e robusta do
+dorso de um Barroth. Curtida
+pela lama e pelo sol.
+--- BLOCK ---
+Parte mais fina do dorso
+do Barroth. Resistente pela lama,
+sol e passar do tempo.
+--- BLOCK ---
+Não muito afiada,
+mas forte. Muito
+versátil na forja.
+--- BLOCK ---
+Garra afiada pela areia e
+sujeira. Se crava até
+na terra mais dura.
+--- BLOCK ---
+Garra forte do Barroth
+mais imponente. Perfura rocha
+sólida sem dificuldade.
+--- BLOCK ---
+O couro cabeludo é a
+parte mais resistente do crânio
+e difícil de remover.
+--- BLOCK ---
+Couro de um temível
+Barroth. Tão difícil de
+remover quanto durável.
+--- BLOCK ---
+Estas caudas não são
+muito valiosas, mas a
+carne é deliciosa.
+--- BLOCK ---
+Carapaça congelada de um
+Barroth esmeralda. O gelo
+a torna mais resistente.
+--- BLOCK ---
+Casca congelada sólida de Barroth
+esmeralda. A camada de
+gelo é muito resistente.
+--- BLOCK ---
+Placa congelada de um
+Barroth esmeralda. Difícil de
+remover. Compensa vendê-la.
+--- BLOCK ---
+Parte espessa congelada do dorso
+de um Barroth esmeralda. Difícil
+de obter e valiosa.
+--- BLOCK ---
+Garra congelada de
+Barroth esmeralda.
+Causa congelamento.
+--- BLOCK ---
+Garra congelada e afiada de
+Barroth esmeralda. Só de
+tocá-la já causa dor.
+--- BLOCK ---
+Couro de Barroth esmeralda como
+uma coroa de gelo. Difícil
+de trabalhar e extrair.
+--- BLOCK ---
+Couro espesso de um
+Barroth esmeralda de terras
+geladas. Pode quebrar gelo.
+--- BLOCK ---
+Cauda congelada. A
+carne fermentou e
+estará mais saborosa.
+--- BLOCK ---
+Cauda congelada resistente. A carne
+é uma iguaria e deve
+ser descongelada com cuidado.
+--- BLOCK ---
+Aglomeração congelada de fluidos
+de Barroth esmeralda e
+neve. Nunca derrete.
+--- BLOCK ---
+DUMMY 49
+--- BLOCK ---
+Pele viscosa de Gobul. Uma
+vez que se acostume com
+seu sabor, sempre quererá mais.
+--- BLOCK ---
+Pele fina de um
+Gobul. Apreciada pelas damas
+por rejuvenescer a pele.
+--- BLOCK ---
+Pele grossa de um Gobul.
+Muito resistente para comer, mas
+perfeita para criar equipamentos.
+--- BLOCK ---
+Embora não seja tão bonito
+quanto outros materiais aquáticos,
+muita gente o usa.
+--- BLOCK ---
+Barbatana de qualidade de Gobul.
+Por sua durabilidade, perfeita
+para equipamentos de mergulho.
+--- BLOCK ---
+Excelente exemplar de barbatana de
+Gobul. Dura tanto que não
+se degrada com o tempo.
+--- BLOCK ---
+Uma das muitas espinhas
+do Gobul. É uma
+parte que ninguém come.
+--- BLOCK ---
+Excelente espinha de um Gobul.
+Apenas os monstros mais
+fortes têm espinhas assim.
+--- BLOCK ---
+Espinha incomum de Gobul. Apenas
+as classes mais imponentes
+têm espinhas tão preciosas.
+--- BLOCK ---
+Bigodes que crescem no
+queixo do Gobul. Também
+são usados para escavar.
+--- BLOCK ---
+Bigodes impressionantes vistos apenas
+em temíveis Gobul.
+Não passam despercebidos.
+--- BLOCK ---
+É sua característica mais conhecida.
+Atrai presas com ela. Este
+material é um tesouro.
+--- BLOCK ---
+Excelente isca de Gobul. A
+luz atordoa até um
+peixe cego das profundezas.
+--- BLOCK ---
+Farol de Gobul com
+brilho avassalador. Como um
+relâmpago entre as ondas.
+--- BLOCK ---
+Escama de ave wyvern nativa
+da região. O par da
+Rathian é o Rathalos.
+--- BLOCK ---
+A escama da Rathian.
+Parece normal, mas sua
+resistência não é.
+--- BLOCK ---
+Escama especialmente espessa da
+Rathian. Seu tamanho
+indica idade avançada.
+--- BLOCK ---
+Concha da Rathian,
+formada por numerosas
+escamas. Muito resistente.
+--- BLOCK ---
+Carapaça robusta da Rathian.
+Ainda mais resistente que
+a Concha da Rathian.
+--- BLOCK ---
+Concha da Rathian mais pesada
+que uma carapaça. Usada para
+reforçar partes do equipamento.
+--- BLOCK ---
+Difícil de forjar, mas ideal
+como forro de armadura
+por suas qualidades térmicas.
+--- BLOCK ---
+Pelos espinhosos das costas
+e asas de
+uma Rathian. Venenosos.
+--- BLOCK ---
+Pelo da Rathian, mais forte
+que uma espada. Mais
+longo que o normal.
+--- BLOCK ---
+Poucas espinhas superiores crescem
+assim em uma Rathian.
+Afiada e altamente tóxica.
+--- BLOCK ---
+É da cauda. Difícil de
+encontrar e tão temível quanto
+o wyvern a que pertence.
+--- BLOCK ---
+Escama lendária da Rathian. Quem
+a usa governa a
+terra e o céu.
+--- BLOCK ---
+Gema rara formada dentro de
+uma Rathian. Quase bonita
+demais para ser trabalhada.
+--- BLOCK ---
+DUMMY 50
+--- BLOCK ---
+Excelente escama da
+Rathian rosa. Combina
+força e estilo.
+--- BLOCK ---
+Escama espessa e brilhante da
+Rathian rosa. Raro é o
+artesão que a viu.
+--- BLOCK ---
+Carapaça da Rathian rosa mais
+dura que uma concha.
+Usada em diversos equipamentos.
+--- BLOCK ---
+Casca espessa da Rathian
+rosa feita de uma
+placa. Tem grande valor.
+--- BLOCK ---
+Escama espessa da Rathian dourada
+única. O sol lhe dá
+um brilho quase sagrado.
+--- BLOCK ---
+Casca da Rathian dourada.
+Quem a vê fica
+boquiaberto com seu brilho.
+--- BLOCK ---
+Espinho venenoso encontrado
+em Rathian douradas
+raramente. Perfura tudo.
+--- BLOCK ---
+Escama de Rathalos. Material básico
+de forja junto com
+as conchas de wyvern.
+--- BLOCK ---
+Escama de um
+Rathalos. Possui uma
+força extraordinária.
+--- BLOCK ---
+Parte de Rathalos com
+escamas sobrepostas. Destaca
+sua beleza natural.
+--- BLOCK ---
+Concha de um Rathalos,
+formada por numerosas
+escamas. Muito resistente.
+--- BLOCK ---
+Carapaça robusta de um Rathalos.
+Ainda mais resistente que
+a Concha de Rathalos.
+--- BLOCK ---
+Concha robusta de um
+Rathalos, mais dura e
+resistente que uma carapaça.
+--- BLOCK ---
+Difícil de forjar, mas ideal
+como forro de armadura
+por suas qualidades térmicas.
+--- BLOCK ---
+Asa sublime de um Rathalos
+extraída em uma peça. Digna
+do rei dos céus.
+--- BLOCK ---
+Cauda de um
+Rathalos. Item multiuso.
+--- BLOCK ---
+Excelente cauda de um Rathalos.
+Sua resistência é muito valiosa.
+Apenas nos melhores equipamentos.
+--- BLOCK ---
+É da cauda. Difícil de
+encontrar e tão temível quanto
+o wyvern a que pertence.
+--- BLOCK ---
+Escama lendária de um Rathalos.
+Quem a usa governa a
+terra e o céu.
+--- BLOCK ---
+Gema rara formada dentro de
+um Rathalos. Quase bonita
+demais para ser forjada.
+--- BLOCK ---
+Garra que cresce na asa
+de um wyvern. Quebre-a
+e receberá uma recompensa.
+--- BLOCK ---
+Garra poderosa da asa de
+um wyvern. Dura e afiada,
+rasga rochas como papel.
+--- BLOCK ---
+Medula extraída com técnicas inovadoras.
+Inflama-se ao entrar em
+contato com o ar.
+--- BLOCK ---
+Apenas extraível com as
+mais recentes tecnologias.
+Difícil de trabalhar.
+--- BLOCK ---
+Líquido produzido por espécies
+raras de wyvern de
+fogo. Brilha no escuro.
+--- BLOCK ---
+Escama sublime de Rathalos
+celeste. Sua beleza
+e força impressionam.
+--- BLOCK ---
+Parte de Rathalos celeste
+com escamas sobrepostas. Realça
+sua beleza e força.
+--- BLOCK ---
+Carapaça de Rathalos celeste
+mais resistente que outras
+conchas. Para fazer equipamentos.
+--- BLOCK ---
+Casca dura de Rathalos
+celeste. Não se encontram
+conchas tão resistentes.
+--- BLOCK ---
+Dura cauda de Rathalos celeste.
+Seu preço é alto
+devido à sua raridade.
+--- BLOCK ---
+Excelente cauda de Rathalos
+celeste. Sua força é
+muito admirada e custosa.
+--- BLOCK ---
+Asa arrancada. Ideal para
+forjar armas e armaduras.
+--- BLOCK ---
+Parte de Rathalos prateado
+com escamas sobrepostas. Para
+acessórios de prata.
+--- BLOCK ---
+Casca dura de Rathalos prateado.
+Brilha como a lua
+e ilumina o caminho.
+--- BLOCK ---
+Excelente cauda de Rathalos
+prateado. Sua beleza supera
+a da prata.
+--- BLOCK ---
+DUMMY 215
+--- BLOCK ---
+DUMMY 51
+--- BLOCK ---
+DUMMY 52
+--- BLOCK ---
+Pele de barriga de Gigginox.
+Seu pelo a torna perfeita
+para revestimento de armaduras.
+--- BLOCK ---
+Sublime pele de barriga
+de Gigginox. Sua textura
+incrível é inesquecível.
+--- BLOCK ---
+Pele aprimorada de Gigginox.
+Elimina suor e odor,
+proporcionando frescor máximo.
+--- BLOCK ---
+Mudou de cor quando
+seu proprietário estava vivo.
+Agradável aos colecionadores.
+--- BLOCK ---
+Mudou de cor quando
+seu proprietário estava vivo.
+Agradável aos colecionadores.
+--- BLOCK ---
+Objeto difícil de obter. Cortar
+as garras de um Gigginox
+não é nada fácil.
+--- BLOCK ---
+Garra desconcertante de Gigginox.
+Dizem que é usada
+em rituais horríveis.
+--- BLOCK ---
+Pata rara de alguns
+Gigginox. Arrepiante e bela
+ao mesmo tempo.
+--- BLOCK ---
+DUMMY 53
+--- BLOCK ---
+DUMMY 54
+--- BLOCK ---
+Boca característica de Gigginox.
+Presas curtas e
+afiadas que rasgam.
+--- BLOCK ---
+Glândula venenosa que brilha
+no escuro. Se contorce
+mesmo após ser arrancada.
+--- BLOCK ---
+Glândula que produz um
+veneno poderoso. Desliza mesmo
+após ser arrancada.
+--- BLOCK ---
+Glândula venenosa aterrorizante que não
+para de se mover.
+A toxina foi fortalecida.
+--- BLOCK ---
+Sublime pele de barriga
+de Gigginox aterrorizante. Textura
+e elasticidade de primeira.
+--- BLOCK ---
+Pele rara da barriga
+de Gigginox aterrorizante. Força
+e elasticidade sem igual.
+--- BLOCK ---
+Garra de Gigginox aterrorizante
+de cor inquietante. A
+eletricidade ainda a percorre.
+--- BLOCK ---
+Pata rara de Gigginox
+aterrorizante. Estuda-se seu uso
+como fonte de energia.
+--- BLOCK ---
+Uma escama flexível que reflete
+milhares de tons de azul
+à luz. Muito procurada.
+--- BLOCK ---
+Estupenda escama flexível de
+Lagiacrus. Sua beleza
+deixa sem fôlego.
+--- BLOCK ---
+Exemplar final de escama
+de Lagiacrus. Requer certas
+habilidades para usar.
+--- BLOCK ---
+Esta concha é usada
+para liberar eletricidade, não
+para gerá-la. É segura.
+--- BLOCK ---
+Concha superior de alguns
+Lagiacrus. Sua estrutura
+permite maior voltagem.
+--- BLOCK ---
+Concha grossa de
+alguns Lagiacrus especiais.
+Lança descargas elétricas.
+--- BLOCK ---
+Não é muito durável, mas
+é macia e maleável. Faça
+valiosos objetos de couro.
+--- BLOCK ---
+Pele boa de
+Lagiacrus. Bastante resistente
+e muito flexível.
+--- BLOCK ---
+Garra afiada que surge na
+barbatana. Não é bonita o
+suficiente para custar muito.
+--- BLOCK ---
+Pata muito afiada de
+alguns Lagiacrus. Sua aparência
+comum esconde sua força.
+--- BLOCK ---
+Pata grossa de alguns
+Lagiacrus especiais. Concede poder
+e honra às armas.
+--- BLOCK ---
+Não serve apenas para
+criar armas, também enche
+os pratos de Moga.
+--- BLOCK ---
+Cauda de Lagiacrus. Forte e
+flexível, é um material
+ideal para forjar equipamento.
+--- BLOCK ---
+O poder desses chifres
+é elogiado há
+séculos. Muito procurados.
+--- BLOCK ---
+Bom chifre de um
+Lagiacrus forte. Certamente
+não passará despercebido.
+--- BLOCK ---
+Gema raramente extraída
+do Lagiacrus. Use-a
+para melhorar resistências.
+--- BLOCK ---
+Valiosa escama celeste de
+alguns Lagiacrus. Aumenta o
+desempenho do equipamento.
+--- BLOCK ---
+A maior e mais cara
+escama de Lagiacrus. Aumenta
+a eficácia do equipamento.
+--- BLOCK ---
+Escama de Lagiacrus forte
+marmorizado. Brilha à luz.
+Famosa e muito valiosa.
+--- BLOCK ---
+Exemplar final de escama
+de Lagiacrus marmorizado. Requer
+habilidades para usar.
+--- BLOCK ---
+Fonte de eletricidade de
+um Lagiacrus marmorizado. Bom
+condutor; não superaquece.
+--- BLOCK ---
+Concha grossa de poucos
+Lagiacrus marmorizados. Provoca
+tempestades de raios.
+--- BLOCK ---
+Pele não durável, mas
+usada em peles por
+sua flexibilidade e beleza.
+--- BLOCK ---
+Pele de qualidade conhecida por
+sua força e beleza. Um
+acessório por si só.
+--- BLOCK ---
+DUMMY 55
+--- BLOCK ---
+DUMMY 56
+--- BLOCK ---
+DUMMY 57
+--- BLOCK ---
+DUMMY 58
+--- BLOCK ---
+Chifre de Lagiacrus marmorizado.
+Muito procurado por sua
+força e beleza.
+--- BLOCK ---
+Chifre sublime de Lagiacrus
+marmorizado. Nobres o adoram
+por sua elegância impecável.
+--- BLOCK ---
+DUMMY 59
+--- BLOCK ---
+DUMMY 60
+--- BLOCK ---
+DUMMY 61
+--- BLOCK ---
+Escama radiante assustadora de alguns
+Lagiacrus do abismo. Não
+é fácil de usar.
+--- BLOCK ---
+Concha grossa das costas de
+Lagiacrus do abismo. É
+uma arma elétrica letal.
+--- BLOCK ---
+Pele rara de Lagiacrus do
+abismo. Dá aspecto divino a
+objetos criados com ela.
+--- BLOCK ---
+DUMMY 62
+--- BLOCK ---
+DUMMY 63
+--- BLOCK ---
+Chifre raro de Lagiacrus
+do abismo. Seu aspecto
+divino intimida, no mínimo.
+--- BLOCK ---
+Órgão desconhecido de Lagiacrus do
+abismo. Dizem ser a
+fonte de sua eletricidade.
+--- BLOCK ---
+Concha branca única. Forte
+e resistente, mas leve.
+--- BLOCK ---
+Carapaça de Barioth com
+brilho incrível. Parece um
+bloco de gelo.
+--- BLOCK ---
+Casca de um Barioth
+imponente. Surpreendem sua
+força e leveza.
+--- BLOCK ---
+Pele branca muito macia
+com excelentes propriedades de
+absorção de impactos.
+--- BLOCK ---
+Genial pele branca de
+textura sublime. Símbolo de
+autoridade para os nobres.
+--- BLOCK ---
+Excelente pelagem branca de Barioth.
+É como se as asas
+de um anjo o envolvessem.
+--- BLOCK ---
+Garra afiada letal. Seu
+antigo proprietário escalava paredes
+de gelo com ela.
+--- BLOCK ---
+Garra polida na dura
+tundra. Derrota sua presa
+apenas ao toque.
+--- BLOCK ---
+Pata forte de certos
+Barioth. Corta conchas
+duras como manteiga.
+--- BLOCK ---
+Existem muitos tamanhos. O Barioth
+se agarra às paredes
+de gelo com elas.
+--- BLOCK ---
+DUMMY 64
+--- BLOCK ---
+Estas caudas são cobertas
+por casca dura e
+é difícil cortá-las.
+--- BLOCK ---
+Excelente cauda de Barioth. Coberta
+por uma casca dura, não
+é fácil de arrancar.
+--- BLOCK ---
+Dois caninos afiados de
+Barioth, usados para armas
+e também mobiliário.
+--- BLOCK ---
+Caninos de âmbar afiados
+por inúmeras mortes. Quebram
+blocos de gelo gigantes.
+--- BLOCK ---
+Caninos grossos e duros
+de alguns Barioth. Sua
+força acaba com tudo.
+--- BLOCK ---
+Carapaça cobreada de Barioth arenoso.
+Resiste até a uma
+feroz tempestade de areia.
+--- BLOCK ---
+Casca enorme de Barioth
+arenoso. Embora pareça pesada,
+é bastante leve.
+--- BLOCK ---
+Pele fina e cobreada. Ideal
+para armaduras, pois absorve
+muito bem os impactos.
+--- BLOCK ---
+Excelente pelagem de Barioth arenoso.
+Usada em equipamentos. Há
+quem deteste sua cor.
+--- BLOCK ---
+Garra afiada com aderência
+para terrenos arenosos. Seu
+corte causa muito dano.
+--- BLOCK ---
+Pata duríssima de alguns Barioth
+arenosos. Não há nada
+que não possa rasgar.
+--- BLOCK ---
+Cauda de Barioth arenoso. Coberta
+por uma casca de cobre,
+é rara e valiosa.
+--- BLOCK ---
+Cauda sublime de Barioth arenoso.
+Sua intensa cor cobre
+dá um ar senhorial.
+--- BLOCK ---
+Dois caninos afiados de
+um Barioth arenoso. Polidos,
+são azul ultramarino.
+--- BLOCK ---
+Caninos de alguns Barioth arenosos.
+Seu incrível poder os
+torna ideais para criar.
+--- BLOCK ---
+Órgão que auxilia na respiração
+quando o Barioth de areia
+cria tornados. Fino. Resistente.
+--- BLOCK ---
+Este órgão permite ao
+Barioth de areia
+criar esses tornados.
+--- BLOCK ---
+Parte da concha que
+cobre o Diablos. Muito
+densa e pesada.
+--- BLOCK ---
+Carapaça robusta de um Diablos.
+Ainda mais dura que
+a Concha de Diablos.
+--- BLOCK ---
+Casca rígida de Diablos,
+mais dura e resistente
+que sua carapaça.
+--- BLOCK ---
+Placa dorsal resistente que pode
+ser usada para criar
+equipamentos se cortada adequadamente.
+--- BLOCK ---
+Parte mais dura da
+coluna de um Diablos.
+Muito difícil de cortar.
+--- BLOCK ---
+Placa resistente de Diablos,
+reforçada com areia
+ardente. Para armaduras.
+--- BLOCK ---
+Caixa de cauda blindada que
+envergonha os martelos. Este
+material é um tesouro.
+--- BLOCK ---
+DUMMY 65
+--- BLOCK ---
+Presa grande e robusta
+que tem diversos usos:
+de armas a enfeites.
+--- BLOCK ---
+Chifre retorcido de Diablos.
+Nesta região, tem muitos
+usos (não tão retorcidos).
+--- BLOCK ---
+Chifre de alta qualidade
+de um Diablos. Usado
+para criar armas robustas.
+--- BLOCK ---
+Chifre longo e torcido de
+Diablos. Preservá-lo assim não é
+fácil. Uma grande descoberta.
+--- BLOCK ---
+Foi descoberto recentemente que
+a medula de
+monstro é adesiva.
+--- BLOCK ---
+Medula rara de Diablos.
+Difícil de extrair, mas
+de interesse científico.
+--- BLOCK ---
+Alterações em sua composição
+tornam esta carapaça mais
+resistente que o comum.
+--- BLOCK ---
+Casca pesada de Diablos negra.
+Seu peso revela sua
+imensa força e densidade.
+--- BLOCK ---
+Peça de placa dorsal dura
+de Diablos negra. Nem o
+ar do deserto a erode.
+--- BLOCK ---
+Placa dorsal polida de Diablos
+negra. Negra, dura e
+pesada são bons adjetivos.
+--- BLOCK ---
+DUMMY 66
+--- BLOCK ---
+DUMMY 67
+--- BLOCK ---
+Chifre retorcido de Diablos
+negra. Seu aspecto áspero
+e brilhante é majestoso.
+--- BLOCK ---
+Chifre retorcido e sólido de
+Diablos negra. Inofensivo, mas
+sua fúria é esmagadora.
+--- BLOCK ---
+Escama dura que brilha levemente
+à luz devido a
+seu conteúdo mineral único.
+--- BLOCK ---
+Escama forte formada por camadas
+de mineral. Sua dureza a
+torna difícil de forjar.
+--- BLOCK ---
+Escama irrompível de certos Uragaan.
+Criada pela união de
+camadas de duro mineral.
+--- BLOCK ---
+Pedaço de exoesqueleto forte
+para fazer armaduras pouco
+bonitas, mas muito boas.
+--- BLOCK ---
+Carapaça dura de Uragaan.
+Sua rigidez a torna
+difícil de arrancar.
+--- BLOCK ---
+Casca muito dura de Uragaan.
+Um material muito difícil de
+trabalhar, para dizer o mínimo.
+--- BLOCK ---
+Mandíbula com forma estranha.
+Tem inchaços de mineral
+fundido no osso.
+--- BLOCK ---
+Mandíbula superdura de Uragaan.
+Sua força reside em
+sua composição mineral.
+--- BLOCK ---
+Ainda mais resistente ao
+calor que a concha.
+Protege órgãos mais delicados.
+--- BLOCK ---
+Placa resistente ao calor de
+Uragaan. O isolante térmico
+é ideal para armaduras.
+--- BLOCK ---
+Medula espinhal difícil de
+obter. Usada em artesanato
+especial e medicina.
+--- BLOCK ---
+Gema valiosa que raramente
+é extraída do Uragaan.
+Adiciona força ao forjar.
+--- BLOCK ---
+Concha lendária de Uragaan. Quem
+a usa governa a
+terra e o céu.
+--- BLOCK ---
+Excelente escama de Uragaan acerado.
+Um gás faz o
+mineral oxidar e brilhar.
+--- BLOCK ---
+Escama definitiva de Uragaan acerado.
+Forte para criar, mas
+emite um odor fétido.
+--- BLOCK ---
+Carapaça de Uragaan acerado
+cujo gás interior causa
+uma forte reação química.
+--- BLOCK ---
+Casca fortalecida ao máximo
+devido a uma
+reação química contínua.
+--- BLOCK ---
+Enormes mandíbulas avermelhadas de Uragaan
+acerado. O calor ao
+impactar muda sua cor.
+--- BLOCK ---
+Mandíbulas pesadas e avermelhadas de
+Uragaan acerado. Seu peso
+e calor devastam tudo.
+--- BLOCK ---
+Mais resistente ao calor que
+qualquer concha, esta placa pode
+ser mergulhada em magma.
+--- BLOCK ---
+Placa resistente ao calor de
+Uragaan acerado. Sua rigidez a
+torna difícil de forjar.
+--- BLOCK ---
+Escama de monstro vulcânico.
+Muito resistente ao
+fogo, mas barata.
+--- BLOCK ---
+Sublime escama de Uroktor.
+Resistente ao calor, brilho
+carmesim. Preferido por elas.
+--- BLOCK ---
+Pele flexível de
+leviatã. Material útil
+difícil de conseguir.
+--- BLOCK ---
+Esta escama é da cor
+das chamas, mas não se
+anime, tem pouco valor.
+--- BLOCK ---
+DUMMY 68
+--- BLOCK ---
+Fica de cor vermelho vivo
+ao forjar. Pouco pesada e
+muito resistente ao calor.
+--- BLOCK ---
+Mais dura e resistente ao
+calor que a concha. Produz
+uma cor vermelha intensa.
+--- BLOCK ---
+Estranha pele flexível e
+resistente ao calor, embora
+não muito forte.
+--- BLOCK ---
+Pele de primeira de
+Agnaktor reforçada pela exposição
+contínua ao magma.
+--- BLOCK ---
+Pele de primeira de
+Agnaktor resistente ao calor.
+Espessa mas flexível.
+--- BLOCK ---
+Esta garra é poderosa e
+acabou de sair do
+magma escaldante. Tenha cuidado!
+--- BLOCK ---
+Garra afiada pelo magma
+ardente. Quase tão forte
+como um vulcão.
+--- BLOCK ---
+Garra poderosa de alguns
+Agnaktor. Até o magma
+treme diante dela.
+--- BLOCK ---
+Apêndice em forma de
+barbatana do Agnaktor. Serve
+como peça para navios.
+--- BLOCK ---
+Barbatana de Agnaktor
+com design elegante.
+Popular entre colecionadores.
+--- BLOCK ---
+Barbatana sublime tão requintada que
+parece pintada por um
+artista. Admire seu mistério.
+--- BLOCK ---
+Pico característico do Agnaktor,
+que lhe permite cavar
+túneis na terra.
+--- BLOCK ---
+DUMMY 69
+--- BLOCK ---
+Cauda obtida de um Agnaktor.
+Seu preço é baixo
+devido à baixa demanda.
+--- BLOCK ---
+DUMMY 70
+--- BLOCK ---
+Placa frontal feita de
+minerais fundidos juntos. Não
+derrete nem com calor.
+--- BLOCK ---
+Placa frontal ardente. Sua composição
+de minerais é a
+chave de sua força.
+--- BLOCK ---
+Carapaça dura de Agnaktor
+glacial. Tem gelo na
+camada superior incrustado.
+--- BLOCK ---
+Casca rígida de Agnaktor
+glacial. A baixa temperatura
+a torna mais forte.
+--- BLOCK ---
+Pele flexível e resistente
+ao frio. Muito dura
+por estar congelada.
+--- BLOCK ---
+Pele espessa e flexível
+com uma força e
+resistência ao frio incomparáveis.
+--- BLOCK ---
+Garra afiada que perfura
+terreno congelado. Seus ataques
+congelantes são letais.
+--- BLOCK ---
+Garra poderosa que rasga
+terra congelada. As feridas
+se congelam instantaneamente.
+--- BLOCK ---
+Barbatana excelente de Agnaktor glacial.
+Cintila ao receber a tênue
+luz do sol polar.
+--- BLOCK ---
+Linda barbatana de Agnaktor
+glacial. Resplandece como um
+prisma ao sol.
+--- BLOCK ---
+Pico gelado que
+perfura terras congeladas
+há séculos.
+--- BLOCK ---
+DUMMY 71
+--- BLOCK ---
+Cauda de Agnaktor glacial. Embora
+rara, seu preço é baixo
+devido à falta de demanda.
+--- BLOCK ---
+DUMMY 72
+--- BLOCK ---
+Pleura úmida e brilhante
+de Agnaktor glacial. Coberta
+por um fluido congelado.
+--- BLOCK ---
+Bela pleura de Agnaktor glacial.
+Seu fluido congelado é mais
+frio que o habitual.
+--- BLOCK ---
+Quase é grande demais para
+ser chamada de escama. Menos
+dura do que se pensa.
+--- BLOCK ---
+Mais maciça que a pele
+de outros monstros. Trabalhá-la
+requer tempo e esforço.
+--- BLOCK ---
+É estranho chamar de
+pelos algo tão forte
+para forjar armas.
+--- BLOCK ---
+Enorme cauda de Ceadeus,
+ex-inimigo da vila.
+Simboliza a paz.
+--- BLOCK ---
+Chifre gigante que levou séculos
+para se formar. Mostra
+o peso da história.
+--- BLOCK ---
+Ninguém sabe por que
+ele brilha, mas tem
+um poder incrível.
+--- BLOCK ---
+Material de Ceadeus muito
+difícil de obter. Seu
+núcleo é insondável.
+--- BLOCK ---
+Enorme e dura escama de
+Ceadeus barba dourada. Digna
+de tão majestosa criatura.
+--- BLOCK ---
+Pele imperecível de Ceadeus
+barba dourada. Vale
+a pena forjá-la.
+--- BLOCK ---
+Dura: mais do que pelos,
+parece espinhas. Por isso, é
+mais útil para criar objetos.
+--- BLOCK ---
+DUMMY 73
+--- BLOCK ---
+Chifre poderoso de Ceadeus barba
+dourada. Tem mais anos do
+que se pode imaginar.
+--- BLOCK ---
+DUMMY 74
+--- BLOCK ---
+Gema rara e preciosa de
+um Ceadeus barba dourada. Quem
+a olhar sucumbirá ao mal.
+--- BLOCK ---
+DUMMY 75
+--- BLOCK ---
+Escama azul clara extraída
+de Jhen Mohran durante
+a caça normal.
+--- BLOCK ---
+DUMMY 76
+--- BLOCK ---
+Concha dura como uma rocha
+obtida de Jhen Mohran
+durante a caça normal.
+--- BLOCK ---
+DUMMY 77
+--- BLOCK ---
+Proteção da pata dianteira
+do Jhen Mohran. Extraído
+durante a caça normal.
+--- BLOCK ---
+DUMMY 209
+--- BLOCK ---
+Bela presa de marfim
+do Jhen Mohran. Raramente
+encontrada no mercado.
+--- BLOCK ---
+Um dos materiais mais duros
+do Jhen Mohran, o
+que é algo significativo.
+--- BLOCK ---
+DUMMY 78
+--- BLOCK ---
+Escama sagrada do Jhen
+Mohran, símbolo de poder.
+Concede glória ao portador.
+--- BLOCK ---
+DUMMY 79
+--- BLOCK ---
+Placa sagrada do Jhen
+Mohran, símbolo de poder
+místico. Concede glória.
+--- BLOCK ---
+DUMMY 80
+--- BLOCK ---
+Braçadeira sagrada do Jhen
+Mohran, símbolo de poder
+místico. Concede glória.
+--- BLOCK ---
+DUMMY 81
+--- BLOCK ---
+Belo colmilo com aura
+divina. Supera os demais
+em forma e cor.
+--- BLOCK ---
+Gema milagrosa, possivelmente fonte de
+poder do Jhen Mohran.
+A ira da natureza.
+--- BLOCK ---
+Escama azul escura do
+Deviljho. Não é muito
+vendida, traz má sorte.
+--- BLOCK ---
+Escama pesada e sublime do
+Deviljho. Traz má sorte,
+mas é excelente material.
+--- BLOCK ---
+Pele negra excessivamente
+viscosa e difícil
+de forjar.
+--- BLOCK ---
+Pele grossa de um
+Deviljho violento. Muito viscosa
+e difícil de forjar.
+--- BLOCK ---
+Colmilo de tamanho apropriado de
+mandíbulas gigantes. Ajuda a fera
+vil a se saciar.
+--- BLOCK ---
+Colmilo de grande tamanho
+que pode mastigar qualquer
+coisa. Carregado pelo diabo.
+--- BLOCK ---
+Garra muito afiada.
+Não adequada para
+artesãos inexperientes.
+--- BLOCK ---
+Garra afiada e rígida. Até
+os especialistas podem se ferir
+se não tiverem cuidado.
+--- BLOCK ---
+Ao remover o couro cabeludo,
+o crânio do Deviljho
+emana um odor pútrido.
+--- BLOCK ---
+DUMMY 82
+--- BLOCK ---
+Cauda enorme que lembra
+uma sanguessuga. Alguns saem
+apenas para coletá-las.
+--- BLOCK ---
+Pedaço de cauda de sanguessuga
+de um Deviljho. Até
+os especialistas ficam impressionados.
+--- BLOCK ---
+Símbolo do apetite insaciável
+do Deviljho. O forte
+ácido corroeu tudo.
+--- BLOCK ---
+Sangue negro de um Deviljho.
+Parece que vai te
+atacar a qualquer momento.
+--- BLOCK ---
+Gema preciosa, dizem que contém
+a força do Deviljho.
+Usada em rituais obscuros.
+--- BLOCK ---
+Escama inquietante que se contorce
+ao absorver o mal
+das presas do Deviljho.
+--- BLOCK ---
+Placa única que repele
+todos os ataques, devolvendo
+alguns ao agressor.
+--- BLOCK ---
+Placa milagrosa contra todo
+ataque. O portador receberá
+a graça divina.
+--- BLOCK ---
+Esta escama especial do
+Alatreon cresce para trás.
+Afiada como uma espada.
+--- BLOCK ---
+O manto de um Alatreon
+é lendário. Contém vestígios
+de todos os elementos.
+--- BLOCK ---
+Tão afiada que não se
+pode prever a força das
+armas feitas com ela.
+--- BLOCK ---
+A visão desta garra
+mortal evoca terríveis armas
+que foram forjadas.
+--- BLOCK ---
+Às vezes parece um abismo
+escuro; às vezes, a
+chegada da primeira luz.
+--- BLOCK ---
+Dizem que esta asa pode
+atravessar tempo e espaço
+para destruir o mundo...
+--- BLOCK ---
+Muitos acreditam que os
+Alatreon nunca existiram, mas
+você tem uma prova.
+--- BLOCK ---
+"É um sonho?" "Estou
+vivo?" Aqueles que tocarem
+nesta cauda se perguntarão.
+--- BLOCK ---
+Parte dos chifres entrelaçados
+do Alatreon. Pode quebrar
+ao ser cortada.
+--- BLOCK ---
+DUMMY 83
+--- BLOCK ---
+Parte dos chifres
+entrelaçados do Alatreon.
+--- BLOCK ---
+Parte dos chifres entrelaçados
+do Alatreon. O
+melhor espécime conhecido.
+--- BLOCK ---
+Pele de um Arzuros. O
+branco é macio, o azul
+é áspero e duro.
+--- BLOCK ---
+Maravilhosa pele de Arzuros.
+Resistente para sobreviver em
+terreno montanhoso áspero.
+--- BLOCK ---
+DUMMY 84
+--- BLOCK ---
+Parte da concha da cabeça
+ou dorso do Arzuros. Flexível
+e fácil de forjar.
+--- BLOCK ---
+Excelente carapaça de Arzuros.
+Sua dureza resiste a
+mordidas de colmilho comum.
+--- BLOCK ---
+Sublime casca de Arzuros.
+Esta concha de qualidade
+é apreciada por caçadores.
+--- BLOCK ---
+Braçadeira da pata dianteira
+do Arzuros. Pontas afiadas
+dão um aspecto selvagem.
+--- BLOCK ---
+Braçadeira forte do Arzuros.
+Suas espinhas transformam seus
+arranhões em mortais.
+--- BLOCK ---
+Braçadeira suprema de alguns
+Arzuros. Suas duras espinhas
+silenciam os inimigos.
+--- BLOCK ---
+Pele branca de um Lagombi.
+Se tocar, ficará preso em
+sua pelagem macia e sedosa.
+--- BLOCK ---
+Excelente pele branca de
+Lagombi. Seu brilho glacial
+a torna um luxo.
+--- BLOCK ---
+O melhor pelo de
+Lagombi, duradouro e supermacio.
+Um objeto cobiçado.
+--- BLOCK ---
+Orelha longa de um Lagombi.
+Muito tempo no frio; é
+tão dura quanto uma concha.
+--- BLOCK ---
+Incrível orelha de Lagombi.
+Muito desenvolvida, pode ser
+muito afiada se polida.
+--- BLOCK ---
+Orelha suprema de Lagombi
+com audição incrível. Material
+excepcional para artesãos.
+--- BLOCK ---
+Parte da concha do ventre
+de Lagombi. O lombo
+permite deslizar no gelo.
+--- BLOCK ---
+Forte carapaça de Lagombi.
+Dura e pegajosa, usada
+para criar equipamentos superiores.
+--- BLOCK ---
+DUMMY 85
+--- BLOCK ---
+Garra de Lagombi fria ao
+toque. Envolvida em gelo
+devido ao clima glacial.
+--- BLOCK ---
+Garra de Lagombi envolta
+em ar gélido. As
+feridas infligidas congelam.
+--- BLOCK ---
+DUMMY 86
+--- BLOCK ---
+Concha de Volvidon resistente
+ao calor. Não é
+afetada pela lava fervente.
+--- BLOCK ---
+Dura carapaça de Volvidon.
+Por sua elasticidade, requer
+muita pressão ao forjar.
+--- BLOCK ---
+Dura casca de Volvidon.
+Embora difícil de forjar,
+produz um equipamento poderoso.
+--- BLOCK ---
+Garra da pata dianteira de
+Volvidon. Aumenta o poder
+de um ataque selvagem.
+--- BLOCK ---
+Garra dura e afiada de
+Volvidon. O calor a
+temperou como o aço.
+--- BLOCK ---
+Garra forte de Volvidon.
+Tão sólida e afiada
+que é avassaladora.
+--- BLOCK ---
+Concha irregular das costas
+de Volvidon. Perfeita
+para equipamentos flexíveis.
+--- BLOCK ---
+DUMMY 87
+--- BLOCK ---
+Parte da concha Nibelsnarf.
+Sua força e espinhos
+produzem equipamentos únicos.
+--- BLOCK ---
+Dura carapaça Nibelsnarf. Embora
+difícil de forjar, o
+resultado vale a pena.
+--- BLOCK ---
+Dura casca de Nibelsnarf.
+Embora difícil de forjar,
+cria equipamentos incomparáveis.
+--- BLOCK ---
+Pele de Nibelsnarf. Suas
+cores surpreendem em contraste
+com sua concha.
+--- BLOCK ---
+Sublime pele de Nibelsnarf
+usada no forro de
+armadura. Resistente ao deserto.
+--- BLOCK ---
+Polida pela areia, esta excelente
+pele de Nibelsnarf é
+muito forte e elástica.
+--- BLOCK ---
+Garras de Nibelsnarf
+evoluídas para cavar
+facilmente na areia.
+--- BLOCK ---
+Garra firme de Nibelsnarf.
+Material perfeito para criar
+partes de equipamento superior.
+--- BLOCK ---
+Garra afiada Nibelsnarf, adaptada
+para cavar na areia.
+Objeto de qualidade.
+--- BLOCK ---
+Parte do crânio que possui
+vários órgãos. As peças devem
+ser cortadas com cuidado.
+--- BLOCK ---
+DUMMY 88
+--- BLOCK ---
+Fluido que o Nibelsnarf
+usa para reter água
+e sobreviver no deserto.
+--- BLOCK ---
+Fluido com a capacidade
+de reter água. Melhora
+o desempenho do equipamento.
+--- BLOCK ---
+Fluido brilhante que retém
+água. Melhora o desempenho
+e estilo do equipamento.
+--- BLOCK ---
+DUMMY 89
+--- BLOCK ---
+Carapaça turquesa do Zinogre.
+Sua magnificência lhe confere
+um aspecto invencível.
+--- BLOCK ---
+Casca turquesa do Zinogre. A
+armadura real subjuga todos
+com seu imenso poder.
+--- BLOCK ---
+DUMMY 90
+--- BLOCK ---
+Concha do Zinogre que possui
+e lança eletricidade. Concede poder
+do trovão ao equipamento.
+--- BLOCK ---
+A pele de
+Zinogre armazena eletricidade
+infinita. Brilha intensamente.
+--- BLOCK ---
+DUMMY 91
+--- BLOCK ---
+Chifre pontiagudo do Zinogre.
+Usado para conferir ao
+equipamento um poder imenso.
+--- BLOCK ---
+Chifre poderoso do Zinogre. Todos
+se dobram diante de seu
+poder divino e inspirador.
+--- BLOCK ---
+DUMMY 92
+--- BLOCK ---
+Garra afiada e elétrica
+do Zinogre. Seus ataques
+eletrificados são brutais.
+--- BLOCK ---
+Zarpa rígida e elétrica
+do Zinogre. Seus ataques
+elétricos são mortais.
+--- BLOCK ---
+Cauda coberta de placa do
+Zinogre. Exerce uma força
+brutal ao ser sacudida.
+--- BLOCK ---
+Cauda superior do Zinogre
+que exerce um
+poder destrutivo incomparável.
+--- BLOCK ---
+DUMMY 94
+--- BLOCK ---
+A pele de Zinogre
+armazena muita eletricidade. Irradia
+um brilho branco.
+--- BLOCK ---
+Concha com poder elétrico
+superior. Seu efeito ao
+forjar é incrível.
+--- BLOCK ---
+DUMMY 208
+--- BLOCK ---
+Gema rara produzida dentro de
+um Zinogre. O poder do
+monarca reside em seu interior.
+--- BLOCK ---
+Gema muito rara encontrada
+dentro de alguns Zinogre.
+Prova de guerreiro poderoso.
+--- BLOCK ---
+Casca negra de Zinogre
+estígio. Uma maldição habita
+nesta concha infernal.
+--- BLOCK ---
+Pelagem de dragão bruto
+de Zinogre estígio. Dragões
+temem sua força interior.
+--- BLOCK ---
+Chifre rígido de Zinogre
+estígio. Seu poder surpreendente
+desafia os dragões?
+--- BLOCK ---
+Garra rígida de Zinogre
+estígio. Tão poderosa
+quanto um rei.
+--- BLOCK ---
+Cauda ultraforte de Zinogre
+estígio. Dizem que é
+capaz de cortar aço.
+--- BLOCK ---
+Concha de Zinogre estígio
+com grande energia de
+dragão, ideal para criação.
+--- BLOCK ---
+Gema muito rara encontrada
+em alguns Zinogre estígios.
+Prova de grande conquistador.
+--- BLOCK ---
+Escama negra de Nargacuga.
+Apesar de dura, é
+leve e suave.
+--- BLOCK ---
+Escama negra e dura de
+Nargacuga. Mais espessa que a
+escama comum, embora leve.
+--- BLOCK ---
+Escama lendária de Nargacuga. Aqueles
+que a possuem dominam a
+terra e o céu.
+--- BLOCK ---
+DUMMY 95
+--- BLOCK ---
+Pele negra evoluída de
+Nargacuga. Brilhante e resistente
+a garras e presas.
+--- BLOCK ---
+Cauda imponente de Nargacuga. Pode
+ser confundida com uma
+arma por sua aparência.
+--- BLOCK ---
+Excelente cauda de Nargacuga. Material
+ideal para criação por
+ser flexível e resistente.
+--- BLOCK ---
+Escama pontiaguda de uma cauda
+de Nargacuga. Ergue-se quando
+a besta se enfurece.
+--- BLOCK ---
+Espinho de qualidade de uma
+cauda de Nargacuga. Pesado e
+afiado, pode ser mortal.
+--- BLOCK ---
+DUMMY 96
+--- BLOCK ---
+Fio forte da asa de
+Nargacuga. Muito resistente, pode
+partir inimigos ao meio.
+--- BLOCK ---
+Presa muito afiada de
+Nargacuga. Feita para rasgar
+mais do que mastigar.
+--- BLOCK ---
+Presa muito desenvolvida de
+Nargacuga. Lisa e
+afiada, despedaça inimigos.
+--- BLOCK ---
+Medula de Nargacuga. Causa
+dor só de tocar,
+dificultando a criação.
+--- BLOCK ---
+DUMMY 97
+--- BLOCK ---
+Escama verde de Nargacuga verdejante.
+Sua cor muda com a
+luz e se camufla.
+--- BLOCK ---
+DUMMY 98
+--- BLOCK ---
+Pelagem espessa e manchada
+de Nargacuga verdejante. As
+cores servem de camuflagem.
+--- BLOCK ---
+DUMMY 99
+--- BLOCK ---
+Fio poderoso da asa de
+Nargacuga verdejante. Não toque
+ou perderá a mão!
+--- BLOCK ---
+DUMMY 100
+--- BLOCK ---
+Presa afiada de Nargacuga
+verdejante. É um dente,
+então tenha cuidado.
+--- BLOCK ---
+Escama gigante de Nargacuga
+lunar. Leve como pena,
+dura como diamante.
+--- BLOCK ---
+Pelagem espessa de Nargacuga
+lunar. Flexível para proteger
+e perfurar presas.
+--- BLOCK ---
+Fio de Nargacuga lunar que
+brilha à luz da lua.
+Afiado e quase transparente.
+--- BLOCK ---
+Presa espessa de Nargacuga lunar.
+Muito afiada, nunca quebra
+nem deixa de brilhar.
+--- BLOCK ---
+Concha muito grossa de
+Duramboros. Monstros comuns
+não conseguem penetrá-la.
+--- BLOCK ---
+Casco duro de
+Duramboros. Resiste a
+ataques, sendo impenetrável.
+--- BLOCK ---
+Corteza de Duramboros. Esta
+armadura forte mina a
+vontade do adversário.
+--- BLOCK ---
+Concha de Duramboros coberta
+de musgo. O musgo
+não para de crescer.
+--- BLOCK ---
+Casco de Duramboros coberto
+de musgo. O musgo
+resistente absorve impactos.
+--- BLOCK ---
+Corteza de Duramboros com
+musgo. Ao absorver
+impactos, torna-se impenetrável.
+--- BLOCK ---
+Corcova de um Duramboros.
+Sua pele gordurosa cria
+equipamentos resistentes e flexíveis.
+--- BLOCK ---
+Corcova de qualidade de
+alguns Duramboros. Sendo investigada
+como possível iguaria.
+--- BLOCK ---
+Concha da cauda de um
+Duramboros. À medida que cresce,
+uma nova concha a substitui.
+--- BLOCK ---
+Concha da cauda de Duramboros.
+Corta e divide com sua
+concha afiada e osso duro.
+--- BLOCK ---
+Casco rígido da cauda
+de Duramboros. Seu poder
+pode atravessar montanhas.
+--- BLOCK ---
+Chifre de um Duramboros. Muito
+largo. Deixa sem palavras
+aqueles que o observam.
+--- BLOCK ---
+Chifre rígido de Duramboros.
+Nada o deterá durante
+uma feroz investida.
+--- BLOCK ---
+Chifre superduro de Duramboros
+que aumenta a
+ferocidade do monstro.
+--- BLOCK ---
+Caudaóssea de Duramboros.
+Os constantes movimentos
+deram-lhe forma esférica.
+--- BLOCK ---
+Sacro sublime de Duramboros.
+Esses ossos simétricos e
+duros são bastante raros.
+--- BLOCK ---
+Gema lendária produzida em
+um Duramboros. Elegante e
+lúgubre ao mesmo tempo.
+--- BLOCK ---
+Concha de um Duramboros enferrujado.
+Possuída pelo ódio em
+relação à presa desejada.
+--- BLOCK ---
+Concha de Duramboros enferrujado
+com musgo que
+enfraquece os ataques.
+--- BLOCK ---
+DUMMY 101
+--- BLOCK ---
+Concha rígida da cauda
+de Duramboros enferrujado. Todos
+sucumbem ao seu poder.
+--- BLOCK ---
+DUMMY 102
+--- BLOCK ---
+DUMMY 103
+--- BLOCK ---
+Concha de caranguejo gigante. Tão
+dura que até os grandes
+monstros não conseguem mordê-la.
+--- BLOCK ---
+DUMMY 105
+--- BLOCK ---
+Presa afiada de
+Plesioth. Destroça conchas
+de pequenos monstros.
+--- BLOCK ---
+Presa poderosa de
+Plesioth. Esmaga grandes
+monstros com conchas.
+--- BLOCK ---
+Escama sublime de Plesioth
+com brilho azul elétrico.
+Brilha mesmo seca.
+--- BLOCK ---
+Escama espessa de Plesioth
+com brilho azul elétrico.
+Repeli arranhões e mordidas.
+--- BLOCK ---
+Barbatana selecionada de Plesioth.
+Chamativa, apesar das terríveis
+neurotoxinas de suas espinhas.
+--- BLOCK ---
+A melhor e mais bonita
+barbatana de Plesioth. Ao
+forjar, produz armaduras sublimes.
+--- BLOCK ---
+DUMMY 105
+--- BLOCK ---
+Escama enorme de Plesioth
+verde. Espessa e útil
+para equipamentos especializados.
+--- BLOCK ---
+DUMMY 107
+--- BLOCK ---
+Barbatana excelente de Plesioth
+verde. Acessório ideal para
+criar equipamentos ostensivos.
+--- BLOCK ---
+Carapaça de Brachydios. Brilha
+como obsidiana e
+embeleza as armaduras.
+--- BLOCK ---
+Corteza grossa de Brachydios.
+Sua beleza confere
+força e distinção.
+--- BLOCK ---
+Braçadeira de obsidiana de
+Brachydios. Cria armaduras fortes,
+talvez devido ao mofo.
+--- BLOCK ---
+Braçadeira especial Brachydios. O
+revestimento de lodo
+contém bactérias: cuidado.
+--- BLOCK ---
+DUMMY 108
+--- BLOCK ---
+DUMMY 109
+--- BLOCK ---
+Couro abaulado de Brachydios
+coberto por uma
+substância explosiva verde.
+--- BLOCK ---
+Couro duro e afiado de
+um Brachydios feroz. Mais
+explosivo que o normal.
+--- BLOCK ---
+Substância explosiva e verde
+encontrada em Brachydios.
+Use com cuidado.
+--- BLOCK ---
+Baba verde muito explosiva
+encontrada em Brachydios ferozes.
+Use com cuidado.
+--- BLOCK ---
+Braço de Brachydios que
+enterrou muitos caçadores imprudentes.
+Com baba verde.
+--- BLOCK ---
+Braço de um Brachydios
+muito enfurecido. Duro e
+pesado, feito de ferro.
+--- BLOCK ---
+Apesar de seus braços serem
+fortes, sua cauda também é
+resistente. Cuidado: baba explosiva!
+--- BLOCK ---
+DUMMY 110
+--- BLOCK ---
+Gema rara de um
+Brachydios. Esconderá o segredo
+de sua temível baba?
+--- BLOCK ---
+Concha lendária de Brachydios. Os
+que a usam dominam a
+terra e o céu.
+--- BLOCK ---
+Escama negra de Miralis
+funesto. Chamada de "flor
+flamejante" por sua beleza.
+--- BLOCK ---
+Escama ardente de Miralis
+funesto. Feita de magma,
+queimará se tocada.
+--- BLOCK ---
+Garra impiedosa de Miralis
+funesto. Queima e destroça
+inimigos com sua chama.
+--- BLOCK ---
+DUMMY 111
+--- BLOCK ---
+DUMMY 112
+--- BLOCK ---
+Olho sinistro de Miralis
+funesto. O último que
+verão os caçadores imprudentes.
+--- BLOCK ---
+DUMMY 113
+--- BLOCK ---
+Asa pesada de Miralis
+funesto usada para lançar
+fogo infernal nos inimigos.
+--- BLOCK ---
+DUMMY 114
+--- BLOCK ---
+DUMMY 115
+--- BLOCK ---
+Núcleo ígneo do Miralis
+Sinistro. O magma se
+concentra em seu interior.
+--- BLOCK ---
+Coração ígneo do Miralis
+Sinistro. Continua batendo mesmo
+após a morte.
+--- BLOCK ---
+DUMMY 116
+--- BLOCK ---
+Substância magmática que corre
+pelas veias do
+Miralis Sinistro. Cuidado!
+--- BLOCK ---
+Gema lendária do corpo
+do Miralis Sinistro. Feita
+de magma cristalizado.
+--- BLOCK ---
+Parece um pedaço de
+terra, mas é metal
+oxidado. Tente polir...
+--- BLOCK ---
+Parece ser algum tipo de
+metal fossilizado. Pode ser
+um tesouro se polir.
+--- BLOCK ---
+Fragmento metálico oxidado com
+forma única. Parece que
+pode ser útil...
+--- BLOCK ---
+Grande peça metálica de
+uma antiga camada de
+terra. Servirá para algo?
+--- BLOCK ---
+Pequena peça metálica de
+uma antiga camada de
+terra. Servirá para algo?
+--- BLOCK ---
+Longa peça metálica de
+uma antiga camada de
+terra. Servirá para algo?
+--- BLOCK ---
+Mapa do terreno de
+caça. <COLO 05>(Suprimento)
+--- BLOCK ---
+Recupera um pouquinho de
+Vida. Não vai te
+fazer mal! <COLO 05>(Suprimento)
+--- BLOCK ---
+Aumenta Resistência atual ou
+máxima. Os caçadores
+adoram. <COLO 05>(Suprimento)
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pedra de afiação que
+restaura o Fio das
+armas. <COLO 05>(Fornecimento)
+--- BLOCK ---
+Imobiliza o alvo
+para capturá-lo facilmente.
+<COLO 05>(Fornecimento)
+--- BLOCK ---
+Bomba que emite um
+brilho intenso ao
+impactar. <COLO 05>(Sup.)
+--- BLOCK ---
+Bomba sonora de
+alta frequência.
+<COLO 05>(Suprimento)
+--- BLOCK ---
+Recupera a saúde e aumenta
+a capacidade da barra
+de saúde. <COLO 05>(Suprimento)
+--- BLOCK ---
+Ative uma armadilha
+para capturar monstros.
+<COLO 05>(Suprimento)
+--- BLOCK ---
+Fornecimento de oxigênio da
+Guilda. Um sopro de
+ar fresco! <COLO 05>(Fornec.)
+--- BLOCK ---
+Bomba barril grande aprimorada
+(como Bomba barril grande+).
+Submersível. <COLO 05>(Provisionamento)
+--- BLOCK ---
+Munição para Besta
+Pesada Montada.
+<COLO 05>(Suprimento)
+--- BLOCK ---
+Munición para Ballesta grande montada.
+¡Mantiene a los gigantes a
+raya! <COLO 05>(Sum.) [UNTRANSLATED]
+--- BLOCK ---
+DUMMY 117
+--- BLOCK ---
+Munição especial para
+canhão antídoto. Muito
+pesada. <COLO 05>(Provisionamento)
+--- BLOCK ---
+Pequena bomba relógio que
+se prende ao
+alvo. <COLO 05>(Fornecimento)
+--- BLOCK ---
+Use para iluminar na
+escuridão e repelir alguns
+monstros. <COLO 05>(Suprimento)
+--- BLOCK ---
+Entregue para concluir missão. Talvez
+os Felyne te levem
+para casa... <COLO 05>(Suprimento)
+--- BLOCK ---
+Alimento para a rainha das abelhas.
+Também é bom para a
+sua saúde! <COLO 05>(Item contado)
+--- BLOCK ---
+Flecha de pequeno porte
+valorizada por seu aroma
+especial. <COLO 05>(Item contado)
+--- BLOCK ---
+Forma e aroma perfeitos. Melhor
+que um cogumelo especial.
+<COLO 05>(Item de conta)
+--- BLOCK ---
+Flecha especial que amadureceu
+seu aroma e sabor.
+<COLO 05>(Ítem de conta)
+--- BLOCK ---
+Flecha rara que cresce perto
+de plantas nascidas em riachos.
+<COLO 05>(Item de conta)
+--- BLOCK ---
+Broto de bambu de um
+riacho de montanha. Usado para
+cozinhar. <COLO 05>(Item de coleção)
+--- BLOCK ---
+DUMMY 118
+--- BLOCK ---
+DUMMY 119
+--- BLOCK ---
+Peixe raro feito de prata
+pura. Vendido por uma quantia
+considerável. <COLO 05>(Obj. conta)
+--- BLOCK ---
+DUMMY 120
+--- BLOCK ---
+DUMMY 121
+--- BLOCK ---
+Peixe raro feito de ouro
+maciço. Vendido por uma quantia
+considerável. <COLO 05>(Obj. conta)
+--- BLOCK ---
+Besouro com brilho de joia.
+Valorizado por entusiastas de insetos.
+<COLO 05>(Contagem de item)
+--- BLOCK ---
+Besouro com um brilho
+sagrado. Valorizado pelos gananciosos.
+<COLO 05>(Item contado)
+--- BLOCK ---
+Gafanhoto com asas prateadas.
+Emite um som muito
+melodioso. <COLO 05>(Item contado)
+--- BLOCK ---
+Gafanhoto com asas douradas.
+Emite um som vibrante.
+<COLO 05>(Item contável)
+--- BLOCK ---
+Fragmento puro de Aurirroca.
+É muito valioso.
+<COLO 05>(Item contável)
+--- BLOCK ---
+Fragmento valioso de minério de
+ouro. Seu brilho é muito
+cativante. <COLO 05>(Item de conta)
+--- BLOCK ---
+Pequena pedra rosa de minério.
+Exala aroma floral ao ser
+esfregada. <COLO 05>(Obj. conta)
+--- BLOCK ---
+Cristal de minério rosa cristalizado.
+Aroma floral ao ser
+esfregado. <COLO 05>(Obj. conta)
+--- BLOCK ---
+Osso único venerado na
+vila por razões desconhecidas.
+<COLO 05>(Item de missão)
+--- BLOCK ---
+Osso dourado e reluzente.
+Popular entre colecionadores.
+<COLO 05>(Item contado)
+--- BLOCK ---
+A pedra carmesim é uma
+relíquia de alguma besta
+ancestral? <COLO 05>(Obj. contador)
+--- BLOCK ---
+Pedra carmesim intenso. Parece
+que vai sangrar. <COLO
+05>(Item de conta)
+--- BLOCK ---
+Pedra combustível que emite
+um calor suave. <COLO
+05>(Item de conta)
+--- BLOCK ---
+Rocha combustível quente. Pode
+pegar fogo. <COLO
+05>(Item de contagem)
+--- BLOCK ---
+Ovo roubado de um
+ninho de monstro.
+--- BLOCK ---
+Ovo roubado de
+um herbívoro.
+Parece saboroso.
+--- BLOCK ---
+Ovo de Gargwa. Embora
+seja um ingrediente muito
+usado, é bastante caro.
+--- BLOCK ---
+Ovo estranho de Gargwa com
+um brilho dourado. Existem muitas
+teorias sobre sua cor.
+--- BLOCK ---
+DUMMY 206
+--- BLOCK ---
+Rocha que explode com
+o menor impacto. Cuidado!
+--- BLOCK ---
+Excrementos de Gargwa. Quando secos
+e pulverizados, possuem uso
+medicinal. <COLO 05>(Item contável)
+--- BLOCK ---
+Fígado branco, conhecido por
+sua textura suculenta. <COLO
+05>(Item de conta)
+--- BLOCK ---
+Gordura extraída da pele de
+Slagtoth. Usado em poções e
+unguentos. <COLO 05>(Item contado)
+--- BLOCK ---
+As línguas de Popo
+são populares, saudáveis e
+divertidas. <COLO 05>(Obj. conta)
+--- BLOCK ---
+Bolsa carregada por um
+Melynx. Contém diversos pertences.
+<COLO 05>(Item de contagem)
+--- BLOCK ---
+Bellota completamente redonda. Um tesouro muito
+valorizado pelos Felyne. <COLO 05>(Obj.
+conta) - (Item de contagem)
+--- BLOCK ---
+Estômago de Altaroth. Seu
+conteúdo é delicioso. <COLO
+05>(Item de conta)
+--- BLOCK ---
+Brilhante Altaroth Stomach. É
+um ingrediente de cozinha.
+<COLO 05>(Obj. contagem)
+--- BLOCK ---
+Fluido de Giggi. Elimina resíduos
+e melhora o fluxo
+sanguíneo. <COLO 05>(Obj. contagem)
+--- BLOCK ---
+Vísceras de monstro. Uma
+iguaria valiosa. <COLO
+05>(Item de conta)
+--- BLOCK ---
+Item encontrado na água
+por aqui. Dinheiro fácil!
+<COLO 05>(Item de contagem)
+--- BLOCK ---
+Lágrimas amargas derramadas por
+monstros em algumas ocasiões.
+<COLO 05>(Obj. cont.)
+--- BLOCK ---
+Lágrimas amargas derramadas por
+wyverns em algumas ocasiões.
+<COLO 05>(Obj. cont.)
+--- BLOCK ---
+Lágrimas amargas derramadas por
+bestas de presas afiadas.
+<COLO 05>(Item de coleta)
+--- BLOCK ---
+Lágrimas amargas derramadas por
+bestas de presas. <COLO
+05>(Item de coleção)
+--- BLOCK ---
+Recompensa por vencer um
+wyvern pássaro na Arena.
+--- BLOCK ---
+DUMMY 122
+--- BLOCK ---
+DUMMY 123
+--- BLOCK ---
+DUMMY 124
+--- BLOCK ---
+DUMMY 125
+--- BLOCK ---
+DUMMY 126
+--- BLOCK ---
+DUMMY 127
+--- BLOCK ---
+Recompensa por vencer um
+leviatã na Arena.
+--- BLOCK ---
+DUMMY 128
+--- BLOCK ---
+DUMMY 129
+--- BLOCK ---
+DUMMY 130
+--- BLOCK ---
+DUMMY 131
+--- BLOCK ---
+DUMMY 214
+--- BLOCK ---
+Moeda magnífica concedida a
+mestres absolutos da caça.
+Não tem preço.
+--- BLOCK ---
+Moeda de prata concedida
+aos verdadeiros caçadores. Seu
+brilho reflete sua glória.
+--- BLOCK ---
+Troque por uma refeição
+especial com efeitos mais
+fortes que o normal.
+--- BLOCK ---
+Troque para comer como
+um rei. Com sabor
+e efeitos de primeira.
+--- BLOCK ---
+Troque por um Sharq de
+pelúcia raro. Não é
+encontrado em missões normais.
+--- BLOCK ---
+DUMMY 132
+--- BLOCK ---
+DUMMY 133
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY 134
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Prova de ter superado
+inúmeras provas. É uma
+insígnia de honra.
+--- BLOCK ---
+DUMMY 135
+--- BLOCK ---
+Bilhete concedido por
+demonstrações de valor.
+Tente colecioná-los.
+--- BLOCK ---
+DUMMY 136
+--- BLOCK ---
+Bilhetes de Lynian, com uma
+pegada animal. As letras
+são de origem desconhecida.
+--- BLOCK ---
+Item essencial usado
+como adorno.
+--- BLOCK ---
+Item essencial usado
+como adorno.
+--- BLOCK ---
+Item essencial usado como
+adorno. Uma pena que
+seja tão caro.
+--- BLOCK ---
+Item essencial usado
+como adorno. Raramente
+é obtido.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Paralisia.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Paralisia.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sono.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sono.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Atordoamento.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Atordoamento.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Veneno.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Veneno.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Lama/Neve.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Lama/Neve.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sentido.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Saúde.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Velocidade de recuperação.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Velocidade de recuperação.
+--- BLOCK ---
+Adorno que fornece pontos
+em habilidades do tipo
+Afiado. <COLO 05>(Apenas Espadachín)
+--- BLOCK ---
+Adorno que aumenta pontos
+em habilidades como Afiado.
+<COLO 05>(Somente Espadachim)
+--- BLOCK ---
+Decorativo que concede pontos
+em habilidades de Artesão.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades do tipo
+Artesão. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que aumenta os
+pontos em habilidades de
+Esgrima. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Esgrima. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Especialista.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Especialista.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Especialista.
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades do tipo
+Afiador. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades do tipo
+Guarda. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Guarda. <COLO 05>(Apenas Esgrimista)
+--- BLOCK ---
+Item que concede pontos
+em habilidades do tipo
+Guarda+. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades como Guarda+.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Decoração que concede pontos em
+habilidades do tipo Recarga
+Rápida. <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Recarga
+Rápida. <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Recuo.
+<COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades de Retrocesso.
+<COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades de Tiro+.
+<COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que aumenta os pontos
+de habilidade do tipo
+Tiro+. <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Perfuração+. <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que aumenta os pontos
+em habilidades do tipo
+Perfuração+. <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades como Munição+.
+<COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Decoração que fornece pontos
+em habilidades do tipo
+Tiro+. <COLO 05>(Somente Artilharia)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Usa
+normal. <COLO 05>(Somente Atirador)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades tipo Usa
+normal. <COLO 05>(Somente Atirador)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Perfuração. <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+DUMMY 137
+--- BLOCK ---
+Adorno que aumenta os pontos
+de habilidade do tipo Usa
+perdigão. <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Explosivo. <COLO 05>(Apenas Artilheiro)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de grupo.
+<COLO 05>(Apenas atirador)
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Estado anormal.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Estado anormal.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades Elementais.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades Elementais.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Bombardeio.
+--- BLOCK ---
+DUMMY 138
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Fome.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Gula.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Ataque.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Ataque.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Ataque.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Defesa.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Defesa.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Proteção.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Proteção.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades de Proteção auricular.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades de Proteção auricular.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades Antirroubo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Efeito de área.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Efeito de área.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Caminhante.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao fogo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência à água.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao gelo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao trovão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao dragão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao calor.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao frio.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao vento.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência ao vento.
+--- BLOCK ---
+DUMMY 139
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Coleta.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Velocidade de coleta.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Capricho.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sorte.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sorte.
+--- BLOCK ---
+DUMMY 140
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Psíquico.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Nível de recuperação.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Nível de recuperação.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Combinação.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Combinação+.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Evasão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Evasão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Potencial.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Potencial.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Duração.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Resistência.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Resistência.
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades do tipo
+Carga+. <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque+. <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que aumenta os
+pontos em habilidades de
+Precisão. <COLO 05>(Apenas Artilheiro)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Consumo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Consumo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Cortar.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Cortar.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência a tremores.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência a tremores.
+--- BLOCK ---
+DUMMY 141
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Esquiva à distância.
+--- BLOCK ---
+DUMMY 142
+--- BLOCK ---
+Decoração que concede pontos
+em habilidades como "Desembainhar
+Espada". <COLO 05>(Somente Espadachim)
+--- BLOCK ---
+Decorativo que concede pontos
+em habilidades como Desembainhar
+Espada. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades de Armar Armadilhas.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Constituição.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Constituição.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Captura.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Captura.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Percepção.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Recarga rápida.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+de Recarga rápida.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Oxigênio.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência a correntes.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Natação.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Natação.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Pluma
+imediata. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Decoração que fornece pontos em
+habilidades do tipo Penas
+Imediatas. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de
+Resistência a pragas.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Despertar.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Despertar.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sobrevivência.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Sobrevivência.
+--- BLOCK ---
+Decoração que concede pontos em
+habilidades do tipo Disparo de
+Bônus. <COLO 05>(Apenas Artilheiro)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Bônus de
+Tiro. <COLO 05>(Somente Atirador)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades de Lodo.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades de Aura de chama.
+--- BLOCK ---
+(Item máscara)
+--- BLOCK ---
+(Item máscara)
+--- BLOCK ---
+(Item máscara)
+--- BLOCK ---
+(Item máscara)
+--- BLOCK ---
+Munição explosiva. Alguns alvos
+requerem vários tiros.
+D. máx. 12.
+--- BLOCK ---
+DUMMY 143
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+wyverns voadores.
+--- BLOCK ---
+Trata das tradições e
+ecologia das subespécies
+do wyvern voador.
+--- BLOCK ---
+Trata das tradições e
+ecologia das subespécies
+do wyvern voador.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+wyverns pássaro.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+wyverns pássaro.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+wyverns brutos.
+--- BLOCK ---
+Trata das tradições e
+ecologia das subespécies
+do wyvern bruto.
+--- BLOCK ---
+Trata das tradições e
+ecologia das subespécies
+do wyvern bruto.
+--- BLOCK ---
+Trata das tradições e
+ecologia dos leviatãs.
+--- BLOCK ---
+Trata das tradições
+e ecologia das
+subespécies do leviatã.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+leviatãs raros.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+wyverns de presas.
+--- BLOCK ---
+Trata das tradições e
+ecologia das subespécies do
+wyvern de presas.
+--- BLOCK ---
+Trata das tradições
+e ecologia das
+bestas de presas.
+--- BLOCK ---
+DUMMY 144
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+wyverns piscíneos.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+dragões anciãos.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+dragões anciãos.
+--- BLOCK ---
+Trata das tradições
+e ecologia dos
+dragões anciãos.
+--- BLOCK ---
+Trata das tradições e
+ecologia dos lynians.
+--- BLOCK ---
+Trata das tradições e
+ecologia dos neopterons.
+--- BLOCK ---
+Trata das tradições e
+ecologia dos herbívoros.
+--- BLOCK ---
+Trata das tradições e
+ecologia dos herbívoros.
+--- BLOCK ---
+Trata das tradições e
+ecologia do Deviljho.
+--- BLOCK ---
+Trata das tradições e
+ecologia do Brachydios.
+--- BLOCK ---
+Trata das tradições
+e ecologia do
+Miralis funesto.
+--- BLOCK ---
+Trata das tradições e
+ecologia do Plesioth.
+--- BLOCK ---
+Trata das tradições
+e ecologia das
+subespécies do Plesioth.
+--- BLOCK ---
+Item para curar
+Fedor. Libera fumaça
+desodorizante quando usado.
+--- BLOCK ---
+Gafanhoto com um escudo
+muito resistente. Valorizado como
+material para artesanato.
+--- BLOCK ---
+Osso raro de dragão ancião
+que um dia reinou.
+Contém um misterioso poder.
+--- BLOCK ---
+DUMMY 145
+--- BLOCK ---
+Cristal puro. Tão resistente
+que pode ser usado
+em ferramentas de trabalho.
+--- BLOCK ---
+Item essencial usado como
+adorno. Orbe raro que
+abriga um grande poder.
+--- BLOCK ---
+Pele resistente e flexível de
+um Lagiacrus. Usada em roupas
+de couro e mais.
+--- BLOCK ---
+DUMMY 146
+--- BLOCK ---
+Presas características do
+Gigginox. Só de
+olhar, provoca pesadelos.
+--- BLOCK ---
+DUMMY 147
+--- BLOCK ---
+DUMMY 148
+--- BLOCK ---
+DUMMY 149
+--- BLOCK ---
+Revestimento que aplica baba
+explosiva em flechas disparadas.
+D. máx. 20.
+--- BLOCK ---
+DUMMY 150
+--- BLOCK ---
+Belo sininho em forma de
+flor. Seu som toca até
+o coração mais duro.
+--- BLOCK ---
+Espinho muito afiado da cauda
+de um Nargacuga lunar.
+Lançado a longa distância.
+--- BLOCK ---
+DUMMY 151
+--- BLOCK ---
+Espinho de cauda de um
+Nargacuga verdejante. Tão afiado que
+suas feridas passam despercebidas.
+--- BLOCK ---
+DUMMY 152
+--- BLOCK ---
+Casca rígida de Agnaktor.
+Resistente ao calor, produz
+objetos ígneos quando forjada.
+--- BLOCK ---
+Pele incomum de Gigginox.
+Combinação perfeita entre
+beleza e raridade.
+--- BLOCK ---
+Órgão de monstro
+com poderes de
+congelamento. Congela instantaneamente.
+--- BLOCK ---
+Órgão de monstro projetado
+para armazenar grandes
+quantidades de água.
+--- BLOCK ---
+Caldo cozido com partes
+selecionadas dos sucos de
+um monstro. Nojento?
+--- BLOCK ---
+DUMMY 153
+--- BLOCK ---
+Osso muito duro de uma
+grande besta. Supera o padrão
+de materiais de artesanato.
+--- BLOCK ---
+DUMMY 154
+--- BLOCK ---
+Pele de um animal pequeno.
+Tem diversos usos, mas
+principalmente para fazer roupas.
+--- BLOCK ---
+DUMMY 155
+--- BLOCK ---
+DUMMY 156
+--- BLOCK ---
+Peixe gigante muito valioso
+e raro. Certamente pode
+ser usado para algo...
+--- BLOCK ---
+Pelagem negra de um
+Nargacuga. Absorve a luz
+e emite pura escuridão.
+--- BLOCK ---
+Grande lâmina da asa
+de um Nargacuga. Corta
+os inimigos num instante.
+--- BLOCK ---
+Bilhete em reconhecimento às
+ajudas à Guilda. Troca-se
+com Ancião Vegetal.
+--- BLOCK ---
+Bilhete em reconhecimento às
+ajudas à Guilda. Troca-se
+com Ancião Vegetal.
+--- BLOCK ---
+Bilhete de recompensa por
+caçar com amigos. Troca-se
+com o Ancião Vegetal.
+--- BLOCK ---
+Bilhete de recompensa por caçar
+com amigos. Ancião Vegetal
+oferecerá uma troca única...
+--- BLOCK ---
+Bilhete de recompensa por caçar
+com amigos. Ancião Vegetal
+oferecerá uma troca valiosa...
+--- BLOCK ---
+Bilhete de recompensa por caçar
+com amigos. Ancião Vegetal
+oferecerá uma troca incrível.
+--- BLOCK ---
+DUMMY 157
+--- BLOCK ---
+DUMMY 158
+--- BLOCK ---
+Borboleta lendária visível apenas
+para corações puros. Muito
+rara de encontrar.
+--- BLOCK ---
+DUMMY 159
+--- BLOCK ---
+DUMMY 160
+--- BLOCK ---
+DUMMY 161
+--- BLOCK ---
+DUMMY 162
+--- BLOCK ---
+DUMMY 163
+--- BLOCK ---
+Bilhete de recompensa por caçar
+com o Shakalaka. Prova
+da amizade com ele.
+--- BLOCK ---
+DUMMY 164
+--- BLOCK ---
+Excelente chifre do forte
+Lagiacrus. Único, é
+quase uma lenda.
+--- BLOCK ---
+DUMMY 165
+--- BLOCK ---
+DUMMY 166
+--- BLOCK ---
+DUMMY 167
+--- BLOCK ---
+Milho gigante difícil de
+cultivar nesta região. Tem
+formato de espiga.
+--- BLOCK ---
+DUMMY 210
+--- BLOCK ---
+DUMMY 212
+--- BLOCK ---
+Excelente presa do feroz
+Bullfango. As marcas são
+devido às investidas selvagens.
+--- BLOCK ---
+DUMMY 168
+--- BLOCK ---
+DUMMY 169
+--- BLOCK ---
+DUMMY 170
+--- BLOCK ---
+Inseto raro com enorme
+boca de besouro e
+delicadas asas de borboleta.
+--- BLOCK ---
+DUMMY 171
+--- BLOCK ---
+DUMMY 172
+--- BLOCK ---
+Cauda tão pesada a ponto
+de dobrar um martelo
+de aço. Poder inimaginável.
+--- BLOCK ---
+Cauda rígida de excelentes
+exemplares de Barroth. Barata,
+mas muito versátil.
+--- BLOCK ---
+DUMMY 173
+--- BLOCK ---
+DUMMY 174
+--- BLOCK ---
+DUMMY 175
+--- BLOCK ---
+Órgão e concha do peito
+de um Agnaktor usado
+para lançar seus raios.
+--- BLOCK ---
+DUMMY 176
+--- BLOCK ---
+Coroa de ouro com
+emblema real. Apresenta um
+vazio na testa.
+--- BLOCK ---
+Emblema real de um
+grande reino que pereceu.
+Apresenta dois dragões idênticos.
+--- BLOCK ---
+Coroa da família real de
+uma terra caída. Seu
+brilho mostra sua prosperidade.
+--- BLOCK ---
+Bens de qualidade. Podem
+se tornar Recursos
+ou serem trocados.
+--- BLOCK ---
+DUMMY 177
+--- BLOCK ---
+Cauda superior de Ludroth real.
+Sua força mostra que
+foi forjada com dificuldade.
+--- BLOCK ---
+Escama excepcional de Jhen
+Mohran. Espessa e colorida,
+de grande valor.
+--- BLOCK ---
+Pesado pedaço de concha
+de Jhen Mohran. Mais
+duro que o aço.
+--- BLOCK ---
+Excelente fixação de Jhen
+Mohran. Fácil de modificar
+com a força necessária.
+--- BLOCK ---
+Asa extraída. Os bons
+artesãos a transformam
+em equipamentos resistentes.
+--- BLOCK ---
+Difícil de forjar, mas devido
+à sua resistência à água
+é usada para revestir armaduras.
+--- BLOCK ---
+Mais resistente que a cinta
+comum e retém a
+água. Perfeita para revestimento.
+--- BLOCK ---
+Trata dos costumes e
+ecologia dos peixes.
+--- BLOCK ---
+DUMMY 178
+--- BLOCK ---
+DUMMY 179
+--- BLOCK ---
+Ovo dourado brilhante. Apesar de
+pequeno, é muito caro.
+<COLO 05>(Item de missão)
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cabeça duríssima usada como
+material de armadura. Serve
+como brincadeira para festas.
+--- BLOCK ---
+Cabeça dura e assustadora
+de alguns Plesioth. Uma
+das melhores para armaduras.
+--- BLOCK ---
+Recompensa por vencer uma besta
+de presas na Arena.
+Tem uma presa esculpida.
+--- BLOCK ---
+Recompensa por vencer um
+wyvern voador na Arena.
+Desafie os céus.
+--- BLOCK ---
+Recompensa por vencer um wyvern
+piscine na Arena. Possui
+uma aleta solene esculpida.
+--- BLOCK ---
+Recompensa por vencer um
+wyvern bruto na Arena.
+Desafie a terra.
+--- BLOCK ---
+Mobília, mais como uma
+boneca. É a funcionária
+da Arena de Tanzia!
+--- BLOCK ---
+Mobília elegante, mais como
+uma boneca. É a
+recepcionista de Tanzia!
+--- BLOCK ---
+Mobília super elegante, na verdade
+é uma boneca. É a
+vendedora da guilda de Tanzia!
+--- BLOCK ---
+Mobília de primeira, mais como
+uma boneca. É a garota
+do gongo de Tanzia!
+--- BLOCK ---
+Pequeno bico inútil para
+a mineração. Parece ter
+um poder estranho...
+--- BLOCK ---
+Bens de qualidade. Um
+desses dentes brilhantes é
+uma boa troca.
+--- BLOCK ---
+Bens de qualidade. Uma
+dessas escamas esplêndidas é
+uma boa troca.
+--- BLOCK ---
+DUMMY 180
+--- BLOCK ---
+DUMMY 181
+--- BLOCK ---
+DUMMY 182
+--- BLOCK ---
+DUMMY 183
+--- BLOCK ---
+DUMMY 184
+--- BLOCK ---
+DUMMY 185
+--- BLOCK ---
+DUMMY 186
+--- BLOCK ---
+DUMMY 187
+--- BLOCK ---
+DUMMY 188
+--- BLOCK ---
+DUMMY 189
+--- BLOCK ---
+DUMMY 190
+--- BLOCK ---
+DUMMY 191
+--- BLOCK ---
+Bem raro ★★. Faça uma
+troca rara com um
+crânio de wyvern pássaro.
+--- BLOCK ---
+Bem raro ★★. Saborosa pata
+de Arzuros. Faça uma troca
+rara com essa iguaria.
+--- BLOCK ---
+Bem raro ★★★. Garganta de
+Qurupeco. Faça uma troca rara
+com esse objeto barulhento.
+--- BLOCK ---
+Bem raro ★★★. Pelagem fofa
+de um Ludroth real. Use
+para uma troca rara.
+--- BLOCK ---
+Bem raro ★★★. Faça uma
+troca rara com a
+língua elástica do Volvidon.
+--- BLOCK ---
+Bem raro ★★★★. Elemento rico
+de um Barroth. Use
+para uma troca rara.
+--- BLOCK ---
+DUMMY 192
+--- BLOCK ---
+DUMMY 193
+--- BLOCK ---
+Muito raro ★★★★. Carne
+excelente de Rathian. Use
+para troca rara.
+--- BLOCK ---
+Muito raro ★★★★. Fígado
+açucarado requintado de Gobul.
+Para troca rara.
+--- BLOCK ---
+Muito raro ★★★★★. Carne
+excelente de Rathian
+rosa. Sabor divino.
+--- BLOCK ---
+Muito raro ★★★★★. Encontrada em
+Lagiacrus, a escama é
+uma obra de arte.
+--- BLOCK ---
+Muito raro ★★★★★. Costelas de
+Rathalos são raras, apenas
+os sortudos as provarão.
+--- BLOCK ---
+Muito raro ★★★★★. A
+carne gordurosa de Plesioth
+é deliciosa. Sem palavras.
+--- BLOCK ---
+Muito raro ★★★★★. Está
+sendo investigado como um
+possível remédio universal.
+--- BLOCK ---
+Muito raro ★★★★★. Órgão
+de Uragaan que
+produz gás sonífero.
+--- BLOCK ---
+Muito raro ★★★★★. Obsidiana
+pura raramente encontrada no
+corpo dos Brachydios.
+--- BLOCK ---
+Muito raro ★★★★★. Este
+cogumelo escasso só cresce
+nas carapaças de Duramboros.
+--- BLOCK ---
+DUMMY 194
+--- BLOCK ---
+Muito raro ★★★★★★. Cabeça
+de Zinogre. Disseque e
+mostre a todos.
+--- BLOCK ---
+DUMMY 195
+--- BLOCK ---
+Muito raro ★★★★★★. O brilho
+do olho de Nargacuga nunca
+se apaga, mesmo morto.
+--- BLOCK ---
+Muito raro ★★★★★★. Escama rara
+de Rathalos celeste. Sua
+chama cerúlea consome tudo.
+--- BLOCK ---
+Muito raro ★★★★★★★. Escama
+nívea de Lagiacrus
+marmóreo. Chamará atenção.
+--- BLOCK ---
+Muito raro ★★★★★★★. O
+estômago de Deviljho
+contém tesouros preciosos.
+--- BLOCK ---
+DUMMY 196
+--- BLOCK ---
+DUMMY 197
+--- BLOCK ---
+DUMMY 198
+--- BLOCK ---
+DUMMY 199
+--- BLOCK ---
+DUMMY 200
+--- BLOCK ---
+DUMMY 201
+--- BLOCK ---
+DUMMY 202
+--- BLOCK ---
+DUMMY 203
+--- BLOCK ---
+DUMMY 204
+--- BLOCK ---
+DUMMY 205
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY 207
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY 220
+--- BLOCK ---
+Sobre os costumes e
+a ecologia dos
+wyverns voadores raros.
+--- BLOCK ---
+Sobre os costumes
+e a ecologia
+do Nargacuga lunar.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Piel de hierro.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+do tipo Antisséptico.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+do tipo Antisséptico.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de fogo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de fogo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de água.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de água.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de trovão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de trovão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de gelo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de gelo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de dragão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Ataque de dragão.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+do tipo Maza.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+do tipo Maza.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Destruidor.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Destruidor.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Poder.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Poder.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Boxeador.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a roubo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a roubo.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Flautista.
+--- BLOCK ---
+Adorno que concede
+pontos em habilidades
+do tipo Artilharia.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a doenças.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a fogo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a água.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a trovão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a gelo.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a dragão.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do
+tipo Recarga rápida.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do
+tipo Recarga rápida.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a recuperação.
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a recuperação.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Soldado.
+--- BLOCK ---
+Item que concede pontos em
+habilidades do tipo Usa
+Cortador. <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Decoração que concede pontos em
+habilidades do tipo "+
+paralisia". <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Adorno que aumenta os pontos
+em habilidades do tipo "+
+paralisação". <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Decoração que concede pontos em
+habilidades do tipo "+
+sono". <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Adorno que aumenta pontos em
+habilidades do tipo "+
+veneno". <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo "+
+energia". <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que aumenta pontos em
+habilidades do tipo "+
+energia". <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que aumenta os pontos
+em habilidades do tipo "+
+alcance". <COLO 05>(Apenas Gunner)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo "+
+fadiga". <COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Adorno que concede pontos
+em habilidades do tipo
+Resistência a corrente.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Tripas.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Tripas.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Carnívoro.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Carnívoro.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Evasivo.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo Evasivo.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Caçador.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Caçador.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Biólogo.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Biólogo.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Espírito.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Espírito.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Incólume.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Incólume.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Invencível.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Invencível.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Branquias.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Branquias.
+--- BLOCK ---
+Decorações que concedem pontos em
+habilidades tipo Em Equipe.
+--- BLOCK ---
+Decorações que concedem pontos em
+habilidades tipo Em Equipe.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Liderança.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Liderança.
+--- BLOCK ---
+Medicamento com propriedades curativas.
+Dizem que é a
+fonte da juventude.
+--- BLOCK ---
+Decorações que concedem pontos
+em habilidades tipo Boxeador.
+--- BLOCK ---
+Elegante chifre de Diablos
+com uma forma quase
+perfeita. Material muito raro.
+--- BLOCK ---
+Minério mítico da cabeça de
+um Jhen Mohran sagrado. Apenas
+os melhores irão obtê-lo.
+--- BLOCK ---
+Forte presa de besta dentuda.
+Perfura a casca de
+um monstro como papel.
+--- BLOCK ---
+Lâmina de asa em forma de
+lua de Nargacuga lunar. Se
+a possuir, dominará a noite.
+--- BLOCK ---
+Item comum. As espessas
+peles de Bullfango são
+comercializadas em grande quantidade.
+--- BLOCK ---
+Item raro ★. Excelente
+presa de Bullfango. Use
+para uma troca rara.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Flor noturna de uma
+erva especial de Moga.
+Possui propriedades curativas.
+--- BLOCK ---
+Ferrão de platina de
+um monstro específico. Vendido
+por um bom preço.
+--- BLOCK ---
+Presa de monstro da Floresta de
+Moga. Vale seu peso em
+ouro e tem alto valor.
+--- BLOCK ---
+Enorme aglomeração cristalizada em
+um wyvern ao longo
+dos anos. Vale muito.
+--- BLOCK ---
+Decorações que concedem
+pontos em habilidades
+tipo Busca Talismãs.
+--- BLOCK ---
+Insetos que adoram as
+Sementes dragão. Fonte de
+poder para Zinogre estígio.
+--- BLOCK ---
+Aperitivo nutritivo feito com produtos
+das águas de Tanzia. Sabor
+a frutos do mar.
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo "Usa
+baba". <COLO 05>(Apenas Artilheiro)
+--- BLOCK ---
+Adorno que concede pontos em
+habilidades do tipo "+
+saliva". <COLO 05>(Somente Artilheiro)
+--- BLOCK ---
+Parecem peças de uma
+figura reluzente, reunidas por
+um bando de pássaros.
+--- BLOCK ---
+Prova de seu valor na
+batalha contra um raio atroz.
+Com a inscrição: "raioluz".
+--- BLOCK ---
+Agradecimento especial do capitão
+do Argosy. Permite forjar
+uma nova armadura.
+--- BLOCK ---
+Prova de seu valor na
+batalha contra um trovão feroz.
+Com a inscrição: "trovão".
+--- BLOCK ---
+Nota rara que indica
+como forjar uma poderosa
+Espada de Ataque.
+--- BLOCK ---
+Nota que o parabeniza
+por completar uma missão.
+Bom trabalho, caçador!
+--- BLOCK ---
+Pedaço de carne com
+uma aparência deliciosa, envolto
+em um mistério suculento.
+--- BLOCK ---
+Os restos de um leão
+valente que enfrentou o mundo.
+Material para Grande Espada.
+--- BLOCK ---
+Lâmina envolta em escuridão que
+encanta quem a vê.
+Corta todos os materiais.
+--- BLOCK ---
+Crânio que emite luz
+fraca e parece absorver
+a vida. Aspecto sinistro.
+--- BLOCK ---
+Coroa como prova de sua
+lenda. Pode ser usada
+para criar uma arma.
+--- BLOCK ---
+Nota que lembra que
+você é o melhor
+de todos os tempos.
+--- BLOCK ---
+Espada incomum nesta área.
+Sua lâmina afia
+apenas ao olhar.
+--- BLOCK ---
+Bilhete necessário para forjar uma
+certa arma. Difícil de
+ler devido ao tamanho.
+--- BLOCK ---
+Os restos de um caçador
+corajoso que derrotou um dragão
+apenas com as mãos.
+--- BLOCK ---
+Moeda de bronze encontrada
+apenas com a Máscara
+Astral. Sem uso real.
+--- BLOCK ---
+Moeda de prata encontrada
+apenas com a Máscara
+astral. Sem uso real.
+--- BLOCK ---
+Moeda de ouro encontrada
+apenas com a Máscara
+astral. Sem uso real.
+--- BLOCK ---

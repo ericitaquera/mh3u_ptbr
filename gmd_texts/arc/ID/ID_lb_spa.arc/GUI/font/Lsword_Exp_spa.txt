@@ -1,0 +1,544 @@
+﻿TMSG_LSWORD_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Hasta los cazadores novatos
+pueden usarla. Cárgala para
+atacar con más potencia.
+--- BLOCK ---
+Hasta los cazadores novatos
+pueden usarla. Cárgala para
+atacar con más potencia.
+--- BLOCK ---
+Espada resistente de puro
+hierro. Muy popular
+entre cazadores.
+--- BLOCK ---
+Espada resistente de puro
+hierro. Muy popular
+entre cazadores.
+--- BLOCK ---
+Espada resistente de puro
+hierro. Muy popular
+entre cazadores.
+--- BLOCK ---
+Temible espada de acero con
+enormes púas que sobresalen
+de la hoja.
+--- BLOCK ---
+Temible espada de acero con
+enormes púas que sobresalen
+de la hoja.
+--- BLOCK ---
+Afilada hoja de acero. Capaz
+de embates sin igual debido
+a su aleación múltiple.
+--- BLOCK ---
+Pináculo de la familia de la
+Hoja devastadora. Empúñala
+y jamás conocerás el miedo.
+--- BLOCK ---
+Filo fuerte y afilado.
+Esconde un veneno
+secreto.
+--- BLOCK ---
+Filo fuerte y afilado.
+Esconde un veneno
+secreto.
+--- BLOCK ---
+Hoja de oro de durísimo
+filo, que la hace versátil
+pero difícil de empuñar.
+--- BLOCK ---
+Hoja de oro de durísimo
+filo, que la hace versátil
+pero difícil de empuñar.
+--- BLOCK ---
+Espada fiera de filo rígido.
+Puede desgarrar el cielo
+y la tierra.
+--- BLOCK ---
+Espada fiera de filo rígido.
+Puede desgarrar el cielo
+y la tierra.
+--- BLOCK ---
+Espada de ébano, negra como
+la noche. Nadie sobrevive
+a sus hojas ocultas.
+--- BLOCK ---
+Espada de ébano, negra como
+la noche. Nadie sobrevive
+a sus hojas ocultas.
+--- BLOCK ---
+Una de las cuatro que usó un
+famoso asesino. Deja rastro
+de sangre a la luz de luna.
+--- BLOCK ---
+Temible arma con infinidad
+de hojas ocultas. Corta la
+carne una y otra vez.
+--- BLOCK ---
+La primera de las Siete
+estrellas. Sus hojas cortan
+la noche y hacen enloquecer.
+--- BLOCK ---
+Hoja diseñada para matar
+wyverns voladores, igualando
+a hombre y bestia.
+--- BLOCK ---
+Espada para matar wyverns.
+Empuñarla significa
+renunciar a la propia alma.
+--- BLOCK ---
+Espada para matar wyverns.
+Empuñarla significa
+renunciar a la propia alma.
+--- BLOCK ---
+Hecha de coloridas pieles de
+Jaggi. Arma común de los
+cazadores locales.
+--- BLOCK ---
+Hecha de coloridas pieles de
+Jaggi. Arma común de los
+cazadores locales.
+--- BLOCK ---
+Recuerdo de una valerosa
+incursión en un nido de
+Jaggi muy bien vigilado.
+--- BLOCK ---
+Hoja eléctrica hecha con
+materiales de Lagiacrus.
+Peligro. ¡Alto voltaje!
+--- BLOCK ---
+Hoja eléctrica hecha con
+materiales de Lagiacrus.
+Peligro. ¡Alto voltaje!
+--- BLOCK ---
+Un Lagiacrus encarnado en
+una hoja. Su rayo devora
+las almas de los enemigos.
+--- BLOCK ---
+Un Lagiacrus encarnado en
+una hoja. Su rayo devora
+las almas de los enemigos.
+--- BLOCK ---
+Un Lagiacrus encarnado en
+una hoja. Su rayo devora
+las almas de los enemigos.
+--- BLOCK ---
+Espada nacida del rugido de
+un Lagiacrus marmóreo. Parte
+mares y agita los cielos.
+--- BLOCK ---
+Espada nacida del rugido de
+un Lagiacrus marmóreo. Parte
+mares y agita los cielos.
+--- BLOCK ---
+Arma fuerte y con carácter.
+Todo lo que se diga sobre
+su poder es poco.
+--- BLOCK ---
+Arma fuerte y con carácter.
+Todo lo que se diga sobre
+su poder es poco.
+--- BLOCK ---
+Arma fuerte y con carácter.
+Todo lo que se diga sobre
+su poder es poco.
+--- BLOCK ---
+Arma fuerte y con carácter.
+Todo lo que se diga sobre
+su poder es poco.
+--- BLOCK ---
+Espada con electricidad por
+la joya en la empuñadura.
+Su poder es casi ilimitado.
+--- BLOCK ---
+Espada con electricidad por
+la joya de su empuñadura.
+Su poder es casi ilimitado.
+--- BLOCK ---
+Siniestra espada carmesí.
+Sus hojas parten a los
+enemigos con un rayo negro.
+--- BLOCK ---
+Siniestra espada carmesí.
+Sus hojas rojas parten a los
+enemigos con un rayo negro.
+--- BLOCK ---
+Con la forma de la cabeza de
+un Barroth y casi con la
+misma fuerza.
+--- BLOCK ---
+Con la forma de la cabeza de
+un Barroth y casi con la
+misma fuerza.
+--- BLOCK ---
+Con la forma de la cabeza de
+un Barroth y casi con la
+misma fuerza.
+--- BLOCK ---
+Espada azul como la estela
+en el cielo de una diosa
+montada en un corcel blanco.
+--- BLOCK ---
+Espada azul como la estela
+en el cielo de una diosa
+montada en un corcel blanco.
+--- BLOCK ---
+Espada azul como la estela
+en el cielo de una diosa
+montada en un corcel blanco.
+--- BLOCK ---
+Hecha de un gran cuerno.
+Orgullo de los Cadeus; con
+la sangre enemiga brilla.
+--- BLOCK ---
+Hoja empuñada por un rey
+antiguo. En su luz mora el
+alma de un dios marino...
+--- BLOCK ---
+Hoja empuñada por un rey
+antiguo. En su luz mora el
+alma de un dios marino...
+--- BLOCK ---
+Gran espada forjada con
+hueso de monstruo. Puede con
+varios monstruos a la vez.
+--- BLOCK ---
+Espada de hueso excelente.
+Más apagado que el hierro,
+tiene gran poder destructor.
+--- BLOCK ---
+Espada hecha de huesos
+excelentes, forjada al
+estilo tradicional.
+--- BLOCK ---
+Espada hecha de huesos
+excelentes, forjada al
+estilo tradicional.
+--- BLOCK ---
+Inspirada por las alas del
+Rathalos. Sus mandobles
+forman arcos de llamas.
+--- BLOCK ---
+Inspirada por las alas del
+Rathalos. Sus mandobles
+forman arcos de llamas.
+--- BLOCK ---
+Inspirada por las alas del
+Rathalos. Sus mandobles
+forman arcos de llamas.
+--- BLOCK ---
+Espada fascinante envuelta
+de una llama azul abrasadora
+que consume al que la mira. 
+--- BLOCK ---
+Espada fascinante envuelta
+de una llama azul abrasadora
+que consume al que la mira. 
+--- BLOCK ---
+Espada luminosa con una
+llama plateada del cielo.
+Calcina a los enemigos.
+--- BLOCK ---
+Espada con el poder de un
+Brachydios. Su baba
+explosiva destroza rocas.
+--- BLOCK ---
+Espada con el poder de un
+Brachydios. Su baba
+explosiva destroza rocas.
+--- BLOCK ---
+Espada explosiva que parte
+enemigos en dos y
+los revienta en mil pedazos.
+--- BLOCK ---
+Espada explosiva que parte
+enemigos en dos y
+los revienta en mil pedazos.
+--- BLOCK ---
+Espada de hueso y partes de
+Rathian. Se puede mejorar
+a una suntuosa Gran espada.
+--- BLOCK ---
+Hoja verde con el nombre
+de una reina. Mata con un
+veneno de dulce aroma.
+--- BLOCK ---
+Hecha a imagen de una reina
+vestida de morado. Derriba
+con elegancia.
+--- BLOCK ---
+Arma rosa como la flor del
+cerezo. A su fuerza se
+añade el peso.
+--- BLOCK ---
+Arma rosa como la flor del
+cerezo. A su fuerza se
+añade el peso.
+--- BLOCK ---
+Espada gigante con tonos
+azul y rosa. Significa
+"señor de los elfos”. 
+--- BLOCK ---
+Espada gigante con tonos
+azul y rosa. Significa
+"princesa del extranjero".
+--- BLOCK ---
+La hoja escarlata de un
+rey bravo. Quien la use bien
+ganará cien batallas.
+--- BLOCK ---
+En esta feroz hoja mora el
+espíritu de un rey, y ningún
+cobarde puede tocarla.
+--- BLOCK ---
+Famosa arma empuñada por un
+intrépido héroe. Detesta
+la cobardía y da valor.
+--- BLOCK ---
+Arma de un tono azul intenso
+como la noche. A su fuerza
+se añade el peso.
+--- BLOCK ---
+Arma de un tono azul intenso
+como la noche. A su fuerza
+se añade el peso.
+--- BLOCK ---
+Gran espada forjada con un
+hueso gigante; su potente y
+enorme hoja es mortal.
+--- BLOCK ---
+Dicen que la empuñó un
+gigante. Su gran peso le da
+un poder inusual.
+--- BLOCK ---
+Dicen que la empuñó un
+gigante. Su gran peso le da
+un poder inusual.
+--- BLOCK ---
+Hoja forjada con garras
+y colmillos. Puede desgarrar
+el caparazón de un wyvern.
+--- BLOCK ---
+De aspecto feroz. Hecha de
+cuernos de Diablos.
+Muy poderosa.
+--- BLOCK ---
+De aspecto feroz. Hecha de
+cuernos de Diablos.
+Muy poderosa.
+--- BLOCK ---
+Arma en forma de hacha hecha
+con dos tipos de Diablos.
+Un golpe destroza montañas.
+--- BLOCK ---
+Arma en forma de hacha hecha
+con dos tipos de Diablos.
+Un golpe destroza montañas.
+--- BLOCK ---
+Arma en forma de hacha hecha
+con dos tipos de Diablos.
+Un golpe destroza montañas.
+--- BLOCK ---
+Hoja de hueso reforzada con
+material de Ludroth. Buena
+base para mejoras.
+--- BLOCK ---
+Hoja de absorbente esponja
+cuya agua presurizada puede
+romper duros caparazones.
+--- BLOCK ---
+Hoja de absorbente esponja
+cuya agua presurizada puede
+romper duros caparazones.
+--- BLOCK ---
+Espada que congela enemigos.
+Manifestación del caballero
+blanco de la tundra.
+--- BLOCK ---
+Espada que congela enemigos.
+Manifestación del caballero
+blanco de la tundra.
+--- BLOCK ---
+Espada afilada que recuerda
+a un Barioth. Congela
+la sangre de su presa.
+--- BLOCK ---
+Encarnación de una tormenta
+de arena, aglomera granos
+que consumen a su presa.
+--- BLOCK ---
+Encarnación de una tormenta
+de arena, aglomera granos
+que consumen a su presa.
+--- BLOCK ---
+Encarnación de una tormenta
+de arena, aglomera granos
+que consumen a su presa.
+--- BLOCK ---
+Gran espada con fuertes
+propiedades elementales.
+Brota agua de su aleta.
+--- BLOCK ---
+Gran espada con fuertes
+propiedades elementales.
+Brota agua de su aleta.
+--- BLOCK ---
+Gran espada con fuertes
+propiedades elementales.
+Brota agua de su aleta.
+--- BLOCK ---
+Espada inspirada en aletas
+de un Plesioth verde. Añade
+efecto de sueño a ataques.
+--- BLOCK ---
+Espada inspirada en aletas
+de un Plesioth verde. Añade
+efecto de sueño a ataques.
+--- BLOCK ---
+Espada de madera cubierta de
+setas tóxicas punzantes que
+resiste el peso del wyvern.
+--- BLOCK ---
+Espada de madera cubierta de
+setas tóxicas punzantes que
+resiste el peso del wyvern.
+--- BLOCK ---
+Espada de madera cubierta de
+setas tóxicas punzantes que
+resiste el peso del wyvern.
+--- BLOCK ---
+Espada cubierta de material
+blando tóxico. Tira veneno
+que produce necrosis.
+--- BLOCK ---
+Espada cubierta de material
+blando tóxico. Tira veneno
+que produce necrosis.
+--- BLOCK ---
+Hoja muy pesada que canaliza
+el poder de un Deviljho y
+aniquila a los enemigos.
+--- BLOCK ---
+Oscura hoja imbuida del alma
+de un sanguinario wyvern. 
+--- BLOCK ---
+Oscura hoja imbuida del alma
+de un sanguinario wyvern. 
+--- BLOCK ---
+Pez arpón congelado a modo
+de Gran espada. Prueba que
+eres el mejor pescador.
+--- BLOCK ---
+Pez arpón congelado a modo
+de Gran espada. Prueba que
+eres el mejor pescador.
+--- BLOCK ---
+Pez arpón congelado a modo
+de Gran espada. Prueba que
+eres el mejor pescador.
+--- BLOCK ---
+Arma cuya forma surgió al
+forjarla. ¿Reliquia de
+un viejo recuerdo?
+--- BLOCK ---
+Arma cuya forma surgió al
+forjarla. ¿Reliquia de
+un viejo recuerdo?
+--- BLOCK ---
+Arma cuya forma surgió al
+forjarla. ¿Reliquia de
+un viejo recuerdo?
+--- BLOCK ---
+Antigua erupción volcánica
+en forma de espada.
+Encierra una fuerza vital.
+--- BLOCK ---
+Antigua erupción volcánica
+en forma de espada.
+Encierra una fuerza vital.
+--- BLOCK ---
+Antigua erupción volcánica
+en forma de espada.
+Encierra una fuerza vital.
+--- BLOCK ---
+Gran espada de potencial
+ignorado. Quizá podría
+pulirse...
+--- BLOCK ---
+Gran espada de potencial
+ignorado. Quizá podría
+pulirse...
+--- BLOCK ---
+Bajo el óxido hay una hoja
+de metal que los herreros de
+hoy no saben forjar.
+--- BLOCK ---
+Bajo el óxido hay una hoja
+de metal que los herreros de
+hoy no saben forjar.
+--- BLOCK ---
+Bajo el óxido hay una hoja
+de metal que los herreros de
+hoy no saben forjar.
+--- BLOCK ---
+Gran espada de potencial
+ignorado. Quizá podría
+restaurarse...
+--- BLOCK ---
+Gran espada de potencial
+ignorado. Quizá podría
+restaurarse...
+--- BLOCK ---
+Hoja de origen desconocido.
+Tiene una inscripción. ¿Qué
+querrá decir?
+--- BLOCK ---
+Espada forjada con el saber
+de un erudito desaparecido
+tras descifrar una lápida. 
+--- BLOCK ---
+Inquietante hoja con una
+luz siniestra y el poder de
+robar almas.
+--- BLOCK ---
+Hoja de luz morada. El
+portador deja de ser humano
+y se convierte en dragón.
+--- BLOCK ---
+Hoja de luz morada. El
+portador deja de ser humano
+y se convierte en dragón.
+--- BLOCK ---
+Espada del olvido envuelta
+en llamas. Su fuego infernal
+puede acabar con el mundo.
+--- BLOCK ---
+Espada del olvido envuelta
+en llamas. Su fuego infernal
+puede acabar con el mundo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Colmillo del rey de las
+bestias. Multiplica por cien
+el poder del portador.
+--- BLOCK ---
+Con un cráneo grabado en la
+hoja, parece que la Muerte
+se bañe en sangre.
+--- BLOCK ---
+Gran espada inspirada en el
+luchador más fuerte. Aspecto
+aterrador inconfundible.
+--- BLOCK ---

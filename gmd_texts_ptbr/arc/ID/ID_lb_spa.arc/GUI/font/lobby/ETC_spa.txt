@@ -1,0 +1,108 @@
+TMSG_ETC
+--- BLOCK ---
+Formato de aplicação
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+z
+--- BLOCK ---
+∞
+--- BLOCK ---
+x
+--- BLOCK ---
+:
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
++
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Muer
+--- BLOCK ---
+Capt
+--- BLOCK ---
+Nv.
+--- BLOCK ---
+★
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+? ? ? ? ? ?
+--- BLOCK ---
+Missões urgentes
+--- BLOCK ---
+Eventos
+--- BLOCK ---
+Missões de Arena
+--- BLOCK ---
+RC req: %d
+--- BLOCK ---
+Marina
+--- BLOCK ---
+Taverna
+--- BLOCK ---
+Centro
+--- BLOCK ---
+Casa
+--- BLOCK ---
+Granja
+--- BLOCK ---
+Viagem rápida
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+pt
+--- BLOCK ---
+Sim
+--- BLOCK ---
+Não
+--- BLOCK ---
+Vale
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Ir para Bosque Moga
+--- BLOCK ---
+Iniciar missão
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pode
+--- BLOCK ---
+Valor
+--- BLOCK ---
+Controle deslizante Pro desconectado.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

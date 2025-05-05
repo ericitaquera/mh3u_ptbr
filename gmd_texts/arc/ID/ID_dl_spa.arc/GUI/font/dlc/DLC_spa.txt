@@ -1,0 +1,568 @@
+﻿TEXT_DLMENU
+--- BLOCK ---
+TEXT_NOTICE
+--- BLOCK ---
+TEXT_DLSPECIAL
+--- BLOCK ---
+TEXT_NEWINFO
+--- BLOCK ---
+TEXT_QUEST
+--- BLOCK ---
+TEXT_SPECIAL
+--- BLOCK ---
+TEXT_NOTICE_UPDATE
+--- BLOCK ---
+TEXT_QUEST_UPDATE
+--- BLOCK ---
+TEXT_DLSPECIAL_UPDATE
+--- BLOCK ---
+TEXT_NOUPDATE
+--- BLOCK ---
+TEXT_NOTICE_DISTRI
+--- BLOCK ---
+TEXT_NEXT_DISTRI
+--- BLOCK ---
+TEXT_EVENTQUEST
+--- BLOCK ---
+TEXT_CHALLENGEQUEST
+--- BLOCK ---
+TEXT_DOWNLOAD
+--- BLOCK ---
+TEXT_EXIT
+--- BLOCK ---
+TEXT_EVENTQUEST_INFO
+--- BLOCK ---
+TEXT_CHALLENGEQUEST_INFO
+--- BLOCK ---
+TEXT_QUESTTYPE1
+--- BLOCK ---
+TEXT_QUESTTYPE2
+--- BLOCK ---
+TEXT_QUESTTYPE3
+--- BLOCK ---
+TEXT_QUESTTYPE4
+--- BLOCK ---
+TEXT_QUESTTYPE5
+--- BLOCK ---
+TEXT_MAP
+--- BLOCK ---
+TEXT_TIME
+--- BLOCK ---
+TEXT_BOUNTY
+--- BLOCK ---
+TEXT_CONTRACT
+--- BLOCK ---
+TEXT_MONSTER
+--- BLOCK ---
+TEXT_CONDITION
+--- BLOCK ---
+TEXT_QUESTLV
+--- BLOCK ---
+TEXT_SUCCESS
+--- BLOCK ---
+TEXT_FAILURE
+--- BLOCK ---
+TEXT_QUALIFICATION
+--- BLOCK ---
+TEXT_CLIENT
+--- BLOCK ---
+TEXT_REQUEST
+--- BLOCK ---
+TEXT_MIN
+--- BLOCK ---
+TEXT_Z
+--- BLOCK ---
+TEXT_DLCONFIRM
+--- BLOCK ---
+TEXT_DLNOITEM
+--- BLOCK ---
+TEXT_NOWDOWNLOAD
+--- BLOCK ---
+TEXT_YES
+--- BLOCK ---
+TEXT_NO
+--- BLOCK ---
+TEXT_OK
+--- BLOCK ---
+TEXT_CANCEL
+--- BLOCK ---
+TEXT_SP_NAME
+--- BLOCK ---
+TEXT_SP_ITEM
+--- BLOCK ---
+TEXT_SP_POINT
+--- BLOCK ---
+TEXT_SP_GUILDCARD
+--- BLOCK ---
+TEXT_SP_PIG
+--- BLOCK ---
+TEXT_SP_POSE
+--- BLOCK ---
+TEXT_SP_MESSAGE
+--- BLOCK ---
+TEXT_SP_DLCONFIRM
+--- BLOCK ---
+TEXT_SP_DOWNLOAD
+--- BLOCK ---
+TEXT_SP_DOWNLOADED
+--- BLOCK ---
+TEXT_NUM
+--- BLOCK ---
+TEXT_CHECK_CARD
+--- BLOCK ---
+TEXT_SAVE
+--- BLOCK ---
+TEXT_SAVEED
+--- BLOCK ---
+TEXT_CONNECT_CONFIRM
+--- BLOCK ---
+TEXT_CONNECT_CONFIRM_2
+--- BLOCK ---
+TEXT_CONNECT_CONFIRM2
+--- BLOCK ---
+TEXT_QUEST_DATA_CHECK_CONFIRM
+--- BLOCK ---
+TEXT_QUEST_DATA_LOADED
+--- BLOCK ---
+TEXT_QUEST_DATA_NUM_CONFIRM
+--- BLOCK ---
+TEXT_QUEST_DATA_ZERO_CONFIRM
+--- BLOCK ---
+TEXT_QUEST_SAVE_CONFIRM
+--- BLOCK ---
+TEXT_SPECIAL_DATA_CHECK_CONFIRM
+--- BLOCK ---
+TEXT_SPECIAL_DATA_LOADED
+--- BLOCK ---
+TEXT_SPECIAL_DATA_NUM_CONFIRM
+--- BLOCK ---
+TEXT_SPECIAL_DATA_ZERO_CONFIRM
+--- BLOCK ---
+TEXT_CONNECTING
+--- BLOCK ---
+TEXT_GET_INFOMATION
+--- BLOCK ---
+TEXT_NO_INFOMATION
+--- BLOCK ---
+TEXT_DOWNLOADING
+--- BLOCK ---
+TEXT_CONNECT_ERROR
+--- BLOCK ---
+TEXT_CANCELED
+--- BLOCK ---
+TEXT_ERROR_WIFIOFF
+--- BLOCK ---
+TEXT_ERROR_NOT_FOUND_AP
+--- BLOCK ---
+TEXT_ERROR_SDCAD_NOTHING
+--- BLOCK ---
+TEXT_ERROR_SDCAD_LOAD
+--- BLOCK ---
+TEXT_ERROR_SDCAD_WRITEP
+--- BLOCK ---
+TEXT_ERROR_SDCAD_WRITE
+--- BLOCK ---
+TEXT_ERROR_SDCARD_NEED
+--- BLOCK ---
+TEXT_ERROR_UNKNOWN_FORMAT
+--- BLOCK ---
+TEXT_POWEROFF_FOR_SDCARD1
+--- BLOCK ---
+TEXT_POWEROFF_FOR_SDCARD2
+--- BLOCK ---
+TEXT_DOWNLOAD_ERROR
+--- BLOCK ---
+TEXT_GET_INFOMATION_ERROR
+--- BLOCK ---
+TEXT_EULA_AGREE
+--- BLOCK ---
+TEXT_EULA_NOT_AGREE
+--- BLOCK ---
+TEXT_ERROR
+--- BLOCK ---
+TEXT_ERROR_MYHOUSE
+--- BLOCK ---
+TEXT_NET_ERROR
+--- BLOCK ---
+TEXT_NET_ERROR_MYHOUSE
+--- BLOCK ---
+TEXT_CLOSE_CONFIRM
+--- BLOCK ---
+TEXT_CLOSE_CONFIRM_MYHOUSE
+--- BLOCK ---
+TEXT_APPLET_ERROR
+--- BLOCK ---
+TEXT_APPLET_ERROR_1
+--- BLOCK ---
+TEXT_APPLET_ERROR_2
+--- BLOCK ---
+TEXT_MES_000
+--- BLOCK ---
+TEXT_MES_001
+--- BLOCK ---
+TEXT_MES_002
+--- BLOCK ---
+TEXT_MES_003
+--- BLOCK ---
+TEXT_MES_004
+--- BLOCK ---
+TEXT_MES_005
+--- BLOCK ---
+TEXT_MES_006
+--- BLOCK ---
+TEXT_MES_007
+--- BLOCK ---
+TEXT_MES_100
+--- BLOCK ---
+TEXT_MES_101
+--- BLOCK ---
+TEXT_MES_102
+--- BLOCK ---
+TEXT_MES_103
+--- BLOCK ---
+TEXT_MES_104
+--- BLOCK ---
+TEXT_MES_105
+--- BLOCK ---
+TEXT_MES_106
+--- BLOCK ---
+TEXT_MES_107
+--- BLOCK ---
+Menú contenido desc.
+--- BLOCK ---
+Vista previa conten.
+--- BLOCK ---
+Extras
+--- BLOCK ---
+Actualizado:
+--- BLOCK ---
+Misiones
+--- BLOCK ---
+Extras
+--- BLOCK ---
+Vista previa cont.
+--- BLOCK ---
+Misiones
+--- BLOCK ---
+Extras
+--- BLOCK ---
+No hay actualizac.
+--- BLOCK ---
+ Vista previa
+--- BLOCK ---
+Próx. Lanzam.
+--- BLOCK ---
+Eventos
+--- BLOCK ---
+Misiones desafío
+--- BLOCK ---
+Descargar
+--- BLOCK ---
+Salir
+--- BLOCK ---
+¡Eventos singulares
+solo en descarga!
+--- BLOCK ---
+¡Desafíate con estas
+misiones de Arena!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Lugar
+--- BLOCK ---
+Límite
+--- BLOCK ---
+Recom.
+--- BLOCK ---
+Tarifa
+--- BLOCK ---
+Monst. ppales.
+--- BLOCK ---
+Términos
+--- BLOCK ---
+Nv. misión
+--- BLOCK ---
+Éxito
+--- BLOCK ---
+Fracaso
+--- BLOCK ---
+Términos
+--- BLOCK ---
+Cliente
+--- BLOCK ---
+Resumen
+--- BLOCK ---
+min
+--- BLOCK ---
+z
+--- BLOCK ---
+¿Descargar las misiones seleccionadas?
+<COLO 2>Aviso: la descarga puede tardar más
+tiempo si intentas descargar muchas
+misiones a la vez.<COLO 2>
+--- BLOCK ---
+No has seleccionado ninguna misión.
+Marca las casillas de las misiones que
+quieras descargar.
+--- BLOCK ---
+Descargando...
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Títulos
+--- BLOCK ---
+Puntos de Recursos
+--- BLOCK ---
+Mercancía de la anciana
+--- BLOCK ---
+Fondos tarjetas Gremio
+--- BLOCK ---
+Disfraces de Poogie
+--- BLOCK ---
+Posturas tarjetas Gremio
+--- BLOCK ---
+Los extras no descargados
+están marcados en rojo.
+--- BLOCK ---
+¿Descargar todos los extras disponibles?
+--- BLOCK ---
+Descargar todos
+--- BLOCK ---
+Descarga finalizada.
+--- BLOCK ---
+　
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Comprobando la tarjeta de juego...
+No apagues la consola.
+--- BLOCK ---
+Guardando...
+No apagues la consola.
+--- BLOCK ---
+Guardado finalizado.
+--- BLOCK ---
+¿Quieres conectar a internet para
+acceder a contenidos descargables?
+<COLO 2>Se desactivarán StreetPass y Búsqueda
+de cazador durante la descarga.<COLO 2>
+--- BLOCK ---
+¿Quieres conectar a internet para
+acceder a contenidos descargables?
+<COLO 2>Se desactivarán StreetPass y Búsqueda
+de cazador durante la descarga, y se
+guardarán los datos antes de conectar.<COLO 2>
+--- BLOCK ---
+No apagues la consola ni extraigas
+la tarjeta SD durante la conexión.
+<COLO 2>Si vuelves al menú HOME o cierras
+la consola, se perderá la conexión.<COLO 2>
+--- BLOCK ---
+Comprobando la tarjeta SD en busca
+de misiones descargadas...
+--- BLOCK ---
+Comprobación de la tarjeta SD
+finalizada.
+--- BLOCK ---
+Se han encontrado misiones descargadas
+en la tarjeta SD: %d
+--- BLOCK ---
+No se han encontrado misiones
+descargadas en la tarjeta SD.
+--- BLOCK ---
+Se han encontrado misiones descargadas
+en la tarjeta SD: %d
+¿Guardar las misiones seleccionadas
+en tu colección actual?
+--- BLOCK ---
+Comprobando la tarjeta de juego en
+busca de extras descargados...
+--- BLOCK ---
+Comprobación de la tarjeta de juego
+finalizada.
+--- BLOCK ---
+Se han encontrado extras descargados:
+--- BLOCK ---
+No se han encontrado extras descargados.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Conectando a internet...
+--- BLOCK ---
+Recuperando información...
+--- BLOCK ---
+No se ha encontrado
+información.
+--- BLOCK ---
+Descargando contenido...
+<COLO 2>No apagues la consola.<COLO 2>
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Proceso cancelado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Has aceptado el contrato de uso.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Se ha producido un error.
+Saldrás de la zona de contenidos
+descargables y volverás a
+la pantalla del título.
+--- BLOCK ---
+Se ha producido un error.
+Saldrás de la zona de contenidos
+descargables y volverás a tu casa.
+--- BLOCK ---
+Conexión perdida.
+Saldrás de la zona de contenidos
+descargables y volverás a
+la pantalla del título.
+--- BLOCK ---
+Conexión perdida.
+Saldrás de la zona de contenidos
+descargables y volverás a tu casa.
+--- BLOCK ---
+¿Desconectarte de la red y
+volver a la pantalla del título?
+--- BLOCK ---
+¿Desconectarte de la red y
+volver a tu casa?
+--- BLOCK ---
+Se ha producido un error.
+Espera un momento antes
+de probar de nuevo.
+--- BLOCK ---
+Se ha producido un error de
+conexión.
+Puede que la red esté saturada o
+que la calidad de la recepción de
+tu red inalámbrica sea insuficiente.
+Acércate al punto de acceso
+inalámbrico y asegúrate de que no
+haya nada obstruyéndolo, y vuelve
+a probar.
+--- BLOCK ---
+Se ha producido un error de
+conexión.
+Puede que la red esté saturada o
+que la calidad de la recepción de
+tu red inalámbrica sea insuficiente.
+Acércate al punto de acceso
+inalámbrico y asegúrate de que no
+haya nada obstruyéndolo, y vuelve
+a probar.
+Puede que la configuración de DNS
+sea incorrecta. Comprueba la
+configuración de internet en el
+menú de configuración de tu consola.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+¡Haz tu miauselección, cazador!
+--- BLOCK ---
+¿Por qué no le echamos la
+zarpa al contenido próximo?
+--- BLOCK ---
+¡Qué ganas tengo, marramiau!
+--- BLOCK ---
+¡Elige una misión antes de que
+se me acaben las nueve vidas!
+--- BLOCK ---
+¡Estas misiones son perfectas
+para un cazador como tú!
+--- BLOCK ---
+¡Elige unas misiones, y luego
+toca el botón Descargar, miau!
+--- BLOCK ---
+Ya has descargado
+esta misión, miau.
+--- BLOCK ---
+¡Toca el botón Descargar todo
+para conseguirlo todo, miau!
+--- BLOCK ---
+¡Elige un menú, secuaz!
+--- BLOCK ---
+Cha-Cha mostrarte vista
+preliminar. Tú agradecer.
+--- BLOCK ---
+Esta selección intriga
+a Cha-Cha...
+--- BLOCK ---
+¿Gustar misiones? Cha-Cha
+tener montones. ¡Coger, coger!
+--- BLOCK ---
+Misión es perfecta para
+Cha-Cha. ¿Tú? Mmm...
+--- BLOCK ---
+Cha-mirar misiones que querer,
+y tocar-car en botón Descarga.
+--- BLOCK ---
+Secuaz ya descargar
+esta misión-misión.
+--- BLOCK ---
+Toca en Descargar todo para
+hacerte con todo. ¡Cha-jo!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

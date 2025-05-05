@@ -108,7 +108,7 @@ Padrão
 --- BLOCK ---
 Dinâmico
 --- BLOCK ---
-Touchpad
+Touchscreen
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

@@ -1,0 +1,93 @@
+CARDMENU
+--- BLOCK ---
+PLAYERLIST_HELP
+--- BLOCK ---
+Revisar
+--- BLOCK ---
+Editar
+--- BLOCK ---
+Enviar
+--- BLOCK ---
+Lista de cartas
+--- BLOCK ---
+Enviar a todos
+--- BLOCK ---
+Selecionar lista
+--- BLOCK ---
+Enviar
+--- BLOCK ---
+Sim
+--- BLOCK ---
+Não
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Aceitar
+--- BLOCK ---
+Ver
+--- BLOCK ---
+Sup.
+--- BLOCK ---
+Enviar seu cartão da guilda?
+--- BLOCK ---
+Enviando...
+--- BLOCK ---
+tem seu(s) cartão(ões).
+--- BLOCK ---
+não recebe(m) seu cartão.
+--- BLOCK ---
+já recebeu(ram) seu
+cartão da guilda.
+--- BLOCK ---
+enviou(ram) seu(s) cartão(ões).
+--- BLOCK ---
+Cartões pendentes: %d Espaços
+após aceitar: %d
+--- BLOCK ---
+Apagar este cartão
+da guilda?
+--- BLOCK ---
+Cartão da guilda salvo. Ao
+salvar o progresso, os cartões
+são salvos no cartão SD.
+--- BLOCK ---
+Pressione o botão A.
+--- BLOCK ---
+Cartão da guilda excluído.
+Toque no painel "Revisar".
+--- BLOCK ---
+Adicionar a usuários bloqueados? <COLO
+2>Atenção: o conteúdo de outros
+jogos pode ficar inacessível. </COLO>
+--- BLOCK ---
+Tem certeza?
+--- BLOCK ---
+Comentários não editáveis em
+áreas online ou multijogador.
+--- BLOCK ---
+Cartão excluído e usuário
+adicionado aos bloqueados. Toque
+no painel "Revisar".
+--- BLOCK ---
+Erro ao aceitar a missão.
+--- BLOCK ---
+Erro ao ingressar na missão.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

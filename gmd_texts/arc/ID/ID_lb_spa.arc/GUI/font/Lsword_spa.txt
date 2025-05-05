@@ -1,0 +1,280 @@
+﻿TMSG_LSWORD
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Espada de hierro
+--- BLOCK ---
+Espada de hierro+
+--- BLOCK ---
+Espada vengadora
+--- BLOCK ---
+Espada vengadora+
+--- BLOCK ---
+Hoja vengadora
+--- BLOCK ---
+Hoja devastadora
+--- BLOCK ---
+Hoja devastadora+
+--- BLOCK ---
+Hoja laceradora
+--- BLOCK ---
+Espada devastadora
+--- BLOCK ---
+Navaja cromada
+--- BLOCK ---
+Muerte cromada
+--- BLOCK ---
+Muro de latón
+--- BLOCK ---
+Muro escarlata
+--- BLOCK ---
+Escarpada
+--- BLOCK ---
+Grito de Goliat
+--- BLOCK ---
+Hoja oculta
+--- BLOCK ---
+Noche cerrada
+--- BLOCK ---
+Gran espada Avidya
+--- BLOCK ---
+Hoja del eclipse
+--- BLOCK ---
+Asterismo de Merak
+--- BLOCK ---
+Matawyverns tipo 41
+--- BLOCK ---
+Remalgalipso
+--- BLOCK ---
+Remalgagorgón
+--- BLOCK ---
+Gran espada dura
+--- BLOCK ---
+Gran espada de jefe
+--- BLOCK ---
+Gran esp. gran jefe
+--- BLOCK ---
+Hoja de Lagiacrus
+--- BLOCK ---
+Hoja de Lagiacrus+
+--- BLOCK ---
+Gran hoja de Lagia
+--- BLOCK ---
+Rayo de Lagia
+--- BLOCK ---
+Llama de Lagia
+--- BLOCK ---
+Hoja nova de Lagia
+--- BLOCK ---
+Fulminación de Lagia
+--- BLOCK ---
+Tormenta usurpador
+--- BLOCK ---
+Tormenta del déspota
+--- BLOCK ---
+Celada del opresor
+--- BLOCK ---
+Orcus Tonitrus
+--- BLOCK ---
+Gran esp. tenebrosa
+--- BLOCK ---
+Lufactrus tenebroso
+--- BLOCK ---
+Orgullo de Brimstren
+--- BLOCK ---
+Acedia estigia
+--- BLOCK ---
+Espada de caparazón
+--- BLOCK ---
+Hoja de caparazón
+--- BLOCK ---
+Maza de Barroth
+--- BLOCK ---
+Hoja de la aurora
+--- BLOCK ---
+Luces del norte
+--- BLOCK ---
+Cruz del norte
+--- BLOCK ---
+Esp. cuerno vikinga
+--- BLOCK ---
+Espada Ancharius
+--- BLOCK ---
+Espada Excalius
+--- BLOCK ---
+Hoja de hueso
+--- BLOCK ---
+Hoja de hueso+
+--- BLOCK ---
+Hoja de mandíbula
+--- BLOCK ---
+Hoja mandíb. gigante
+--- BLOCK ---
+Ala roja
+--- BLOCK ---
+Esp. fuego Rathalos
+--- BLOCK ---
+Esp. llama Rathalos
+--- BLOCK ---
+Ala azul
+--- BLOCK ---
+Glinespada Rathalos
+--- BLOCK ---
+Brillaspada Rathalos
+--- BLOCK ---
+Hoja de Brachydios
+--- BLOCK ---
+Hoja de Brachydios+
+--- BLOCK ---
+Espada de demolición
+--- BLOCK ---
+Mixodemoledora
+--- BLOCK ---
+Hoja de valkiria
+--- BLOCK ---
+Sieglinde
+--- BLOCK ---
+Alto Sieglinde
+--- BLOCK ---
+Titania
+--- BLOCK ---
+Dama turbada
+--- BLOCK ---
+Ljósálfar
+--- BLOCK ---
+Brünnhilde
+--- BLOCK ---
+Siegmund
+--- BLOCK ---
+Gran Siegmund
+--- BLOCK ---
+Blindada roja
+--- BLOCK ---
+Oberón
+--- BLOCK ---
+Káiser pálido
+--- BLOCK ---
+Hoja gólem
+--- BLOCK ---
+Hoja de Talos
+--- BLOCK ---
+Hoja del tártaro
+--- BLOCK ---
+Hoja mandíb. wyvern
+--- BLOCK ---
+Esp. cuerno de riña
+--- BLOCK ---
+Esp. cuerno de riña+
+--- BLOCK ---
+Diablos dobles
+--- BLOCK ---
+Címbolo de cerámica
+--- BLOCK ---
+Cimetería cerámica
+--- BLOCK ---
+Espada hueso Ludroth
+--- BLOCK ---
+Espada de cataclismo
+--- BLOCK ---
+Hoja de cataclismo
+--- BLOCK ---
+Colmillo carámbano
+--- BLOCK ---
+Colmillo carámbano+
+--- BLOCK ---
+Palafunesto
+--- BLOCK ---
+Punta tempestuosa
+--- BLOCK ---
+Simún Barbarena
+--- BLOCK ---
+Simún Mascarena
+--- BLOCK ---
+Hoja aleta
+--- BLOCK ---
+Cortaaguas Plesioth
+--- BLOCK ---
+Acuahoja Plesioth
+--- BLOCK ---
+Nana Plesioth
+--- BLOCK ---
+Matananas Plesioth
+--- BLOCK ---
+Percha de wyvern
+--- BLOCK ---
+Amanita canalla
+--- BLOCK ---
+Amanita señorial
+--- BLOCK ---
+Hoja de amatista
+--- BLOCK ---
+Miasmatista
+--- BLOCK ---
+Espada furiosa
+--- BLOCK ---
+Angustia
+--- BLOCK ---
+Angustia de Nerón
+--- BLOCK ---
+Pez arpón helado
+--- BLOCK ---
+Pez arpón congelante
+--- BLOCK ---
+Xiphias gladius
+--- BLOCK ---
+Vulcanis
+--- BLOCK ---
+Vulcanis+
+--- BLOCK ---
+Vulcanvil
+--- BLOCK ---
+Vulcamagnon
+--- BLOCK ---
+Vulcatástrofe
+--- BLOCK ---
+Vulcavendetta
+--- BLOCK ---
+Gran espada oxidada
+--- BLOCK ---
+G. esp. deslustrada
+--- BLOCK ---
+Hoja antigua
+--- BLOCK ---
+Monumento antiguo
+--- BLOCK ---
+Jeroglífico eterno
+--- BLOCK ---
+Gran esp. desgastada
+--- BLOCK ---
+Gran esp. estropeada
+--- BLOCK ---
+Hoja epitafio
+--- BLOCK ---
+Epitafio eterno
+--- BLOCK ---
+Gran espada Alatreon
+--- BLOCK ---
+Revolución Alatreon
+--- BLOCK ---
+Altheos Evolutia
+--- BLOCK ---
+Fuego de Megido
+--- BLOCK ---
+Depoteosis
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Azote del león
+--- BLOCK ---
+Cosechador de almas
+--- BLOCK ---
+Eisenfaust
+--- BLOCK ---

@@ -1,0 +1,286 @@
+﻿TMSG_SWORD
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Cuchillo de cazador
+--- BLOCK ---
+Cuchillo de cazador+
+--- BLOCK ---
+Daga de cazador
+--- BLOCK ---
+Daga de asesino
+--- BLOCK ---
+Carámbano
+--- BLOCK ---
+Carámbano+
+--- BLOCK ---
+Nardebosche
+--- BLOCK ---
+Nardebosche+
+--- BLOCK ---
+Criocruz
+--- BLOCK ---
+Bruma gris
+--- BLOCK ---
+Gran Bhavani
+--- BLOCK ---
+Sable con púas
+--- BLOCK ---
+Sable con garras
+--- BLOCK ---
+Serevento
+--- BLOCK ---
+Sable sombrío
+--- BLOCK ---
+Sable sombrío+
+--- BLOCK ---
+Colmillo tóxico
+--- BLOCK ---
+Espada diabólica
+--- BLOCK ---
+Espada infernal
+--- BLOCK ---
+Filo oculto
+--- BLOCK ---
+Destello nocturno
+--- BLOCK ---
+Filo de Avidya
+--- BLOCK ---
+Filo del eclipse
+--- BLOCK ---
+Asterismo de Phecda
+--- BLOCK ---
+Daga de soldado
+--- BLOCK ---
+Daga de comandante
+--- BLOCK ---
+Cuchillo de hidra
+--- BLOCK ---
+Cuchillo de hidra+
+--- BLOCK ---
+Cuchillo mortal
+--- BLOCK ---
+Baumfäller
+--- BLOCK ---
+Dendrotomía
+--- BLOCK ---
+Plutocatena
+--- BLOCK ---
+Cuchillo hipnótico
+--- BLOCK ---
+Cuchillo hipnótico+
+--- BLOCK ---
+Cuchillo de Morfeo
+--- BLOCK ---
+Pualeta de Plesioth
+--- BLOCK ---
+Puafunesta Plesioth
+--- BLOCK ---
+Sucio barón
+--- BLOCK ---
+Sucio marqués
+--- BLOCK ---
+Sucio conde
+--- BLOCK ---
+Azi Dahaka
+--- BLOCK ---
+Azi Dahaka+
+--- BLOCK ---
+Dahaka poderosa
+--- BLOCK ---
+Dahaka poderosa+
+--- BLOCK ---
+Co Dolgan
+--- BLOCK ---
+Coctura Balgang
+--- BLOCK ---
+Llama del usurpador
+--- BLOCK ---
+Rayo del déspota
+--- BLOCK ---
+Botín del opresor
+--- BLOCK ---
+Escama de Brimstren
+--- BLOCK ---
+Lujo estigio
+--- BLOCK ---
+Kris de hueso
+--- BLOCK ---
+Kris de hueso+
+--- BLOCK ---
+Tomahawk de hueso
+--- BLOCK ---
+Tomahawk de hueso+
+--- BLOCK ---
+Rebanadora Qurupeco
+--- BLOCK ---
+Djinn
+--- BLOCK ---
+Djinn+
+--- BLOCK ---
+Falcata llameante
+--- BLOCK ---
+Corona
+--- BLOCK ---
+Corona+
+--- BLOCK ---
+Falcata de oro
+--- BLOCK ---
+Radio de oro
+--- BLOCK ---
+Hacha sangrienta
+--- BLOCK ---
+Hacha pestilente
+--- BLOCK ---
+Tabardo contagioso
+--- BLOCK ---
+Espada Lagia
+--- BLOCK ---
+Espada Lagia+
+--- BLOCK ---
+Gran espada Lagia
+--- BLOCK ---
+Espada tormentosa
+--- BLOCK ---
+Takemikazuchi
+--- BLOCK ---
+Espada Lagia nova
+--- BLOCK ---
+Rayiblanco Neodignis
+--- BLOCK ---
+Espada vital oscura
+--- BLOCK ---
+Mistral tenebroso
+--- BLOCK ---
+Uña de Ludroth
+--- BLOCK ---
+Garra real
+--- BLOCK ---
+Garra real+
+--- BLOCK ---
+Garra Ludroth real
+--- BLOCK ---
+Garra de amatista
+--- BLOCK ---
+Dañatista
+--- BLOCK ---
+Dañotristesse
+--- BLOCK ---
+Maza de concha
+--- BLOCK ---
+Maza de concha+
+--- BLOCK ---
+Porra de Barroth
+--- BLOCK ---
+Alma condenada
+--- BLOCK ---
+Alma ennegrecida
+--- BLOCK ---
+Ánima negra
+--- BLOCK ---
+Gigaporra
+--- BLOCK ---
+Gigaporra+
+--- BLOCK ---
+Gigatriturador
+--- BLOCK ---
+Gigaporra poderosa
+--- BLOCK ---
+Filo Brach
+--- BLOCK ---
+Filo Brach+
+--- BLOCK ---
+Cúter de demolición
+--- BLOCK ---
+Demoledor Struxion
+--- BLOCK ---
+Secta Nulo
+--- BLOCK ---
+Secta Unu
+--- BLOCK ---
+Secta Nulo (B)
+--- BLOCK ---
+Secta Unu (B)
+--- BLOCK ---
+Secta Du (B)
+--- BLOCK ---
+Secta Nulo (V)
+--- BLOCK ---
+Secta Unu (V)
+--- BLOCK ---
+Secta Du (V)
+--- BLOCK ---
+Vuelo del Qurupeco
+--- BLOCK ---
+Plaga del Qurupeco
+--- BLOCK ---
+Equipo de colmillo
+--- BLOCK ---
+Equipo de fósil
+--- BLOCK ---
+Ira de cráneo
+--- BLOCK ---
+Espada Calcomina
+--- BLOCK ---
+Calcomacia
+--- BLOCK ---
+Ariete de mar
+--- BLOCK ---
+Ariete abisal
+--- BLOCK ---
+Ariete de ruina
+--- BLOCK ---
+Ariete del arca
+--- BLOCK ---
+Duelcalión del arca
+--- BLOCK ---
+Jhen Kodachi
+--- BLOCK ---
+Arenas calmadas
+--- BLOCK ---
+Iris Matatierra
+--- BLOCK ---
+Gladiolo Antitierra
+--- BLOCK ---
+Chak Chak
+--- BLOCK ---
+Wagga Wagga
+--- BLOCK ---
+Rotogiro
+--- BLOCK ---
+Hoja de Odisea
+--- BLOCK ---
+Odisea maestra
+--- BLOCK ---
+Espada oxidada
+--- BLOCK ---
+Espada deslustrada
+--- BLOCK ---
+Lucha eterna
+--- BLOCK ---
+Odio eterno
+--- BLOCK ---
+Venganza eterna
+--- BLOCK ---
+Espada desgastada
+--- BLOCK ---
+Espada estropeada
+--- BLOCK ---
+Éxodo divino
+--- BLOCK ---
+Insodus divino
+--- BLOCK ---
+Espada de Alatreon
+--- BLOCK ---
+Estrella de Alatreon
+--- BLOCK ---
+Altheos Zodiarco
+--- BLOCK ---
+Filo de Megido
+--- BLOCK ---
+Mañanifestación
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Espada aprobada
+--- BLOCK ---

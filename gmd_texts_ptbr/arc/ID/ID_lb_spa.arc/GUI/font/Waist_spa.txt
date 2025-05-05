@@ -1,0 +1,744 @@
+TMSG_WAIST
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Cinto de couro
+--- BLOCK ---
+Cinto de piscina
+--- BLOCK ---
+Cinto de malha
+--- BLOCK ---
+Saia Loc Lac
+--- BLOCK ---
+Coxa de caçador
+--- BLOCK ---
+Colete de caçador
+--- BLOCK ---
+Coxa de osso
+--- BLOCK ---
+Colete de osso
+--- BLOCK ---
+Cinto de Liga
+--- BLOCK ---
+Malha de Liga
+--- BLOCK ---
+Protetor de Coxa de Jaggi
+--- BLOCK ---
+Malha de Jaggi
+--- BLOCK ---
+Cinto de Bnahabra
+--- BLOCK ---
+Malha de Bnahabra
+--- BLOCK ---
+Protetor de Coxa de Rhenoplos
+--- BLOCK ---
+Malha de Rhenoplos
+--- BLOCK ---
+Cinto de Qurupeco
+--- BLOCK ---
+Malha de Qurupeco
+--- BLOCK ---
+Protetor de Coxa de Ludroth
+--- BLOCK ---
+Malha de Ludroth
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinto de Baggi
+--- BLOCK ---
+Malha de Baggi
+--- BLOCK ---
+Protetor de Coxa de Barroth
+--- BLOCK ---
+Malha de Barroth
+--- BLOCK ---
+Protetor de Coxa de Gobul
+--- BLOCK ---
+Malha de Gobul
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinto de Gremio
+--- BLOCK ---
+Malha de Gremio
+--- BLOCK ---
+Saia de Colegiala
+--- BLOCK ---
+Minissaia de Colegiala
+--- BLOCK ---
+Protetor de Coxa de Rathian
+--- BLOCK ---
+Malha de Rathian
+--- BLOCK ---
+Protetor de Coxa de Gigginox
+--- BLOCK ---
+Malha de Gigginox
+--- BLOCK ---
+Cinto de Lingote
+--- BLOCK ---
+Malha de Lingote
+--- BLOCK ---
+Protetor de Coxa de Lagiacrus
+--- BLOCK ---
+Malha de Lagiacrus
+--- BLOCK ---
+Protetor de Coxa de Rathalos
+--- BLOCK ---
+Malha de Rathalos
+--- BLOCK ---
+Protetor de Coxa de Barioth
+--- BLOCK ---
+Malha de Barioth
+--- BLOCK ---
+Cinto de Diablos
+--- BLOCK ---
+Malha de Diablos
+--- BLOCK ---
+Protetor de Coxa de Uragaan
+--- BLOCK ---
+Malha de Uragaan
+--- BLOCK ---
+Protetor de Coxa de Agnaktor
+--- BLOCK ---
+Malha de Agnaktor
+--- BLOCK ---
+Cinto de Helios
+--- BLOCK ---
+Malha de Helios
+--- BLOCK ---
+Cinto de Selene
+--- BLOCK ---
+Malha de Selene
+--- BLOCK ---
+Protetor de Coxa de Wroggi
+--- BLOCK ---
+Malha de Wroggi
+--- BLOCK ---
+Protetor de Coxa de Arzuros
+--- BLOCK ---
+Malha de Arzuros
+--- BLOCK ---
+Protetor de Coxa de Lagombi
+--- BLOCK ---
+Malha de Lagombi
+--- BLOCK ---
+Protetor de Coxa de Volvidon
+--- BLOCK ---
+Malha de Volvidon
+--- BLOCK ---
+Protetor de Coxa de Nibelsnarf
+--- BLOCK ---
+Malha de Nibelsnarf
+--- BLOCK ---
+Protetor de Coxa de Duramboros
+--- BLOCK ---
+Malha de Duramboros
+--- BLOCK ---
+Faixa Yukumo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa de Couro S
+--- BLOCK ---
+Malha de Couro S
+--- BLOCK ---
+Cinturão Piscine S
+--- BLOCK ---
+Colete Piscine S
+--- BLOCK ---
+Protetor de Coxa de Malha S
+--- BLOCK ---
+Malha de Malha S
+--- BLOCK ---
+Saia Loc Lac S
+--- BLOCK ---
+Malha Loc Lac S
+--- BLOCK ---
+Protetor de Coxa de Caçador S
+--- BLOCK ---
+Malha de Caçador S
+--- BLOCK ---
+Protetor de Coxa de Osso S
+--- BLOCK ---
+Malha de Osso S
+--- BLOCK ---
+Cinto de Liga S
+--- BLOCK ---
+Malha de Liga S
+--- BLOCK ---
+Protetor de Coxa de Jaggi S
+--- BLOCK ---
+Malha de Jaggi S
+--- BLOCK ---
+Cinto de Bnahabra S
+--- BLOCK ---
+Malha de Bnahabra S
+--- BLOCK ---
+Cinto de Rhenoplos S
+--- BLOCK ---
+Malha de Rhenoplos S
+--- BLOCK ---
+Cinto de Qurupeco S
+--- BLOCK ---
+Malha de Qurupeco S
+--- BLOCK ---
+Cinto de Qurupeco U
+--- BLOCK ---
+Malha de Qurupeco U
+--- BLOCK ---
+Protetor de Coxa de Ludroth S
+--- BLOCK ---
+Malha de Ludroth S
+--- BLOCK ---
+Protetor de Coxa de Ludroth U
+--- BLOCK ---
+Malha de Ludroth U
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinto de Baggi S
+--- BLOCK ---
+Malha de Baggi S
+--- BLOCK ---
+Protetor de Coxa de Wroggi S
+--- BLOCK ---
+Malha de Wroggi S
+--- BLOCK ---
+Protetor de Coxa de Arzuros S
+--- BLOCK ---
+Cota de Arzuros S
+--- BLOCK ---
+Protetor de Coxa de Lagombi S
+--- BLOCK ---
+Cota de Lagombi S
+--- BLOCK ---
+Protetor de Coxa Volvidon S
+--- BLOCK ---
+Cota de Volvidon S
+--- BLOCK ---
+Protetor de Coxa de Barroth S
+--- BLOCK ---
+Cota de Barroth S
+--- BLOCK ---
+Protetor de Coxa de Barroth U
+--- BLOCK ---
+Cota de Barroth U
+--- BLOCK ---
+Protetor de Coxa de Gobul S
+--- BLOCK ---
+Cota de Gobul S
+--- BLOCK ---
+Cinta bardo gremio S
+--- BLOCK ---
+Protetor de coxa bardo gremio S
+--- BLOCK ---
+Saia de colegiala S
+--- BLOCK ---
+Minissaia coleg. S
+--- BLOCK ---
+Protetor de Coxa de Rathian S
+--- BLOCK ---
+Cinta de Rathian S
+--- BLOCK ---
+Cinta coração wyvern
+--- BLOCK ---
+Cota coração wyvern
+--- BLOCK ---
+Protetor de Coxa Gigginox S
+--- BLOCK ---
+Cinta de Gigginox S
+--- BLOCK ---
+Protetor de Coxa Gigginox U
+--- BLOCK ---
+Cinta de Gigginox U
+--- BLOCK ---
+Cinta de lingote S
+--- BLOCK ---
+Cota de lingote S
+--- BLOCK ---
+Cinta de Dober
+--- BLOCK ---
+Cota de Dober
+--- BLOCK ---
+Cinto céu Yukumo
+--- BLOCK ---
+Cinto terra Yukumo
+--- BLOCK ---
+Élitro de Aelucanth
+--- BLOCK ---
+Asa de Aelucanth
+--- BLOCK ---
+Élitro de Rhopessa
+--- BLOCK ---
+Asa de Rhopessa
+--- BLOCK ---
+Lâmina de Mosgharl
+--- BLOCK ---
+Fronda de Mosgharl
+--- BLOCK ---
+Protetor de Coxa Lagiacrus S
+--- BLOCK ---
+Cinta de Lagiacrus S
+--- BLOCK ---
+Protetor de Coxa Lagiacrus U
+--- BLOCK ---
+Cinta de Lagiacrus U
+--- BLOCK ---
+Protetor de Coxa Rathalos S
+--- BLOCK ---
+Cinta de Rathalos S
+--- BLOCK ---
+Cinta alma wyvern
+--- BLOCK ---
+Cota alma wyvern
+--- BLOCK ---
+Protetor de Coxa de Barioth S
+--- BLOCK ---
+Cinta de Barioth S
+--- BLOCK ---
+Protetor de Coxa de Barioth U
+--- BLOCK ---
+Cinta de Barioth U
+--- BLOCK ---
+Cinta de Diablos S
+--- BLOCK ---
+Cota de Diablos S
+--- BLOCK ---
+Cinta de Diablos U
+--- BLOCK ---
+Cota de Diablos U
+--- BLOCK ---
+Protetor de Coxa de Uragaan S
+--- BLOCK ---
+Cinta de Uragaan S
+--- BLOCK ---
+Protetor de Coxa de Uragaan U
+--- BLOCK ---
+Cinta de Uragaan U
+--- BLOCK ---
+Protetor de Coxa Agnaktor S
+--- BLOCK ---
+Cinta de Agnaktor S
+--- BLOCK ---
+Protetor de Coxa Agnaktor U
+--- BLOCK ---
+Cinta de Agnaktor U
+--- BLOCK ---
+Asa Vangis
+--- BLOCK ---
+Cota Vangis
+--- BLOCK ---
+Cinta de Damasco
+--- BLOCK ---
+Cota de Damasco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Koshiate Yamato
+--- BLOCK ---
+Koshiate Mutsu
+--- BLOCK ---
+Koshiate Hyuga
+--- BLOCK ---
+Koshiate Amagi
+--- BLOCK ---
+Poder Escadora
+--- BLOCK ---
+Força Escadora
+--- BLOCK ---
+Protetor de Coxa de Zinogre
+--- BLOCK ---
+Cinta de Zinogre
+--- BLOCK ---
+Protetor de Coxa Nibelsnarf S
+--- BLOCK ---
+Cinta de Nibelsnarf S
+--- BLOCK ---
+Protetor de Coxa Duramboros S
+--- BLOCK ---
+Cinta de Duramboros S
+--- BLOCK ---
+Protetor de Coxa de Nargacuga
+--- BLOCK ---
+Cinta de Nargacuga
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa Brachydios
+--- BLOCK ---
+Cinta de Brachydios
+--- BLOCK ---
+Saia floral
+--- BLOCK ---
+Saia campainha
+--- BLOCK ---
+Cinto de soldado
+--- BLOCK ---
+Cinturão de arqueiro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinta de lingote X
+--- BLOCK ---
+Cota de lingote X
+--- BLOCK ---
+Cinta de Bnahabra X
+--- BLOCK ---
+Cota de Bnahabra X
+--- BLOCK ---
+Cinta de Rhenoplos X
+--- BLOCK ---
+Cota de Rhenoplos X
+--- BLOCK ---
+Protetor de Coxa Jaggi X
+--- BLOCK ---
+Cinta de Jaggi X
+--- BLOCK ---
+Cinta de Baggi X
+--- BLOCK ---
+Cota de Baggi X
+--- BLOCK ---
+Protetor de Coxa Wroggi X
+--- BLOCK ---
+Cinta de Wroggi X
+--- BLOCK ---
+Protetor de Coxa de Arzuros X
+--- BLOCK ---
+Cota de Arzuros X
+--- BLOCK ---
+Protetor de Coxa de Lagombi X
+--- BLOCK ---
+Cota de Lagombi X
+--- BLOCK ---
+Protetor de Coxa de Volvidon X
+--- BLOCK ---
+Cota de Volvidon X
+--- BLOCK ---
+Cinta de Qurupeco X
+--- BLOCK ---
+Cota de Qurupeco X
+--- BLOCK ---
+Cinta de Qurupeco Z
+--- BLOCK ---
+Cota de Qurupeco Z
+--- BLOCK ---
+Protetor de Coxa de Ludroth X
+--- BLOCK ---
+Cota de Ludroth X
+--- BLOCK ---
+Protetor de Coxa de Ludroth Z
+--- BLOCK ---
+Cota de Ludroth Z
+--- BLOCK ---
+Protetor de Coxa de Barroth X
+--- BLOCK ---
+Cota de Barroth X
+--- BLOCK ---
+Protetor de Coxa de Barroth Z
+--- BLOCK ---
+Cota de Barroth Z
+--- BLOCK ---
+Protetor de Coxa de Gobul X
+--- BLOCK ---
+Cota de Gobul X
+--- BLOCK ---
+Protetor de Coxa Rathalos X
+--- BLOCK ---
+Cota de Rathalos X
+--- BLOCK ---
+Cinta alma wyvern Z
+--- BLOCK ---
+Cota alma wyvern Z
+--- BLOCK ---
+Cinta argéntea
+--- BLOCK ---
+Cota argéntea
+--- BLOCK ---
+Protetor de Coxa de Rathian X
+--- BLOCK ---
+Cota de Rathian X
+--- BLOCK ---
+Cinta coração wyv. Z
+--- BLOCK ---
+Cota coração wyv. Z
+--- BLOCK ---
+Cinta lunar de oro
+--- BLOCK ---
+Cota lunar de oro
+--- BLOCK ---
+Protetor de Coxa Lagiacrus X
+--- BLOCK ---
+Cota de Lagiacrus X
+--- BLOCK ---
+Protetor de Coxa Lagiacrus Z
+--- BLOCK ---
+Cota de Lagiacrus Z
+--- BLOCK ---
+Protetor de Coxa tenebrosa
+--- BLOCK ---
+Cota tenebrosa
+--- BLOCK ---
+Protetor de Coxa Gigginox X
+--- BLOCK ---
+Cota de Gigginox X
+--- BLOCK ---
+Protetor de Coxa Gigginox Z
+--- BLOCK ---
+Cota de Gigginox Z
+--- BLOCK ---
+Protetor de Coxa de Barioth X
+--- BLOCK ---
+Cota de Barioth X
+--- BLOCK ---
+Protetor de Coxa de Barioth Z
+--- BLOCK ---
+Cota de Barioth Z
+--- BLOCK ---
+Cinta de Diablos X
+--- BLOCK ---
+Cota de Diablos X
+--- BLOCK ---
+Cinta de Diablos Z
+--- BLOCK ---
+Cota de Diablos Z
+--- BLOCK ---
+Protetor de Coxa de Uragaan X
+--- BLOCK ---
+Cota de Uragaan X
+--- BLOCK ---
+Protetor de Coxa de Uragaan Z
+--- BLOCK ---
+Cota de Uragaan Z
+--- BLOCK ---
+Protetor de Coxa Agnaktor X
+--- BLOCK ---
+Cota de Agnaktor X
+--- BLOCK ---
+Protetor de Coxa Agnaktor Z
+--- BLOCK ---
+Cota de Agnaktor Z
+--- BLOCK ---
+Cinta de Helios X
+--- BLOCK ---
+Cota de Helios X
+--- BLOCK ---
+Cinta de Helios Z
+--- BLOCK ---
+Cota de Helios Z
+--- BLOCK ---
+Cinta de Selene X
+--- BLOCK ---
+Cota de Selene X
+--- BLOCK ---
+Cinta de Selene Z
+--- BLOCK ---
+Cota de Selene Z
+--- BLOCK ---
+Protetor de Coxa Yamato
+--- BLOCK ---
+Protetor de Coxa Mutsu
+--- BLOCK ---
+Protetor de Coxa Hyuga
+--- BLOCK ---
+Protetor de Coxa Amagi
+--- BLOCK ---
+Cota Yamato
+--- BLOCK ---
+Cota Mutsu
+--- BLOCK ---
+Cota Hyuga
+--- BLOCK ---
+Cota Amagi
+--- BLOCK ---
+Cinta Vangis X
+--- BLOCK ---
+Cota Vangis X
+--- BLOCK ---
+Poder Escadora X
+--- BLOCK ---
+Fuerza Escadora X
+--- BLOCK ---
+Cinta de Zinogre X
+--- BLOCK ---
+Cota de Zinogre X
+--- BLOCK ---
+Cinta de Zinogre Z
+--- BLOCK ---
+Cota de Zinogre Z
+--- BLOCK ---
+Protetor de Coxa Nibelsnarf X
+--- BLOCK ---
+Cota de Nibelsnarf X
+--- BLOCK ---
+Protetor de Coxa Duramboros X
+--- BLOCK ---
+Cota de Duramboros X
+--- BLOCK ---
+Protetor de Coxa Duramboros Z
+--- BLOCK ---
+Cota de Duramboros Z
+--- BLOCK ---
+Protetor de Coxa Nargacuga X
+--- BLOCK ---
+Cota de Nargacuga X
+--- BLOCK ---
+Protetor de Coxa Nargacuga Z
+--- BLOCK ---
+Cota de Nargacuga Z
+--- BLOCK ---
+Cinta radiante
+--- BLOCK ---
+Cinta silueta
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa Brachydios X
+--- BLOCK ---
+Cota de Brachydios X
+--- BLOCK ---
+Protetor de Coxa de Miralis
+--- BLOCK ---
+Vaina de Miralis
+--- BLOCK ---
+Cinta de Damasco X
+--- BLOCK ---
+Cota de Damasco X
+--- BLOCK ---
+Cinta de Dober X
+--- BLOCK ---
+Cota de Dober X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Asa Aelucanth X
+--- BLOCK ---
+Ala de Aelucanth X
+--- BLOCK ---
+Asa de Rhopessa X
+--- BLOCK ---
+Ala de Rhopessa X
+--- BLOCK ---
+Lâmina de Mosgharl X
+--- BLOCK ---
+Fronda de Mosgharl X
+--- BLOCK ---
+Saia floral
+--- BLOCK ---
+Saia campanilla
+--- BLOCK ---
+Cinto montaraz
+--- BLOCK ---
+Cinturão de tirador
+--- BLOCK ---
+Cinta bardo gremio X
+--- BLOCK ---
+Cota bardo gremio X
+--- BLOCK ---
+Saia de colegiala X
+--- BLOCK ---
+Minissaia coleg. X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Saia de marinheiro
+--- BLOCK ---
+Minissaia marinheiro
+--- BLOCK ---
+Cinto Chakra
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

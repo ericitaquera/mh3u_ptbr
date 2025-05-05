@@ -1,0 +1,728 @@
+TMSG_ARM
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Luvas de couro
+--- BLOCK ---
+Luvas de malha
+--- BLOCK ---
+Braçadeiras de caçador
+--- BLOCK ---
+Protetor de braços do caçador
+--- BLOCK ---
+Braçadeiras de osso
+--- BLOCK ---
+Protetor de braços de osso
+--- BLOCK ---
+Braçadeiras de liga
+--- BLOCK ---
+Prot. de braços de liga
+--- BLOCK ---
+Braçadeiras de Jaggi
+--- BLOCK ---
+Protetor de braços Jaggi
+--- BLOCK ---
+Luvas de Bnahabra
+--- BLOCK ---
+Mangas de Bnahabra
+--- BLOCK ---
+Braçadeiras Rhenoplos
+--- BLOCK ---
+Guarda-braços Rhenoplos
+--- BLOCK ---
+Braçadeiras de Qurupeco
+--- BLOCK ---
+Guarda-braços Qurupeco
+--- BLOCK ---
+Braçadeiras de Ludroth
+--- BLOCK ---
+Guarda-braços Ludroth
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Braçadeiras de Baggi
+--- BLOCK ---
+Guarda-braços Baggi
+--- BLOCK ---
+Braçadeiras de Barroth
+--- BLOCK ---
+Guarda-braços Barroth
+--- BLOCK ---
+Braçadeiras de Gobul
+--- BLOCK ---
+Guarda-braços Gobul
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Braçadeiras bardo grem.
+--- BLOCK ---
+Mangas do bardo da guilda
+--- BLOCK ---
+Luvas de colegiala
+--- BLOCK ---
+Mangas de colegiala
+--- BLOCK ---
+Braçadeiras de Rathian
+--- BLOCK ---
+Guarda-braços Rathian
+--- BLOCK ---
+Braçadeiras de Gigginox
+--- BLOCK ---
+Guarda-braços Gigginox
+--- BLOCK ---
+Braçadeiras de lingote
+--- BLOCK ---
+Guarda-braços de lingote
+--- BLOCK ---
+Braçadeiras Lagiacrus
+--- BLOCK ---
+Guarda-braços Lagiacrus
+--- BLOCK ---
+Braçadeiras de Rathalos
+--- BLOCK ---
+Guarda-braços Rathalos
+--- BLOCK ---
+Braçadeiras de Barioth
+--- BLOCK ---
+Guarda-braços Barioth
+--- BLOCK ---
+Braçadeiras de Diablos
+--- BLOCK ---
+Guarda-braços Diablos
+--- BLOCK ---
+Braçadeiras de Uragaan
+--- BLOCK ---
+Guarda-braços Uragaan
+--- BLOCK ---
+Braçadeiras Agnaktor
+--- BLOCK ---
+Guarda-braços Agnaktor
+--- BLOCK ---
+Braçadeiras Helios
+--- BLOCK ---
+Guarda-braços Helios
+--- BLOCK ---
+Braçadeiras Selene
+--- BLOCK ---
+Guarda-braços Selene
+--- BLOCK ---
+Braçadeiras de Wroggi
+--- BLOCK ---
+Guarda-braços Wroggi
+--- BLOCK ---
+Braçadeiras Arzuros
+--- BLOCK ---
+Guarda-braços Arzuros
+--- BLOCK ---
+Braçadeiras Lagombi
+--- BLOCK ---
+Guarda-braços Lagombi
+--- BLOCK ---
+Braçadeiras Volvidon
+--- BLOCK ---
+Guarda-braços Volvidon
+--- BLOCK ---
+Braçadeiras Nibelsnarf
+--- BLOCK ---
+Guarda-braços Nibelsnarf
+--- BLOCK ---
+Braçadeiras Duramboros
+--- BLOCK ---
+Guarda-braços Duramboros
+--- BLOCK ---
+Manoplas Yukumo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Braçadeiras de couro S
+--- BLOCK ---
+Guarda-braços de couro S
+--- BLOCK ---
+Braçadeiras de malha S
+--- BLOCK ---
+Guarda-braços de malha S
+--- BLOCK ---
+Braçadeiras de caçador S
+--- BLOCK ---
+Proteção de caçador S
+--- BLOCK ---
+Braçadeiras de osso S
+--- BLOCK ---
+Proteção de osso S
+--- BLOCK ---
+Braçadeiras de liga S
+--- BLOCK ---
+Proteção de liga S
+--- BLOCK ---
+Braçadeiras Jaggi S
+--- BLOCK ---
+Proteção Jaggi S
+--- BLOCK ---
+Luvas Bnahabra S
+--- BLOCK ---
+Mangas Bnahabra S
+--- BLOCK ---
+Braçadeiras Rhenoplos S
+--- BLOCK ---
+Proteção Rhenoplos S
+--- BLOCK ---
+Braçadeiras Qurupeco S
+--- BLOCK ---
+Proteção Qurupeco S
+--- BLOCK ---
+Braçadeiras Qurupeco U
+--- BLOCK ---
+Proteção Qurupeco U
+--- BLOCK ---
+Braçadeiras Ludroth S
+--- BLOCK ---
+Proteção Ludroth S
+--- BLOCK ---
+Braçadeiras Ludroth U
+--- BLOCK ---
+Proteção Ludroth U
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Braçadeiras Baggi S
+--- BLOCK ---
+Proteção Baggi S
+--- BLOCK ---
+Braçadeiras Wroggi S
+--- BLOCK ---
+Proteção Wroggi S
+--- BLOCK ---
+Braçadeiras Arzuros S
+--- BLOCK ---
+Proteção Arzuros S
+--- BLOCK ---
+Braçadeiras Lagombi S
+--- BLOCK ---
+Proteção Lagombi S
+--- BLOCK ---
+Braçadeiras Volvidon S
+--- BLOCK ---
+Proteção Volvidon S
+--- BLOCK ---
+Braçadeiras Barroth S
+--- BLOCK ---
+Proteção Barroth S
+--- BLOCK ---
+Braçadeiras Barroth U
+--- BLOCK ---
+Proteção Barroth U
+--- BLOCK ---
+Braçadeiras Gobul S
+--- BLOCK ---
+Proteção Gobul S
+--- BLOCK ---
+Braçadeiras Barda Gremial S
+--- BLOCK ---
+Mangas Barda Gremial S
+--- BLOCK ---
+Luvas Colegiala S
+--- BLOCK ---
+Mangas Colegiala S
+--- BLOCK ---
+Braçadeiras Rathian S
+--- BLOCK ---
+Proteção Rathian S
+--- BLOCK ---
+Braçadeiras Coração Real
+--- BLOCK ---
+Proteção Coração Real
+--- BLOCK ---
+Braçadeiras Gigginox S
+--- BLOCK ---
+Proteção Gigginox S
+--- BLOCK ---
+Braçadeiras Gigginox U
+--- BLOCK ---
+Proteção Gigginox U
+--- BLOCK ---
+Braçadeiras Lingote S
+--- BLOCK ---
+Proteção Lingote S
+--- BLOCK ---
+Braçadeiras de Dober
+--- BLOCK ---
+Proteção Dober
+--- BLOCK ---
+Kote Céu Yukumo
+--- BLOCK ---
+Kote Terra Yukumo
+--- BLOCK ---
+Braçadeira de Aelucanth
+--- BLOCK ---
+Proteção de Aelucanth
+--- BLOCK ---
+Braçadeira de Rhopessa
+--- BLOCK ---
+Proteção de Rhopessa
+--- BLOCK ---
+Enredo de Mosgharl
+--- BLOCK ---
+Zarcillo de Mosgharl
+--- BLOCK ---
+Braçadeiras Artesanais
+--- BLOCK ---
+Proteção Artesanal
+--- BLOCK ---
+Braçadeiras Lagiacrus S
+--- BLOCK ---
+Proteção Lagiacrus S
+--- BLOCK ---
+Braçadeiras Lagiacrus U
+--- BLOCK ---
+Proteção Lagiacrus U
+--- BLOCK ---
+Braçadeiras Rathalos S
+--- BLOCK ---
+Proteção Rathalos S
+--- BLOCK ---
+Braçadeiras Alma Wyvern
+--- BLOCK ---
+Proteção Alma Wyvern
+--- BLOCK ---
+Braçadeiras Barioth S
+--- BLOCK ---
+Proteção Barioth S
+--- BLOCK ---
+Braçadeiras Barioth U
+--- BLOCK ---
+Proteção Barioth U
+--- BLOCK ---
+Braçadeiras Diablos S
+--- BLOCK ---
+Proteção Diablos S
+--- BLOCK ---
+Braçadeiras Diablos U
+--- BLOCK ---
+Proteção Diablos U
+--- BLOCK ---
+Braçadeiras Uragaan S
+--- BLOCK ---
+Proteção Uragaan S
+--- BLOCK ---
+Braçadeiras Uragaan U
+--- BLOCK ---
+Proteção Uragaan U
+--- BLOCK ---
+Braçadeiras Agnaktor S
+--- BLOCK ---
+Proteção Agnaktor S
+--- BLOCK ---
+Braçadeiras Agnaktor U
+--- BLOCK ---
+Proteção Agnaktor U
+--- BLOCK ---
+Braçadeiras Vangis
+--- BLOCK ---
+Proteção Vangis
+--- BLOCK ---
+Braçadeiras de Damasco
+--- BLOCK ---
+Proteção Damasco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Kote Yamato
+--- BLOCK ---
+Kote Mutsu
+--- BLOCK ---
+Kote Hyuga
+--- BLOCK ---
+Kote Amagi
+--- BLOCK ---
+Braços Escadora
+--- BLOCK ---
+Braços Escadora
+--- BLOCK ---
+Braçadeiras Zinogre
+--- BLOCK ---
+Protetores de Braço Zinogre
+--- BLOCK ---
+Braçal Nibelsnarf S
+--- BLOCK ---
+Protetor de Braço Nibelsnarf S
+--- BLOCK ---
+Braçal Duramboros S
+--- BLOCK ---
+Protetores de Braço Duram S
+--- BLOCK ---
+Braçadeiras Nargacuga
+--- BLOCK ---
+Protetor de Braço Nargacuga
+--- BLOCK ---
+Braçadeiras Plesioth
+--- BLOCK ---
+Protetor de Braço Plesioth
+--- BLOCK ---
+Braçadeiras Brachydios
+--- BLOCK ---
+Protetor de Braço Brachydios
+--- BLOCK ---
+Mangas Florais
+--- BLOCK ---
+Mangas de Campainha
+--- BLOCK ---
+Manoplas de Soldado
+--- BLOCK ---
+Manoplas de Arqueiro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Braçadeiras de Lingote X
+--- BLOCK ---
+Protetor de Braço de Lingote X
+--- BLOCK ---
+Luvas Bnahabra X
+--- BLOCK ---
+Mangas Bnahabra X
+--- BLOCK ---
+Braçadeiras Rhenoplos X
+--- BLOCK ---
+Protetor de Braço Rhenoplos X
+--- BLOCK ---
+Braçadeiras Jaggi X
+--- BLOCK ---
+Protetor de Braço Jaggi X
+--- BLOCK ---
+Braçadeiras Baggi X
+--- BLOCK ---
+Protetor de Braço Baggi X
+--- BLOCK ---
+Braçadeiras Wroggi X
+--- BLOCK ---
+Protetor de Braço Wroggi X
+--- BLOCK ---
+Braçadeiras Arzuros X
+--- BLOCK ---
+Protetor de Braço Arzuros X
+--- BLOCK ---
+Braçadeiras Lagombi X
+--- BLOCK ---
+Protetor de Braço Lagombi X
+--- BLOCK ---
+Braçadeiras Volvidon X
+--- BLOCK ---
+Protetor de Braço Volvidon X
+--- BLOCK ---
+Braçadeiras Qurupeco X
+--- BLOCK ---
+Protetor de Braço Qurupeco X
+--- BLOCK ---
+Braçadeiras Qurupeco Z
+--- BLOCK ---
+Protetor de Braço Qurupeco Z
+--- BLOCK ---
+Braçadeiras Ludroth X
+--- BLOCK ---
+Protetor de Braço Ludroth X
+--- BLOCK ---
+Braçadeiras Ludroth Z
+--- BLOCK ---
+Protetor de Braço Ludroth Z
+--- BLOCK ---
+Braçadeiras Barroth X
+--- BLOCK ---
+Protetor de Braço Barroth X
+--- BLOCK ---
+Braçadeiras Barroth Z
+--- BLOCK ---
+Protetor de Braço Barroth Z
+--- BLOCK ---
+Braçadeiras Gobul X
+--- BLOCK ---
+Protetor de Braço Gobul X
+--- BLOCK ---
+Braçadeiras Rathalos X
+--- BLOCK ---
+Protetor de Braço Rathalos X
+--- BLOCK ---
+Braçadeiras Alma Wyvern Z
+--- BLOCK ---
+Protetor de Braço Alma Wyvern Z
+--- BLOCK ---
+Braçadeiras Argênteas
+--- BLOCK ---
+Protetor de Braço Argênteas
+--- BLOCK ---
+Braçadeiras Rathian X
+--- BLOCK ---
+Protetor de Braço Rathian X
+--- BLOCK ---
+Braçadeiras Coração Wyvern Z
+--- BLOCK ---
+Protetor de Braço Coração Wyvern Z
+--- BLOCK ---
+Braçadeiras Lunares de Ouro
+--- BLOCK ---
+Protetor de Braço Lunares de Ouro
+--- BLOCK ---
+Braçadeiras Lagiacrus X
+--- BLOCK ---
+Protetor de Braço Lagiacrus X
+--- BLOCK ---
+Braçadeiras Lagiacrus Z
+--- BLOCK ---
+Protetor de Braço Lagiacrus Z
+--- BLOCK ---
+Braçadeiras Tenebrosas
+--- BLOCK ---
+Protetor de Braço Tenebrosas
+--- BLOCK ---
+Braçadeiras Gigginox X
+--- BLOCK ---
+Protetor de Braço Gigginox X
+--- BLOCK ---
+Braçadeiras Gigginox Z
+--- BLOCK ---
+Protetor de Braço Gigginox Z
+--- BLOCK ---
+Braçadeiras Barioth X
+--- BLOCK ---
+Protetor de Braço Barioth X
+--- BLOCK ---
+Braçadeiras Barioth Z
+--- BLOCK ---
+Protetor de Braço Barioth Z
+--- BLOCK ---
+Braçadeiras Diablos X
+--- BLOCK ---
+Protetor de Braço Diablos X
+--- BLOCK ---
+Braçadeiras Diablos Z
+--- BLOCK ---
+Protetor de Braço Diablos Z
+--- BLOCK ---
+Braçadeiras Uragaan X
+--- BLOCK ---
+Protetor de Braço Uragaan X
+--- BLOCK ---
+Braçadeiras Uragaan Z
+--- BLOCK ---
+Protetor de Braço Uragaan Z
+--- BLOCK ---
+Braçadeiras Agnaktor X
+--- BLOCK ---
+Protetor de Braço Agnaktor X
+--- BLOCK ---
+Braçadeiras Agnaktor Z
+--- BLOCK ---
+Protetor de Braço Agnaktor Z
+--- BLOCK ---
+Braçadeiras Helios X
+--- BLOCK ---
+Protetor de Braço Helios X
+--- BLOCK ---
+Braçadeiras Helios Z
+--- BLOCK ---
+Guarda-braço Helios Z
+--- BLOCK ---
+Avambrás Selene X
+--- BLOCK ---
+Guarda-braço Selene X
+--- BLOCK ---
+Avambrás Selene Z
+--- BLOCK ---
+Guarda-braço Selene Z
+--- BLOCK ---
+Grande Kote Yamato
+--- BLOCK ---
+Grande Kote Mutsu
+--- BLOCK ---
+Grande Kote Hyuga
+--- BLOCK ---
+Grande Kote Amagi
+--- BLOCK ---
+Kote Real Yamato
+--- BLOCK ---
+Kote Real Mutsu
+--- BLOCK ---
+Kote Real Hyuga
+--- BLOCK ---
+Kote Real Amagi
+--- BLOCK ---
+Avambrás Vangis X
+--- BLOCK ---
+Guarda-braço Vangis X
+--- BLOCK ---
+Braços Escadora X
+--- BLOCK ---
+Arma Escadora X
+--- BLOCK ---
+Avambrás Zinogre X
+--- BLOCK ---
+Guarda-braço Zinogre X
+--- BLOCK ---
+Avambrás Zinogre Z
+--- BLOCK ---
+Guarda-braço Zinogre Z
+--- BLOCK ---
+Braçal Nibelsnarf X
+--- BLOCK ---
+Guarda-braço Nibels X
+--- BLOCK ---
+Braçal Duramboros X
+--- BLOCK ---
+Guarda-braços Duram X
+--- BLOCK ---
+Braçal Duramboros Z
+--- BLOCK ---
+Guarda-braços Duram Z
+--- BLOCK ---
+Braçal Nargacuga X
+--- BLOCK ---
+Guarda-braço Nargacuga X
+--- BLOCK ---
+Braçal Nargacuga Z
+--- BLOCK ---
+Guarda-braço Nargacuga Z
+--- BLOCK ---
+Munhequeira radiante
+--- BLOCK ---
+Munhequeiras silhueta
+--- BLOCK ---
+Avambrás Plesioth X
+--- BLOCK ---
+Guarda-braço Plesioth X
+--- BLOCK ---
+Avambrás Plesioth Z
+--- BLOCK ---
+Guarda-braço Plesioth Z
+--- BLOCK ---
+Braçal Brachydios X
+--- BLOCK ---
+Guarda Brachydios X
+--- BLOCK ---
+Penitência Miralis
+--- BLOCK ---
+Castigo de Miralis
+--- BLOCK ---
+Avambrás Damasco X
+--- BLOCK ---
+Guarda-braço Damasco X
+--- BLOCK ---
+Avambrás Dober X
+--- BLOCK ---
+Guarda-braços Dober X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Ristre Aelucanth X
+--- BLOCK ---
+Manica Aelucanth X
+--- BLOCK ---
+Ristre de Rhopessa X
+--- BLOCK ---
+Manica de Rhopessa X
+--- BLOCK ---
+Enredo de Mosgharl X
+--- BLOCK ---
+Zarcillo Mosgharl X
+--- BLOCK ---
+Avambr. artesãos X
+--- BLOCK ---
+Guardab. artesãos X
+--- BLOCK ---
+Ajorca floral
+--- BLOCK ---
+Ajorca campainha
+--- BLOCK ---
+Luvas montanhês
+--- BLOCK ---
+Luvas atirador
+--- BLOCK ---
+Braç. bardo grem. X
+--- BLOCK ---
+Luvas bardo gr. X
+--- BLOCK ---
+Luvas colegiala X
+--- BLOCK ---
+Mangas colegiala X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Luvas de marinheiro
+--- BLOCK ---
+Mangas de marinheiro
+--- BLOCK ---
+Bracelete Chakra
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

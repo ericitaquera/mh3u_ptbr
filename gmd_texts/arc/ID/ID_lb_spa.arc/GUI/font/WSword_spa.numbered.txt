@@ -1,0 +1,256 @@
+﻿TMSG_WSWORD
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Cortadores a juego
+--- BLOCK [003] ---
+Cortadores a juego+
+--- BLOCK [004] ---
+Cortadores dobles
+--- BLOCK [005] ---
+Hachas dobles
+--- BLOCK [006] ---
+Hachas dobles+
+--- BLOCK [007] ---
+Clavas dobles+
+--- BLOCK [008] ---
+Huracán
+--- BLOCK [009] ---
+Huracán+
+--- BLOCK [010] ---
+Ciclón
+--- BLOCK [011] ---
+Hachas tornado
+--- BLOCK [012] ---
+Tifón
+--- BLOCK [013] ---
+Cortadoras Brach
+--- BLOCK [014] ---
+Cortadoras Brach+
+--- BLOCK [015] ---
+Hojas de demolición
+--- BLOCK [016] ---
+Demoledor espectral
+--- BLOCK [017] ---
+Estoques jurados
+--- BLOCK [018] ---
+Estoques jurados+
+--- BLOCK [019] ---
+Sables sagrados
+--- BLOCK [020] ---
+Sables cab. Gremio
+--- BLOCK [021] ---
+Sables maestros
+--- BLOCK [022] ---
+Sierras mec. dobles
+--- BLOCK [023] ---
+Sierras mec. dobles+
+--- BLOCK [024] ---
+Guillotinas
+--- BLOCK [025] ---
+Sierras de gólem
+--- BLOCK [026] ---
+Caníbales de gólem
+--- BLOCK [027] ---
+Maceradores tipo 51
+--- BLOCK [028] ---
+Muertesnarfs
+--- BLOCK [029] ---
+Supermuertesnarfs
+--- BLOCK [030] ---
+Insecticortadores
+--- BLOCK [031] ---
+Insecticortadores+
+--- BLOCK [032] ---
+Insectirrasgadores
+--- BLOCK [033] ---
+Insectiguadañas
+--- BLOCK [034] ---
+Entomoteos
+--- BLOCK [035] ---
+Aturdidores Gobul
+--- BLOCK [036] ---
+Aturdidores Gobul+
+--- BLOCK [037] ---
+Espada Plegiaturdio
+--- BLOCK [038] ---
+Hojas Jaggidas
+--- BLOCK [039] ---
+Hojas Jaggidas+
+--- BLOCK [040] ---
+Hojas de líder
+--- BLOCK [041] ---
+Tormenta de llamas
+--- BLOCK [042] ---
+Tormenta de llamas+
+--- BLOCK [043] ---
+Salamandras
+--- BLOCK [044] ---
+Ignis Noire
+--- BLOCK [045] ---
+Agnaktor Inferno
+--- BLOCK [046] ---
+Dicotomía
+--- BLOCK [047] ---
+Elemandras
+--- BLOCK [048] ---
+Acrus gemelos
+--- BLOCK [049] ---
+Acrus gemelos+
+--- BLOCK [050] ---
+Levin Acrus
+--- BLOCK [051] ---
+Neo Acrus gemelos
+--- BLOCK [052] ---
+Rayiblanco Acrusnovo
+--- BLOCK [053] ---
+Guadañas de hueso
+--- BLOCK [054] ---
+Guadañas de hueso+
+--- BLOCK [055] ---
+Guadañas de jefe
+--- BLOCK [056] ---
+Pareja de Ludroth
+--- BLOCK [057] ---
+Pareja de Ludroth+
+--- BLOCK [058] ---
+Doble Droth
+--- BLOCK [059] ---
+Géminis oculto
+--- BLOCK [060] ---
+Alas nocturnas
+--- BLOCK [061] ---
+Cortadores Virnar
+--- BLOCK [062] ---
+Alas negras noctas
+--- BLOCK [063] ---
+Cortadores eclipse
+--- BLOCK [064] ---
+Asterismo de Alkaid
+--- BLOCK [065] ---
+Fulgor del usurpador
+--- BLOCK [066] ---
+Chispas del déspota
+--- BLOCK [067] ---
+Milagro del opresor
+--- BLOCK [068] ---
+Hojas gemel. oscuras
+--- BLOCK [069] ---
+Confidentes oscuros
+--- BLOCK [070] ---
+Garras de Brimstren
+--- BLOCK [071] ---
+Soberbia estigia
+--- BLOCK [072] ---
+Alfanjes Plesioth
+--- BLOCK [073] ---
+Alfanjes Plesioth+
+--- BLOCK [074] ---
+Machetes Plesioth
+--- BLOCK [075] ---
+Tajadores verdes
+--- BLOCK [076] ---
+Tajadores de aluvión
+--- BLOCK [077] ---
+Aban. Plesioth jade
+--- BLOCK [078] ---
+Abanicos guerra jade
+--- BLOCK [079] ---
+Alas sangrientas
+--- BLOCK [080] ---
+Alas sangrientas+
+--- BLOCK [081] ---
+Alas venenosas
+--- BLOCK [082] ---
+Alas sombrías
+--- BLOCK [083] ---
+Alas Nox sombrías
+--- BLOCK [084] ---
+Boltgeist
+--- BLOCK [085] ---
+Alas rayo dobles
+--- BLOCK [086] ---
+Rayos letales dobles
+--- BLOCK [087] ---
+Llamas fraternas
+--- BLOCK [088] ---
+Fuegos fraternos
+--- BLOCK [089] ---
+Amante de wyverns
+--- BLOCK [090] ---
+Lucha wyvern
+--- BLOCK [091] ---
+Conciliación wyvern
+--- BLOCK [092] ---
+Cortadores de nieve
+--- BLOCK [093] ---
+Cortadores de nieve+
+--- BLOCK [094] ---
+Hermanas de nieve
+--- BLOCK [095] ---
+Neviscarioths
+--- BLOCK [096] ---
+Neviscarioths+
+--- BLOCK [097] ---
+Tallahielos asalt.
+--- BLOCK [098] ---
+Ventus Vindictus
+--- BLOCK [099] ---
+Salvajismo asaltante
+--- BLOCK [100] ---
+Machacador Diablos
+--- BLOCK [101] ---
+Machacador Diablos+
+--- BLOCK [102] ---
+Aplastador Diablos
+--- BLOCK [103] ---
+Sinidex Diablos
+--- BLOCK [104] ---
+Sinistrus Dextraos
+--- BLOCK [105] ---
+Furia y rencor
+--- BLOCK [106] ---
+Depredación furiosa
+--- BLOCK [107] ---
+Ira de Nerón
+--- BLOCK [108] ---
+Hojas desgastadas
+--- BLOCK [109] ---
+Hojas estropeadas
+--- BLOCK [110] ---
+Cisma duradero
+--- BLOCK [111] ---
+Sacrificio duradero
+--- BLOCK [112] ---
+Bordes de Mercurio
+--- BLOCK [113] ---
+Bordes de Neptuno
+--- BLOCK [114] ---
+Deuhojas pelágicas
+--- BLOCK [115] ---
+Espantapájaros Shaka
+--- BLOCK [116] ---
+Espantapáj. Chachi
+--- BLOCK [117] ---
+Espantap. Chum-Chum
+--- BLOCK [118] ---
+Armas de glotón
+--- BLOCK [119] ---
+Útiles de glotón
+--- BLOCK [120] ---
+Menaje wyvern
+--- BLOCK [121] ---
+Fritanga profunda
+--- BLOCK [122] ---
+Nova de Megido
+--- BLOCK [123] ---
+Puñosolución
+--- BLOCK [124] ---
+DUMMY
+--- BLOCK [125] ---
+DUMMY
+--- BLOCK [126] ---
+DUMMY
+--- BLOCK [127] ---
+Bushido
+--- BLOCK [128] ---

@@ -1,0 +1,766 @@
+﻿TMSG_BODY
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Chaleco de cuero
+--- BLOCK ---
+Chaleco de malla
+--- BLOCK ---
+Manto Loc Lac
+--- BLOCK ---
+Malla de cazador
+--- BLOCK ---
+Chaleco de cazador
+--- BLOCK ---
+Malla de hueso
+--- BLOCK ---
+Chaleco de hueso
+--- BLOCK ---
+Malla de aleación
+--- BLOCK ---
+Chaleco de aleación
+--- BLOCK ---
+Malla de Jaggi
+--- BLOCK ---
+Chaleco de Jaggi
+--- BLOCK ---
+Traje de Bnahabra
+--- BLOCK ---
+Chaleco de Bnahabra
+--- BLOCK ---
+Malla de Rhenoplos
+--- BLOCK ---
+Chaleco de Rhenoplos
+--- BLOCK ---
+Malla de Qurupeco
+--- BLOCK ---
+Chaleco de Qurupeco
+--- BLOCK ---
+Malla de Ludroth
+--- BLOCK ---
+Chaleco de Ludroth
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Malla de Baggi
+--- BLOCK ---
+Chaleco de Baggi
+--- BLOCK ---
+Malla de Barroth
+--- BLOCK ---
+Chaleco de Barroth
+--- BLOCK ---
+Malla de Gobul
+--- BLOCK ---
+Chaleco de Gobul
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bolero bardo gremio
+--- BLOCK ---
+Chaleco bardo gremio
+--- BLOCK ---
+Blusa de colegiala
+--- BLOCK ---
+Chaleco de colegiala
+--- BLOCK ---
+Malla de Rathian
+--- BLOCK ---
+Chaleco de Rathian
+--- BLOCK ---
+Malla de Gigginox
+--- BLOCK ---
+Chaleco de Gigginox
+--- BLOCK ---
+Malla de lingote
+--- BLOCK ---
+Chaleco de lingote
+--- BLOCK ---
+Malla de Lagiacrus
+--- BLOCK ---
+Chaleco de Lagiacrus
+--- BLOCK ---
+Malla de Rathalos
+--- BLOCK ---
+Chaleco de Rathalos
+--- BLOCK ---
+Malla de Barioth
+--- BLOCK ---
+Chaleco de Barioth
+--- BLOCK ---
+Malla de Diablos
+--- BLOCK ---
+Chaleco de Diablos
+--- BLOCK ---
+Malla de Uragaan
+--- BLOCK ---
+Chaleco de Uragaan
+--- BLOCK ---
+Malla de Agnaktor
+--- BLOCK ---
+Chaleco de Agnaktor
+--- BLOCK ---
+Malla de Helios
+--- BLOCK ---
+Chaleco de Helios
+--- BLOCK ---
+Malla de Selene
+--- BLOCK ---
+Chaleco de Selene
+--- BLOCK ---
+Malla de Wroggi
+--- BLOCK ---
+Chaleco de Wroggi
+--- BLOCK ---
+Malla de Arzuros
+--- BLOCK ---
+Chaleco de Arzuros
+--- BLOCK ---
+Malla de Lagombi
+--- BLOCK ---
+Chaleco de Lagombi
+--- BLOCK ---
+Malla de Volvidon
+--- BLOCK ---
+Chaleco de Volvidon
+--- BLOCK ---
+Malla de Nibelsnarf
+--- BLOCK ---
+Chaleco Nibelsnarf
+--- BLOCK ---
+Malla de Duramboros
+--- BLOCK ---
+Chaleco Duramboros
+--- BLOCK ---
+Dogi Yukumo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Malla de cuero S
+--- BLOCK ---
+Chaleco de cuero S
+--- BLOCK ---
+Armadura de malla S
+--- BLOCK ---
+Chaleco de malla S
+--- BLOCK ---
+Manto Loc Lac S
+--- BLOCK ---
+Chaleco Loc Lac S
+--- BLOCK ---
+Malla de cazador S
+--- BLOCK ---
+Chaleco de cazador S
+--- BLOCK ---
+Malla de hueso S
+--- BLOCK ---
+Chaleco de hueso S
+--- BLOCK ---
+Malla de aleación S
+--- BLOCK ---
+Chaleco aleación S
+--- BLOCK ---
+Malla de Jaggi S
+--- BLOCK ---
+Chaleco de Jaggi S
+--- BLOCK ---
+Traje de Bnahabra S
+--- BLOCK ---
+Chaleco Bnahabra S
+--- BLOCK ---
+Malla de Rhenoplos S
+--- BLOCK ---
+Chaleco Rhenoplos S
+--- BLOCK ---
+Capa de Slagtoth
+--- BLOCK ---
+Cubierta de Slagtoth
+--- BLOCK ---
+Malla de Qurupeco S
+--- BLOCK ---
+Chaleco Qurupeco S
+--- BLOCK ---
+Malla de Qurupeco U
+--- BLOCK ---
+Chaleco Qurupeco U
+--- BLOCK ---
+Malla de Ludroth S
+--- BLOCK ---
+Chaleco de Ludroth S
+--- BLOCK ---
+Malla de Ludroth U
+--- BLOCK ---
+Chaleco de Ludroth U
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Malla de Baggi S
+--- BLOCK ---
+Chaleco de Baggi S
+--- BLOCK ---
+Malla de Wroggi S
+--- BLOCK ---
+Chaleco de Wroggi S
+--- BLOCK ---
+Malla de Arzuros S
+--- BLOCK ---
+Chaleco de Arzuros S
+--- BLOCK ---
+Malla de Lagombi S
+--- BLOCK ---
+Chaleco de Lagombi S
+--- BLOCK ---
+Malla de Volvidon S
+--- BLOCK ---
+Chaleco Volvidon S
+--- BLOCK ---
+Malla de Barroth S
+--- BLOCK ---
+Chaleco de Barroth S
+--- BLOCK ---
+Malla de Barroth U
+--- BLOCK ---
+Chaleco de Barroth U
+--- BLOCK ---
+Malla de Gobul S
+--- BLOCK ---
+Chaleco de Gobul S
+--- BLOCK ---
+Bolero bardo grem. S
+--- BLOCK ---
+Chal. bardo grem. S
+--- BLOCK ---
+Blusa de colegiala S
+--- BLOCK ---
+Chaleco colegiala S
+--- BLOCK ---
+Malla de Rathian S
+--- BLOCK ---
+Chaleco de Rathian S
+--- BLOCK ---
+Malla corazón wyvern
+--- BLOCK ---
+Chal. corazón wyvern
+--- BLOCK ---
+Malla de Gigginox S
+--- BLOCK ---
+Chaleco Gigginox S
+--- BLOCK ---
+Malla de Gigginox U
+--- BLOCK ---
+Chaleco Gigginox U
+--- BLOCK ---
+Malla de lingote S
+--- BLOCK ---
+Chaleco de lingote S
+--- BLOCK ---
+Malla de Dober
+--- BLOCK ---
+Chaleco de Dober
+--- BLOCK ---
+Dogi cielo Yukumo
+--- BLOCK ---
+Dogi tierra Yukumo
+--- BLOCK ---
+Tórax de Aelucanth
+--- BLOCK ---
+Pleura de Aelucanth
+--- BLOCK ---
+Tórax de Rhopessa
+--- BLOCK ---
+Pleura de Rhopessa
+--- BLOCK ---
+Armazón de Mosgharl
+--- BLOCK ---
+Coraza de Mosgharl
+--- BLOCK ---
+Malla artesana
+--- BLOCK ---
+Chaleco artesano
+--- BLOCK ---
+Malla de Lagiacrus S
+--- BLOCK ---
+Chaleco Lagiacrus S
+--- BLOCK ---
+Malla de Lagiacrus U
+--- BLOCK ---
+Chaleco Lagiacrus U
+--- BLOCK ---
+Malla de Rathalos S
+--- BLOCK ---
+Chaleco Rathalos S
+--- BLOCK ---
+Malla alma wyvern
+--- BLOCK ---
+Chaleco alma wyvern
+--- BLOCK ---
+Malla de Barioth S
+--- BLOCK ---
+Chaleco de Barioth S
+--- BLOCK ---
+Malla de Barioth U
+--- BLOCK ---
+Chaleco de Barioth U
+--- BLOCK ---
+Malla de Diablos S
+--- BLOCK ---
+Chaleco de Diablos S
+--- BLOCK ---
+Malla de Diablos U
+--- BLOCK ---
+Chaleco de Diablos U
+--- BLOCK ---
+Malla de Uragaan S
+--- BLOCK ---
+Chaleco de Uragaan S
+--- BLOCK ---
+Malla de Uragaan U
+--- BLOCK ---
+Chaleco de Uragaan U
+--- BLOCK ---
+Malla de Agnaktor S
+--- BLOCK ---
+Chaleco Agnaktor S
+--- BLOCK ---
+Malla de Agnaktor U
+--- BLOCK ---
+Chaleco Agnaktor U
+--- BLOCK ---
+Malla Vangis
+--- BLOCK ---
+Chaleco Vangis
+--- BLOCK ---
+Malla de Damasco
+--- BLOCK ---
+Chaleco de Damasco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Doate Yamato
+--- BLOCK ---
+Doate Mutsu
+--- BLOCK ---
+Muneate Hyuga
+--- BLOCK ---
+Muneate Amagi
+--- BLOCK ---
+Alma Escadora
+--- BLOCK ---
+Ánima Escadora
+--- BLOCK ---
+Malla de Zinogre
+--- BLOCK ---
+Chaleco de Zinogre
+--- BLOCK ---
+Malla Nibelsnarf S
+--- BLOCK ---
+Chaleco Nibelsnarf S
+--- BLOCK ---
+Malla Duramboros S
+--- BLOCK ---
+Chaleco Duramboros S
+--- BLOCK ---
+Malla de Nargacuga
+--- BLOCK ---
+Chaleco de Nargacuga
+--- BLOCK ---
+Malla de Plesioth
+--- BLOCK ---
+Chaleco de Plesioth
+--- BLOCK ---
+Malla de Brachydios
+--- BLOCK ---
+Chaleco Brachydios
+--- BLOCK ---
+Chaqueta floral
+--- BLOCK ---
+Chaqueta campanilla
+--- BLOCK ---
+Cinto de soldado
+--- BLOCK ---
+Cinto de arquero
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Malla de lingote X
+--- BLOCK ---
+Chaleco de lingote X
+--- BLOCK ---
+Traje de Bnahabra X
+--- BLOCK ---
+Chaleco Bnahabra X
+--- BLOCK ---
+Malla de Rhenoplos X
+--- BLOCK ---
+Chaleco Rhenoplos X
+--- BLOCK ---
+Capa de Slagtoth X
+--- BLOCK ---
+Cubierta Slagtoth X
+--- BLOCK ---
+Malla de Jaggi X
+--- BLOCK ---
+Chaleco de Jaggi X
+--- BLOCK ---
+Malla de Baggi X
+--- BLOCK ---
+Chaleco de Baggi X
+--- BLOCK ---
+Malla de Wroggi X
+--- BLOCK ---
+Chaleco de Wroggi X
+--- BLOCK ---
+Malla de Arzuros X
+--- BLOCK ---
+Chaleco de Arzuros X
+--- BLOCK ---
+Malla de Lagombi X
+--- BLOCK ---
+Chaleco de Lagombi X
+--- BLOCK ---
+Malla de Volvidon X
+--- BLOCK ---
+Chaleco Volvidon X
+--- BLOCK ---
+Malla de Qurupeco X
+--- BLOCK ---
+Chaleco Qurupeco X
+--- BLOCK ---
+Malla de Qurupeco Z
+--- BLOCK ---
+Chaleco Qurupeco Z
+--- BLOCK ---
+Malla de Ludroth X
+--- BLOCK ---
+Chaleco de Ludroth X
+--- BLOCK ---
+Malla de Ludroth Z
+--- BLOCK ---
+Chaleco de Ludroth Z
+--- BLOCK ---
+Malla de Barroth X
+--- BLOCK ---
+Chaleco de Barroth X
+--- BLOCK ---
+Malla de Barroth Z
+--- BLOCK ---
+Chaleco de Barroth Z
+--- BLOCK ---
+Malla de Gobul X
+--- BLOCK ---
+Chaleco de Gobul X
+--- BLOCK ---
+Malla de Rathalos X
+--- BLOCK ---
+Chaleco Rathalos X
+--- BLOCK ---
+Malla alma wyvern Z
+--- BLOCK ---
+Chal. alma wyvern Z
+--- BLOCK ---
+Malla argéntea
+--- BLOCK ---
+Chaleco argénteo
+--- BLOCK ---
+Malla de Rathian X
+--- BLOCK ---
+Chaleco de Rathian X
+--- BLOCK ---
+Malla cor. wyvern Z
+--- BLOCK ---
+Chal. cor. wyvern Z
+--- BLOCK ---
+Malla lunar de oro
+--- BLOCK ---
+Chaleco lunar de oro
+--- BLOCK ---
+Malla de Lagiacrus X
+--- BLOCK ---
+Chaleco Lagiacrus X
+--- BLOCK ---
+Malla de Lagiacrus Z
+--- BLOCK ---
+Chaleco Lagiacrus Z
+--- BLOCK ---
+Malla tenebrosa
+--- BLOCK ---
+Chaleco tenebroso
+--- BLOCK ---
+Malla de Gigginox X
+--- BLOCK ---
+Chaleco Gigginox X
+--- BLOCK ---
+Malla de Gigginox Z
+--- BLOCK ---
+Chaleco Gigginox Z
+--- BLOCK ---
+Malla de Barioth X
+--- BLOCK ---
+Chaleco de Barioth X
+--- BLOCK ---
+Malla de Barioth Z
+--- BLOCK ---
+Chaleco de Barioth Z
+--- BLOCK ---
+Malla de Diablos X
+--- BLOCK ---
+Chaleco de Diablos X
+--- BLOCK ---
+Malla de Diablos Z
+--- BLOCK ---
+Chaleco de Diablos Z
+--- BLOCK ---
+Malla de Uragaan X
+--- BLOCK ---
+Chaleco de Uragaan X
+--- BLOCK ---
+Malla de Uragaan Z
+--- BLOCK ---
+Chaleco de Uragaan Z
+--- BLOCK ---
+Malla de Agnaktor X
+--- BLOCK ---
+Chaleco Agnaktor X
+--- BLOCK ---
+Malla de Agnaktor Z
+--- BLOCK ---
+Chaleco Agnaktor Z
+--- BLOCK ---
+Malla de Helios X
+--- BLOCK ---
+Chaleco de Helios X
+--- BLOCK ---
+Malla de Helios Z
+--- BLOCK ---
+Chaleco de Helios Z
+--- BLOCK ---
+Malla de Selene X
+--- BLOCK ---
+Chaleco de Selene X
+--- BLOCK ---
+Malla de Selene Z
+--- BLOCK ---
+Chaleco de Selene Z
+--- BLOCK ---
+Gran Doate Yamato
+--- BLOCK ---
+Gran Doate Mutsu
+--- BLOCK ---
+Gran Muneate Hyuga
+--- BLOCK ---
+Gran Muneate Amagi
+--- BLOCK ---
+Real Doate Yamato
+--- BLOCK ---
+Real Doate Mutsu
+--- BLOCK ---
+Real Muneate Hyuga
+--- BLOCK ---
+Real Muneate Amagi
+--- BLOCK ---
+Malla Vangis X
+--- BLOCK ---
+Chaleco Vangis X
+--- BLOCK ---
+Alma Escadora X
+--- BLOCK ---
+Ánima Escadora X
+--- BLOCK ---
+Malla de Zinogre X
+--- BLOCK ---
+Chaleco de Zinogre X
+--- BLOCK ---
+Malla de Zinogre Z
+--- BLOCK ---
+Chaleco de Zinogre Z
+--- BLOCK ---
+Malla Nibelsnarf X
+--- BLOCK ---
+Chaleco Nibelsnarf X
+--- BLOCK ---
+Malla Duramboros X
+--- BLOCK ---
+Chaleco Duramboros X
+--- BLOCK ---
+Malla Duramboros Z
+--- BLOCK ---
+Chaleco Duramboros Z
+--- BLOCK ---
+Malla de Nargacuga X
+--- BLOCK ---
+Chaleco Nargacuga X
+--- BLOCK ---
+Malla de Nargacuga Z
+--- BLOCK ---
+Chaleco Nargacuga Z
+--- BLOCK ---
+Túnica radiante
+--- BLOCK ---
+Túnica silueta
+--- BLOCK ---
+Malla de Plesioth X
+--- BLOCK ---
+Chaleco Plesioth X
+--- BLOCK ---
+Malla de Plesioth Z
+--- BLOCK ---
+Chaleco Plesioth Z
+--- BLOCK ---
+Malla Brachydios X
+--- BLOCK ---
+Chaleco Brachydios X
+--- BLOCK ---
+Peto de Miralis
+--- BLOCK ---
+Pechera de Miralis
+--- BLOCK ---
+Malla de Damasco X
+--- BLOCK ---
+Chaleco de Damasco X
+--- BLOCK ---
+Malla de Dober X
+--- BLOCK ---
+Chaleco de Dober X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Tórax de Aelucanth X
+--- BLOCK ---
+Pleura Aelucanth X
+--- BLOCK ---
+Tórax de Rhopessa X
+--- BLOCK ---
+Pleura de Rhopessa X
+--- BLOCK ---
+Armazón Mosgharl X
+--- BLOCK ---
+Coraza de Mosgharl X
+--- BLOCK ---
+Malla artesana X
+--- BLOCK ---
+Chaleco artesano X
+--- BLOCK ---
+Ropaje floral
+--- BLOCK ---
+Ropaje campanilla
+--- BLOCK ---
+Cinto montaraz
+--- BLOCK ---
+Cinto tirador
+--- BLOCK ---
+Bolero bardo grem. X
+--- BLOCK ---
+Chal. bardo grem. X
+--- BLOCK ---
+Blusa de colegiala X
+--- BLOCK ---
+Chaleco colegiala X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Traje de marinero
+--- BLOCK ---
+Chaleco de marinero
+--- BLOCK ---
+Collar Chakra
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Chaqueta cazaaverno
+--- BLOCK ---
+Cuero de cazaaverno
+--- BLOCK ---

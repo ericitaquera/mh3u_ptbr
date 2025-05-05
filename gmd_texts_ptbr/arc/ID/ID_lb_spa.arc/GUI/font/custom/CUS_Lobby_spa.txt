@@ -30,7 +30,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Aldeia Moga
+Vila Moga
 --- BLOCK ---
 Clima Moga
 --- BLOCK ---
@@ -243,7 +243,7 @@ Você encontrará mercadorias
 na Floresta Moga e outros lugares.
 --- BLOCK ---
 O Argosy viaja constantemente, e por isto
-ele só fica na aldeia por alguns dias.
+ele só fica na Vila Moga por alguns dias.
 Enquanto estiver atracado você pode
 trocar itens ou solicitar encomendas.
 --- BLOCK ---
@@ -402,7 +402,7 @@ coletar o saque na Caixa de Pesca. Você
 não poderá enviar a frota novamente até
 que você não recolha os ítens.
 --- BLOCK ---
-Toque no painel da Aldeia Moga para
+Toque no painel da Vila Moga para
 visualizar o estado de cada navio, no
 qual se indica o destino atual e o tempo
 até o seu retorno.
@@ -449,7 +449,7 @@ verifique a Caixa de Colheita para
 colher. Você não será capaz de crescer
 novos objetos até esvaziá-la.
 --- BLOCK ---
-Toque no painel Aldeia Moga para visualizar
+Toque no painel Vila Moga para visualizar
 o estado de cada Felyne, como quais
 itens (e quantos) estão cultivando
 no momento.

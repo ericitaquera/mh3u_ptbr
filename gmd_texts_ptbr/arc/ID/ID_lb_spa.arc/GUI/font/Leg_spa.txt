@@ -1,0 +1,756 @@
+TMSG_LEG
+--- BLOCK ---
+Joelheiras
+--- BLOCK ---
+Calças de couro
+--- BLOCK ---
+Joelheira de piscine
+--- BLOCK ---
+Perneira de malha
+--- BLOCK ---
+Botas Loc Lac
+--- BLOCK ---
+Joelheiras de caçador
+--- BLOCK ---
+Perneiras de caçador
+--- BLOCK ---
+Joelheiras de osso
+--- BLOCK ---
+Perneiras de osso
+--- BLOCK ---
+Joelheiras de liga
+--- BLOCK ---
+Perneiras de liga
+--- BLOCK ---
+Joelheiras de Jaggi
+--- BLOCK ---
+Perneiras de Jaggi
+--- BLOCK ---
+Botas de Bnahabra
+--- BLOCK ---
+Pantalón de Bnahabra
+--- BLOCK ---
+Joelheiras de Rhenoplos
+--- BLOCK ---
+Perneiras de Rhenoplos
+--- BLOCK ---
+Joelheiras de Qurupeco
+--- BLOCK ---
+Perneiras de Qurupeco
+--- BLOCK ---
+Joelheiras de Ludroth
+--- BLOCK ---
+Perneiras de Ludroth
+--- BLOCK ---
+Joelheiras de Baggi
+--- BLOCK ---
+Perneiras de Baggi
+--- BLOCK ---
+Joelheiras de Barroth
+--- BLOCK ---
+Perneiras de Barroth
+--- BLOCK ---
+Joelheiras de Gobul
+--- BLOCK ---
+Perneiras de Gobul
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Botas bardo gremio
+--- BLOCK ---
+Polainas bardo grem.
+--- BLOCK ---
+Meias colegiala
+--- BLOCK ---
+Sandalias colegiala
+--- BLOCK ---
+Joelheiras de Rathian
+--- BLOCK ---
+Perneiras de Rathian
+--- BLOCK ---
+Joelheiras de Gigginox
+--- BLOCK ---
+Perneiras de Gigginox
+--- BLOCK ---
+Joelheiras de lingote
+--- BLOCK ---
+Perneiras de lingote
+--- BLOCK ---
+Joelheiras de Lagiacrus
+--- BLOCK ---
+Perneiras de Lagiacrus
+--- BLOCK ---
+Joelheiras de Rathalos
+--- BLOCK ---
+Perneiras de Rathalos
+--- BLOCK ---
+Joelheiras de Barioth
+--- BLOCK ---
+Perneiras de Barioth
+--- BLOCK ---
+Joelheiras de Diablos
+--- BLOCK ---
+Perneiras de Diablos
+--- BLOCK ---
+Joelheiras de Uragaan
+--- BLOCK ---
+Perneiras de Uragaan
+--- BLOCK ---
+Joelheiras de Agnaktor
+--- BLOCK ---
+Perneiras de Agnaktor
+--- BLOCK ---
+Joelheiras de Helios
+--- BLOCK ---
+Perneiras de Helios
+--- BLOCK ---
+Joelheiras de Selene
+--- BLOCK ---
+Perneiras de Selene
+--- BLOCK ---
+Joelheiras de Wroggi
+--- BLOCK ---
+Perneiras de Wroggi
+--- BLOCK ---
+Joelheiras de Arzuros
+--- BLOCK ---
+Perneiras de Arzuros
+--- BLOCK ---
+Joelheiras de Lagombi
+--- BLOCK ---
+Perneiras de Lagombi
+--- BLOCK ---
+Joelheiras de Volvidon
+--- BLOCK ---
+Perneiras de Volvidon
+--- BLOCK ---
+Joelheiras de Nibelsnarf
+--- BLOCK ---
+Perneiras de Nibelsnarf
+--- BLOCK ---
+Joelheiras de Duramboros
+--- BLOCK ---
+Perneiras de Duramboros
+--- BLOCK ---
+Hakama Yukumo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Joelheiras de couro S
+--- BLOCK ---
+Perneiras de couro S
+--- BLOCK ---
+Pernera de piscine S
+--- BLOCK ---
+Perneiras de piscine S
+--- BLOCK ---
+Joelheiras de malha S
+--- BLOCK ---
+Perneiras de malha S
+--- BLOCK ---
+Botas Loc Lac S
+--- BLOCK ---
+Polainas Loc Lac S
+--- BLOCK ---
+Joelheiras de caçador S
+--- BLOCK ---
+Perneiras de caçador S
+--- BLOCK ---
+Joelheiras de osso S
+--- BLOCK ---
+Perneiras de osso S
+--- BLOCK ---
+Joelheiras de liga S
+--- BLOCK ---
+Perneiras de liga S
+--- BLOCK ---
+Joelheiras de Jaggi S
+--- BLOCK ---
+Perneiras de Jaggi S
+--- BLOCK ---
+Botas de Bnahabra S
+--- BLOCK ---
+Pantalón Bnahabra S
+--- BLOCK ---
+Joelheiras Rhenoplos S
+--- BLOCK ---
+Perneiras Rhenoplos S
+--- BLOCK ---
+Joelheiras de Qurupeco S
+--- BLOCK ---
+Perneiras de Qurupeco S
+--- BLOCK ---
+Joelheiras de Qurupeco U
+--- BLOCK ---
+Perneiras de Qurupeco U
+--- BLOCK ---
+Joelheiras de Ludroth S
+--- BLOCK ---
+Perneiras de Ludroth S
+--- BLOCK ---
+Joelheiras de Ludroth U
+--- BLOCK ---
+Perneiras de Ludroth U
+--- BLOCK ---
+Joelheiras de Baggi S
+--- BLOCK ---
+Perneiras de Baggi S
+--- BLOCK ---
+Joelheiras de Wroggi S
+--- BLOCK ---
+Perneiras de Wroggi S
+--- BLOCK ---
+Joelheiras de Arzuros S
+--- BLOCK ---
+Perneiras de Arzuros S
+--- BLOCK ---
+Joelheiras de Lagombi S
+--- BLOCK ---
+Perneiras de Lagombi S
+--- BLOCK ---
+Joelheiras de Volvidon S
+--- BLOCK ---
+Perneiras de Volvidon S
+--- BLOCK ---
+Joelheiras de Barroth S
+--- BLOCK ---
+Perneiras de Barroth S
+--- BLOCK ---
+Joelheiras de Barroth U
+--- BLOCK ---
+Perneiras de Barroth U
+--- BLOCK ---
+Joelheiras de Gobul S
+--- BLOCK ---
+Perneiras de Gobul S
+--- BLOCK ---
+Botas bardo gremio S
+--- BLOCK ---
+Polainas bardo gr. S
+--- BLOCK ---
+Meias coleg. S
+--- BLOCK ---
+Sandálias coleg. S
+--- BLOCK ---
+Joelheiras de Rathian S
+--- BLOCK ---
+Perneiras de Rathian S
+--- BLOCK ---
+Joelheiras corazón wyv.
+--- BLOCK ---
+Perneiras corazón wyv.
+--- BLOCK ---
+Joelheiras de Gigginox S
+--- BLOCK ---
+Perneiras de Gigginox S
+--- BLOCK ---
+Joelheiras de Gigginox U
+--- BLOCK ---
+Perneiras de Gigginox U
+--- BLOCK ---
+Joelheiras de lingote S
+--- BLOCK ---
+Perneiras de lingote S
+--- BLOCK ---
+Joelheiras de Dober
+--- BLOCK ---
+Perneiras de Dober
+--- BLOCK ---
+Hakama céu Yukumo
+--- BLOCK ---
+Hakama terra Yukumo
+--- BLOCK ---
+Espinil. Aelucanth
+--- BLOCK ---
+Escarpe de Aelucanth
+--- BLOCK ---
+Espinil. Rhopessa
+--- BLOCK ---
+Escarpe de Rhopessa
+--- BLOCK ---
+Raiz de Mosgharl
+--- BLOCK ---
+Semente de Mosgharl
+--- BLOCK ---
+Joelheiras artesanas
+--- BLOCK ---
+Perneiras artesanas
+--- BLOCK ---
+Joelheiras Lagiacrus S
+--- BLOCK ---
+Perneiras Lagiacrus S
+--- BLOCK ---
+Joelheiras Lagiacrus U
+--- BLOCK ---
+Perneiras Lagiacrus U
+--- BLOCK ---
+Joelheiras de Rathalos S
+--- BLOCK ---
+Perneiras de Rathalos S
+--- BLOCK ---
+Joelheiras alma wyvern
+--- BLOCK ---
+Perneiras alma wyvern
+--- BLOCK ---
+Joelheiras de Barioth S
+--- BLOCK ---
+Perneiras de Barioth S
+--- BLOCK ---
+Joelheiras de Barioth U
+--- BLOCK ---
+Perneiras de Barioth U
+--- BLOCK ---
+Joelheiras de Diablos S
+--- BLOCK ---
+Perneiras de Diablos S
+--- BLOCK ---
+Joelheiras de Diablos U
+--- BLOCK ---
+Perneiras de Diablos U
+--- BLOCK ---
+Joelheiras de Uragaan S
+--- BLOCK ---
+Perneiras de Uragaan S
+--- BLOCK ---
+Joelheiras de Uragaan U
+--- BLOCK ---
+Perneiras de Uragaan U
+--- BLOCK ---
+Joelheiras de Agnaktor S
+--- BLOCK ---
+Perneiras de Agnaktor S
+--- BLOCK ---
+Joelheiras de Agnaktor U
+--- BLOCK ---
+Perneiras de Agnaktor U
+--- BLOCK ---
+Joelheiras Vangis
+--- BLOCK ---
+Perneiras Vangis
+--- BLOCK ---
+Joelheiras de Damasco
+--- BLOCK ---
+Perneiras de Damasco
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Gusoku Yamato
+--- BLOCK ---
+Gusoku Mutsu
+--- BLOCK ---
+Hakama Hyuga
+--- BLOCK ---
+Hakama Amagi
+--- BLOCK ---
+Escama Escadora
+--- BLOCK ---
+Concha Escadora
+--- BLOCK ---
+Joelheiras de Zinogre
+--- BLOCK ---
+Perneiras de Zinogre
+--- BLOCK ---
+Joelheiras Nibelsnarf S
+--- BLOCK ---
+Perneiras Nibelsnarf S
+--- BLOCK ---
+Joelheiras Duramboros S
+--- BLOCK ---
+Perneiras Duramboros S
+--- BLOCK ---
+Joelheiras de Nargacuga
+--- BLOCK ---
+Perneiras de Nargacuga
+--- BLOCK ---
+Joelheiras de Plesioth
+--- BLOCK ---
+Perneiras de Plesioth
+--- BLOCK ---
+Joelheiras de Brachydios
+--- BLOCK ---
+Perneiras de Brachydios
+--- BLOCK ---
+Pernera floral
+--- BLOCK ---
+Pernera campanilla
+--- BLOCK ---
+Alpargata de soldado
+--- BLOCK ---
+Alpargata de arqueiro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Joelheiras de lingote X
+--- BLOCK ---
+Perneiras de lingote X
+--- BLOCK ---
+Botas de Bnahabra X
+--- BLOCK ---
+Calças de Bnahabra X
+--- BLOCK ---
+Joelheiras Rhenoplos X
+--- BLOCK ---
+Perneiras Rhenoplos X
+--- BLOCK ---
+Joelheiras de Jaggi X
+--- BLOCK ---
+Perneiras Jaggi X
+--- BLOCK ---
+Joelheiras Baggi X
+--- BLOCK ---
+Perneiras Baggi X
+--- BLOCK ---
+Joelheiras Wroggi X
+--- BLOCK ---
+Perneiras Wroggi X
+--- BLOCK ---
+Joelheiras Arzuros X
+--- BLOCK ---
+Perneiras Arzuros X
+--- BLOCK ---
+Joelheiras Lagombi X
+--- BLOCK ---
+Perneiras Lagombi X
+--- BLOCK ---
+Joelheiras Volvidon X
+--- BLOCK ---
+Perneiras Volvidon X
+--- BLOCK ---
+Joelheiras Qurupeco X
+--- BLOCK ---
+Perneiras Qurupeco X
+--- BLOCK ---
+Joelheiras Qurupeco Z
+--- BLOCK ---
+Perneiras Qurupeco Z
+--- BLOCK ---
+Joelheiras Ludroth X
+--- BLOCK ---
+Perneiras Ludroth X
+--- BLOCK ---
+Joelheiras Ludroth Z
+--- BLOCK ---
+Perneiras Ludroth Z
+--- BLOCK ---
+Joelheiras Barroth X
+--- BLOCK ---
+Perneiras Barroth X
+--- BLOCK ---
+Joelheiras Barroth Z
+--- BLOCK ---
+Perneiras Barroth Z
+--- BLOCK ---
+Joelheiras Gobul X
+--- BLOCK ---
+Perneiras Gobul X
+--- BLOCK ---
+Joelheiras Rathalos X
+--- BLOCK ---
+Perneiras Rathalos X
+--- BLOCK ---
+Joelheiras alma wyvern Z
+--- BLOCK ---
+Perneiras alma wyvern Z
+--- BLOCK ---
+Joelheiras argénteas
+--- BLOCK ---
+Perneiras argénteas
+--- BLOCK ---
+Joelheiras Rathian X
+--- BLOCK ---
+Perneiras Rathian X
+--- BLOCK ---
+Joelheiras corazón wyv. Z
+--- BLOCK ---
+Perneiras corazón wyv. Z
+--- BLOCK ---
+Joelheiras lunares oro
+--- BLOCK ---
+Perneiras lunares oro
+--- BLOCK ---
+Joelheiras Lagiacrus X
+--- BLOCK ---
+Perneiras Lagiacrus X
+--- BLOCK ---
+Joelheiras Lagiacrus Z
+--- BLOCK ---
+Perneiras Lagiacrus Z
+--- BLOCK ---
+Joelheiras tenebrosas
+--- BLOCK ---
+Perneiras tenebrosas
+--- BLOCK ---
+Joelheiras Gigginox X
+--- BLOCK ---
+Perneiras Gigginox X
+--- BLOCK ---
+Joelheiras Gigginox Z
+--- BLOCK ---
+Perneiras Gigginox Z
+--- BLOCK ---
+Joelheiras Barioth X
+--- BLOCK ---
+Perneiras Barioth X
+--- BLOCK ---
+Joelheiras Barioth Z
+--- BLOCK ---
+Perneiras Barioth Z
+--- BLOCK ---
+Joelheiras Diablos X
+--- BLOCK ---
+Perneiras Diablos X
+--- BLOCK ---
+Joelheiras Diablos Z
+--- BLOCK ---
+Perneiras Diablos Z
+--- BLOCK ---
+Joelheiras Uragaan X
+--- BLOCK ---
+Perneiras Uragaan X
+--- BLOCK ---
+Joelheiras Uragaan Z
+--- BLOCK ---
+Perneiras Uragaan Z
+--- BLOCK ---
+Joelheiras Agnaktor X
+--- BLOCK ---
+Perneiras Agnaktor X
+--- BLOCK ---
+Joelheiras Agnaktor Z
+--- BLOCK ---
+Perneiras Agnaktor Z
+--- BLOCK ---
+Joelheiras Helios X
+--- BLOCK ---
+Perneiras Helios X
+--- BLOCK ---
+Joelheiras Helios Z
+--- BLOCK ---
+Perneiras Helios Z
+--- BLOCK ---
+Joelheiras Selene X
+--- BLOCK ---
+Perneiras Selene X
+--- BLOCK ---
+Joelheiras Selene Z
+--- BLOCK ---
+Perneiras Selene Z
+--- BLOCK ---
+Gran Gusoku Yamato
+--- BLOCK ---
+Gran Gusoku Mutsu
+--- BLOCK ---
+Gran Hakama Hyuga
+--- BLOCK ---
+Gran Hakama Amagi
+--- BLOCK ---
+Real Yamato Gusoku
+--- BLOCK ---
+Real Mutsu Gusoku
+--- BLOCK ---
+Real Hyuga Hakama
+--- BLOCK ---
+Real Amagi Hakama
+--- BLOCK ---
+Joelheiras Vangis X
+--- BLOCK ---
+Perneiras Vangis X
+--- BLOCK ---
+Escama Escadora X
+--- BLOCK ---
+Concha Escadora X
+--- BLOCK ---
+Joelheiras Zinogre X
+--- BLOCK ---
+Perneiras Zinogre X
+--- BLOCK ---
+Joelheiras Zinogre Z
+--- BLOCK ---
+Perneiras Zinogre Z
+--- BLOCK ---
+Joelheiras Nibelsnarf X
+--- BLOCK ---
+Perneiras Nibelsnarf X
+--- BLOCK ---
+Joelheiras Duramboros X
+--- BLOCK ---
+Perneiras Duramboros X
+--- BLOCK ---
+Joelheiras Duramboros Z
+--- BLOCK ---
+Perneiras Duramboros Z
+--- BLOCK ---
+Joelheiras Nargacuga X
+--- BLOCK ---
+Perneiras Nargacuga X
+--- BLOCK ---
+Joelheiras Nargacuga Z
+--- BLOCK ---
+Perneiras Nargacuga Z
+--- BLOCK ---
+Meias radiantes
+--- BLOCK ---
+Meias silueta
+--- BLOCK ---
+Joelheiras Plesioth X
+--- BLOCK ---
+Perneiras de Plesioth X
+--- BLOCK ---
+Joelheiras de Plesioth Z
+--- BLOCK ---
+Perneiras de Plesioth Z
+--- BLOCK ---
+Joelheiras Brachydios X
+--- BLOCK ---
+Perneiras Brachydios X
+--- BLOCK ---
+Mascarón de Miralis
+--- BLOCK ---
+Ancla de Miralis
+--- BLOCK ---
+Joelheiras de Damasco X
+--- BLOCK ---
+Perneiras de Damasco X
+--- BLOCK ---
+Joelheiras de Dober X
+--- BLOCK ---
+Perneiras de Dober X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Espinil. Aelucanth X
+--- BLOCK ---
+Escarpe Aelucanth X
+--- BLOCK ---
+Espinil. Rhopessa X
+--- BLOCK ---
+Escarpe Rhopessa X
+--- BLOCK ---
+Raiz de Mosgharl X
+--- BLOCK ---
+Semilla Mosgharl X
+--- BLOCK ---
+Joelheiras artesanas X
+--- BLOCK ---
+Perneiras artesanas X
+--- BLOCK ---
+Caneleira floral
+--- BLOCK ---
+Caneleira campainha
+--- BLOCK ---
+Perneiras montanhosas
+--- BLOCK ---
+Perneiras de atirador
+--- BLOCK ---
+Botas do bardo gremio X
+--- BLOCK ---
+Polainas do bardo gr. X
+--- BLOCK ---
+Meias colegiais X
+--- BLOCK ---
+Sandálias colegiais X
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Meias de marinheiro
+--- BLOCK ---
+Sandálias de marinheiro
+--- BLOCK ---
+Tornozeleira Chakra
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Perneiras de couro negro
+--- BLOCK ---
+Calça de couro negro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

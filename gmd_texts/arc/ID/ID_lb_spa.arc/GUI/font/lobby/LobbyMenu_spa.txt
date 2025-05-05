@@ -1,0 +1,93 @@
+﻿CARDMENU
+--- BLOCK ---
+PLAYERLIST_HELP
+--- BLOCK ---
+Revisar
+--- BLOCK ---
+Editar
+--- BLOCK ---
+Enviar
+--- BLOCK ---
+Lista tarjetas
+--- BLOCK ---
+Enviar a todos
+--- BLOCK ---
+Eleg. de lista
+--- BLOCK ---
+Enviar
+--- BLOCK ---
+Sí
+--- BLOCK ---
+No
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Aceptar
+--- BLOCK ---
+Ver
+--- BLOCK ---
+Sup.
+--- BLOCK ---
+¿Enviar tu tarjeta Gremio?
+--- BLOCK ---
+Enviando...
+--- BLOCK ---
+tiene(n) tu tarj.
+--- BLOCK ---
+no recibe(n) tu tarjeta.
+--- BLOCK ---
+ya ha(n) recibido tu
+tarjeta del Gremio.
+--- BLOCK ---
+ha(n) enviado su(s) tarjeta(s).
+--- BLOCK ---
+Tarjetas pendientes: %d
+Espacios tras aceptar: %d
+--- BLOCK ---
+¿Borrar esta tarjeta
+del Gremio?
+--- BLOCK ---
+Tarjeta del Gremio guardada.
+Al guardar el progreso, las tarjetas
+se guardan en la tarjeta SD.
+--- BLOCK ---
+Pulsa el botón A.
+--- BLOCK ---
+Tarjeta Gremio borrada.
+Toca el panel "Revisar".
+--- BLOCK ---
+¿Añadir a usuarios bloqueados?
+<COLO 2>Atención: puede quedar inaccesible su
+contenido de otros juegos.</COLO>
+--- BLOCK ---
+¿Seguro?
+--- BLOCK ---
+Comen. no editables en zonas
+en línea o multijugador.
+--- BLOCK ---
+Tarjeta borrada y usuario
+añadido a usuarios bloqueados.
+Toca el panel "Revisar".
+--- BLOCK ---
+Error al aceptar la misión.
+--- BLOCK ---
+Error al unirse a la misión.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

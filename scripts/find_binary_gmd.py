@@ -63,6 +63,9 @@ def main():
         sys.exit(1)
 
     search_bytes = get_search_bytes(search_string)
+    #print(search_bytes)
+    #search_bytes=b'S\xc3\xad\x00'
+    #input()
     print(f"🔍 Searching for UTF-8 bytes: {search_bytes.hex(' ').upper()}")
     search_gmd_files(search_bytes, directory, search_string)
 

@@ -1,0 +1,756 @@
+﻿TMSG_LEG
+--- BLOCK [001] ---
+(Nada)
+--- BLOCK [002] ---
+Pantalones de cuero
+--- BLOCK [003] ---
+Pernera de piscine
+--- BLOCK [004] ---
+Pantalón de malla
+--- BLOCK [005] ---
+Botas Loc Lac
+--- BLOCK [006] ---
+Grebas de cazador
+--- BLOCK [007] ---
+Calzas de cazador
+--- BLOCK [008] ---
+Grebas de hueso
+--- BLOCK [009] ---
+Calzas de hueso
+--- BLOCK [010] ---
+Grebas de aleación
+--- BLOCK [011] ---
+Calzas de aleación
+--- BLOCK [012] ---
+Grebas de Jaggi
+--- BLOCK [013] ---
+Calzas de Jaggi
+--- BLOCK [014] ---
+Botas de Bnahabra
+--- BLOCK [015] ---
+Pantalón de Bnahabra
+--- BLOCK [016] ---
+Grebas de Rhenoplos
+--- BLOCK [017] ---
+Calzas de Rhenoplos
+--- BLOCK [018] ---
+Grebas de Qurupeco
+--- BLOCK [019] ---
+Calzas de Qurupeco
+--- BLOCK [020] ---
+Grebas de Ludroth
+--- BLOCK [021] ---
+Calzas de Ludroth
+--- BLOCK [022] ---
+Grebas de Baggi
+--- BLOCK [023] ---
+Calzas de Baggi
+--- BLOCK [024] ---
+Grebas de Barroth
+--- BLOCK [025] ---
+Calzas de Barroth
+--- BLOCK [026] ---
+Grebas de Gobul
+--- BLOCK [027] ---
+Calzas de Gobul
+--- BLOCK [028] ---
+DUMMY
+--- BLOCK [029] ---
+DUMMY
+--- BLOCK [030] ---
+Botas bardo gremio
+--- BLOCK [031] ---
+Polainas bardo grem.
+--- BLOCK [032] ---
+Calcetines colegiala
+--- BLOCK [033] ---
+Sandalias colegiala
+--- BLOCK [034] ---
+Grebas de Rathian
+--- BLOCK [035] ---
+Calzas de Rathian
+--- BLOCK [036] ---
+Grebas de Gigginox
+--- BLOCK [037] ---
+Calzas de Gigginox
+--- BLOCK [038] ---
+Grebas de lingote
+--- BLOCK [039] ---
+Calzas de lingote
+--- BLOCK [040] ---
+Grebas de Lagiacrus
+--- BLOCK [041] ---
+Calzas de Lagiacrus
+--- BLOCK [042] ---
+Grebas de Rathalos
+--- BLOCK [043] ---
+Calzas de Rathalos
+--- BLOCK [044] ---
+Grebas de Barioth
+--- BLOCK [045] ---
+Calzas de Barioth
+--- BLOCK [046] ---
+Grebas de Diablos
+--- BLOCK [047] ---
+Calzas de Diablos
+--- BLOCK [048] ---
+Grebas de Uragaan
+--- BLOCK [049] ---
+Calzas de Uragaan
+--- BLOCK [050] ---
+Grebas de Agnaktor
+--- BLOCK [051] ---
+Calzas de Agnaktor
+--- BLOCK [052] ---
+Grebas de Helios
+--- BLOCK [053] ---
+Calzas de Helios
+--- BLOCK [054] ---
+Grebas de Selene
+--- BLOCK [055] ---
+Calzas de Selene
+--- BLOCK [056] ---
+Grebas de Wroggi
+--- BLOCK [057] ---
+Calzas de Wroggi
+--- BLOCK [058] ---
+Grebas de Arzuros
+--- BLOCK [059] ---
+Calzas de Arzuros
+--- BLOCK [060] ---
+Grebas de Lagombi
+--- BLOCK [061] ---
+Calzas de Lagombi
+--- BLOCK [062] ---
+Grebas de Volvidon
+--- BLOCK [063] ---
+Calzas de Volvidon
+--- BLOCK [064] ---
+Grebas de Nibelsnarf
+--- BLOCK [065] ---
+Calzas de Nibelsnarf
+--- BLOCK [066] ---
+Grebas de Duramboros
+--- BLOCK [067] ---
+Calzas de Duramboros
+--- BLOCK [068] ---
+Hakama Yukumo
+--- BLOCK [069] ---
+DUMMY
+--- BLOCK [070] ---
+DUMMY
+--- BLOCK [071] ---
+DUMMY
+--- BLOCK [072] ---
+DUMMY
+--- BLOCK [073] ---
+DUMMY
+--- BLOCK [074] ---
+DUMMY
+--- BLOCK [075] ---
+DUMMY
+--- BLOCK [076] ---
+DUMMY
+--- BLOCK [077] ---
+Grebas de cuero S
+--- BLOCK [078] ---
+Calzas de cuero S
+--- BLOCK [079] ---
+Pernera de piscine S
+--- BLOCK [080] ---
+Calzas de piscine S
+--- BLOCK [081] ---
+Grebas de malla S
+--- BLOCK [082] ---
+Calzas de malla S
+--- BLOCK [083] ---
+Botas Loc Lac S
+--- BLOCK [084] ---
+Polainas Loc Lac S
+--- BLOCK [085] ---
+Grebas de cazador S
+--- BLOCK [086] ---
+Calzas de cazador S
+--- BLOCK [087] ---
+Grebas de hueso S
+--- BLOCK [088] ---
+Calzas de hueso S
+--- BLOCK [089] ---
+Grebas de aleación S
+--- BLOCK [090] ---
+Calzas de aleación S
+--- BLOCK [091] ---
+Grebas de Jaggi S
+--- BLOCK [092] ---
+Calzas de Jaggi S
+--- BLOCK [093] ---
+Botas de Bnahabra S
+--- BLOCK [094] ---
+Pantalón Bnahabra S
+--- BLOCK [095] ---
+Grebas Rhenoplos S
+--- BLOCK [096] ---
+Calzas Rhenoplos S
+--- BLOCK [097] ---
+Grebas de Qurupeco S
+--- BLOCK [098] ---
+Calzas de Qurupeco S
+--- BLOCK [099] ---
+Grebas de Qurupeco U
+--- BLOCK [100] ---
+Calzas de Qurupeco U
+--- BLOCK [101] ---
+Grebas de Ludroth S
+--- BLOCK [102] ---
+Calzas de Ludroth S
+--- BLOCK [103] ---
+Grebas de Ludroth U
+--- BLOCK [104] ---
+Calzas de Ludroth U
+--- BLOCK [105] ---
+Grebas de Baggi S
+--- BLOCK [106] ---
+Calzas de Baggi S
+--- BLOCK [107] ---
+Grebas de Wroggi S
+--- BLOCK [108] ---
+Calzas de Wroggi S
+--- BLOCK [109] ---
+Grebas de Arzuros S
+--- BLOCK [110] ---
+Calzas de Arzuros S
+--- BLOCK [111] ---
+Grebas de Lagombi S
+--- BLOCK [112] ---
+Calzas de Lagombi S
+--- BLOCK [113] ---
+Grebas de Volvidon S
+--- BLOCK [114] ---
+Calzas de Volvidon S
+--- BLOCK [115] ---
+Grebas de Barroth S
+--- BLOCK [116] ---
+Calzas de Barroth S
+--- BLOCK [117] ---
+Grebas de Barroth U
+--- BLOCK [118] ---
+Calzas de Barroth U
+--- BLOCK [119] ---
+Grebas de Gobul S
+--- BLOCK [120] ---
+Calzas de Gobul S
+--- BLOCK [121] ---
+Botas bardo gremio S
+--- BLOCK [122] ---
+Polainas bardo gr. S
+--- BLOCK [123] ---
+Calcetines coleg. S
+--- BLOCK [124] ---
+Sandalias coleg. S
+--- BLOCK [125] ---
+Grebas de Rathian S
+--- BLOCK [126] ---
+Calzas de Rathian S
+--- BLOCK [127] ---
+Grebas corazón wyv.
+--- BLOCK [128] ---
+Calzas corazón wyv.
+--- BLOCK [129] ---
+Grebas de Gigginox S
+--- BLOCK [130] ---
+Calzas de Gigginox S
+--- BLOCK [131] ---
+Grebas de Gigginox U
+--- BLOCK [132] ---
+Calzas de Gigginox U
+--- BLOCK [133] ---
+Grebas de lingote S
+--- BLOCK [134] ---
+Calzas de lingote S
+--- BLOCK [135] ---
+Grebas de Dober
+--- BLOCK [136] ---
+Calzas de Dober
+--- BLOCK [137] ---
+Hakama cielo Yukumo
+--- BLOCK [138] ---
+Hakama tierra Yukumo
+--- BLOCK [139] ---
+Espinil. Aelucanth
+--- BLOCK [140] ---
+Escarpe de Aelucanth
+--- BLOCK [141] ---
+Espinillera Rhopessa
+--- BLOCK [142] ---
+Escarpe de Rhopessa
+--- BLOCK [143] ---
+Raíz de Mosgharl
+--- BLOCK [144] ---
+Semilla de Mosgharl
+--- BLOCK [145] ---
+Grebas artesanas
+--- BLOCK [146] ---
+Calzas artesanas
+--- BLOCK [147] ---
+Grebas Lagiacrus S
+--- BLOCK [148] ---
+Calzas Lagiacrus S
+--- BLOCK [149] ---
+Grebas Lagiacrus U
+--- BLOCK [150] ---
+Calzas Lagiacrus U
+--- BLOCK [151] ---
+Grebas de Rathalos S
+--- BLOCK [152] ---
+Calzas de Rathalos S
+--- BLOCK [153] ---
+Grebas alma wyvern
+--- BLOCK [154] ---
+Calzas alma wyvern
+--- BLOCK [155] ---
+Grebas de Barioth S
+--- BLOCK [156] ---
+Calzas de Barioth S
+--- BLOCK [157] ---
+Grebas de Barioth U
+--- BLOCK [158] ---
+Calzas de Barioth U
+--- BLOCK [159] ---
+Grebas de Diablos S
+--- BLOCK [160] ---
+Calzas de Diablos S
+--- BLOCK [161] ---
+Grebas de Diablos U
+--- BLOCK [162] ---
+Calzas de Diablos U
+--- BLOCK [163] ---
+Grebas de Uragaan S
+--- BLOCK [164] ---
+Calzas de Uragaan S
+--- BLOCK [165] ---
+Grebas de Uragaan U
+--- BLOCK [166] ---
+Calzas de Uragaan U
+--- BLOCK [167] ---
+Grebas de Agnaktor S
+--- BLOCK [168] ---
+Calzas de Agnaktor S
+--- BLOCK [169] ---
+Grebas de Agnaktor U
+--- BLOCK [170] ---
+Calzas de Agnaktor U
+--- BLOCK [171] ---
+Grebas Vangis
+--- BLOCK [172] ---
+Calzas Vangis
+--- BLOCK [173] ---
+Grebas de Damasco
+--- BLOCK [174] ---
+Calzas de Damasco
+--- BLOCK [175] ---
+DUMMY
+--- BLOCK [176] ---
+DUMMY
+--- BLOCK [177] ---
+DUMMY
+--- BLOCK [178] ---
+DUMMY
+--- BLOCK [179] ---
+Gusoku Yamato
+--- BLOCK [180] ---
+Gusoku Mutsu
+--- BLOCK [181] ---
+Hakama Hyuga
+--- BLOCK [182] ---
+Hakama Amagi
+--- BLOCK [183] ---
+Escama Escadora
+--- BLOCK [184] ---
+Concha Escadora
+--- BLOCK [185] ---
+Grebas de Zinogre
+--- BLOCK [186] ---
+Calzas de Zinogre
+--- BLOCK [187] ---
+Grebas Nibelsnarf S
+--- BLOCK [188] ---
+Calzas Nibelsnarf S
+--- BLOCK [189] ---
+Grebas Duramboros S
+--- BLOCK [190] ---
+Calzas Duramboros S
+--- BLOCK [191] ---
+Grebas de Nargacuga
+--- BLOCK [192] ---
+Calzas de Nargacuga
+--- BLOCK [193] ---
+Grebas de Plesioth
+--- BLOCK [194] ---
+Calzas de Plesioth
+--- BLOCK [195] ---
+Grebas de Brachydios
+--- BLOCK [196] ---
+Calzas de Brachydios
+--- BLOCK [197] ---
+Pernera floral
+--- BLOCK [198] ---
+Pernera campanilla
+--- BLOCK [199] ---
+Alpargata de soldado
+--- BLOCK [200] ---
+Alpargata de arquero
+--- BLOCK [201] ---
+DUMMY
+--- BLOCK [202] ---
+DUMMY
+--- BLOCK [203] ---
+DUMMY
+--- BLOCK [204] ---
+DUMMY
+--- BLOCK [205] ---
+DUMMY
+--- BLOCK [206] ---
+DUMMY
+--- BLOCK [207] ---
+DUMMY
+--- BLOCK [208] ---
+DUMMY
+--- BLOCK [209] ---
+DUMMY
+--- BLOCK [210] ---
+DUMMY
+--- BLOCK [211] ---
+DUMMY
+--- BLOCK [212] ---
+DUMMY
+--- BLOCK [213] ---
+Grebas de lingote X
+--- BLOCK [214] ---
+Calzas de lingote X
+--- BLOCK [215] ---
+Botas de Bnahabra X
+--- BLOCK [216] ---
+Pantalón Bnahabra X
+--- BLOCK [217] ---
+Grebas Rhenoplos X
+--- BLOCK [218] ---
+Calzas Rhenoplos X
+--- BLOCK [219] ---
+Grebas de Jaggi X
+--- BLOCK [220] ---
+Calzas de Jaggi X
+--- BLOCK [221] ---
+Grebas de Baggi X
+--- BLOCK [222] ---
+Calzas de Baggi X
+--- BLOCK [223] ---
+Grebas de Wroggi X
+--- BLOCK [224] ---
+Calzas de Wroggi X
+--- BLOCK [225] ---
+Grebas de Arzuros X
+--- BLOCK [226] ---
+Calzas de Arzuros X
+--- BLOCK [227] ---
+Grebas de Lagombi X
+--- BLOCK [228] ---
+Calzas de Lagombi X
+--- BLOCK [229] ---
+Grebas de Volvidon X
+--- BLOCK [230] ---
+Calzas de Volvidon X
+--- BLOCK [231] ---
+Grebas de Qurupeco X
+--- BLOCK [232] ---
+Calzas de Qurupeco X
+--- BLOCK [233] ---
+Grebas de Qurupeco Z
+--- BLOCK [234] ---
+Calzas de Qurupeco Z
+--- BLOCK [235] ---
+Grebas de Ludroth X
+--- BLOCK [236] ---
+Calzas de Ludroth X
+--- BLOCK [237] ---
+Grebas de Ludroth Z
+--- BLOCK [238] ---
+Calzas de Ludroth Z
+--- BLOCK [239] ---
+Grebas de Barroth X
+--- BLOCK [240] ---
+Calzas de Barroth X
+--- BLOCK [241] ---
+Grebas de Barroth Z
+--- BLOCK [242] ---
+Calzas de Barroth Z
+--- BLOCK [243] ---
+Grebas de Gobul X
+--- BLOCK [244] ---
+Calzas de Gobul X
+--- BLOCK [245] ---
+Grebas de Rathalos X
+--- BLOCK [246] ---
+Calzas de Rathalos X
+--- BLOCK [247] ---
+Grebas alma wyvern Z
+--- BLOCK [248] ---
+Calzas alma wyvern Z
+--- BLOCK [249] ---
+Grebas argénteas
+--- BLOCK [250] ---
+Calzas argénteas
+--- BLOCK [251] ---
+Grebas de Rathian X
+--- BLOCK [252] ---
+Calzas de Rathian X
+--- BLOCK [253] ---
+Greb. corazón wyv. Z
+--- BLOCK [254] ---
+Calz. corazón wyv. Z
+--- BLOCK [255] ---
+Grebas lunares oro
+--- BLOCK [256] ---
+Calzas lunares oro
+--- BLOCK [257] ---
+Grebas Lagiacrus X
+--- BLOCK [258] ---
+Calzas Lagiacrus X
+--- BLOCK [259] ---
+Grebas Lagiacrus Z
+--- BLOCK [260] ---
+Calzas Lagiacrus Z
+--- BLOCK [261] ---
+Grebas tenebrosas
+--- BLOCK [262] ---
+Calzas tenebrosas
+--- BLOCK [263] ---
+Grebas de Gigginox X
+--- BLOCK [264] ---
+Calzas de Gigginox X
+--- BLOCK [265] ---
+Grebas de Gigginox Z
+--- BLOCK [266] ---
+Calzas de Gigginox Z
+--- BLOCK [267] ---
+Grebas de Barioth X
+--- BLOCK [268] ---
+Calzas de Barioth X
+--- BLOCK [269] ---
+Grebas de Barioth Z
+--- BLOCK [270] ---
+Calzas de Barioth Z
+--- BLOCK [271] ---
+Grebas de Diablos X
+--- BLOCK [272] ---
+Calzas de Diablos X
+--- BLOCK [273] ---
+Grebas de Diablos Z
+--- BLOCK [274] ---
+Calzas de Diablos Z
+--- BLOCK [275] ---
+Grebas de Uragaan X
+--- BLOCK [276] ---
+Calzas de Uragaan X
+--- BLOCK [277] ---
+Grebas de Uragaan Z
+--- BLOCK [278] ---
+Calzas de Uragaan Z
+--- BLOCK [279] ---
+Grebas de Agnaktor X
+--- BLOCK [280] ---
+Calzas de Agnaktor X
+--- BLOCK [281] ---
+Grebas de Agnaktor Z
+--- BLOCK [282] ---
+Calzas de Agnaktor Z
+--- BLOCK [283] ---
+Grebas de Helios X
+--- BLOCK [284] ---
+Calzas de Helios X
+--- BLOCK [285] ---
+Grebas de Helios Z
+--- BLOCK [286] ---
+Calzas de Helios Z
+--- BLOCK [287] ---
+Grebas de Selene X
+--- BLOCK [288] ---
+Calzas de Selene X
+--- BLOCK [289] ---
+Grebas de Selene Z
+--- BLOCK [290] ---
+Calzas de Selene Z
+--- BLOCK [291] ---
+Gran Gusoku Yamato
+--- BLOCK [292] ---
+Gran Gusoku Mutsu
+--- BLOCK [293] ---
+Gran Hakama Hyuga
+--- BLOCK [294] ---
+Gran Hakama Amagi
+--- BLOCK [295] ---
+Real Yamato Gusoku
+--- BLOCK [296] ---
+Real Mutsu Gusoku
+--- BLOCK [297] ---
+Real Hyuga Hakama
+--- BLOCK [298] ---
+Real Amagi Hakama
+--- BLOCK [299] ---
+Grebas Vangis X
+--- BLOCK [300] ---
+Calzas Vangis X
+--- BLOCK [301] ---
+Escama Escadora X
+--- BLOCK [302] ---
+Concha Escadora X
+--- BLOCK [303] ---
+Grebas de Zinogre X
+--- BLOCK [304] ---
+Calzas de Zinogre X
+--- BLOCK [305] ---
+Grebas de Zinogre Z
+--- BLOCK [306] ---
+Calzas de Zinogre Z
+--- BLOCK [307] ---
+Grebas Nibelsnarf X
+--- BLOCK [308] ---
+Calzas Nibelsnarf X
+--- BLOCK [309] ---
+Grebas Duramboros X
+--- BLOCK [310] ---
+Calzas Duramboros X
+--- BLOCK [311] ---
+Grebas Duramboros Z
+--- BLOCK [312] ---
+Calzas Duramboros Z
+--- BLOCK [313] ---
+Grebas Nargacuga X
+--- BLOCK [314] ---
+Calzas Nargacuga X
+--- BLOCK [315] ---
+Grebas Nargacuga Z
+--- BLOCK [316] ---
+Calzas Nargacuga Z
+--- BLOCK [317] ---
+Polainas radiantes
+--- BLOCK [318] ---
+Polainas silueta
+--- BLOCK [319] ---
+Grebas de Plesioth X
+--- BLOCK [320] ---
+Calzas de Plesioth X
+--- BLOCK [321] ---
+Grebas de Plesioth Z
+--- BLOCK [322] ---
+Calzas de Plesioth Z
+--- BLOCK [323] ---
+Grebas Brachydios X
+--- BLOCK [324] ---
+Calzas Brachydios X
+--- BLOCK [325] ---
+Mascarón de Miralis
+--- BLOCK [326] ---
+Ancla de Miralis
+--- BLOCK [327] ---
+Grebas de Damasco X
+--- BLOCK [328] ---
+Calzas de Damasco X
+--- BLOCK [329] ---
+Grebas de Dober X
+--- BLOCK [330] ---
+Calzas de Dober X
+--- BLOCK [331] ---
+DUMMY
+--- BLOCK [332] ---
+DUMMY
+--- BLOCK [333] ---
+DUMMY
+--- BLOCK [334] ---
+DUMMY
+--- BLOCK [335] ---
+Espinil. Aelucanth X
+--- BLOCK [336] ---
+Escarpe Aelucanth X
+--- BLOCK [337] ---
+Espinil. Rhopessa X
+--- BLOCK [338] ---
+Escarpe Rhopessa X
+--- BLOCK [339] ---
+Raíz de Mosgharl X
+--- BLOCK [340] ---
+Semilla Mosgharl X
+--- BLOCK [341] ---
+Grebas artesanas X
+--- BLOCK [342] ---
+Calzas artesanas X
+--- BLOCK [343] ---
+Quijote floral
+--- BLOCK [344] ---
+Quijote campanilla
+--- BLOCK [345] ---
+Alpargata montaraz
+--- BLOCK [346] ---
+Alpargata de tirador
+--- BLOCK [347] ---
+Botas bardo gremio X
+--- BLOCK [348] ---
+Polainas bardo gr. X
+--- BLOCK [349] ---
+Calcetines coleg. X
+--- BLOCK [350] ---
+Sandalias coleg. X
+--- BLOCK [351] ---
+DUMMY
+--- BLOCK [352] ---
+DUMMY
+--- BLOCK [353] ---
+Calcetines marinero
+--- BLOCK [354] ---
+Sandalias marinero
+--- BLOCK [355] ---
+Tobillera Chakra
+--- BLOCK [356] ---
+DUMMY
+--- BLOCK [357] ---
+DUMMY
+--- BLOCK [358] ---
+DUMMY
+--- BLOCK [359] ---
+DUMMY
+--- BLOCK [360] ---
+DUMMY
+--- BLOCK [361] ---
+DUMMY
+--- BLOCK [362] ---
+DUMMY
+--- BLOCK [363] ---
+DUMMY
+--- BLOCK [364] ---
+DUMMY
+--- BLOCK [365] ---
+DUMMY
+--- BLOCK [366] ---
+DUMMY
+--- BLOCK [367] ---
+DUMMY
+--- BLOCK [368] ---
+DUMMY
+--- BLOCK [369] ---
+DUMMY
+--- BLOCK [370] ---
+Perneras cuero negro
+--- BLOCK [371] ---
+Pantalón cuero negro
+--- BLOCK [372] ---
+DUMMY
+--- BLOCK [373] ---
+DUMMY
+--- BLOCK [374] ---
+DUMMY
+--- BLOCK [375] ---
+DUMMY
+--- BLOCK [376] ---
+DUMMY
+--- BLOCK [377] ---
+DUMMY
+--- BLOCK [378] ---

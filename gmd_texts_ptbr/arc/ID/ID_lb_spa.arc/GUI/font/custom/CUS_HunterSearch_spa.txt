@@ -50,7 +50,7 @@ RC
 --- BLOCK ---
 %3d p
 --- BLOCK ---
-Aldeia de Moga
+Vila Moga
 --- BLOCK ---
 Porto Tanzia
 --- BLOCK ---

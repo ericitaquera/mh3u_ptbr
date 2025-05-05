@@ -1,0 +1,256 @@
+TMSG_WSWORD
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Cortadoras em Conjunto
+--- BLOCK ---
+Cortadoras em Conjunto+
+--- BLOCK ---
+Cortadoras Duplas
+--- BLOCK ---
+Machados Duplos
+--- BLOCK ---
+Machados duplos+
+--- BLOCK ---
+Maças duplas+
+--- BLOCK ---
+Furacão
+--- BLOCK ---
+Furacão+
+--- BLOCK ---
+Ciclone
+--- BLOCK ---
+Machados de tornado
+--- BLOCK ---
+Tufão
+--- BLOCK ---
+Cortadoras Secta
+--- BLOCK ---
+Cortadoras Secta+
+--- BLOCK ---
+Lâminas de demolição
+--- BLOCK ---
+Destruidor espectral
+--- BLOCK ---
+Fatiadoras juramentadas
+--- BLOCK ---
+Fatiadoras juramentadas+
+--- BLOCK ---
+Sabres sagrados
+--- BLOCK ---
+Sabres cab. Guilda
+--- BLOCK ---
+Sabres maestros
+--- BLOCK ---
+Serras mec. duplas
+--- BLOCK ---
+Serras mec. duplas+
+--- BLOCK ---
+Guilhotinas
+--- BLOCK ---
+Serras de gólem
+--- BLOCK ---
+Canibais de gólem
+--- BLOCK ---
+Macerad. tipo 51
+--- BLOCK ---
+Mortesnarfs
+--- BLOCK ---
+Supermortesnarfs
+--- BLOCK ---
+Insecticortadores
+--- BLOCK ---
+Insecticortadores+
+--- BLOCK ---
+Insectirrasgadores
+--- BLOCK ---
+Insectiguadañas
+--- BLOCK ---
+Entomoteos
+--- BLOCK ---
+Aturdidores Gobul
+--- BLOCK ---
+Aturdidores Gobul+
+--- BLOCK ---
+Espada Plegiaturdio
+--- BLOCK ---
+Lâminas Jaggidas
+--- BLOCK ---
+Lâminas Jaggidas+
+--- BLOCK ---
+Lâminas de líder
+--- BLOCK ---
+Tormenta chamas
+--- BLOCK ---
+Tormenta chamas+
+--- BLOCK ---
+Salamandras
+--- BLOCK ---
+Ignis Noire
+--- BLOCK ---
+Agnaktor Inferno
+--- BLOCK ---
+Dicotomia
+--- BLOCK ---
+Elemandras
+--- BLOCK ---
+Acrus gêmeos
+--- BLOCK ---
+Acrus gêmeos+
+--- BLOCK ---
+Levin Acrus
+--- BLOCK ---
+Neo Acr. gêmeos
+--- BLOCK ---
+Rayibranco Acrusnov
+--- BLOCK ---
+Foices de osso
+--- BLOCK ---
+Foices de osso+
+--- BLOCK ---
+Foices de líder
+--- BLOCK ---
+Dupla Ludroth
+--- BLOCK ---
+Dupla Ludroth+
+--- BLOCK ---
+Duplo Droth
+--- BLOCK ---
+Gêmeos ocultos
+--- BLOCK ---
+Asas noturnas
+--- BLOCK ---
+Cortadoras Virnar
+--- BLOCK ---
+Asas negras noturnas
+--- BLOCK ---
+Cortadoras eclipse
+--- BLOCK ---
+Cimitarras de Alkaid
+--- BLOCK ---
+Fulgor do usurpador
+--- BLOCK ---
+Faíscas do déspota
+--- BLOCK ---
+Milagre do opressor
+--- BLOCK ---
+Lâminas gêmeas escuras
+--- BLOCK ---
+Cúmplices obscuros
+--- BLOCK ---
+Garras de Brimstren
+--- BLOCK ---
+Soberba estígia
+--- BLOCK ---
+Cimitarras Plesioth
+--- BLOCK ---
+Cimitarras Plesioth+
+--- BLOCK ---
+Machetes Plesioth
+--- BLOCK ---
+Fatiadores verdes
+--- BLOCK ---
+Fatiadores de alu.
+--- BLOCK ---
+Aban. Plesioth jade
+--- BLOCK ---
+Aban. guerra jade
+--- BLOCK ---
+Asas sanguinárias
+--- BLOCK ---
+Asas sanguinárias+
+--- BLOCK ---
+Asas venenosas
+--- BLOCK ---
+Asas sombrias
+--- BLOCK ---
+Asas Nox sombrias
+--- BLOCK ---
+Boltgeist
+--- BLOCK ---
+Asas raio duplas
+--- BLOCK ---
+Raios letais duplos
+--- BLOCK ---
+Chamas fraternas
+--- BLOCK ---
+Fogos fraternos
+--- BLOCK ---
+Amante de wyverns
+--- BLOCK ---
+Luta wyvern
+--- BLOCK ---
+Conciliação wyvern
+--- BLOCK ---
+Cortadoras de neve
+--- BLOCK ---
+Cortadoras de neve+
+--- BLOCK ---
+Irmãs de neve
+--- BLOCK ---
+Neviscarioths
+--- BLOCK ---
+Neviscarioths+
+--- BLOCK ---
+Talhadores de Gelo asalt.
+--- BLOCK ---
+Ventus Vindictus
+--- BLOCK ---
+Selvageria Implacável
+--- BLOCK ---
+Esmagador Diablos
+--- BLOCK ---
+Esmagador Diablos+
+--- BLOCK ---
+Triturador Diablos
+--- BLOCK ---
+Secta Diablos
+--- BLOCK ---
+Dextraos Sinistrus
+--- BLOCK ---
+Fúria e rancor
+--- BLOCK ---
+Depredação furiosa
+--- BLOCK ---
+Ira de Nerón
+--- BLOCK ---
+Lâminas desgastadas
+--- BLOCK ---
+Lâminas estragadas
+--- BLOCK ---
+Cisma duradouro
+--- BLOCK ---
+Sacrifício duradouro
+--- BLOCK ---
+Cort. em Conj. Mercú.
+--- BLOCK ---
+Cort. em Conj. Netuno
+--- BLOCK ---
+Deuhojas pelágicas
+--- BLOCK ---
+Espantalho Shaka
+--- BLOCK ---
+Espantalho Chachi
+--- BLOCK ---
+Espantal. Chum-Chum
+--- BLOCK ---
+Sabres devoradores
+--- BLOCK ---
+Utensílios devor.
+--- BLOCK ---
+Equip. wyvern
+--- BLOCK ---
+Fritanga profunda
+--- BLOCK ---
+Nova de Megido
+--- BLOCK ---
+Punho Resoluto
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bushido
+--- BLOCK ---

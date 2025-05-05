@@ -1,0 +1,3104 @@
+TMSG_ITEM
+--- BLOCK ---
+－－－－－－
+--- BLOCK ---
+(Nenhum)
+--- BLOCK ---
+Livro combos 1
+--- BLOCK ---
+Livro combos 2
+--- BLOCK ---
+Livro combos 3
+--- BLOCK ---
+Livro combos 4
+--- BLOCK ---
+Livro combos 5
+--- BLOCK ---
+Guia organizador
+--- BLOCK ---
+Guia chamarilero
+--- BLOCK ---
+Poção
+--- BLOCK ---
+Megapoção
+--- BLOCK ---
+Nutrientes
+--- BLOCK ---
+Meganutrientes
+--- BLOCK ---
+Antídoto
+--- BLOCK ---
+Imunizador
+--- BLOCK ---
+Suco de poder
+--- BLOCK ---
+Megasuco
+--- BLOCK ---
+Droga demoníaca
+--- BLOCK ---
+Megadroga demon.
+--- BLOCK ---
+Píldora de poder
+--- BLOCK ---
+Pele de armadura
+--- BLOCK ---
+Megapele armad.
+--- BLOCK ---
+Píldora armadura
+--- BLOCK ---
+Bebida gelada
+--- BLOCK ---
+Bebida quente
+--- BLOCK ---
+Limpa
+--- BLOCK ---
+Psicosoro
+--- BLOCK ---
+Medicina herbal
+--- BLOCK ---
+Poção máx.
+--- BLOCK ---
+Poção antiga
+--- BLOCK ---
+Catalisador
+--- BLOCK ---
+Bebida energética
+--- BLOCK ---
+Filtro ar
+--- BLOCK ---
+Megafiltro ar
+--- BLOCK ---
+Pólvora
+--- BLOCK ---
+Cristais vida
+--- BLOCK ---
+Pó vida
+--- BLOCK ---
+Amuleto mistério
+--- BLOCK ---
+Amul. brilhante
+--- BLOCK ---
+Amuleto gasto
+--- BLOCK ---
+Amuleto eterno
+--- BLOCK ---
+Amuleto de poder
+--- BLOCK ---
+Garra de poder
+--- BLOCK ---
+Amuleto armadura
+--- BLOCK ---
+Garra armadura
+--- BLOCK ---
+Tranquilizante
+--- BLOCK ---
+Carne crua
+--- BLOCK ---
+Carne envenenada
+--- BLOCK ---
+Carne tóxica
+--- BLOCK ---
+Carne drogada
+--- BLOCK ---
+Filé malpassado
+--- BLOCK ---
+Filé ao ponto
+--- BLOCK ---
+Carne tostada
+--- BLOCK ---
+Carne quente
+--- BLOCK ---
+Carne fria
+--- BLOCK ---
+Fígado rosa
+--- BLOCK ---
+Carne w. étnica
+--- BLOCK ---
+Bumerangue
+--- BLOCK ---
+Faca arremesso
+--- BLOCK ---
+Faca envenenada
+--- BLOCK ---
+Faca sonífera
+--- BLOCK ---
+Faca paralisante
+--- BLOCK ---
+Faca tranquiliz.
+--- BLOCK ---
+Material bomba
+--- BLOCK ---
+Bola de tinta
+--- BLOCK ---
+Bomba de luz
+--- BLOCK ---
+Bomba sônica
+--- BLOCK ---
+Estrume
+--- BLOCK ---
+Estrume gigante
+--- BLOCK ---
+Lama fértil
+--- BLOCK ---
+Bomba estrume
+--- BLOCK ---
+Bomba de fumaça
+--- BLOCK ---
+Bomba fumaça ven.
+--- BLOCK ---
+Transportador
+--- BLOCK ---
+Bomba tranquil.
+--- BLOCK ---
+Supr. oxigênio
+--- BLOCK ---
+Teia
+--- BLOCK ---
+Rede
+--- BLOCK ---
+Ferram. armadilha
+--- BLOCK ---
+Armadilha escolho
+--- BLOCK ---
+Armadilha choque
+--- BLOCK ---
+Barril pequeno
+--- BLOCK ---
+Barril grande
+--- BLOCK ---
+Bomba barril pq.
+--- BLOCK ---
+Bomba barr. pq.+
+--- BLOCK ---
+Bomba barril gr.
+--- BLOCK ---
+Bomba barr. gr.+
+--- BLOCK ---
+Bomba de ricochete
+--- BLOCK ---
+Bomba ricochete +
+--- BLOCK ---
+Bomba vida Felyne
+--- BLOCK ---
+Baguio
+--- BLOCK ---
+Casc. osso pq
+--- BLOCK ---
+Casc. osso gr
+--- BLOCK ---
+Disp. normal Nv1
+--- BLOCK ---
+Disp. normal Nv2
+--- BLOCK ---
+Disp. normal Nv3
+--- BLOCK ---
+Disp perf. Nv1
+--- BLOCK ---
+Disp perf. Nv2
+--- BLOCK ---
+Disp perf. Nv3
+--- BLOCK ---
+Disp shot Nv1
+--- BLOCK ---
+Disp shot Nv2
+--- BLOCK ---
+Disp shot Nv3
+--- BLOCK ---
+Disp explo. Nv1
+--- BLOCK ---
+Disp explo. Nv2
+--- BLOCK ---
+Disp explo. Nv3
+--- BLOCK ---
+Disp. grupo Nv1
+--- BLOCK ---
+Disp. grupo Nv2
+--- BLOCK ---
+Disp. grupo Nv3
+--- BLOCK ---
+Tiro chama
+--- BLOCK ---
+Tiro água
+--- BLOCK ---
+Tiro trovão
+--- BLOCK ---
+Disp. congelante
+--- BLOCK ---
+Tiro dragão
+--- BLOCK ---
+Disp. recup. Nv1
+--- BLOCK ---
+Disp. recup. Nv2
+--- BLOCK ---
+Disp veneno Nv1
+--- BLOCK ---
+Disp veneno Nv2
+--- BLOCK ---
+Disp. paral. Nv1
+--- BLOCK ---
+Disp. paral. Nv2
+--- BLOCK ---
+Disp. sono Nv1
+--- BLOCK ---
+Disp. sono Nv2
+--- BLOCK ---
+Disp. tranquil.
+--- BLOCK ---
+Tiro tinta
+--- BLOCK ---
+Tiro demônio
+--- BLOCK ---
+DUMMY 1
+--- BLOCK ---
+Tiro armadura
+--- BLOCK ---
+DUMMY 2
+--- BLOCK ---
+Disp. substit. Nv1
+--- BLOCK ---
+Disp. substit. Nv2
+--- BLOCK ---
+Disp. fadiga Nv1
+--- BLOCK ---
+Disp. fadiga Nv2
+--- BLOCK ---
+Disp. cortante
+--- BLOCK ---
+DUMMY 3
+--- BLOCK ---
+DUMMY 4
+--- BLOCK ---
+Fogo wyvern
+--- BLOCK ---
+M. balista sub.
+--- BLOCK ---
+(Sem revest.)
+--- BLOCK ---
+Frasco vazio
+--- BLOCK ---
+Rev. energia
+--- BLOCK ---
+Rev. alcance
+--- BLOCK ---
+Rev. veneno
+--- BLOCK ---
+Rev. paralisante
+--- BLOCK ---
+Rev. sono
+--- BLOCK ---
+Rev. fadiga
+--- BLOCK ---
+Rev. tinta
+--- BLOCK ---
+DUMMY 5
+--- BLOCK ---
+Minhoca
+--- BLOCK ---
+DUMMY 6
+--- BLOCK ---
+Megamosca pesca
+--- BLOCK ---
+Rã
+--- BLOCK ---
+Isca c. faca
+--- BLOCK ---
+Isca peixe sushi
+--- BLOCK ---
+Isca atum
+--- BLOCK ---
+DUMMY 7
+--- BLOCK ---
+Isca peixe dourado
+--- BLOCK ---
+Isca explosiva
+--- BLOCK ---
+DUMMY 8
+--- BLOCK ---
+Bico antigo
+--- BLOCK ---
+Bico ferro
+--- BLOCK ---
+Megabico
+--- BLOCK ---
+Rede insetos ant.
+--- BLOCK ---
+Rede insetos
+--- BLOCK ---
+Megarede insetos
+--- BLOCK ---
+Arpão
+--- BLOCK ---
+Megarpão
+--- BLOCK ---
+Espeto churrasco
+--- BLOCK ---
+Espeto duplo
+--- BLOCK ---
+Pedra de afiar
+--- BLOCK ---
+Binóculos
+--- BLOCK ---
+Lixo
+--- BLOCK ---
+Chifre atraente
+--- BLOCK ---
+Flauta Saúde
+--- BLOCK ---
+Flauta antídoto
+--- BLOCK ---
+Flauta demônio
+--- BLOCK ---
+Flauta armadura
+--- BLOCK ---
+Mel
+--- BLOCK ---
+Erva
+--- BLOCK ---
+Erva antídoto
+--- BLOCK ---
+Erva fogo
+--- BLOCK ---
+DUMMY 9
+--- BLOCK ---
+Hera
+--- BLOCK ---
+Erva sonífera
+--- BLOCK ---
+Planta seiva
+--- BLOCK ---
+Vida Felyne
+--- BLOCK ---
+Flor cacto
+--- BLOCK ---
+Erva aérea
+--- BLOCK ---
+Pimenta picante
+--- BLOCK ---
+DUMMY 10
+--- BLOCK ---
+Cogumelo azul
+--- BLOCK ---
+Nitrocogumelo
+--- BLOCK ---
+Paracogumelo
+--- BLOCK ---
+Cogumelo
+--- BLOCK ---
+Cogumelo excitante
+--- BLOCK ---
+DUMMY 11
+--- BLOCK ---
+Cogumelo dragão
+--- BLOCK ---
+Paracogumelo
+--- BLOCK ---
+Bag. tinta
+--- BLOCK ---
+Semente poder
+--- BLOCK ---
+Semente armadura
+--- BLOCK ---
+Semente dragão
+--- BLOCK ---
+Noz frágil
+--- BLOCK ---
+Baguio agulha
+--- BLOCK ---
+DUMMY 12
+--- BLOCK ---
+Baguio bomba
+--- BLOCK ---
+DUMMY 13
+--- BLOCK ---
+DUMMY 14
+--- BLOCK ---
+DUMMY 15
+--- BLOCK ---
+DUMMY 16
+--- BLOCK ---
+Curibaga
+--- BLOCK ---
+Superabóbora
+--- BLOCK ---
+Concha quebrada
+--- BLOCK ---
+Pérola negra
+--- BLOCK ---
+Pérola gigante
+--- BLOCK ---
+Pedra
+--- BLOCK ---
+Minério ferro
+--- BLOCK ---
+Cristal terra
+--- BLOCK ---
+Min. machalita
+--- BLOCK ---
+Min. dragonita
+--- BLOCK ---
+Min. pelagicita
+--- BLOCK ---
+DUMMY 17
+--- BLOCK ---
+DUMMY 18
+--- BLOCK ---
+DUMMY 19
+--- BLOCK ---
+Min. carbalita
+--- BLOCK ---
+Minério eltalita
+--- BLOCK ---
+Minério fucium
+--- BLOCK ---
+Minério flexidur
+--- BLOCK ---
+Minério baticita
+--- BLOCK ---
+Rocha de lava
+--- BLOCK ---
+Pedra fogo
+--- BLOCK ---
+Pedra lava
+--- BLOCK ---
+Pedra de fogo
+--- BLOCK ---
+Cristal leve
+--- BLOCK ---
+Isio
+--- BLOCK ---
+DUMMY 20
+--- BLOCK ---
+Gracio
+--- BLOCK ---
+Pedra antisépt.
+--- BLOCK ---
+Cristal gelo
+--- BLOCK ---
+Pedra armadura
+--- BLOCK ---
+Esfera armadura
+--- BLOCK ---
+Esf. armadura+
+--- BLOCK ---
+Esf. armad. av.
+--- BLOCK ---
+Esf. armad. dura
+--- BLOCK ---
+Esf. armad. pes.
+--- BLOCK ---
+DUMMY 21
+--- BLOCK ---
+Esf. armad. pura
+--- BLOCK ---
+Cavala faca
+--- BLOCK ---
+Peixe sushi
+--- BLOCK ---
+Peixe sonífero
+--- BLOCK ---
+Atum espeto
+--- BLOCK ---
+Peixe estrondo
+--- BLOCK ---
+Peixe frágil
+--- BLOCK ---
+Arrowana estour.
+--- BLOCK ---
+Arrowana bomba
+--- BLOCK ---
+Atum glutão
+--- BLOCK ---
+Peixinho dourado
+--- BLOCK ---
+Wanchovy
+--- BLOCK ---
+DUMMY 22
+--- BLOCK ---
+Corta pescoço azul
+--- BLOCK ---
+Grande caracola
+--- BLOCK ---
+DUMMY 23
+--- BLOCK ---
+Casca inseto
+--- BLOCK ---
+Bicho inhame
+--- BLOCK ---
+Saltador
+--- BLOCK ---
+DUMMY 215
+--- BLOCK ---
+Pestimontes
+--- BLOCK ---
+Larva serpente
+--- BLOCK ---
+Bicho divino
+--- BLOCK ---
+Bicho amargo
+--- BLOCK ---
+Bicho luminoso
+--- BLOCK ---
+Bicho elétrico
+--- BLOCK ---
+Lumiarañas
+--- BLOCK ---
+Bicho operário
+--- BLOCK ---
+Escarab. assassino
+--- BLOCK ---
+Hercudrome
+--- BLOCK ---
+DUMMY 24
+--- BLOCK ---
+Escaravelho rei
+--- BLOCK ---
+Escaravelho raro
+--- BLOCK ---
+DUMMY 25
+--- BLOCK ---
+Lumiposa
+--- BLOCK ---
+DUMMY 26
+--- BLOCK ---
+Bolsa bomba
+--- BLOCK ---
+Estourador
+--- BLOCK ---
+Bolsa veneno
+--- BLOCK ---
+Bolsa toxinas
+--- BLOCK ---
+DUMMY 27
+--- BLOCK ---
+Bolsa paralisia
+--- BLOCK ---
+Bolsa neural
+--- BLOCK ---
+Bolsa sonífera
+--- BLOCK ---
+Bolsa coma
+--- BLOCK ---
+Bolsa chama
+--- BLOCK ---
+Bolsa infernal
+--- BLOCK ---
+Bolsa explosiva
+--- BLOCK ---
+Bolsa água
+--- BLOCK ---
+Bolsa torrente
+--- BLOCK ---
+DUMMY 217
+--- BLOCK ---
+Bolsa trovão
+--- BLOCK ---
+Bolsa raio
+--- BLOCK ---
+Bolsa gelo
+--- BLOCK ---
+Bolsa congelante
+--- BLOCK ---
+Extrato poder
+--- BLOCK ---
+Extrato pálido
+--- BLOCK ---
+Osso monstro P
+--- BLOCK ---
+Osso monstro M
+--- BLOCK ---
+Osso monstro G
+--- BLOCK ---
+Osso misterioso
+--- BLOCK ---
+Crânio desconh.
+--- BLOCK ---
+Osso
+--- BLOCK ---
+Osso aviar rob.
+--- BLOCK ---
+DUMMY 218
+--- BLOCK ---
+Osso monstro+
+--- BLOCK ---
+Osso afiado
+--- BLOCK ---
+Osso escudo
+--- BLOCK ---
+Osso esmagante
+--- BLOCK ---
+Osso aviar fino
+--- BLOCK ---
+Osso descomunal
+--- BLOCK ---
+Osso robusto
+--- BLOCK ---
+Osso dragão
+--- BLOCK ---
+Presa wyvern
+--- BLOCK ---
+Garra wyvern
+--- BLOCK ---
+Pedra wyvern
+--- BLOCK ---
+Pedra wyvern G
+--- BLOCK ---
+Gema ave wyvern
+--- BLOCK ---
+Gema frágil wyv.
+--- BLOCK ---
+Sangue dr. anc.
+--- BLOCK ---
+DUMMY 28
+--- BLOCK ---
+Gema celeste
+--- BLOCK ---
+Esfera celeste
+--- BLOCK ---
+Escama linda
+--- BLOCK ---
+Estrela do mar
+--- BLOCK ---
+Peixe armadura
+--- BLOCK ---
+Pele de qualidade
+--- BLOCK ---
+Remo potente
+--- BLOCK ---
+Presa curva
+--- BLOCK ---
+Peça osso drg.
+--- BLOCK ---
+Peça Abalone
+--- BLOCK ---
+Peça fóssil
+--- BLOCK ---
+Pena atordoante
+--- BLOCK ---
+Saturnio
+--- BLOCK ---
+Narval místico
+--- BLOCK ---
+Remo perfeito
+--- BLOCK ---
+Presa Luz Lunar
+--- BLOCK ---
+Escama brilhante
+--- BLOCK ---
+Crânio gigante
+--- BLOCK ---
+Carang. Atlantis
+--- BLOCK ---
+Aguilhão de rainha
+--- BLOCK ---
+Óleo antigo
+--- BLOCK ---
+Pena vistosa
+--- BLOCK ---
+Saturnio anciano
+--- BLOCK ---
+Espírito rainha
+--- BLOCK ---
+Escama rubra
+--- BLOCK ---
+Escama Poseidón
+--- BLOCK ---
+Ovo estranho
+--- BLOCK ---
+Armadilha Saturnio
+--- BLOCK ---
+Criabichos pro
+--- BLOCK ---
+Feromonas loucas
+--- BLOCK ---
+Semente de cogum.
+--- BLOCK ---
+Semente de cogum.+
+--- BLOCK ---
+Abelhas zumbidoras
+--- BLOCK ---
+Buscapeixes
+--- BLOCK ---
+Buscatesouros
+--- BLOCK ---
+Lança extra
+--- BLOCK ---
+Presa escassa
+--- BLOCK ---
+Presa fortuna
+--- BLOCK ---
+Aguilhão de ouro
+--- BLOCK ---
+Ouro wyvern
+--- BLOCK ---
+Tesouro pirata
+--- BLOCK ---
+Ovo de aço
+--- BLOCK ---
+Ovo de prata
+--- BLOCK ---
+Ovo de ouro
+--- BLOCK ---
+M. chifre Kelbi
+--- BLOCK ---
+M. chifre retor.
+--- BLOCK ---
+M. presa Mohran
+--- BLOCK ---
+Porquinho
+--- BLOCK ---
+Porquinho oval
+--- BLOCK ---
+Porquinho Rath
+--- BLOCK ---
+Planta arenosa
+--- BLOCK ---
+Planta pantanosa
+--- BLOCK ---
+Planta flocos
+--- BLOCK ---
+Lâmpada cogum.
+--- BLOCK ---
+Lâmpada Qurupeco
+--- BLOCK ---
+Lâmpada sereia
+--- BLOCK ---
+Fonte oceânica
+--- BLOCK ---
+Fonte bolha
+--- BLOCK ---
+Fonte de magma
+--- BLOCK ---
+Figura ferro
+--- BLOCK ---
+Figura machalita
+--- BLOCK ---
+Figura dragonita
+--- BLOCK ---
+Modelo barc. areia
+--- BLOCK ---
+Modelo zepelín
+--- BLOCK ---
+Porquinho aéreo
+--- BLOCK ---
+Gremial (vermelho)
+--- BLOCK ---
+Gremial (verde)
+--- BLOCK ---
+Gremial (azul)
+--- BLOCK ---
+Grande Porquinho
+--- BLOCK ---
+Coroa inacabada
+--- BLOCK ---
+Gema de coroa
+--- BLOCK ---
+Coroa cegadora
+--- BLOCK ---
+Espada de ouro
+--- BLOCK ---
+Medalhão dourado
+--- BLOCK ---
+Chifre Kelbi
+--- BLOCK ---
+Chif. Kelbi azul
+--- BLOCK ---
+Pele quente
+--- BLOCK ---
+Pele alta qualid.
+--- BLOCK ---
+Pen. Gargwa
+--- BLOCK ---
+DUMMY 29
+--- BLOCK ---
+DUMMY 30
+--- BLOCK ---
+Chifre Anteka
+--- BLOCK ---
+DUMMY 31
+--- BLOCK ---
+Concha Bnahabra
+--- BLOCK ---
+DUMMY 32
+--- BLOCK ---
+Capar. Bnahabra
+--- BLOCK ---
+Asa Bnahabra
+--- BLOCK ---
+DUMMY 33
+--- BLOCK ---
+Afiala Bnahabra
+--- BLOCK ---
+Aguião Bnahabra
+--- BLOCK ---
+Mandíb. Altaroth
+--- BLOCK ---
+DUMMY 34
+--- BLOCK ---
+Estôm. Altaroth
+--- BLOCK ---
+Estômago valioso
+--- BLOCK ---
+Bolsa qualid.
+--- BLOCK ---
+Pele Bullfango
+--- BLOCK ---
+DUMMY 35
+--- BLOCK ---
+Cabeça Bullfango
+--- BLOCK ---
+Fluido monstro
+--- BLOCK ---
+Caldo monstro
+--- BLOCK ---
+Concha Rhenoplos
+--- BLOCK ---
+Osso Rhenoplos
+--- BLOCK ---
+Couro cab. Rheno
+--- BLOCK ---
+DUMMY 36
+--- BLOCK ---
+Capar. Rhenoplos
+--- BLOCK ---
+DUMMY 219
+--- BLOCK ---
+Pele Slagtoth+
+--- BLOCK ---
+DUMMY 37
+--- BLOCK ---
+Aleta grande
+--- BLOCK ---
+DUMMY 38
+--- BLOCK ---
+Aleta qualid.
+--- BLOCK ---
+Grande aleta
+--- BLOCK ---
+Presa afiada
+--- BLOCK ---
+Pele veludo
+--- BLOCK ---
+Pele Sharq
+--- BLOCK ---
+Escama Jaggi
+--- BLOCK ---
+Escama Jaggi+
+--- BLOCK ---
+DUMMY 39
+--- BLOCK ---
+Pele Jaggi
+--- BLOCK ---
+DUMMY 40
+--- BLOCK ---
+DUMMY 41
+--- BLOCK ---
+Presa ave wyvern
+--- BLOCK ---
+Pele Gran Jaggi
+--- BLOCK ---
+Pele Gran Jaggi+
+--- BLOCK ---
+Cota Gran Jaggi
+--- BLOCK ---
+Garra Gran Jaggi
+--- BLOCK ---
+Garra G-Jaggi+
+--- BLOCK ---
+DUMMY 42
+--- BLOCK ---
+Adorno real
+--- BLOCK ---
+Adorno imperial
+--- BLOCK ---
+Cabeça G-Jaggi
+--- BLOCK ---
+DUMMY 43
+--- BLOCK ---
+Pele Baggi
+--- BLOCK ---
+Escama Baggi
+--- BLOCK ---
+Escama Baggi+
+--- BLOCK ---
+DUMMY 44
+--- BLOCK ---
+Pele Gran Baggi
+--- BLOCK ---
+Pele Gran Baggi+
+--- BLOCK ---
+Cota Gran Baggi
+--- BLOCK ---
+Garra Gran Baggi
+--- BLOCK ---
+Garra G-Baggi+
+--- BLOCK ---
+DUMMY 45
+--- BLOCK ---
+Crista do rei
+--- BLOCK ---
+Crista imperial
+--- BLOCK ---
+Escama Wroggi
+--- BLOCK ---
+Escama Wroggi+
+--- BLOCK ---
+DUMMY 46
+--- BLOCK ---
+Pele Wroggi
+--- BLOCK ---
+Presa Wroggi
+--- BLOCK ---
+Pele Wroggi-M
+--- BLOCK ---
+Cota Wroggi-M
+--- BLOCK ---
+Pele Wroggi-M+
+--- BLOCK ---
+Braçadeira Wroggi-M
+--- BLOCK ---
+DUMMY 47
+--- BLOCK ---
+Braçadeira Wroggi-M+
+--- BLOCK ---
+Bico real
+--- BLOCK ---
+Bico imperial
+--- BLOCK ---
+Escama Qurupeco
+--- BLOCK ---
+Escama Qurupeco+
+--- BLOCK ---
+Pedra Qurupeco
+--- BLOCK ---
+Pen. Qurupeco
+--- BLOCK ---
+Pen. brilhante
+--- BLOCK ---
+Asa Qurupeco
+--- BLOCK ---
+Aladura Qurup
+--- BLOCK ---
+Pen. viva
+--- BLOCK ---
+Bico estranho
+--- BLOCK ---
+Bico incrível
+--- BLOCK ---
+Bico sedutor
+--- BLOCK ---
+Pedernal
+--- BLOCK ---
+Sílex qualid.
+--- BLOCK ---
+Escama Qurup-C+
+--- BLOCK ---
+Pedra Qurup-C
+--- BLOCK ---
+Asa Qurup-C
+--- BLOCK ---
+Aladura Qurup-C
+--- BLOCK ---
+Voltipedra
+--- BLOCK ---
+Megavoltipedra
+--- BLOCK ---
+Pele hidra
+--- BLOCK ---
+Pele hidra+
+--- BLOCK ---
+DUMMY 48
+--- BLOCK ---
+Esponja imatura
+--- BLOCK ---
+Esponja qualid.
+--- BLOCK ---
+Pele esponja
+--- BLOCK ---
+Pele esponja+
+--- BLOCK ---
+Cota esponja
+--- BLOCK ---
+Escama Ludroth-R
+--- BLOCK ---
+Escama Ludro-R+
+--- BLOCK ---
+Pedra Ludro-R
+--- BLOCK ---
+Garra Ludroth-R
+--- BLOCK ---
+Garra Ludroth-R+
+--- BLOCK ---
+Zarpa Ludroth-R
+--- BLOCK ---
+Crista Ludroth-R
+--- BLOCK ---
+Crista Ludro-R+
+--- BLOCK ---
+Crista poder
+--- BLOCK ---
+Cauda Ludroth-R
+--- BLOCK ---
+Pele espon. lilás
+--- BLOCK ---
+Cota espon. lilás
+--- BLOCK ---
+Escama Ludro-P+
+--- BLOCK ---
+Pedra Ludroth-P
+--- BLOCK ---
+Garra Ludroth-P+
+--- BLOCK ---
+Zarpa Ludroth-P
+--- BLOCK ---
+Concha Barroth
+--- BLOCK ---
+Caparaz. Barroth
+--- BLOCK ---
+Corteza Barroth
+--- BLOCK ---
+Lombo Barroth
+--- BLOCK ---
+Lombo Barroth+
+--- BLOCK ---
+Placa Barroth
+--- BLOCK ---
+Garra Barroth
+--- BLOCK ---
+Garra Barroth+
+--- BLOCK ---
+Zarpa Barroth
+--- BLOCK ---
+Couro c. Barroth
+--- BLOCK ---
+Coroa Barroth
+--- BLOCK ---
+Cauda Barroth
+--- BLOCK ---
+Capar. Barroth-E
+--- BLOCK ---
+Cortz. Barroth-E
+--- BLOCK ---
+Lombo Barroth-E+
+--- BLOCK ---
+Placa Barroth-E
+--- BLOCK ---
+Garra Barroth-E+
+--- BLOCK ---
+Zarpa Barroth-E
+--- BLOCK ---
+Couro c. Barroth-E
+--- BLOCK ---
+Coroa Barroth-E
+--- BLOCK ---
+Cauda Barroth-E
+--- BLOCK ---
+Látigo Barroth-E
+--- BLOCK ---
+Conglomhelado
+--- BLOCK ---
+DUMMY 49
+--- BLOCK ---
+Pele de Gobul
+--- BLOCK ---
+Pele de Gobul+
+--- BLOCK ---
+Cota de Gobul
+--- BLOCK ---
+Aleta de Gobul
+--- BLOCK ---
+Aleta de Gobul+
+--- BLOCK ---
+Aletín Gobul
+--- BLOCK ---
+Púa de Gobul
+--- BLOCK ---
+Púa de Gobul+
+--- BLOCK ---
+Ponta de Gobul
+--- BLOCK ---
+Bigodes Gobul
+--- BLOCK ---
+Granbigode Gobul
+--- BLOCK ---
+Farol de Gobul
+--- BLOCK ---
+Farol de Gobul+
+--- BLOCK ---
+Faro de Gobul
+--- BLOCK ---
+Escama Rathian
+--- BLOCK ---
+Escama Rathian+
+--- BLOCK ---
+Pedra Rathian
+--- BLOCK ---
+Concha Rathian
+--- BLOCK ---
+Capar. Rathian
+--- BLOCK ---
+Corteza Rathian
+--- BLOCK ---
+Cincha Rathian
+--- BLOCK ---
+Púa de Rathian
+--- BLOCK ---
+Púa de Rathian+
+--- BLOCK ---
+Ponta de Rathian
+--- BLOCK ---
+Placa de Rathian
+--- BLOCK ---
+Manto de Rathian
+--- BLOCK ---
+Rubi de Rathian
+--- BLOCK ---
+DUMMY 50
+--- BLOCK ---
+Escm. Rathian-R+
+--- BLOCK ---
+Pedra Rathian-R
+--- BLOCK ---
+Capar. Rathian-R
+--- BLOCK ---
+Cortz. Rathian-R
+--- BLOCK ---
+Pedra Rathian-D
+--- BLOCK ---
+Cortz. Rathian-D
+--- BLOCK ---
+Ponta Rathian-D
+--- BLOCK ---
+Escama Rathalos
+--- BLOCK ---
+Escama Rathalos+
+--- BLOCK ---
+Pedra Rathalos
+--- BLOCK ---
+Concha Rathalos
+--- BLOCK ---
+Capar. Rathalos
+--- BLOCK ---
+Corteza Rathalos
+--- BLOCK ---
+Cincha Rathalos
+--- BLOCK ---
+Aladura Rathalos
+--- BLOCK ---
+Cauda de Rathalos
+--- BLOCK ---
+Látigo Rathalos
+--- BLOCK ---
+Placa Rathalos
+--- BLOCK ---
+Manto Rathalos
+--- BLOCK ---
+Rubi de Rathalos
+--- BLOCK ---
+Garra wyv. fogo
+--- BLOCK ---
+Espolão wyvern
+--- BLOCK ---
+Tuét. wyv. fogo
+--- BLOCK ---
+Cola wyv. fogo
+--- BLOCK ---
+Elixir de wyvern
+--- BLOCK ---
+Esc. Rathal-C+
+--- BLOCK ---
+Pedra Rathal-C
+--- BLOCK ---
+Capar. Rathal-C
+--- BLOCK ---
+Corteza Rathal-C
+--- BLOCK ---
+Cola de Rathal-C
+--- BLOCK ---
+Látigo Rathal-C
+--- BLOCK ---
+Ala Rathalos-C
+--- BLOCK ---
+Pedra Rathal-P
+--- BLOCK ---
+Corteza Rathal-P
+--- BLOCK ---
+Látigo Rathal-P
+--- BLOCK ---
+DUMMY 215
+--- BLOCK ---
+DUMMY 51
+--- BLOCK ---
+DUMMY 52
+--- BLOCK ---
+Pele Gigginox
+--- BLOCK ---
+Pele Gigginox+
+--- BLOCK ---
+Cota Gigginox
+--- BLOCK ---
+Pele estranha
+--- BLOCK ---
+Pele estranha+
+--- BLOCK ---
+Garra Gigginox
+--- BLOCK ---
+Garra Gigginox+
+--- BLOCK ---
+Zarpa Gigginox
+--- BLOCK ---
+DUMMY 53
+--- BLOCK ---
+DUMMY 54
+--- BLOCK ---
+Fauces temíveis
+--- BLOCK ---
+Glând. venenosa
+--- BLOCK ---
+Glând. ponzoñosa
+--- BLOCK ---
+Glândula letal
+--- BLOCK ---
+Pele Gigginox-A+
+--- BLOCK ---
+Cota Gigginox-A
+--- BLOCK ---
+Garra Giggin-A+
+--- BLOCK ---
+Zarpa Gigginox-A
+--- BLOCK ---
+Escama Lagiacrus
+--- BLOCK ---
+Esc. Lagiacrus+
+--- BLOCK ---
+Pedra Lagiacrus
+--- BLOCK ---
+Concha Choque
+--- BLOCK ---
+Concha Choque+
+--- BLOCK ---
+Concha raio
+--- BLOCK ---
+Pele Lagiacrus
+--- BLOCK ---
+Pele Lagiacrus+
+--- BLOCK ---
+Garra Lagiacrus
+--- BLOCK ---
+Garra Lagiacrus+
+--- BLOCK ---
+Zarpa Lagiacrus
+--- BLOCK ---
+Cola Lagiacrus
+--- BLOCK ---
+Corte Lagiacrus
+--- BLOCK ---
+Cuerno Lagiacrus
+--- BLOCK ---
+Cuer. Lagiacrus+
+--- BLOCK ---
+Safira Lagiacrus
+--- BLOCK ---
+Manto Lagiacrus
+--- BLOCK ---
+Placa Lagiacrus
+--- BLOCK ---
+Escama Lagi-M+
+--- BLOCK ---
+Pedra de Lagi-M
+--- BLOCK ---
+Concha Lagi-M+
+--- BLOCK ---
+Cnch. raio LagiM
+--- BLOCK ---
+Pele de Lagi-M+
+--- BLOCK ---
+Cota Lagiacrus-M
+--- BLOCK ---
+DUMMY 55
+--- BLOCK ---
+DUMMY 56
+--- BLOCK ---
+DUMMY 57
+--- BLOCK ---
+DUMMY 58
+--- BLOCK ---
+Cuerno Lagi-M+
+--- BLOCK ---
+Asta de Lagi-M
+--- BLOCK ---
+DUMMY 59
+--- BLOCK ---
+DUMMY 60
+--- BLOCK ---
+DUMMY 61
+--- BLOCK ---
+Pedra Lagi-A
+--- BLOCK ---
+Cnch. raio LagiA
+--- BLOCK ---
+Cota de Lagi-A
+--- BLOCK ---
+DUMMY 62
+--- BLOCK ---
+DUMMY 63
+--- BLOCK ---
+Asta de Lagi-A
+--- BLOCK ---
+Dinamo de Lagi-A
+--- BLOCK ---
+Concha Barioth
+--- BLOCK ---
+Caparaz. Barioth
+--- BLOCK ---
+Corteza Barioth
+--- BLOCK ---
+Pele Barioth
+--- BLOCK ---
+Pele Barioth+
+--- BLOCK ---
+Pelaje Barioth
+--- BLOCK ---
+Garra Barioth
+--- BLOCK ---
+Garra Barioth+
+--- BLOCK ---
+Zarpa de Barioth
+--- BLOCK ---
+Púa Barioth
+--- BLOCK ---
+DUMMY 64
+--- BLOCK ---
+Cola Barioth
+--- BLOCK ---
+Látigo Barioth
+--- BLOCK ---
+Colmillos âmbar
+--- BLOCK ---
+Colmillos âmbar+
+--- BLOCK ---
+Colm. âmbar pes.
+--- BLOCK ---
+Capar. Barioth-A
+--- BLOCK ---
+Cort. Barioth-A
+--- BLOCK ---
+Pele Barioth-A+
+--- BLOCK ---
+Pelaje Barioth-A
+--- BLOCK ---
+Garra Barioth-A+
+--- BLOCK ---
+Zarpa Barioth-A
+--- BLOCK ---
+Cola Barioth-A
+--- BLOCK ---
+Látigo Barioth-A
+--- BLOCK ---
+Colm. añiles+
+--- BLOCK ---
+Colm. añiles pes
+--- BLOCK ---
+Pleura forte
+--- BLOCK ---
+Pleura forte+
+--- BLOCK ---
+Concha Diablos
+--- BLOCK ---
+Caparaz. Diablos
+--- BLOCK ---
+Corteza Diablos
+--- BLOCK ---
+Coluna Diablos
+--- BLOCK ---
+Coluna Diablos+
+--- BLOCK ---
+Placa de Diablos
+--- BLOCK ---
+Cajacola Diablos
+--- BLOCK ---
+DUMMY 65
+--- BLOCK ---
+Colmillo Diablos
+--- BLOCK ---
+Cuerno retorcido
+--- BLOCK ---
+Cuerno majest.
+--- BLOCK ---
+Cuerno sólido
+--- BLOCK ---
+Tuétano Diablos
+--- BLOCK ---
+Medula Diablos
+--- BLOCK ---
+Capar. Diablos-N
+--- BLOCK ---
+Corteza DiablosN
+--- BLOCK ---
+Clmn. Diablos-N+
+--- BLOCK ---
+Placa Diablos-N
+--- BLOCK ---
+DUMMY 66
+--- BLOCK ---
+DUMMY 67
+--- BLOCK ---
+Cuerno negro
+--- BLOCK ---
+Cuerno negro+
+--- BLOCK ---
+Escama Uragaan
+--- BLOCK ---
+Escama Uragaan+
+--- BLOCK ---
+Pedra Uragaan
+--- BLOCK ---
+Concha Uragaan
+--- BLOCK ---
+Caparaz. Uragaan
+--- BLOCK ---
+Corteza Uragaan
+--- BLOCK ---
+Mandíb. Uragaan
+--- BLOCK ---
+Mandíb. Uragaan+
+--- BLOCK ---
+Placa Uragaan
+--- BLOCK ---
+Placa Uragaan+
+--- BLOCK ---
+Tuétano Uragaan
+--- BLOCK ---
+Rubi Uragaan
+--- BLOCK ---
+Palio Uragaan
+--- BLOCK ---
+Escm. Uragaan-A+
+--- BLOCK ---
+Pedra Uragaan-A
+--- BLOCK ---
+Capar. Uragaan-A
+--- BLOCK ---
+Cortz. Uragaan-A
+--- BLOCK ---
+Fauces Uragaan-A
+--- BLOCK ---
+Mand. Uragaan-A+
+--- BLOCK ---
+Placa Uragaan-A
+--- BLOCK ---
+Placa Uragaan-A+
+--- BLOCK ---
+Escama Uroktor
+--- BLOCK ---
+Escama Uroktor+
+--- BLOCK ---
+Cota flexível
+--- BLOCK ---
+Escama Agnaktor
+--- BLOCK ---
+DUMMY 68
+--- BLOCK ---
+Concha Agnaktor
+--- BLOCK ---
+Capar. Agnaktor
+--- BLOCK ---
+Pele Agnaktor
+--- BLOCK ---
+Pele Agnaktor+
+--- BLOCK ---
+Cota de Agnaktor
+--- BLOCK ---
+Garra Agnaktor
+--- BLOCK ---
+Garra Agnaktor+
+--- BLOCK ---
+Zarpa Agnaktor
+--- BLOCK ---
+Aleta Agnaktor
+--- BLOCK ---
+Aleta Agnaktor+
+--- BLOCK ---
+Aletín Agnaktor
+--- BLOCK ---
+Pico Agnaktor
+--- BLOCK ---
+DUMMY 69
+--- BLOCK ---
+Cola Agnaktor
+--- BLOCK ---
+DUMMY 70
+--- BLOCK ---
+Pleura fervida+
+--- BLOCK ---
+Pleura abrasad.
+--- BLOCK ---
+Capar. Agnakt-G
+--- BLOCK ---
+Corteza Agnakt-G
+--- BLOCK ---
+Pele Agnaktor-G+
+--- BLOCK ---
+Cota Agnaktor-G
+--- BLOCK ---
+Garra Agnakt-G+
+--- BLOCK ---
+Zarpa Agnaktor-G
+--- BLOCK ---
+Aleta Agnakt-G+
+--- BLOCK ---
+Aletín Agnakt-G
+--- BLOCK ---
+Pico de Agnakt-G
+--- BLOCK ---
+DUMMY 71
+--- BLOCK ---
+Cola Agnaktor-G
+--- BLOCK ---
+DUMMY 72
+--- BLOCK ---
+Pleura congelada
+--- BLOCK ---
+Pleura glacial
+--- BLOCK ---
+Escama Ceadeus
+--- BLOCK ---
+Pele Ceadeus
+--- BLOCK ---
+Pelaje Ceadeus
+--- BLOCK ---
+Cola Ceadeus
+--- BLOCK ---
+Cuerno torcido
+--- BLOCK ---
+Órgão luminoso
+--- BLOCK ---
+Gema profunda
+--- BLOCK ---
+Pedra Ceadeus-B
+--- BLOCK ---
+Cota Ceadeus-B
+--- BLOCK ---
+Pelaje Ceadeus-B
+--- BLOCK ---
+DUMMY 73
+--- BLOCK ---
+Asta torcida
+--- BLOCK ---
+DUMMY 74
+--- BLOCK ---
+Gema escura
+--- BLOCK ---
+DUMMY 75
+--- BLOCK ---
+Escama Mohran+
+--- BLOCK ---
+DUMMY 76
+--- BLOCK ---
+Caparão Mohran
+--- BLOCK ---
+DUMMY 77
+--- BLOCK ---
+Presilha Mohran+
+--- BLOCK ---
+DUMMY 209
+--- BLOCK ---
+Presa forte+
+--- BLOCK ---
+Gema terrestre
+--- BLOCK ---
+DUMMY 78
+--- BLOCK ---
+Pedra de Jhen-S
+--- BLOCK ---
+DUMMY 79
+--- BLOCK ---
+Pelepedra Jhen-S
+--- BLOCK ---
+DUMMY 80
+--- BLOCK ---
+Bracelete Jhen-S
+--- BLOCK ---
+DUMMY 81
+--- BLOCK ---
+Presa divina
+--- BLOCK ---
+Esfera milagrosa
+--- BLOCK ---
+Escama Deviljho
+--- BLOCK ---
+Pedra Deviljho
+--- BLOCK ---
+Pele de Deviljho
+--- BLOCK ---
+Cota de Deviljho
+--- BLOCK ---
+Presa Devil
+--- BLOCK ---
+Presa vil
+--- BLOCK ---
+Garra Deviljho
+--- BLOCK ---
+Esporão Deviljho
+--- BLOCK ---
+Couro cab. Devil
+--- BLOCK ---
+DUMMY 82
+--- BLOCK ---
+Cauda Deviljho
+--- BLOCK ---
+Corte Deviljho
+--- BLOCK ---
+Saliva Deviljho
+--- BLOCK ---
+Sangue negro
+--- BLOCK ---
+Gema Deviljho
+--- BLOCK ---
+Malícia Deviljho
+--- BLOCK ---
+Placa Alatreon
+--- BLOCK ---
+Palio Alatreon
+--- BLOCK ---
+Escama Alatreon
+--- BLOCK ---
+Manto Alatreon
+--- BLOCK ---
+Garra Alatreon
+--- BLOCK ---
+Esporão Alatreon
+--- BLOCK ---
+Cinta Alatreon
+--- BLOCK ---
+Asa vil Alatreon
+--- BLOCK ---
+Cauda Alatreon
+--- BLOCK ---
+Cauda vil Alatreo
+--- BLOCK ---
+Corta-céu quebrado
+--- BLOCK ---
+DUMMY 83
+--- BLOCK ---
+Corta-céu
+--- BLOCK ---
+Chifre estelar
+--- BLOCK ---
+Pele de Arzuros
+--- BLOCK ---
+Pele de Arzuros+
+--- BLOCK ---
+DUMMY 84
+--- BLOCK ---
+Concha Arzuros
+--- BLOCK ---
+Carapaça Arzuros
+--- BLOCK ---
+Casca Arzuros
+--- BLOCK ---
+Braçal Arzuros
+--- BLOCK ---
+Braçal Arzuros+
+--- BLOCK ---
+Bracelete Arzuros
+--- BLOCK ---
+Pele de Lagombi
+--- BLOCK ---
+Pele de Lagombi+
+--- BLOCK ---
+Pelagem Lagombi
+--- BLOCK ---
+Orelha Lagombi
+--- BLOCK ---
+Orelha Lagombi+
+--- BLOCK ---
+Ouvido Lagombi
+--- BLOCK ---
+Peitoral Lagombi
+--- BLOCK ---
+Peitoral Lagombi+
+--- BLOCK ---
+DUMMY 85
+--- BLOCK ---
+Garra Lagombi
+--- BLOCK ---
+Garra Lagombi+
+--- BLOCK ---
+DUMMY 86
+--- BLOCK ---
+Concha Volvidon
+--- BLOCK ---
+Carapaça Volvidon
+--- BLOCK ---
+Casca Volvidon
+--- BLOCK ---
+Garra Volvidon
+--- BLOCK ---
+Garra Volvidon+
+--- BLOCK ---
+Pata Volvidon
+--- BLOCK ---
+Trança Volvidon
+--- BLOCK ---
+DUMMY 87
+--- BLOCK ---
+Concha de Nibels
+--- BLOCK ---
+Carapaça Nibels
+--- BLOCK ---
+Casca Nibels
+--- BLOCK ---
+Pele Nibelsnarf
+--- BLOCK ---
+Pele Nibelsnarf+
+--- BLOCK ---
+Cota Nibelsnarf
+--- BLOCK ---
+Garra Nibelsnarf
+--- BLOCK ---
+Garra Nibels+
+--- BLOCK ---
+Pata Nibelsnarf
+--- BLOCK ---
+Couro cab Nibels
+--- BLOCK ---
+DUMMY 88
+--- BLOCK ---
+Fluido intenso
+--- BLOCK ---
+Fluido brilhante
+--- BLOCK ---
+Fluido cegante
+--- BLOCK ---
+DUMMY 89
+--- BLOCK ---
+Carapaça Zinogre
+--- BLOCK ---
+Casca Zinogre
+--- BLOCK ---
+DUMMY 90
+--- BLOCK ---
+Concha Zinogre+
+--- BLOCK ---
+Eletpelo Zinog+
+--- BLOCK ---
+DUMMY 91
+--- BLOCK ---
+Chifre Zinogre
+--- BLOCK ---
+Chifre de Zinogre
+--- BLOCK ---
+DUMMY 92
+--- BLOCK ---
+Garra Zinogre+
+--- BLOCK ---
+Pata de Zinogre
+--- BLOCK ---
+Cauda de Zinogre
+--- BLOCK ---
+Chicote Zinogre
+--- BLOCK ---
+DUMMY 94
+--- BLOCK ---
+Eletpelo Zinog
+--- BLOCK ---
+Casco raio Zinog
+--- BLOCK ---
+DUMMY 208
+--- BLOCK ---
+Jaspe Zinogre
+--- BLOCK ---
+Capuz Zinogre
+--- BLOCK ---
+Corteza Zinog-E
+--- BLOCK ---
+Peledragão ZinogE
+--- BLOCK ---
+Chifre Zinog-E
+--- BLOCK ---
+Pata Zinog-E
+--- BLOCK ---
+Chicote Zinog-E
+--- BLOCK ---
+Escudo Zinog-E
+--- BLOCK ---
+Capuz Zinog-E
+--- BLOCK ---
+Escama de Narga+
+--- BLOCK ---
+Pedra Nargacuga
+--- BLOCK ---
+Manto Nargacuga
+--- BLOCK ---
+DUMMY 95
+--- BLOCK ---
+Pelagem Nargacuga
+--- BLOCK ---
+Cauda Nargacuga
+--- BLOCK ---
+Chicote Nargacuga
+--- BLOCK ---
+Cauda-prego Narga
+--- BLOCK ---
+Pata-pua Narga
+--- BLOCK ---
+DUMMY 96
+--- BLOCK ---
+Lâmina Narga+
+--- BLOCK ---
+Presa Narga+
+--- BLOCK ---
+Presão Narga
+--- BLOCK ---
+Medula Nargacuga
+--- BLOCK ---
+DUMMY 97
+--- BLOCK ---
+Pedra Narga-V
+--- BLOCK ---
+DUMMY 98
+--- BLOCK ---
+Pele pintada NargaV
+--- BLOCK ---
+DUMMY 99
+--- BLOCK ---
+Lâmina NargaV+
+--- BLOCK ---
+DUMMY 100
+--- BLOCK ---
+Presão NargaV
+--- BLOCK ---
+Pedra Narga-L
+--- BLOCK ---
+Pele pintada NargaL
+--- BLOCK ---
+Lâmina Narga-L
+--- BLOCK ---
+Presão NargaL
+--- BLOCK ---
+Concha Duram
+--- BLOCK ---
+Carapaça Duram
+--- BLOCK ---
+Casca Duram
+--- BLOCK ---
+Escumusgo Duram
+--- BLOCK ---
+Escumusgo duro
+--- BLOCK ---
+Escumusgo opaco
+--- BLOCK ---
+Corcova Duramboros
+--- BLOCK ---
+Corcova pintada
+--- BLOCK ---
+Caixa-cauda Duram
+--- BLOCK ---
+Caixa-cauda Duram+
+--- BLOCK ---
+Cauda Duram
+--- BLOCK ---
+Chifre Duram
+--- BLOCK ---
+Chifre Duram+
+--- BLOCK ---
+Chifre Duramboros
+--- BLOCK ---
+Cauda-óssea Duram
+--- BLOCK ---
+Sagrado Duramboros
+--- BLOCK ---
+Durambolita
+--- BLOCK ---
+Concha Duram-H
+--- BLOCK ---
+Placa Duram-H
+--- BLOCK ---
+DUMMY 101
+--- BLOCK ---
+Cauda Duram-H
+--- BLOCK ---
+DUMMY 102
+--- BLOCK ---
+DUMMY 103
+--- BLOCK ---
+Escucentollo G
+--- BLOCK ---
+DUMMY 105
+--- BLOCK ---
+Presilha Plesio+
+--- BLOCK ---
+Presão Plesio
+--- BLOCK ---
+Escama Plesioth+
+--- BLOCK ---
+Pedra Plesioth
+--- BLOCK ---
+Barbatana Plesioth+
+--- BLOCK ---
+Barbataninha Plesioth
+--- BLOCK ---
+DUMMY 105
+--- BLOCK ---
+Pedra Plesio-V
+--- BLOCK ---
+DUMMY 107
+--- BLOCK ---
+Barbataninha Plesio-V
+--- BLOCK ---
+Carapaça Brach
+--- BLOCK ---
+Casca de Brach
+--- BLOCK ---
+Braçal de Brach
+--- BLOCK ---
+Braçal de Brach+
+--- BLOCK ---
+DUMMY 108
+--- BLOCK ---
+DUMMY 109
+--- BLOCK ---
+Couro cab. Brach
+--- BLOCK ---
+Couro cab Brach+
+--- BLOCK ---
+Baba misteriosa
+--- BLOCK ---
+Baba intensa
+--- BLOCK ---
+Pata Brachydios
+--- BLOCK ---
+Pata Brachydios+
+--- BLOCK ---
+Cauda Brachydios
+--- BLOCK ---
+DUMMY 110
+--- BLOCK ---
+Gema Brachydios
+--- BLOCK ---
+Couraça de Brach
+--- BLOCK ---
+Escama Miralis
+--- BLOCK ---
+Esculava Miralis
+--- BLOCK ---
+Escugarra Miralis
+--- BLOCK ---
+DUMMY 111
+--- BLOCK ---
+DUMMY 112
+--- BLOCK ---
+Olho vil Miralis
+--- BLOCK ---
+DUMMY 113
+--- BLOCK ---
+Asa vil Miralis
+--- BLOCK ---
+DUMMY 114
+--- BLOCK ---
+DUMMY 115
+--- BLOCK ---
+Infierno Miralis
+--- BLOCK ---
+Coração Imortal
+--- BLOCK ---
+DUMMY 116
+--- BLOCK ---
+Broto de magma
+--- BLOCK ---
+Gema nefasta
+--- BLOCK ---
+Pedra enferrujada
+--- BLOCK ---
+Pedra antiga
+--- BLOCK ---
+Metal enferrujado
+--- BLOCK ---
+Metal grande
+--- BLOCK ---
+Metal fino
+--- BLOCK ---
+Metal largo
+--- BLOCK ---
+Mapa
+--- BLOCK ---
+Medicamento
+--- BLOCK ---
+Ração
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Mini pedra afiada
+--- BLOCK ---
+Armadilha choque Sm
+--- BLOCK ---
+Bomba luz Sm
+--- BLOCK ---
+Bomba sônica Sm
+--- BLOCK ---
+Poção máx Sm
+--- BLOCK ---
+Armadilha obstáculo Sm
+--- BLOCK ---
+S. oxigênio mini
+--- BLOCK ---
+B. barril gr. Sm
+--- BLOCK ---
+Mun. balista
+--- BLOCK ---
+Cinta balista
+--- BLOCK ---
+DUMMY 117
+--- BLOCK ---
+Mun. canhão
+--- BLOCK ---
+Bomba antidragão
+--- BLOCK ---
+Tocha
+--- BLOCK ---
+Bilhete zarpa
+--- BLOCK ---
+Geleia real
+--- BLOCK ---
+Cogumelo especial
+--- BLOCK ---
+Cogumelo selecto
+--- BLOCK ---
+Cogumelo maduro
+--- BLOCK ---
+Grande cogumelo
+--- BLOCK ---
+Broto imperial
+--- BLOCK ---
+DUMMY 118
+--- BLOCK ---
+DUMMY 119
+--- BLOCK ---
+Peixe prateado
+--- BLOCK ---
+DUMMY 120
+--- BLOCK ---
+DUMMY 121
+--- BLOCK ---
+Peixe dourado
+--- BLOCK ---
+Rinoceronte real
+--- BLOCK ---
+Rinoceronte divino
+--- BLOCK ---
+Grilo prateado
+--- BLOCK ---
+Grilo dourado
+--- BLOCK ---
+Peça Aurirroca
+--- BLOCK ---
+Pedra Aurirroca
+--- BLOCK ---
+Peça Ônix
+--- BLOCK ---
+Pedra Ônix
+--- BLOCK ---
+Osso cristal
+--- BLOCK ---
+Osso dourado
+--- BLOCK ---
+Hematita
+--- BLOCK ---
+Hematita intensa
+--- BLOCK ---
+Carvão
+--- BLOCK ---
+Carvão volátil
+--- BLOCK ---
+Ovo wyvern
+--- BLOCK ---
+Ovo herbívoro
+--- BLOCK ---
+Ovo Gargwa
+--- BLOCK ---
+Ovo ouro Gargwa
+--- BLOCK ---
+DUMMY 206
+--- BLOCK ---
+Pedra pó
+--- BLOCK ---
+Guano Gargwa
+--- BLOCK ---
+Fígado branco
+--- BLOCK ---
+Óleo Slagtoth
+--- BLOCK ---
+Língua de Popo
+--- BLOCK ---
+Bolsa secreta
+--- BLOCK ---
+Bolota redonda
+--- BLOCK ---
+Estômago selecto
+--- BLOCK ---
+Estômago de luz
+--- BLOCK ---
+Extrato Giggi
+--- BLOCK ---
+Tripas monstro
+--- BLOCK ---
+Coral vermelho
+--- BLOCK ---
+Lágrimas wyvern
+--- BLOCK ---
+Lágrima wyvern G
+--- BLOCK ---
+Lágrimas besta
+--- BLOCK ---
+Lágrima besta G
+--- BLOCK ---
+Moeda pássaro
+--- BLOCK ---
+DUMMY 122
+--- BLOCK ---
+DUMMY 123
+--- BLOCK ---
+DUMMY 124
+--- BLOCK ---
+DUMMY 125
+--- BLOCK ---
+DUMMY 126
+--- BLOCK ---
+DUMMY 127
+--- BLOCK ---
+Moeda leviatã
+--- BLOCK ---
+DUMMY 128
+--- BLOCK ---
+DUMMY 129
+--- BLOCK ---
+DUMMY 130
+--- BLOCK ---
+DUMMY 131
+--- BLOCK ---
+DUMMY 214
+--- BLOCK ---
+Moeda pináculo
+--- BLOCK ---
+Moeda Rei caça
+--- BLOCK ---
+Vale
+--- BLOCK ---
+Vale gourmet
+--- BLOCK ---
+Bilhete Sharq
+--- BLOCK ---
+DUMMY 132
+--- BLOCK ---
+DUMMY 133
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY 134
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Selo conquista
+--- BLOCK ---
+DUMMY 135
+--- BLOCK ---
+Menção de honra
+--- BLOCK ---
+DUMMY 136
+--- BLOCK ---
+Selo pegada
+--- BLOCK ---
+Joia de Suiko
+--- BLOCK ---
+Joia de Akito
+--- BLOCK ---
+J. campo batalha
+--- BLOCK ---
+Joia lápis-lazúli
+--- BLOCK ---
+Joia paralisia 1
+--- BLOCK ---
+Joia paralisia 2
+--- BLOCK ---
+Joia vitalidade 1
+--- BLOCK ---
+Joia vitalidade 2
+--- BLOCK ---
+Joia firme 1
+--- BLOCK ---
+Joia redonda 1
+--- BLOCK ---
+Joia antídoto 1
+--- BLOCK ---
+Joia antídoto 2
+--- BLOCK ---
+Joia rastreamento 1
+--- BLOCK ---
+Joia buscador 1
+--- BLOCK ---
+Joia ninja 1
+--- BLOCK ---
+Joia de força 1
+--- BLOCK ---
+J. restauração 1
+--- BLOCK ---
+J. restauração 2
+--- BLOCK ---
+Joia lâmina 1
+--- BLOCK ---
+Joia lâmina 3
+--- BLOCK ---
+Joia artesão 2
+--- BLOCK ---
+Joia artesão 3
+--- BLOCK ---
+Joia esgrima 1
+--- BLOCK ---
+Joia esgrima 3
+--- BLOCK ---
+Joia experto 1
+--- BLOCK ---
+Joia experto 2
+--- BLOCK ---
+Joia experto 3
+--- BLOCK ---
+Joia afiador 1
+--- BLOCK ---
+Joia guardião 1
+--- BLOCK ---
+Joia guardião 2
+--- BLOCK ---
+Joia escudo 1
+--- BLOCK ---
+Joia escudo 2
+--- BLOCK ---
+Joia recarga 1
+--- BLOCK ---
+Joia recarga 2
+--- BLOCK ---
+Joia retrocesso 1
+--- BLOCK ---
+Joia retrocesso 3
+--- BLOCK ---
+Joia supertiro 1
+--- BLOCK ---
+Joia supertiro 3
+--- BLOCK ---
+Joia perfuração 1
+--- BLOCK ---
+Joia perfuração 3
+--- BLOCK ---
+Joia chumbinho 1
+--- BLOCK ---
+Joia chumbinho 3
+--- BLOCK ---
+Joia bônus disp. 1
+--- BLOCK ---
+Joia bônus disp. 2
+--- BLOCK ---
+Joia bônus perf.1
+--- BLOCK ---
+DUMMY 137
+--- BLOCK ---
+Joia bônus perf.1
+--- BLOCK ---
+Joia bônus expl.1
+--- BLOCK ---
+Joia bônus de grupo 1
+--- BLOCK ---
+Joia estado an. 1
+--- BLOCK ---
+Joia estado an. 2
+--- BLOCK ---
+Joia elemental 1
+--- BLOCK ---
+Joia elemental 3
+--- BLOCK ---
+Joia bombardeiro 1
+--- BLOCK ---
+DUMMY 138
+--- BLOCK ---
+Joia antiga 1
+--- BLOCK ---
+Joia gordo 1
+--- BLOCK ---
+Joia de ataque 1
+--- BLOCK ---
+Joia de ataque 2
+--- BLOCK ---
+Joia de ataque 3
+--- BLOCK ---
+Joia defesa 1
+--- BLOCK ---
+Joia defesa 2
+--- BLOCK ---
+Joia proteção 1
+--- BLOCK ---
+Joia celestial 1
+--- BLOCK ---
+Joia tampão ouvido 1
+--- BLOCK ---
+Joia tampão ouvido 3
+--- BLOCK ---
+Joia alarme 1
+--- BLOCK ---
+Joia amizade 1
+--- BLOCK ---
+Joia amizade 2
+--- BLOCK ---
+Joia mochileiro 1
+--- BLOCK ---
+Joia Res. fogo 1
+--- BLOCK ---
+Joia Res. água 1
+--- BLOCK ---
+Joia Res. gelo 1
+--- BLOCK ---
+Joia Res. trovão 1
+--- BLOCK ---
+Joia Res. dragão 1
+--- BLOCK ---
+Joia Res. calor 1
+--- BLOCK ---
+Joia Res. frio 1
+--- BLOCK ---
+Joia Res. vento 1
+--- BLOCK ---
+Joia Res. vento 2
+--- BLOCK ---
+DUMMY 139
+--- BLOCK ---
+Joia coleta 1
+--- BLOCK ---
+Joia pegacorre 1
+--- BLOCK ---
+Joia bênção 1
+--- BLOCK ---
+Joia destino 1
+--- BLOCK ---
+Joia destino 3
+--- BLOCK ---
+DUMMY 140
+--- BLOCK ---
+Joia psíquica 1
+--- BLOCK ---
+Joia curadora 1
+--- BLOCK ---
+Joia curadora 2
+--- BLOCK ---
+Joia professor 1
+--- BLOCK ---
+Joia armeiro 1
+--- BLOCK ---
+Joia evasão 1
+--- BLOCK ---
+Joia evasão 2
+--- BLOCK ---
+Joia potencial 1
+--- BLOCK ---
+Joia potencial 2
+--- BLOCK ---
+Joia tenaz 1
+--- BLOCK ---
+Joia velocista 1
+--- BLOCK ---
+Joia velocista 3
+--- BLOCK ---
+Joia carga 2
+--- BLOCK ---
+Joia carga 3
+--- BLOCK ---
+Joia tirador 1
+--- BLOCK ---
+Joia glotón 1
+--- BLOCK ---
+Joia glotón 3
+--- BLOCK ---
+Joia cortapiel 1
+--- BLOCK ---
+Joia cortapiel 3
+--- BLOCK ---
+Joia âncora 1
+--- BLOCK ---
+Joia tectônica 1
+--- BLOCK ---
+DUMMY 141
+--- BLOCK ---
+Joia salto 1
+--- BLOCK ---
+DUMMY 142
+--- BLOCK ---
+J. desembainhado 1
+--- BLOCK ---
+J. desembainhado 2
+--- BLOCK ---
+Joia armadilha 1
+--- BLOCK ---
+Joia saúde 1
+--- BLOCK ---
+Joia saúde 2
+--- BLOCK ---
+Joia boxeador 1
+--- BLOCK ---
+Joia boxeador 3
+--- BLOCK ---
+Joia percepção 1
+--- BLOCK ---
+J. carga curta 1
+--- BLOCK ---
+J. carga curta 3
+--- BLOCK ---
+Joia ar puro 1
+--- BLOCK ---
+Joia parafluxo 1
+--- BLOCK ---
+Joia nadador 1
+--- BLOCK ---
+Joia mergulhador 1
+--- BLOCK ---
+Joia gambito 1
+--- BLOCK ---
+Joia gambito 3
+--- BLOCK ---
+J. resistência 1
+--- BLOCK ---
+Joia libertar 2
+--- BLOCK ---
+J. despertar 1
+--- BLOCK ---
+Joia fortaleza 1
+--- BLOCK ---
+Joia fortaleza 2
+--- BLOCK ---
+Joia bônus 1
+--- BLOCK ---
+Joia bônus 3
+--- BLOCK ---
+Joia escatológica 1
+--- BLOCK ---
+Joia tocha 1
+--- BLOCK ---
+(Sem máscara)
+--- BLOCK ---
+Barbacoa máscara
+--- BLOCK ---
+Afilado máscara
+--- BLOCK ---
+Retorno máscara
+--- BLOCK ---
+Disparo Baba
+--- BLOCK ---
+DUMMY 143
+--- BLOCK ---
+Wyverns voadores 1
+--- BLOCK ---
+Wyverns voadores 2
+--- BLOCK ---
+Wyverns voadores 3
+--- BLOCK ---
+Wyverns pássaro 1
+--- BLOCK ---
+Wyverns pássaro 2
+--- BLOCK ---
+Wyverns brutos 1
+--- BLOCK ---
+Wyverns brutos 2
+--- BLOCK ---
+Wyverns brutos 3
+--- BLOCK ---
+Leviatãs 1
+--- BLOCK ---
+Leviatãs 2
+--- BLOCK ---
+Leviatãs 3
+--- BLOCK ---
+Wyverns dentados 1
+--- BLOCK ---
+Wyverns dentados 2
+--- BLOCK ---
+Bestas de presas
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Wyverns aquáticos
+--- BLOCK ---
+Dragões anciãos 1
+--- BLOCK ---
+Dragões anciãos 2
+--- BLOCK ---
+Dragões anciãos 3
+--- BLOCK ---
+Lynians
+--- BLOCK ---
+Neopterons
+--- BLOCK ---
+Herbívoros 1
+--- BLOCK ---
+Herbívoros 2
+--- BLOCK ---
+Deviljho
+--- BLOCK ---
+Brachydios
+--- BLOCK ---
+Miralis funesto
+--- BLOCK ---
+Plesioth 1
+--- BLOCK ---
+Plesioth 2
+--- BLOCK ---
+Desodorante
+--- BLOCK ---
+Grilo imperador
+--- BLOCK ---
+Osso dragão anc
+--- BLOCK ---
+DUMMY 145
+--- BLOCK ---
+Cristal puro
+--- BLOCK ---
+Orbe firme
+--- BLOCK ---
+Cota Lagiacrus
+--- BLOCK ---
+DUMMY 146
+--- BLOCK ---
+Fauces pesadelo
+--- BLOCK ---
+DUMMY 147
+--- BLOCK ---
+DUMMY 148
+--- BLOCK ---
+DUMMY 149
+--- BLOCK ---
+Revest. Baba
+--- BLOCK ---
+DUMMY 150
+--- BLOCK ---
+Grilo flor
+--- BLOCK ---
+Colapúa Narga-L
+--- BLOCK ---
+DUMMY 151
+--- BLOCK ---
+Colapúa Narga-V
+--- BLOCK ---
+DUMMY 152
+--- BLOCK ---
+Crosta Agnaktor
+--- BLOCK ---
+Cota repugnante
+--- BLOCK ---
+Bolsa gélida
+--- BLOCK ---
+Bolsa lago
+--- BLOCK ---
+Essência monstro
+--- BLOCK ---
+DUMMY 153
+--- BLOCK ---
+Osso tremendo
+--- BLOCK ---
+DUMMY 154
+--- BLOCK ---
+Pele valiosa
+--- BLOCK ---
+DUMMY 155
+--- BLOCK ---
+DUMMY 156
+--- BLOCK ---
+Peixe arpão
+--- BLOCK ---
+Pele Nargacuga+
+--- BLOCK ---
+Lâmina Narga
+--- BLOCK ---
+Bilhete AV
+--- BLOCK ---
+Bilhete luxo AV
+--- BLOCK ---
+Bilhete bronze AV
+--- BLOCK ---
+Bilhete prata AV
+--- BLOCK ---
+Bilhete ouro AV
+--- BLOCK ---
+Bilhete astral AV
+--- BLOCK ---
+DUMMY 157
+--- BLOCK ---
+DUMMY 158
+--- BLOCK ---
+Borboleta viúva
+--- BLOCK ---
+DUMMY 159
+--- BLOCK ---
+DUMMY 160
+--- BLOCK ---
+DUMMY 161
+--- BLOCK ---
+DUMMY 162
+--- BLOCK ---
+DUMMY 163
+--- BLOCK ---
+Bilhete cha-chi
+--- BLOCK ---
+DUMMY 164
+--- BLOCK ---
+Asta Lagiacrus
+--- BLOCK ---
+DUMMY 165
+--- BLOCK ---
+DUMMY 166
+--- BLOCK ---
+DUMMY 167
+--- BLOCK ---
+Cornamenta
+--- BLOCK ---
+DUMMY 210
+--- BLOCK ---
+DUMMY 212
+--- BLOCK ---
+Presa Bullfango
+--- BLOCK ---
+DUMMY 168
+--- BLOCK ---
+DUMMY 169
+--- BLOCK ---
+DUMMY 170
+--- BLOCK ---
+Escaraposa
+--- BLOCK ---
+DUMMY 171
+--- BLOCK ---
+DUMMY 172
+--- BLOCK ---
+Cauda Diablos
+--- BLOCK ---
+Chicote Barroth
+--- BLOCK ---
+DUMMY 173
+--- BLOCK ---
+DUMMY 174
+--- BLOCK ---
+DUMMY 175
+--- BLOCK ---
+Pleura fervida
+--- BLOCK ---
+DUMMY 176
+--- BLOCK ---
+Coroa crista
+--- BLOCK ---
+Crista real
+--- BLOCK ---
+Coroa de luz
+--- BLOCK ---
+Fóssil gigante
+--- BLOCK ---
+DUMMY 177
+--- BLOCK ---
+Chicote Ludroth-R
+--- BLOCK ---
+Pedra Mohran
+--- BLOCK ---
+Pele rocha Mohran
+--- BLOCK ---
+Algema Mohran
+--- BLOCK ---
+Asa Rathalos
+--- BLOCK ---
+Fivela Plesioth
+--- BLOCK ---
+Fivela dura Ples
+--- BLOCK ---
+Peixe
+--- BLOCK ---
+DUMMY 178
+--- BLOCK ---
+DUMMY 179
+--- BLOCK ---
+Ovo ouro peq.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cabeça Plesioth
+--- BLOCK ---
+Megacabeça Ples
+--- BLOCK ---
+Moeda besta
+--- BLOCK ---
+Moeda voador
+--- BLOCK ---
+Moeda aquático
+--- BLOCK ---
+Moeda bruto
+--- BLOCK ---
+Boneca (vermelho)
+--- BLOCK ---
+Boneca (azul)
+--- BLOCK ---
+Boneca (verde)
+--- BLOCK ---
+Boneca (branco)
+--- BLOCK ---
+Machado oxidado
+--- BLOCK ---
+Presa caçalua
+--- BLOCK ---
+Escama reluzente
+--- BLOCK ---
+DUMMY 180
+--- BLOCK ---
+DUMMY 181
+--- BLOCK ---
+DUMMY 182
+--- BLOCK ---
+DUMMY 183
+--- BLOCK ---
+DUMMY 184
+--- BLOCK ---
+DUMMY 185
+--- BLOCK ---
+DUMMY 186
+--- BLOCK ---
+DUMMY 187
+--- BLOCK ---
+DUMMY 188
+--- BLOCK ---
+DUMMY 189
+--- BLOCK ---
+DUMMY 190
+--- BLOCK ---
+DUMMY 191
+--- BLOCK ---
+Crânio maciço
+--- BLOCK ---
+Garra osuna sab.
+--- BLOCK ---
+Gaita Qurupeco
+--- BLOCK ---
+Crina esponjosa
+--- BLOCK ---
+Língua Volvidon
+--- BLOCK ---
+Barro de qualidade
+--- BLOCK ---
+DUMMY 192
+--- BLOCK ---
+DUMMY 193
+--- BLOCK ---
+Carne de Rathian
+--- BLOCK ---
+Fígado tenro
+--- BLOCK ---
+Carne Rathian-R
+--- BLOCK ---
+Escama gigante
+--- BLOCK ---
+Costil. Rathalos
+--- BLOCK ---
+Solom. Plesioth
+--- BLOCK ---
+Coração Diablos
+--- BLOCK ---
+Bolsa de sono
+--- BLOCK ---
+Gran obsidiana
+--- BLOCK ---
+Trufa Duramboros
+--- BLOCK ---
+DUMMY 194
+--- BLOCK ---
+Cabeça Zinogre
+--- BLOCK ---
+DUMMY 195
+--- BLOCK ---
+Olho Nargacuga
+--- BLOCK ---
+Escama celeste
+--- BLOCK ---
+Escama alabastro
+--- BLOCK ---
+Estômago voraz
+--- BLOCK ---
+DUMMY 196
+--- BLOCK ---
+DUMMY 197
+--- BLOCK ---
+DUMMY 198
+--- BLOCK ---
+DUMMY 199
+--- BLOCK ---
+DUMMY 200
+--- BLOCK ---
+DUMMY 201
+--- BLOCK ---
+DUMMY 202
+--- BLOCK ---
+DUMMY 203
+--- BLOCK ---
+DUMMY 204
+--- BLOCK ---
+DUMMY 205
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY 207
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY 220
+--- BLOCK ---
+Wyverns voadores 4
+--- BLOCK ---
+Wyverns voadores 5
+--- BLOCK ---
+J. bloqueio def 1
+--- BLOCK ---
+Gema estéril 1
+--- BLOCK ---
+Gema asséptica 1
+--- BLOCK ---
+Gema ardente 1
+--- BLOCK ---
+Gema ardente 2
+--- BLOCK ---
+Gema aquática 1
+--- BLOCK ---
+Gema aquática 2
+--- BLOCK ---
+Gema relâmpago 1
+--- BLOCK ---
+Gema relâmpago 2
+--- BLOCK ---
+Gema congelada 1
+--- BLOCK ---
+Gema congelada 2
+--- BLOCK ---
+Joia dragão 1
+--- BLOCK ---
+Joia dragão 2
+--- BLOCK ---
+Joia martelo 1
+--- BLOCK ---
+Joia martelo 3
+--- BLOCK ---
+J. destruidor 1
+--- BLOCK ---
+J. destruidor 3
+--- BLOCK ---
+Joia poderosa 1
+--- BLOCK ---
+Joia poderosa 2
+--- BLOCK ---
+Joia lutador 1
+--- BLOCK ---
+Joia fraqueza 1
+--- BLOCK ---
+Joia fraqueza 2
+--- BLOCK ---
+Joia flautista 1
+--- BLOCK ---
+Joia artilheiro 1
+--- BLOCK ---
+J. resistência 3
+--- BLOCK ---
+Joia antichamas 1
+--- BLOCK ---
+Joia antiaqua 1
+--- BLOCK ---
+J. antitrovão 1
+--- BLOCK ---
+Joia antigeo 1
+--- BLOCK ---
+J. antidragão 1
+--- BLOCK ---
+Joia embainhada 1
+--- BLOCK ---
+Joia embainhada 2
+--- BLOCK ---
+Joia revital. 1
+--- BLOCK ---
+Joia revital. 2
+--- BLOCK ---
+Joia soldado 1
+--- BLOCK ---
+Joia cortante 1
+--- BLOCK ---
+Joia paralisia 1
+--- BLOCK ---
+Joia paralisia 2
+--- BLOCK ---
+Joia sono 1
+--- BLOCK ---
+Joia venenosa 1
+--- BLOCK ---
+Joia poder 1
+--- BLOCK ---
+Joia poder 2
+--- BLOCK ---
+Joia alcance 1
+--- BLOCK ---
+Joia fadiga 1
+--- BLOCK ---
+Joia paralisante 2
+--- BLOCK ---
+Joia entranhas 1
+--- BLOCK ---
+Joia entranhas 2
+--- BLOCK ---
+Joia carnívoro 1
+--- BLOCK ---
+Joia carnoso 1
+--- BLOCK ---
+Joia escorregadio 1
+--- BLOCK ---
+Joia esquiva 1
+--- BLOCK ---
+Joia abelha 1
+--- BLOCK ---
+Joia ab. rainha 1
+--- BLOCK ---
+Joia biologia 1
+--- BLOCK ---
+Joia microbio 1
+--- BLOCK ---
+Joia humor 1
+--- BLOCK ---
+Joia humor 2
+--- BLOCK ---
+Joia ileso 1
+--- BLOCK ---
+Joia ileso 2
+--- BLOCK ---
+Joia resistência 1
+--- BLOCK ---
+Joia resistência 3
+--- BLOCK ---
+Joia peixe 1
+--- BLOCK ---
+Joia peixe 2
+--- BLOCK ---
+Joia jogador 1
+--- BLOCK ---
+Joia moral 1
+--- BLOCK ---
+Joia líder 1
+--- BLOCK ---
+Joia líder 2
+--- BLOCK ---
+Fonte de vida
+--- BLOCK ---
+Joia lutador 2
+--- BLOCK ---
+Chifre de Diablos
+--- BLOCK ---
+Quartzo fantasma
+--- BLOCK ---
+Presa Trituradora
+--- BLOCK ---
+Asa Lunar
+--- BLOCK ---
+Pele Comum
+--- BLOCK ---
+Presa Suprema
+--- BLOCK ---
+Peixe Enmascarado
+--- BLOCK ---
+Broto Noturno
+--- BLOCK ---
+Aguilhão Platinum
+--- BLOCK ---
+Presa Áurea
+--- BLOCK ---
+Veio Ouro Wyvern
+--- BLOCK ---
+Joia Amuleto 1
+--- BLOCK ---
+Criatura Dragoenerg
+--- BLOCK ---
+Batatas Tanzia
+--- BLOCK ---
+Joia Superbaba 1
+--- BLOCK ---
+Joia Rev. Baba 1
+--- BLOCK ---
+Fragmento Brilhante
+--- BLOCK ---
+Diploma Raioflash
+--- BLOCK ---
+Promissórias do Capitão
+--- BLOCK ---
+Diploma de Trovão
+--- BLOCK ---
+Fórmula Supersecreta
+--- BLOCK ---
+Vale Medalha L
+--- BLOCK ---
+Carne Exquisita
+--- BLOCK ---
+Garra de Leão
+--- BLOCK ---
+Asa Ensombrecida
+--- BLOCK ---
+Crânio de Hades
+--- BLOCK ---
+Coroa de Glória
+--- BLOCK ---
+Vale Medalha G
+--- BLOCK ---
+Espada do Oriente
+--- BLOCK ---
+Bilhete Anão
+--- BLOCK ---
+Alma Fiera
+--- BLOCK ---
+Moeda de Bronze
+--- BLOCK ---
+Moeda de Prata
+--- BLOCK ---
+Moeda de Ouro
+--- BLOCK ---

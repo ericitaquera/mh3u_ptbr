@@ -4,7 +4,7 @@ DUMMY
 --- BLOCK ---
 Menino Shak perdido
 --- BLOCK ---
-Chefe da Aldeia
+Chefe da Vila
 --- BLOCK ---
 Menina da Guilda
 --- BLOCK ---

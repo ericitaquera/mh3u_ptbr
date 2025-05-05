@@ -1,0 +1,256 @@
+﻿TMSG_WSWORD
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Cortadores a juego
+--- BLOCK ---
+Cortadores a juego+
+--- BLOCK ---
+Cortadores dobles
+--- BLOCK ---
+Hachas dobles
+--- BLOCK ---
+Hachas dobles+
+--- BLOCK ---
+Clavas dobles+
+--- BLOCK ---
+Huracán
+--- BLOCK ---
+Huracán+
+--- BLOCK ---
+Ciclón
+--- BLOCK ---
+Hachas tornado
+--- BLOCK ---
+Tifón
+--- BLOCK ---
+Cortadoras Brach
+--- BLOCK ---
+Cortadoras Brach+
+--- BLOCK ---
+Hojas de demolición
+--- BLOCK ---
+Demoledor espectral
+--- BLOCK ---
+Estoques jurados
+--- BLOCK ---
+Estoques jurados+
+--- BLOCK ---
+Sables sagrados
+--- BLOCK ---
+Sables cab. Gremio
+--- BLOCK ---
+Sables maestros
+--- BLOCK ---
+Sierras mec. dobles
+--- BLOCK ---
+Sierras mec. dobles+
+--- BLOCK ---
+Guillotinas
+--- BLOCK ---
+Sierras de gólem
+--- BLOCK ---
+Caníbales de gólem
+--- BLOCK ---
+Maceradores tipo 51
+--- BLOCK ---
+Muertesnarfs
+--- BLOCK ---
+Supermuertesnarfs
+--- BLOCK ---
+Insecticortadores
+--- BLOCK ---
+Insecticortadores+
+--- BLOCK ---
+Insectirrasgadores
+--- BLOCK ---
+Insectiguadañas
+--- BLOCK ---
+Entomoteos
+--- BLOCK ---
+Aturdidores Gobul
+--- BLOCK ---
+Aturdidores Gobul+
+--- BLOCK ---
+Espada Plegiaturdio
+--- BLOCK ---
+Hojas Jaggidas
+--- BLOCK ---
+Hojas Jaggidas+
+--- BLOCK ---
+Hojas de líder
+--- BLOCK ---
+Tormenta de llamas
+--- BLOCK ---
+Tormenta de llamas+
+--- BLOCK ---
+Salamandras
+--- BLOCK ---
+Ignis Noire
+--- BLOCK ---
+Agnaktor Inferno
+--- BLOCK ---
+Dicotomía
+--- BLOCK ---
+Elemandras
+--- BLOCK ---
+Acrus gemelos
+--- BLOCK ---
+Acrus gemelos+
+--- BLOCK ---
+Levin Acrus
+--- BLOCK ---
+Neo Acrus gemelos
+--- BLOCK ---
+Rayiblanco Acrusnovo
+--- BLOCK ---
+Guadañas de hueso
+--- BLOCK ---
+Guadañas de hueso+
+--- BLOCK ---
+Guadañas de jefe
+--- BLOCK ---
+Pareja de Ludroth
+--- BLOCK ---
+Pareja de Ludroth+
+--- BLOCK ---
+Doble Droth
+--- BLOCK ---
+Géminis oculto
+--- BLOCK ---
+Alas nocturnas
+--- BLOCK ---
+Cortadores Virnar
+--- BLOCK ---
+Alas negras noctas
+--- BLOCK ---
+Cortadores eclipse
+--- BLOCK ---
+Asterismo de Alkaid
+--- BLOCK ---
+Fulgor del usurpador
+--- BLOCK ---
+Chispas del déspota
+--- BLOCK ---
+Milagro del opresor
+--- BLOCK ---
+Hojas gemel. oscuras
+--- BLOCK ---
+Confidentes oscuros
+--- BLOCK ---
+Garras de Brimstren
+--- BLOCK ---
+Soberbia estigia
+--- BLOCK ---
+Alfanjes Plesioth
+--- BLOCK ---
+Alfanjes Plesioth+
+--- BLOCK ---
+Machetes Plesioth
+--- BLOCK ---
+Tajadores verdes
+--- BLOCK ---
+Tajadores de aluvión
+--- BLOCK ---
+Aban. Plesioth jade
+--- BLOCK ---
+Abanicos guerra jade
+--- BLOCK ---
+Alas sangrientas
+--- BLOCK ---
+Alas sangrientas+
+--- BLOCK ---
+Alas venenosas
+--- BLOCK ---
+Alas sombrías
+--- BLOCK ---
+Alas Nox sombrías
+--- BLOCK ---
+Boltgeist
+--- BLOCK ---
+Alas rayo dobles
+--- BLOCK ---
+Rayos letales dobles
+--- BLOCK ---
+Llamas fraternas
+--- BLOCK ---
+Fuegos fraternos
+--- BLOCK ---
+Amante de wyverns
+--- BLOCK ---
+Lucha wyvern
+--- BLOCK ---
+Conciliación wyvern
+--- BLOCK ---
+Cortadores de nieve
+--- BLOCK ---
+Cortadores de nieve+
+--- BLOCK ---
+Hermanas de nieve
+--- BLOCK ---
+Neviscarioths
+--- BLOCK ---
+Neviscarioths+
+--- BLOCK ---
+Tallahielos asalt.
+--- BLOCK ---
+Ventus Vindictus
+--- BLOCK ---
+Salvajismo asaltante
+--- BLOCK ---
+Machacador Diablos
+--- BLOCK ---
+Machacador Diablos+
+--- BLOCK ---
+Aplastador Diablos
+--- BLOCK ---
+Sinidex Diablos
+--- BLOCK ---
+Sinistrus Dextraos
+--- BLOCK ---
+Furia y rencor
+--- BLOCK ---
+Depredación furiosa
+--- BLOCK ---
+Ira de Nerón
+--- BLOCK ---
+Hojas desgastadas
+--- BLOCK ---
+Hojas estropeadas
+--- BLOCK ---
+Cisma duradero
+--- BLOCK ---
+Sacrificio duradero
+--- BLOCK ---
+Bordes de Mercurio
+--- BLOCK ---
+Bordes de Neptuno
+--- BLOCK ---
+Deuhojas pelágicas
+--- BLOCK ---
+Espantapájaros Shaka
+--- BLOCK ---
+Espantapáj. Chachi
+--- BLOCK ---
+Espantap. Chum-Chum
+--- BLOCK ---
+Armas de glotón
+--- BLOCK ---
+Útiles de glotón
+--- BLOCK ---
+Menaje wyvern
+--- BLOCK ---
+Fritanga profunda
+--- BLOCK ---
+Nova de Megido
+--- BLOCK ---
+Puñosolución
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bushido
+--- BLOCK ---

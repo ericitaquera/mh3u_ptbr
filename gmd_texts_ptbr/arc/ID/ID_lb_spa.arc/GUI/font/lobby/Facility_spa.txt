@@ -1,0 +1,2584 @@
+TMSG_ITEMGET
+--- BLOCK ---
+TMSG_FACILITY
+--- BLOCK ---
+TMSG_MYH
+--- BLOCK ---
+TMSG_KAKO
+--- BLOCK ---
+TMSG_FISHERY
+--- BLOCK ---
+TMSG_CANTEEN
+--- BLOCK ---
+TMSG_FARM
+--- BLOCK ---
+TMSG_DELI
+--- BLOCK ---
+TMSG_TRADE
+--- BLOCK ---
+TMSG_TRADE_FLAG
+--- BLOCK ---
+TMSG_TRADE_DET
+--- BLOCK ---
+TMSG_CHACHA_TOPMENU
+--- BLOCK ---
+TMSG_CHACHA_STATUS
+--- BLOCK ---
+TMSG_CHACHA_SUBMENU
+--- BLOCK ---
+TMSG_CHACHA_MASKINFO
+--- BLOCK ---
+TMSG_CHACHA_DANCEMENU
+--- BLOCK ---
+TMSG_CHACHA_MASKNAME
+--- BLOCK ---
+TMSG_CHACHA_MASKEXPLAIN
+--- BLOCK ---
+TMSG_CHACHA_SKILLNAME
+--- BLOCK ---
+TMSG_CHACHA_SKILLEXPLAIN
+--- BLOCK ---
+TMSG_CHACHA_DANCENAME
+--- BLOCK ---
+TMSG_CHACHA_EFFECTNAME
+--- BLOCK ---
+TMSG_CHACHA_EFFECTCOST
+--- BLOCK ---
+TMSG_CHACHA_PARAM
+--- BLOCK ---
+TMSG_CHACHA_PARAM_HEALSPEED
+--- BLOCK ---
+TMSG_CHACHA_PARAM_ATTR
+--- BLOCK ---
+DESTINATION
+--- BLOCK ---
+RANKING
+--- BLOCK ---
+INFO
+--- BLOCK ---
+GIRL
+--- BLOCK ---
+MAIL
+--- BLOCK ---
+CEC
+--- BLOCK ---
+TMSG_GUEST_HUNTER
+--- BLOCK ---
+TMSG_GUILD_MASTER
+--- BLOCK ---
+TMSG_EXCHANGE_MONSTER_EXP
+--- BLOCK ---
+NET_ERROR
+--- BLOCK ---
+TMSG_MEDAL_GET
+--- BLOCK ---
+TMSG_MOVIE_ADD
+--- BLOCK ---
+TMSG_SHOITEM_REWARD
+--- BLOCK ---
+Caixa de coleta
+--- BLOCK ---
+Coleta
+--- BLOCK ---
+Enviar para Caixa de Itens
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Coloque itens de coleta
+na Bolsa de Itens.
+--- BLOCK ---
+Enviar itens de coleta para
+a caixa de itens.
+--- BLOCK ---
+Vender itens de
+coleta restantes.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pegar mercadorias
+--- BLOCK ---
+Enviar para caixa de itens
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Colocar mercadorias na
+Bolsa de Itens.
+--- BLOCK ---
+Envie mercadorias para a Caixa de Itens.
+--- BLOCK ---
+Vender as mercadorias restantes.
+--- BLOCK ---
+Caixa de pesca
+--- BLOCK ---
+Pegar peixes
+--- BLOCK ---
+Enviar para caixa de itens
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Coloque os itens do carregamento
+na Bolsa de Itens.
+--- BLOCK ---
+Enviar itens do carregamento para
+a caixa de itens.
+--- BLOCK ---
+Vender itens do
+carregamento restantes.
+--- BLOCK ---
+Compras
+--- BLOCK ---
+Pegar itens
+--- BLOCK ---
+Enviar para caixa de itens
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Coloque itens de troca
+na Bolsa de Itens.
+--- BLOCK ---
+Enviar itens de troca para
+a caixa de itens.
+--- BLOCK ---
+Vender os itens de troca
+para a caixa de itens.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pegar itens
+--- BLOCK ---
+Enviar para caixa de itens
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Coloque na bolsa de
+itens os objetos coletados
+por seu parceiro.
+--- BLOCK ---
+Enviar para caixa de
+itens os objetos coletados
+por seu parceiro.
+--- BLOCK ---
+Vender os outros itens
+reunidos por seu parceiro.
+--- BLOCK ---
+Recompensa Arena
+--- BLOCK ---
+Coletar recompensas
+--- BLOCK ---
+Enviar para caixa de itens
+--- BLOCK ---
+Vender objetos e sair
+--- BLOCK ---
+Coloque itens de recompensa
+na Bolsa de Itens.
+--- BLOCK ---
+Enviar recompensa para sua
+Caixa de objetos.
+--- BLOCK ---
+Vender todos os
+itens recompensa restantes.
+--- BLOCK ---
+Sair
+--- BLOCK ---
+Status
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+1-8
+--- BLOCK ---
+9-16
+--- BLOCK ---
+17-24
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Mat. nec.
+--- BLOCK ---
+Possui/Falta
+--- BLOCK ---
+Adic. escudo
+--- BLOCK ---
+Adic. silenciador
+--- BLOCK ---
+Adic. canhão de força
+--- BLOCK ---
+Adic. mira com zoom
+--- BLOCK ---
+Remover limitador
+--- BLOCK ---
+Remover escudo
+--- BLOCK ---
+Remover silenciador
+--- BLOCK ---
+Remover canhão de força
+--- BLOCK ---
+Adic. mira fixa
+--- BLOCK ---
+Com limitador
+--- BLOCK ---
+Adic. canhão longo
+--- BLOCK ---
+Remover canhão longo
+--- BLOCK ---
+Provisões
+--- BLOCK ---
+Região
+--- BLOCK ---
+Provisões
+--- BLOCK ---
+Comentários
+--- BLOCK ---
+Nv. Navio
+--- BLOCK ---
+★
+--- BLOCK ---
+☆
+--- BLOCK ---
+Região
+--- BLOCK ---
+Jogo
+--- BLOCK ---
+Caixa de pesca
+--- BLOCK ---
+Comida
+--- BLOCK ---
+Ingredien.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Custo
+--- BLOCK ---
+Ing. A
+--- BLOCK ---
+Ing. B
+--- BLOCK ---
+Efe
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pagar uma refeição
+--- BLOCK ---
+Usar Voucher
+--- BLOCK ---
+Usar Voucher gourmet
+--- BLOCK ---
+Carne Espinhosa
+--- BLOCK ---
+Porco de Musgo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Peixe escama
+--- BLOCK ---
+Água marinha
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pão duro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cirulabaza
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Puerro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Queso musgoso
+--- BLOCK ---
+Leche salada
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Master Cola
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Língua de Popo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Peru rei
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Camarão
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pan Jumbo
+--- BLOCK ---
+Arroz Kokoto
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cebordelletas
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Manteca búfalo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Orujo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cabeza dragón
+--- BLOCK ---
+Atún peludo
+--- BLOCK ---
+Caviar rosa
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pan de cielo
+--- BLOCK ---
+Megarrosquilla
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Trufa rey
+--- BLOCK ---
+Tomate gordo
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Manteca Kirin
+--- BLOCK ---
+Queijo real
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vinho abençoado
+--- BLOCK ---
+Cola mestre
+--- BLOCK ---
+Caldo de Peixe dourado
+--- BLOCK ---
+Mosto de Tanzia
+--- BLOCK ---
+Salteado
+--- BLOCK ---
+Ensopado
+--- BLOCK ---
+Vapor
+--- BLOCK ---
+Frito
+--- BLOCK ---
+Habilidade fixas
+--- BLOCK ---
+Habilidade do dia
+--- BLOCK ---
+Usar
+dinheiro
+--- BLOCK ---
+Usar
+Recursos
+--- BLOCK ---
+Cancelar
+--- BLOCK ---
+Pedido
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Usar zenis
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Gratificação
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Comida simples, mas chamativa.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Estranhamente deliciosa!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Uma refeição revitalizante!
+--- BLOCK ---
+Muito nutritiva e deliciosa!
+--- BLOCK ---
+Um sabor muito fresco!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Um sabor muito potente!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+A comida tinha um sabor selvagem!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Tinha uma textura única!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Que refeição abundante!
+--- BLOCK ---
+Tinha um sabor místico!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Uma refeição rica e satisfatória!
+--- BLOCK ---
+Um sabor de luxo!
+--- BLOCK ---
+Um refinado sabor!
+--- BLOCK ---
+Um sabor intenso e doce!
+--- BLOCK ---
+Uma harmoniosa mistura de sabores!
+--- BLOCK ---
+Seu sabor estava muito madurado!
+--- BLOCK ---
+Um sabor ousado mas delicado!
+--- BLOCK ---
+Tinha um sabor duplo!
+--- BLOCK ---
+Uau! O dobro de essência!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Não estava tão ruim... Hic!
+--- BLOCK ---
+A carne deste prato
+se derrete na boca.
+--- BLOCK ---
+Um sabor forte que
+os Espadachins adoram.
+--- BLOCK ---
+Uma mistura de ofensa
+e defesa, não é?
+--- BLOCK ---
+Evite os elementos e
+melhore o Ataque!
+--- BLOCK ---
+Sabor agressivo para
+os Atiradores.
+--- BLOCK ---
+Enche a barriga e
+te enche de poder.
+--- BLOCK ---
+O aroma a peixe
+abre os pulmões.
+--- BLOCK ---
+Uma dose de defesa em
+cada bocado, não é?
+--- BLOCK ---
+Nadar com sabor. Para
+molhar os sapos!
+--- BLOCK ---
+Vai coletar? Isso
+é muito bom!
+--- BLOCK ---
+Um aperitivo para
+uma necessidade especial.
+--- BLOCK ---
+Dizem que esses
+grãos têm areia.
+--- BLOCK ---
+Evite os elementos e
+melhore a defesa!
+--- BLOCK ---
+Este tem algo, mmm
+je ne sais quoi.
+--- BLOCK ---
+Um petisco para te
+manter de pé.
+--- BLOCK ---
+Habilidades do dia: surpresas
+na tua boca!
+--- BLOCK ---
+Nunca estarás fora do
+teu elemento, não é?
+--- BLOCK ---
+Uma última ceia? Tenho
+o que procuras.
+--- BLOCK ---
+Um gole te durará
+um tempinho, não é?
+--- BLOCK ---
+Com um só trago
+terás uma bela tontura.
+--- BLOCK ---
+Oh la la. Isso
+vai te deixar tonto...
+--- BLOCK ---
+%s foi ativado!
+--- BLOCK ---
+%s aumentado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(G)
+--- BLOCK ---
+(M)
+--- BLOCK ---
+(P)
+--- BLOCK ---
+Trocaste um %s.
+--- BLOCK ---
+%s trocou um %s.
+--- BLOCK ---
+Mais nv. ingr.! (Carne)
+--- BLOCK ---
+Mais nv. ingr.! (Pescado)
+--- BLOCK ---
+Mais nv. ingr.! (Grãos)
+--- BLOCK ---
+Mais nv. ingr.! (Verdura)
+--- BLOCK ---
+Mais nv. ingr.! (Lácteos)
+--- BLOCK ---
+Mais nv. ingr.! (Bebida)
+--- BLOCK ---
+Beber
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Bebida adicionada aos seus ingredientes!
+--- BLOCK ---
+Parabéns! Você
+conseguiu: %s!
+--- BLOCK ---
+Enviado para a Caixa de Objetos: %s.
+--- BLOCK ---
+Impossível receber. Caixa
+de objetos cheia.
+--- BLOCK ---
+Cultivo
+--- BLOCK ---
+Adubo
+--- BLOCK ---
+Ciclos
+--- BLOCK ---
+Área
+--- BLOCK ---
+Nv1
+--- BLOCK ---
+Nv2
+--- BLOCK ---
+NvMÁX
+--- BLOCK ---
+Detalhes
+--- BLOCK ---
+Cliente:
+--- BLOCK ---
+Entregar
+--- BLOCK ---
+Qtd.
+--- BLOCK ---
+Inven.
+--- BLOCK ---
+Rec.
+--- BLOCK ---
+Adicionar à oferta
+--- BLOCK ---
+Repor
+--- BLOCK ---
+Adicionar para troca
+--- BLOCK ---
+Repor
+--- BLOCK ---
+Bens
+--- BLOCK ---
+Artig.
+--- BLOCK ---
+Você
+--- BLOCK ---
+Capit.
+--- BLOCK ---
+Sua oferta
+--- BLOCK ---
+Itens para compra
+--- BLOCK ---
+Você
+--- BLOCK ---
+Capitão
+--- BLOCK ---
+★
+--- BLOCK ---
+Artig.
+--- BLOCK ---
+Compras
+--- BLOCK ---
+Resumo
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Bônus Capitão
+--- BLOCK ---
+Bônus Lançavermelha
+--- BLOCK ---
+Bônus Lançanegra
+--- BLOCK ---
+Cerdo Andino
+--- BLOCK ---
+Meias de anjo
+--- BLOCK ---
+Ovelha sonolenta
+--- BLOCK ---
+Porco-rã
+--- BLOCK ---
+Códice Balestra
+--- BLOCK ---
+Códice coronha
+--- BLOCK ---
+Códice de arma
+--- BLOCK ---
+Tomo Caçador
+--- BLOCK ---
+Tomo Sete vidas
+--- BLOCK ---
+Dança Waka-Waka
+--- BLOCK ---
+Máx. Capitão
+--- BLOCK ---
+Máx. Lançavermelha
+--- BLOCK ---
+Máx. Lançanegra
+--- BLOCK ---
+Tomo Recoletor
+--- BLOCK ---
+Tomo Último de pé
+--- BLOCK ---
+Dança Boom-Boom
+--- BLOCK ---
+Felyne falso
+--- BLOCK ---
+Tomo Bombardero
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Máscara fedida
+--- BLOCK ---
+Máscara de amolador
+--- BLOCK ---
+Máscara de ídolo
+--- BLOCK ---
+Melhore um dos barcos
+de caça. Visite águas
+que produzem melhores capturas.
+--- BLOCK ---
+Melhore um dos barcos
+de caça. Visite águas
+que produzem melhores capturas.
+--- BLOCK ---
+Melhore um dos barcos
+de caça. Visite águas
+que produzem melhores capturas.
+--- BLOCK ---
+Vista seu mascote com
+estilo. Não perca a
+visão dessa incrível melancia!
+--- BLOCK ---
+Vista seu mascote com
+estilo. Uma gracinha com
+asas e patinhas aparecendo!
+--- BLOCK ---
+Vista seu mascote com
+estilo. A lã macia
+torna seu porquinho superfofinho.
+--- BLOCK ---
+Vista seu mascote com estilo.
+A cauda de girino
+encantará a todos. (
+--- BLOCK ---
+Forje uma nova arma
+na Ferraria: uma Balestra
+Pesada de sombria lenda.
+--- BLOCK ---
+Forje uma arma na
+Ferraria: uma coronha
+de balestra ultramarina.
+--- BLOCK ---
+Forje uma nova arma na
+Ferraria: uma Espada e um
+Escudo de terras distantes.
+--- BLOCK ---
+Cha-Cha e Kayamba aprendem
+a habilidade "Caçador".
+Por ciência infusa!
+--- BLOCK ---
+Cha-Cha e Kayamba aprendem
+a habilidade "Sete vidas".
+Por ciência infusa!
+--- BLOCK ---
+Documente uma dança louca que
+encanta corpo e mente.
+--- BLOCK ---
+Otimize um dos barcos
+de caça. Acesse águas
+que superam a imaginação.
+--- BLOCK ---
+Otimize um dos barcos
+de caça. Acesse águas
+que superam a imaginação.
+--- BLOCK ---
+Otimize um dos barcos
+de caça. Acesse águas
+que superam a imaginação.
+--- BLOCK ---
+Cha-Cha e Kayamba aprendem
+a habilidade "Recoletor".
+Por ciência infusa!
+--- BLOCK ---
+Cha-Cha e Kayamba aprendem
+a habilidade "Último de
+pé". Por ciência infusa!
+--- BLOCK ---
+Documente uma dança tropical
+frenética que aumenta
+tudo um pouco!
+--- BLOCK ---
+Uma máscara que parece o
+rosto de um Felyne, mas
+esconde um ser menos fofo.
+--- BLOCK ---
+Cha-Cha e Kayamba aprendem
+a habilidade "Bombardero".
+Por ciência infusa!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Máscara modelada como uma
+Bomba esterco. Cheira mal,
+mas tem sua utilidade...
+--- BLOCK ---
+Máscara com uma Pedra
+de amolar gigante. Sua
+mente nunca ficará embaçada!
+--- BLOCK ---
+Máscara como o ídolo Felyne
+de certa vila com águas
+termais. Dá boa sorte.
+--- BLOCK ---
+Deixar
+--- BLOCK ---
+Convidar para missão
+--- BLOCK ---
+Trocar Máscara
+--- BLOCK ---
+Escolher danças
+--- BLOCK ---
+Escolher habilidades
+--- BLOCK ---
+Ver estatísticas
+--- BLOCK ---
+Multijogador: Levar
+--- BLOCK ---
+Multijogador: Deixar
+--- BLOCK ---
+Estado Cha-Cha
+--- BLOCK ---
+Ao seu lado
+--- BLOCK ---
+Pronto
+--- BLOCK ---
+Multijogador: Levar
+--- BLOCK ---
+Multijogador: Deixar
+--- BLOCK ---
+Estado Kayamba
+--- BLOCK ---
+Lista de máscaras
+--- BLOCK ---
+Lista de habilidades
+--- BLOCK ---
+Lista de danças
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Mestre
+--- BLOCK ---
+Habilidades
+--- BLOCK ---
+Danças
+--- BLOCK ---
+Efeitos de dança
+--- BLOCK ---
+Cota resist.
+--- BLOCK ---
+Dança A
+--- BLOCK ---
+Dança B
+--- BLOCK ---
+M. glande
+--- BLOCK ---
+M. lâmpada
+--- BLOCK ---
+M. antiga
+--- BLOCK ---
+M. misteriosa
+--- BLOCK ---
+M. churrasqueira
+--- BLOCK ---
+M. pelúcia
+--- BLOCK ---
+Felyne falso
+--- BLOCK ---
+Máscara tenaz
+--- BLOCK ---
+Melynx falso
+--- BLOCK ---
+Máscara fedida
+--- BLOCK ---
+Máscara de amolador
+--- BLOCK ---
+Máscara recife
+--- BLOCK ---
+Máscara curibaya
+--- BLOCK ---
+Máscara Rathalos
+--- BLOCK ---
+Gargwa gag
+--- BLOCK ---
+Máscara total
+--- BLOCK ---
+Máscara de ídolo
+--- BLOCK ---
+Másc. artilheiro
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Máscara azarada
+--- BLOCK ---
+Máscara azarada
+--- BLOCK ---
+Máscara astral
+--- BLOCK ---
+Picadilllooo
+--- BLOCK ---
+Máscara infantil da vila
+de Cha-Cha. Feita de
+uma glande gigante.
+Como Cha-Cha é
+impulsivo, ataca de
+perto e principalmente
+a monstros grandes.
+--- BLOCK ---
+Máscara de lâmpada de
+óleo. Dá o sinal
+e sua luz
+iluminará seu caminho.
+Ao usá-la, seu
+fogo faz atacar
+incessantemente monstros pequenos.
+--- BLOCK ---
+Máscara com a sabedoria
+dos anciãos. Usá-la dá
+velocidade na água e
+um rastro de oxigênio
+ao dar o sinal.
+Quem a usa ataca
+grandes monstros com ferocidade.
+--- BLOCK ---
+Máscara feita com uma
+panela misteriosa. Tire um
+objeto e o arremesse
+com uma fumaça. Quando
+se dissipar, um novo
+objeto! Costuma atacar grandes
+monstros à distância.
+--- BLOCK ---
+Máscara feita com um
+espeto de churrasco, que
+pode grelhar a carne.
+É pesada e volumosa,
+precisa segurar. Quem a
+usa ataca de
+longe monstros pequenos.
+--- BLOCK ---
+Máscara com orelhas grandes
+bonitas. Um sinal e
+marca no mapa os
+grandes monstros. Mas suas
+orelhas o tornam sensível
+e nervoso, e você
+não luta. Que pena!
+--- BLOCK ---
+Máscara à imagem de um
+Felyne muito famoso de
+uma vila distante. Lança
+bombas por todo lado,
+é um pouco assustador.
+Quem a usa ataca
+grandes monstros de perto.
+--- BLOCK ---
+Máscara favorita de Kayamba,
+com pinças de caranguejo.
+Assusta, mas não é
+mais forte que a
+de glande de Cha-Cha.
+Concentra-se em grandes
+monstros de perto.
+--- BLOCK ---
+Máscara modelada como um
+Melynx. Pode atacar além
+de roubar material, mas
+apenas de perto. Mesmo
+com sua baixa Defesa,
+ataca grandes monstros.
+--- BLOCK ---
+Máscara que pode carregar
+Bombas esterco. Quem
+a usa ataca
+grandes monstros, mas
+de longe para
+evitar o odor.
+Abstenha-se narizes sensíveis!
+--- BLOCK ---
+Máscara com uma Pedra
+de amolar gigante. Pode
+restaurar o Fio e
+dá habilidade de caça,
+útil mesmo para Atiradores.
+Aponta para monstros
+pequenos de perto.
+--- BLOCK ---
+Máscara para atacar de
+longe monstros pequenos e
+cavar Armadilhas recife. Se
+a armadilha for destruída,
+sua Saúde cai e
+você deve fugir. Não
+serve debaixo d'água.
+--- BLOCK ---
+Máscara com essência de
+Curibaya. Ao seu sinal,
+cura as pragas elementares
+e anula a redução
+de resistências. Mas curar
+é cansativo e quem
+se cura não luta.
+--- BLOCK ---
+Máscara como um Rathalos,
+o rei dos céus.
+Lança um rugido sônico,
+mesmo debaixo d'água. Dá
+grande habilidade de
+caça: ataca grandes
+monstros de perto.
+--- BLOCK ---
+Linda máscara de Gargwa. Em
+retirada, deixa um ovo que
+se torna um objeto
+para o caçador. Não
+encoraja o combate; quem
+a usa mira de
+longe em monstros pequenos.
+--- BLOCK ---
+Máscara tradicional em Shakalaka.
+Para com firmeza muitos
+ataques e permite
+atacar grandes monstros
+de perto para
+ajudar o caçador.
+--- BLOCK ---
+Máscara como um ídolo
+Felyne de uma vila
+com águas termais.
+Garante seu retorno
+com efeito Transportador.
+Ataca grandes monstros
+a curta distância.
+--- BLOCK ---
+Máscara como um canhão
+com Shakalakas de munição.
+Rouba Saúde ao triste
+projétil, mas não
+serve debaixo d'água.
+Ataca grandes monstros
+de longas distâncias.
+--- BLOCK ---
+Máscara que cobre o
+corpo todo e permite
+buscar dinheiro estranho
+em lugares estreitos.
+Para dois Shakalakas,
+ataca monstros pequenos
+à longa distância.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Tudo parece dar errado
+nesta máscara; sua única
+habilidade é reagir à
+eletricidade. Quem a usa
+ataca de perto
+grandes monstros; algum
+poder ela tem.
+--- BLOCK ---
+Com esta máscara, ataca
+grandes monstros de perto.
+Apesar de sua carga
+elétrica, não é muito
+útil. Mas se pode
+envolver em uma
+grande corrente elétrica...
+--- BLOCK ---
+Máscara esplêndida como uma antiga
+figura de barro. Dizem que
+dá boa sorte, mas
+pode ser só boato.
+Quem a usa ataca
+monstros pequenos de longe.
+--- BLOCK ---
+Máscara atraente feita de
+carne. Atrai grandes monstros
+com sua essência. Quem
+a usa ataca grandes
+monstros de perto.
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Caçador de choque
+--- BLOCK ---
+Ataque de fogo
+--- BLOCK ---
+Ataque de água
+--- BLOCK ---
+Ataque de gelo
+--- BLOCK ---
+Ataque de trovão
+--- BLOCK ---
+Ataque de dragão
+--- BLOCK ---
+Elemental +1
+--- BLOCK ---
+Ataque de veneno
+--- BLOCK ---
+Ataque de paralisia
+--- BLOCK ---
+Ataque de sono
+--- BLOCK ---
+Doença +1
+--- BLOCK ---
+Ataque atordoante
+--- BLOCK ---
+Potenciador afinidade
+--- BLOCK ---
+Potenciador ataque
+--- BLOCK ---
+Potenciador defesa
+--- BLOCK ---
+Potenciador guarda
+--- BLOCK ---
+Potenciador agilidade
+--- BLOCK ---
+Recuperação rápida
+--- BLOCK ---
+Caçador
+--- BLOCK ---
+Recoletor
+--- BLOCK ---
+Sete vidas
+--- BLOCK ---
+Último de pé
+--- BLOCK ---
+Ira
+--- BLOCK ---
+Tampões para ouvido
+--- BLOCK ---
+Rompe-tempo
+--- BLOCK ---
+Antídoto
+--- BLOCK ---
+Bombardero
+--- BLOCK ---
+Fogueteiro
+--- BLOCK ---
+Irmãos de sangue
+--- BLOCK ---
+Ataque de baba
+--- BLOCK ---
+Ladrão
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(Sem habilidades)
+--- BLOCK ---
+Faça este selo para lembrar
+o portador de como
+usar a Armadilha choque.
+--- BLOCK ---
+Faça este selo, o portador
+obterá Ataque de fogo. Selo
+elemental reduz o Atq.
+--- BLOCK ---
+Faça este selo, o
+portador obterá Ataque de
+água, antiga habilidade Shakalaka.
+--- BLOCK ---
+Faça este selo, o portador
+obterá Ataque de gelo. Você
+verá as fraquezas inimigas!
+--- BLOCK ---
+Faça este selo, o portador
+obterá Ataque de trovão. Você
+verá as fraquezas inimigas!
+--- BLOCK ---
+Faça este selo, o
+portador obterá Ataque de
+dragão. Difícil de descrever.
+--- BLOCK ---
+Aumenta o poder dos selos
+de ataque elemental. Mas só
+um tolo o desenha...
+--- BLOCK ---
+Selo de aparência venenosa.
+Desenhe-o e o portador
+terá um olhar tóxico.
+--- BLOCK ---
+Selo que pode paralisar
+o inimigo. Requer escrita
+fluida e clara.
+--- BLOCK ---
+Selo que faz os
+monstros dormirem. Desenhá-lo
+já provoca cansaço.
+--- BLOCK ---
+Aumenta o poder dos selos
+de ataque de estado anormal.
+Só um tolo o desenha...
+--- BLOCK ---
+Selo que pode atordoar o
+inimigo se o portador atacar
+a cabeça. Tudo volta!
+--- BLOCK ---
+O portador ataca com raiva
+quando vê os insultos que
+aparecem em sua máscara.
+--- BLOCK ---
+Selo que aumenta o Ataque.
+O portador queima de desejo
+de caçar monstros grandes.
+--- BLOCK ---
+Palavras de estímulo dentro
+da máscara equipada, que
+dão força ao portador.
+--- BLOCK ---
+Palavras simples descrevem técnicas
+úteis de bloqueio
+na máscara equipada.
+--- BLOCK ---
+Não é um selo; é
+uma foto do portador
+ganhando uma corrida. Autoestima!
+--- BLOCK ---
+Selo que reduz o
+tempo de recuperação. Como
+dizem, "Camarão que dorme..."
+--- BLOCK ---
+Promessa de parar de coletar
+para se concentrar apenas
+em dançar e atacar.
+--- BLOCK ---
+Promessa de se concentrar
+totalmente em coletar. Um
+remédio contra a pobreza!
+--- BLOCK ---
+Selo que fortalece o
+portador quando revive.
+Funciona sete vezes.
+--- BLOCK ---
+Sem margem de erro! O
+portador não revive, mas
+suas estatísticas melhoram muito.
+--- BLOCK ---
+Este selo deixa o portador
+muito irritado. Ele não
+terá vontade de conversar.
+--- BLOCK ---
+Selo que impede de ouvir
+rugidos, mas talvez o
+portador não ouça você.
+--- BLOCK ---
+Selo com o qual
+o portador permanece imperturbável
+contra ventos e correntes.
+--- BLOCK ---
+Selo que impede
+o envenenamento do
+portador. Pensamento positivo!
+--- BLOCK ---
+Selo que reforça os ataques
+de baba e bombas lançadas
+com forma de Felyne.
+--- BLOCK ---
+Selo que reforça os ataques
+de canhão e balista
+do portador... se acertar.
+--- BLOCK ---
+Selo amigável que melhora o Ataque
+e a Defesa de um
+Shakalaka se o outro cair.
+--- BLOCK ---
+Selo que, usado sabiamente
+contra monstros, pode
+ter resultados explosivos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Dança Rah-Rah
+--- BLOCK ---
+Dança Ooga-Boo
+--- BLOCK ---
+Dança Waka-Waka
+--- BLOCK ---
+Dança Boom-Boom
+--- BLOCK ---
+Dança Yuu-juu
+--- BLOCK ---
+Provocar
+--- BLOCK ---
+Pot. Ataque (P)
+--- BLOCK ---
+Pot. Ataque (G)
+--- BLOCK ---
+Pot. Defesa (P)
+--- BLOCK ---
+Pot. Defesa (G)
+--- BLOCK ---
+Antídoto
+--- BLOCK ---
+Recup. Saúde (P)
+--- BLOCK ---
+Recup. Saúde (G)
+--- BLOCK ---
+Quente e frio
+--- BLOCK ---
+Rompe-tempo
+--- BLOCK ---
+Resistência
+--- BLOCK ---
+Destello
+--- BLOCK ---
+Bomba sônica
+--- BLOCK ---
+Pot. res. praga
+--- BLOCK ---
+Rec. natural +1
+--- BLOCK ---
+Proteção auditiva
+--- BLOCK ---
+Efeito objeto +1
+--- BLOCK ---
+Pot. atq. elem.
+--- BLOCK ---
+Ba
+--- BLOCK ---
+Me
+--- BLOCK ---
+Al
+--- BLOCK ---
+Estatísticas
+--- BLOCK ---
+Es. bás.
+--- BLOCK ---
+Nível
+--- BLOCK ---
+Valor
+--- BLOCK ---
+Saúde
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Elem.
+--- BLOCK ---
+Defesa
+--- BLOCK ---
+Mais
+--- BLOCK ---
+Mestria
+--- BLOCK ---
+Hab.
+--- BLOCK ---
+Estat. dança
+--- BLOCK ---
+Resist.
+--- BLOCK ---
+Recuperação
+--- BLOCK ---
+Ef. dança
+--- BLOCK ---
+Médio
+--- BLOCK ---
+AlgVeloz
+--- BLOCK ---
+Veloz
+--- BLOCK ---
+AlgLento
+--- BLOCK ---
+Lento
+--- BLOCK ---
+--
+--- BLOCK ---
+FUE
+--- BLOCK ---
+AGU
+--- BLOCK ---
+HIE
+--- BLOCK ---
+TRU
+--- BLOCK ---
+DRA
+--- BLOCK ---
+VN
+--- BLOCK ---
+PA
+--- BLOCK ---
+SÑ
+--- BLOCK ---
+BA
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Escolha do porto:
+--- BLOCK ---
+Individual
+--- BLOCK ---
+Multijogador
+--- BLOCK ---
+Buscar amigos
+--- BLOCK ---
+Aldeia de Moga
+--- BLOCK ---
+Marina
+--- BLOCK ---
+Taverna
+--- BLOCK ---
+Menu superior
+--- BLOCK ---
+Aldeia de Moga
+--- BLOCK ---
+Solic. Fazenda
+--- BLOCK ---
+Solic. Pescaria
+--- BLOCK ---
+Viagem rápida
+--- BLOCK ---
+A sessão atual
+será desconectada. Aceitar?
+--- BLOCK ---
+A conexão falhou. Pressione
+o botão A.
+--- BLOCK ---
+Escolha um destino.
+--- BLOCK ---
+Escolha um destino. <COLO
+5>Botão Y: Pesquisar mais
+--- BLOCK ---
+Escolha uma área inicial.
+--- BLOCK ---
+Há algum pedido?
+--- BLOCK ---
+Desconectando...
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Classif.
+--- BLOCK ---
+Classif. completas
+--- BLOCK ---
+Classif. Lista de cartas
+--- BLOCK ---
+Rank
+--- BLOCK ---
+Tempo
+--- BLOCK ---
+Caçadores.
+--- BLOCK ---
+Todos
+--- BLOCK ---
+Lista
+--- BLOCK ---
+Companheiro
+--- BLOCK ---
+Caçadores.
+--- BLOCK ---
+Meu recorde
+--- BLOCK ---
+Classif.
+--- BLOCK ---
+Atualiz.
+--- BLOCK ---
+■%02d/%02d <COLO 02>Melhor tempo <COLO 01>mudança!
+--- BLOCK ---
+Rank/tempo
+--- BLOCK ---
+Ainda sem marcas.
+--- BLOCK ---
+As classificações aguardam. Aproveite
+o dia, caçador!
+--- BLOCK ---
+Ainda sem marcas.
+Ninguém pelo StreetPass?
+--- BLOCK ---
+Classificação atualizada. Foi
+você, caçador?
+--- BLOCK ---
+Ei! Alguém quebrou um recorde!
+Vamos ver o que fez!
+--- BLOCK ---
+Não muda a classificação. Que
+tal dar uma animada?
+--- BLOCK ---
+A classificação não muda.
+Vamos lá, acorde!
+--- BLOCK ---
+Toque no painel "Caçadores"
+para ver os participantes.
+--- BLOCK ---
+Entre na Arena e
+mova a classificação, quer?
+--- BLOCK ---
+Temos que quebrar os
+recordes! Alguém comece logo!
+--- BLOCK ---
+Se seu ouvido está coçando, alguém
+está de olho em suas marcas...
+--- BLOCK ---
+Nenhum caçador é uma ilha.
+Saia um pouco! Socialize!
+--- BLOCK ---
+Você não quebrará seus recordes
+sozinho. Traga amigos para ajudar!
+--- BLOCK ---
+Por terra ou mar, o caçador
+sabe escolher bem suas armas.
+--- BLOCK ---
+Toque no nome de um caçador
+para ver seu cartão do Gremio.
+--- BLOCK ---
+Os caçadores cujos cartões ainda
+não possui aparecem como "Companheiros".
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+StreetPass está...
+--- BLOCK ---
+ativado
+--- BLOCK ---
+desativado
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Caixa de correio do Gremio
+--- BLOCK ---
+StreetPass
+--- BLOCK ---
+Ativar StreetPass?
+--- BLOCK ---
+Sim
+--- BLOCK ---
+Não
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Ver cartão
+--- BLOCK ---
+Sup.
+--- BLOCK ---
+Registrar
+--- BLOCK ---
+(Sem cartão do Gremio)
+--- BLOCK ---
+Os dados do StreetPass do Monster
+Hunter 3 Ultimate não estão
+na consola. Deseja registrá-los agora?
+--- BLOCK ---
+Para usar o StreetPass no Monster
+Hunter 3 Ultimate, você deve aceitar
+o contrato de uso mais recente.
+Ver o contrato de uso agora?
+--- BLOCK ---
+Salvar cartões marcados na sua Lista? <COLO
+2>Os cartões salvos serão excluídos da
+Caixa de Cartões da Guilda. </COLO>
+--- BLOCK ---
+Apagar cartões do Gremio marcados?
+<COLO 2>Você não poderá recuperar
+os cartões que apagar. </COLO>
+--- BLOCK ---
+Deseja adicionar à lista de bloqueio de
+usuários? <COLO 2>Atenção: o conteúdo de
+outros jogos pode ficar inacessível. </COLO>
+--- BLOCK ---
+Tem certeza?
+--- BLOCK ---
+Aplicar mudanças?
+--- BLOCK ---
+Sair sem aplicar mudanças?
+--- BLOCK ---
+Registrar dados do StreetPass do Monster
+Hunter 3 Ultimate nesta consola?
+--- BLOCK ---
+Salvar as configurações do StreetPass? <COLO 2>O
+progresso do jogo também é salvo. </COLO>
+--- BLOCK ---
+<COLO 2>O StreetPass não pode ser
+ativado para nenhum outro programa. </COLO>Acesse
+Configurações → Gerenciamento de dados →
+Gerenciamento de StreetPass e desative
+o StreetPass para outro programa.
+--- BLOCK ---
+Falha ao registrar dados do StreetPass
+do Monster Hunter 3 Ultimate na
+consola. O StreetPass continuará desativado.
+--- BLOCK ---
+<COLO 2>Ocorreu um erro. Redefina
+suas configurações usando o menu
+"StreetPass" do mensageiro.</COLO>
+--- BLOCK ---
+O StreetPass está restrito pelo
+controle parental. Não é
+possível usar o StreetPass.
+--- BLOCK ---
+O StreetPass foi desativado para
+o Monster Hunter 3 Ultimate.
+--- BLOCK ---
+Dados do StreetPass para o
+Monster Hunter 3 Ultimate registrados.
+--- BLOCK ---
+StreetPass ativado para o
+Monster Hunter 3 Ultimate.
+--- BLOCK ---
+A lista de cartões foi atualizada.
+--- BLOCK ---
+Os cartões do Gremio recebidos foram adicionados
+à Caixa de correio do Gremio.
+--- BLOCK ---
+Os cartões do Gremio recebidos foram adicionados
+à Caixa de correio do Gremio e
+a Lista de cartões foi atualizada.
+--- BLOCK ---
+Sem atualizações de
+cartões do Gremio.
+--- BLOCK ---
+Erro ao atualizar cartões do
+Gremio. Altere as configurações através
+do menu "StreetPass" do mensageiro.
+O StreetPass foi desativado para
+o Monster Hunter 3 Ultimate.
+--- BLOCK ---
+Alguns cartões do Gremio
+não foram recebidos.
+--- BLOCK ---
+Não há cartões do Gremio
+marcados. Marque os que deseja
+apagar e tente novamente.
+--- BLOCK ---
+Os cartões marcados foram apagados.
+--- BLOCK ---
+Você adicionou este usuário
+à lista de bloqueados.
+--- BLOCK ---
+Não há espaço na Lista de cartões.
+Apague os antigos para liberar espaço.
+--- BLOCK ---
+Cartões marcados salvos na Lista.
+--- BLOCK ---
+Não há cartões do Gremio
+marcados. Marque os que deseja
+salvar e tente novamente.
+--- BLOCK ---
+Erro ao atualizar os cartões
+do Gremio. Modifique as configurações.
+--- BLOCK ---
+Para usar o StreetPass, você deve
+aceitar o contrato de uso mais
+recente. Acesse Configuração → Configuração de
+internet → Informações adicionais → Contrato
+de uso para visualizá-lo e aceitá-lo.
+Também é possível visitar o mensageiro
+no Porto em uma partida solo.
+--- BLOCK ---
+Verifique a lista de cartões
+do Gremio recebidos via StreetPass.
+--- BLOCK ---
+Modifique as configurações do StreetPass.
+--- BLOCK ---
+O StreetPass está desativado.
+--- BLOCK ---
+Você não recebeu cartões do Gremio.
+--- BLOCK ---
+Guild Card do StreetPass. <COLO 5>Botão
+A: Selecionar Botão X: Visualizar Botão
+Y: Excluir START: Salvar <COLO 5>
+--- BLOCK ---
+Ativar e desativar o StreetPass.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Monster Hunter 3 Ultimate
+--- BLOCK ---
+¡Cha-ho, cartão do Gremio!
+--- BLOCK ---
+Monster Hunter 3 Ultimate (Wii U)
+--- BLOCK ---
+CS
+--- BLOCK ---
+z
+--- BLOCK ---
+z+
+--- BLOCK ---
+Local
+--- BLOCK ---
+Tarifa
+--- BLOCK ---
+Prob.
+--- BLOCK ---
+Sem pet.
+--- BLOCK ---
+Núm.
+caç.
+--- BLOCK ---
+Cartão da Guilda
+--- BLOCK ---
+Contratar
+--- BLOCK ---
+Confirmar
+--- BLOCK ---
+Nv.
+--- BLOCK ---
+★
+--- BLOCK ---
+★★
+--- BLOCK ---
+★★★
+--- BLOCK ---
+★★★★
+--- BLOCK ---
+★★★★★
+--- BLOCK ---
+★★★★★★
+--- BLOCK ---
+★★★★★★★
+--- BLOCK ---
+★★★★★★★★
+--- BLOCK ---
+★★★★★★★★★
+--- BLOCK ---
+Grande sucesso na missão!
+--- BLOCK ---
+Sucesso na missão!
+--- BLOCK ---
+A missão falhou...
+--- BLOCK ---
+Sem dinheiro suficiente.
+--- BLOCK ---
+Outra missão em andamento.
+--- BLOCK ---
+Sem limite de Classificação de Caçador!
+--- BLOCK ---
+Classificação de Caçador aumentada para %d!
+--- BLOCK ---
+Você pode forjar agora: %s!
+--- BLOCK ---
+Você não tem este Cartão da Guilda.
+--- BLOCK ---
+(Sem Cartão da Guilda)
+--- BLOCK ---
+......
+--- BLOCK ---
+(Sem título)
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+Salário de Caça
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Caçadores contratados
+--- BLOCK ---
+Classificação da missão
+--- BLOCK ---
+Objetivo
+--- BLOCK ---
+Local
+--- BLOCK ---
+Qualquer
+--- BLOCK ---
+Baixo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+G
+--- BLOCK ---
+MonG
+--- BLOCK ---
+MonP
+--- BLOCK ---
+Rec.
+--- BLOCK ---
+Min.
+--- BLOCK ---
+Pes.
+--- BLOCK ---
+Cogumelos
+--- BLOCK ---
+Outros
+--- BLOCK ---
+Ilha Deserta
+--- BLOCK ---
+Litoral Arenoso
+--- BLOCK ---
+Busca de Insetos
+--- BLOCK ---
+Tundra
+--- BLOCK ---
+Vulcão
+--- BLOCK ---
+CuBorr
+--- BLOCK ---
+Às vezes, esses insetos voadores
+povoam a Floresta de
+Moga, e alguns são
+gigantes. Saque: Feromônios loucos,
+Ferrão de rainha, etc.
+--- BLOCK ---
+Esses insetos constroem ninhos
+por toda a Floresta
+de Moga. Saque: Esporo
+de cogumelos, Busca-peixes, etc.
+--- BLOCK ---
+Esses pequenos herbívoros povoam o
+sul da Floresta de
+Moga com grandes espécimes.
+Saque: Esporo de cogumelos,
+Pele de qualidade, etc.
+--- BLOCK ---
+Esses pequenos herbívoros povoam
+o sul da Floresta
+de Moga com grandes
+espécimes. Saque: Carne crua,
+Esterco, Crânio gigante, etc.
+--- BLOCK ---
+Essas larvas de Gigginox costumam
+ficar nas cavernas, mas há
+dias em que saem
+para fora. Saque: Busca-peixes,
+Ferrão de ouro, etc.
+--- BLOCK ---
+Os pescadores das aldeias
+geralmente usam os peixes
+das águas de Moga
+como isca. Saque: Busca-peixes,
+Escama bonita, etc.
+--- BLOCK ---
+Esses herbívoros aquáticos fornecem
+aos pescadores meios para
+navegar mais rápido.
+Saque: Carne crua,
+Remo potente, etc.
+--- BLOCK ---
+É melhor caçar esses wyverns
+pássaro quando estão criando
+no centro da Floresta
+de Moga. Saque: Presa
+curva, Presa escassa, etc.
+--- BLOCK ---
+Esses wyverns pássaro são
+mais robustos que seus
+companheiros Jaggi. Saque:
+Presa escassa, Presa
+luz lunar, etc.
+--- BLOCK ---
+Esses insetos aquáticos vivem nas
+praias de Moga; às vezes
+muitos vão para o norte
+para se reproduzir. Saque: Remo
+potente, Remo perfeito, etc.
+--- BLOCK ---
+Esses wyverns pássaro chegaram à
+Floresta de Moga com seu
+líder. Fuja de seu
+bafo venenoso! Saque: Presa
+curva, Presa escassa, etc.
+--- BLOCK ---
+Wyverns pássaro que fazem
+suas presas dormirem. Não
+se sabe como emigraram
+da Tundra. Saque: Presa
+curva, Presa escassa, etc.
+--- BLOCK ---
+Javalis que vivem em
+florestas e planícies. Sua
+carne e pele têm
+usos diversos. Saque: Pele
+comum, Presa suprema, etc.
+--- BLOCK ---
+Líderes Jaggi da Floresta de
+Moga. O filho do Chefe
+lutou com um e salvou
+uma criança. Saque: Fígado
+rosa, Crânio gigante, etc.
+--- BLOCK ---
+Bestas em forma de ouriço
+azul. Rondam em busca de
+mel e peixes saborosos.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Wyverns pássaro coloridos cuja
+aparência amigável incita os
+aldeões a caçá-los.
+Saque: Fígado rosa,
+Pena vistosa, etc.
+--- BLOCK ---
+Wyverns pássaro carmesim cujos gritos
+ecoam na floresta. Suas
+penas alegres são um
+deleite. Saque: Pó de
+vida, Gaita Qurupeco, etc.
+--- BLOCK ---
+Bestas marinhas da Costa de
+Moga. A Frota de
+caça afirma ter capturado
+uma. Saque: Presa da
+fortuna, Óleo antigo, etc.
+--- BLOCK ---
+Bestas marinhas roxas, vivem perto
+de Moga. A Frota de
+caça jura que quase capturou
+uma, haha! Saque: Presa
+dourada, Crina fofa, etc.
+--- BLOCK ---
+Wyverns terrestres que fugiram da
+seca e do calor para
+a Floresta de Moga.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Wyverns fêmea que reinam
+em nossas florestas. Se
+uma aparecer, é proibido
+sair da aldeia. Desconhece-se
+que bens podem trazer.
+--- BLOCK ---
+Incríveis wyverns de fogo da
+floresta. As pessoas arriscam
+a vida para vê-los.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Wyverns venenosos, expandiram seu território
+para a Floresta de Moga
+em busca de novas
+presas. Saque: Megapele de
+armadura, Crânio maciço, etc.
+--- BLOCK ---
+Wyverns pássaro da Floresta
+de Moga, induzem ao
+sono. Antes habitavam apenas
+áreas frias. Saque: Presa
+lunar, Crânio maciço, etc.
+--- BLOCK ---
+Bestas vermelhas semelhantes a tatus;
+seu cheiro fétido e sua
+mania de rolar encantam as
+crianças. Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Criatura pisciforme das costas de
+Moga. Encontrado por uma criança
+que pescou um com um
+sapo. Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Wyverns aquáticos das costas
+de Moga. Os escribas
+estranham vê-los no mar.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Senhores dos wyverns raramente vistos
+em florestas. As crianças
+da aldeia os imitam
+em seus jogos. Desconhece-se
+que bens podem trazer.
+--- BLOCK ---
+Grandes wyverns brutos com cauda
+de martelo. Ninguém sabe como
+emigraram para esta região.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Leviatãs que dominam os
+mares de Moga. Responsáveis
+por muitos dos últimos
+desastres. Desconhece-se que
+bens podem trazer.
+--- BLOCK ---
+Wyverns cornudos da Floresta de
+Moga. É um mistério por
+que deixaram seu habitat seco.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Ferozes wyverns brutos da Floresta
+de Moga. O mineral que
+os cobre tem muitos usos.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Criaturas cruéis da Floresta de
+Moga. Caçam presas com sua
+astúcia e uma baba explosiva.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Bestas lupinas da Floresta de
+Moga. As crianças da aldeia
+as adoram e temem.
+Ainda não se sabe
+que bens podem deixar.
+--- BLOCK ---
+Wyverns de Chifres Negros da
+Floresta de Moga. Chegaram sem
+aviso durante a temporada de
+reprodução. Ainda não se sabe
+que itens podem deixar.
+--- BLOCK ---
+Predadores noturnos velozes da Floresta
+de Moga. Aterrorizam todos que
+vão à floresta à noite.
+Ainda não se sabe
+que itens podem deixar.
+--- BLOCK ---
+Wyverns de fogo majestosos vistos
+na Floresta de Moga. Você
+prefere azul ou vermelho?
+Ainda não se sabe
+que itens podem deixar.
+--- BLOCK ---
+Bestas de aço, de cheiro
+fedorento e nocivo. O mineral
+que as cobre é muito
+precioso. Ainda não se sabe
+que ativos podem deixar.
+--- BLOCK ---
+Leviatãs da Costa do Marfim
+que chegam à costa. Os
+aldeões temem sua fúria sem
+fim. Ainda não se sabe
+que itens podem deixar.
+--- BLOCK ---
+Grandes bestas violentas que vivem
+em todos os lugares. Sua
+fome não acaba, nem mesmo
+em Moga. Ainda não se
+sabe que itens podem deixar.
+--- BLOCK ---
+Falha na inicialização da rede.
+--- BLOCK ---
+Falha na criação da sessão.
+--- BLOCK ---
+A busca falhou.
+--- BLOCK ---
+A conexão falhou.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Conexão perdida. Desabilitada
+comunicação sem fio.
+--- BLOCK ---
+Conexão perdida.
+--- BLOCK ---
+Pressione o botão A.
+--- BLOCK ---
+Passando pela porta multiplayer.
+Se o console for
+fechado, você será desconectado.
+--- BLOCK ---
+Conexão sem fio desativada. Pressione o
+interruptor de conexão sem fio para
+ativar a comunicação sem fio.
+--- BLOCK ---
+Erro fatal. Desligue o
+console e reinicie.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Você recebe o prêmio Pingente Aisha!
+--- BLOCK ---
+Prêmio "Marca do Caçador"!
+--- BLOCK ---
+Adicionado "Sempre Lembrado" à Galeria!
+--- BLOCK ---
+Adicionado "Revelando a Verdade" à Galeria!
+--- BLOCK ---
+Adicionados "Créditos" à Galeria!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
