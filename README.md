@@ -9,6 +9,8 @@ This repository contains scripts, tools, and documentation to extract, translate
 
 > 📄 See [DISCLAIMER.md](DISCLAIMER.md) for important legal and usage terms.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7ZFINt657s?si=KNC7EEzzIiH_UPLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 📦 Project Structure
