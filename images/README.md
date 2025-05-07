@@ -74,10 +74,6 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
   <img src="td_M_v_under_ID_spa.preview.png" alt="td_M_v_under_ID_spa preview">
 </div>
 
-<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
-  <img src="td_M_v_under_ID_spa.preview.png" alt="td_M_v_under_ID_spa preview">
-</div>
-
 ---
 
 ## 🎨 `td_com_ID_spa.tex`
