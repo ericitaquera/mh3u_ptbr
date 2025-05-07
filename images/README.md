@@ -15,7 +15,7 @@ Used for rendering **icon-style text labels** within startup menus.
 * **Outline**: +2px, `#??????`
 
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
-  <img src="./st_menu_01_spa.preview.jpg" alt="st_menu_01_spa. preview">
+  <img src="./st_menu_01_spa.preview.png" alt="st_menu_01_spa. preview">
 </div>
 
 ---
