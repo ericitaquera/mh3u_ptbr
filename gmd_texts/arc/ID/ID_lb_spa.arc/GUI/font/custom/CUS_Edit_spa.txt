@@ -1,0 +1,469 @@
+﻿HELP
+--- BLOCK ---
+EDIT
+--- BLOCK ---
+EDIT_HELP
+--- BLOCK ---
+TOP
+--- BLOCK ---
+CUSTOMTOP
+--- BLOCK ---
+MYSET
+--- BLOCK ---
+EDIT_CAMERA
+--- BLOCK ---
+MIXLIST
+--- BLOCK ---
+TARGETCAMERA
+--- BLOCK ---
+POUCH
+--- BLOCK ---
+ACTION
+--- BLOCK ---
+SIGN
+--- BLOCK ---
+ETC
+--- BLOCK ---
+FRIEND
+--- BLOCK ---
+CUSTOMHELPCATE
+--- BLOCK ---
+CUSTOMHELP
+--- BLOCK ---
+CUSTOMHELPEXP
+--- BLOCK ---
+SEARCH_HELP
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bolsa de objetos
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Lista Combo
+--- BLOCK ---
+Patada
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¿Intercambiar con el panel existente /
+los paneles existentes?
+--- BLOCK ---
+¿Reemplazar el panel existente /
+los paneles existentes?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Usa un conjunto de paneles ya guardado
+o guarda la distribución actual.
+--- BLOCK ---
+Elige uno de los conjuntos de paneles
+guardados.
+--- BLOCK ---
+Conjunto de paneles elegido.
+--- BLOCK ---
+Elige un espacio para guardar
+la distribución como nuevo conjunto.
+--- BLOCK ---
+¿Quieres guardar la distribución
+actual en este espacio?
+--- BLOCK ---
+Conjunto de paneles guardado.
+--- BLOCK ---
+Elige el conjunto de paneles que
+quieres borrar.
+--- BLOCK ---
+¿Quieres borrar este conjunto
+de paneles?
+--- BLOCK ---
+Conjunto de paneles borrado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Otro
+--- BLOCK ---
+Cámara
+--- BLOCK ---
+Estado
+--- BLOCK ---
+Mapa
+--- BLOCK ---
+Objetos
+--- BLOCK ---
+Acceso rápido
+--- BLOCK ---
+Coloca los paneles a tu gusto.
+Mueve los paneles tocándolos.
+--- BLOCK ---
+Controles de cámara
+Muévela con una cruz de control virtual.
+--- BLOCK ---
+Controles de cámara (grande)
+Muévela con una cruz de control virtual.
+--- BLOCK ---
+Estado del jugador
+Muestra tu estado en la pantalla táctil.
+--- BLOCK ---
+Estado del jugador (grande)
+Muestra tu estado en la pantalla táctil.
+--- BLOCK ---
+Estado de compañeros
+Estado de compañeros en pantalla táctil.
+--- BLOCK ---
+Mapa
+Muestra el mapa en la pantalla táctil.
+--- BLOCK ---
+Barra de objetos
+Recorre la lista en la pantalla táctil.
+--- BLOCK ---
+Barra de objetos (grande)
+Recorre la lista en la pantalla táctil.
+--- BLOCK ---
+Munición/Revestimientos
+Recorre la lista en la pantalla táctil.
+--- BLOCK ---
+Bolsa de objetos
+Usa los objetos con la pantalla táctil.
+--- BLOCK ---
+Lista de combinaciones
+Accede a la lista en la pantalla táctil.
+--- BLOCK ---
+Gestos
+Realiza gestos con la pantalla táctil.
+--- BLOCK ---
+Cámara objetivo
+Rastrea monstruos grandes con botón L.
+--- BLOCK ---
+Ataques especiales
+Patadas/atq. esp. con pantalla táctil.
+--- BLOCK ---
+Señales
+Da señales con la pantalla táctil.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Person. paneles
+--- BLOCK ---
+Mapa +
+Botón R
+--- BLOCK ---
+Mapa -
+Botón R
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Búsq. cazador
+--- BLOCK ---
+Distrib. paneles
+--- BLOCK ---
+Conj. de paneles
+--- BLOCK ---
+Posición de
+Búsq. cazador
+--- BLOCK ---
+Señal
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Conj. de paneles
+--- BLOCK ---
+Selecc.
+--- BLOCK ---
+Registro
+--- BLOCK ---
+Quitar
+--- BLOCK ---
+Conjunto 1
+--- BLOCK ---
+Conjunto 2
+--- BLOCK ---
+Conjunto 3
+--- BLOCK ---
+Mover
+--- BLOCK ---
+Cambiar tamaño
+--- BLOCK ---
+Probar
+--- BLOCK ---
+Editar
+--- BLOCK ---
+Restabl.
+--- BLOCK ---
+Selecciona los objetos que combinarás.
+--- BLOCK ---
+Logrado: %d %
+Produc.: %s
+--- BLOCK ---
+Logrado: ??? %
+Produc.: ???
+--- BLOCK ---
+Combinando...
+--- BLOCK ---
+Combinación realizada.
+--- BLOCK ---
+La combinación ha fallado.
+--- BLOCK ---
+(Oculto)
+--- BLOCK ---
+(OtrÁre)
+--- BLOCK ---
+(? ? ?)
+--- BLOCK ---
+Toca el objeto que quieres usar.
+--- BLOCK ---
+Toca el gesto que quieres hacer.
+--- BLOCK ---
+Señal A
+--- BLOCK ---
+Señal B
+--- BLOCK ---
+Ataque especial
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Personalización de paneles
+--- BLOCK ---
+Conjuntos de paneles
+--- BLOCK ---
+Sobre Personalización de paneles
+--- BLOCK ---
+Cómo colocar paneles
+--- BLOCK ---
+Cómo quitar paneles
+--- BLOCK ---
+Panel Controles de cámara
+--- BLOCK ---
+Panel Cámara objetivo
+--- BLOCK ---
+Panel Estado del jugador
+--- BLOCK ---
+Panel Estado de compañeros
+--- BLOCK ---
+Panel Mapa
+--- BLOCK ---
+Panel Barra de objetos
+--- BLOCK ---
+Panel Munición/Revestimientos
+--- BLOCK ---
+Panel Bolsa de objetos
+--- BLOCK ---
+Panel Lista de combinaciones
+--- BLOCK ---
+Panel Gestos
+--- BLOCK ---
+Panel Ataques especiales
+--- BLOCK ---
+Panel Señales
+--- BLOCK ---
+Sobre Conjuntos de paneles
+--- BLOCK ---
+Organiza la distribución de los paneles
+en la pantalla táctil a tu gusto. Los
+paneles facilitan funciones, como los
+controles de cámara, ajustes del mapa...
+--- BLOCK ---
+Usa el dial de <COLO 2>categorías<COLO 0> a la izquierda
+de la pantalla táctil para seleccionar
+el tipo de panel que quieres colocar.
+--- BLOCK ---
+Los paneles aparecen en la <COLO 2>barra de
+selección de panel<COLO 0> (parte superior de la
+pantalla táctil). Toca y deslízalos a la
+<COLO 4>caja de paneles visibles<COLO 0> para colocarlo.
+--- BLOCK ---
+Sus tamaños son fijos. Si no queda
+espacio en la <COLO 4>caja de paneles visibles<COLO 0>,
+tendrás que quitar paneles para poder
+añadir más.
+--- BLOCK ---
+Hay paneles que tienen la misma función
+básica, pero distinto tamaño; esos no
+pueden colocarse al mismo tiempo.
+--- BLOCK ---
+Para mover un panel, deslízalo fuera
+del área de paneles visibles. Los que
+quites irán a la <COLO 2>papelera de reciclaje<COLO 0>
+en la derecha de la pantalla táctil.
+--- BLOCK ---
+Al quitar un panel, aparecerá de nuevo
+en la barra de selección de paneles. Y
+puedes tocar la <COLO 2>papelera de reciclaje<COLO 0>
+para sacar paneles y recolocarlos.
+--- BLOCK ---
+La cruz de control virtual de este
+panel sirve para manipular la cámara. 
+El botón Editar de la esquina superior
+izquierda cambia su posición y tamaño.
+--- BLOCK ---
+Toca este panel para poner la cámara
+en modo Objetivo. Solo puedes activar
+la Cámara objetivo cuando encuentras
+un monstruo grande durante una misión.
+--- BLOCK ---
+En modo Objetivo, pulsa ligeramente
+el botón L para dirigir la cámara hacia
+el monstruo al que apuntas.
+--- BLOCK ---
+Si pulsas rápido dos veces el botón L
+en modo Objetivo, puedes colocar
+la cámara detrás de tu cazador.
+--- BLOCK ---
+Si te enfrentas a dos monstruos grandes,
+aparecen ambos en el panel Cámara
+objetivo. Toca uno de los dos para
+apuntar y centrarte en él.
+--- BLOCK ---
+Este panel muestra en la pantalla táctil
+la Salud, Resistencia, Afilado, Munición
+y otros datos. Si lo colocas, los datos
+desaparecerán de la pantalla superior.
+--- BLOCK ---
+La versión grande de este panel muestra
+los mismos datos que la normal, pero su
+tamaño la hace más fácil de leer.
+--- BLOCK ---
+Al tocar este panel, verás el estado de
+todo tu grupo, así como información
+importante sobre la misión actual.
+--- BLOCK ---
+Este panel muestra en la pantalla táctil
+información de estado de tus compañeros.
+Si lo colocas, esa información
+desaparecerá de la pantalla superior.
+--- BLOCK ---
+Al tocar este panel, verás el estado de
+todo tu grupo, así como información
+importante sobre la misión actual.
+--- BLOCK ---
+Este panel muestra el mapa en la
+pantalla táctil. Si lo colocas, el mapa
+desaparecerá de la pantalla superior.
+--- BLOCK ---
+Al tocar este panel, cambias entre
+la vista maximizada de la zona actual
+y la vista minimizada del mapa completo.
+--- BLOCK ---
+Toca las flechas izquierda y derecha de
+este panel para ir viendo los objetos.
+Con la versión grande puedes deslizar
+la barra de objetos para examinarlos.
+--- BLOCK ---
+Toca las flechas arriba y abajo de este
+panel para ir viendo la munición de tu
+Ballesta y los revestimientos del Arco.
+--- BLOCK ---
+Toca este panel para ver una lista de
+los objetos que tienes en la bolsa de
+objetos. Toca un objeto del panel
+para usarlo inmediatamente.
+--- BLOCK ---
+Toca este panel para ver una versión
+de la Lista comb. en la pantalla táctil.
+Toca el objeto que quieras crear para
+iniciar el proceso de combinación.
+--- BLOCK ---
+Toca este panel para ver una lista de
+gestos en la pantalla táctil. Toca
+un gesto del panel para realizarlo.
+--- BLOCK ---
+Toca este panel para realizar el ataque
+especial del arma que tengas equipada
+(si está desenfundada) o una patada
+(si no está desenfundada).
+--- BLOCK ---
+Toca un icono de señal en este panel
+para dar la señal seleccionada.
+--- BLOCK ---
+Si guardas la distribución actual como
+conjunto de paneles, podrás recuperar
+la distribución rápidamente en
+cualquier momento.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Búsqueda de cazador
+--- BLOCK ---
+Sobre Búsqueda de cazador
+--- BLOCK ---
+Buscar jugadores
+--- BLOCK ---
+Ver datos del jugador
+--- BLOCK ---
+Búsqueda automática
+--- BLOCK ---
+Búsqueda de cazador te permite buscar
+jugadores cercanos que también estén
+jugando a Monster Hunter 3 Ultimate.
+--- BLOCK ---
+Para usar Búsqueda de cazador, debes
+tener activada la comunicación
+inalámbrica.
+--- BLOCK ---
+Al activar Búsqueda de cazador, el juego
+busca automáticamente jugadores cercanos
+que también usen Búsqueda de cazador
+o jueguen en un puerto multijugador.
+--- BLOCK ---
+Cuando la función de búsqueda automática
+encuentra un jugador, el área de
+Búsqueda de cazador muestra su nombre.
+--- BLOCK ---
+Los jugadores con el icono de un gong
+vibrante en Búsqueda de cazador están
+esperando cazadores para una aventura.
+¡No los dejes en la estacada!
+--- BLOCK ---
+Al abrir la pantalla Búsqueda de
+cazador, se mostrará una lista de los
+jugadores que se han encontrado.
+--- BLOCK ---
+Para ver los datos de un jugador, toca
+su panel. La información mostrada será
+diferente si esa persona juega en
+solitario o con otras personas.
+--- BLOCK ---
+La búsqueda automática se detiene al
+abrir Búsqueda de cazador. Para buscar
+jugadores manualmente, toca el botón
+Buscar más o pulsa el botón Y.
+--- BLOCK ---

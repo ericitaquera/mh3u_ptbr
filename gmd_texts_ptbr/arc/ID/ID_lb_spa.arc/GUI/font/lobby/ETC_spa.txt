@@ -92,7 +92,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Ir para Bosque Moga
+Ir para Floresta Moga
 --- BLOCK ---
 Iniciar missão
 --- BLOCK ---
@@ -102,7 +102,7 @@ Pode
 --- BLOCK ---
 Valor
 --- BLOCK ---
-Controle deslizante Pro desconectado.
+Circle Pad Pro desconectado.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

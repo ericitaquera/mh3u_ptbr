@@ -13,7 +13,7 @@ TMSG_NPC015_4
 (!)
 --- BLOCK ---
 Uma vez fui ver o
-Chefe da aldeia por algo
+Chefe da Vila por algo
 e não consegui encontrá-lo.
 --- BLOCK ---
 Procurei e procurei, sabe. Pois não
@@ -245,7 +245,7 @@ Um caçador como você saberá aproveitar.
 --- BLOCK ---
 A Rede de insetos está bem feita,
 acredito. Mas se quebrar, você pode comprar
-outra no Mercado da aldeia. Divirta-se!
+outra no Mercado da vila. Divirta-se!
 --- BLOCK ---
 Ei, estou fazendo uma competição de pesca
 com meu irmão mais velho!

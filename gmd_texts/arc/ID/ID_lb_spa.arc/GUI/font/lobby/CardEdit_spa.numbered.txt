@@ -1,0 +1,788 @@
+﻿GC_INFO
+--- BLOCK [001] ---
+GC_POSE
+--- BLOCK [002] ---
+GC_WALL
+--- BLOCK [003] ---
+GC_UGC
+--- BLOCK [004] ---
+TOP_HELP
+--- BLOCK [005] ---
+COMMON_HELP
+--- BLOCK [006] ---
+TITLE_HELP_HR3
+--- BLOCK [007] ---
+TITLE_HELP_HR5
+--- BLOCK [008] ---
+TITLE_HELP_HR6
+--- BLOCK [009] ---
+TITLE_HELP_HR9
+--- BLOCK [010] ---
+TITLE_HELP_HR50
+--- BLOCK [011] ---
+TITLE_HELP_HR100
+--- BLOCK [012] ---
+TITLE_HELP_HR200
+--- BLOCK [013] ---
+TITLE_HELP_HR500
+--- BLOCK [014] ---
+TITLE_HELP_HR999
+--- BLOCK [015] ---
+TITLE_HELP_EX
+--- BLOCK [016] ---
+TITLE_HELP_CEC
+--- BLOCK [017] ---
+TITLE_HELP_DL
+--- BLOCK [018] ---
+WALL_HELP_DL
+--- BLOCK [019] ---
+POSE_HELP_DL
+--- BLOCK [020] ---
+Editar tarj.
+--- BLOCK [021] ---
+Títulos
+--- BLOCK [022] ---
+Saludos
+--- BLOCK [023] ---
+Pose
+--- BLOCK [024] ---
+Fondo
+--- BLOCK [025] ---
+HARDUMMY
+--- BLOCK [026] ---
+Posición
+--- BLOCK [027] ---
+Saludar
+--- BLOCK [028] ---
+Puño en alto
+--- BLOCK [029] ---
+Descansar
+--- BLOCK [030] ---
+Brincar
+--- BLOCK [031] ---
+Alarde
+--- BLOCK [032] ---
+Sacamúsculos
+--- BLOCK [033] ---
+Pisotón
+--- BLOCK [034] ---
+Provocar
+--- BLOCK [035] ---
+Boxear
+--- BLOCK [036] ---
+Carrera
+--- BLOCK [037] ---
+Brazos cruzad.
+--- BLOCK [038] ---
+Hombros
+--- BLOCK [039] ---
+Fanfarrón
+--- BLOCK [040] ---
+DUMMY
+--- BLOCK [041] ---
+Isla desierta
+--- BLOCK [042] ---
+Llanos arenos.
+--- BLOCK [043] ---
+Bosque inund.
+--- BLOCK [044] ---
+Cumb. borrasc.
+--- BLOCK [045] ---
+Tundra
+--- BLOCK [046] ---
+Volcán
+--- BLOCK [047] ---
+Cha-Cha
+--- BLOCK [048] ---
+Kayamba
+--- BLOCK [049] ---
+Amor Shaka roj
+--- BLOCK [050] ---
+Amor Shaka mor
+--- BLOCK [051] ---
+Amor Shaka ver
+--- BLOCK [052] ---
+Neko en el mar
+--- BLOCK [053] ---
+Comida Melynx
+--- BLOCK [054] ---
+Tienes miauil
+--- BLOCK [055] ---
+Asador Tanziña
+--- BLOCK [056] ---
+Recepcionista
+--- BLOCK [057] ---
+Blasón Argosy
+--- BLOCK [058] ---
+Bandera Gremio
+--- BLOCK [059] ---
+Ban. anc. Ult.
+--- BLOCK [060] ---
+Blasón Gr. roj
+--- BLOCK [061] ---
+Blasón Gr. azu
+--- BLOCK [062] ---
+Corazón Qurup
+--- BLOCK [063] ---
+Tapiz Tanzia
+--- BLOCK [064] ---
+Colecc. iconos
+--- BLOCK [065] ---
+Muro monstruos
+--- BLOCK [066] ---
+Blasón wyvern
+--- BLOCK [067] ---
+Rey de cielos
+--- BLOCK [068] ---
+Señor del mar
+--- BLOCK [069] ---
+Exped. Barroth
+--- BLOCK [070] ---
+Exped. Barioth
+--- BLOCK [071] ---
+Perfil Qurup
+--- BLOCK [072] ---
+Perfil Brach
+--- BLOCK [073] ---
+Bl. ancla Ult.
+--- BLOCK [074] ---
+Fantas. Felyne
+--- BLOCK [075] ---
+Rey y reina
+--- BLOCK [076] ---
+Amor Poogie
+--- BLOCK [077] ---
+Huella Qurup
+--- BLOCK [078] ---
+Garras Freedom
+--- BLOCK [079] ---
+Lagiacrus
+--- BLOCK [080] ---
+DUMMY
+--- BLOCK [081] ---
+DUMMY
+--- BLOCK [082] ---
+DUMMY
+--- BLOCK [083] ---
+DUMMY
+--- BLOCK [084] ---
+DUMMY
+--- BLOCK [085] ---
+DUMMY
+--- BLOCK [086] ---
+DUMMY
+--- BLOCK [087] ---
+DUMMY
+--- BLOCK [088] ---
+DUMMY
+--- BLOCK [089] ---
+DUMMY
+--- BLOCK [090] ---
+DUMMY
+--- BLOCK [091] ---
+DUMMY
+--- BLOCK [092] ---
+DUMMY
+--- BLOCK [093] ---
+DUMMY
+--- BLOCK [094] ---
+DUMMY
+--- BLOCK [095] ---
+DUMMY
+--- BLOCK [096] ---
+DUMMY
+--- BLOCK [097] ---
+DUMMY
+--- BLOCK [098] ---
+DUMMY
+--- BLOCK [099] ---
+DUMMY
+--- BLOCK [100] ---
+DUMMY
+--- BLOCK [101] ---
+Brachydios b/n
+--- BLOCK [102] ---
+Caz. Gran esp.
+--- BLOCK [103] ---
+Diseño ídolo
+--- BLOCK [104] ---
+Deviljho
+--- BLOCK [105] ---
+Baile Shaka
+--- BLOCK [106] ---
+Brach ardiente
+--- BLOCK [107] ---
+Todo manzanas
+--- BLOCK [108] ---
+Felyne
+--- BLOCK [109] ---
+Diseño Gremio
+--- BLOCK [110] ---
+Puerta corred.
+--- BLOCK [111] ---
+Todos los que reciban tu tarjeta
+del Gremio verán tu saludo.
+No utilices contenido que sea ilegal,
+ofensivo, personal o que afecte de otro
+modo a los derechos ajenos.
+--- BLOCK [112] ---
+Los saludos de las tarjetas del Gremio
+no se pueden editar en las zonas
+en línea o multijugador.
+--- BLOCK [113] ---
+HARDUMMY
+--- BLOCK [114] ---
+Personaliza tu tarjeta del Gremio.
+<COLO 5>Botón Y: Ver tarjeta
+--- BLOCK [115] ---
+HARDUMMY
+--- BLOCK [116] ---
+Disponible desde el comienzo.
+--- BLOCK [117] ---
+Has conseguido el estado Cazador de
+élite.
+--- BLOCK [118] ---
+Has completado muchas misiones de
+alto rango.
+--- BLOCK [119] ---
+Has alcanzado el Rango de cazador 6.
+--- BLOCK [120] ---
+Has alcanzado el Rango de cazador 9.
+--- BLOCK [121] ---
+Has alcanzado el Rango de cazador 50.
+--- BLOCK [122] ---
+Has alcanzado el Rango de cazador 100.
+--- BLOCK [123] ---
+Has alcanzado el Rango de cazador 200.
+--- BLOCK [124] ---
+Has alcanzado el Rango de cazador 500.
+--- BLOCK [125] ---
+Has alcanzado el Rango de cazador 999.
+--- BLOCK [126] ---
+Has comenzado en un área oculta 5 veces.
+--- BLOCK [127] ---
+Has comenzado en un área oculta
+10 veces.
+--- BLOCK [128] ---
+Has completado 20 misiones en
+la Isla desierta.
+--- BLOCK [129] ---
+Has completado 20 misiones en
+los Llanos arenosos.
+--- BLOCK [130] ---
+Has completado 20 misiones en
+el Bosque inundado.
+--- BLOCK [131] ---
+Has completado 20 misiones en
+la Tundra.
+--- BLOCK [132] ---
+Has completado 20 misiones en
+el Volcán.
+--- BLOCK [133] ---
+Has completado 20 misiones en
+las Cumbres borrascosas.
+--- BLOCK [134] ---
+Has completado 100 misiones.
+--- BLOCK [135] ---
+Has completado 1.000 misiones.
+--- BLOCK [136] ---
+Has completado 20 misiones en
+el Gran desierto.
+--- BLOCK [137] ---
+Has completado 20 misiones en el Mar
+contaminado, la Tierra sagrada y
+la Torre.
+--- BLOCK [138] ---
+Has completado todas las misiones
+de aldea (1★).
+--- BLOCK [139] ---
+Has completado todas las misiones
+de aldea (2★).
+--- BLOCK [140] ---
+Has completado todas las misiones
+de aldea (3★).
+--- BLOCK [141] ---
+Has completado todas las misiones
+de aldea (4★).
+--- BLOCK [142] ---
+Has completado todas las misiones
+de aldea (5★).
+--- BLOCK [143] ---
+Has completado todas las misiones
+de aldea (6★).
+--- BLOCK [144] ---
+Has completado todas las misiones
+de aldea (7★).
+--- BLOCK [145] ---
+Has completado todas las misiones
+de aldea (8★).
+--- BLOCK [146] ---
+Has completado todas las misiones
+de aldea (9★) y las urgentes.
+--- BLOCK [147] ---
+Has completado todas las misiones
+de puerto (1★).
+--- BLOCK [148] ---
+Has completado todas las misiones
+de puerto (2★).
+--- BLOCK [149] ---
+Has completado todas las misiones
+de puerto (3★).
+--- BLOCK [150] ---
+Has completado todas las misiones
+de puerto (4★).
+--- BLOCK [151] ---
+Has completado todas las misiones
+de puerto (5★).
+--- BLOCK [152] ---
+Has completado todas las misiones
+de puerto (6★).
+--- BLOCK [153] ---
+Has completado todas las misiones
+de puerto (7★).
+--- BLOCK [154] ---
+Has completado todas las misiones
+de puerto (8★).
+--- BLOCK [155] ---
+Has completado todas las misiones
+de aldea y de puerto.
+--- BLOCK [156] ---
+Has conseguido Rango B o superior en
+todas las misiones de Arena.
+--- BLOCK [157] ---
+Has conseguido Rango A o superior en
+todas las misiones de Arena.
+--- BLOCK [158] ---
+Has conseguido Rango S en una misión
+de Arena.
+--- BLOCK [159] ---
+Has conseguido Rango S en todas las
+misiones de Arena.
+--- BLOCK [160] ---
+Has cazado 20 Gran Jaggi.
+--- BLOCK [161] ---
+Has cazado 30 Gran Jaggi.
+--- BLOCK [162] ---
+Has cazado 40 Gran Jaggi.
+--- BLOCK [163] ---
+Has cazado 50 Gran Jaggi.
+--- BLOCK [164] ---
+Has cazado 20 Gran Baggi.
+--- BLOCK [165] ---
+Has cazado 30 Gran Baggi.
+--- BLOCK [166] ---
+Has cazado 40 Gran Baggi.
+--- BLOCK [167] ---
+Has cazado 50 Gran Baggi.
+--- BLOCK [168] ---
+Has cazado 20 Wroggi magnificentes.
+--- BLOCK [169] ---
+Has cazado 30 Wroggi magnificentes.
+--- BLOCK [170] ---
+Has cazado 40 Wroggi magnificentes.
+--- BLOCK [171] ---
+Has cazado 50 Wroggi magnificentes.
+--- BLOCK [172] ---
+Has cazado 20 Arzuros.
+--- BLOCK [173] ---
+Has cazado 30 Arzuros.
+--- BLOCK [174] ---
+Has cazado 40 Arzuros.
+--- BLOCK [175] ---
+Has cazado 50 Arzuros.
+--- BLOCK [176] ---
+Has cazado 20 Lagombi.
+--- BLOCK [177] ---
+Has cazado 30 Lagombi.
+--- BLOCK [178] ---
+Has cazado 40 Lagombi.
+--- BLOCK [179] ---
+Has cazado 50 Lagombi.
+--- BLOCK [180] ---
+Has cazado 20 Volvidon.
+--- BLOCK [181] ---
+Has cazado 30 Volvidon.
+--- BLOCK [182] ---
+Has cazado 40 Volvidon.
+--- BLOCK [183] ---
+Has cazado 50 Volvidon.
+--- BLOCK [184] ---
+Has cazado 20 Qurupeco.
+--- BLOCK [185] ---
+Has cazado 30 Qurupeco.
+--- BLOCK [186] ---
+Has cazado 40 Qurupeco.
+--- BLOCK [187] ---
+Has cazado 50 Qurupeco.
+--- BLOCK [188] ---
+Has cazado 20 Qurupeco carmesíes.
+--- BLOCK [189] ---
+Has cazado 30 Qurupeco carmesíes.
+--- BLOCK [190] ---
+Has cazado 40 Qurupeco carmesíes.
+--- BLOCK [191] ---
+Has cazado 50 Qurupeco carmesíes.
+--- BLOCK [192] ---
+Has cazado 20 Ludroth reales.
+--- BLOCK [193] ---
+Has cazado 30 Ludroth reales.
+--- BLOCK [194] ---
+Has cazado 40 Ludroth reales.
+--- BLOCK [195] ---
+Has cazado 50 Ludroth reales.
+--- BLOCK [196] ---
+Has cazado 20 Ludroth purpúreos.
+--- BLOCK [197] ---
+Has cazado 30 Ludroth purpúreos.
+--- BLOCK [198] ---
+Has cazado 40 Ludroth purpúreos.
+--- BLOCK [199] ---
+Has cazado 50 Ludroth purpúreos.
+--- BLOCK [200] ---
+Has cazado 20 Barroth.
+--- BLOCK [201] ---
+Has cazado 30 Barroth.
+--- BLOCK [202] ---
+Has cazado 40 Barroth.
+--- BLOCK [203] ---
+Has cazado 50 Barroth.
+--- BLOCK [204] ---
+Has cazado 20 Barroth esmeraldas.
+--- BLOCK [205] ---
+Has cazado 30 Barroth esmeraldas.
+--- BLOCK [206] ---
+Has cazado 40 Barroth esmeraldas.
+--- BLOCK [207] ---
+Has cazado 50 Barroth esmeraldas.
+--- BLOCK [208] ---
+Has cazado 20 Gobul.
+--- BLOCK [209] ---
+Has cazado 30 Gobul.
+--- BLOCK [210] ---
+Has cazado 40 Gobul.
+--- BLOCK [211] ---
+Has cazado 50 Gobul.
+--- BLOCK [212] ---
+Has cazado 20 Rathian.
+--- BLOCK [213] ---
+Has cazado 30 Rathian.
+--- BLOCK [214] ---
+Has cazado 40 Rathian.
+--- BLOCK [215] ---
+Has cazado 50 Rathian.
+--- BLOCK [216] ---
+Has cazado 20 Rathian rosas.
+--- BLOCK [217] ---
+Has cazado 30 Rathian rosas.
+--- BLOCK [218] ---
+Has cazado 40 Rathian rosas.
+--- BLOCK [219] ---
+Has cazado 50 Rathian rosas.
+--- BLOCK [220] ---
+Has cazado 10 Rathian doradas.
+--- BLOCK [221] ---
+Has cazado 15 Rathian doradas.
+--- BLOCK [222] ---
+Has cazado 20 Rathian doradas.
+--- BLOCK [223] ---
+Has cazado 30 Rathian doradas.
+--- BLOCK [224] ---
+Has cazado 20 Plesioth.
+--- BLOCK [225] ---
+Has cazado 30 Plesioth.
+--- BLOCK [226] ---
+Has cazado 40 Plesioth.
+--- BLOCK [227] ---
+Has cazado 50 Plesioth.
+--- BLOCK [228] ---
+Has cazado 20 Plesioth verdes.
+--- BLOCK [229] ---
+Has cazado 30 Plesioth verdes.
+--- BLOCK [230] ---
+Has cazado 40 Plesioth verdes.
+--- BLOCK [231] ---
+Has cazado 50 Plesioth verdes.
+--- BLOCK [232] ---
+Has cazado 20 Gigginox.
+--- BLOCK [233] ---
+Has cazado 30 Gigginox.
+--- BLOCK [234] ---
+Has cazado 40 Gigginox.
+--- BLOCK [235] ---
+Has cazado 50 Gigginox.
+--- BLOCK [236] ---
+Has cazado 20 Gigginox aterradores.
+--- BLOCK [237] ---
+Has cazado 30 Gigginox aterradores.
+--- BLOCK [238] ---
+Has cazado 40 Gigginox aterradores.
+--- BLOCK [239] ---
+Has cazado 50 Gigginox aterradores.
+--- BLOCK [240] ---
+Has cazado 20 Barioth.
+--- BLOCK [241] ---
+Has cazado 30 Barioth.
+--- BLOCK [242] ---
+Has cazado 40 Barioth.
+--- BLOCK [243] ---
+Has cazado 50 Barioth.
+--- BLOCK [244] ---
+Has cazado 20 Barioth arenosos.
+--- BLOCK [245] ---
+Has cazado 30 Barioth arenosos.
+--- BLOCK [246] ---
+Has cazado 40 Barioth arenosos.
+--- BLOCK [247] ---
+Has cazado 50 Barioth arenosos.
+--- BLOCK [248] ---
+Has cazado 20 Nibelsnarf.
+--- BLOCK [249] ---
+Has cazado 30 Nibelsnarf.
+--- BLOCK [250] ---
+Has cazado 40 Nibelsnarf.
+--- BLOCK [251] ---
+Has cazado 50 Nibelsnarf.
+--- BLOCK [252] ---
+Has cazado 20 Duramboros.
+--- BLOCK [253] ---
+Has cazado 30 Duramboros.
+--- BLOCK [254] ---
+Has cazado 40 Duramboros.
+--- BLOCK [255] ---
+Has cazado 50 Duramboros.
+--- BLOCK [256] ---
+Has cazado 20 Duramboros herrumbrosos.
+--- BLOCK [257] ---
+Has cazado 30 Duramboros herrumbrosos.
+--- BLOCK [258] ---
+Has cazado 40 Duramboros herrumbrosos.
+--- BLOCK [259] ---
+Has cazado 50 Duramboros herrumbrosos.
+--- BLOCK [260] ---
+Has cazado 20 Diablos.
+--- BLOCK [261] ---
+Has cazado 30 Diablos.
+--- BLOCK [262] ---
+Has cazado 40 Diablos.
+--- BLOCK [263] ---
+Has cazado 50 Diablos.
+--- BLOCK [264] ---
+Has cazado 20 Diablos negras.
+--- BLOCK [265] ---
+Has cazado 30 Diablos negras.
+--- BLOCK [266] ---
+Has cazado 40 Diablos negras.
+--- BLOCK [267] ---
+Has cazado 50 Diablos negras.
+--- BLOCK [268] ---
+Has cazado 20 Rathalos.
+--- BLOCK [269] ---
+Has cazado 30 Rathalos.
+--- BLOCK [270] ---
+Has cazado 40 Rathalos.
+--- BLOCK [271] ---
+Has cazado 50 Rathalos.
+--- BLOCK [272] ---
+Has cazado 20 Rathalos celestes.
+--- BLOCK [273] ---
+Has cazado 30 Rathalos celestes.
+--- BLOCK [274] ---
+Has cazado 40 Rathalos celestes.
+--- BLOCK [275] ---
+Has cazado 50 Rathalos celestes.
+--- BLOCK [276] ---
+Has cazado 10 Rathalos plateados.
+--- BLOCK [277] ---
+Has cazado 15 Rathalos plateados.
+--- BLOCK [278] ---
+Has cazado 20 Rathalos plateados.
+--- BLOCK [279] ---
+Has cazado 30 Rathalos plateados.
+--- BLOCK [280] ---
+Has cazado 20 Uragaan.
+--- BLOCK [281] ---
+Has cazado 30 Uragaan.
+--- BLOCK [282] ---
+Has cazado 40 Uragaan.
+--- BLOCK [283] ---
+Has cazado 50 Uragaan.
+--- BLOCK [284] ---
+Has cazado 20 Uragaan acerados.
+--- BLOCK [285] ---
+Has cazado 30 Uragaan acerados.
+--- BLOCK [286] ---
+Has cazado 40 Uragaan acerados.
+--- BLOCK [287] ---
+Has cazado 50 Uragaan acerados.
+--- BLOCK [288] ---
+Has cazado 20 Agnaktor.
+--- BLOCK [289] ---
+Has cazado 30 Agnaktor.
+--- BLOCK [290] ---
+Has cazado 40 Agnaktor.
+--- BLOCK [291] ---
+Has cazado 50 Agnaktor.
+--- BLOCK [292] ---
+Has cazado 20 Agnaktor glaciales.
+--- BLOCK [293] ---
+Has cazado 30 Agnaktor glaciales.
+--- BLOCK [294] ---
+Has cazado 40 Agnaktor glaciales.
+--- BLOCK [295] ---
+Has cazado 50 Agnaktor glaciales.
+--- BLOCK [296] ---
+Has cazado 20 Nargacuga.
+--- BLOCK [297] ---
+Has cazado 30 Nargacuga.
+--- BLOCK [298] ---
+Has cazado 40 Nargacuga.
+--- BLOCK [299] ---
+Has cazado 50 Nargacuga.
+--- BLOCK [300] ---
+Has cazado 20 Nargacuga verdosos.
+--- BLOCK [301] ---
+Has cazado 30 Nargacuga verdosos.
+--- BLOCK [302] ---
+Has cazado 40 Nargacuga verdosos.
+--- BLOCK [303] ---
+Has cazado 50 Nargacuga verdosos.
+--- BLOCK [304] ---
+Has cazado 10 Nargacuga lunares.
+--- BLOCK [305] ---
+Has cazado 15 Nargacuga lunares.
+--- BLOCK [306] ---
+Has cazado 20 Nargacuga lunares.
+--- BLOCK [307] ---
+Has cazado 30 Nargacuga lunares.
+--- BLOCK [308] ---
+Has cazado 20 Brachydios.
+--- BLOCK [309] ---
+Has cazado 30 Brachydios.
+--- BLOCK [310] ---
+Has cazado 40 Brachydios.
+--- BLOCK [311] ---
+Has cazado 50 Brachydios.
+--- BLOCK [312] ---
+Has cazado 20 Lagiacrus.
+--- BLOCK [313] ---
+Has cazado 30 Lagiacrus.
+--- BLOCK [314] ---
+Has cazado 40 Lagiacrus.
+--- BLOCK [315] ---
+Has cazado 50 Lagiacrus.
+--- BLOCK [316] ---
+Has cazado 20 Lagiacrus marmóreos.
+--- BLOCK [317] ---
+Has cazado 30 Lagiacrus marmóreos.
+--- BLOCK [318] ---
+Has cazado 40 Lagiacrus marmóreos.
+--- BLOCK [319] ---
+Has cazado 50 Lagiacrus marmóreos.
+--- BLOCK [320] ---
+Has matado 10 Lagiacrus del abismo.
+--- BLOCK [321] ---
+Has matado 15 Lagiacrus del abismo.
+--- BLOCK [322] ---
+Has matado 20 Lagiacrus del abismo.
+--- BLOCK [323] ---
+Has matado 30 Lagiacrus del abismo.
+--- BLOCK [324] ---
+Has cazado 20 Zinogre.
+--- BLOCK [325] ---
+Has cazado 30 Zinogre.
+--- BLOCK [326] ---
+Has cazado 40 Zinogre.
+--- BLOCK [327] ---
+Has cazado 50 Zinogre.
+--- BLOCK [328] ---
+Has cazado 20 Zinogre estigios.
+--- BLOCK [329] ---
+Has cazado 30 Zinogre estigios.
+--- BLOCK [330] ---
+Has cazado 40 Zinogre estigios.
+--- BLOCK [331] ---
+Has cazado 50 Zinogre estigios.
+--- BLOCK [332] ---
+Has cazado 20 Deviljho.
+--- BLOCK [333] ---
+Has cazado 30 Deviljho.
+--- BLOCK [334] ---
+Has cazado 40 Deviljho.
+--- BLOCK [335] ---
+Has cazado 50 Deviljho.
+--- BLOCK [336] ---
+Has matado 10 Ceadeus.
+--- BLOCK [337] ---
+Has matado 15 Ceadeus.
+--- BLOCK [338] ---
+Has matado 20 Ceadeus.
+--- BLOCK [339] ---
+Has matado 20 Ceadeus.
+--- BLOCK [340] ---
+Has matado 30 Ceadeus.
+--- BLOCK [341] ---
+Has matado 30 Ceadeus.
+--- BLOCK [342] ---
+Has matado 10 Ceadeus barba dorada.
+--- BLOCK [343] ---
+Has matado 15 Ceadeus barba dorada.
+--- BLOCK [344] ---
+Has matado 20 Ceadeus barba dorada.
+--- BLOCK [345] ---
+Has matado 30 Ceadeus barba dorada.
+--- BLOCK [346] ---
+Has matado 10 Jhen Mohran.
+--- BLOCK [347] ---
+Has matado 15 Jhen Mohran.
+--- BLOCK [348] ---
+Has matado 20 Jhen Mohran.
+--- BLOCK [349] ---
+Has matado 30 Jhen Mohran.
+--- BLOCK [350] ---
+Has matado 10 Jhen Mohran sagrados.
+--- BLOCK [351] ---
+Has matado 15 Jhen Mohran sagrados.
+--- BLOCK [352] ---
+Has matado 20 Jhen Mohran sagrados.
+--- BLOCK [353] ---
+Has matado 30 Jhen Mohran sagrados.
+--- BLOCK [354] ---
+Has matado 10 Alatreon.
+--- BLOCK [355] ---
+Has matado 15 Alatreon.
+--- BLOCK [356] ---
+Has matado 20 Alatreon.
+--- BLOCK [357] ---
+Has matado 30 Alatreon.
+--- BLOCK [358] ---
+Has matado 10 Miralis funestos.
+--- BLOCK [359] ---
+Has matado 15 Miralis funestos.
+--- BLOCK [360] ---
+Has matado 20 Miralis funestos.
+--- BLOCK [361] ---
+Has matado 30 Miralis funestos.
+--- BLOCK [362] ---
+Habla con Neko para ir de la Aldea de
+Moga a Puerto Tanzia por primera vez.
+--- BLOCK [363] ---
+Habla con Neko para ir de la Aldea de
+Moga a Puerto Tanzia 100 veces.
+--- BLOCK [364] ---
+HARDUMMY
+--- BLOCK [365] ---
+Conseguido mediante
+contenido descargable.
+--- BLOCK [366] ---
+HARDUMMY
+--- BLOCK [367] ---
+Conseguido mediante
+contenido descargable.
+--- BLOCK [368] ---
+HARDUMMY
+--- BLOCK [369] ---
+Conseguido mediante
+contenido descargable.
+--- BLOCK [370] ---
+HARDUMMY
+--- BLOCK [371] ---

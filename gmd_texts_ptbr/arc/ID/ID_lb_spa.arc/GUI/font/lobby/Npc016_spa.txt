@@ -88,7 +88,7 @@ ter muitos amigos no Gremio.
 --- BLOCK ---
 Quer dizer, como ele conseguiria fazer com
 que um caçador como você viesse para
-uma minúscula aldeia perdida do mundo?
+uma minúscula vila perdida do mundo?
 --- BLOCK ---
 Para isso são necessários contatos! Eu
 te digo, ele mexeu alguns pauzinhos.
@@ -125,20 +125,20 @@ costumam combinar enquanto atiram.
 --- BLOCK ---
 <SUBS 0> Você conhece a
 cachoeira que fica ao lado
-da Fazenda da aldeia?
+da Fazenda da vila?
 --- BLOCK ---
 Bem, aposto que você não sabia que
 atrás dela há um estranho altar.
 --- BLOCK ---
 Na minha opinião, a história desta
-aldeia é anterior ao Chefe.
+vila é anterior ao Chefe.
 --- BLOCK ---
 Tentei fazê-lo contar algo,
 mas ele não se
 entregou. Ha, ha, entendeu?
 --- BLOCK ---
 <SUBS 0> Quando os monstros
-se aproximam muito da aldeia,
+se aproximam muito da vila,
 nós os afugentamos com bombas.
 --- BLOCK ---
 Basta colocar uma Erva de fogo dentro
@@ -296,7 +296,7 @@ Agora entendo por que ele tem
 tanta influência. E isso explica por
 que ele sabe tanto sobre monstros.
 --- BLOCK ---
-Nesta aldeia, ele pode moldar seus
+Nesta vila, ele pode moldar seus
 sonhos. Afinal, ele tem todo o
 "Barroth" do mundo! Ha, ha, entendeu?
 --- BLOCK ---

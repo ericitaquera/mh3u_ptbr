@@ -1298,8 +1298,8 @@ DUMMY
 --- BLOCK ---
 Escolha seu equipamento.
 --- BLOCK ---
-Botão deslizante esq./dir.: Girar pers.
-Botão deslizante cima/baixo: Ver cima/baixo.
+Contr. analógico esq./dir.: Girar person.
+Contr. analógico cim./bai.: Ver cim./bai.
 --- BLOCK ---
  <COLO 5>INICIAR: Vestir
 --- BLOCK ---

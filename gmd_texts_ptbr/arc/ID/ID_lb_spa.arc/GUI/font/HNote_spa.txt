@@ -897,7 +897,7 @@ tão ágeis quanto mortais.
 Subespécie de Nargacuga com pelagem
 manchada que lhe permite se
 camuflar entre a vegetação verde
-do Bosque Inundado ou da
+da Floresta Inundada ou da
 Ilha Deserta. Controla sua
 cauda perfeitamente. Dizem que
 suas espinhas são mortais.
@@ -1521,12 +1521,12 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-No porto multijogador, pressione o botão
-Y perto do balcão de missões
+No porto multijogador, pressione o
+botão Y perto do balcão de missões
 para tocar o gongo do porto.
 --- BLOCK ---
-Quando o gongo tocar, seu status
-será "Procurando companheiros" quando outros te
+Quando o gongo tocar, seu status será
+"Procurando companheiros" quando outros te
 encontrarem na Busca do Caçador.
 --- BLOCK ---
 Sempre que quiser embarcar em uma
@@ -1661,8 +1661,8 @@ Indicador especial da Espada Longa. Enche
 quando você ataca e se esgota
 ao usar ataques de Espada Espiritual.
 --- BLOCK ---
-O corte circular espiritual aumenta a potência
-de ataque: o indicador vai do
+O corte circular espiritual aumenta a
+potência de ataque: o indicador vai do
 branco ao amarelo e ao vermelho.
 --- BLOCK ---
 Indicador especial da Espada Machado.
@@ -1685,13 +1685,13 @@ de notas. A cor da
 nota muda dependendo do ataque.
 --- BLOCK ---
 Diferentes combinações de notas causarão
-diferentes efeitos melódicos. Experimente todos
-e veja o que acontece!
+diferentes efeitos melódicos. Experimente
+todos e veja o que acontece!
 --- BLOCK ---
 Este indicador é exclusivo do Arco.
 --- BLOCK ---
 Se não tiver nenhum revestimento de flecha
-carregado, será exibido o seguinte: &<;---&>;.
+carregado, exibirá o seguinte: &<;---&>;.
 --- BLOCK ---
 Uma vez que carregues
 um revestimento, o indicador
@@ -1716,38 +1716,38 @@ Se o teu indicador demoníaco esvaziar,
 o modo Archidemoníaco terminará e
 voltarás ao teu estado normal.
 --- BLOCK ---
-Usa o botão deslizante
-para te moveres.
+Use o controle analógico
+para se mover.
 --- BLOCK ---
 Mantém pressionado o botão R
-enquanto te moves para correr.
+enquanto se move para correr.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Pressione o botão B para se agachar.
 --- BLOCK ---
-Use o controle deslizante quando
+Use o controle analógico quando
 estiver agachado para se mover.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Mova o controle deslizante levemente para
+Mova o controle analógico levemente para
 andar devagar e com sigilo.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Com o direcional, selecione a direção
 para a qual deseja nadar. Use
-o controle deslizante para se mover.
+o controle analógico para se mover.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Para emergir, mantenha o botão B
-pressionado e mova o controle deslizante
+pressionado e mova o controle analógico
 para cima quando estiver na água.
 --- BLOCK ---
 Para mergulhar mais fundo, mantenha o botão
-B pressionado e mova o controle deslizante
+B pressionado e mova o controle analógico
 para baixo quando estiver na água.
 --- BLOCK ---
 HARDUMMY
@@ -1803,15 +1803,15 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Quando estiver debaixo d'água, toque no painel
-de Ataq. especial na tela sensível
+Quando estiver debaixo d'água, toque no
+painel de Ataq. especial na tela sensível
 ao toque para fazer um tackle.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Pressione START para abrir o menu do jogo.
-Use a configuração do botão START para abri-lo
-a partir da tela sensível ao toque.
+Use a configuração do botão START para
+abri-lo a partir da tela sensível ao toque.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -1836,8 +1836,8 @@ ela diminui com a atividade
 e geralmente se restabelece naturalmente.
 --- BLOCK ---
 Se você gasta muita Resistência, irá
-se mover mais devagar e
-eventualmente parar completamente. Tenha cuidado!
+se mover mais devagar e eventualmente
+parar completamente. Tenha cuidado!
 --- BLOCK ---
 A extensão da barra de Resistência
 pode diminuir com o tempo.
@@ -1913,9 +1913,9 @@ A Bolsa de itens é usada
 para carregar os itens que você
 compra ou obtém durante as missões.
 --- BLOCK ---
-A bolsa do Atirador lhe dá acesso
-à Lista de munição, para que você
-tenha sua munição e revestimentos organizados.
+A bolsa do Atirador lhe dá acesso à Lista
+de munição, para que você tenha sua
+munição e revestimentos organizados.
 --- BLOCK ---
 Quando você trocar de um tipo de caçador
 para outro, os itens da bolsa que não
@@ -1991,17 +1991,17 @@ As Balestras são armas de longo
 alcance que causam dano à distância.
 Existem dois tipos: pesadas e leves.
 --- BLOCK ---
-Quando estiver usando uma Balestra, você usará
-armadura de Atirador. Você pode atacar
-à distância, mas com menos Defesa.
+Quando estiver usando uma Balestra, você
+usará armadura de Atirador. Você pode
+atacar à distância, mas com menos Defesa.
 --- BLOCK ---
 Ao contrário das armas
 corpo a corpo, as
 Balestras precisam de munição.
 --- BLOCK ---
-Consiga combinando itens ou comprando. Você sempre
-terá munição de tiro normal de
-nível 1 ao iniciar uma missão.
+Consiga combinando itens ou comprando.
+Você sempre terá munição de tiro normal
+de nível 1 ao iniciar uma missão.
 --- BLOCK ---
 Algumas Balestras leves podem
 usar Fogo Rápido com
@@ -2019,9 +2019,9 @@ Ao utilizar o Disparo Agachado, vários
 cartuchos são carregados de uma vez,
 permitindo que você dispare sem parar.
 --- BLOCK ---
-Se estiver na posição de Disparo
-Agachado, não poderá se mover ou
-se esquivar, tornando-se vulnerável até levantar-se.
+Se estiver na posição de Disparo Agachado,
+não poderá se mover ou se esquivar,
+tornando-se vulnerável até levantar-se.
 --- BLOCK ---
 As Balestras sofrem Recuo ao serem
 disparadas. Um Recuo forte significa
@@ -2229,9 +2229,9 @@ Os adornos podem ser colocados ou
 removidos na Forja ou usando a
 Caixa de objetos de sua casa.
 --- BLOCK ---
-As Guildas da aldeia e do
-porto têm muitas missões para
-caçadores ambiciosos... mas não imediatamente.
+As Guildas da vila e do porto têm
+muitas missões para caçadores
+ambiciosos... mas não imediatamente.
 --- BLOCK ---
 Primeiro você deve completar as missões
 disponíveis para aumentar seu nível
@@ -2357,8 +2357,8 @@ Os pequenos, por outro lado, só
 aparecerão no mapa se estiverem
 na mesma área que você.
 --- BLOCK ---
-As Armadilhas de pedra e as Armadilhas
-de choque podem ser criadas combinando objetos.
+As Armadilhas de pedra e as Armadilhas de
+choque podem ser criadas combinando objetos.
 --- BLOCK ---
 São usadas para temporariamente impedir
 o movimento de monstros grandes.
@@ -2411,9 +2411,9 @@ Ao se aproximar de uma área
 de mineração, um ícone aparecerá. Se
 tiver um Martelo, poderá extrair minério.
 --- BLOCK ---
-Ao se aproximar de uma área de
-Rede de insetos, um ícone aparecerá. Se
-tiver uma Rede de insetos, poderá capturá-los.
+Ao se aproximar de uma área de Rede de
+insetos, um ícone aparecerá. Se tiver uma
+Rede de insetos, poderá capturá-los.
 --- BLOCK ---
 Para cortar materiais de peixes,
 precisará de um Gancho. Aproxime-se
@@ -2535,15 +2535,15 @@ Os efeitos da comida melhoram
 à medida que você aumenta
 o nível de cada ingrediente.
 --- BLOCK ---
-O nível dos ingredientes é
-aumentado completando algumas missões, conversando
+O nível dos ingredientes é aumentado
+completando algumas missões, conversando
 com alguns aldeões, etc.
 --- BLOCK ---
 Conforme Cha-Cha ganha experiência, seu
 Nível e Valor aumentam.
 --- BLOCK ---
-Com o aumento do Nível, suas
-estatísticas aumentam. Também aprende novas habilidades.
+Com o aumento do Nível, suas estatísticas
+aumentam. Também aprende novas habilidades.
 --- BLOCK ---
 Conforme ganha em Valor, terá
 menos medo dos monstros
@@ -2585,8 +2585,8 @@ juntos em missão, o nível
 de Cha-chi deles aumentará.
 --- BLOCK ---
 Conforme o nível de Cha-chi aumenta, coisas
-legais acontecerão; por exemplo, eles se juntarão
-à dança um do outro enquanto dançam.
+legais acontecerão; por exemplo, eles se
+juntarão à dança um do outro enquanto dançam.
 --- BLOCK ---
 Você pode iniciar missões no porto
 falando com a funcionária que
@@ -2609,15 +2609,15 @@ e espere os outros estarem prontos.
 Na Arena de Tanzia, você encontrará
 muitas missões especiais contra o relógio.
 --- BLOCK ---
-Você receberá várias recompensas dependendo da
-rapidez com que as completar.
+Você receberá várias recompensas dependendo
+da rapidez com que as completar.
 --- BLOCK ---
 Fale com a funcionária da Arena
 para ver quais missões estão
 disponíveis ou verificar as classificações.
 --- BLOCK ---
-As Classificações mostram seus melhores tempos
-e os dos outros se você
+As Classificações mostram seus melhores
+tempos e os dos outros se você
 tiver seus cartões da Guilda.
 --- BLOCK ---
 Pressione o botão X
@@ -2678,7 +2678,7 @@ com a espada para baixo.
 Pressione o botão A para
 atacar com a espada lateralmente.
 --- BLOCK ---
-Mova o controle deslizante em qualquer
+Mova o controle analógico em qualquer
 direção e pressione o botão A
 para atacar com seu escudo.
 --- BLOCK ---
@@ -2689,7 +2689,7 @@ Tocha quando estiver equipada.
 HARDUMMY
 --- BLOCK ---
 Durante um combo, mantenha o controle
-deslizante para baixo e pressione o
+analógico para baixo e pressione o
 botão X para um corte giratório.
 --- BLOCK ---
 Se pressionar o botão X e o
@@ -2781,7 +2781,7 @@ botão R e depois o botão A
 para realizar um contra-ataque com a Lança.
 --- BLOCK ---
 Pressione o botão X e mova o controle
-deslizante com o botão R pressionado para
+analógico com o botão R pressionado para
 dar um passo à frente enquanto bloqueia.
 --- BLOCK ---
 HARDUMMY
@@ -2794,14 +2794,14 @@ Pressione o botão B com
 sua arma sacada para dar
 um passo para trás.
 --- BLOCK ---
-Se mover o controle deslizante um pouco
+Se mover o controle analógico um pouco
 para trás ao dar um passo para
 trás, você dará um salto mais longo.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Após atacar, pressione o botão B
-enquanto move o controle deslizante para
+enquanto move o controle analógico para
 esquerda/direita para um passo lateral.
 --- BLOCK ---
 HARDUMMY
@@ -2812,15 +2812,15 @@ Balestra estiver sacada para disparar.
 Pressione o botão X quando a
 Balestra estiver sacada para recarregar.
 --- BLOCK ---
-Você pode recarregar sua Balestra quando ela estiver
-guardada pressionando o botão R, o botão X
-e o botão A ao mesmo tempo.
+Você pode recarregar sua Balestra quando ela
+estiver guardada pressionando o botão R,
+o botão X e o botão A ao mesmo tempo.
 --- BLOCK ---
 Pressione o botão R para
 ativar ou desativar a mira.
 --- BLOCK ---
 Quando tiver a mira ativada,
-mova-a com o controle deslizante.
+mova-a com o controle analógico.
 --- BLOCK ---
 Use o direcional para aproximar ou
 afastar a visão sempre que a
@@ -2846,9 +2846,9 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Pressione o botão X e o botão
-A ao mesmo tempo para se posicionar
-para um Disparo agachado. (Apenas Balestra Pesada)
+Pressione o botão X e o botão A ao mesmo
+tempo para se posicionar para um Disparo
+agachado. (Apenas Balestra Pesada)
 --- BLOCK ---
 Ao se mover, saque a
 Espada longa com o botão
@@ -2868,8 +2868,8 @@ Com a Espada longa sacada,
 pressione o botão R para
 iniciar ataques de Espada Espiritual.
 --- BLOCK ---
-Se sua Espada longa estiver guardada, pressione
-o botão R, o botão X e
+Se sua Espada longa estiver guardada,
+pressione o botão R, o botão X e
 o botão A ao mesmo tempo.
 --- BLOCK ---
 Após um combo de Espada Espiritual,
@@ -2900,7 +2900,7 @@ o botão A repetidamente para
 desferir uma rajada de ataques.
 --- BLOCK ---
 Pressione o botão X enquanto se
-move com o controle deslizante para
+move com o controle analógico para
 investir com o Machado espada.
 --- BLOCK ---
 HARDUMMY
@@ -2939,9 +2939,9 @@ Enquanto sua Espada estiver fincada,
 pressione o botão X repetidamente
 para obter um final explosivo.
 --- BLOCK ---
-Durante a descarga elemental, mova o controle
-deslizante para trás e pressione o botão
-X para um final mais rápido.
+Durante a descarga elemental, mova o
+controle analógico para trás e pressione
+o botão X para um final mais rápido.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -2949,7 +2949,7 @@ Pressione o botão R para recarregar o Machado
 Espada e encher o indicador de mudança.
 --- BLOCK ---
 Após atacar, pressione o botão B
-enquanto move o controle deslizante para
+enquanto move o controle analógico para
 esquerda/direita para um passo lateral.
 --- BLOCK ---
 HARDUMMY
@@ -2981,14 +2981,14 @@ Pressione o botão B com
 a arma desembainhada para dar
 um passo para trás.
 --- BLOCK ---
-Se mover um pouco o controle deslizante
+Se mover um pouco o controle analógico
 para trás ao dar um passo para
 trás, dará um salto mais longo.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Após atacar, pressione o botão B
-enquanto move o controle deslizante para
+enquanto move o controle analógico para
 esquerda/direita para um passo lateral.
 --- BLOCK ---
 HARDUMMY
@@ -2997,9 +2997,9 @@ Pressione o botão A para
 disparar um projétil. Pressione
 novamente para recarregar rapidamente.
 --- BLOCK ---
-Após disparar um projétil, mantenha pressionado o
-botão R e pressione o botão
-A para lançar um tiro carregado.
+Após disparar um projétil, mantenha
+pressionado o botão R e pressione o
+botão A para lançar um tiro carregado.
 --- BLOCK ---
 Ao bloquear ou dar um
 passo lateral, pressione o botão
@@ -3034,13 +3034,13 @@ Espada dupla desembainhada para atacar duas
 vezes com a espada direita.
 --- BLOCK ---
 Pressione o botão A enquanto move o
-controle deslizante para a esquerda para
+controle analógico para a esquerda para
 atacar duas vezes com a esquerda.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Pressione o botão R com sua Espada
-dupla para entrar no modo Demoníaco. Pressione
+Pressione o botão R com sua Espada dupla para
+entrar no modo Demoníaco. Pressione
 novamente ou esgote a Resistência para sair.
 --- BLOCK ---
 Pressione o botão A no
@@ -3048,7 +3048,7 @@ modo Demoníaco para realizar dois
 golpes giratórios para a direita.
 --- BLOCK ---
 Pressione o botão A e mova o controle
-deslizante para a esquerda no modo Demoníaco
+analógico para a esquerda no modo Demoníaco
 para dois cortes giratórios para a esquerda.
 --- BLOCK ---
 HARDUMMY
@@ -3084,7 +3084,7 @@ Ao se mover, desembainhe a Flauta com
 o botão X para atacar imediatamente.
 --- BLOCK ---
 Pressione o botão X enquanto move
-o controle deslizante para brandir
+o controle analógico para brandir
 a Flauta à sua frente.
 --- BLOCK ---
 HARDUMMY
@@ -3100,7 +3100,7 @@ o botão A para brandi-la
 de maneira descendente para trás.
 --- BLOCK ---
 Pressione o botão X e o botão
-A enquanto move o controle deslizante para
+A enquanto move o controle analógico para
 girar a Flauta e batê-la no chão.
 --- BLOCK ---
 HARDUMMY
@@ -3125,8 +3125,8 @@ Se sua arma estiver guardada, pressione o
 botão X e o botão A
 enquanto mantém pressionado o botão R.
 --- BLOCK ---
-Use o botão X para sacar
-uma flecha. Mantenha pressionado para carregar
+Use o botão X para sacar uma flecha.
+Mantenha pressionado para carregar
 o poder utilizando a Resistência.
 --- BLOCK ---
 Após sacar uma flecha, solte
@@ -3182,9 +3182,9 @@ Você pode reverter a Balestra
 para seu estado anterior selecionando
 a opção Com limitador.
 --- BLOCK ---
-Se remover o limitador de uma
-Balestra leve, pode trocar de
-munição sem precisar recarregar adicionalmente.
+Se remover o limitador de uma Balestra
+leve, pode trocar de munição sem precisar
+recarregar adicionalmente.
 --- BLOCK ---
 Pressione o botão X e o
 botão A para realizar uma recarga

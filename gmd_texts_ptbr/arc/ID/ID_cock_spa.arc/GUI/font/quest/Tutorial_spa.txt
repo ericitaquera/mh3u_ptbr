@@ -384,7 +384,7 @@ novato assim como caçador, afinal...
 --- BLOCK ---
 Você verá os Recursos que
 coletou dos monstros caçados quando
-retornar à Aldeia de Moga.
+retornar à Vila Moga.
 --- BLOCK ---
 Quando eu me calar, olhe no
 canto inferior esquerdo da tela.
@@ -560,7 +560,7 @@ foi adicionada a opção "Voltar para
 a vila" no menu do jogo.
 --- BLOCK ---
 Escolha essa opção para ir diretamente à
-Aldeia de Moga. Melhor do que ir a pé.
+Vila Moga. Melhor do que ir a pé.
 --- BLOCK ---
 Quando retornar à vila, fale com
 a garota que tem todas as informações
@@ -1019,12 +1019,12 @@ Chefe no acampamento base.
 Lições básicas de caça:
 Dê 30 pontos de
 Recursos ao filho do
-Chefe na aldeia.
+Chefe na vila.
 --- BLOCK ---
 Lições básicas de caça:
 Dê 1 pepita de
 Minério de ferro ao
-Artesão Wyveriano na aldeia.
+Artesão Wyveriano na vila.
 --- BLOCK ---
 Lições básicas de caça:
 Cace 1 Mólido na

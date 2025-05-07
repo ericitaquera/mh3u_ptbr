@@ -1,0 +1,417 @@
+﻿GC_MEDAL
+--- BLOCK [001] ---
+GC_MEDAL_HELP
+--- BLOCK [002] ---
+GC_RECORD
+--- BLOCK [003] ---
+GC_INFO
+--- BLOCK [004] ---
+Atuendo del jefe
+--- BLOCK [005] ---
+Pipa del jefe
+--- BLOCK [006] ---
+Colgante de Aisha
+--- BLOCK [007] ---
+Medalla de bronce
+--- BLOCK [008] ---
+Medalla de plata
+--- BLOCK [009] ---
+Medalla de oro
+--- BLOCK [010] ---
+Insignia de Campeón
+--- BLOCK [011] ---
+Trofeo del Arena
+--- BLOCK [012] ---
+Marca de Fuerza
+--- BLOCK [013] ---
+Marca de Habilidad
+--- BLOCK [014] ---
+Blasón de maestro cazador
+--- BLOCK [015] ---
+Collar marítimo
+--- BLOCK [016] ---
+Marca de cazador
+--- BLOCK [017] ---
+Gema de las profundidades
+--- BLOCK [018] ---
+Espada de platino
+--- BLOCK [019] ---
+Espejo dorado
+--- BLOCK [020] ---
+Cristal de Jhen
+--- BLOCK [021] ---
+Piedra sagrada
+--- BLOCK [022] ---
+Broche de obsidiana
+--- BLOCK [023] ---
+Anillo de Miralis
+--- BLOCK [024] ---
+Anillo de Alatreon
+--- BLOCK [025] ---
+Haori lunar
+--- BLOCK [026] ---
+Sangre diluida
+--- BLOCK [027] ---
+Collar del abismo
+--- BLOCK [028] ---
+Vieja máscara de niñez
+--- BLOCK [029] ---
+Homenaje al lacayo
+--- BLOCK [030] ---
+Certificado de subordinado
+--- BLOCK [031] ---
+Amuleto de amistad
+--- BLOCK [032] ---
+Pergamino del Sabio
+--- BLOCK [033] ---
+Informe bionómico
+--- BLOCK [034] ---
+Amuleto del chamán
+--- BLOCK [035] ---
+Viajes de cazador
+--- BLOCK [036] ---
+Certificado de granja
+--- BLOCK [037] ---
+Licencia argosiana
+--- BLOCK [038] ---
+Voto de hermandad
+--- BLOCK [039] ---
+Martillo del Artesano
+--- BLOCK [040] ---
+Escudo decorativo
+--- BLOCK [041] ---
+Caldera de chef
+--- BLOCK [042] ---
+Rocangrejo de Atlantis
+--- BLOCK [043] ---
+Ramo del Gremio
+--- BLOCK [044] ---
+Pelota de Poogie
+--- BLOCK [045] ---
+Gran corona
+--- BLOCK [046] ---
+Corona real
+--- BLOCK [047] ---
+Corona enana
+--- BLOCK [048] ---
+Prueba de haber acabado las
+primeras misiones de aldea.
+Este atuendo está muy usado.
+--- BLOCK [049] ---
+Prueba que tienes todas las
+últimas misiones de aldea.
+Un recuerdo del jefe.
+--- BLOCK [050] ---
+Superadas las misiones de
+aldea. Trae suerte y éxito en
+la caza.
+--- BLOCK [051] ---
+Superadas las misiones de
+puerto de 1 a 2 estrellas.
+Para cazadores libres.
+--- BLOCK [052] ---
+Superadas las misiones de
+puerto de 3 a 5 estrellas.
+Para cazadores famosos.
+--- BLOCK [053] ---
+Superadas las misiones de
+puerto de 6 a 8 estrellas.
+Para cazadores maestros.
+--- BLOCK [054] ---
+Prueba de haber vencido en
+todas las misiones de Arena.
+Refrenda tu gran esfuerzo.
+--- BLOCK [055] ---
+Conseguido Rango A en
+las misiones de Arena.
+Corrobora tu sabiduría.
+--- BLOCK [056] ---
+Superadas las misiones
+avanzadas. Medalla que
+demuestra tu gran fuerza.
+--- BLOCK [057] ---
+Superadas las misiones de
+resistencia. Demuestra
+tu supervivencia.
+--- BLOCK [058] ---
+Superadas las misiones de
+aldea y puerto. Un cazador
+sin parangón.
+--- BLOCK [059] ---
+Prueba de que has derrotado
+un Lagiacrus. Su brillo
+azulado transmite calma.
+--- BLOCK [060] ---
+Prueba de que has salvado
+el puerto. Para cazadores
+reconocidos por el Gremio.
+--- BLOCK [061] ---
+Prueba de que has ahuyentado
+un Ceadeus. Tiene el poder de
+espantar la calamidad. 
+--- BLOCK [062] ---
+Espada de doble filo, premio
+por derrotar al enemigo del
+Jefe: el Lagiacrus marmóreo.
+--- BLOCK [063] ---
+Prueba de que has derrotado un
+Ceadeus barba dorada. Dicen
+que espanta la calamidad.
+--- BLOCK [064] ---
+Prueba de haber vencido al
+magnífico Jhen Mohran.
+Se dice que da suerte. 
+--- BLOCK [065] ---
+Prueba de que has derrotado un
+Jhen Mohran sagrado. ¿Será la
+fuente de su fuerza vital?
+--- BLOCK [066] ---
+Prueba de que has derrotado un
+Brachydios. Es de su armadura
+y posee un brillo siniestro.
+--- BLOCK [067] ---
+Prueba de que has derrotado al
+poderoso Miralis funesto. Luce
+rojo, como la tierra.
+--- BLOCK [068] ---
+Prueba de haber vencido al
+feroz Alatreon. Tiene el
+poder de cambiar el clima.
+--- BLOCK [069] ---
+Prueba de que has derrotado un
+Nargacuga lunar. La chaqueta
+de brillo lunar deslumbra.
+--- BLOCK [070] ---
+Prueba de que has derrotado un
+Deviljho despiadado. ¿Qué
+males yacerán en ese líquido?
+--- BLOCK [071] ---
+Prueba de que has derrotado un
+Lagiacrus del abismo. Su tenue
+luz azul brilla siempre.
+--- BLOCK [072] ---
+Prueba de haber conseguido
+todas las máscaras y bailes.
+Cha-Cha llevó esta de niño.
+--- BLOCK [073] ---
+Prueba de que Cha-Cha está
+que se sale. Certificado de
+que eres su más fiel lacayo.
+--- BLOCK [074] ---
+Prueba de que Kayamba está
+que se sale. Certificado de
+que eres su más fiel servidor.
+--- BLOCK [075] ---
+Prueba de la amistad entre
+Cha-Cha y Kayamba. Estos dos
+se han hecho amigos del alma.
+--- BLOCK [076] ---
+Un pergamino con secretos de
+la combinación. Prueba de
+haber creado muchos objetos.
+--- BLOCK [077] ---
+Prueba de haber capturado
+muchos tipos de monstruos.
+Tiene datos sobre ellos.
+--- BLOCK [078] ---
+Prueba de que has descubierto
+tropecientos amuletos. No hay
+piedra que se te escape.
+--- BLOCK [079] ---
+Prueba de que has viajado a
+muchos lugares. Las áreas
+exploradas están en este mapa.
+--- BLOCK [080] ---
+Prueba de que mantienes una
+granja de primera. El nivel
+de calidad era muy alto.
+--- BLOCK [081] ---
+Prueba de haber comprado
+bienes raros. Premio de los
+Argosy a gran comerciante.
+--- BLOCK [082] ---
+Prueba de excelencia en la
+Flota de caza. Fuiste como
+uno más de la tripulación.
+--- BLOCK [083] ---
+Prueba que coleccionas
+equipos. Antes usado por un
+mítico artesano wyveriano.
+--- BLOCK [084] ---
+Prueba de que has diseñado
+numerosos muebles. Un regalo
+del Adivino interior.
+--- BLOCK [085] ---
+Prueba de que has recogido
+los mejores ingredientes.
+Utensilio típico de Tanzia. 
+--- BLOCK [086] ---
+Prueba de tu contribución a
+la aldea de Moga. Joya rara
+hecha de un cangrejo Atlantis.
+--- BLOCK [087] ---
+Prueba de que has conseguido
+muchísimos puntos RC. Ramo
+hecho de hibiscos raros.
+--- BLOCK [088] ---
+Prueba de que has conseguido
+los trajes de Poogie. Redonda,
+y suave. ¡Parece de verdad!
+--- BLOCK [089] ---
+Prueba de que has cazado
+enemigos grandes. Pocos
+cazadores poseen esta corona.
+--- BLOCK [090] ---
+Prueba que has cazado muchos
+rivales gigantes. Solo la
+élite recibe esta corona.
+--- BLOCK [091] ---
+Prueba que has cazado muchos
+rivales enanos. Para los
+que tienen suerte y maña.
+--- BLOCK [092] ---
+ <COLO 33>¡"%s" completada!
+--- BLOCK [093] ---
+ <COLO 33>"%s" abandonada.
+--- BLOCK [094] ---
+ <COLO 33>"%s" fallida.
+--- BLOCK [095] ---
+ <COLO 33>¡Forjado: "%s"!
+--- BLOCK [096] ---
+ <COLO 33>Recuento de mejora/forja <ICON %02d>: %d.
+--- BLOCK [097] ---
+ <COLO 33>¡%s se ha unido!
+--- BLOCK [098] ---
+ <COLO 33>¡Has conseguido "%s"!
+--- BLOCK [099] ---
+Cha-Cha
+--- BLOCK [100] ---
+Kayamba
+--- BLOCK [101] ---
+ <COLO 32>%s <COLO 31>se ha desmayado %d vez/veces.
+--- BLOCK [102] ---
+ se ha desmayado %d veces.
+--- BLOCK [103] ---
+ <COLO 35><COLO %02d>%s<COLO 35> %s
+--- BLOCK [104] ---
+se chifla por la Balista.
+--- BLOCK [105] ---
+se ha enamorado del Cañón.
+--- BLOCK [106] ---
+ha colocado muchas trampas.
+--- BLOCK [107] ---
+ha cargado Bomba barril gr+.
+--- BLOCK [108] ---
+infligió muchísimos ataques.
+--- BLOCK [109] ---
+ha asestado muchos ataques.
+--- BLOCK [110] ---
+ha obtenido muchos objetos.
+--- BLOCK [111] ---
+casi no se ha desmayado.
+--- BLOCK [112] ---
+ha ayudado mucho.
+--- BLOCK [113] ---
+ Hecho sin armadura.
+--- BLOCK [114] ---
+ Hecho en menos de 5 min.
+--- BLOCK [115] ---
+ ¡Hecho por los pelos!
+--- BLOCK [116] ---
+ %s +grand: %4.2f cm.
+--- BLOCK [117] ---
+ %s +peq: %4.2f cm.
+--- BLOCK [118] ---
+ ¡Recibes %s!
+--- BLOCK [119] ---
+ También has cazado:
+--- BLOCK [120] ---
+ %s
+--- BLOCK [121] ---
+ ¡%d misiones abandonadas!
+--- BLOCK [122] ---
+ <COLO 36>¡Has usado <ICON %02d> %d veces!
+--- BLOCK [123] ---
+ <COLO 36>¡Has jugado durante %d horas!
+--- BLOCK [124] ---
+ <COLO 36>Has cazado %s %d veces.
+--- BLOCK [125] ---
+ <COLO 36>¡Has completado %d misiones!
+--- BLOCK [126] ---
+ <COLO 36>¡Hechas misiones aldea %s!
+--- BLOCK [127] ---
+ <COLO 36>¡Hechas misiones puerto %s!
+--- BLOCK [128] ---
+ <COLO 36>¡El Rango de cazador aumenta a %d!
+--- BLOCK [129] ---
+ <COLO 33>¡Has cazado en el Bosque de Moga!
+--- BLOCK [130] ---
+HARDUMMY
+--- BLOCK [131] ---
+HARDUMMY
+--- BLOCK [132] ---
+Moga B
+--- BLOCK [133] ---
+Moga A
+--- BLOCK [134] ---
+Tanzia B
+--- BLOCK [135] ---
+Tanzia A
+--- BLOCK [136] ---
+Tanzia G
+--- BLOCK [137] ---
+Arena
+--- BLOCK [138] ---
+Et. StreetPass
+--- BLOCK [139] ---
+Todo
+--- BLOCK [140] ---
+Moga
+--- BLOCK [141] ---
+Tanzia
+--- BLOCK [142] ---
+Diario de cazador
+--- BLOCK [143] ---
+Premios
+--- BLOCK [144] ---
+Tiempo juego
+--- BLOCK [145] ---
+Registro de monstruos
+--- BLOCK [146] ---
+Nombre
+--- BLOCK [147] ---
+Long.
+--- BLOCK [148] ---
+Caz.
+--- BLOCK [149] ---
+? ? ? ?
+--- BLOCK [150] ---
+----
+--- BLOCK [151] ---
+--
+--- BLOCK [152] ---
+Registro de Arena
+--- BLOCK [153] ---
+%3d
+--- BLOCK [154] ---
+ ～
+--- BLOCK [155] ---
+Mejor tmp.
+--- BLOCK [156] ---
+Arma
+--- BLOCK [157] ---
+Rang
+--- BLOCK [158] ---
+Capt
+--- BLOCK [159] ---
+Sig.
+--- BLOCK [160] ---
+Saludo Sí/No
+--- BLOCK [161] ---
+Uso del arma
+--- BLOCK [162] ---
+Se ha añadido la recompensa
+"%s".
+--- BLOCK [163] ---
+HARDUMMY
+--- BLOCK [164] ---

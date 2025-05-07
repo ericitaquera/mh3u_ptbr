@@ -43,7 +43,7 @@ Tsc, tsc. Os covardes nunca vencem!
 --- BLOCK ---
 A Guilda caça na Floresta de Moga
 e investiga e, em troca, atendemos
-às necessidades de defesa da aldeia.
+às necessidades de defesa da vila.
 --- BLOCK ---
 Não é ótimo? Agora só
 falta encontrar alguém que atenda
@@ -57,9 +57,9 @@ Isso sim, quando tiver, poderá pegar
 os trabalhos que quiser e
 impressionar a Guilda. Estou ansiosa!
 --- BLOCK ---
-<SUBS 0> O Bosque
-de Moga é um
-lugar esplêndido para caçar.
+<SUBS 0> A Floresta
+Moga é um lugar
+esplêndido para caçar.
 --- BLOCK ---
 Assim que o acampamento base estiver
 pronto, receberá muitos trabalhos de
@@ -109,8 +109,8 @@ Nasci aqui, sabia? Fui para a escola
 na cidade e acabei na Guilda. E
 agora estou de volta. Que situação!
 --- BLOCK ---
-Quando criança, passei tanto tempo no
-Bosquede Moga que sou como uma atleta
+Quando criança, passei tanto tempo na
+Floresta Moga que sou como uma atleta
 estudiosa. Como ainda estou solteira?
 --- BLOCK ---
 <SUBS 0> Como vai a caçada?
@@ -2068,7 +2068,7 @@ Olá, caçador! Ou deveria dizer
 que você aparenta ser um!
 --- BLOCK ---
 Aliás, você percebeu que
-o Chefe da aldeia
+o Chefe da Vila
 parece muito distraído ultimamente?
 --- BLOCK ---
 É como se ele estivesse lembrando
@@ -2083,7 +2083,7 @@ o amigo do capitão era o
 rival do Chefe, ou algo assim.
 --- BLOCK ---
 Deve ser uma besta enorme! O
-Chefe da aldeia era um dos
+Chefe da vila era um dos
 melhores caçadores da região, sabia?
 --- BLOCK ---
 E olha só! O Chefe quer que seja você o
@@ -2133,7 +2133,7 @@ Não tem jeito. Essa caçada
 será brutal! Terá que decidir
 se aceita o desafio.
 --- BLOCK ---
-Lembre-se de que toda a aldeia te
+Lembre-se de que toda a vila te
 apoia. Eu, o Chefe, todos! Sabemos
 que você consegue enfrentar essa besta!
 --- BLOCK ---
@@ -2177,7 +2177,7 @@ He, he, he...
 --- BLOCK ---
 Você caçou o Lagiacrus
 marmóreo e completou todas
-as missões da aldeia.
+as missões da vila.
 --- BLOCK ---
 Sim, acho que podemos dizer que você
 é o melhor caçador da região!

@@ -83,6 +83,9 @@ def translate_batch(batch_text, log_f):
         - Example of correct answer: TEXT 1: My translated text here.
         - Translate texts to Brazilian Portuguese
 
+        Traduzir "Aldeia de" sempre para "Vila"
+        Traduzir "Bosque de" sempra para "Floresta"
+
         ---
         TEXTS TO TRANSLATE:
         {batch_text}

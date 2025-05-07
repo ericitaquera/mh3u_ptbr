@@ -1,0 +1,417 @@
+GC_MEDAL
+--- BLOCK ---
+GC_MEDAL_HELP
+--- BLOCK ---
+GC_RECORD
+--- BLOCK ---
+GC_INFO
+--- BLOCK ---
+Traje do chefe
+--- BLOCK ---
+Pipa do chefe
+--- BLOCK ---
+Pingente de Aisha
+--- BLOCK ---
+Medalha de bronze
+--- BLOCK ---
+Medalha de prata
+--- BLOCK ---
+Medalha de ouro
+--- BLOCK ---
+Insígnia de Campeão
+--- BLOCK ---
+Troféu da Arena
+--- BLOCK ---
+Marca de Força
+--- BLOCK ---
+Marca de Habilidade
+--- BLOCK ---
+Brasão de mestre caçador
+--- BLOCK ---
+Colar marítimo
+--- BLOCK ---
+Marca de caçador
+--- BLOCK ---
+Gema das profundezas
+--- BLOCK ---
+Espada de platina
+--- BLOCK ---
+Espelho dourado
+--- BLOCK ---
+Cristal de Jhen
+--- BLOCK ---
+Pedra sagrada
+--- BLOCK ---
+Broche de obsidiana
+--- BLOCK ---
+Anel de Miralis
+--- BLOCK ---
+Anel de Alatreon
+--- BLOCK ---
+Haori lunar
+--- BLOCK ---
+Sangue diluído
+--- BLOCK ---
+Colar do abismo
+--- BLOCK ---
+Velha máscara de infância
+--- BLOCK ---
+Homenagem ao serviçal
+--- BLOCK ---
+Certificado de subordinado
+--- BLOCK ---
+Amuleto de amizade
+--- BLOCK ---
+Pergaminho do Sábio
+--- BLOCK ---
+Relatório bionômico
+--- BLOCK ---
+Amuleto do xamã
+--- BLOCK ---
+Viagens do caçador
+--- BLOCK ---
+Certificado de fazenda
+--- BLOCK ---
+Licença argosiana
+--- BLOCK ---
+Voto de fraternidade
+--- BLOCK ---
+Martelo do Artesão
+--- BLOCK ---
+Escudo decorativo
+--- BLOCK ---
+Caldeirão de chef
+--- BLOCK ---
+Caranguejo de Atlantis
+--- BLOCK ---
+Ramo da Guilda
+--- BLOCK ---
+Bola de Poogie
+--- BLOCK ---
+Grande coroa
+--- BLOCK ---
+Coroa real
+--- BLOCK ---
+Coroa anã
+--- BLOCK ---
+Prova de ter completado as
+primeiras missões da vila. Este
+traje está muito usado.
+--- BLOCK ---
+Prova de ter completado todas
+as últimas missões da vila.
+Uma lembrança do chefe.
+--- BLOCK ---
+Superadas as missões da
+vila. Traz sorte e
+sucesso na caça.
+--- BLOCK ---
+Superadas as missões do porto
+de 1 a 2
+estrelas. Para caçadores livres.
+--- BLOCK ---
+Superadas as missões do porto
+de 3 a 5
+estrelas. Para caçadores famosos.
+--- BLOCK ---
+Superadas as missões do porto
+de 6 a 8
+estrelas. Para caçadores mestres.
+--- BLOCK ---
+Prova de ter vencido todas
+as missões da Arena.
+Reforça seu grande esforço.
+--- BLOCK ---
+Alcançado o Rank A
+nas missões da Arena.
+Confirma sua sabedoria.
+--- BLOCK ---
+Superadas as missões avançadas.
+Medalha que demonstra
+sua grande força.
+--- BLOCK ---
+Superadas as missões
+de resistência. Demonstra
+sua sobrevivência.
+--- BLOCK ---
+Superadas as missões da
+vila e do porto.
+Um caçador sem igual.
+--- BLOCK ---
+Prova de ter derrotado
+um Lagiacrus. Seu brilho
+azul transmite calma.
+--- BLOCK ---
+Prova de ter salvado
+o porto. Para caçadores
+reconhecidos pelo Gremio.
+--- BLOCK ---
+Prova de ter afugentado um
+Ceadeus. Tem o poder
+de espantar a calamidade.
+--- BLOCK ---
+Espada de dois gumes, prêmio
+por derrotar o inimigo do
+Chefe: o Lagiacrus Marmóreo.
+--- BLOCK ---
+Prova de ter derrotado um
+Ceadeus Barba Dourada. Dizem
+que espanta a calamidade.
+--- BLOCK ---
+Prova de ter vencido
+o magnífico Jhen Mohran.
+Dizem que traz sorte.
+--- BLOCK ---
+Prova de ter derrotado um
+Jhen Mohran Sagrado. Será a
+fonte de sua força vital?
+--- BLOCK ---
+Prova de ter derrotado
+um Brachydios. Sua
+armadura brilha sinistramente.
+--- BLOCK ---
+Prova de ter derrotado
+o poderoso Miralis Funesto.
+Vermelho como a terra.
+--- BLOCK ---
+Prova de ter vencido o
+feroz Alatreon. Tem o poder
+de mudar o clima.
+--- BLOCK ---
+Prova de ter derrotado um
+Nargacuga Lunar. O brilho de
+sua jaqueta lunar deslumbra.
+--- BLOCK ---
+Prova de ter derrotado um
+Deviljho Impiedoso. Que males
+estarão contidos nesse líquido?
+--- BLOCK ---
+Prova de ter derrotado um
+Lagiacrus do Abismo. Sua tênue
+luz azul brilha sempre.
+--- BLOCK ---
+Prova de ter conseguido todas
+as máscaras e danças. Cha-Cha
+usava essa quando criança.
+--- BLOCK ---
+Prova de que Cha-Cha está
+arrasando. Certificado de que você
+é seu mais leal servo.
+--- BLOCK ---
+Prova de que Kayamba está
+arrasando. Certificado de que você
+é seu mais leal servo.
+--- BLOCK ---
+Prova da amizade entre Cha-Cha
+e Kayamba. Esses dois se
+tornaram amigos de alma.
+--- BLOCK ---
+Um pergaminho com segredos
+de combinação. Prova de
+ter criado muitos objetos.
+--- BLOCK ---
+Prova de ter capturado
+muitos tipos de monstros.
+Possui dados sobre eles.
+--- BLOCK ---
+Prova de ter descoberto
+inúmeros amuletos. Nenhuma pedra
+escapa a você.
+--- BLOCK ---
+Prova de ter viajado para
+muitos lugares. As áreas
+exploradas estão neste mapa.
+--- BLOCK ---
+Prova de manter uma fazenda
+de primeira. O nível de
+qualidade era muito alto.
+--- BLOCK ---
+Prova de ter comprado
+bens raros. Prêmio dos
+Argosy para grandes comerciantes.
+--- BLOCK ---
+Prova de excelência na Frota
+de caça. Você foi como
+um membro da tripulação.
+--- BLOCK ---
+Prova de colecionar equipamentos.
+Antes usados por um
+mítico artesão wyveriano.
+--- BLOCK ---
+Prova de ter projetado
+muitos móveis. Um presente
+do Adivinho Interior.
+--- BLOCK ---
+Prova de ter coletado
+os melhores ingredientes. Utensílio
+típico de Tanzia.
+--- BLOCK ---
+Prova de sua contribuição para a
+vila de Moga. Joia rara
+feita de um caranguejo Atlantis.
+--- BLOCK ---
+Prova de ter conseguido
+muitos pontos RC. Buquê
+feito de hibiscos raros.
+--- BLOCK ---
+Prova de ter adquirido os
+trajes do Poogie. Redondo
+e macio. Parece real!
+--- BLOCK ---
+Prova de ter caçado
+grandes inimigos. Poucos caçadores
+possuem esta coroa.
+--- BLOCK ---
+Prova de ter caçado muitos
+rivais gigantes. Apenas a
+elite recebe esta coroa.
+--- BLOCK ---
+Prova de ter caçado muitos
+rivais pequenos. Para aqueles
+com sorte e habilidade.
+--- BLOCK ---
+ <COLO 33>"%s" concluída!
+--- BLOCK ---
+ <COLO 33>"%s" abandonado.
+--- BLOCK ---
+ <COLO 33>"%s" falhou.
+--- BLOCK ---
+ <COLO 33>Forjado: "%s"!
+--- BLOCK ---
+ <COLO 33>Lista de aprimoramento/forja <ICON %02d>: %d.
+--- BLOCK ---
+ <COLO 33>"%s se juntou!"
+--- BLOCK ---
+ <COLO 33>Você obteve "%s"!
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Kayamba
+--- BLOCK ---
+ <COLO 32>%s <COLO 31>desmaiou %d vez/vezes.
+--- BLOCK ---
+desmaiou %d vezes.
+--- BLOCK ---
+ <COLO 35> <COLO %02d>%s <COLO 35>%s
+--- BLOCK ---
+adora a Balista.
+--- BLOCK ---
+se apaixonou pelo Canhão.
+--- BLOCK ---
+colocou muitas armadilhas.
+--- BLOCK ---
+carregou Bomba barril gr+.
+--- BLOCK ---
+infligiu muitos ataques.
+--- BLOCK ---
+desferiu muitos golpes.
+--- BLOCK ---
+obteve muitos objetos.
+--- BLOCK ---
+quase não desmaiou.
+--- BLOCK ---
+ajudou bastante.
+--- BLOCK ---
+Sem armadura.
+--- BLOCK ---
+Feito em menos de 5 min.
+--- BLOCK ---
+Feito por pouco!
+--- BLOCK ---
+%s +grand: %4.2f cm.
+--- BLOCK ---
+%s +peq: %4.2f cm.
+--- BLOCK ---
+Recebe %s!
+--- BLOCK ---
+Também caçou:
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d missões abandonadas!
+--- BLOCK ---
+ <COLO 36>Você usou <ICON %02d>%d vezes!
+--- BLOCK ---
+ <COLO 36>Você jogou por %d horas!
+--- BLOCK ---
+ <COLO 36>Você caçou %s %d vezes.
+--- BLOCK ---
+ <COLO 36>Você completou %d missões!
+--- BLOCK ---
+ <COLO 36>Missões concluídas na vila %s!
+--- BLOCK ---
+ <COLO 36>Missões concluídas no porto %s!
+--- BLOCK ---
+ <COLO 36>O Nível do caçador aumenta para %d!
+--- BLOCK ---
+ <COLO 33>Você caçou na Floresta de Moga!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Moga B
+--- BLOCK ---
+Moga A
+--- BLOCK ---
+Tanzia B
+--- BLOCK ---
+Tanzia A
+--- BLOCK ---
+Tanzia G
+--- BLOCK ---
+Arena
+--- BLOCK ---
+Et. StreetPass
+--- BLOCK ---
+Tudo
+--- BLOCK ---
+Moga
+--- BLOCK ---
+Tanzia
+--- BLOCK ---
+Diário de caçador
+--- BLOCK ---
+Prêmios
+--- BLOCK ---
+Tempo de jogo
+--- BLOCK ---
+Registro de monstros
+--- BLOCK ---
+Nome
+--- BLOCK ---
+Comp.
+--- BLOCK ---
+Caç.
+--- BLOCK ---
+? ? ? ?
+--- BLOCK ---
+----
+--- BLOCK ---
+--
+--- BLOCK ---
+Registro de Arena
+--- BLOCK ---
+%3d
+--- BLOCK ---
+～
+--- BLOCK ---
+Melhor tmp.
+--- BLOCK ---
+Arma
+--- BLOCK ---
+Nível
+--- BLOCK ---
+Capt.
+--- BLOCK ---
+Sig.
+--- BLOCK ---
+Saudação Sim/Não
+--- BLOCK ---
+Uso da arma
+--- BLOCK ---
+Foi adicionada a
+recompensa "%s".
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

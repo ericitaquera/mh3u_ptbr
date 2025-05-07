@@ -417,7 +417,7 @@ extrair. Se a que te dei
 quebrar, compre outra no Mercado!
 --- BLOCK ---
 Quando encontrar o minério, escolha
-Missões da aldeia na minha
+Missões da vila na minha
 lista, entendeu? Vai lá, caçador!
 --- BLOCK ---
 Ei, caçador! Está se
@@ -612,7 +612,7 @@ Jovem! Posso te chamar de
 "jovem" agora? Dizem que você
 derrotou um Lagiacrus marmóreo.
 --- BLOCK ---
-O chefe da aldeia e eu
+O chefe da vila e eu
 trocamos muitas histórias, e ele era
 um bom caçador em seus tempos.
 --- BLOCK ---

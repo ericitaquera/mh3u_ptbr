@@ -6,7 +6,7 @@ param(
 )
 
 # Define output filenames
-if (-not $env:GMD_REPACKED_DIR) {
+if (-not $env:ARC_EXTRACTED_DIR) {
     Write-Host "Error: Environment variable GMD_REPACKED_DIR not defined."
     exit 1
 }
@@ -23,20 +23,13 @@ Write-Host "$InputFile"
 Write-Host "$env:GMD_TXT_PTBR_DIR"
 Write-Host "relativePath: $RelativePath"
 $baseName = [System.IO.Path]::GetFileNameWithoutExtension($InputFile)
-$targetDir = Join-Path $env:GMD_REPACKED_DIR ([System.IO.Path]::GetDirectoryName($relativePath))
+$targetDir = Join-Path $env:ARC_EXTRACTED_DIR ([System.IO.Path]::GetDirectoryName($relativePath))
 if (-not (Test-Path $targetDir)) {
     New-Item -ItemType Directory -Path $targetDir -Force | Out-Null
 }
 
 $headerRelativePath = $InputFile.Substring($env:GMD_TXT_PTBR.Length).TrimStart('\')
 $HeaderFile = Join-Path $env:GMD_TXT_DIR ($RelativePath -replace '\.txt$', '.header')
-
-
-
-
-
-
-
 
 $OutputGmd = Join-Path $targetDir ($baseName + ".gmd")
 

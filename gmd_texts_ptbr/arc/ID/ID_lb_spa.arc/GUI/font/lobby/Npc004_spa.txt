@@ -22,7 +22,7 @@ Acho que meu pai estava certo:
 os caçadores são incríveis. Nós
 vamos cuidar dos reparos agora.
 --- BLOCK ---
-Nossa vida na aldeia está ligada aos
+Nossa vida na vila está ligada aos
 Recursos. Vou calcular os Recursos de
 tudo que você caçar na floresta.
 --- BLOCK ---
@@ -96,7 +96,7 @@ do braseiro lá fora são
 para os aldeões, mas...
 --- BLOCK ---
 É muito perigoso trazê-las para a
-aldeia. Você quer colocar fogo nela?
+vila. Você quer colocar fogo nela?
 Só precisa lembrar onde as deixou.
 --- BLOCK ---
 Esses Bnahabra zumbidores
@@ -115,7 +115,7 @@ puro. Faça um passeio e vá coletando.
 Isso será útil em caçadas futuras.
 --- BLOCK ---
 Enquanto estiver na floresta,
-o tempo na aldeia
+o tempo na vila
 avançará meio dia.
 --- BLOCK ---
 Não pode sair e voltar diretamente.
@@ -242,7 +242,7 @@ Recursos selecionando Relatório de caça.
 --- BLOCK ---
 Depois, selecione Pedidos pob. e
 você poderá dedicar os Recursos
-às necessidades da aldeia.
+às necessidades da vila.
 --- BLOCK ---
 Os aldeões podem fazer outras
 solicitações no futuro. Você também
@@ -585,7 +585,7 @@ Quando fica furioso, ele se cansa e vai
 para a margem. É a sua chance.
 --- BLOCK ---
 Bom, não quero te pressionar, mas
-o destino desta aldeia depende de
+o destino desta vila depende de
 suas habilidades. Espero que não vacile!
 --- BLOCK ---
 <SUBS 0> Uma vez, quando
@@ -611,14 +611,14 @@ Mas em relação ao QUEM
 causou, não faço ideia.
 --- BLOCK ---
 Mas sei de uma coisa, se não
-fizermos algo em breve, nossa aldeia vai
+fizermos algo em breve, nossa vila vai
 se desprender e cair no mar.
 --- BLOCK ---
 Esse último terremoto foi ainda
 pior que os anteriores.
 --- BLOCK ---
 Era como se algo enorme tivesse agarrado
-a aldeia e a tivesse sacudido. Algo
+a vila e a tivesse sacudido. Algo
 muito mais enorme que o Lagiacrus...
 --- BLOCK ---
 Ah, bem, são só suposições. Esquece.
@@ -669,7 +669,7 @@ chefe falem a verdade, essa máscara é
 muito mais do que uma simples relíqua.
 --- BLOCK ---
 Dizem que aqueles que viveram nas ruínas
-sob a nossa aldeia talvez tenham usado
+sob a nossa vila talvez tenham usado
 a máscara para respirar debaixo d'água.
 --- BLOCK ---
 É apenas uma ideia, mas, se consertare
@@ -734,7 +734,7 @@ disponíveis do que você pensa.
 --- BLOCK ---
 Parece que a caverna daquela
 criatura faz parte das ruínas
-que existem sob nossa aldeia.
+que existem sob nossa vila.
 --- BLOCK ---
 Os pescadores mergulharam lá para dar
 uma olhada e encontraram algo
@@ -787,7 +787,7 @@ Espere o momento certo e use
 essas armas antigas estrategicamente. Você
 é o caçador, descubra como.
 --- BLOCK ---
-O destino de nossa aldeia está
+O destino de nossa vila está
 em suas mãos. Mais uma vez,
 estaremos apoiando você. Mais uma vez.
 --- BLOCK ---
@@ -798,7 +798,7 @@ Você parece invencível, caçador! Estou tão
 feliz que você tenha voltado que, *soluço*
 poderia chorar *soluço* de emoção...
 --- BLOCK ---
-Você salvou a aldeia e garantiu
+Você salvou a vila e garantiu
 nosso sustento. Você protegeu a honra
 de meu pai. Você é... *soluço*
 --- BLOCK ---
@@ -807,7 +807,7 @@ de meu pai. Você é... *soluço*
 Poderia continuar, mas não sou bom nisso.
 --- BLOCK ---
 De qualquer forma, é desnecessário dizer
-que você pode ficar nesta aldeia o tempo
+que você pode ficar nesta vila o tempo
 que quiser. Você é um bom caçador.
 --- BLOCK ---
 Ei, amigo! Você foi recentemente
@@ -907,7 +907,7 @@ refletida a figura forte de sua juventude.
 --- BLOCK ---
 Sei que este lugar não tem muito a
 oferecer para alguém como você, mas fique o
-tempo que quiser. Esta é sua aldeia.
+tempo que quiser. Esta é sua vila.
 --- BLOCK ---
 Ah, quase esqueci. Tem
 outra missão para você.
@@ -1124,7 +1124,7 @@ tente pensar na Caixa de insetos...
 --- BLOCK ---
 Ah, antes que eu me esqueça... nossa
 especialidade, o mel da Dieta Melagrosa, é
-um sucesso. A aldeia está famosa!
+um sucesso. A vila está famosa!
 --- BLOCK ---
 Aparentemente, uma famosa magrela ganhou
 130 quilos assim. E agora se recusa
@@ -1189,7 +1189,7 @@ na Floresta de Moga.
 --- BLOCK ---
 Eu sempre fico de olho nessa floresta.
 Certifique-se de verificar o Clima de
-Moga antes de sair da aldeia.
+Moga antes de sair da vila.
 --- BLOCK ---
 Oi, caçador. As pessoas voltaram a ouvir
 estranhos lamentos vindos da Floresta

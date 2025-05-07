@@ -22,11 +22,11 @@ DUMMY
 --- BLOCK ---
 Retorna ao porto em 20 segundos.
 --- BLOCK ---
-Retorna à aldeia em 20 segundos.
+Retorna à vila em 20 segundos.
 --- BLOCK ---
 Retorna ao porto em 1 minuto.
 --- BLOCK ---
-Retorna à aldeia em 1 minuto.
+Retorna à vila em 1 minuto.
 --- BLOCK ---
 Tempo restante: %d min
 --- BLOCK ---
@@ -96,7 +96,7 @@ Restante(s): %d monstro(s)!
 --- BLOCK ---
 Retirando-se temporariamente...
 --- BLOCK ---
-Voltar à aldeia
+Voltar à vila
 --- BLOCK ---
 Para a fazenda
 --- BLOCK ---

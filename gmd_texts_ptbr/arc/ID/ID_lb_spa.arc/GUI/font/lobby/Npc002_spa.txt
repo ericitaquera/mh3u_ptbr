@@ -34,7 +34,7 @@ diferentes de humanos, mas a Vila Moga
 estaria perdida sem sua sabedoria.
 --- BLOCK ---
 Sua habilidade em construir e navegar
-faz a aldeia prosperar. E o mesmo
+faz a vila prosperar. E o mesmo
 com os Wyverianos. Viva a diversidade!
 --- BLOCK ---
 <SUBS 1>
@@ -197,7 +197,7 @@ explore a Floresta Moga.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
 coletar objetos úteis ou reunir
-Recursos para a aldeia...
+Recursos para a vila...
 --- BLOCK ---
 Lembre-se que a Floresta Moga tem
 todo tipo de surpresas reservadas a você!
@@ -208,7 +208,7 @@ Eu providenciei a vinda do Argosy
 até aqui regularmente.
 --- BLOCK ---
 Negociar com outros países é tão bom
-para nossa aldeia como ter uma Frota
+para nossa vila como ter uma Frota
 de caça forte ou de uma Fazenda produtiva.
 --- BLOCK ---
 Ah, e se houver algo em particular que
@@ -260,7 +260,7 @@ A menina no posto missionário
 sempre admirou os caçadores.
 --- BLOCK ---
 Assim que atingiu a maioridade, deixou a
-aldeia para trabalhar para a Guilda.
+vila para trabalhar para a Guilda.
 --- BLOCK ---
 Ele voltou para cuidar de nossos
 negócios com a Guilda... que
@@ -688,7 +688,7 @@ Bomba sônica para nivelar jogo.
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Muito bem, garoto. Você salvou a aldeia,
+Muito bem, garoto. Você salvou a vila,
 você é um caçador de primeira classe.
 --- BLOCK ---
 Agora não é hora de recuar. Está no seu
@@ -775,7 +775,7 @@ Ah, quase me esqueço! Toma nosso
 pagamento inicial, caçador. Não é muito
 mas deve bastar para iniciar os trabalhos.
 --- BLOCK ---
-A propósito, nossa aldeia negocia
+A propósito, nossa vila negocia
 com o distante Porto Tanzia.
 --- BLOCK ---
 Ah, você quer mesmo ir ao porto? Então
@@ -813,7 +813,7 @@ quiser alterar alguma coisa.
 --- BLOCK ---
 Anda, ainda está tentando achar o Junior?
 Meu filho está sempre ocupado. Por que não
-faz uns amigos e pergunta na aldeia?
+faz uns amigos e pergunta na vila?
 --- BLOCK ---
 Fiquei sabendo que conheceu o Junior!
 Você gostou dele, jovem!? Ha ha ha!!
@@ -884,7 +884,7 @@ o que ele faz com você.
 --- BLOCK ---
 A propósito... Você se lembra de ter
 visto um braseiro queimando logo
-nos arredores da aldeia?
+nos arredores da vila?
 --- BLOCK ---
 Bem, talvez você queira dar uma olhada 
 de perto na próxima vez que passar aqui.
@@ -1043,7 +1043,7 @@ a Floresta Moga no seu próprio ritmo.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
 coletar objetos úteis ou reunir
-Recursos para a aldeia...
+Recursos para a vila...
 --- BLOCK ---
 Lembre-se: se você reordenar as letras em
 "Floresta de Moga" não vira:
@@ -1076,7 +1076,7 @@ Eu providenciei a vinda do Argosy
 até aqui regularmente.
 --- BLOCK ---
 Negociar com outros países é tão bom
-para nossa aldeia quanto ter uma Frota
+para nossa vila quanto ter uma Frota
 de caça forte ou uma Fazenda produtiva.
 --- BLOCK ---
 Ah, e se houver algo em particular que
@@ -1147,7 +1147,7 @@ existem muitos monstros mais fortes.
 --- BLOCK ---
 Bem, enquanto você estava fora,
 perdeu a emoção que é
-rolou na aldeia.
+rolou na vila.
 --- BLOCK ---
 Um dos nossos rapazes voltou dizendo
 que tinha visto uma criatura estranha na
@@ -1452,7 +1452,7 @@ Eu sabia que você conseguiria afugentar o
 Lagiacrus definitivamente, e, por sorte,
 dessa vez eu estava certo!
 --- BLOCK ---
-Talvez a aldeia possa finalmente desfrutar
+Talvez a vila possa finalmente desfrutar
 de um pouco de tranquilidade. Você também
 você deve descansar e recuperar as forças.
 --- BLOCK ---
@@ -1656,7 +1656,7 @@ bom em lidar com baixinhos excêntricos.
 Cuidar de duas crianças não dever ser
 mais difícil que cuidar de uma, não é?
 --- BLOCK ---
-Além disso, as crianças da aldeia
+Além disso, as crianças da vila
 adorarão ter mais amigos. E ver seus
 rostos de espanto? Vale a pena!
 --- BLOCK ---
@@ -1724,7 +1724,7 @@ das histórias, rapaz? Este está em minha
 família por gerações.
 --- BLOCK ---
 Diz: meus ancestrais construíram
-uma aldeia aqui, em cima das ruínas que
+uma vila aqui, em cima das ruínas que
 guardaram por séculos.
 --- BLOCK ---
 Por que guardar as ruínas? Ninguém sabe
@@ -1859,11 +1859,11 @@ para aqueles não envolvidos
 na caça. Hora de começar!
 --- BLOCK ---
 Dizem que meus ancestrais construíram
-uma aldeia no topo das ruínas que haviam
+uma vila no topo das ruínas que haviam
 protegido durante séculos.
 --- BLOCK ---
 Mas uma série de terremotos afundou a
-aldeia dos guardiões. Desde então, eles
+vila dos guardiões. Desde então, eles
 sonham em retornar para reconstruí-lo.
 --- BLOCK ---
 Quando eu era um jovem caçador, eu tive
@@ -2220,7 +2220,7 @@ Ha ha ha!
 --- BLOCK ---
 A menina da Guilda me contou!
 Você completou todas as missões
-da aldeia!
+da vila!
 --- BLOCK ---
 Conhecendo sua história, eu não
 surpresas.

@@ -20,7 +20,7 @@ Bom, Cha-Cha também não vontade de missão.
 --- BLOCK ---
 <SUBS 0>
 Cha-quê? Você quer que Cha-Cha fique na 
-aldeia? Defender o forte forte?
+vila? Defender o forte forte?
 --- BLOCK ---
 Chaah.
 Cha-Cha gostar de sentar e
@@ -74,7 +74,7 @@ Se gostar de Cha-Cha, você queimar.
 Eu ter sangue quente! Você ver!
 --- BLOCK ---
 Deve sair em missão, trazer de volta
-tesouro. Ser ritual da aldeia Shakalaka
+tesouro. Ser ritual da vila Shakalaka
 para virar adulto.
 --- BLOCK ---
 Em longa caminhada de Cha-Cha, se perder
@@ -450,7 +450,7 @@ Kayamba shaka-irritante, como criança!
 --- BLOCK ---
 Achar que Cha-Cha exagerar? Ouve história!
 Uma vez, Cha-Cha e Kayamba ir pegar
-cogumelos perto de aldeia Shakalaka...
+cogumelos perto de vila Shakalaka...
 --- BLOCK ---
 Barriga de Cha-Cha começar a roncar, então
 sentar para devorar carne.
@@ -470,7 +470,7 @@ ao viajar junto.
 --- BLOCK ---
 Kayamba não ter senso Shakalaka de
 orientação! Sempre se perder a quatro
-passos da aldeia. Oga-oga!
+passos da vila. Oga-oga!
 --- BLOCK ---
 <SUBS 0>
 Máscara Curibaya parecer com
@@ -540,7 +540,7 @@ caçador. Esperar não destruir shaka-karma.
 --- BLOCK ---
 <SUBS 0>
 Máscara Ídolo ser retrato vivo de ídolo
-Felyne de aldeia de águas termais.
+Felyne de vila de águas termais.
 --- BLOCK ---
 Se caçador usar habilidade especial de
 máscara, puf! Voltar para acampamento!
@@ -619,7 +619,7 @@ escapar. Por quê?
 História triste. Desgostar Cha-Cha.
 --- BLOCK ---
 Cha-Cha fabricar muitas máscaras na
-aldeia. Cha-Cha inventar máscara que
+vila. Cha-Cha inventar máscara que
 deixar dourada no chinelo! Oga-oga!
 --- BLOCK ---
 Cha-Cha aqui até Shakalaka enviar
@@ -659,7 +659,7 @@ Uma máscara com grandes orelhas caídas,
 de pelúcia, para dar carinho!
 --- BLOCK ---
 Cha-Cha deixar planos para filho do
-chefe da aldeia, Junior. Você ver já?
+chefe da vila, Junior. Você ver já?
 Tem que ver!
 --- BLOCK ---
 <SUBS 0>
@@ -686,7 +686,7 @@ muito apetite! Barriga de caçador
 roncar!
 --- BLOCK ---
 Cha-Cha deixar planos para filho do
-Chefe da aldeia, Junior. Já ter
+Chefe da vila, Junior. Já ter
 visto planos? Olhar!
 --- BLOCK ---
 Oga-oga! Ideia para máscara entrar na
@@ -700,7 +700,7 @@ alma fogo e força. Ok, Cha-Cha
 agora bravo! Precisar tomar ducha-cha. 
 --- BLOCK ---
 Cha-Cha deixar planos de máscara para
-filho do Chefe da aldeia, Junior. Você
+filho do Chefe da vila, Junior. Você
 ver? Esquecer ducha-cha. Quer olhar!
 --- BLOCK ---
 Chaah...
@@ -721,13 +721,13 @@ Tamanho, você perguntar a Cha-Cha?
 --- BLOCK ---
 Eeeh, talvez cem vezes maior
 que Lagiacrus. Três vezes mais alto que
-Cha-Cha. Grande para engolir aldeia!
+Cha-Cha. Grande para engolir vila!
 --- BLOCK ---
 Você dizer Cha-Cha mentir? Eu estar
 apavorado! Não lembrar detalhes!
 --- BLOCK ---
 Mas escutar-cha Cha-Cha: eu certo
-que terremotos na aldeia ser
+que terremotos na vila ser
 culpa de monstro gigante!
 --- BLOCK ---
 Grande-grande monstro! Acreditar em
@@ -748,7 +748,7 @@ Cha-quê?
 Oga-oga! O que Kayamba fazer aqui?
 --- BLOCK ---
 Cha-Cha conhecer Kayamba desde criança.
-Estudamos juntos em aldeia Shakalaka. E
+Estudamos juntos em vila Shakalaka. E
 compartilhar ritual sagrado de maturidade.
 --- BLOCK ---
 Shakalaka não ser adultos até
@@ -796,11 +796,11 @@ Cha-Cha pensar em ir ver máscara
 agora mesmo! Tão na shaka-moda!
 --- BLOCK ---
 Agora chegar hora do destino! Atacar
-o Ceadeus e devolver paz à aldeia!
+o Ceadeus e devolver paz à vila!
 E Cha-Cha fazer banquete de carne.
 --- BLOCK ---
 Depois, Cha-Cha ganhar eleição para Chefe
-da aldeia, e entrar para história
+da vila, e entrar para história
 política! Opa-opa!
 --- BLOCK ---
 Primeiro Cha-Cha ir para
@@ -834,7 +834,7 @@ máscara! Criatividade de Cha-Cha
 estar no auge.
 --- BLOCK ---
 Agora que não ter ameaça para
-aldeia, ajudante ter tempo livre para
+vila, ajudante ter tempo livre para
 ajudar Cha-Cha fazer máscaras!
 --- BLOCK ---
 Cha-Cha não esquecer ajudante valioso. 
@@ -851,7 +851,7 @@ farta! Adeus más vibrações!
 Devolver vigor ao passo do caçador!
 --- BLOCK ---
 Cha-Cha deixar planos para filho do
-chefe da aldeia, Junior. Você ver já?
+chefe da vila, Junior. Você ver já?
 Tem que ver!
 --- BLOCK ---
 Oga-oga! Ideia para nova máscara chegar
@@ -863,7 +863,7 @@ chegar a Cha-Cha vendo pássaros em
 Picos Tempestuosos.
 --- BLOCK ---
 Cha-Cha deixar planos para filho do
-chefe da aldeia, Junior. Você ver já?
+chefe da vila, Junior. Você ver já?
 Ir rápido ver!
 --- BLOCK ---
 Oga-oga!
@@ -901,7 +901,7 @@ automaticamente! Roubar materiais
 ser moleza!
 --- BLOCK ---
 Cha-Cha deixar planos com filho do
-chefe da aldeia, Junior. Você ver já?
+chefe da vila, Junior. Você ver já?
 Se não, vai dar uma olhada!
 --- BLOCK ---
 Megatron!
@@ -913,7 +913,7 @@ causar grande impacto! Transformar
 Shakalaka em artilharia! Monstros chorar!
 --- BLOCK ---
 Cha-Cha deixar planos com filho do
-Chefe da aldeia, Junior. Você ver já?
+Chefe da vila, Junior. Você ver já?
 Tem que ver!
 --- BLOCK ---
 Oga-oga-cha-cha!
@@ -965,7 +965,7 @@ presa! Monstros entrar, nunca sair!
 Cha-Cha inventar armadilha perfeita!
 --- BLOCK ---
 Cha-Cha deixar planos com filho do
-chefe da aldeia, Junior. Você já saber
+chefe da vila, Junior. Você já saber
 o que fazer!
 --- BLOCK ---
 Cha-quê? Kayamba dizer que Máscara
@@ -1011,7 +1011,7 @@ caçar monstros como Lagiacrus marmóreo
 ser moleza!
 --- BLOCK ---
 Cha-Cha deixar planos com filho do
-chefe da aldeia, Junior. Chorar no
+chefe da vila, Junior. Chorar no
 rio! De alegria, claro.
 --- BLOCK ---
 Cha-cha-oga-uuuh-uuuh!
@@ -1020,7 +1020,7 @@ Kayamba usar agora reluzente
 máscara dourada!
 --- BLOCK ---
 Cha-Cha descobrir mesma Máscara Funesta
-em caverna no caminho da aldeia!
+em caverna no caminho da vila!
 --- BLOCK ---
 Que brilho! Que luxo!
 Cha-Cha nunca esquecer máscara que

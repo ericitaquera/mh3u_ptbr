@@ -76,22 +76,22 @@ TMSG_MOVIE_ADD
 --- BLOCK ---
 TMSG_SHOITEM_REWARD
 --- BLOCK ---
-Caixa de coleta
+Caixa de colheita
 --- BLOCK ---
-Coleta
+Colheita
 --- BLOCK ---
-Enviar para Caixa de Itens
+Enviar para Caixa de Ítens
 --- BLOCK ---
 Vender itens e sair
 --- BLOCK ---
-Coloque itens de coleta
+Coloque itens de colheita
 na Bolsa de Itens.
 --- BLOCK ---
-Enviar itens de coleta para
-a caixa de itens.
+Enviar itens de colheita
+para a caixa de itens.
 --- BLOCK ---
-Vender itens de
-coleta restantes.
+Vender itens de colheita
+restante.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -101,12 +101,12 @@ Enviar para caixa de itens
 --- BLOCK ---
 Vender itens e sair
 --- BLOCK ---
-Colocar mercadorias na
-Bolsa de Itens.
+Colocar mercadorias na Bolsa
+de ítens.
 --- BLOCK ---
 Envie mercadorias para a Caixa de Itens.
 --- BLOCK ---
-Vender as mercadorias restantes.
+Venda as mercadorias restantes.
 --- BLOCK ---
 Caixa de pesca
 --- BLOCK ---
@@ -119,11 +119,11 @@ Vender itens e sair
 Coloque os itens do carregamento
 na Bolsa de Itens.
 --- BLOCK ---
-Enviar itens do carregamento para
-a caixa de itens.
+Enviar itens do carregamento
+para a caixa de itens.
 --- BLOCK ---
-Vender itens do
-carregamento restantes.
+Vende itens do carregamento
+restantes.
 --- BLOCK ---
 Compras
 --- BLOCK ---
@@ -136,10 +136,10 @@ Vender itens e sair
 Coloque itens de troca
 na Bolsa de Itens.
 --- BLOCK ---
-Enviar itens de troca para
-a caixa de itens.
+Enviar itens de troca
+para a caixa de itens.
 --- BLOCK ---
-Vender os itens de troca
+Vende os itens de troca
 para a caixa de itens.
 --- BLOCK ---
 DUMMY
@@ -172,18 +172,18 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Pegar itens
+Pegar ítens
 --- BLOCK ---
 Enviar para caixa de itens
 --- BLOCK ---
 Vender itens e sair
 --- BLOCK ---
-Coloque na bolsa de
-itens os objetos coletados
-por seu parceiro.
+Coloque na bolsa de itens
+os objetos coletados por
+seu parceiro.
 --- BLOCK ---
-Enviar para caixa de
-itens os objetos coletados
+Enviar para caixa de itens
+os objetos coletados
 por seu parceiro.
 --- BLOCK ---
 Vender os outros itens
@@ -195,7 +195,7 @@ Coletar recompensas
 --- BLOCK ---
 Enviar para caixa de itens
 --- BLOCK ---
-Vender objetos e sair
+Vender objetos y salir
 --- BLOCK ---
 Coloque itens de recompensa
 na Bolsa de Itens.
@@ -203,8 +203,8 @@ na Bolsa de Itens.
 Enviar recompensa para sua
 Caixa de objetos.
 --- BLOCK ---
-Vender todos os
-itens recompensa restantes.
+Vender todos os itens
+recompensa restante.
 --- BLOCK ---
 Sair
 --- BLOCK ---
@@ -218,7 +218,7 @@ HARDUMMY
 --- BLOCK ---
 17-24
 --- BLOCK ---
-Mensagem Inválida
+Invalid Message
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -416,35 +416,35 @@ DUMMY
 --- BLOCK ---
 Manteca Kirin
 --- BLOCK ---
-Queijo real
+Queso real
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Vinho abençoado
+Vino bendito
 --- BLOCK ---
-Cola mestre
+Master Cola
 --- BLOCK ---
-Caldo de Peixe dourado
+Caldo Pez dorado
 --- BLOCK ---
 Mosto de Tanzia
 --- BLOCK ---
-Salteado
+Salteo
 --- BLOCK ---
-Ensopado
+Guiso
 --- BLOCK ---
 Vapor
 --- BLOCK ---
 Frito
 --- BLOCK ---
-Habilidade fixas
+Hab. fijas
 --- BLOCK ---
-Habilidade do dia
---- BLOCK ---
-Usar
-dinheiro
+Habilidad. del día
 --- BLOCK ---
 Usar
-Recursos
+dinero
+--- BLOCK ---
+Usar
+Recur.
 --- BLOCK ---
 Cancelar
 --- BLOCK ---
@@ -456,41 +456,11 @@ Usar zenis
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Gratificação
+Grat
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Comida simples, mas chamativa.
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Estranhamente deliciosa!
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Uma refeição revitalizante!
---- BLOCK ---
-Muito nutritiva e deliciosa!
---- BLOCK ---
-Um sabor muito fresco!
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Um sabor muito potente!
---- BLOCK ---
-DUMMY
---- BLOCK ---
-A comida tinha um sabor selvagem!
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Tinha uma textura única!
+Comida sencilla, pero llamativa.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -498,33 +468,59 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Que refeição abundante!
---- BLOCK ---
-Tinha um sabor místico!
+¡Extrañamente deliciosa!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Uma refeição rica e satisfatória!
+¡Una comida revitalizadora!
 --- BLOCK ---
-Um sabor de luxo!
+¡Muy nutritiva y deliciosa!
 --- BLOCK ---
-Um refinado sabor!
---- BLOCK ---
-Um sabor intenso e doce!
---- BLOCK ---
-Uma harmoniosa mistura de sabores!
---- BLOCK ---
-Seu sabor estava muito madurado!
---- BLOCK ---
-Um sabor ousado mas delicado!
---- BLOCK ---
-Tinha um sabor duplo!
---- BLOCK ---
-Uau! O dobro de essência!
+¡Un sabor muy fresco!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
+--- BLOCK ---
+¡Un sabor muy potente!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡La comida tenía un sabor salvaje!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Tenía una textura única!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Vaya una comida tan abundante!
+--- BLOCK ---
+¡Tenía un sabor místico!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Una comida rica y satisfactoria!
+--- BLOCK ---
+¡Un sabor de lujo!
+--- BLOCK ---
+¡Un refinado sabor!
+--- BLOCK ---
+¡Un sabor intenso y dulce!
+--- BLOCK ---
+¡Una armoniosa mezcla de sabores!
+--- BLOCK ---
+¡Su sabor estaba muy madurado!
+--- BLOCK ---
+¡Un sabor atrevido pero delicado!
+--- BLOCK ---
+¡Tenía un doble sabor!
+--- BLOCK ---
+¡Guau! ¡El doble de esencia!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -540,116 +536,120 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Não estava tão ruim... Hic!
---- BLOCK ---
-A carne deste prato
-se derrete na boca.
---- BLOCK ---
-Um sabor forte que
-os Espadachins adoram.
---- BLOCK ---
-Uma mistura de ofensa
-e defesa, não é?
---- BLOCK ---
-Evite os elementos e
-melhore o Ataque!
---- BLOCK ---
-Sabor agressivo para
-os Atiradores.
---- BLOCK ---
-Enche a barriga e
-te enche de poder.
---- BLOCK ---
-O aroma a peixe
-abre os pulmões.
---- BLOCK ---
-Uma dose de defesa em
-cada bocado, não é?
---- BLOCK ---
-Nadar com sabor. Para
-molhar os sapos!
---- BLOCK ---
-Vai coletar? Isso
-é muito bom!
---- BLOCK ---
-Um aperitivo para
-uma necessidade especial.
---- BLOCK ---
-Dizem que esses
-grãos têm areia.
---- BLOCK ---
-Evite os elementos e
-melhore a defesa!
---- BLOCK ---
-Este tem algo, mmm
-je ne sais quoi.
---- BLOCK ---
-Um petisco para te
-manter de pé.
---- BLOCK ---
-Habilidades do dia: surpresas
-na tua boca!
---- BLOCK ---
-Nunca estarás fora do
-teu elemento, não é?
---- BLOCK ---
-Uma última ceia? Tenho
-o que procuras.
---- BLOCK ---
-Um gole te durará
-um tempinho, não é?
---- BLOCK ---
-Com um só trago
-terás uma bela tontura.
---- BLOCK ---
-Oh la la. Isso
-vai te deixar tonto...
---- BLOCK ---
-%s foi ativado!
---- BLOCK ---
-%s aumentado.
+DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-(G)
+No eshtaaaba tan mal... ¡Hip!
 --- BLOCK ---
-(M)
+La carne de ezte plato
+ze fffunde en la boca.
 --- BLOCK ---
-(P)
+Un zabor fffuerte que
+aman loz Ezpadachinez.
 --- BLOCK ---
-Trocaste um %s.
+Una mezcla de offfenza
+y defffenza, ¿oui?
 --- BLOCK ---
-%s trocou um %s.
+Evita loz elementoz
+¡y mejora el Ataque!
 --- BLOCK ---
-Mais nv. ingr.! (Carne)
+Zabor agrezivo
+para loz Artilleroz.
 --- BLOCK ---
-Mais nv. ingr.! (Pescado)
+Te llena la panza
+y te llena de poder.
 --- BLOCK ---
-Mais nv. ingr.! (Grãos)
+El aroma a pezcado te
+abre loz pulmonez.
 --- BLOCK ---
-Mais nv. ingr.! (Verdura)
+Una doziz de defenza
+en cada bocado, ¿oui?
 --- BLOCK ---
-Mais nv. ingr.! (Lácteos)
+Nadar con zabor. ¡Ez
+para mojar zopaz!
 --- BLOCK ---
-Mais nv. ingr.! (Bebida)
+¿Vaz de recogida?
+¡Ezto eztá muy bien!
 --- BLOCK ---
-Beber
+Un aperitivo para una
+nezezidad ezpezial.
+--- BLOCK ---
+Dizen que eztoz granoz
+tienen arena.
+--- BLOCK ---
+Evita loz elementoz
+¡y mejora la defenza!
+--- BLOCK ---
+Ezte tiene algo, mmm
+yo no zé quoi.
+--- BLOCK ---
+Una golozina para
+mantenerte en pie.
+--- BLOCK ---
+Habilidadez del día:
+¡zorprezaz en tu boca!
+--- BLOCK ---
+Nunca eztaráz fuera
+de tu elemento, ¿oui?
+--- BLOCK ---
+¿Una última cena?
+Tengo lo que buzcaz.
+--- BLOCK ---
+Un zorbito te durará
+un ratito, ¿oui?
+--- BLOCK ---
+Con un zolo trago
+tendráz un buen mareo.
+--- BLOCK ---
+Oh la la. Ezto te
+va a poner piripi...
+--- BLOCK ---
+¡Se activó %s!
+--- BLOCK ---
+Aumentó %s.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+ (G)
+--- BLOCK ---
+ (M)
+--- BLOCK ---
+ (P)
+--- BLOCK ---
+Has canjeado un %s.
+--- BLOCK ---
+%s ha canjeado un %s.
+--- BLOCK ---
+¡Más nv. ingr.! (Carne)
+--- BLOCK ---
+¡Más nv. ingr.! (Pescado)
+--- BLOCK ---
+¡Más nv. ingr.! (Granos)
+--- BLOCK ---
+¡Más nv. ingr.! (Verdura)
+--- BLOCK ---
+¡Más nv. ingr.! (Lácteos)
+--- BLOCK ---
+¡Más nv. ingr.! (Bebida)
+--- BLOCK ---
+Tomar
 --- BLOCK ---
 Gestos
 --- BLOCK ---
-Bebida adicionada aos seus ingredientes!
+¡Bebida añadida tus ingredientes!
 --- BLOCK ---
-Parabéns! Você
-conseguiu: %s!
+¡Enhorabuena!
+¡Consigues: %s!
 --- BLOCK ---
-Enviado para a Caixa de Objetos: %s.
+Enviado a Caja de objetos: %s.
 --- BLOCK ---
-Impossível receber. Caixa
-de objetos cheia.
+Imposible recibirlo.
+Caja objetos llena.
 --- BLOCK ---
 Cultivo
 --- BLOCK ---
-Adubo
+Abon
 --- BLOCK ---
 Ciclos
 --- BLOCK ---
@@ -661,49 +661,49 @@ Nv2
 --- BLOCK ---
 NvMÁX
 --- BLOCK ---
-Detalhes
+Detalles
 --- BLOCK ---
-Cliente:
+Clnte:
 --- BLOCK ---
 Entregar
 --- BLOCK ---
-Qtd.
+Cant.
 --- BLOCK ---
 Inven.
 --- BLOCK ---
 Rec.
 --- BLOCK ---
-Adicionar à oferta
+Sumar a oferta
 --- BLOCK ---
-Repor
+Reponer
 --- BLOCK ---
-Adicionar para troca
+Añadir a canje
 --- BLOCK ---
-Repor
+Reponer
 --- BLOCK ---
-Bens
+Bienes
 --- BLOCK ---
-Artig.
+Artíc.
 --- BLOCK ---
-Você
+Tú
 --- BLOCK ---
 Capit.
 --- BLOCK ---
-Sua oferta
+Tu oferta
 --- BLOCK ---
-Itens para compra
+Objetos compra
 --- BLOCK ---
-Você
+Tú
 --- BLOCK ---
-Capitão
+Capitán
 --- BLOCK ---
 ★
 --- BLOCK ---
-Artig.
+Artícul.
 --- BLOCK ---
 Compras
 --- BLOCK ---
-Resumo
+Resumen
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -713,43 +713,43 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Bônus Capitão
+Plus Capitán
 --- BLOCK ---
-Bônus Lançavermelha
+Plus Lanzarroja
 --- BLOCK ---
-Bônus Lançanegra
+Plus Lanzanegra
 --- BLOCK ---
-Cerdo Andino
+Cerdi Andía
 --- BLOCK ---
-Meias de anjo
+Mallas de ángel
 --- BLOCK ---
-Ovelha sonolenta
+Oveja soñolienta
 --- BLOCK ---
-Porco-rã
+Cerdo rana
 --- BLOCK ---
-Códice Balestra
+Códice Ballesta
 --- BLOCK ---
-Códice coronha
+Códice de culata
 --- BLOCK ---
 Códice de arma
 --- BLOCK ---
-Tomo Caçador
+Tomo Cazador
 --- BLOCK ---
-Tomo Sete vidas
+Tomo Siete vidas
 --- BLOCK ---
-Dança Waka-Waka
+Danza Waka-Waka
 --- BLOCK ---
-Máx. Capitão
+Máx. Capitán
 --- BLOCK ---
-Máx. Lançavermelha
+Máx. Lanzarroja
 --- BLOCK ---
-Máx. Lançanegra
+Máx. Lanzanegra
 --- BLOCK ---
-Tomo Recoletor
+Tomo Recolector
 --- BLOCK ---
-Tomo Último de pé
+Tomo Últ. en pie
 --- BLOCK ---
-Dança Boom-Boom
+Danza Boom-Boom
 --- BLOCK ---
 Felyne falso
 --- BLOCK ---
@@ -757,194 +757,194 @@ Tomo Bombardero
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Máscara fedida
+Máscara pestosa
 --- BLOCK ---
-Máscara de amolador
+Máscara afilador
 --- BLOCK ---
 Máscara de ídolo
 --- BLOCK ---
-Melhore um dos barcos
-de caça. Visite águas
-que produzem melhores capturas.
+Mejora uno de los barcos de
+caza. Visita aguas que
+producen mejores capturas.
 --- BLOCK ---
-Melhore um dos barcos
-de caça. Visite águas
-que produzem melhores capturas.
+Mejora uno de los barcos de
+caza. Visita aguas que
+producen mejores capturas.
 --- BLOCK ---
-Melhore um dos barcos
-de caça. Visite águas
-que produzem melhores capturas.
+Mejora uno de los barcos de
+caza. Visita aguas que
+producen mejores capturas.
 --- BLOCK ---
-Vista seu mascote com
-estilo. Não perca a
-visão dessa incrível melancia!
+Engalana a tu mascota con
+estilo. ¡No te revuelques
+al ver esta genial sandía!
 --- BLOCK ---
-Vista seu mascote com
-estilo. Uma gracinha com
-asas e patinhas aparecendo!
+Engalana a tu mascota con
+estilo. ¡Una monada con las
+alas y las patitas asomando!
 --- BLOCK ---
-Vista seu mascote com
-estilo. A lã macia
-torna seu porquinho superfofinho.
+Engalana a tu mascota con
+estilo. La suave lana hace a
+tu cerdito superachuchable.
 --- BLOCK ---
-Vista seu mascote com estilo.
-A cauda de girino
-encantará a todos. (
+Engalana a tu mascota con
+estilo. La cola de renacuajo
+encantará a todos.
 --- BLOCK ---
-Forje uma nova arma
-na Ferraria: uma Balestra
-Pesada de sombria lenda.
+Fórjate un arma nueva en la
+Herrería: una Ballesta
+Pesada de oscura leyenda.
 --- BLOCK ---
-Forje uma arma na
-Ferraria: uma coronha
-de balestra ultramarina.
+Forja un arma en
+la Herrería: una culata de
+ballesta de ultramar.
 --- BLOCK ---
-Forje uma nova arma na
-Ferraria: uma Espada e um
-Escudo de terras distantes.
+Fórjate un arma nueva en la
+Herrería: una Espada y un
+Escudo de tierras lejanas.
 --- BLOCK ---
-Cha-Cha e Kayamba aprendem
-a habilidade "Caçador".
-Por ciência infusa!
+Cha-Cha y Kayamba aprenden
+la habilidad "Cazador".
+¡Por ciencia infusa!
 --- BLOCK ---
-Cha-Cha e Kayamba aprendem
-a habilidade "Sete vidas".
-Por ciência infusa!
+Cha-Cha y Kayamba aprenden
+la habilidad "Siete vidas".
+¡Por ciencia infusa!
 --- BLOCK ---
-Documente uma dança louca que
-encanta corpo e mente.
+Documenta una danza loca que
+embelesa cuerpo y mente.
 --- BLOCK ---
-Otimize um dos barcos
-de caça. Acesse águas
-que superam a imaginação.
+Optimiza uno de los barcos
+de caza. Accede a aguas que
+superan la imaginación.
 --- BLOCK ---
-Otimize um dos barcos
-de caça. Acesse águas
-que superam a imaginação.
+Optimiza uno de los barcos
+de caza. Accede a aguas que
+superan la imaginación.
 --- BLOCK ---
-Otimize um dos barcos
-de caça. Acesse águas
-que superam a imaginação.
+Optimiza uno de los barcos
+de caza. Accede a aguas que
+superan la imaginación.
 --- BLOCK ---
-Cha-Cha e Kayamba aprendem
-a habilidade "Recoletor".
-Por ciência infusa!
+Cha-Cha y Kayamba aprenden
+la habilidad "Recolector".
+¡Por ciencia infusa!
 --- BLOCK ---
-Cha-Cha e Kayamba aprendem
-a habilidade "Último de
-pé". Por ciência infusa!
+Cha-Cha y Kayamba aprenden
+habilidad "Último en pie".
+¡Por ciencia infusa!
 --- BLOCK ---
-Documente uma dança tropical
-frenética que aumenta
-tudo um pouco!
+¡Documenta una danza
+tropical frenética que
+aumenta todo un poco!
 --- BLOCK ---
-Uma máscara que parece o
-rosto de um Felyne, mas
-esconde um ser menos fofo.
+Una máscara que parece la
+cara de un Felyne, pero que
+esconde un ser menos mono.
 --- BLOCK ---
-Cha-Cha e Kayamba aprendem
-a habilidade "Bombardero".
-Por ciência infusa!
+Cha-Cha y Kayamba aprenden
+la habilidad "Bombardero".
+¡Por ciencia infusa!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Máscara modelada como uma
-Bomba esterco. Cheira mal,
-mas tem sua utilidade...
+Máscara modelada como una
+Bomba boñiga. Huele fatal,
+pero tiene su utilidad...
 --- BLOCK ---
-Máscara com uma Pedra
-de amolar gigante. Sua
-mente nunca ficará embaçada!
+Máscara con una Piedra de
+afilar gigante. ¡Tu mente
+nunca se embotará!
 --- BLOCK ---
-Máscara como o ídolo Felyne
-de certa vila com águas
-termais. Dá boa sorte.
+Máscara como el ídolo Felyne
+de cierta aldea con aguas
+termales. Da buena suerte.
 --- BLOCK ---
-Deixar
+Dejar
 --- BLOCK ---
-Convidar para missão
+Invitar a misión
 --- BLOCK ---
-Trocar Máscara
+Cambiar Máscara
 --- BLOCK ---
-Escolher danças
+Elegir danzas
 --- BLOCK ---
-Escolher habilidades
+Elegir habilidades
 --- BLOCK ---
-Ver estatísticas
+Ver estadísticas
 --- BLOCK ---
-Multijogador: Levar
+Multijug.: Llevar
 --- BLOCK ---
-Multijogador: Deixar
+Multijug.: Dejar
 --- BLOCK ---
 Estado Cha-Cha
 --- BLOCK ---
-Ao seu lado
+A tu lado
 --- BLOCK ---
-Pronto
+Listo
 --- BLOCK ---
-Multijogador: Levar
+Multijug.: Llevar
 --- BLOCK ---
-Multijogador: Deixar
+Multijug.: Dejar
 --- BLOCK ---
 Estado Kayamba
 --- BLOCK ---
-Lista de máscaras
+Lista másc.
 --- BLOCK ---
-Lista de habilidades
+Lista habil.
 --- BLOCK ---
-Lista de danças
+Lista danzas
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Mestre
+Maest.
 --- BLOCK ---
-Habilidades
+Habil.
 --- BLOCK ---
-Danças
+Danzas
 --- BLOCK ---
-Efeitos de dança
+Efectos danza
 --- BLOCK ---
-Cota resist.
+Cuota resis.
 --- BLOCK ---
-Dança A
+Danza A
 --- BLOCK ---
-Dança B
+Danza B
 --- BLOCK ---
-M. glande
+M. bellota
 --- BLOCK ---
-M. lâmpada
+M. lámpara
 --- BLOCK ---
-M. antiga
+M. antigua
 --- BLOCK ---
 M. misteriosa
 --- BLOCK ---
-M. churrasqueira
+M. grill
 --- BLOCK ---
-M. pelúcia
+M. peluche
 --- BLOCK ---
 Felyne falso
 --- BLOCK ---
-Máscara tenaz
+Máscara tenaza
 --- BLOCK ---
 Melynx falso
 --- BLOCK ---
-Máscara fedida
+Máscara pestosa
 --- BLOCK ---
-Máscara de amolador
+Máscara afilador
 --- BLOCK ---
-Máscara recife
+Máscara escollo
 --- BLOCK ---
 Máscara curibaya
 --- BLOCK ---
 Máscara Rathalos
 --- BLOCK ---
-Gargwa gag
+Gag Gargwa
 --- BLOCK ---
 Máscara total
 --- BLOCK ---
 Máscara de ídolo
 --- BLOCK ---
-Másc. artilheiro
+Másc. artillera
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -952,262 +952,260 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Máscara azarada
+Máscara gafe
 --- BLOCK ---
-Máscara azarada
+Máscara gafe
 --- BLOCK ---
 Máscara astral
 --- BLOCK ---
-Picadilllooo
+Picadillooo
 --- BLOCK ---
-Máscara infantil da vila
-de Cha-Cha. Feita de
-uma glande gigante.
-Como Cha-Cha é
-impulsivo, ataca de
-perto e principalmente
-a monstros grandes.
+Máscara infantil
+del pueblo de Cha-Cha.
+Hecha de una bellota
+gigante. Como Cha-Cha
+es impulsivo, ataca de
+cerca y sobre todo a
+monstruos grandes.
 --- BLOCK ---
-Máscara de lâmpada de
-óleo. Dá o sinal
-e sua luz
-iluminará seu caminho.
-Ao usá-la, seu
-fogo faz atacar
-incessantemente monstros pequenos.
+Máscara de lámpara
+de aceite. Da la señal
+y su luz alumbrará tu
+camino. Al llevarla,
+su fuego hace atacar
+sin cesar a los
+monstruos pequeños.
 --- BLOCK ---
-Máscara com a sabedoria
-dos anciãos. Usá-la dá
-velocidade na água e
-um rastro de oxigênio
-ao dar o sinal.
-Quem a usa ataca
-grandes monstros com ferocidade.
+Máscara con la sabiduría
+de los ancianos. Llevarla
+da velocidad en el agua
+y un rastro de oxígeno
+al dar la señal. Los que
+la llevan atacan grandes
+monstruos con fiereza.
 --- BLOCK ---
-Máscara feita com uma
-panela misteriosa. Tire um
-objeto e o arremesse
-com uma fumaça. Quando
-se dissipar, um novo
-objeto! Costuma atacar grandes
-monstros à distância.
+Máscara hecha con una
+olla misteriosa. Saca
+un objeto y lo tirarás con
+una humareda. Cuando se
+despeje, ¡un nuevo objeto!
+Suele atacar a grandes
+monstruos a distancia.
 --- BLOCK ---
-Máscara feita com um
-espeto de churrasco, que
-pode grelhar a carne.
-É pesada e volumosa,
-precisa segurar. Quem a
-usa ataca de
-longe monstros pequenos.
+Máscara hecha con un
+asador de barbacoa, que
+puede asar la carne. Es
+pesada y abultada, hay
+que sujetarla. Quien la
+lleva ataca desde lejos
+a monstruos pequeños.
 --- BLOCK ---
-Máscara com orelhas grandes
-bonitas. Um sinal e
-marca no mapa os
-grandes monstros. Mas suas
-orelhas o tornam sensível
-e nervoso, e você
-não luta. Que pena!
+Máscara con bonitas
+orejas grandes. Una señal,
+y marcas en el mapa los
+monstruos grandes. Pero
+sus orejas te hacen ser
+sensible y nervioso, y
+no luchas. ¡Qué pena!
 --- BLOCK ---
-Máscara à imagem de um
-Felyne muito famoso de
-uma vila distante. Lança
-bombas por todo lado,
-é um pouco assustador.
-Quem a usa ataca
-grandes monstros de perto.
+Máscara a la imagen de
+un Felyne muy famoso
+de una aldea muy lejana.
+Lanza bombas por doquier,
+es algo aterrador. Los que
+la llevan atacan a grandes
+monstruos de cerca.
 --- BLOCK ---
-Máscara favorita de Kayamba,
-com pinças de caranguejo.
-Assusta, mas não é
-mais forte que a
-de glande de Cha-Cha.
-Concentra-se em grandes
-monstros de perto.
+Máscara favorita de
+Kayamba, con pinzas de
+cangrejo. Asusta, pero
+no es más fuerte que
+la de bellota de Cha-Cha. 
+Se centra en grandes
+monstruos de cerca.
 --- BLOCK ---
-Máscara modelada como um
-Melynx. Pode atacar além
-de roubar material, mas
-apenas de perto. Mesmo
-com sua baixa Defesa,
-ataca grandes monstros.
+Máscara modelada como
+un Melynx. Puede atacar
+además de robar material,
+pero solo de cerca. Aun
+con su baja Defensa,
+ataca grandes monstruos.
 --- BLOCK ---
-Máscara que pode carregar
-Bombas esterco. Quem
-a usa ataca
-grandes monstros, mas
-de longe para
-evitar o odor.
-Abstenha-se narizes sensíveis!
+Máscara que puede
+llevar Bombas boñiga.
+El que la lleva ataca
+grandes monstruos, pero
+desde lejos para evitar
+el olor. ¡Abstenerse
+narices sensibles!
 --- BLOCK ---
-Máscara com uma Pedra
-de amolar gigante. Pode
-restaurar o Fio e
-dá habilidade de caça,
-útil mesmo para Atiradores.
-Aponta para monstros
-pequenos de perto.
+Máscara con una Piedra
+de afilar gigante. Puede
+restablecer el Afilado
+y da habilidad de caza,
+útil aun para Artilleros.
+Apunta a monstruos
+pequeños desde cerca.
 --- BLOCK ---
-Máscara para atacar de
-longe monstros pequenos e
-cavar Armadilhas recife. Se
-a armadilha for destruída,
-sua Saúde cai e
-você deve fugir. Não
-serve debaixo d'água.
+Máscara para atacar
+de lejos a monstruos
+pequeños y cavar Trampas
+escollo. Si la trampa
+se destruye, cae tu
+Salud y debes huir.
+No sirve bajo el agua.
 --- BLOCK ---
-Máscara com essência de
-Curibaya. Ao seu sinal,
-cura as pragas elementares
-e anula a redução
-de resistências. Mas curar
-é cansativo e quem
-se cura não luta.
+Máscara con esencia de
+Curibaya. A tu señal, cura
+las plagas elementales
+y anula la reducción
+de resistencias. Pero
+curar es cansado y el
+que se cura no lucha.
 --- BLOCK ---
-Máscara como um Rathalos,
-o rei dos céus.
-Lança um rugido sônico,
-mesmo debaixo d'água. Dá
-grande habilidade de
-caça: ataca grandes
-monstros de perto.
+Máscara como un Rathalos,
+el rey de los cielos. 
+Lanza un rugido sónico,
+incluso bajo agua.
+Da gran habilidad de
+caza: ataca grandes
+monstruos de cerca.
 --- BLOCK ---
-Linda máscara de Gargwa. Em
-retirada, deixa um ovo que
-se torna um objeto
-para o caçador. Não
-encoraja o combate; quem
-a usa mira de
-longe em monstros pequenos.
+Linda máscara de Gargwa.
+En retirada, deja un huevo
+que se convierte en objeto
+para el cazador. No anima
+al combate; quien la lleva
+apunta de lejos a
+pequeños monstruos.
 --- BLOCK ---
-Máscara tradicional em Shakalaka.
-Para com firmeza muitos
-ataques e permite
-atacar grandes monstros
-de perto para
-ajudar o caçador.
+Máscara tradicional en
+Shakalaka. Detiene con
+aplomo muchos ataques
+y permite atacar grandes
+monstruos de cerca para
+ayudar al cazador.
 --- BLOCK ---
-Máscara como um ídolo
-Felyne de uma vila
-com águas termais.
-Garante seu retorno
-com efeito Transportador.
-Ataca grandes monstros
-a curta distância.
+Máscara como un ídolo
+Felyne de una aldea con
+aguas termales. Garantiza
+tu regreso con efecto
+Transportador. Ataca
+grandes monstruos
+a corta distancia.
 --- BLOCK ---
-Máscara como um canhão
-com Shakalakas de munição.
-Rouba Saúde ao triste
-projétil, mas não
-serve debaixo d'água.
-Ataca grandes monstros
-de longas distâncias.
+Máscara como un cañón con
+Shakalakas de munición. 
+Roba Salud al triste
+proyectil, pero no sirve
+bajo el agua. Ataca
+grandes monstruos
+desde largas distancias.
 --- BLOCK ---
-Máscara que cobre o
-corpo todo e permite
-buscar dinheiro estranho
-em lugares estreitos.
-Para dois Shakalakas,
-ataca monstros pequenos
-à longa distância.
---- BLOCK ---
-DUMMY
+Máscara que cubre todo
+el cuerpo y permite
+buscar dinero extraño
+en sitios estrechos.
+Para dos Shakalakas,
+ataca monstruos pequeños
+a larga distancia.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Tudo parece dar errado
-nesta máscara; sua única
-habilidade é reagir à
-eletricidade. Quem a usa
-ataca de perto
-grandes monstros; algum
-poder ela tem.
+DUMMY
 --- BLOCK ---
-Com esta máscara, ataca
-grandes monstros de perto.
-Apesar de sua carga
-elétrica, não é muito
-útil. Mas se pode
-envolver em uma
-grande corrente elétrica...
+Todo parece ir mal en
+esta máscara; su única
+habilidad es reaccionar
+a la electricidad. El que
+la lleva ataca de cerca
+grandes monstruos;
+algún poder sí que tiene.
 --- BLOCK ---
-Máscara esplêndida como uma antiga
-figura de barro. Dizem que
-dá boa sorte, mas
-pode ser só boato.
-Quem a usa ataca
-monstros pequenos de longe.
+Con esta máscara, atacas
+grandes monstruos de
+cerca. Pese a su carga
+eléctrica, no resulta
+muy útil. Pero si puede
+envolverse en una gran
+corriente eléctrica...
 --- BLOCK ---
-Máscara atraente feita de
-carne. Atrai grandes monstros
-com sua essência. Quem
-a usa ataca grandes
-monstros de perto.
+Máscara espléndida como una
+antigua figura de barro. Dicen
+que da buena suerte, pero
+puede ser un rumor. Quien la
+lleva ataca a monstruos
+pequeños desde lejos.
+--- BLOCK ---
+Máscara atractiva hecha de
+ternera. Atrae a monstruos
+grandes con su esencia. Quien
+la lleva ataca a monstruos
+grandes desde cerca.
 --- BLOCK ---
 (Nada)
 --- BLOCK ---
-Caçador de choque
+Cazador choque
 --- BLOCK ---
-Ataque de fogo
+Ataque de fuego
 --- BLOCK ---
-Ataque de água
+Ataque de agua
 --- BLOCK ---
-Ataque de gelo
+Ataque de hielo
 --- BLOCK ---
-Ataque de trovão
+Ataque de trueno
 --- BLOCK ---
-Ataque de dragão
+Ataque de dragón
 --- BLOCK ---
 Elemental +1
 --- BLOCK ---
 Ataque de veneno
 --- BLOCK ---
-Ataque de paralisia
+Ataque de parálisis
 --- BLOCK ---
-Ataque de sono
+Ataque de sueño
 --- BLOCK ---
-Doença +1
+Enfermedad +1
 --- BLOCK ---
-Ataque atordoante
+Ataque aturdidor
 --- BLOCK ---
-Potenciador afinidade
+Potenciador afinidad
 --- BLOCK ---
 Potenciador ataque
 --- BLOCK ---
-Potenciador defesa
+Potenciador defensa
 --- BLOCK ---
-Potenciador guarda
+Potenciador guardia
 --- BLOCK ---
-Potenciador agilidade
+Potenciador agilidad
 --- BLOCK ---
-Recuperação rápida
+Recuperación rápida
 --- BLOCK ---
-Caçador
+Cazador
 --- BLOCK ---
-Recoletor
+Recolector
 --- BLOCK ---
-Sete vidas
+Siete vidas
 --- BLOCK ---
-Último de pé
+Último en pie
 --- BLOCK ---
 Ira
 --- BLOCK ---
-Tampões para ouvido
+Tapones para oídos
 --- BLOCK ---
-Rompe-tempo
+Rompetiempo
 --- BLOCK ---
-Antídoto
+Antidótico
 --- BLOCK ---
 Bombardero
 --- BLOCK ---
-Fogueteiro
+Cohetero
 --- BLOCK ---
-Irmãos de sangue
+Hermanos de sangre
 --- BLOCK ---
-Ataque de baba
+Ataque de babas
 --- BLOCK ---
-Ladrão
---- BLOCK ---
-DUMMY
+Ladrón
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1231,129 +1229,129 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-(Sem habilidades)
+DUMMY
 --- BLOCK ---
-Faça este selo para lembrar
-o portador de como
-usar a Armadilha choque.
+(Sin habilidades)
 --- BLOCK ---
-Faça este selo, o portador
-obterá Ataque de fogo. Selo
-elemental reduz o Atq.
+Haz este sello para
+recordar al portador cómo
+usar la Trampa choque.
 --- BLOCK ---
-Faça este selo, o
-portador obterá Ataque de
-água, antiga habilidade Shakalaka.
+Haz este sello, el portador
+obtendrá Ataque de fuego.
+Sello elemental baja el Atq.
 --- BLOCK ---
-Faça este selo, o portador
-obterá Ataque de gelo. Você
-verá as fraquezas inimigas!
+Haz este sello, el portador
+obtendrá Ataque de agua,
+vieja habilidad Shakalaka.
 --- BLOCK ---
-Faça este selo, o portador
-obterá Ataque de trovão. Você
-verá as fraquezas inimigas!
+Haz este sello, el portador
+obtendrá Ataque de hielo.
+¡Verás debilidades enemigas!
 --- BLOCK ---
-Faça este selo, o
-portador obterá Ataque de
-dragão. Difícil de descrever.
+Haz este sello, el portador
+obtendrá Ataque de trueno.
+¡Verás debilidades enemigas!
 --- BLOCK ---
-Aumenta o poder dos selos
-de ataque elemental. Mas só
-um tolo o desenha...
+Haz este sello, el portador
+obtendrá Ataque de dragón. 
+Difícil de describir.
 --- BLOCK ---
-Selo de aparência venenosa.
-Desenhe-o e o portador
-terá um olhar tóxico.
+Aumenta el poder de sellos
+de ataque elemental. Pero
+solo un tonto lo dibuja...
 --- BLOCK ---
-Selo que pode paralisar
-o inimigo. Requer escrita
-fluida e clara.
+Sello de aspecto venenoso.
+Dibújalo y el portador
+tendrá una mirada tóxica.
 --- BLOCK ---
-Selo que faz os
-monstros dormirem. Desenhá-lo
-já provoca cansaço.
+Sello que puede paralizar
+al enemigo. Requiere
+escritura fluida y clara.
 --- BLOCK ---
-Aumenta o poder dos selos
+Sello que hace dormir a
+los monstruos. Dibujarlo
+ya provoca cansancio.
+--- BLOCK ---
+Aumenta el poder de sellos
 de ataque de estado anormal.
-Só um tolo o desenha...
+Solo un tonto lo dibuja...
 --- BLOCK ---
-Selo que pode atordoar o
-inimigo se o portador atacar
-a cabeça. Tudo volta!
+Sello que puede aturdir al
+enemigo si el portador ataca
+a la cabeza. ¡Todo vuelve!
 --- BLOCK ---
-O portador ataca com raiva
-quando vê os insultos que
-aparecem em sua máscara.
+El portador ataca con rabia
+cuando ve los insultos que
+aparecen en su máscara.
 --- BLOCK ---
-Selo que aumenta o Ataque.
-O portador queima de desejo
-de caçar monstros grandes.
+Sello que aumenta el Ataque.
+El portador arde en deseos
+de cazar monstruos grandes.
 --- BLOCK ---
-Palavras de estímulo dentro
-da máscara equipada, que
-dão força ao portador.
+Palabras de estímulo dentro
+de la máscara equipada, que
+dan fortaleza al portador.
 --- BLOCK ---
-Palavras simples descrevem técnicas
-úteis de bloqueio
-na máscara equipada.
+Palabras sencillas describen
+útiles técnicas de bloqueo
+en la máscara equipada.
 --- BLOCK ---
-Não é um selo; é
-uma foto do portador
-ganhando uma corrida. Autoestima!
+No es un sello; es una foto
+del portador ganando una
+carrera. ¡Autosugestión!
 --- BLOCK ---
-Selo que reduz o
-tempo de recuperação. Como
-dizem, "Camarão que dorme..."
+Sello que reduce el tiempo
+de recuperación. Como dicen,
+"Camarón que se duerme...".
 --- BLOCK ---
-Promessa de parar de coletar
-para se concentrar apenas
-em dançar e atacar.
+Promesa de dejar de recoger
+para concentrarse solo en
+bailar y atacar.
 --- BLOCK ---
-Promessa de se concentrar
-totalmente em coletar. Um
-remédio contra a pobreza!
+Promesa de concentrarse
+totalmente en recoger. ¡Un
+remedio contra la pobreza!
 --- BLOCK ---
-Selo que fortalece o
-portador quando revive.
-Funciona sete vezes.
+Sello que fortalece al
+portador cuando revive.
+Funciona siete veces.
 --- BLOCK ---
-Sem margem de erro! O
-portador não revive, mas
-suas estatísticas melhoram muito.
+¡Sin margen de error! El
+portador no revive, pero sus
+estadísticas mejoran mucho.
 --- BLOCK ---
-Este selo deixa o portador
-muito irritado. Ele não
-terá vontade de conversar.
+Este sello hace al portador
+muy irritable. No tendrá
+ganas de charlar.
 --- BLOCK ---
-Selo que impede de ouvir
-rugidos, mas talvez o
-portador não ouça você.
+Sello que impide escuchar
+rugidos, pero el portador
+tal vez no te oiga a ti.
 --- BLOCK ---
-Selo com o qual
-o portador permanece imperturbável
-contra ventos e correntes.
+Sello con el que el portador
+queda impertérrito ante
+vientos y corrientes.
 --- BLOCK ---
-Selo que impede
-o envenenamento do
-portador. Pensamento positivo!
+Sello que evita que el
+portador sea envenenado.
+¡Es el pensamiento positivo!
 --- BLOCK ---
-Selo que reforça os ataques
-de baba e bombas lançadas
-com forma de Felyne.
+Sello que refuerza ataques
+de baba y bombas lanzadas
+con forma de Felyne.
 --- BLOCK ---
-Selo que reforça os ataques
-de canhão e balista
-do portador... se acertar.
+Sello que refuerza los
+ataques de cañón y balista
+del portador... si acierta.
 --- BLOCK ---
-Selo amigável que melhora o Ataque
-e a Defesa de um
-Shakalaka se o outro cair.
+Sello amistoso que mejora
+el Ataque y la Defensa de
+un Shakalaka si cae el otro.
 --- BLOCK ---
-Selo que, usado sabiamente
-contra monstros, pode
-ter resultados explosivos.
---- BLOCK ---
-DUMMY
+Sello que, usado sabiamente
+contra monstruos, puede
+tener resultados explosivos.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1379,15 +1377,17 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Dança Rah-Rah
+DUMMY
 --- BLOCK ---
-Dança Ooga-Boo
+Danza Rah-Rah
 --- BLOCK ---
-Dança Waka-Waka
+Danza Ooga-Boo
 --- BLOCK ---
-Dança Boom-Boom
+Danza Waka-Waka
 --- BLOCK ---
-Dança Yuu-juu
+Danza Boom-Boom
+--- BLOCK ---
+Danza Yuu-juu
 --- BLOCK ---
 Provocar
 --- BLOCK ---
@@ -1395,33 +1395,33 @@ Pot. Ataque (P)
 --- BLOCK ---
 Pot. Ataque (G)
 --- BLOCK ---
-Pot. Defesa (P)
+Pot. Defensa (P)
 --- BLOCK ---
-Pot. Defesa (G)
+Pot. Defensa (G)
 --- BLOCK ---
 Antídoto
 --- BLOCK ---
-Recup. Saúde (P)
+Recup. Salud (P)
 --- BLOCK ---
-Recup. Saúde (G)
+Recup. Salud (G)
 --- BLOCK ---
-Quente e frio
+Caliente y frío
 --- BLOCK ---
-Rompe-tempo
+Rompetiempo
 --- BLOCK ---
-Resistência
+Resistencia
 --- BLOCK ---
 Destello
 --- BLOCK ---
-Bomba sônica
+Bomba sónica
 --- BLOCK ---
-Pot. res. praga
+Pot. res. plaga
 --- BLOCK ---
 Rec. natural +1
 --- BLOCK ---
-Proteção auditiva
+Protección oídos
 --- BLOCK ---
-Efeito objeto +1
+Efecto objeto +1
 --- BLOCK ---
 Pot. atq. elem.
 --- BLOCK ---
@@ -1431,37 +1431,37 @@ Me
 --- BLOCK ---
 Al
 --- BLOCK ---
-Estatísticas
+Estadíst.
 --- BLOCK ---
 Es. bás.
 --- BLOCK ---
-Nível
+Nivel
 --- BLOCK ---
 Valor
 --- BLOCK ---
-Saúde
+Salud
 --- BLOCK ---
 Ataque
 --- BLOCK ---
 Elem.
 --- BLOCK ---
-Defesa
+Defen.
 --- BLOCK ---
-Mais
+Más.
 --- BLOCK ---
-Mestria
+Maest.
 --- BLOCK ---
 Hab.
 --- BLOCK ---
-Estat. dança
+Estad. danza
 --- BLOCK ---
 Resist.
 --- BLOCK ---
-Recuperação
+Recuper.
 --- BLOCK ---
-Ef. dança
+Ef. danza
 --- BLOCK ---
-Médio
+Medio
 --- BLOCK ---
 AlgVeloz
 --- BLOCK ---
@@ -1493,7 +1493,7 @@ BA
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Escolha do porto:
+Escolha porto:
 --- BLOCK ---
 Individual
 --- BLOCK ---
@@ -1501,7 +1501,7 @@ Multijogador
 --- BLOCK ---
 Buscar amigos
 --- BLOCK ---
-Aldeia de Moga
+Vila Moga
 --- BLOCK ---
 Marina
 --- BLOCK ---
@@ -1509,7 +1509,7 @@ Taverna
 --- BLOCK ---
 Menu superior
 --- BLOCK ---
-Aldeia de Moga
+Vila Moga
 --- BLOCK ---
 Solic. Fazenda
 --- BLOCK ---
@@ -1517,16 +1517,16 @@ Solic. Pescaria
 --- BLOCK ---
 Viagem rápida
 --- BLOCK ---
-A sessão atual
-será desconectada. Aceitar?
+A sessão atual será desconectada.
+Aceitar?
 --- BLOCK ---
-A conexão falhou. Pressione
-o botão A.
+A conexão falhou.
+Pressione o botão A.
 --- BLOCK ---
 Escolha um destino.
 --- BLOCK ---
-Escolha um destino. <COLO
-5>Botão Y: Pesquisar mais
+Escolha um destino.
+<COLO 5>Botão Y: Pesquisar mais
 --- BLOCK ---
 Escolha uma área inicial.
 --- BLOCK ---
@@ -1892,82 +1892,82 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Classif.
+Clasific.
 --- BLOCK ---
-Classif. completas
+Clasific. completas
 --- BLOCK ---
-Classif. Lista de cartas
+Clasif. Lista tarjetas
 --- BLOCK ---
-Rank
+Rang
 --- BLOCK ---
-Tempo
+Tiempo
 --- BLOCK ---
-Caçadores.
+Cazdres.
 --- BLOCK ---
-Todos
+Todo
 --- BLOCK ---
 Lista
 --- BLOCK ---
-Companheiro
+Compañero
 --- BLOCK ---
-Caçadores.
+Cazdres.
 --- BLOCK ---
-Meu recorde
+Mi récord
 --- BLOCK ---
-Classif.
+Clasific.
 --- BLOCK ---
-Atualiz.
+Actualizac.
 --- BLOCK ---
-■%02d/%02d <COLO 02>Melhor tempo <COLO 01>mudança!
+■%02d/%02d <COLO 02>Melhor tempo<COLO 01> camb.!
 --- BLOCK ---
-Rank/tempo
+Rango/tiempo
 --- BLOCK ---
-Ainda sem marcas.
+Aún sin marcas.
 --- BLOCK ---
-As classificações aguardam. Aproveite
-o dia, caçador!
+Las clasificaciones esperan.
+¡Aprovecha el día, cazador!
 --- BLOCK ---
-Ainda sem marcas.
-Ninguém pelo StreetPass?
+Aún sin marcas. ¿Nadie
+con StreetPass?
 --- BLOCK ---
-Classificação atualizada. Foi
-você, caçador?
+Clasificación actualizada.
+¿Has sido tú, cazador?
 --- BLOCK ---
-Ei! Alguém quebrou um recorde!
-Vamos ver o que fez!
+¡Oye! ¡Alguien ha roto una
+marca! ¡A ver qué ha hecho!
 --- BLOCK ---
-Não muda a classificação. Que
-tal dar uma animada?
+No cambia la clasificación.
+¿Y si le das vidilla?
 --- BLOCK ---
-A classificação não muda.
-Vamos lá, acorde!
+La clasificación no cambia.
+¡Hay que espabilarse!
 --- BLOCK ---
-Toque no painel "Caçadores"
-para ver os participantes.
+Toca el panel "Cazadores"
+para ver los participantes.
 --- BLOCK ---
-Entre na Arena e
-mova a classificação, quer?
+Entra en la Arena y mueve
+la clasificación, ¿quieres?
 --- BLOCK ---
-Temos que quebrar os
-recordes! Alguém comece logo!
+¡Hay que romper las marcas!
+¡Que alguien empiece ya!
 --- BLOCK ---
-Se seu ouvido está coçando, alguém
-está de olho em suas marcas...
+¿Te pita un oído? Alguien
+estará mirando tus marcas...
 --- BLOCK ---
-Nenhum caçador é uma ilha.
-Saia um pouco! Socialize!
+Ningún cazador es una isla.
+¡Sal un rato! ¡Relaciónate!
 --- BLOCK ---
-Você não quebrará seus recordes
-sozinho. Traga amigos para ajudar!
+No romperás tus marcas solo.
+¡Trae amigos que te ayuden!
 --- BLOCK ---
-Por terra ou mar, o caçador
-sabe escolher bem suas armas.
+Por tierra o mar, el cazador
+sabe elegir bien sus armas.
 --- BLOCK ---
-Toque no nome de um caçador
-para ver seu cartão do Gremio.
+Toca el nombre de un cazador
+para ver su tarjeta de Gremio.
 --- BLOCK ---
-Os caçadores cujos cartões ainda
-não possui aparecem como "Companheiros".
+Los cazadores cuyas tarjetas aún
+no tienes se ven como "Compañeros".
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -1977,158 +1977,158 @@ HARDUMMY
 --- BLOCK ---
 StreetPass está...
 --- BLOCK ---
-ativado
+activado
 --- BLOCK ---
-desativado
---- BLOCK ---
-DUMMY
+desactiv.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Caixa de correio do Gremio
+DUMMY
+--- BLOCK ---
+Buzón tarj. Gremio
 --- BLOCK ---
 StreetPass
 --- BLOCK ---
-Ativar StreetPass?
+¿Activar StreetPass?
 --- BLOCK ---
-Sim
+Sí
 --- BLOCK ---
-Não
+No
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Ver cartão
+Ver tarjeta
 --- BLOCK ---
 Sup.
 --- BLOCK ---
-Registrar
+Regist
 --- BLOCK ---
-(Sem cartão do Gremio)
+(Sin tarjeta del Gremio)
 --- BLOCK ---
-Os dados do StreetPass do Monster
-Hunter 3 Ultimate não estão
-na consola. Deseja registrá-los agora?
+No están en la consola los datos de
+StreetPass de Monster Hunter 3 Ultimate.
+¿Quieres registrarlos ahora?
 --- BLOCK ---
-Para usar o StreetPass no Monster
-Hunter 3 Ultimate, você deve aceitar
-o contrato de uso mais recente.
-Ver o contrato de uso agora?
+Para usar StreetPass en Monster
+Hunter 3 Ultimate, debes aceptar
+el contrato de uso más reciente.
+¿Ver el contrato de uso ahora?
 --- BLOCK ---
-Salvar cartões marcados na sua Lista? <COLO
-2>Os cartões salvos serão excluídos da
-Caixa de Cartões da Guilda. </COLO>
+¿Guardar tarjetas marcadas en tu Lista?
+<COLO 2>Las tarjetas guardadas se borrarán del
+Buzón de tarjetas del Gremio.</COLO>
 --- BLOCK ---
-Apagar cartões do Gremio marcados?
-<COLO 2>Você não poderá recuperar
-os cartões que apagar. </COLO>
+¿Borrar tarjetas del Gremio marcadas?
+<COLO 2>No podrás recuperar las tarjetas
+que hayas borrado.</COLO>
 --- BLOCK ---
-Deseja adicionar à lista de bloqueio de
-usuários? <COLO 2>Atenção: o conteúdo de
-outros jogos pode ficar inacessível. </COLO>
+¿Quieres añadirle a usuarios bloqueados?
+<COLO 2>Atención: puede quedar inaccesible
+su contenido de otros juegos.</COLO>
 --- BLOCK ---
-Tem certeza?
+¿Seguro?
 --- BLOCK ---
-Aplicar mudanças?
+¿Aplicar cambios?
 --- BLOCK ---
-Sair sem aplicar mudanças?
+¿Salir sin aplicar cambios?
 --- BLOCK ---
-Registrar dados do StreetPass do Monster
-Hunter 3 Ultimate nesta consola?
+¿Registrar datos de StreetPass de
+Monster Hunter 3 Ultimate en esta consola?
 --- BLOCK ---
-Salvar as configurações do StreetPass? <COLO 2>O
-progresso do jogo também é salvo. </COLO>
+¿Guardar la configuración de StreetPass?
+<COLO 2>Se guarda también el progreso del juego.</COLO>
 --- BLOCK ---
-<COLO 2>O StreetPass não pode ser
-ativado para nenhum outro programa. </COLO>Acesse
-Configurações → Gerenciamento de dados →
-Gerenciamento de StreetPass e desative
-o StreetPass para outro programa.
+<COLO 2>StreetPass no puede ser activado
+para ningún otro programa.</COLO> Ve a
+Configuración → Gestión de datos →
+Gestión de StreetPass y desactiva
+StreetPass para otro programa.
 --- BLOCK ---
-Falha ao registrar dados do StreetPass
-do Monster Hunter 3 Ultimate na
-consola. O StreetPass continuará desativado.
+Fallo al registrar datos de StreetPass
+de Monster Hunter 3 Ultimate en la
+consola. StreetPass seguirá desactivado.
 --- BLOCK ---
-<COLO 2>Ocorreu um erro. Redefina
-suas configurações usando o menu
-"StreetPass" do mensageiro.</COLO>
+<COLO 2>Se ha producido un error.
+Restablece la configuración mediante
+el menú "StreetPass" del mensajero.</COLO>
 --- BLOCK ---
-O StreetPass está restrito pelo
-controle parental. Não é
-possível usar o StreetPass.
+StreetPass está restringido por
+el control parental. No se puede
+usar StreetPass.
 --- BLOCK ---
-O StreetPass foi desativado para
-o Monster Hunter 3 Ultimate.
+Se ha desactivado StreetPass
+para Monster Hunter 3 Ultimate.
 --- BLOCK ---
-Dados do StreetPass para o
-Monster Hunter 3 Ultimate registrados.
+Se han registrado datos de StreetPass
+para Monster Hunter 3 Ultimate.
 --- BLOCK ---
-StreetPass ativado para o
-Monster Hunter 3 Ultimate.
+Se ha activado StreetPass
+para Monster Hunter 3 Ultimate.
 --- BLOCK ---
-A lista de cartões foi atualizada.
+Se ha actualizado la Lista de tarjetas.
 --- BLOCK ---
-Os cartões do Gremio recebidos foram adicionados
-à Caixa de correio do Gremio.
+Se han añadido las tarjetas del Gremio
+recibidas al Buzón tarjetas del Gremio.
 --- BLOCK ---
-Os cartões do Gremio recebidos foram adicionados
-à Caixa de correio do Gremio e
-a Lista de cartões foi atualizada.
+Se han añadido las tarjetas del Gremio
+recibidas al Buzón tarjetas del Gremio
+y se ha actualizado la Lista tarjetas.
 --- BLOCK ---
-Sem atualizações de
-cartões do Gremio.
+No hay actualizaciones de tarjetas
+del Gremio.
 --- BLOCK ---
-Erro ao atualizar cartões do
-Gremio. Altere as configurações através
-do menu "StreetPass" do mensageiro.
-O StreetPass foi desativado para
-o Monster Hunter 3 Ultimate.
+Error al actualizar tarjetas del Gremio.
+Cambia la configuración mediante
+el menú "StreetPass" del mensajero.
+Se ha desactivado StreetPass
+para Monster Hunter 3 Ultimate.
 --- BLOCK ---
-Alguns cartões do Gremio
-não foram recebidos.
+No se han recibido algunas tarjetas
+del Gremio.
 --- BLOCK ---
-Não há cartões do Gremio
-marcados. Marque os que deseja
-apagar e tente novamente.
+No hay tarjetas del Gremio marcadas.
+Marca las que quieras borrar e inténtalo
+de nuevo.
 --- BLOCK ---
-Os cartões marcados foram apagados.
+Se han borrado las tarjetas marcadas.
 --- BLOCK ---
-Você adicionou este usuário
-à lista de bloqueados.
+Has añadido a este usuario
+a la lista de usuarios bloqueados.
 --- BLOCK ---
-Não há espaço na Lista de cartões.
-Apague os antigos para liberar espaço.
+No queda espacio en la Lista tarjetas.
+Borra las antiguas para liberar espacio.
 --- BLOCK ---
-Cartões marcados salvos na Lista.
+Tarj. marcadas guardadas en la Lista.
 --- BLOCK ---
-Não há cartões do Gremio
-marcados. Marque os que deseja
-salvar e tente novamente.
+No hay tarjetas del Gremio marcadas.
+Marca las que quieras guardar
+e inténtalo de nuevo.
 --- BLOCK ---
-Erro ao atualizar os cartões
-do Gremio. Modifique as configurações.
+Error al actualizar las tarjetas del
+Gremio. Modifica la configuración.
 --- BLOCK ---
-Para usar o StreetPass, você deve
-aceitar o contrato de uso mais
-recente. Acesse Configuração → Configuração de
-internet → Informações adicionais → Contrato
-de uso para visualizá-lo e aceitá-lo.
-Também é possível visitar o mensageiro
-no Porto em uma partida solo.
+Para usar StreetPass, debes aceptar
+el contrato de uso más reciente.
+Ve a Configuración → Configuración de
+internet → Información adicional →
+Contrato de uso para verlo y aceptarlo.
+También puedes visitar al mensajero en
+la Marina en una partida en solitario.
 --- BLOCK ---
-Verifique a lista de cartões
-do Gremio recebidos via StreetPass.
+Revisa la lista de tarjetas del Gremio
+recibidas mediante StreetPass.
 --- BLOCK ---
-Modifique as configurações do StreetPass.
+Modifica la configuración de StreetPass.
 --- BLOCK ---
-O StreetPass está desativado.
+StreetPass está desactivado.
 --- BLOCK ---
-Você não recebeu cartões do Gremio.
+No has recibido tarjetas Gremio.
 --- BLOCK ---
-Guild Card do StreetPass. <COLO 5>Botão
-A: Selecionar Botão X: Visualizar Botão
-Y: Excluir START: Salvar <COLO 5>
+Tarj. Gremio de StreetPass.
+<COLO 5>Botón A: Marcar Botón X: Ver
+Botón Y: Borrar START: Guardar<COLO 5>
 --- BLOCK ---
-Ativar e desativar o StreetPass.
+Activa y desactiva StreetPass.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -2142,7 +2142,7 @@ HARDUMMY
 --- BLOCK ---
 Monster Hunter 3 Ultimate
 --- BLOCK ---
-¡Cha-ho, cartão do Gremio!
+¡Cha-ho, tarjeta del Gremio!
 --- BLOCK ---
 Monster Hunter 3 Ultimate (Wii U)
 --- BLOCK ---
@@ -2152,22 +2152,22 @@ z
 --- BLOCK ---
 z+
 --- BLOCK ---
-Local
+Lugar
 --- BLOCK ---
 Tarifa
 --- BLOCK ---
 Prob.
 --- BLOCK ---
-Sem pet.
+Sin pet.
 --- BLOCK ---
 Núm.
-caç.
+caz.
 --- BLOCK ---
-Cartão da Guilda
+Tarj. Gremio
 --- BLOCK ---
 Contratar
 --- BLOCK ---
-Confirmar
+Confirm.
 --- BLOCK ---
 Nv.
 --- BLOCK ---
@@ -2189,67 +2189,67 @@ Nv.
 --- BLOCK ---
 ★★★★★★★★★
 --- BLOCK ---
-Grande sucesso na missão!
+¡Gran éxito en misión!
 --- BLOCK ---
-Sucesso na missão!
+¡Éxito en la misión!
 --- BLOCK ---
-A missão falhou...
+La misión fracasó...
 --- BLOCK ---
-Sem dinheiro suficiente.
+Sin dinero suficiente.
 --- BLOCK ---
-Outra missão em andamento.
+Hay otra misión en marcha.
 --- BLOCK ---
-Sem limite de Classificação de Caçador!
+¡Sin límite de Rango cazador!
 --- BLOCK ---
-Classificação de Caçador aumentada para %d!
+¡Rango cazador sube a %d!
 --- BLOCK ---
-Você pode forjar agora: %s!
+¡Ya puedes forjar: %s!
 --- BLOCK ---
-Você não tem este Cartão da Guilda.
+No tienes esta tarj. Gremio.
 --- BLOCK ---
-(Sem Cartão da Guilda)
+(Sin tarj. Gremio)
 --- BLOCK ---
 ......
 --- BLOCK ---
-(Sem título)
+(Sin título)
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
-Salário de Caça
+Caz. sueldo
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Caçadores contratados
+Cazadores a sueldo
 --- BLOCK ---
-Classificação da missão
+Rango misión
 --- BLOCK ---
 Objetivo
 --- BLOCK ---
-Local
+Lugar
 --- BLOCK ---
-Qualquer
+Cualqu.
 --- BLOCK ---
-Baixo
+Bajo
 --- BLOCK ---
 Alto
 --- BLOCK ---
@@ -2265,260 +2265,260 @@ Min.
 --- BLOCK ---
 Pes.
 --- BLOCK ---
-Cogumelos
+Setas
 --- BLOCK ---
-Outros
+Otros
 --- BLOCK ---
-Ilha Deserta
+IslDes
 --- BLOCK ---
-Litoral Arenoso
+LlaAre
 --- BLOCK ---
-Busca de Insetos
+BsqInu
 --- BLOCK ---
 Tundra
 --- BLOCK ---
-Vulcão
+Volcán
 --- BLOCK ---
 CuBorr
 --- BLOCK ---
-Às vezes, esses insetos voadores
-povoam a Floresta de
-Moga, e alguns são
-gigantes. Saque: Feromônios loucos,
-Ferrão de rainha, etc.
+En ocasiones, estos insectos
+voladores pueblan el Bosque de
+Moga, y algunos son gigantes.
+Botín: Feromonas locas,
+Aguijón de reina, etc.
 --- BLOCK ---
-Esses insetos constroem ninhos
-por toda a Floresta
-de Moga. Saque: Esporo
-de cogumelos, Busca-peixes, etc.
+Estos insectos anidan por todo
+el Bosque de Moga.
+Botín: Germen de setas,
+Buscapeces, etc.
 --- BLOCK ---
-Esses pequenos herbívoros povoam o
-sul da Floresta de
-Moga com grandes espécimes.
-Saque: Esporo de cogumelos,
-Pele de qualidade, etc.
+Estos pequeños herbívoros
+pueblan el sur del Bosque de
+Moga con grandes especímenes.
+Botín: Germen de setas,
+Piel de calidad, etc.
 --- BLOCK ---
-Esses pequenos herbívoros povoam
-o sul da Floresta
-de Moga com grandes
-espécimes. Saque: Carne crua,
-Esterco, Crânio gigante, etc.
+Estos pequeños herbívoros
+pueblan el sur del Bosque de
+Moga con grandes especímenes.
+Botín: Carne cruda, Boñiga,
+Calavera gigante, etc.
 --- BLOCK ---
-Essas larvas de Gigginox costumam
-ficar nas cavernas, mas há
-dias em que saem
-para fora. Saque: Busca-peixes,
-Ferrão de ouro, etc.
+Estas larvas de Gigginox suelen
+quedarse en las cuevas, pero
+hay días en que salen fuera.
+Botín: Buscapeces,
+Aguijón de oro, etc.
 --- BLOCK ---
-Os pescadores das aldeias
-geralmente usam os peixes
-das águas de Moga
-como isca. Saque: Busca-peixes,
-Escama bonita, etc.
+Los pescadores de las aldeas
+suelen usar los peces de las
+aguas de Moga como cebo.
+Botín: Buscapeces,
+Escama hermosa, etc.
 --- BLOCK ---
-Esses herbívoros aquáticos fornecem
-aos pescadores meios para
-navegar mais rápido.
-Saque: Carne crua,
+Estos herbívoros acuáticos dan
+a los pescadores medios para
+navegar más rápido.
+Botín: Carne cruda,
 Remo potente, etc.
 --- BLOCK ---
-É melhor caçar esses wyverns
-pássaro quando estão criando
-no centro da Floresta
-de Moga. Saque: Presa
-curva, Presa escassa, etc.
+Es mejor cazar a estos wyverns
+pájaro cuando crían en
+el centro del Bosque de Moga.
+Botín: Colmillo curvo,
+Colmillo escaso, etc.
 --- BLOCK ---
-Esses wyverns pássaro são
-mais robustos que seus
-companheiros Jaggi. Saque:
-Presa escassa, Presa
-luz lunar, etc.
+Estas wyverns pájaro son más
+robustas que sus compañeros
+Jaggi.
+Botín: Colmillo escaso,
+Colmillo de luz lunar, etc.
 --- BLOCK ---
-Esses insetos aquáticos vivem nas
-praias de Moga; às vezes
-muitos vão para o norte
-para se reproduzir. Saque: Remo
-potente, Remo perfeito, etc.
+Estos bichos acuáticos viven
+en las playas de Moga; a veces
+van muchos a criar al norte.
+Botín: Remo potente,
+Remo perfecto, etc.
 --- BLOCK ---
-Esses wyverns pássaro chegaram à
-Floresta de Moga com seu
-líder. Fuja de seu
-bafo venenoso! Saque: Presa
-curva, Presa escassa, etc.
+Estos wyverns pájaro llegaron
+al Bosque de Moga con su jefe.
+¡Huye de su vaho venenoso!
+Botín: Colmillo curvo,
+Colmillo escaso, etc.
 --- BLOCK ---
-Wyverns pássaro que fazem
-suas presas dormirem. Não
-se sabe como emigraram
-da Tundra. Saque: Presa
-curva, Presa escassa, etc.
+Wyverns pájaro que hacen
+dormir a su presa. No se sabe
+cómo emigraron de la Tundra.
+Botín: Colmillo curvo,
+Colmillo escaso, etc.
 --- BLOCK ---
-Javalis que vivem em
-florestas e planícies. Sua
-carne e pele têm
-usos diversos. Saque: Pele
-comum, Presa suprema, etc.
+Jabalíes que viven en bosques
+y llanuras. Su carne y su piel
+tienen muy diversos usos.
+Botín: Piel común,
+Colmillo supremo, etc.
 --- BLOCK ---
-Líderes Jaggi da Floresta de
-Moga. O filho do Chefe
-lutou com um e salvou
-uma criança. Saque: Fígado
-rosa, Crânio gigante, etc.
+Líderes Jaggi del Bosque de
+Moga. El hijo del Jefe luchó
+con uno y salvó a un niño.
+Botín: Hígado rosa,
+Calavera gigante, etc.
 --- BLOCK ---
-Bestas em forma de ouriço
-azul. Rondam em busca de
-mel e peixes saborosos.
-Ainda não se sabe
-que bens podem deixar.
+Bestias osunas de piel azul.
+Merodean en busca de miel
+y sabrosos peces.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Wyverns pássaro coloridos cuja
-aparência amigável incita os
-aldeões a caçá-los.
-Saque: Fígado rosa,
-Pena vistosa, etc.
+Coloridos wyverns pájaro cuyo
+aspecto amistoso incita a
+los aldeanos a cazarlos.
+Botín: Hígado rosa,
+Pluma llamativa, etc.
 --- BLOCK ---
-Wyverns pássaro carmesim cujos gritos
-ecoam na floresta. Suas
-penas alegres são um
-deleite. Saque: Pó de
-vida, Gaita Qurupeco, etc.
+Wyverns pájaro carmesí cuyos
+gritos recorren el bosque. Sus
+alegres plumas se regalan.
+Botín: Polvo de vida,
+Gaita Qurupeco, etc.
 --- BLOCK ---
-Bestas marinhas da Costa de
-Moga. A Frota de
-caça afirma ter capturado
-uma. Saque: Presa da
-fortuna, Óleo antigo, etc.
+Bestias marinas de la Costa
+de Moga. La Flota de caza
+asegura haber capturado una.
+Botín: Colmillo fortuna,
+Aceite antiguo, etc.
 --- BLOCK ---
-Bestas marinhas roxas, vivem perto
-de Moga. A Frota de
-caça jura que quase capturou
-uma, haha! Saque: Presa
-dourada, Crina fofa, etc.
+Bestias marinas moradas, viven
+junto a Moga. La Flota de caza
+jura que casi caza una, ¡ja!
+Botín: Colmillo áureo,
+Crin esponjosa, etc.
 --- BLOCK ---
-Wyverns terrestres que fugiram da
-seca e do calor para
-a Floresta de Moga.
-Ainda não se sabe
-que bens podem deixar.
+Wyverns de tierra que huyeron
+de las sequías y el calor
+al Bosque de Moga.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Wyverns fêmea que reinam
-em nossas florestas. Se
-uma aparecer, é proibido
-sair da aldeia. Desconhece-se
-que bens podem trazer.
+Wyverns hembra que reinan en
+nuestros bosques. Si aparece
+uno, está prohibido salir de
+la aldea. Se desconoce qué
+bienes pueden aportar.
 --- BLOCK ---
-Incríveis wyverns de fogo da
-floresta. As pessoas arriscam
-a vida para vê-los.
-Ainda não se sabe
-que bens podem deixar.
+Increíbles wyverns de fuego
+del bosque. La gente arriesga
+la vida por verlos.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Wyverns venenosos, expandiram seu território
-para a Floresta de Moga
-em busca de novas
-presas. Saque: Megapele de
-armadura, Crânio maciço, etc.
+Wyverns venenosos, ampliaron
+territorio al Bosque de Moga
+en busca de nuevas presas.
+Botín: Megapiel de armadura,
+Cráneo macizo, etc.
 --- BLOCK ---
-Wyverns pássaro da Floresta
-de Moga, induzem ao
-sono. Antes habitavam apenas
-áreas frias. Saque: Presa
-lunar, Crânio maciço, etc.
+Wyverns pájaro del Bosque de
+Moga, inducen al sueño. Antes
+solo habitaban zonas frías.
+Botín: Colmillo atrapaluna,
+Cráneo macizo, etc.
 --- BLOCK ---
-Bestas vermelhas semelhantes a tatus;
-seu cheiro fétido e sua
-mania de rolar encantam as
-crianças. Ainda não se sabe
-que bens podem deixar.
+Bestias rojas como armadillos;
+su olor apestoso y su manía de
+rodar encantan a los niños.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Criatura pisciforme das costas de
-Moga. Encontrado por uma criança
-que pescou um com um
-sapo. Ainda não se sabe
-que bens podem deixar.
+Bicho pisciforme de las costas
+de Moga. Hallado por un niño
+que pescó uno con una rana.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Wyverns aquáticos das costas
-de Moga. Os escribas
-estranham vê-los no mar.
-Ainda não se sabe
-que bens podem deixar.
+Wyverns piscine de las costas
+de Moga. A los escribanos
+les extraña verlo en el mar.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Senhores dos wyverns raramente vistos
-em florestas. As crianças
-da aldeia os imitam
-em seus jogos. Desconhece-se
-que bens podem trazer.
+Señores de los wyverns poco
+vistos en bosques. Los niños
+de la aldea los imitan en
+sus juegos. Se desconoce qué
+bienes pueden aportar.
 --- BLOCK ---
-Grandes wyverns brutos com cauda
-de martelo. Ninguém sabe como
-emigraram para esta região.
-Ainda não se sabe
-que bens podem deixar.
+Grandes wyverns brutos con
+cola de martillo. Nadie sabe
+cómo emigraron a esta zona.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Leviatãs que dominam os
-mares de Moga. Responsáveis
-por muitos dos últimos
-desastres. Desconhece-se que
-bens podem trazer.
+Leviatanes que dominan los
+mares de Moga. Responsables
+de muchos de los últimos
+desastres. Se desconoce qué 
+bienes pueden aportar.
 --- BLOCK ---
-Wyverns cornudos da Floresta de
-Moga. É um mistério por
-que deixaram seu habitat seco.
-Ainda não se sabe
-que bens podem deixar.
+Wyverns cornudos del Bosque
+de Moga. Es un misterio por
+qué dejaron su hábitat seco.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Ferozes wyverns brutos da Floresta
-de Moga. O mineral que
-os cobre tem muitos usos.
-Ainda não se sabe
-que bens podem deixar.
+Fieros wyverns brutos del
+Bosque de Moga. El mineral que
+los cubre tiene muchos usos.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Criaturas cruéis da Floresta de
-Moga. Caçam presas com sua
-astúcia e uma baba explosiva.
-Ainda não se sabe
-que bens podem deixar.
+Crueles bestias del Bosque de
+Moga. Cazan presas con su
+ingenio y una baba explosiva.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Bestas lupinas da Floresta de
-Moga. As crianças da aldeia
-as adoram e temem.
-Ainda não se sabe
-que bens podem deixar.
+Bestias lobunas del Bosque
+de Moga. Los niños de la aldea
+las adoran y las temen.
+Aún no se sabe qué bienes
+pueden dejar.
 --- BLOCK ---
-Wyverns de Chifres Negros da
-Floresta de Moga. Chegaram sem
-aviso durante a temporada de
-reprodução. Ainda não se sabe
-que itens podem deixar.
+Wyverns de Chifres Negros da Floresta 
+Moga. Eles chegaram sem aviso prévio
+durante a época de reprodução.
+Ainda não se sabe quais são os
+ítens que podem deixar.
 --- BLOCK ---
 Predadores noturnos velozes da Floresta
-de Moga. Aterrorizam todos que
-vão à floresta à noite.
-Ainda não se sabe
-que itens podem deixar.
+Moga. Eles aterrorizam todos que vão
+à Floresta à noite.
+Ainda não se sabe quais são os
+ítens que podem deixar.
 --- BLOCK ---
-Wyverns de fogo majestosos vistos
-na Floresta de Moga. Você
-prefere azul ou vermelho?
-Ainda não se sabe
-que itens podem deixar.
+Wyverns de fogo majestosos
+visto na Floresta Moga.
+Você prefere azul ou vermelho?
+Ainda não se sabe quais são os
+ítens que podem deixar.
 --- BLOCK ---
-Bestas de aço, de cheiro
-fedorento e nocivo. O mineral
-que as cobre é muito
-precioso. Ainda não se sabe
-que ativos podem deixar.
+Bestas de aço, de cheiro fedorento
+e nocivo. O mineral que os cobre
+é muito precioso. Ainda não se sabe
+quais são os ativos podem
+deixar
 --- BLOCK ---
-Leviatãs da Costa do Marfim
-que chegam à costa. Os
-aldeões temem sua fúria sem
-fim. Ainda não se sabe
-que itens podem deixar.
+Leviatãs da Costa do Marfim que
+chegam à costa. Os aldeões
+temem sua fúria sem fim.
+Ainda não se sabe quais são os
+ítens que podem deixar.
 --- BLOCK ---
-Grandes bestas violentas que vivem
-em todos os lugares. Sua
-fome não acaba, nem mesmo
-em Moga. Ainda não se
-sabe que itens podem deixar.
+Grandes bestas violentas que
+vivem em todos os lugares. Sua
+fome não acaba, nem mesmo em Moga.
+Ainda não se sabe quais são os
+ítens que pode deixar.
 --- BLOCK ---
 Falha na inicialização da rede.
 --- BLOCK ---
@@ -2532,23 +2532,23 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Conexão perdida. Desabilitada
+Conexão perdida. Desabilitado
 comunicação sem fio.
 --- BLOCK ---
 Conexão perdida.
 --- BLOCK ---
 Pressione o botão A.
 --- BLOCK ---
-Passando pela porto multijogador.
-Se o console for
-fechado, você será desconectado.
+Passando a porta multijog.
+Se fechar o console
+você vai se desconectar.
 --- BLOCK ---
-Conexão sem fio desativada. Pressione o
-interruptor de conexão sem fio para
-ativar a comunicação sem fio.
+Conexão sem fio desativada. Imprensa
+o interruptor de conexão sem fio
+para ativar a comunicação sem fio.
 --- BLOCK ---
-Erro fatal. Desligue o
-console e reinicie.
+Erro fatal. Desligue
+o console e reinicie.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

@@ -1,0 +1,469 @@
+﻿HELP
+--- BLOCK ---
+EDIT
+--- BLOCK ---
+EDIT_HELP
+--- BLOCK ---
+TOP
+--- BLOCK ---
+CUSTOMTOP
+--- BLOCK ---
+MYSET
+--- BLOCK ---
+EDIT_CAMERA
+--- BLOCK ---
+MIXLIST
+--- BLOCK ---
+TARGETCAMERA
+--- BLOCK ---
+POUCH
+--- BLOCK ---
+ACTION
+--- BLOCK ---
+SIGN
+--- BLOCK ---
+ETC
+--- BLOCK ---
+FRIEND
+--- BLOCK ---
+CUSTOMHELPCATE
+--- BLOCK ---
+CUSTOMHELP
+--- BLOCK ---
+CUSTOMHELPEXP
+--- BLOCK ---
+SEARCH_HELP
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Mochila de itens
+--- BLOCK ---
+Gestos
+--- BLOCK ---
+Lista de Combos
+--- BLOCK ---
+Patada
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Trocar com o painel existente
+/ os painéis existentes?
+--- BLOCK ---
+Substituir o painel existente
+/ os painéis existentes?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Usa um conjunto de painéis já
+salvo ou salva a distribuição atual.
+--- BLOCK ---
+Escolha um dos conjuntos
+de painéis salvos.
+--- BLOCK ---
+Conjunto de painéis escolhido.
+--- BLOCK ---
+Escolha um espaço para salvar
+a distribuição como novo conjunto.
+--- BLOCK ---
+Deseja salvar a distribuição
+atual neste espaço?
+--- BLOCK ---
+Conjunto de painéis salvo.
+--- BLOCK ---
+Escolha o conjunto de
+painéis que deseja apagar.
+--- BLOCK ---
+Deseja apagar este
+conjunto de painéis?
+--- BLOCK ---
+Conjunto de painéis apagado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Outro
+--- BLOCK ---
+Câmera
+--- BLOCK ---
+Estado
+--- BLOCK ---
+Mapa
+--- BLOCK ---
+Itens
+--- BLOCK ---
+Acesso rápido
+--- BLOCK ---
+Posicione os painéis conforme desejar.
+Mova os painéis tocando neles.
+--- BLOCK ---
+Controles da câmera Mova-a
+com um direcional virtual.
+--- BLOCK ---
+Controles da câmera (grande) Mova-a
+com um direcional virtual.
+--- BLOCK ---
+Estado do jogador Mostra seu estado
+na tela sensível ao toque.
+--- BLOCK ---
+Estado do jogador (grande) Mostra seu
+estado na tela sensível ao toque.
+--- BLOCK ---
+Estado dos companheiros Estado dos companheiros
+na tela sensível ao toque.
+--- BLOCK ---
+Mapa Mostra o mapa na
+tela sensível ao toque.
+--- BLOCK ---
+Barra de itens Percorra a lista
+na tela sensível ao toque.
+--- BLOCK ---
+Barra de itens (grande) Percorra a
+lista na tela sensível ao toque.
+--- BLOCK ---
+Munição/Revestimentos Percorra a lista na
+tela sensível ao toque.
+--- BLOCK ---
+Mochila de itens Use os itens
+com a tela sensível ao toque.
+--- BLOCK ---
+Lista de combinações Acesse a lista
+na tela sensível ao toque.
+--- BLOCK ---
+Gestos Realize gestos com a
+tela sensível ao toque.
+--- BLOCK ---
+Câmera de foco Rastreie monstros
+grandes com o botão L.
+--- BLOCK ---
+Ataques especiais Patadas/ataques especiais com
+tela sensível ao toque.
+--- BLOCK ---
+Sinais Dê sinais com a
+tela sensível ao toque.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Person. painéis
+--- BLOCK ---
+Mapa +
+Botão R
+--- BLOCK ---
+Mapa -
+Botão R
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Busca de caçador
+--- BLOCK ---
+Distrib. painéis
+--- BLOCK ---
+Conj. de painéis
+--- BLOCK ---
+Posição de Busca
+de caçador
+--- BLOCK ---
+Sinal
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Conj. de painéis
+--- BLOCK ---
+Seleção
+--- BLOCK ---
+Registro
+--- BLOCK ---
+Remover
+--- BLOCK ---
+Conjunto 1
+--- BLOCK ---
+Conjunto 2
+--- BLOCK ---
+Conjunto 3
+--- BLOCK ---
+Mover
+--- BLOCK ---
+Alterar tamanho
+--- BLOCK ---
+Testar
+--- BLOCK ---
+Editar
+--- BLOCK ---
+Restaurar
+--- BLOCK ---
+Selecione os itens que combinará.
+--- BLOCK ---
+Alcançado: %d %
+Produz.: %s
+--- BLOCK ---
+Alcançado: ??? %
+Produz.: ???
+--- BLOCK ---
+Combinando...
+--- BLOCK ---
+Combinação realizada.
+--- BLOCK ---
+A combinação falhou.
+--- BLOCK ---
+(Oculto)
+--- BLOCK ---
+(Outro)
+--- BLOCK ---
+(? ? ?)
+--- BLOCK ---
+Toque no item que deseja usar.
+--- BLOCK ---
+Toque no gesto que deseja fazer.
+--- BLOCK ---
+Sinal A
+--- BLOCK ---
+Sinal B
+--- BLOCK ---
+Ataque especial
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+Personalização de painéis
+--- BLOCK ---
+Conjuntos de painéis
+--- BLOCK ---
+Sobre Personalização de painéis
+--- BLOCK ---
+Como posicionar painéis
+--- BLOCK ---
+Como remover painéis
+--- BLOCK ---
+Painel Controles da câmera
+--- BLOCK ---
+Painel Câmera de foco
+--- BLOCK ---
+Painel Estado do jogador
+--- BLOCK ---
+Painel Estado dos companheiros
+--- BLOCK ---
+Painel Mapa
+--- BLOCK ---
+Painel Barra de itens
+--- BLOCK ---
+Painel Munição/Revestimentos
+--- BLOCK ---
+Painel Mochila de itens
+--- BLOCK ---
+Painel Lista de combinações
+--- BLOCK ---
+Painel Gestos
+--- BLOCK ---
+Painel Ataques especiais
+--- BLOCK ---
+Painel Sinais
+--- BLOCK ---
+Sobre Conjuntos de painéis
+--- BLOCK ---
+Organize a distribuição dos painéis na
+tela sensível ao toque conforme desejar.
+Os painéis facilitam funções, como os
+controles da câmera, ajustes do mapa...
+--- BLOCK ---
+Use o seletor de <COLO 2>categorias <COLO 0>à
+esquerda da tela sensível ao toque para selecionar
+o tipo de painel que deseja colocar.
+--- BLOCK ---
+Os painéis aparecem na <COLO 2>barra de seleção
+de painel <COLO 0>(parte superior da tela sensível
+ao toque). Toque e deslize-os para a <COLO
+4>caixa de painéis visíveis <COLO 0>para colocá-los.
+--- BLOCK ---
+Seus tamanhos são fixos. Se não
+houver espaço na <COLO 4>caixa de
+painéis visíveis <COLO 0>, será necessário
+remover painéis para adicionar mais.
+--- BLOCK ---
+Existem painéis com a mesma função básica,
+mas de tamanhos diferentes; esses não
+podem ser colocados ao mesmo tempo.
+--- BLOCK ---
+Para mover um painel, deslize-o para fora da
+área dos painéis visíveis. Os que você
+remover irão para a <COLO 2>lixeira <COLO
+0>à direita da tela sensível ao toque.
+--- BLOCK ---
+Ao fechar um painel, ele reaparecerá na
+barra de seleção de painéis. E você
+pode tocar na <COLO 2>lixeira de reciclagem
+<COLO 0>para retirar painéis e reposicioná-los.
+--- BLOCK ---
+O direcional virtual deste painel serve
+para manipular a câmera. O botão
+Editar no canto superior esquerdo
+muda sua posição e tamanho.
+--- BLOCK ---
+Toque neste painel para colocar a câmera
+no modo Foco. Você só pode ativar
+a Câmera de foco ao encontrar
+um monstro grande durante uma missão.
+--- BLOCK ---
+No modo Foco, pressione levemente o
+botão L para direcionar a câmera
+para o monstro que está mirando.
+--- BLOCK ---
+Se pressionar rapidamente duas vezes o botão
+L no modo Foco, pode posicionar
+a câmera atrás do seu caçador.
+--- BLOCK ---
+Se estiver enfrentando dois monstros grandes,
+ambos aparecerão no painel Câmera de
+foco. Toque em um dos dois
+para mirar e focar nele.
+--- BLOCK ---
+Este painel mostra na tela sensível
+ao toque a Vida, Resistência, Afiamento,
+Munição e outros dados. Ao colocá-lo,
+os dados desaparecem da tela superior.
+--- BLOCK ---
+A versão grande deste painel mostra
+os mesmos dados que o normal,
+mas seu tamanho facilita a leitura.
+--- BLOCK ---
+Ao tocar neste painel, você verá o
+estado de todo o seu grupo, assim
+como informações importantes sobre a missão atual.
+--- BLOCK ---
+Este painel mostra na tela sensível
+ao toque informações de estado de
+seus companheiros. Ao colocá-lo, essas
+informações desaparecem da tela superior.
+--- BLOCK ---
+Ao tocar neste painel, você verá o
+estado de todo o seu grupo, assim
+como informações importantes sobre a missão atual.
+--- BLOCK ---
+Este painel mostra o mapa na
+tela sensível ao toque. Ao colocá-lo,
+o mapa desaparece da tela superior.
+--- BLOCK ---
+Ao tocar neste painel, você alterna entre
+a visualização maximizada da área atual e
+a visualização minimizada do mapa completo.
+--- BLOCK ---
+Toque nas setas esquerda e direita deste
+painel para visualizar os itens. Com
+a versão grande, você pode deslizar
+a barra de itens para examiná-los.
+--- BLOCK ---
+Toque nas setas para cima e para baixo
+deste painel para visualizar a munição da
+sua Besta e os revestimentos do Arco.
+--- BLOCK ---
+Toque neste painel para ver uma lista
+dos itens que você tem na
+mochila de itens. Toque em um
+item do painel para usá-lo imediatamente.
+--- BLOCK ---
+Toque neste painel para ver uma versão
+da Lista de combinações na tela sensível
+ao toque. Toque no item que deseja
+criar para iniciar o processo de combinação.
+--- BLOCK ---
+Toque neste painel para ver uma lista de
+gestos na tela sensível ao toque. Toque
+em um gesto do painel para realizá-lo.
+--- BLOCK ---
+Toque neste painel para realizar o
+ataque especial da arma que está
+equipada (se estiver desembainhada) ou uma
+patada (se não estiver desembainhada).
+--- BLOCK ---
+Toque em um ícone de sinal neste
+painel para dar o sinal selecionado.
+--- BLOCK ---
+Se você salvar a distribuição
+atual como conjunto de painéis,
+poderá recuperar a distribuição
+rapidamente a qualquer momento.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Busca de caçador
+--- BLOCK ---
+Sobre Busca de caçador
+--- BLOCK ---
+Buscar jogadores
+--- BLOCK ---
+Ver dados do jogador
+--- BLOCK ---
+Busca automática
+--- BLOCK ---
+A Busca de caçador permite buscar
+jogadores próximos que também estão
+jogando Monster Hunter 3 Ultimate.
+--- BLOCK ---
+Para usar a Busca de
+caçador, a comunicação sem
+fio deve estar ativada.
+--- BLOCK ---
+Ao ativar a Busca de caçador, o
+jogo busca automaticamente jogadores próximos que também
+estejam usando a Busca de caçador
+ou jogando em um porto multiplayer.
+--- BLOCK ---
+Quando a função de busca automática
+encontra um jogador, a área de
+Busca de caçador exibe seu nome.
+--- BLOCK ---
+Jogadores com o ícone de um
+gongo vibrante na Busca de caçador
+estão esperando caçadores para uma aventura.
+Não os deixe na mão!
+--- BLOCK ---
+Ao abrir a tela de
+Busca de caçador, uma lista
+dos jogadores encontrados será exibida.
+--- BLOCK ---
+Para ver os dados de um jogador,
+toque em seu painel. As informações mostradas
+serão diferentes se essa pessoa estiver
+jogando sozinha ou com outras pessoas.
+--- BLOCK ---
+A busca automática é interrompida ao abrir
+a Busca de caçador. Para buscar
+jogadores manualmente, toque no botão Buscar
+mais ou pressione o botão Y.
+--- BLOCK ---

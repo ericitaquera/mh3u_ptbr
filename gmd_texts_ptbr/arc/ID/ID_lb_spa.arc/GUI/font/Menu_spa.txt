@@ -355,7 +355,7 @@ Câmera de foco
 --- BLOCK ---
 Câmera de evasão
 --- BLOCK ---
-Botão deslizante Pro
+Circle Pad Pro
 --- BLOCK ---
 Conf. inicial
 --- BLOCK ---
@@ -455,7 +455,7 @@ esquivar após um ataque.
 --- BLOCK ---
 Configura as funções do botão ZL
 e do botão ZR ao
-usar o controle deslizante Pro.
+usar o controle analógico Pro.
 --- BLOCK ---
 Restaura todas as opções
 para as configurações iniciais.
@@ -537,11 +537,11 @@ Move a câmera atrás e redefine a
 visão (mas não verticalmente ao estar
 debaixo d'água ou com uma Besta).
 --- BLOCK ---
-Mover o controle deslizante para cima
+Mover o controle analógico para cima
 corresponde à direção para a
 qual seu personagem está olhando.
 --- BLOCK ---
-Mover o controle deslizante para cima
+Mover o controle analógico para cima
 corresponde à direção para a
 qual a câmera está apontando.
 --- BLOCK ---
@@ -888,7 +888,7 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Est. aldeia
+Est. vila
 --- BLOCK ---
 Est. frota
 --- BLOCK ---

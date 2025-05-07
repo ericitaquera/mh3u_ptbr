@@ -367,7 +367,7 @@ ar não tem bolas de pelo. Hehe.
 O que? Um cliente? Sério?
 --- BLOCK ---
 Ah, você deve ser o caçador que acabou
-de chegar à aldeia! Espero que isso
+de chegar à vila! Espero que isso
 não soe estranho: eu amo os caçadores!
 --- BLOCK ---
 Sou como uma fã dos caçadores. Por
@@ -397,11 +397,11 @@ faça persegui-lo! Hehe, é brincadeira...
 do Chefe? Não por mim?
 Tem certeza? Tudo bem...
 --- BLOCK ---
-Se não está na aldeia, deve
+Se não está na vila, deve
 ter ido para a floresta.
 --- BLOCK ---
 A Floresta de Moga fica
-nos arredores da aldeia.
+nos arredores da vila.
 --- BLOCK ---
 O filho do Chefe é responsável por
 coletar os Recursos lá. Está atravessando
@@ -464,7 +464,7 @@ Compre. Ou não. Hehe, é brincadeira.
 Dou as boas-vindas a você, caçador!
 --- BLOCK ---
 Os negócios melhoraram muito desde que o
-Argosy voltou para a aldeia. A partir
+Argosy voltou para a vila. A partir
 de agora, quando ele estiver atracado...
 --- BLOCK ---
 Certos itens estarão com metade
@@ -565,7 +565,7 @@ conversando com o Chefe.
 --- BLOCK ---
 Passe mais uma hora, ou dez, comprando
 antes de sair, por favor. Pode encontrar
-o que precisa para salvar a aldeia.
+o que precisa para salvar a vila.
 --- BLOCK ---
 Volte vivo, certo? Se não, precisarei
 de uma nova obsessão. Talvez ferreiros...

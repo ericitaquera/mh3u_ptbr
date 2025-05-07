@@ -1,0 +1,788 @@
+GC_INFO
+--- BLOCK ---
+GC_POSE
+--- BLOCK ---
+GC_WALL
+--- BLOCK ---
+GC_UGC
+--- BLOCK ---
+TOP_HELP
+--- BLOCK ---
+COMMON_HELP
+--- BLOCK ---
+TITLE_HELP_HR3
+--- BLOCK ---
+TITLE_HELP_HR5
+--- BLOCK ---
+TITLE_HELP_HR6
+--- BLOCK ---
+TITLE_HELP_HR9
+--- BLOCK ---
+TITLE_HELP_HR50
+--- BLOCK ---
+TITLE_HELP_HR100
+--- BLOCK ---
+TITLE_HELP_HR200
+--- BLOCK ---
+TITLE_HELP_HR500
+--- BLOCK ---
+TITLE_HELP_HR999
+--- BLOCK ---
+TITLE_HELP_EX
+--- BLOCK ---
+TITLE_HELP_CEC
+--- BLOCK ---
+TITLE_HELP_DL
+--- BLOCK ---
+WALL_HELP_DL
+--- BLOCK ---
+POSE_HELP_DL
+--- BLOCK ---
+Editar etiqueta.
+--- BLOCK ---
+Títulos
+--- BLOCK ---
+Saudações
+--- BLOCK ---
+Pose
+--- BLOCK ---
+Fundo
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Posição
+--- BLOCK ---
+Cumprimentar
+--- BLOCK ---
+Punho erguido
+--- BLOCK ---
+Descansar
+--- BLOCK ---
+Brincar
+--- BLOCK ---
+Ostentação
+--- BLOCK ---
+Estalar de dedos
+--- BLOCK ---
+Pisada
+--- BLOCK ---
+Provocar
+--- BLOCK ---
+Boxear
+--- BLOCK ---
+Corrida
+--- BLOCK ---
+Braços cruzados
+--- BLOCK ---
+Ombros
+--- BLOCK ---
+Fanfarrão
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Ilha deserta
+--- BLOCK ---
+Planícies arenosas
+--- BLOCK ---
+Floresta inundada
+--- BLOCK ---
+Cume tempestuoso
+--- BLOCK ---
+Tundra
+--- BLOCK ---
+Vulcão
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Kayamba
+--- BLOCK ---
+Amor Shaka vermelho
+--- BLOCK ---
+Amor Shaka morto
+--- BLOCK ---
+Amor Shaka verde
+--- BLOCK ---
+Neko no mar
+--- BLOCK ---
+Comida Melynx
+--- BLOCK ---
+Tem o meu miado
+--- BLOCK ---
+Espetinho Tanziña
+--- BLOCK ---
+Recepcionista
+--- BLOCK ---
+Brasão Argosy
+--- BLOCK ---
+Estandarte da Guilda
+--- BLOCK ---
+Estandarte antigo Ult.
+--- BLOCK ---
+Brasão Gr. vermelho
+--- BLOCK ---
+Brasão Gr. azul
+--- BLOCK ---
+Coração Qurup
+--- BLOCK ---
+Tapete Tanzia
+--- BLOCK ---
+Coleção de ícones
+--- BLOCK ---
+Mural de monstros
+--- BLOCK ---
+Brasão wyvern
+--- BLOCK ---
+Rei dos céus
+--- BLOCK ---
+Senhor do mar
+--- BLOCK ---
+Expedição Barroth
+--- BLOCK ---
+Expedição Barioth
+--- BLOCK ---
+Perfil Qurup
+--- BLOCK ---
+Perfil Brach
+--- BLOCK ---
+Estandarte antigo Ult.
+--- BLOCK ---
+Fantasia Felyne
+--- BLOCK ---
+Rei e rainha
+--- BLOCK ---
+Amor Poogie
+--- BLOCK ---
+Pegada Qurup
+--- BLOCK ---
+Garras Freedom
+--- BLOCK ---
+Lagiacrus
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Brachydios b/n
+--- BLOCK ---
+Caça. Grande esp.
+--- BLOCK ---
+Design ídolo
+--- BLOCK ---
+Deviljho
+--- BLOCK ---
+Dança Shaka
+--- BLOCK ---
+Brach ardente
+--- BLOCK ---
+Tudo maçãs
+--- BLOCK ---
+Felyne
+--- BLOCK ---
+Design Guilda
+--- BLOCK ---
+Porta de correr
+--- BLOCK ---
+Todos que receberem seu cartão
+da Guilda verão sua saudação.
+Não use conteúdo ilegal,
+ofensivo, pessoal ou que
+infrinja os direitos alheios.
+--- BLOCK ---
+As saudações nos cartões da
+Guilda não podem ser editadas
+nas áreas online ou multiplayer.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Personalize seu cartão da Guilda.
+<COLO 5>Botão Y: Ver cartão
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Disponível desde o início.
+--- BLOCK ---
+Você alcançou o status
+de Caçador de Elite.
+--- BLOCK ---
+Você completou muitas missões
+de alto escalão.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 6.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 9.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 50.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 100.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 200.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 500.
+--- BLOCK ---
+Você alcançou o Rank de Caçador 999.
+--- BLOCK ---
+Você começou em uma área oculta 5 vezes.
+--- BLOCK ---
+Você começou em uma
+área oculta 10 vezes.
+--- BLOCK ---
+Você completou 20 missões
+na Ilha Deserta.
+--- BLOCK ---
+Você completou 20 missões
+nas Planícies Arenosas.
+--- BLOCK ---
+Você completou 20 missões
+na Floresta Inundada.
+--- BLOCK ---
+Você completou 20
+missões na Tundra.
+--- BLOCK ---
+Você completou 20
+missões no Vulcão.
+--- BLOCK ---
+Você completou 20 missões
+nas Montanhas Tempestuosas.
+--- BLOCK ---
+Você completou 100 missões.
+--- BLOCK ---
+Você completou 1.000 missões.
+--- BLOCK ---
+Você completou 20 missões
+no Grande Deserto.
+--- BLOCK ---
+Você completou 20 missões no
+Mar Contaminado, na Terra
+Sagrada e na Torre.
+--- BLOCK ---
+Você completou todas as
+missões da vila (1★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (2★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (3★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (4★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (5★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (6★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (7★).
+--- BLOCK ---
+Você completou todas as
+missões da vila (8★).
+--- BLOCK ---
+Você completou todas as missões da
+vila (9★) e as urgentes.
+--- BLOCK ---
+Você completou todas as
+missões do porto (1★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (2★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (3★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (4★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (5★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (6★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (7★).
+--- BLOCK ---
+Você completou todas as
+missões do porto (8★).
+--- BLOCK ---
+Você completou todas as missões
+da vila e do porto.
+--- BLOCK ---
+Você alcançou Rank B ou superior
+em todas as missões da Arena.
+--- BLOCK ---
+Você alcançou Rank A ou superior
+em todas as missões da Arena.
+--- BLOCK ---
+Você alcançou Rank S em
+uma missão da Arena.
+--- BLOCK ---
+Você alcançou Rank S em
+todas as missões da Arena.
+--- BLOCK ---
+Você caçou 20 Grandes Jaggi.
+--- BLOCK ---
+Você caçou 30 Grandes Jaggi.
+--- BLOCK ---
+Você caçou 40 Grandes Jaggi.
+--- BLOCK ---
+Você caçou 50 Grandes Jaggi.
+--- BLOCK ---
+Você caçou 20 Grandes Baggi.
+--- BLOCK ---
+Você caçou 30 Grandes Baggi.
+--- BLOCK ---
+Você caçou 40 Grandes Baggi.
+--- BLOCK ---
+Você caçou 50 Grandes Baggi.
+--- BLOCK ---
+Você caçou 20 Wroggi Magníficos.
+--- BLOCK ---
+Você caçou 30 Wroggi Magníficos.
+--- BLOCK ---
+Você caçou 40 Wroggi Magníficos.
+--- BLOCK ---
+Você caçou 50 Wroggi Magníficos.
+--- BLOCK ---
+Você caçou 20 Arzuros.
+--- BLOCK ---
+Você caçou 30 Arzuros.
+--- BLOCK ---
+Você caçou 40 Arzuros.
+--- BLOCK ---
+Você caçou 50 Arzuros.
+--- BLOCK ---
+Você caçou 20 Lagombi.
+--- BLOCK ---
+Você caçou 30 Lagombi.
+--- BLOCK ---
+Você caçou 40 Lagombi.
+--- BLOCK ---
+Você caçou 50 Lagombi.
+--- BLOCK ---
+Você caçou 20 Volvidon.
+--- BLOCK ---
+Você caçou 30 Volvidon.
+--- BLOCK ---
+Você caçou 40 Volvidon.
+--- BLOCK ---
+Você caçou 50 Volvidon.
+--- BLOCK ---
+Você caçou 20 Qurupeco.
+--- BLOCK ---
+Você caçou 30 Qurupeco.
+--- BLOCK ---
+Você caçou 40 Qurupeco.
+--- BLOCK ---
+Você caçou 50 Qurupeco.
+--- BLOCK ---
+Você caçou 20 Qurupeco Carmesins.
+--- BLOCK ---
+Você caçou 30 Qurupeco Carmesins.
+--- BLOCK ---
+Você caçou 40 Qurupeco Carmesins.
+--- BLOCK ---
+Você caçou 50 Qurupeco Carmesins.
+--- BLOCK ---
+Você caçou 20 Ludroth Reais.
+--- BLOCK ---
+Você caçou 30 Ludroth Reais.
+--- BLOCK ---
+Você caçou 40 Ludroth Reais.
+--- BLOCK ---
+Você caçou 50 Ludroth Reais.
+--- BLOCK ---
+Você caçou 20 Ludroth Purpúreos.
+--- BLOCK ---
+Você caçou 30 Ludroth Purpúreos.
+--- BLOCK ---
+Você caçou 40 Ludroth Purpúreos.
+--- BLOCK ---
+Você caçou 50 Ludroth Purpúreos.
+--- BLOCK ---
+Você caçou 20 Barroth.
+--- BLOCK ---
+Você caçou 30 Barroth.
+--- BLOCK ---
+Você caçou 40 Barroth.
+--- BLOCK ---
+Você caçou 50 Barroth.
+--- BLOCK ---
+Você caçou 20 Barroth esmeraldas.
+--- BLOCK ---
+Você caçou 30 Barroth esmeraldas.
+--- BLOCK ---
+Você caçou 40 Barroth esmeraldas.
+--- BLOCK ---
+Você caçou 50 Barroth esmeraldas.
+--- BLOCK ---
+Você caçou 20 Gobul.
+--- BLOCK ---
+Você caçou 30 Gobul.
+--- BLOCK ---
+Você caçou 40 Gobul.
+--- BLOCK ---
+Você caçou 50 Gobul.
+--- BLOCK ---
+Você caçou 20 Rathian.
+--- BLOCK ---
+Você caçou 30 Rathian.
+--- BLOCK ---
+Você caçou 40 Rathian.
+--- BLOCK ---
+Você caçou 50 Rathian.
+--- BLOCK ---
+Você caçou 20 Rathian rosas.
+--- BLOCK ---
+Você caçou 30 Rathian rosas.
+--- BLOCK ---
+Você caçou 40 Rathian rosas.
+--- BLOCK ---
+Você caçou 50 Rathian rosas.
+--- BLOCK ---
+Você caçou 10 Rathian douradas.
+--- BLOCK ---
+Você caçou 15 Rathian douradas.
+--- BLOCK ---
+Você caçou 20 Rathian douradas.
+--- BLOCK ---
+Você caçou 30 Rathian douradas.
+--- BLOCK ---
+Você caçou 20 Plesioth.
+--- BLOCK ---
+Você caçou 30 Plesioth.
+--- BLOCK ---
+Você caçou 40 Plesioth.
+--- BLOCK ---
+Você caçou 50 Plesioth.
+--- BLOCK ---
+Você caçou 20 Plesioth verdes.
+--- BLOCK ---
+Você caçou 30 Plesioth verdes.
+--- BLOCK ---
+Você caçou 40 Plesioth verdes.
+--- BLOCK ---
+Você caçou 50 Plesioth verdes.
+--- BLOCK ---
+Você caçou 20 Gigginox.
+--- BLOCK ---
+Você caçou 30 Gigginox.
+--- BLOCK ---
+Você caçou 40 Gigginox.
+--- BLOCK ---
+Você caçou 50 Gigginox.
+--- BLOCK ---
+Você caçou 20 Gigginox aterradores.
+--- BLOCK ---
+Você caçou 30 Gigginox aterradores.
+--- BLOCK ---
+Você caçou 40 Gigginox aterradores.
+--- BLOCK ---
+Você caçou 50 Gigginox aterradores.
+--- BLOCK ---
+Você caçou 20 Barioth.
+--- BLOCK ---
+Você caçou 30 Barioth.
+--- BLOCK ---
+Você caçou 40 Barioth.
+--- BLOCK ---
+Você caçou 50 Barioth.
+--- BLOCK ---
+Você caçou 20 Barioth arenosos.
+--- BLOCK ---
+Você caçou 30 Barioth arenosos.
+--- BLOCK ---
+Você caçou 40 Barioth arenosos.
+--- BLOCK ---
+Você caçou 50 Barioth arenosos.
+--- BLOCK ---
+Você caçou 20 Nibelsnarf.
+--- BLOCK ---
+Você caçou 30 Nibelsnarf.
+--- BLOCK ---
+Você caçou 40 Nibelsnarf.
+--- BLOCK ---
+Você caçou 50 Nibelsnarf.
+--- BLOCK ---
+Você caçou 20 Duramboros.
+--- BLOCK ---
+Você caçou 30 Duramboros.
+--- BLOCK ---
+Você caçou 40 Duramboros.
+--- BLOCK ---
+Você caçou 50 Duramboros.
+--- BLOCK ---
+Você caçou 20 Duramboros herrumbrosos.
+--- BLOCK ---
+Você caçou 30 Duramboros herrumbrosos.
+--- BLOCK ---
+Você caçou 40 Duramboros herrumbrosos.
+--- BLOCK ---
+Você caçou 50 Duramboros herrumbrosos.
+--- BLOCK ---
+Você caçou 20 Diablos.
+--- BLOCK ---
+Você caçou 30 Diablos.
+--- BLOCK ---
+Você caçou 40 Diablos.
+--- BLOCK ---
+Você caçou 50 Diablos.
+--- BLOCK ---
+Você caçou 20 Diablos negras.
+--- BLOCK ---
+Você caçou 30 Diablos negras.
+--- BLOCK ---
+Você caçou 40 Diablos negras.
+--- BLOCK ---
+Você caçou 50 Diablos negras.
+--- BLOCK ---
+Você caçou 20 Rathalos.
+--- BLOCK ---
+Você caçou 30 Rathalos.
+--- BLOCK ---
+Você caçou 40 Rathalos.
+--- BLOCK ---
+Você caçou 50 Rathalos.
+--- BLOCK ---
+Você caçou 20 Rathalos celestes.
+--- BLOCK ---
+Você caçou 30 Rathalos celestes.
+--- BLOCK ---
+Você caçou 40 Rathalos celestes.
+--- BLOCK ---
+Você caçou 50 Rathalos celestes.
+--- BLOCK ---
+Você caçou 10 Rathalos plateados.
+--- BLOCK ---
+Você caçou 15 Rathalos plateados.
+--- BLOCK ---
+Você caçou 20 Rathalos plateados.
+--- BLOCK ---
+Você caçou 30 Rathalos plateados.
+--- BLOCK ---
+Você caçou 20 Uragaan.
+--- BLOCK ---
+Você caçou 30 Uragaan.
+--- BLOCK ---
+Você caçou 40 Uragaan.
+--- BLOCK ---
+Você caçou 50 Uragaan.
+--- BLOCK ---
+Você caçou 20 Uragaan acerados.
+--- BLOCK ---
+Você caçou 30 Uragaan acerados.
+--- BLOCK ---
+Você caçou 40 Uragaan acerados.
+--- BLOCK ---
+Você caçou 50 Uragaan acerados.
+--- BLOCK ---
+Você caçou 20 Agnaktor.
+--- BLOCK ---
+Você caçou 30 Agnaktor.
+--- BLOCK ---
+Você caçou 40 Agnaktor.
+--- BLOCK ---
+Você caçou 50 Agnaktor.
+--- BLOCK ---
+Você caçou 20 Agnaktor glaciais.
+--- BLOCK ---
+Você caçou 30 Agnaktor glaciais.
+--- BLOCK ---
+Você caçou 40 Agnaktor glaciais.
+--- BLOCK ---
+Você caçou 50 Agnaktor glaciais.
+--- BLOCK ---
+Você caçou 20 Nargacuga.
+--- BLOCK ---
+Você caçou 30 Nargacuga.
+--- BLOCK ---
+Você caçou 40 Nargacuga.
+--- BLOCK ---
+Você caçou 50 Nargacuga.
+--- BLOCK ---
+Você caçou 20 Nargacuga Verdejantes.
+--- BLOCK ---
+Você caçou 30 Nargacuga Verdejantes.
+--- BLOCK ---
+Você caçou 40 Nargacuga Verdejantes.
+--- BLOCK ---
+Você caçou 50 Nargacuga Verdejantes.
+--- BLOCK ---
+Você caçou 10 Nargacuga Lunar.
+--- BLOCK ---
+Você caçou 15 Nargacuga Lunar.
+--- BLOCK ---
+Você caçou 20 Nargacuga Lunar.
+--- BLOCK ---
+Você caçou 30 Nargacuga Lunar.
+--- BLOCK ---
+Você caçou 20 Brachydios.
+--- BLOCK ---
+Você caçou 30 Brachydios.
+--- BLOCK ---
+Você caçou 40 Brachydios.
+--- BLOCK ---
+Você caçou 50 Brachydios.
+--- BLOCK ---
+Você caçou 20 Lagiacrus.
+--- BLOCK ---
+Você caçou 30 Lagiacrus.
+--- BLOCK ---
+Você caçou 40 Lagiacrus.
+--- BLOCK ---
+Você caçou 50 Lagiacrus.
+--- BLOCK ---
+Você caçou 20 Lagiacrus Marmorizados.
+--- BLOCK ---
+Você caçou 30 Lagiacrus Marmorizados.
+--- BLOCK ---
+Você caçou 40 Lagiacrus Marmorizados.
+--- BLOCK ---
+Você caçou 50 Lagiacrus Marmorizados.
+--- BLOCK ---
+Você matou 10 Lagiacrus do Abismo.
+--- BLOCK ---
+Você matou 15 Lagiacrus do Abismo.
+--- BLOCK ---
+Você matou 20 Lagiacrus do Abismo.
+--- BLOCK ---
+Você matou 30 Lagiacrus do Abismo.
+--- BLOCK ---
+Você caçou 20 Zinogre.
+--- BLOCK ---
+Você caçou 30 Zinogre.
+--- BLOCK ---
+Você caçou 40 Zinogre.
+--- BLOCK ---
+Você caçou 50 Zinogre.
+--- BLOCK ---
+Você caçou 20 Zinogre Estigios.
+--- BLOCK ---
+Você caçou 30 Zinogre Estigios.
+--- BLOCK ---
+Você caçou 40 Zinogre Estigios.
+--- BLOCK ---
+Você caçou 50 Zinogre Estigios.
+--- BLOCK ---
+Você caçou 20 Deviljho.
+--- BLOCK ---
+Você caçou 30 Deviljho.
+--- BLOCK ---
+Você caçou 40 Deviljho.
+--- BLOCK ---
+Você caçou 50 Deviljho.
+--- BLOCK ---
+Você matou 10 Ceadeus.
+--- BLOCK ---
+Você matou 15 Ceadeus.
+--- BLOCK ---
+Você matou 20 Ceadeus.
+--- BLOCK ---
+Você matou 20 Ceadeus.
+--- BLOCK ---
+Você matou 30 Ceadeus.
+--- BLOCK ---
+Você matou 30 Ceadeus.
+--- BLOCK ---
+Você matou 10 Ceadeus Barba Dourada.
+--- BLOCK ---
+Você matou 15 Ceadeus Barba Dourada.
+--- BLOCK ---
+Você matou 20 Ceadeus Barba Dourada.
+--- BLOCK ---
+Você matou 30 Ceadeus Barba Dourada.
+--- BLOCK ---
+Você matou 10 Jhen Mohran.
+--- BLOCK ---
+Você matou 15 Jhen Mohran.
+--- BLOCK ---
+Você matou 20 Jhen Mohran.
+--- BLOCK ---
+Você matou 30 Jhen Mohran.
+--- BLOCK ---
+Você matou 10 Jhen Mohran Sagrados.
+--- BLOCK ---
+Você matou 15 Jhen Mohran Sagrados.
+--- BLOCK ---
+Você matou 20 Jhen Mohran Sagrados.
+--- BLOCK ---
+Você matou 30 Jhen Mohran Sagrados.
+--- BLOCK ---
+Você matou 10 Alatreon.
+--- BLOCK ---
+Você matou 15 Alatreon.
+--- BLOCK ---
+Você matou 20 Alatreon.
+--- BLOCK ---
+Você matou 30 Alatreon.
+--- BLOCK ---
+Você matou 10 Miralis Funestos.
+--- BLOCK ---
+Você matou 15 Miralis Funestos.
+--- BLOCK ---
+Você matou 20 Miralis Funestos.
+--- BLOCK ---
+Você matou 30 Miralis Funestos.
+--- BLOCK ---
+Fale com Neko para ir da Vila Moga
+para Porto Tanzia pela primeira vez.
+--- BLOCK ---
+Fale com Neko para ir da Vila Moga
+para Porto Tanzia 100 vezes.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Obtido através de
+conteúdo para download.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Obtido através de
+conteúdo para download.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Obtido através de
+conteúdo para download.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

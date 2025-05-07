@@ -1,0 +1,410 @@
+﻿TMSG_NPC010_0
+--- BLOCK ---
+TMSG_NPC010_1
+--- BLOCK ---
+TMSG_NPC010_2
+--- BLOCK ---
+TMSG_NPC010_3
+--- BLOCK ---
+TMSG_NPC010_4
+--- BLOCK ---
+Fiu.
+¡Hola, te doy la bienvenida!
+--- BLOCK ---
+¡Vuelve otra vez!
+--- BLOCK ---
+<SUBS 0>
+Nosotros también cazamos monstruos... 
+Bueno, si es buen momento.
+--- BLOCK ---
+Te habrás dado cuenta de que puedes
+enviarnos a expediciones de caza... pero
+solo si hace buen día.
+--- BLOCK ---
+Claro que cazar monstruos no es nada
+especial para ti. ¡Así es como
+te ganas la vida!
+--- BLOCK ---
+Eso debe hacernos competidores...
+¡Cazador contra Flota de caza! ¡Bien!
+<SUBS 1>
+--- BLOCK ---
+El hijo del Jefe puede generar Recursos
+con el pescado que cogemos.
+--- BLOCK ---
+Por eso seguimos pescando, la Granja
+funciona y los aldeanos comen.
+¡Somos una pieza del engranaje de Moga!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Alguna vez te sientas a pensar
+en lo maravilloso que es el mar?
+--- BLOCK ---
+Nos bendice con multitud de bienes por
+el día y nos mece por la noche...
+Nunca pide nada a cambio.
+--- BLOCK ---
+Bueno, a veces se pone algo salvaje y
+nos complica un poco la vida. De hecho,
+se parece mucho a la pescadera...
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Ah! ¡Vivimos en el mar y POR el mar!
+El agua salada corre por nuestras venas.
+¡Los tres formamos la Flota de caza!
+--- BLOCK ---
+Nuestra misión es pescar, para traer a
+la aldea las recompensas del mar. Hablo
+de Atún pincho tan fresco que se mueve.
+--- BLOCK ---
+Pero los monstruos marinos son nuestros
+grandes enemigos. Debemos ahuyentar a
+las criaturas que pueden dañar la aldea.
+--- BLOCK ---
+Un momento... Tú eres ese cazador que
+apareció hace poco, ¿a que sí? Pareces
+fuerte para ser alguien de tierra.
+--- BLOCK ---
+Si la flota de caza volviera a disfrutar
+de su antigua gloria. ¡Os mostraríamos
+a los cazadores que somos mejores!
+--- BLOCK ---
+Pero, dos de nuestros tres barcos se
+partieron por la mitad cuando nos
+atacó el Lagiacrus.
+--- BLOCK ---
+Por ahora, solo mi barco está en
+condiciones de zarpar. Aunque no
+por eso vamos a dejar de pescar.
+--- BLOCK ---
+¡Escúchame bien! Si nos juntáramos los
+tres barcos, ¡tendríamos el triple de
+fuerza que tú! ¿A que sí? ¿A que sí?
+--- BLOCK ---
+Déjame calcular. Somos tres...
+Tú uno... menos dos... me llevo
+nueve... ¡Sí! ¡Hago cuentas como nadie!
+--- BLOCK ---
+De todos modos, si quieres hacer
+una petición relacionada con la pesca,
+ve a hablar con la pescadera.
+--- BLOCK ---
+Cuando se enfada da más miedo que
+el Lagiacrus. ¡Será mejor que escondas
+tu carácter de cazador duro!
+--- BLOCK ---
+¡Yuju!
+<SUBS 0>
+--- BLOCK ---
+¡Me he enterado, cazador! Ha llegado un
+aviso de misión de parte del Gremio,
+para ti. ¡Vaya, vaya!
+--- BLOCK ---
+Crees que puedes con un Ludroth, ¿eh?
+¡Ja! Veo que te gusta fanfarronear,
+cazador.
+--- BLOCK ---
+Si la Flota de caza volviera a estar en
+forma... ¡Nos cargaríamos a esa
+bestia en un santiamén!
+--- BLOCK ---
+Pero bueno. ¡Te dejaré este a ti,
+cazador! ¡Pero no olvides que nosotros
+somos los héroes de esta ciudad!
+--- BLOCK ---
+Cazar en el agua quizá sea nuevo para
+ti. ¡Lo mejor sería atraer al Ludroth
+hasta tierra firme!
+--- BLOCK ---
+¡Argh! ¿Por qué te ayudo a robarnos
+la fama? Si pillas a un Ludroth, diles
+a todos que fue gracias a mi consejo.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Seré sincero contigo, cazador. Estamos
+en un pequeño aprieto...
+--- BLOCK ---
+Hemos planeado la restauración de
+la Flota de caza. El primer paso es
+reparar el Lanzarroja, pero...
+--- BLOCK ---
+Los materiales de un Ludroth normal no
+son lo bastante grandes.
+--- BLOCK ---
+Por suerte para nosotros algunos Ludroth
+son más grandes que la media. La gente
+los llama Ludroth reales.
+--- BLOCK ---
+Si pudiéramos hacernos con materiales de
+Ludroth real. ¡El Lanzarroja volvería
+a estar listo para navegar!
+--- BLOCK ---
+Si los tres pudiéramos recuperar nuestra
+gloria, cazar a un Ludroth real sería
+un crucero de placer. ¡Me siento inútil!
+--- BLOCK ---
+Sí, la Flota de caza y los cazadores son
+viejos rivales, pero eso es agua pasada.
+¿Te importaría echarnos una mano?
+--- BLOCK ---
+Si nos haces este favor, podrás salir
+con nosotros, los héroes de la Flota
+de caza, cuando volvamos a la acción.
+--- BLOCK ---
+Je. Supuse que eso te
+interesaría. ¡Buena suerte!
+<SUBS 1>
+--- BLOCK ---
+Je. Bueno, cuesta reconocerlo,
+pero estamos, eh, en un apuro.
+--- BLOCK ---
+Hemos planeado la restauración
+de la Flota de caza. El primer paso
+es reparar el Lanzarroja, pero...
+--- BLOCK ---
+Los materiales de un Ludroth normal no
+son lo bastante grandes.
+--- BLOCK ---
+Por suerte para nosotros algunos Ludroth
+son más grandes que la media. La gente
+los llama Ludroth reales.
+--- BLOCK ---
+Si pudiéramos hacernos con materiales de
+Ludroth real... ¡el Lanzarroja volvería
+a estar listo para navegar!
+--- BLOCK ---
+Son bestias marinas, pero sobreviven en
+tierra usando la esponjosa melena de
+escamas del cuello para respirar.
+--- BLOCK ---
+Si los tres pudiéramos volver a estar en
+forma, cazar a un Ludroth real sería
+un crucero de placer. ¡Me siento inútil!
+--- BLOCK ---
+Sí, la Flota de caza y los cazadores son
+viejos rivales, pero eso es agua pasada.
+¿Te importaría echarnos una mano?
+--- BLOCK ---
+Si nos haces este favor, podrás salir
+con nosotros, los héroes de la Flota
+de caza, cuando volvamos a la acción.
+--- BLOCK ---
+Je. Supuse que eso te
+interesaría. ¡Buena suerte!
+--- BLOCK ---
+El plan de restauración de la Flota de
+caza va como la seda. Si pillaras otro
+Ludroth real, arreglaríamos otro barco.
+--- BLOCK ---
+Todos los hombres de mar oímos hablar
+del Ludroth real desde que hacemos
+nuestro primer nudo.
+--- BLOCK ---
+Son bestias marinas, pero pueden estar
+en tierra firme por la esponjosa melena
+de escamas que usan para respirar.
+--- BLOCK ---
+Si los tres pudiéramos volver a estar en
+forma, cazar a un Ludroth real sería
+un crucero de placer. ¡Me siento inútil!
+--- BLOCK ---
+De todos modos, cazador, te dejaré este
+a ti. ¡Ve al Bosque inundado y cázanos
+un Ludroth real!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Por fin! ¡Lo conseguiste, cazador!
+¡Lo lograste de verdad! El Lanzarroja
+está reparado gracias a ti.
+--- BLOCK ---
+¡Vamos viento en popa con el plan de
+restauración de la Flota de caza!
+Arriba la Flota de caza, héroes de Moga.
+--- BLOCK ---
+Por ahora, pescaremos con mi barco y con
+el Lanzarroja. ¡Pero dos barcos no hacen
+una flota!
+--- BLOCK ---
+Cuando pienso en el Lanzanegra que
+dejamos atrás, me pongo muy triste.
+--- BLOCK ---
+Bueno, ya sé que la Flota de caza lleva
+años rivalizando con los cazadores,
+pero ¿ayudarás al Lanzanegra?
+--- BLOCK ---
+De todos modos, desde ahora podrás
+hacer peticiones tanto a mi barco como
+al Lanzarroja. ¡Habla con la pescadera!
+--- BLOCK ---
+¡¡Lo... lo... lo... lo he VISTO!!
+--- BLOCK ---
+¿Qué? ¿Qué he visto? ¿Tú qué crees?
+El La... Lag... Lagi...
+--- BLOCK ---
+Cálmate, cálmate y respira. Uff.
+¡El Lagiacrus! Por fin lo he dicho...
+--- BLOCK ---
+El Lagiacrus está en la costa del
+Bosque de Moga. ¡Lo he visto!
+--- BLOCK ---
+¿Crees que TÚ puedes hacer algo?
+¡Si la fuerza combinada de nuestra Flota
+de caza ni siquiera pudo magullarlo!
+--- BLOCK ---
+¿Qué? ¿Vas a ir a CAZARLO?
+¡Imposible! ¡No digas sandeces, cazador!
+--- BLOCK ---
+Me has dejado sin habla...
+--- BLOCK ---
+¿Has conseguido echar al Lagiacrus?
+¿Seguro que no llevas agua salada
+en la sangre?
+--- BLOCK ---
+El Lagiacrus era la última gran amenaza
+del mar abierto, y ahora el Lanzanegra
+por fin está reparado.
+--- BLOCK ---
+¡Declaro completado el plan de
+restauración de la Flota de caza!
+¡Que alguien toque una trompeta o algo!
+--- BLOCK ---
+Bueno, supongo que al final tendré que
+reconocer tus dotes, cazador. Sí,
+tienes calidad, lo reconozco...
+--- BLOCK ---
+¿Qué te parecería unirte a la orgullosa
+e ilustre Flota de caza?
+--- BLOCK ---
+¡Piénsalo! ¡Serás un héroe de la Aldea
+de Moga! Puede que incluso superes
+la prueba física sin vomitar.
+--- BLOCK ---
+¿Eh? ¿Qué haces meneando así la cabeza?
+¿Es algún tipo de ejercicio nuevo?
+--- BLOCK ---
+<SUBS 0>
+Entiendo cómo te sientes. De verdad.
+--- BLOCK ---
+El Lagiacrus y tú... sois como
+rivales del destino.
+--- BLOCK ---
+Lo echaste de aquí, pero ahora quieres
+derrotarlo para siempre. Si no, pasarás
+el resto de tu vida obsesionándote.
+--- BLOCK ---
+Eh, he estado allí. He señalado el lugar
+en el que se encuentra la bestia y he
+hablado con la chica del Gremio.
+--- BLOCK ---
+Ve a aceptar la misión. Exorciza
+tus demonios, cazador preocupado...
+--- BLOCK ---
+¡Te estaré apoyando!
+--- BLOCK ---
+Mmm... Las cosas se están poniendo
+bastante feas, ¿verdad?
+--- BLOCK ---
+Cuando llegue el momento, quizá tengamos
+que abandonar la aldea.
+--- BLOCK ---
+Pero no hay ningún punto de pesca
+comparable a estas aguas.
+--- BLOCK ---
+El secreto del éxito de nuestra aldea es
+que es un pueblo de mar y montaña.
+Está entre el mar y el bosque.
+--- BLOCK ---
+Aunque los miembros de la Flota de caza
+seamos los héroes del lugar, no podemos
+hacer nada para salvarlo. ¡Es penoso!
+--- BLOCK ---
+Lo único que podemos hacer ahora es
+intentar averiguar de dónde vienen los
+terremotos. ¡Nos pondremos en marcha!
+--- BLOCK ---
+¡Guau! ¡Esto es... increíble!
+--- BLOCK ---
+¡¿Un cazador humano ahuyentó él solo al
+Ceadeus?! ¡Es el día más grande de la
+historia de la caza de monstruos!
+--- BLOCK ---
+Ya sabes, dije que te apoyaba, pero
+supuse que te destrozaría.
+¡Has sobrevivido!
+--- BLOCK ---
+La Flota de caza no puede ignorar
+un logro tan grande. Los tres hemos
+hablado y hemos tomado una decisión.
+--- BLOCK ---
+¡Vamos a dejar nuestro título de héroes
+de la Aldea de Moga! ¡No lo merecemos!
+¡No lo merecemos!
+--- BLOCK ---
+Eh, ¿por qué estás tan triste?
+¡No renunciamos a nuestro estatus a
+la ligera! Tú te lo mereces. ¡Acéptalo!
+--- BLOCK ---
+Juramos que estaríamos contigo.
+¡Estaremos ahí para apoyarte!
+--- BLOCK ---
+¡Siempre puedes dejarnos la pesca a
+nosotros! ¡Esto se merece una fanfarria!
+¡Nunca hay trompeta cuando se necesita!
+--- BLOCK ---
+¿En serio?
+¿De verdad te embarcas para cazar
+al Lagiacrus marmóreo?
+--- BLOCK ---
+Fíjate. No esperaba menos del mayor
+rival de la Flota de caza.
+--- BLOCK ---
+Pero jura que volverás, ¿vale? Toda
+Flota de caza que se precie necesita su
+oponente, ¡y nadie es mejor que tú!
+--- BLOCK ---
+¡Guau! ¡IN... creíble!
+--- BLOCK ---
+¡Has derrotado al legendario Lagiacrus
+marmóreo!
+¡Eres imparable!
+--- BLOCK ---
+Es un gran honor ser tu rival. *Sorbo*
+Voy a... *Sorbo*... ¡Aagh! ¡Nunca hay
+pañuelos de papel cuando hacen falta!
+--- BLOCK ---
+Bueno, la Flota de caza no puede ignorar
+un logro tan grande. Los tres hemos
+hablado y hemos tomado una decisión.
+--- BLOCK ---
+¡Hemos decidido votar por ti en las
+elecciones a jefe de aldea! Con el apoyo
+de tus rivales, ¡seguro que ganas!
+--- BLOCK ---
+¿Eh? ¿Qué es eso de que no te presentas?
+¡Piensa en la fama! ¡El poder! ¡La
+oposición de la Flota de caza!
+--- BLOCK ---
+¿Eh? ¿Te ocurre algo, tipo duro?
+--- BLOCK ---
+¿Mmm?
+--- BLOCK ---
+¡Aquí estás!
+--- BLOCK ---
+Eh, escúchame.
+--- BLOCK ---
+Ven a hablar conmigo cuando quieras.
+--- BLOCK ---
+¡Nos vemos!
+--- BLOCK ---
+¡Ánimo!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
