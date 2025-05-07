@@ -110,7 +110,7 @@ def translate_batch(batch_text, log_f):
     log_output_stdout(cleaned_batch_text, 2, log_f)
     
     # Split back out into individual responses
-    splits = re.split(r'TEXT \d+:', result)[1:]
+    splits = re.split(r'TEXT(?:O)? \d+:', result)[1:]
     return [s.strip() for s in splits]
 
 def process_batch_output(batch, out_f, log_f):
@@ -123,6 +123,8 @@ def process_batch_output(batch, out_f, log_f):
         translated_texts = translate_batch(batch_text, log_f)
 
         if len(translated_texts) != len(text_contents):
+            log_output_stdout(f"Enviados: {len(text_contents)}", 3, log_f)
+            log_output_stdout(f"Enviados: {len(translated_texts)}", 3, log_f)
             log_output_stdout("[ERROR] GPT response count mismatch.", 3, log_f)
             return
 
@@ -131,14 +133,17 @@ def process_batch_output(batch, out_f, log_f):
             batch[idx] = (kind, translated_texts[i], lines, block_no)
 
     # Step 2: Write all blocks in original order
-    for kind, content, lines, block_number in batch:
+    for index, (kind, content, lines, block_number) in enumerate(batch):
         if kind in ["text", "tagged_text"]:
             balanced_lines = rebalance_lines(content, lines)
             content = "\n".join(balanced_lines)
 
         out_f.write(content + "\n")
         out_f.write("--- BLOCK ---\n")
-        log_output_stdout(f"[SUCCESS] Block {block_number} ({kind}) written to output.", 3, log_f)
+        log_output_stdout(f"[SUCCESS] Block {block_number} ({kind}) written to output.", 2, log_f)
+
+        if index == len(batch) - 1:
+            log_output_stdout(f"[SUCCESS] Last block processed: {block_number} - ({kind}).", 3, log_f)
 
 def rebalance_lines(text, num_lines):
     words = text.split()
@@ -274,7 +279,7 @@ def process_blocks(lines, out_f, log_f):
                     #out_f.flush()
 
                     #log_output_stdout(f"File: {base_name} - BLOCK {block_number} (identifier) SAVED", 3, log_f)
-                    log_output_stdout(f"[SUCCESS] Block {block_number} (identifier) added to queue.", 3, log_f)
+                    log_output_stdout(f"[SUCCESS] Block {block_number} (identifier) added to queue.", 2, log_f)
                 elif TAG_PATTERN.search(combined_text):
                     log_output_stdout(f"[DEBUG] Testing classification for block {block_number}: {combined_text}. Classification: tagged_text", 2, log_f)
 
@@ -313,11 +318,11 @@ def process_blocks(lines, out_f, log_f):
 
                     batch.append(("tagged_text", translated_result, len(current_block), block_number))
                     #log_output_stdout(f"File: {base_name} - BLOCK {block_number} (tagged_text) SAVED", 3, log_f)
-                    log_output_stdout(f"[SUCCESS] Block {block_number} (tagged_text) added to queue.", 3, log_f)
+                    log_output_stdout(f"[SUCCESS] Block {block_number} (tagged_text) added to queue.", 2, log_f)
                 else:
                     log_output_stdout(f"[DEBUG] Testing classification for block {block_number}: {combined_text}. Classification: text", 2, log_f)
                     batch.append(("text", combined_text, len(current_block), block_number))
-                    log_output_stdout(f"[SUCCESS] Block {block_number} (text) added to queue.", 3, log_f)
+                    log_output_stdout(f"[SUCCESS] Block {block_number} (text) added to queue.", 2, log_f)
                     # here, you would collect for translation
                     #out_f.write(combined_text + " [text]\n")
                     #out_f.write("--- BLOCK ---\n")

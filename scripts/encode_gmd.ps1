@@ -18,6 +18,9 @@ if (!(Test-Path $InputFile)) {
 }
 
 $relativePath = $InputFile.Substring($env:GMD_TXT_PTBR_DIR.Length).TrimStart('\')
+#$relativePath = $InputFile.Substring(27).TrimStart('\')
+Write-Host "$InputFile"
+Write-Host "$env:GMD_TXT_PTBR_DIR"
 Write-Host "relativePath: $RelativePath"
 $baseName = [System.IO.Path]::GetFileNameWithoutExtension($InputFile)
 $targetDir = Join-Path $env:GMD_REPACKED_DIR ([System.IO.Path]::GetDirectoryName($relativePath))
@@ -27,6 +30,12 @@ if (-not (Test-Path $targetDir)) {
 
 $headerRelativePath = $InputFile.Substring($env:GMD_TXT_PTBR.Length).TrimStart('\')
 $HeaderFile = Join-Path $env:GMD_TXT_DIR ($RelativePath -replace '\.txt$', '.header')
+
+
+
+
+
+
 
 
 $OutputGmd = Join-Path $targetDir ($baseName + ".gmd")
