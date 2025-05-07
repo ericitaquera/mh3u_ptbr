@@ -1,7 +1,7 @@
 
 ## 📝 Text Files
 
-### Original Spanish Game Texts (`gmd_texts/`)
+### Translated Brazilian Portuguese Game Texts (`gmd_texts_ptbr/`)
 
 Located under:
 
@@ -16,9 +16,7 @@ Example:
 * `Npc001_spa.txt` through `Npc025_spa.txt`: NPC dialogue
 * `NpcName_spa.txt`: NPC name labels
 
-### Translated Portuguese Game Texts (`gmd_texts_ptbr/`)
-
-Below is a description of each .txt files found under gmd_texts_ptbr/arc/ID/ID_lb_spa.arc/GUI/font/lobby/:
+Below is a description of some .txt files found under gmd_texts_ptbr/arc/ID/ID_lb_spa.arc/GUI/font/lobby/:
 
 Help_spa.txt: Help menu or tutorial text
 
