@@ -96,18 +96,18 @@ Two layers, Antialiasing=ON
 
 #### All Paths
 ```
-* .\arc\ID\ID_arena_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_cock_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_com_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_cus_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_dl_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_gallerydm_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_gallery_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_lb_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_resi_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_res_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\ID_stmenu_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
-* .\arc\ID\quest\camp_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_arena_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_cock_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_com_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_cus_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_dl_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_gallerydm_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_gallery_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_lb_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_resi_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_res_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\ID_stmenu_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
+.\arc\ID\quest\camp_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
 ```
 
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
