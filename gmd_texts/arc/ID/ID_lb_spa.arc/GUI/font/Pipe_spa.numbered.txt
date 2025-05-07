@@ -1,0 +1,210 @@
+﻿TMSG_PIPE
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Gaita de metal
+--- BLOCK [003] ---
+Gaita de metal+
+--- BLOCK [004] ---
+Gran gaita
+--- BLOCK [005] ---
+Gaita pesada
+--- BLOCK [006] ---
+Gaita pesada+
+--- BLOCK [007] ---
+Fortissimo
+--- BLOCK [008] ---
+Rinforzato
+--- BLOCK [009] ---
+Gruñido de usurpador
+--- BLOCK [010] ---
+Palmada del déspota
+--- BLOCK [011] ---
+Canción de Brimstren
+--- BLOCK [012] ---
+Tristeza estigia
+--- BLOCK [013] ---
+Armónico oculto
+--- BLOCK [014] ---
+Grito en la noche
+--- BLOCK [015] ---
+Tono de eclipse
+--- BLOCK [016] ---
+Cuerno de Qurupeco
+--- BLOCK [017] ---
+Trompeta de Qurupeco
+--- BLOCK [018] ---
+Bocina de Qurupeco
+--- BLOCK [019] ---
+Trompeta magnífica
+--- BLOCK [020] ---
+Imperiludio
+--- BLOCK [021] ---
+Guermónica tipo 63
+--- BLOCK [022] ---
+Snarfónix
+--- BLOCK [023] ---
+Snarfónica soldado
+--- BLOCK [024] ---
+Pipa de arena
+--- BLOCK [025] ---
+Grito de arena
+--- BLOCK [026] ---
+Chirrido de arena
+--- BLOCK [027] ---
+Cantor de arena
+--- BLOCK [028] ---
+Calmador de arena
+--- BLOCK [029] ---
+Kazú de hielo
+--- BLOCK [030] ---
+Kazú glacial
+--- BLOCK [031] ---
+Gruñidor de escarcha
+--- BLOCK [032] ---
+General de escarcha
+--- BLOCK [033] ---
+Agnakdión
+--- BLOCK [034] ---
+Brandoneón
+--- BLOCK [035] ---
+Scaldertina
+--- BLOCK [036] ---
+Cuerno de hueso
+--- BLOCK [037] ---
+Cuerno de hueso+
+--- BLOCK [038] ---
+Cuerno cazador
+--- BLOCK [039] ---
+Cuerno cazador+
+--- BLOCK [040] ---
+Concha hinchada
+--- BLOCK [041] ---
+Concha de vértice
+--- BLOCK [042] ---
+Concha turbante
+--- BLOCK [043] ---
+Zurogong Primo
+--- BLOCK [044] ---
+Zurogong Secundo
+--- BLOCK [045] ---
+Zurogong Tertio
+--- BLOCK [046] ---
+Bariguiro
+--- BLOCK [047] ---
+Algiguiro
+--- BLOCK [048] ---
+Frigiguiro
+--- BLOCK [049] ---
+Gaita de bronce
+--- BLOCK [050] ---
+Gaita gigas
+--- BLOCK [051] ---
+Gaita archigigas
+--- BLOCK [052] ---
+Zángano Droth
+--- BLOCK [053] ---
+Zángano Droth+
+--- BLOCK [054] ---
+Rugido de Droth
+--- BLOCK [055] ---
+Ataúd negro
+--- BLOCK [056] ---
+Ataúd de sombras
+--- BLOCK [057] ---
+Ataúd más oscuro
+--- BLOCK [058] ---
+Hielasangre
+--- BLOCK [059] ---
+Cortasangre
+--- BLOCK [060] ---
+Congelasangre
+--- BLOCK [061] ---
+Armonizador valkiria
+--- BLOCK [062] ---
+Armonizador valk.+
+--- BLOCK [063] ---
+Armonizador de reina
+--- BLOCK [064] ---
+Armonizador de coral
+--- BLOCK [065] ---
+Armonizador coral+
+--- BLOCK [066] ---
+Armonizador de oro
+--- BLOCK [067] ---
+Armonizador lunar
+--- BLOCK [068] ---
+Vicello Nulo
+--- BLOCK [069] ---
+Vicello Unu
+--- BLOCK [070] ---
+Vicello Nulo (B)
+--- BLOCK [071] ---
+Vicello Unu (B)
+--- BLOCK [072] ---
+Vicello Du (B)
+--- BLOCK [073] ---
+Vicello Nulo (A)
+--- BLOCK [074] ---
+Vicello Unu (A)
+--- BLOCK [075] ---
+Vicello Du (A)
+--- BLOCK [076] ---
+Vicello Nulo (V)
+--- BLOCK [077] ---
+Vicello Unu (V)
+--- BLOCK [078] ---
+Vicello Du (V)
+--- BLOCK [079] ---
+Vicello Tri (V)
+--- BLOCK [080] ---
+Ascuavone
+--- BLOCK [081] ---
+Brasavone
+--- BLOCK [082] ---
+Fundevone
+--- BLOCK [083] ---
+Amuleto mágico
+--- BLOCK [084] ---
+Campana mágica
+--- BLOCK [085] ---
+Aria Rhota
+--- BLOCK [086] ---
+Cuerno ajado
+--- BLOCK [087] ---
+Cuerno viejo
+--- BLOCK [088] ---
+Caja música Avenir
+--- BLOCK [089] ---
+Caja música eterna
+--- BLOCK [090] ---
+Campana Brach
+--- BLOCK [091] ---
+Campana Brach+
+--- BLOCK [092] ---
+Campana demolición
+--- BLOCK [093] ---
+Demoledor tímbrico
+--- BLOCK [094] ---
+Cuerno de Lagia
+--- BLOCK [095] ---
+Cuerno de Lagia+
+--- BLOCK [096] ---
+Lagia tonante
+--- BLOCK [097] ---
+Flauta tenebrosa
+--- BLOCK [098] ---
+Sinfonía tenebrosa
+--- BLOCK [099] ---
+Modo de Megido
+--- BLOCK [100] ---
+Apocalipso
+--- BLOCK [101] ---
+DUMMY
+--- BLOCK [102] ---
+DUMMY
+--- BLOCK [103] ---
+Brío voltaje
+--- BLOCK [104] ---
+Brío alto voltaje
+--- BLOCK [105] ---

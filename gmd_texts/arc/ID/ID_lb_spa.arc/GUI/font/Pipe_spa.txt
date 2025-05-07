@@ -1,0 +1,210 @@
+﻿TMSG_PIPE
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Gaita de metal
+--- BLOCK ---
+Gaita de metal+
+--- BLOCK ---
+Gran gaita
+--- BLOCK ---
+Gaita pesada
+--- BLOCK ---
+Gaita pesada+
+--- BLOCK ---
+Fortissimo
+--- BLOCK ---
+Rinforzato
+--- BLOCK ---
+Gruñido de usurpador
+--- BLOCK ---
+Palmada del déspota
+--- BLOCK ---
+Canción de Brimstren
+--- BLOCK ---
+Tristeza estigia
+--- BLOCK ---
+Armónico oculto
+--- BLOCK ---
+Grito en la noche
+--- BLOCK ---
+Tono de eclipse
+--- BLOCK ---
+Cuerno de Qurupeco
+--- BLOCK ---
+Trompeta de Qurupeco
+--- BLOCK ---
+Bocina de Qurupeco
+--- BLOCK ---
+Trompeta magnífica
+--- BLOCK ---
+Imperiludio
+--- BLOCK ---
+Guermónica tipo 63
+--- BLOCK ---
+Snarfónix
+--- BLOCK ---
+Snarfónica soldado
+--- BLOCK ---
+Pipa de arena
+--- BLOCK ---
+Grito de arena
+--- BLOCK ---
+Chirrido de arena
+--- BLOCK ---
+Cantor de arena
+--- BLOCK ---
+Calmador de arena
+--- BLOCK ---
+Kazú de hielo
+--- BLOCK ---
+Kazú glacial
+--- BLOCK ---
+Gruñidor de escarcha
+--- BLOCK ---
+General de escarcha
+--- BLOCK ---
+Agnakdión
+--- BLOCK ---
+Brandoneón
+--- BLOCK ---
+Scaldertina
+--- BLOCK ---
+Cuerno de hueso
+--- BLOCK ---
+Cuerno de hueso+
+--- BLOCK ---
+Cuerno cazador
+--- BLOCK ---
+Cuerno cazador+
+--- BLOCK ---
+Concha hinchada
+--- BLOCK ---
+Concha de vértice
+--- BLOCK ---
+Concha turbante
+--- BLOCK ---
+Zurogong Primo
+--- BLOCK ---
+Zurogong Secundo
+--- BLOCK ---
+Zurogong Tertio
+--- BLOCK ---
+Bariguiro
+--- BLOCK ---
+Algiguiro
+--- BLOCK ---
+Frigiguiro
+--- BLOCK ---
+Gaita de bronce
+--- BLOCK ---
+Gaita gigas
+--- BLOCK ---
+Gaita archigigas
+--- BLOCK ---
+Zángano Droth
+--- BLOCK ---
+Zángano Droth+
+--- BLOCK ---
+Rugido de Droth
+--- BLOCK ---
+Ataúd negro
+--- BLOCK ---
+Ataúd de sombras
+--- BLOCK ---
+Ataúd más oscuro
+--- BLOCK ---
+Hielasangre
+--- BLOCK ---
+Cortasangre
+--- BLOCK ---
+Congelasangre
+--- BLOCK ---
+Armonizador valkiria
+--- BLOCK ---
+Armonizador valk.+
+--- BLOCK ---
+Armonizador de reina
+--- BLOCK ---
+Armonizador de coral
+--- BLOCK ---
+Armonizador coral+
+--- BLOCK ---
+Armonizador de oro
+--- BLOCK ---
+Armonizador lunar
+--- BLOCK ---
+Vicello Nulo
+--- BLOCK ---
+Vicello Unu
+--- BLOCK ---
+Vicello Nulo (B)
+--- BLOCK ---
+Vicello Unu (B)
+--- BLOCK ---
+Vicello Du (B)
+--- BLOCK ---
+Vicello Nulo (A)
+--- BLOCK ---
+Vicello Unu (A)
+--- BLOCK ---
+Vicello Du (A)
+--- BLOCK ---
+Vicello Nulo (V)
+--- BLOCK ---
+Vicello Unu (V)
+--- BLOCK ---
+Vicello Du (V)
+--- BLOCK ---
+Vicello Tri (V)
+--- BLOCK ---
+Ascuavone
+--- BLOCK ---
+Brasavone
+--- BLOCK ---
+Fundevone
+--- BLOCK ---
+Amuleto mágico
+--- BLOCK ---
+Campana mágica
+--- BLOCK ---
+Aria Rhota
+--- BLOCK ---
+Cuerno ajado
+--- BLOCK ---
+Cuerno viejo
+--- BLOCK ---
+Caja música Avenir
+--- BLOCK ---
+Caja música eterna
+--- BLOCK ---
+Campana Brach
+--- BLOCK ---
+Campana Brach+
+--- BLOCK ---
+Campana demolición
+--- BLOCK ---
+Demoledor tímbrico
+--- BLOCK ---
+Cuerno de Lagia
+--- BLOCK ---
+Cuerno de Lagia+
+--- BLOCK ---
+Lagia tonante
+--- BLOCK ---
+Flauta tenebrosa
+--- BLOCK ---
+Sinfonía tenebrosa
+--- BLOCK ---
+Modo de Megido
+--- BLOCK ---
+Apocalipso
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Brío voltaje
+--- BLOCK ---
+Brío alto voltaje
+--- BLOCK ---

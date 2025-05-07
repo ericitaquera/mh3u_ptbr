@@ -1,0 +1,462 @@
+﻿TMSG_LSWORD2_EXP
+--- BLOCK [001] ---
+(Nada equipado.)
+--- BLOCK [002] ---
+Espada larga forjada con
+técnicas orientales. Fuerte,
+pero requiere mantenimiento.
+--- BLOCK [003] ---
+Espada larga forjada con
+técnicas orientales. Fuerte,
+pero requiere mantenimiento.
+--- BLOCK [004] ---
+Espada larga forjada con
+técnicas orientales. Fuerte,
+pero requiere mantenimiento.
+--- BLOCK [005] ---
+Espada larga mecánica nacida
+del espíritu audaz de un
+artesano. De hoja giratoria.
+--- BLOCK [006] ---
+Espada larga mecánica nacida
+del espíritu audaz de un
+artesano. De hoja giratoria.
+--- BLOCK [007] ---
+Espada larga hecha por un
+artesano obsesivo. Leñadores
+lloraron cuando se hizo.
+--- BLOCK [008] ---
+Encarnación de un feroz rey.
+Esta Espada larga puede
+matar a los dioses.
+--- BLOCK [009] ---
+Encarnación de un feroz rey.
+Esta Espada larga puede
+matar a los dioses.
+--- BLOCK [010] ---
+Encarnación de un feroz rey.
+Esta Espada larga puede
+matar a los dioses.
+--- BLOCK [011] ---
+Espada larga enjoyada que
+recuerda a un conquistador.
+Su gema arrastra al abismo.
+--- BLOCK [012] ---
+Espada larga enjoyada que
+recuerda a un conquistador.
+Su gema arrastra al abismo.
+--- BLOCK [013] ---
+Espada larga que encarna un
+emperador del infierno. Mata
+el mundo y subyuga el cielo.
+--- BLOCK [014] ---
+Espada larga congelada con
+un nuevo proceso de forja.
+La vaina se cubre de hielo.
+--- BLOCK [015] ---
+Espada larga congelada con
+un nuevo proceso de forja.
+La vaina se cubre de hielo.
+--- BLOCK [016] ---
+Espada larga helada de gran
+factura. Convierte enemigos
+en bruma con copos de nieve.
+--- BLOCK [017] ---
+Espada larga forjada con
+técnicas orientales. Produce
+fría niebla plateada.
+--- BLOCK [018] ---
+Espada larga de ébano, negra
+como la noche. El valor la
+dota de una hoja adicional.
+--- BLOCK [019] ---
+Espada larga de ébano, negra
+como la noche. El valor la
+dota de una hoja adicional.
+--- BLOCK [020] ---
+Espada larga de ébano, negra
+como la noche. El valor la
+dota de una hoja adicional.
+--- BLOCK [021] ---
+Espada larga de ébano, negra
+como la noche. Sus oscuros
+destellos no dejan rastro.
+--- BLOCK [022] ---
+La cuarta de las Siete
+estrellas. Cuando la ve el
+enemigo, ya es tarde.
+--- BLOCK [023] ---
+Espada larga verde que corta
+enemigos como el viento.
+Nadie resiste su poder.
+--- BLOCK [024] ---
+Espada larga verde que corta
+enemigos como el viento.
+Nadie resiste su poder.
+--- BLOCK [025] ---
+Espada larga sofisticada que
+bombea veneno mediante
+energía cinética.
+--- BLOCK [026] ---
+Espada larga sofisticada que
+bombea veneno mediante
+energía cinética.
+--- BLOCK [027] ---
+Espada larga sofisticada que
+bombea veneno mediante
+energía cinética.
+--- BLOCK [028] ---
+Hecha con métodos
+orientales. Corren por su
+hoja chispas blanco-azules.
+--- BLOCK [029] ---
+Hecha con métodos
+orientales. Corren por su
+hoja chispas blanco-azules.
+--- BLOCK [030] ---
+Hecha con métodos
+orientales. Corren por su
+hoja chispas blanco-azules.
+--- BLOCK [031] ---
+Espada larga de la furia de
+Lagiacrus marmóreo. Anuncia
+la llegada de un guerrero.
+--- BLOCK [032] ---
+Espada larga de la furia de
+Lagiacrus marmóreo. Anuncia
+la llegada de un guerrero.
+--- BLOCK [033] ---
+Espada larga hábil cual
+Plesioth. Dispara agua y
+las aletas le dan elegancia.
+--- BLOCK [034] ---
+Espada larga hábil cual
+Plesioth. Dispara agua y
+aletas le dan elegancia.
+--- BLOCK [035] ---
+Espada larga de Plesioth
+verde. Tiene la fuerza del
+romper de las olas.
+--- BLOCK [036] ---
+Espada larga de Plesioth
+verde. Tiene la fuerza del
+romper de las olas.
+--- BLOCK [037] ---
+Espada larga de Plesioth
+verde. Tiene la fuerza del
+romper de las olas.
+--- BLOCK [038] ---
+Espada larga que aúna placas
+de Arzuros y mineral. Usada
+por fuertes bárbaros.
+--- BLOCK [039] ---
+Espada larga que aúna placas
+de Arzuros y mineral. Usada
+por fuertes bárbaros.
+--- BLOCK [040] ---
+Espada larga seductora con
+una magnífica vaina grabada
+por un famoso sacerdote.
+--- BLOCK [041] ---
+Extraña hoja oriental. Su
+larga empuñadura permite
+blandirla con fuerza.
+--- BLOCK [042] ---
+Una leyenda oriental cuenta
+que una princesa se casó con
+un dragón y volvió con ella.
+--- BLOCK [043] ---
+Una leyenda oriental cuenta
+que una princesa se casó con
+un dragón y volvió con ella.
+--- BLOCK [044] ---
+Espada larga de esponja de
+Ludroth real. Sus golpes
+acuosos ahogan a enemigos.
+--- BLOCK [045] ---
+Espada larga de esponja de
+Ludroth real. Sus golpes
+acuosos ahogan a enemigos.
+--- BLOCK [046] ---
+Espada larga de esponja de
+Ludroth real. Sus golpes
+acuosos ahogan a enemigos.
+--- BLOCK [047] ---
+Espada larga de partes de
+Ludroth purpúreo. Gotea
+veneno letal de la punta.
+--- BLOCK [048] ---
+Espada larga de partes de
+Ludroth purpúreo. Gotea
+veneno letal de la punta.
+--- BLOCK [049] ---
+Espada larga de partes de
+Ludroth purpúreo. Gotea
+veneno letal de la punta.
+--- BLOCK [050] ---
+Espada larga de hueso. Fácil
+de empuñar y buen comienzo
+para mejoras en huesos.
+--- BLOCK [051] ---
+Espada larga de hueso. Fácil
+de empuñar y buen comienzo
+para mejoras en huesos.
+--- BLOCK [052] ---
+Espada larga de hueso.
+Su hoja pulida supera los
+materiales de donde viene.
+--- BLOCK [053] ---
+Espada larga con toxinas
+paralizantes que penetran
+las defensas.
+--- BLOCK [054] ---
+Espada larga con toxinas
+paralizantes que penetran
+las defensas.
+--- BLOCK [055] ---
+Espada larga paralizante,
+táctica que los orientales
+consideran impropia.
+--- BLOCK [056] ---
+Arma en forma de bastón de
+partes de Gobul. Con púas
+que paralizan a enemigos.
+--- BLOCK [057] ---
+Arma en forma de bastón de
+partes de Gobul. Con púas
+que paralizan a enemigos.
+--- BLOCK [058] ---
+Espada larga de apéndices de
+lomo de Uragaan. Sus puntas
+garantizan buenos ataques.
+--- BLOCK [059] ---
+Espada larga de apéndices de
+lomo de Uragaan. Sus puntas
+garantizan buenos ataques.
+--- BLOCK [060] ---
+Espada larga de dos hojas
+de Uragaan. Una ensarta la
+presa y la otra la remata.
+--- BLOCK [061] ---
+Espada larga de dos hojas de
+Uragaan acerado. Las hojas
+gritan con el enemigo.
+--- BLOCK [062] ---
+Espada larga de dos hojas de
+Uragaan acerado. Las hojas
+gritan con el enemigo.
+--- BLOCK [063] ---
+Hecha de partes de Rathian y
+Rathalos. Canaliza la
+tierra y el cielo.
+--- BLOCK [064] ---
+Hecha de partes de Rathian y
+Rathalos. Canaliza la
+tierra y el cielo.
+--- BLOCK [065] ---
+Tiene la sangre y el alma de
+dos wyverns. De la hoja le
+salen llamas escarlata.
+--- BLOCK [066] ---
+Espada larga con alma de
+Rathalos plateado y una
+espada wyvern. Carboniza.
+--- BLOCK [067] ---
+Bella Espada larga que
+brilla fríamente y oculta el
+calor en su interior. 
+--- BLOCK [068] ---
+Espada larga de wyverns
+gemelos. Sus coloridas hojas
+pueden partir el cielo.
+--- BLOCK [069] ---
+Espada larga de wyverns
+gemelos. Sus coloridas hojas
+pueden partir el cielo.
+--- BLOCK [070] ---
+Espada larga hecha de cuerno
+de Duramboros. Los cazadores
+recogen árboles y presas.
+--- BLOCK [071] ---
+Espada larga hecha de cuerno
+de Duramboros. Los cazadores
+recogen árboles y presas.
+--- BLOCK [072] ---
+Espada larga hecha de
+Duramboros. Corta armadura
+y carne como madera podrida.
+--- BLOCK [073] ---
+Espada larga de Duramboros
+herrumbroso. Sus golpes
+pueden acabar con el cosmos.
+--- BLOCK [074] ---
+Espada larga de Duramboros
+herrumbroso. Sus golpes
+pueden acabar con el cosmos.
+--- BLOCK [075] ---
+Espada larga hecha de
+Gigginox. Su hoja venenosa
+aguarda a sus víctimas.
+--- BLOCK [076] ---
+Espada larga hecha de
+Gigginox. Su hoja venenosa
+aguarda a sus víctimas.
+--- BLOCK [077] ---
+Espada larga conocida como
+la hoja venenosa. El enemigo
+pierde la vida dichoso.
+--- BLOCK [078] ---
+Espada larga exótica de
+Gigginox. Roba el último
+aliento de quien la mira.
+--- BLOCK [079] ---
+Espada larga exótica de
+Gigginox. Roba el último
+aliento de quien la mira.
+--- BLOCK [080] ---
+Espada larga con piel de
+Gigginox aterrador. Su luz
+se aferra cual sanguijuela.
+--- BLOCK [081] ---
+Espada larga con piel de
+Gigginox aterrador. Su luz
+se aferra cual sanguijuela.
+--- BLOCK [082] ---
+Espada larga carmesí de
+Gigginox aterrador. Su
+vórtice eléctrico mata.
+--- BLOCK [083] ---
+Espada larga carmesí de
+Gigginox aterrador. Su
+vórtice eléctrico mata.
+--- BLOCK [084] ---
+Refinada hoja de llama
+escarlata. El calor evapora
+la sangre enemiga.
+--- BLOCK [085] ---
+Refinada hoja de llama
+escarlata. El calor evapora
+la sangre enemiga.
+--- BLOCK [086] ---
+Refinada hoja de llama
+escarlata. El calor evapora
+la sangre enemiga.
+--- BLOCK [087] ---
+Espada larga gélida de
+brillo refinado. Esparce a
+los enemigos de un grito.
+--- BLOCK [088] ---
+Espada larga gélida de
+brillo refinado. Esparce a
+los enemigos de un grito.
+--- BLOCK [089] ---
+Espada larga gélida de
+brillo refinado. Esparce a
+los enemigos de un grito.
+--- BLOCK [090] ---
+Espada larga con el espíritu
+de lucha de Brachydios.
+Perfora y explota dentro.
+--- BLOCK [091] ---
+Espada larga con el espíritu
+de lucha de Brachydios.
+Perfora y explota dentro.
+--- BLOCK [092] ---
+Espada hecha de partes de
+Brachydios. Su hoja hace
+estallar a los enemigos.
+--- BLOCK [093] ---
+Espada hecha de partes de
+Brachydios. Su hoja hace
+estallar a los enemigos.
+--- BLOCK [094] ---
+Magistral hoja forjada en
+tierras lejanas, probada por
+muchos en fieros combates.
+--- BLOCK [095] ---
+Una de las "tres grandes
+hojas". Salta de la funda
+como un Sharq hambriento.
+--- BLOCK [096] ---
+Espada larga hecha de un
+arma extranjera por el mejor
+herrero de la aldea de Moga.
+--- BLOCK [097] ---
+Espada larga que encarna
+muerte. Puede hacer arder
+el mundo durante siete días.
+--- BLOCK [098] ---
+Espada larga que encarna
+muerte. Puede hacer arder
+el mundo durante siete días.
+--- BLOCK [099] ---
+Gran guadaña negra que
+recuerda las zarpas del
+Alatreon.
+--- BLOCK [100] ---
+Guadaña demoníaca que
+tienta a su portador para
+que actúe con maldad.
+--- BLOCK [101] ---
+Guadaña demoníaca que
+tienta a su portador para
+que actúe con maldad.
+--- BLOCK [102] ---
+Espada viviente hecha de
+carne y hueso de Deviljho;
+su embate es implacable.
+--- BLOCK [103] ---
+Hoja de la demencia.
+Nadie está libre de su
+sed de sangre.
+--- BLOCK [104] ---
+Hoja de la demencia.
+Nadie está libre de su
+sed de sangre.
+--- BLOCK [105] ---
+Espada larga del recuerdo de
+un wyvern que vivió hace
+mucho. Rápida como ninguna.
+--- BLOCK [106] ---
+Espada larga del recuerdo de
+un wyvern que vivió hace
+mucho. Rápida como ninguna.
+--- BLOCK [107] ---
+Espada larga del recuerdo de
+antiguos vientos y wyverns.
+Con ella vuelven al cielo.
+--- BLOCK [108] ---
+Espada larga atrayente de
+partes de Cortacuello. Se
+sufrió mucho para forjarla.
+--- BLOCK [109] ---
+Espada larga atrayente de
+partes de Cortacuello. Se
+sufrió mucho para forjarla.
+--- BLOCK [110] ---
+Espada larga de cuerpo de
+Cortacuello afilado. Forjada
+mediante antiguas técnicas.
+--- BLOCK [111] ---
+DUMMY
+--- BLOCK [112] ---
+DUMMY
+--- BLOCK [113] ---
+DUMMY
+--- BLOCK [114] ---
+DUMMY
+--- BLOCK [115] ---
+DUMMY
+--- BLOCK [116] ---
+Hoja oscura que late con la
+energía vital que emana del
+portador...
+--- BLOCK [117] ---
+Hoja oscura que late con la
+energía vital que emana del
+portador...
+--- BLOCK [118] ---
+Hoja del dios del trueno que
+emite brillo azul cuando la
+empuña un alma poderosa.
+--- BLOCK [119] ---

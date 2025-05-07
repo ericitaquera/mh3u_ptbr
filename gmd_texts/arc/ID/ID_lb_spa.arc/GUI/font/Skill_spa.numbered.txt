@@ -1,0 +1,678 @@
+﻿TMSG_SKILL
+--- BLOCK [001] ---
+TMSG_SKILL_UNKNOWN
+--- BLOCK [002] ---
+TMSG_CAT_SKILL_NAME
+--- BLOCK [003] ---
+(Sin habilidad.)
+--- BLOCK [004] ---
+Anula veneno
+--- BLOCK [005] ---
+Doble veneno
+--- BLOCK [006] ---
+Anula parálisis
+--- BLOCK [007] ---
+Doble parálisis
+--- BLOCK [008] ---
+Anula sueño
+--- BLOCK [009] ---
+Doble sueño
+--- BLOCK [010] ---
+Mitad aturdim.
+--- BLOCK [011] ---
+Anula aturdim.
+--- BLOCK [012] ---
+Doble aturdim.
+--- BLOCK [013] ---
+Anula Barr/Nieve
+--- BLOCK [014] ---
+Sigilo
+--- BLOCK [015] ---
+Provocación
+--- BLOCK [016] ---
+Salud +20
+--- BLOCK [017] ---
+Salud +50
+--- BLOCK [018] ---
+Salud -10
+--- BLOCK [019] ---
+Salud -30
+--- BLOCK [020] ---
+Vel. recup. +1
+--- BLOCK [021] ---
+Vel. recup. +2
+--- BLOCK [022] ---
+Vel. recup. -1
+--- BLOCK [023] ---
+Vel. recup. -2
+--- BLOCK [024] ---
+Filo de cuchilla
+--- BLOCK [025] ---
+Filo romo
+--- BLOCK [026] ---
+Afilado +1
+--- BLOCK [027] ---
+Ojo preciso
+--- BLOCK [028] ---
+Ojo crítico +1
+--- BLOCK [029] ---
+Ojo crítico +2
+--- BLOCK [030] ---
+Ojo crítico +3
+--- BLOCK [031] ---
+Ojo crítico -1
+--- BLOCK [032] ---
+Ojo crítico -2
+--- BLOCK [033] ---
+Ojo crítico -3
+--- BLOCK [034] ---
+Afilado rápido
+--- BLOCK [035] ---
+Afilado lento
+--- BLOCK [036] ---
+Guardia +1
+--- BLOCK [037] ---
+Guardia +2
+--- BLOCK [038] ---
+Guardia -1
+--- BLOCK [039] ---
+Invalid Message
+--- BLOCK [040] ---
+Guardia+
+--- BLOCK [041] ---
+Autoguard.
+--- BLOCK [042] ---
+Vel. recarga +1
+--- BLOCK [043] ---
+Vel. recarga +2
+--- BLOCK [044] ---
+Vel. recarga +3
+--- BLOCK [045] ---
+Vel. recarga -1
+--- BLOCK [046] ---
+Vel. recarga -2
+--- BLOCK [047] ---
+Vel. recarga -3
+--- BLOCK [048] ---
+Retroceso +1
+--- BLOCK [049] ---
+Retroceso +2
+--- BLOCK [050] ---
+Retroceso +3
+--- BLOCK [051] ---
+Retroceso -1
+--- BLOCK [052] ---
+Retroceso -2
+--- BLOCK [053] ---
+Retroceso -3
+--- BLOCK [054] ---
+Normal/rápida+
+--- BLOCK [055] ---
+Perforación+
+--- BLOCK [056] ---
+Perd./abanico+
+--- BLOCK [057] ---
+Usa normal
+--- BLOCK [058] ---
+Usa perfor. Nv1
+--- BLOCK [059] ---
+Usa perforador
+--- BLOCK [060] ---
+Usa perdigón Nv1
+--- BLOCK [061] ---
+Usa perdigón
+--- BLOCK [062] ---
+Usa explos. Nv1
+--- BLOCK [063] ---
+Usa explosivo
+--- BLOCK [064] ---
+Usa grupo Nv1
+--- BLOCK [065] ---
+Usa grupo
+--- BLOCK [066] ---
+Estado anorm. +1
+--- BLOCK [067] ---
+Estado anorm. +2
+--- BLOCK [068] ---
+Estado anorm. -1
+--- BLOCK [069] ---
+Elemental +1
+--- BLOCK [070] ---
+Elemental -1
+--- BLOCK [071] ---
+Bombardero
+--- BLOCK [072] ---
+Mitad Hambre
+--- BLOCK [073] ---
+Anula Hambre
+--- BLOCK [074] ---
+Aumenta Hambre
+--- BLOCK [075] ---
+Doble Hambre
+--- BLOCK [076] ---
+Glotón
+--- BLOCK [077] ---
+Carroñero
+--- BLOCK [078] ---
+Ataque +1
+--- BLOCK [079] ---
+Ataque +2
+--- BLOCK [080] ---
+Ataque +3
+--- BLOCK [081] ---
+Ataque -1
+--- BLOCK [082] ---
+Ataque -2
+--- BLOCK [083] ---
+Ataque -3
+--- BLOCK [084] ---
+Defensa +1
+--- BLOCK [085] ---
+Defensa +2
+--- BLOCK [086] ---
+Defensa +3
+--- BLOCK [087] ---
+Defensa -1
+--- BLOCK [088] ---
+Defensa -2
+--- BLOCK [089] ---
+Defensa -3
+--- BLOCK [090] ---
+Bendición divina
+--- BLOCK [091] ---
+Bend. demoníaca
+--- BLOCK [092] ---
+Tapones +1
+--- BLOCK [093] ---
+Tapones +2
+--- BLOCK [094] ---
+Antirrobo
+--- BLOCK [095] ---
+Efecto área +1
+--- BLOCK [096] ---
+Efecto área +2
+--- BLOCK [097] ---
+Exp. mochilero
+--- BLOCK [098] ---
+Invalid Message
+--- BLOCK [099] ---
+Res. fuego +15
+--- BLOCK [100] ---
+Res. fuego +20
+--- BLOCK [101] ---
+Invalid Message
+--- BLOCK [102] ---
+Res. fuego -20
+--- BLOCK [103] ---
+Invalid Message
+--- BLOCK [104] ---
+Invalid Message
+--- BLOCK [105] ---
+Res. agua +15
+--- BLOCK [106] ---
+Res. agua +20
+--- BLOCK [107] ---
+Invalid Message
+--- BLOCK [108] ---
+Res. agua -20
+--- BLOCK [109] ---
+Invalid Message
+--- BLOCK [110] ---
+Invalid Message
+--- BLOCK [111] ---
+Res. trueno +15
+--- BLOCK [112] ---
+Res. trueno +20
+--- BLOCK [113] ---
+Invalid Message
+--- BLOCK [114] ---
+Res. trueno -20
+--- BLOCK [115] ---
+Invalid Message
+--- BLOCK [116] ---
+Invalid Message
+--- BLOCK [117] ---
+Res. hielo +15
+--- BLOCK [118] ---
+Res. hielo +20
+--- BLOCK [119] ---
+Invalid Message
+--- BLOCK [120] ---
+Res. hielo -20
+--- BLOCK [121] ---
+Invalid Message
+--- BLOCK [122] ---
+Invalid Message
+--- BLOCK [123] ---
+Res. dragón +15
+--- BLOCK [124] ---
+Res. dragón +20
+--- BLOCK [125] ---
+Invalid Message
+--- BLOCK [126] ---
+Res. dragón -20
+--- BLOCK [127] ---
+Invalid Message
+--- BLOCK [128] ---
+Invalid Message
+--- BLOCK [129] ---
+Anula el calor
+--- BLOCK [130] ---
+Invalid Message
+--- BLOCK [131] ---
+Aumentar calor
+--- BLOCK [132] ---
+Invalid Message
+--- BLOCK [133] ---
+Anula el frío
+--- BLOCK [134] ---
+Invalid Message
+--- BLOCK [135] ---
+Aumentar frío
+--- BLOCK [136] ---
+Res. viento +1
+--- BLOCK [137] ---
+Res. viento +2
+--- BLOCK [138] ---
+Vista lejana
+--- BLOCK [139] ---
+Vista cercana
+--- BLOCK [140] ---
+Recogida +1
+--- BLOCK [141] ---
+Recogida +2
+--- BLOCK [142] ---
+Recogida -1
+--- BLOCK [143] ---
+Invalid Message
+--- BLOCK [144] ---
+Veloc. coleta
+--- BLOCK [145] ---
+Capricho +1
+--- BLOCK [146] ---
+Capricho +2
+--- BLOCK [147] ---
+Capricho -1
+--- BLOCK [148] ---
+Capricho -2
+--- BLOCK [149] ---
+Suerte +1
+--- BLOCK [150] ---
+Suerte +2
+--- BLOCK [151] ---
+Suerte -1
+--- BLOCK [152] ---
+Suerte -2
+--- BLOCK [153] ---
+Experto en pesca
+--- BLOCK [154] ---
+Detectar
+--- BLOCK [155] ---
+Autorrastreador
+--- BLOCK [156] ---
+Nvl recuperac. +1
+--- BLOCK [157] ---
+Nvl recuperac. -1
+--- BLOCK [158] ---
+Combinación +20%
+--- BLOCK [159] ---
+Combinación +25%
+--- BLOCK [160] ---
+Combinación +45%
+--- BLOCK [161] ---
+Combinación -10%
+--- BLOCK [162] ---
+Combinación -10%
+--- BLOCK [163] ---
+Combinación -20%
+--- BLOCK [164] ---
+Combinación+
+--- BLOCK [165] ---
+Evasión +1
+--- BLOCK [166] ---
+Evasión +2
+--- BLOCK [167] ---
+Evasión -1
+--- BLOCK [168] ---
+Adrenalina +1
+--- BLOCK [169] ---
+Adrenalina +2
+--- BLOCK [170] ---
+Agobiado
+--- BLOCK [171] ---
+Duración +1
+--- BLOCK [172] ---
+Duración -1
+--- BLOCK [173] ---
+Corredor +1
+--- BLOCK [174] ---
+Corredor -1
+--- BLOCK [175] ---
+Carga+
+--- BLOCK [176] ---
+Precisión +1
+--- BLOCK [177] ---
+Precisión +2
+--- BLOCK [178] ---
+Precisión -1
+--- BLOCK [179] ---
+Precisión -2
+--- BLOCK [180] ---
+Consumir +1
+--- BLOCK [181] ---
+Consumir +2
+--- BLOCK [182] ---
+Consumir -1
+--- BLOCK [183] ---
+Experto cortador
+--- BLOCK [184] ---
+Maestro cortador
+--- BLOCK [185] ---
+Res. temblor
+--- BLOCK [186] ---
+Experto barbacoa
+--- BLOCK [187] ---
+Dist. evasión
+--- BLOCK [188] ---
+Desenfund. esp.
+--- BLOCK [189] ---
+Trampero
+--- BLOCK [190] ---
+Constitución +1
+--- BLOCK [191] ---
+Constitución +2
+--- BLOCK [192] ---
+Constitución -1
+--- BLOCK [193] ---
+Constitución -2
+--- BLOCK [194] ---
+Maestro capturas
+--- BLOCK [195] ---
+Gurú de captura
+--- BLOCK [196] ---
+Foco
+--- BLOCK [197] ---
+Distracción
+--- BLOCK [198] ---
+Oxígeno eterno
+--- BLOCK [199] ---
+Poco aliento
+--- BLOCK [200] ---
+Res. corrien. +1
+--- BLOCK [201] ---
+Res. corrien. +2
+--- BLOCK [202] ---
+Nadador olímpico
+--- BLOCK [203] ---
+Estilo perrito
+--- BLOCK [204] ---
+Pena inmediata
+--- BLOCK [205] ---
+Antiplagas
+--- BLOCK [206] ---
+Despertar
+--- BLOCK [207] ---
+Fortalecer
+--- BLOCK [208] ---
+Disparo bonus
+--- BLOCK [209] ---
+Boñiguero
+--- BLOCK [210] ---
+Aura llama
+--- BLOCK [211] ---
+Antiséptico
+--- BLOCK [212] ---
++ veneno
+--- BLOCK [213] ---
++ paraliz.
+--- BLOCK [214] ---
++ sueño
+--- BLOCK [215] ---
++ energía
+--- BLOCK [216] ---
++ alcance
+--- BLOCK [217] ---
+Flautista
+--- BLOCK [218] ---
+Artillería +1
+--- BLOCK [219] ---
+Artillería +2
+--- BLOCK [220] ---
+Poder oculto +1
+--- BLOCK [221] ---
+Poder oculto +2
+--- BLOCK [222] ---
+Soldado
+--- BLOCK [223] ---
+Piel de hierro
+--- BLOCK [224] ---
+Ataque fuego +1
+--- BLOCK [225] ---
+Ataque fuego +2
+--- BLOCK [226] ---
+Ataque fuego -1
+--- BLOCK [227] ---
+Ataque agua +1
+--- BLOCK [228] ---
+Ataque agua +2
+--- BLOCK [229] ---
+Ataque agua -1
+--- BLOCK [230] ---
+Ataque trueno +1
+--- BLOCK [231] ---
+Ataque trueno +2
+--- BLOCK [232] ---
+Ataque trueno -1
+--- BLOCK [233] ---
+Ataque hielo +1
+--- BLOCK [234] ---
+Ataque hielo +2
+--- BLOCK [235] ---
+Ataque hielo -1
+--- BLOCK [236] ---
+Ataque dragón +1
+--- BLOCK [237] ---
+Ataque dragón +2
+--- BLOCK [238] ---
+Ataque dragón -1
+--- BLOCK [239] ---
+Usa cortador
+--- BLOCK [240] ---
++ fatiga
+--- BLOCK [241] ---
+Maza
+--- BLOCK [242] ---
+Destructor
+--- BLOCK [243] ---
+Boxeador
+--- BLOCK [244] ---
+Robarresistencia
+--- BLOCK [245] ---
+Vaina rápida
+--- BLOCK [246] ---
+Resis. recup. +1
+--- BLOCK [247] ---
+Resis. recup. -1
+--- BLOCK [248] ---
+Carnívoro
+--- BLOCK [249] ---
+Evasor
+--- BLOCK [250] ---
+Cazamiel
+--- BLOCK [251] ---
+Biólogo
+--- BLOCK [252] ---
+Espíritu +1
+--- BLOCK [253] ---
+Espíritu +2
+--- BLOCK [254] ---
+Ileso
+--- BLOCK [255] ---
+Invencible
+--- BLOCK [256] ---
+Branquias
+--- BLOCK [257] ---
+Tripas
+--- BLOCK [258] ---
+Punzante
+--- BLOCK [259] ---
+Pulso firme
+--- BLOCK [260] ---
+Bienestar
+--- BLOCK [261] ---
+Furia
+--- BLOCK [262] ---
+En equipo
+--- BLOCK [263] ---
+Liderazgo
+--- BLOCK [264] ---
+Invalid Message
+--- BLOCK [265] ---
+Buscamuletos
+--- BLOCK [266] ---
+Experto capturas
+--- BLOCK [267] ---
+Usa baba
+--- BLOCK [268] ---
++ baba
+--- BLOCK [269] ---
+Invalid Message
+--- BLOCK [270] ---
+(?)
+--- BLOCK [271] ---
+Invalid Message
+--- BLOCK [272] ---
+Invalid Message
+--- BLOCK [273] ---
+(Sin hab. Felyne)
+--- BLOCK [274] ---
+Cortador Felyne +2
+--- BLOCK [275] ---
+Cortador Felyne +1
+--- BLOCK [276] ---
+Médico Felyne
+--- BLOCK [277] ---
+Cinturón neg. Felyne
+--- BLOCK [278] ---
+Piro Felyne
+--- BLOCK [279] ---
+Especialista Felyne
+--- BLOCK [280] ---
+Defensor Felyne +2
+--- BLOCK [281] ---
+Defensor Felyne +1
+--- BLOCK [282] ---
+Cuerno Felyne
+--- BLOCK [283] ---
+Silvicultor Felyne
+--- BLOCK [284] ---
+Carisma Felyne
+--- BLOCK [285] ---
+Combinador Felyne +2
+--- BLOCK [286] ---
+Combinador Felyne +1
+--- BLOCK [287] ---
+Recogedor Felyne
+--- BLOCK [288] ---
+Puntería Felyne
+--- BLOCK [289] ---
+Gato ultra suerte
+--- BLOCK [290] ---
+Gato afortunado
+--- BLOCK [291] ---
+Heroicidad Felyne
+--- BLOCK [292] ---
+Deflector Felyne
+--- BLOCK [293] ---
+Huida Felyne
+--- BLOCK [294] ---
+Lanzador Felyne
+--- BLOCK [295] ---
+Coraje Felyne
+--- BLOCK [296] ---
+Supergato Felyne
+--- BLOCK [297] ---
+Gato fuerte Felyne
+--- BLOCK [298] ---
+Debilitador Felyne
+--- BLOCK [299] ---
+Explorador Felyne
+--- BLOCK [300] ---
+Cambio Felyne
+--- BLOCK [301] ---
+Elevador Felyne +2
+--- BLOCK [302] ---
+Elevador Felyne +1
+--- BLOCK [303] ---
+Temperamento Felyne
+--- BLOCK [304] ---
+Kickboxer Felyne
+--- BLOCK [305] ---
+Luchador Felyne
+--- BLOCK [306] ---
+Escalador Felyne +2
+--- BLOCK [307] ---
+Escalador Felyne +1
+--- BLOCK [308] ---
+Supercortador Felyne
+--- BLOCK [309] ---
+Aterrizador Felyne
+--- BLOCK [310] ---
+Gato sofisticado
+--- BLOCK [311] ---
+Excavador Felyne
+--- BLOCK [312] ---
+Gourmet Felyne
+--- BLOCK [313] ---
+Boxeador Felyne
+--- BLOCK [314] ---
+Gato suerte
+--- BLOCK [315] ---
+Explosión Felyne
+--- BLOCK [316] ---
+Bombardero Felyne
+--- BLOCK [317] ---
+Sangre fría Felyne
+--- BLOCK [318] ---
+Boñiguero Felyne
+--- BLOCK [319] ---
+Limpiador Felyne
+--- BLOCK [320] ---
+Andafuegos Felyne
+--- BLOCK [321] ---
+Deslizador Felyne
+--- BLOCK [322] ---
+Oráculo Felyne
+--- BLOCK [323] ---
+Pulidor Felyne
+--- BLOCK [324] ---
+Acróbata Felyne
+--- BLOCK [325] ---
+Cambio juego Felyne
+--- BLOCK [326] ---
+Entrenador Felyne
+--- BLOCK [327] ---
+Potenciador Felyne
+--- BLOCK [328] ---
+Proveedor Felyne
+--- BLOCK [329] ---
+Insomne Felyne
+--- BLOCK [330] ---
+Equilibrador Felyne
+--- BLOCK [331] ---
+Pescador Felyne
+--- BLOCK [332] ---
+Encendedor Felyne
+--- BLOCK [333] ---
+Aguador Felyne
+--- BLOCK [334] ---
+Atrapatruenos Felyne
+--- BLOCK [335] ---
+Rompehielo Felyne
+--- BLOCK [336] ---
+Matadragones Felyne
+--- BLOCK [337] ---
+Nadador Felyne
+--- BLOCK [338] ---
+Gato desafortunado
+--- BLOCK [339] ---

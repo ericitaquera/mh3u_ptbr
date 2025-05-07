@@ -4,121 +4,121 @@ SUB
 --- BLOCK ---
 (Nada)
 --- BLOCK ---
-Bisoño
+Inexperiente
 --- BLOCK ---
-Inexperto
---- BLOCK ---
-Principiante
---- BLOCK ---
-Pipiolo
+Iniciante
 --- BLOCK ---
 Novato
 --- BLOCK ---
-Cazador
+Iniciante
+--- BLOCK ---
+Novato
+--- BLOCK ---
+Caçador
 --- BLOCK ---
 Pescador
 --- BLOCK ---
-Luchador
+Lutador
 --- BLOCK ---
-Sniper
+Atirador
 --- BLOCK ---
 Arma
 --- BLOCK ---
-Es. y Escudo
+Espada e Escudo
 --- BLOCK ---
 Espada
 --- BLOCK ---
-Gran Espada
+Grande Espada
 --- BLOCK ---
-Lanza
+Lança
 --- BLOCK ---
-Venablo
+Glaive
 --- BLOCK ---
-Martillo
+Martelo
 --- BLOCK ---
-Porra
+Maça
 --- BLOCK ---
-Cuchillo
+Faca
 --- BLOCK ---
-Espada Doble
+Espadas Gêmeas
 --- BLOCK ---
-Ball. Ligera
+Espada Leve
 --- BLOCK ---
-Ballesta
+Besta
 --- BLOCK ---
-Ball. Pesada
+Besta Pesada
 --- BLOCK ---
-Lanzador
+Lança-granadas
 --- BLOCK ---
 Katana
 --- BLOCK ---
-Espada Larga
+Espada Longa
 --- BLOCK ---
 Flecha
 --- BLOCK ---
 Arco
 --- BLOCK ---
-Lanza Pist.
+Lança-chamas
 --- BLOCK ---
-Artillería
+Artilharia
 --- BLOCK ---
-Música
+Músico
 --- BLOCK ---
 Flauta
 --- BLOCK ---
-Hacha
+Machado
 --- BLOCK ---
-Hacha Espada
+Machado Espada
 --- BLOCK ---
-Buscador
+Pesquisador
 --- BLOCK ---
-Reclutador
+Recrutador
 --- BLOCK ---
-Asistente
+Assistente
 --- BLOCK ---
-Valeroso
+Valente
 --- BLOCK ---
-Señor
+Senhor
 --- BLOCK ---
-Señora
+Senhora
 --- BLOCK ---
 Pastor
 --- BLOCK ---
 Soldado
 --- BLOCK ---
-Hombre
+Homem
 --- BLOCK ---
-Mujer
+Mulher
 --- BLOCK ---
-Hijo
+Filho
 --- BLOCK ---
-Hija
+Filha
 --- BLOCK ---
-Solitario
+Solitário
 --- BLOCK ---
-Adorable
+Adorável
 --- BLOCK ---
 Poogie
 --- BLOCK ---
-Extraño
+Estranho
 --- BLOCK ---
-Nervioso
+Nervoso
 --- BLOCK ---
-Emocionado
+Animado
 --- BLOCK ---
-Solo
+Sozinho
 --- BLOCK ---
-Doble
+Duplo
 --- BLOCK ---
-Triple
+Triplo
 --- BLOCK ---
-Fiesta
+Festa
 --- BLOCK ---
-Poción
+Poção
 --- BLOCK ---
-Miel
+Mel
 --- BLOCK ---
-Rojo
+Vermelho
 --- BLOCK ---
 Azul
 --- BLOCK ---
@@ -126,9 +126,9 @@ Verde
 --- BLOCK ---
 Tanzia
 --- BLOCK ---
-Prometedor
+Promissor
 --- BLOCK ---
-Haragán
+Preguiçoso
 --- BLOCK ---
 Inferior
 --- BLOCK ---
@@ -136,65 +136,65 @@ Ofensivo
 --- BLOCK ---
 Defensivo
 --- BLOCK ---
-Tri
+Triplo
 --- BLOCK ---
-Ganga
+Barganha
 --- BLOCK ---
-Guerrero
+Guerreiro
 --- BLOCK ---
-Arquero
+Arqueiro
 --- BLOCK ---
 Atacante
 --- BLOCK ---
-Cazabichos
+Caçador de Insetos
 --- BLOCK ---
-Granjero
+Fazendeiro
 --- BLOCK ---
-Buceador
+Mergulhador
 --- BLOCK ---
 Estudioso
 --- BLOCK ---
 Moderno
 --- BLOCK ---
-Gruñón
+Rabugento
 --- BLOCK ---
 Dama
 --- BLOCK ---
 Maternal
 --- BLOCK ---
-Panadero
+Padeiro
 --- BLOCK ---
-Profesor
+Professor
 --- BLOCK ---
-Gran Tirador
+Atirador Exímio
 --- BLOCK ---
-Bestia
+Besta
 --- BLOCK ---
-Libre
+Livre
 --- BLOCK ---
-Cobarde
+Covarde
 --- BLOCK ---
-Mascota
+Mascote
 --- BLOCK ---
-Bicho
+Criatura
 --- BLOCK ---
-Ganador
+Vencedor
 --- BLOCK ---
 Perdedor
 --- BLOCK ---
-Adicto
+Viciado
 --- BLOCK ---
-Pelele
+Fraco
 --- BLOCK ---
-Nómada
+Nômade
 --- BLOCK ---
 Habilidoso
 --- BLOCK ---
-Quemado
+Queimado
 --- BLOCK ---
-Callado
+Calado
 --- BLOCK ---
-Presumido
+Presunçoso
 --- BLOCK ---
 Shakalaka
 --- BLOCK ---
@@ -202,7 +202,7 @@ Cha-Cha
 --- BLOCK ---
 Kayamba
 --- BLOCK ---
-Secuaz
+Seguidor
 --- BLOCK ---
 Lacayo
 --- BLOCK ---
@@ -212,57 +212,57 @@ Líder
 --- BLOCK ---
 Cha-Chi
 --- BLOCK ---
-Élite
+Elite
 --- BLOCK ---
-Fanfarrón
+Fanfarrão
 --- BLOCK ---
-Tesoro
+Tesouro
 --- BLOCK ---
-Caminante
+Andarilho
 --- BLOCK ---
 Alquimista
 --- BLOCK ---
-Ladrón
+Ladrão
 --- BLOCK ---
-Rehén
+Refém
 --- BLOCK ---
-Minero
+Mineiro
 --- BLOCK ---
-Porteador
+Carregador
 --- BLOCK ---
-Guardián
+Guardião
 --- BLOCK ---
 Gladiador
 --- BLOCK ---
-Fénix
+Fênix
 --- BLOCK ---
-Rodeo
+Rodeio
 --- BLOCK ---
 Amado
 --- BLOCK ---
 Cliente
 --- BLOCK ---
-Paseante
+Passeador
 --- BLOCK ---
-Fenómeno
+Fenômeno
 --- BLOCK ---
-Prodigio
+Prodígio
 --- BLOCK ---
-Apasionado
+Apaixonado
 --- BLOCK ---
-Vanguardia
+Vanguarda
 --- BLOCK ---
 Amnésico
 --- BLOCK ---
-Guerra
+Guerreiro
 --- BLOCK ---
-Escribano
+Escriba
 --- BLOCK ---
-Seta
+Cogumelo
 --- BLOCK ---
-Pez Dorado
+Peixe Dourado
 --- BLOCK ---
-Confiado
+Confiante
 --- BLOCK ---
 Desviado
 --- BLOCK ---
@@ -272,117 +272,117 @@ Colega
 --- BLOCK ---
 Deslumbrado
 --- BLOCK ---
-Encaprichado
+Caprichoso
 --- BLOCK ---
 Amor
 --- BLOCK ---
 Errante
 --- BLOCK ---
-Poco Hecho
+Mal Passado
 --- BLOCK ---
-Al Punto
+No Ponto
 --- BLOCK ---
 De Segunda
 --- BLOCK ---
-Trabajador
+Trabalhador
 --- BLOCK ---
-Ruiseñor
+Rouxinol
 --- BLOCK ---
-Entomólogo
+Entomologista
 --- BLOCK ---
 Flautista
 --- BLOCK ---
-Pistolero
+Pistoleiro
 --- BLOCK ---
-Pesquero
+Pescador
 --- BLOCK ---
 Berserker
 --- BLOCK ---
-Mercenario
+Mercenário
 --- BLOCK ---
-Prototipo
+Protótipo
 --- BLOCK ---
 Veterano
 --- BLOCK ---
 Explorador
 --- BLOCK ---
-Asaltante
+Assaltante
 --- BLOCK ---
 Espeleólogo
 --- BLOCK ---
-Novia
+Namorada
 --- BLOCK ---
-Cabeza
+Cabeça
 --- BLOCK ---
-Cara
+Face
 --- BLOCK ---
-Pecho
+Peito
 --- BLOCK ---
-Torso
+Tronco
 --- BLOCK ---
-Brazos
+Braços
 --- BLOCK ---
-Manos
+Mãos
 --- BLOCK ---
 Cintura
 --- BLOCK ---
-Caderas
+Quadris
 --- BLOCK ---
-Piernas
+Pernas
 --- BLOCK ---
-Pies
+Pés
 --- BLOCK ---
 Armadura
 --- BLOCK ---
-Asesino
+Assassino
 --- BLOCK ---
-Espléndido
+Esplêndido
 --- BLOCK ---
 Quebrador
 --- BLOCK ---
-Montaraz
+Montanhês
 --- BLOCK ---
-Sable
+Sabre
 --- BLOCK ---
-Homicida
+Assassino
 --- BLOCK ---
-Valiente
+Valente
 --- BLOCK ---
-Pionero
+Pioneiro
 --- BLOCK ---
-Reconocido
+Reconhecido
 --- BLOCK ---
 Comando
 --- BLOCK ---
 Separador
 --- BLOCK ---
-Destello
+Brilho
 --- BLOCK ---
-Melodía
+Melodia
 --- BLOCK ---
-Cañón
+Canhão
 --- BLOCK ---
-Mutación
+Mutação
 --- BLOCK ---
-Giratorio
+Giratório
 --- BLOCK ---
 Frenético
 --- BLOCK ---
-Fiable
+Confiável
 --- BLOCK ---
-Aventurero
+Aventureiro
 --- BLOCK ---
 Meteoro
 --- BLOCK ---
-Diestro
+Hábil
 --- BLOCK ---
-Gobernante
+Governante
 --- BLOCK ---
 Ninja
 --- BLOCK ---
-Libertad
+Liberdade
 --- BLOCK ---
-Sueño
+Sonho
 --- BLOCK ---
 Altair
 --- BLOCK ---
@@ -392,101 +392,101 @@ Vega
 --- BLOCK ---
 Vagabundo
 --- BLOCK ---
-Hierro
+Ferro
 --- BLOCK ---
-Rompedor
+Destruidor
 --- BLOCK ---
-Samurái
+Samurai
 --- BLOCK ---
 Modelo
 --- BLOCK ---
-Viajero
+Viajante
 --- BLOCK ---
 Corte
 --- BLOCK ---
 Ala
 --- BLOCK ---
-Roto
+Quebrado
 --- BLOCK ---
 Todo
 --- BLOCK ---
 Armado
 --- BLOCK ---
-Anónimo
+Anônimo
 --- BLOCK ---
-Cola
+Cauda
 --- BLOCK ---
-Cortador
+Cortante
 --- BLOCK ---
 Agitador
 --- BLOCK ---
-Enfundado
+Envainado
 --- BLOCK ---
-Tirador
+Atirador
 --- BLOCK ---
-Recolector
+Colecionador
 --- BLOCK ---
-Coordinado
+Coordenado
 --- BLOCK ---
 Real
 --- BLOCK ---
 Maníaco
 --- BLOCK ---
-Millonario
+Milionário
 --- BLOCK ---
 Ídolo
 --- BLOCK ---
 Dedicado
 --- BLOCK ---
-Detallado
+Detalhado
 --- BLOCK ---
 Clemente
 --- BLOCK ---
-Implacable
+Implacável
 --- BLOCK ---
 Fogoso
 --- BLOCK ---
 Completo
 --- BLOCK ---
-Sabio
+Sábio
 --- BLOCK ---
-Perfecto
+Perfeito
 --- BLOCK ---
 Soberano
 --- BLOCK ---
-Artillero
+Artilheiro
 --- BLOCK ---
-Espadachín
+Espadachim
 --- BLOCK ---
-Sanguinario
+Sanguinário
 --- BLOCK ---
-Arriesgado
+Arriscado
 --- BLOCK ---
-Peso pesado
+Peso Pesado
 --- BLOCK ---
-Mecánico
+Mecânico
 --- BLOCK ---
-Verdugo
+Carrasco
 --- BLOCK ---
-Acaparador
+Acumulador
 --- BLOCK ---
-Leyenda
+Lenda
 --- BLOCK ---
-Campeón
+Campeão
 --- BLOCK ---
-Héroe
+Herói
 --- BLOCK ---
 Salvador
 --- BLOCK ---
-Compuesto
+Composto
 --- BLOCK ---
 Voraz
 --- BLOCK ---
-De primera
+De Primeira
 --- BLOCK ---
-Fortísimo
+Fortíssimo
 --- BLOCK ---
-Inigualable
+Inigualável
 --- BLOCK ---
 <COLO 2>Monstruo</COLO>
 --- BLOCK ---
@@ -494,51 +494,51 @@ Secreto
 --- BLOCK ---
 Oculto
 --- BLOCK ---
-Isla Desier.
+Ilha Deserta
 --- BLOCK ---
-Llanos Aren.
+Planícies Arenosas
 --- BLOCK ---
-Bosque Inun.
+Floresta Inundada
 --- BLOCK ---
 Tundra
 --- BLOCK ---
-Volcán
+Vulcão
 --- BLOCK ---
-Cumbres Bor.
+Cumes Boreais
 --- BLOCK ---
-Guía
+Guia
 --- BLOCK ---
 Investigador
 --- BLOCK ---
-Protector
+Protetor
 --- BLOCK ---
-Arcadia
+Arcádia
 --- BLOCK ---
 Mar
 --- BLOCK ---
-Compañero
+Companheiro
 --- BLOCK ---
 Defensor
 --- BLOCK ---
-Reconocedor
+Reconhecedor
 --- BLOCK ---
 Observador
 --- BLOCK ---
-Maestro
+Mestre
 --- BLOCK ---
 Portador
 --- BLOCK ---
 Comandante
 --- BLOCK ---
-Rescatador
+Resgatador
 --- BLOCK ---
-Gremio
+Guilda
 --- BLOCK ---
-Caballeroso
+Cavalheiresco
 --- BLOCK ---
-As
+Ás
 --- BLOCK ---
-Profesional
+Profissional
 --- BLOCK ---
 General
 --- BLOCK ---
@@ -550,61 +550,61 @@ Supremo
 --- BLOCK ---
 Importante
 --- BLOCK ---
-Gurú
+Guru
 --- BLOCK ---
 Curtido
 --- BLOCK ---
-Forzudo
+Forte
 --- BLOCK ---
-Instructor
+Instrutor
 --- BLOCK ---
 Jaggi
 --- BLOCK ---
-Superfluo
+Supérfluo
 --- BLOCK ---
 Alfa
 --- BLOCK ---
-Jefe
+Chefe
 --- BLOCK ---
 Baggi
 --- BLOCK ---
 Inteligente
 --- BLOCK ---
-Crestado
+Cristado
 --- BLOCK ---
-Soñoliento
+Sonolento
 --- BLOCK ---
 Wroggi
 --- BLOCK ---
 Astuto
 --- BLOCK ---
-Vaquero
+Vaqueiro
 --- BLOCK ---
-Neblinoso
+Nebuloso
 --- BLOCK ---
 Arzuros
 --- BLOCK ---
-Montaña
+Montanha
 --- BLOCK ---
-Oso
+Urso
 --- BLOCK ---
 Carne
 --- BLOCK ---
 Lagombi
 --- BLOCK ---
-Hielo
+Gelo
 --- BLOCK ---
-Planeador
+Planador
 --- BLOCK ---
-Conejo
+Coelho
 --- BLOCK ---
 Volvidon
 --- BLOCK ---
-Armadillo
+Tatu
 --- BLOCK ---
 Ronda
 --- BLOCK ---
-Lengua
+Língua
 --- BLOCK ---
 Qurupeco
 --- BLOCK ---
@@ -616,7 +616,7 @@ Exuberante
 --- BLOCK ---
 Bailarín
 --- BLOCK ---
-Carmesí
+Carmesim
 --- BLOCK ---
 Intenso
 --- BLOCK ---
@@ -624,11 +624,11 @@ Sacudidor
 --- BLOCK ---
 Ludroth Real
 --- BLOCK ---
-Lluvia
+Chuva
 --- BLOCK ---
 Esponjoso
 --- BLOCK ---
-Melena
+Juba
 --- BLOCK ---
 Púrpura
 --- BLOCK ---
@@ -636,115 +636,115 @@ Toxina
 --- BLOCK ---
 Aura
 --- BLOCK ---
-Humedad
+Umidade
 --- BLOCK ---
 Barroth
 --- BLOCK ---
-Corona
+Coroa
 --- BLOCK ---
 Embarrado
 --- BLOCK ---
-Fuerte
+Forte
 --- BLOCK ---
 Esmeralda
 --- BLOCK ---
 Iceberg
 --- BLOCK ---
-Helada
+Gelado
 --- BLOCK ---
-Destrozado
+Destroçado
 --- BLOCK ---
 Gobul
 --- BLOCK ---
-Bigote
+Bigode
 --- BLOCK ---
-Encubierto
+Encoberto
 --- BLOCK ---
 Acechador
 --- BLOCK ---
 Rathian
 --- BLOCK ---
-Tierra
+Terra
 --- BLOCK ---
 Elegante
 --- BLOCK ---
-Wyvernidad
+Wyvernidade
 --- BLOCK ---
 Rosa
 --- BLOCK ---
 Venenoso
 --- BLOCK ---
-Volador
+Voador
 --- BLOCK ---
-Reina
+Rainha
 --- BLOCK ---
-Hembra
+Fêmea
 --- BLOCK ---
-Dorado
+Dourado
 --- BLOCK ---
 Lúnula
 --- BLOCK ---
-Corazón
+Coração
 --- BLOCK ---
 Plesioth
 --- BLOCK ---
 Torrente
 --- BLOCK ---
-De aletas
+De barbatanas
 --- BLOCK ---
-Pez
+Peixe
 --- BLOCK ---
-Verdoso
+Esverdeado
 --- BLOCK ---
 Carga
 --- BLOCK ---
-Acuático
+Aquático
 --- BLOCK ---
 Piscine
 --- BLOCK ---
 Gigginox
 --- BLOCK ---
-Asombroso
+Surpreendente
 --- BLOCK ---
 Vampiro
 --- BLOCK ---
-Muerte
+Morte
 --- BLOCK ---
-Aterrador
+Aterrorizante
 --- BLOCK ---
-Espeluznante
+Arrepiante
 --- BLOCK ---
 Maldito
 --- BLOCK ---
-Eléctrico
+Elétrico
 --- BLOCK ---
 Barioth
 --- BLOCK ---
-Ventisca
+Ventania
 --- BLOCK ---
 Rápido
 --- BLOCK ---
 Congelante
 --- BLOCK ---
-Colmillo
+Presa
 --- BLOCK ---
-Arena
+Areia
 --- BLOCK ---
 Tornado
 --- BLOCK ---
-Centinela
+Sentinela
 --- BLOCK ---
 Nibelsnarf
 --- BLOCK ---
-Glotón
+Glutão
 --- BLOCK ---
 Mandíbula
 --- BLOCK ---
-Excavador
+Escavador
 --- BLOCK ---
 Duramboros
 --- BLOCK ---
-Azote
+Golpe
 --- BLOCK ---
 Gigante
 --- BLOCK ---
@@ -752,17 +752,17 @@ Musgoso
 --- BLOCK ---
 Tremendo
 --- BLOCK ---
-Herrumbre
+Ferrugem
 --- BLOCK ---
 Robusto
 --- BLOCK ---
-Leñador
+Lenhador
 --- BLOCK ---
 Diablos
 --- BLOCK ---
 Caótico
 --- BLOCK ---
-Desierto
+Deserto
 --- BLOCK ---
 Astado
 --- BLOCK ---
@@ -776,11 +776,11 @@ Catástrofe
 --- BLOCK ---
 Rathalos
 --- BLOCK ---
-Cielos
+Céus
 --- BLOCK ---
-Bola de fuego
+Bola de fogo
 --- BLOCK ---
-Rey
+Rei
 --- BLOCK ---
 Celeste
 --- BLOCK ---
@@ -788,11 +788,11 @@ Aéreo
 --- BLOCK ---
 Alma
 --- BLOCK ---
-Llama
+Chama
 --- BLOCK ---
 Macho
 --- BLOCK ---
-Plata
+Prata
 --- BLOCK ---
 Sol
 --- BLOCK ---
@@ -802,29 +802,29 @@ Uragaan
 --- BLOCK ---
 Lava
 --- BLOCK ---
-Rodador
+Rolador
 --- BLOCK ---
 Mineral
 --- BLOCK ---
-Acero
+Aço
 --- BLOCK ---
-Cavador
+Escavador
 --- BLOCK ---
-Bombardero
+Bombardeiro
 --- BLOCK ---
-Combustión
+Combustão
 --- BLOCK ---
 Agnaktor
 --- BLOCK ---
-Chispa
+Faísca
 --- BLOCK ---
-Abrasado
+Queimado
 --- BLOCK ---
 Magma
 --- BLOCK ---
-Gélido
+Gelado
 --- BLOCK ---
-Nieve
+Neve
 --- BLOCK ---
 Congelado
 --- BLOCK ---
@@ -832,25 +832,25 @@ Glacial
 --- BLOCK ---
 Nargacuga
 --- BLOCK ---
-Nocturno
+Noturno
 --- BLOCK ---
-Medianoche
+Meia-noite
 --- BLOCK ---
 Predador
 --- BLOCK ---
-Camuflaje
+Camuflagem
 --- BLOCK ---
-Bosque
+Floresta
 --- BLOCK ---
-Espinoso
+Espinhoso
 --- BLOCK ---
 Sombra
 --- BLOCK ---
-Invisible
+Invisível
 --- BLOCK ---
 Eclipse
 --- BLOCK ---
-Golpe mortal
+Golpe fatal
 --- BLOCK ---
 Lunar
 --- BLOCK ---
@@ -864,49 +864,49 @@ Explosivo
 --- BLOCK ---
 Lagiacrus
 --- BLOCK ---
-Remolino
+Redemoinho
 --- BLOCK ---
 Rival
 --- BLOCK ---
-Lord
+Senhor
 --- BLOCK ---
-Voltaje
+Voltagem
 --- BLOCK ---
 Condenado
 --- BLOCK ---
-Marfil
+Marfim
 --- BLOCK ---
-Electrochoque
+Eletrochoque
 --- BLOCK ---
-Tinieblas
+Trevas
 --- BLOCK ---
 Abismal
 --- BLOCK ---
-Destructor
+Destruidor
 --- BLOCK ---
-Omega
+Ômega
 --- BLOCK ---
 Zinogre
 --- BLOCK ---
-Incomparable
+Incomparável
 --- BLOCK ---
 Lobo
 --- BLOCK ---
 Monarca
 --- BLOCK ---
-Inframundo
+Submundo
 --- BLOCK ---
-Estigio
+Estígio
 --- BLOCK ---
 Rebelde
 --- BLOCK ---
-Emperador
+Imperador
 --- BLOCK ---
 Deviljho
 --- BLOCK ---
 Demoníaco
 --- BLOCK ---
-Salvaje
+Selvagem
 --- BLOCK ---
 Devorador
 --- BLOCK ---
@@ -916,19 +916,19 @@ Terremoto
 --- BLOCK ---
 Abismos
 --- BLOCK ---
-Brillante
+Brilhante
 --- BLOCK ---
-Legendario
+Lendário
 --- BLOCK ---
 Sagrado
 --- BLOCK ---
 Divino
 --- BLOCK ---
-Barba dorada
+Barba dourada
 --- BLOCK ---
-Ruinas
+Ruínas
 --- BLOCK ---
-Majestuoso
+Majestoso
 --- BLOCK ---
 Jhen Mohran
 --- BLOCK ---
@@ -936,13 +936,13 @@ Disputa
 --- BLOCK ---
 Juggernaut
 --- BLOCK ---
-Prosperidad
+Prosperidade
 --- BLOCK ---
 Santificado
 --- BLOCK ---
 Místico
 --- BLOCK ---
-Roca
+Rocha
 --- BLOCK ---
 Cristal
 --- BLOCK ---
@@ -950,7 +950,7 @@ Alatreon
 --- BLOCK ---
 Malvado
 --- BLOCK ---
-Oscuridad
+Escuridão
 --- BLOCK ---
 Final
 --- BLOCK ---
@@ -958,9 +958,9 @@ Funesto
 --- BLOCK ---
 Averno
 --- BLOCK ---
-Creación
+Criação
 --- BLOCK ---
-Aniquilación
+Aniquilação
 --- BLOCK ---
 Precursor
 --- BLOCK ---
@@ -968,7 +968,7 @@ StreetPass
 --- BLOCK ---
 Kokoto
 --- BLOCK ---
-Jumbo
+Gigante
 --- BLOCK ---
 Minegarde
 --- BLOCK ---
@@ -988,13 +988,13 @@ Erudito
 --- BLOCK ---
 Graduado
 --- BLOCK ---
-Anciano
+Ancião
 --- BLOCK ---
-Fan
+Fã
 --- BLOCK ---
-Unidad
+Unidade
 --- BLOCK ---
-Apretado
+Apertado
 --- BLOCK ---
 MonHan
 --- BLOCK ---
@@ -1002,13 +1002,13 @@ VIP
 --- BLOCK ---
 Felyne
 --- BLOCK ---
-Fuego
+Fogo
 --- BLOCK ---
 Draco
 --- BLOCK ---
-Escarlata
+Escarlate
 --- BLOCK ---
-Valeroso
+Valente
 --- BLOCK ---
 Bullfango
 --- BLOCK ---
@@ -1028,11 +1028,11 @@ Eterno
 --- BLOCK ---
 Bebida
 --- BLOCK ---
-Huevo
+Ovo
 --- BLOCK ---
-Tarta
+Torta
 --- BLOCK ---
-Amigable
+Amigável
 --- BLOCK ---
 Cuidador
 --- BLOCK ---
@@ -1142,21 +1142,21 @@ Pirata
 --- BLOCK ---
 Bandido
 --- BLOCK ---
-Asustador
+Assustador
 --- BLOCK ---
-Herrero
+Ferreiro
 --- BLOCK ---
-Perfecto
+Perfeito
 --- BLOCK ---
 Garras
 --- BLOCK ---
 Ególatra
 --- BLOCK ---
-Fuerte
+Forte
 --- BLOCK ---
 Suave
 --- BLOCK ---
-Desconocido
+Desconhecido
 --- BLOCK ---
 Ilimitado
 --- BLOCK ---
@@ -1164,11 +1164,11 @@ Sargento
 --- BLOCK ---
 Cabo
 --- BLOCK ---
-Privado
+Soldado
 --- BLOCK ---
 Estratega
 --- BLOCK ---
-Luchador
+Lutador
 --- BLOCK ---
 Scherzando
 --- BLOCK ---
@@ -1176,37 +1176,37 @@ Molesto
 --- BLOCK ---
 Luz estelar
 --- BLOCK ---
-Barón
+Barão
 --- BLOCK ---
 Marginado
 --- BLOCK ---
 Raro
 --- BLOCK ---
-Dueño
+Dono
 --- BLOCK ---
-Perplejo
+Perplexo
 --- BLOCK ---
-Tonto
+Bobo
 --- BLOCK ---
-Impresionante
+Impressionante
 --- BLOCK ---
 Genial
 --- BLOCK ---
-Abrumado
+Sobrecarregado
 --- BLOCK ---
-Pesadilla
+Pesadelo
 --- BLOCK ---
-Pueblo
+Vila
 --- BLOCK ---
-Avanzado
+Avançado
 --- BLOCK ---
-Coloso
+Colosso
 --- BLOCK ---
-Entrenador
+Treinador
 --- BLOCK ---
-Asedio
+Cerco
 --- BLOCK ---
-Inspector
+Inspetor
 --- BLOCK ---
 Oficial
 --- BLOCK ---
@@ -1214,15 +1214,15 @@ Líder
 --- BLOCK ---
 Atacante
 --- BLOCK ---
-Combatiente
+Combatente
 --- BLOCK ---
-Trampero
+Armeiro
 --- BLOCK ---
-Productor
+Produtor
 --- BLOCK ---
-Humanitario
+Humanitário
 --- BLOCK ---
-Director
+Diretor
 --- BLOCK ---
 Capcom
 --- BLOCK ---
@@ -1242,81 +1242,81 @@ A
 --- BLOCK ---
 De
 --- BLOCK ---
-En
+Em
 --- BLOCK ---
-Sale
+Venda
 --- BLOCK ---
-Va
+Vai
 --- BLOCK ---
-En
+Em
 --- BLOCK ---
-Pero
+Mas
 --- BLOCK ---
-No
+Não
 --- BLOCK ---
-Aún
+Ainda
 --- BLOCK ---
-Mi
+Meu
 --- BLOCK ---
-Tu
+Seu
 --- BLOCK ---
-Casi
+Quase
 --- BLOCK ---
-Sube
+Subir
 --- BLOCK ---
-Hace
+Faz
 --- BLOCK ---
-Tras
+Após
 --- BLOCK ---
-Buen
+Bom
 --- BLOCK ---
 Este
 --- BLOCK ---
-Con
+Com
 --- BLOCK ---
-Tope
+Máximo
 --- BLOCK ---
-Bajo
+Mínimo
 --- BLOCK ---
-Vía
+Via
 --- BLOCK ---
 A
 --- BLOCK ---
-Más
+Mais
 --- BLOCK ---
 Para
 --- BLOCK ---
 Como
 --- BLOCK ---
-El
+O
 --- BLOCK ---
 Sabe
 --- BLOCK ---
-Con
+Com
 --- BLOCK ---
-Es
+É
 --- BLOCK ---
-Son
+São
 --- BLOCK ---
-Así
+Assim
 --- BLOCK ---
 Mega
 --- BLOCK ---
 Maxi
 --- BLOCK ---
-Fue
+Foi
 --- BLOCK ---
 Será
 --- BLOCK ---
-Guía
+Guia
 --- BLOCK ---
-Saca
+Retira
 --- BLOCK ---
-Sé
+Seja
 --- BLOCK ---
-Solo
+Sozinho
 --- BLOCK ---
-Más
+Mais
 --- BLOCK ---
 Mini
 --- BLOCK ---
@@ -1324,11 +1324,11 @@ Khan
 --- BLOCK ---
 Czar
 --- BLOCK ---
-Miss
+Senhorita
 --- BLOCK ---
-Duke
+Duque
 --- BLOCK ---
-Earl
+Conde
 --- BLOCK ---
 Von
 --- BLOCK ---

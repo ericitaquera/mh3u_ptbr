@@ -1,0 +1,388 @@
+﻿TMSG_LBG_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Ballesta ligera para presas
+pequeñas. Gran capacidad de
+disparos de perdigón Nv1.
+--- BLOCK ---
+Arma de disparos de perdigón
+Nv1 rápidos, eficaz contra
+monstruos pequeños.
+--- BLOCK ---
+Arma de disparos de perdigón
+Nv1 rápidos, eficaz contra
+monstruos pequeños.
+--- BLOCK ---
+Ballesta ligera de cazadores
+expertos. Sencilla, pero
+potente.
+--- BLOCK ---
+Ballesta ligera de cazadores
+expertos. Sencilla, pero
+potente.
+--- BLOCK ---
+Ballesta ligera de cazadores
+expertos. Sencilla, pero
+potente.
+--- BLOCK ---
+Ballesta ligera de concha de
+Barroth. Disparos potentes,
+pero con poca puntería.
+--- BLOCK ---
+Ballesta ligera de concha de
+Barroth. Disparos potentes,
+pero con poca puntería.
+--- BLOCK ---
+Ballesta ligera de concha de
+Barroth. Disparos potentes,
+pero con poca puntería.
+--- BLOCK ---
+Ballesta ligera como Barroth
+esmeralda. Un refrigerador
+permite mayor potencia.
+--- BLOCK ---
+Ballesta ligera como Barroth
+esmeralda. Un refrigerador
+permite mayor potencia.
+--- BLOCK ---
+Ballesta ligera como Barroth
+esmeralda. El cuerpo de
+hielo le da fuerza extrema.
+--- BLOCK ---
+Ballesta ligera como Barroth
+esmeralda. El cuerpo de
+hielo le da fuerza extrema.
+--- BLOCK ---
+Ballesta ligera de armadura
+de Brachydios. La baba tiene
+un brillo inquietante.
+--- BLOCK ---
+Ballesta ligera de armadura
+de Brachydios. La baba tiene
+un brillo inquietante.
+--- BLOCK ---
+Arma con el carácter
+explosivo de un Brachydios.
+Su luz insinúa gran poder.
+--- BLOCK ---
+Arma con el carácter
+explosivo de un Brachydios.
+Su luz insinúa gran poder.
+--- BLOCK ---
+Ballesta ligera de partes de
+Gran Jaggi. Diseñada contra
+monstruos grandes.
+--- BLOCK ---
+Ballesta ligera de partes de
+Gran Jaggi. Diseñada contra
+monstruos grandes.
+--- BLOCK ---
+Ballesta ligera de partes
+de Gran Jaggi. Calma a
+las presas hasta dormirlas.
+--- BLOCK ---
+Arma de las mejores partes
+de un Gran Jaggi. Como
+la bestia, aporrea enemigos.
+--- BLOCK ---
+Ballesta ligera de material
+esponjoso. Combina con
+disparos de agua.
+--- BLOCK ---
+Ballesta ligera de material
+esponjoso. Combina con
+disparos de agua.
+--- BLOCK ---
+Ballesta ligera de material
+esponjoso. Combina con
+disparos de agua.
+--- BLOCK ---
+Ballesta ligera para muchos
+tipos de munición. También
+realiza disparos de agua.
+--- BLOCK ---
+Ballesta ligera para muchos
+tipos de munición. También
+realiza disparos de agua.
+--- BLOCK ---
+Ballesta ligera para muchos
+tipos de munición. También
+realiza disparos de agua.
+--- BLOCK ---
+Ballesta versátil para
+varios tipos de munición.
+Útil en cualquier situación.
+--- BLOCK ---
+Ballesta ligera poderosa y 
+versátil. Tiene la fuerza
+de una fiera tormenta.
+--- BLOCK ---
+Ballesta ligera de partes de
+Gobul. El farol ayuda a
+apuntar con precisión.
+--- BLOCK ---
+Ballesta ligera de partes de
+Gobul. El farol ayuda a
+apuntar con precisión.
+--- BLOCK ---
+Ballesta ligera de partes de
+Gobul. El farol ayuda a
+apuntar con precisión.
+--- BLOCK ---
+Ballesta ligera de bestias
+de río. Con disparos
+paralizantes que aturden.
+--- BLOCK ---
+Ballesta ligera de bestias
+de río. Con disparos
+paralizantes que aturden.
+--- BLOCK ---
+Misteriosa arma explosiva de
+partes extrañas. Produce un
+raro chasquido al cargarla.
+--- BLOCK ---
+Misteriosa arma explosiva de
+partes extrañas. Produce un
+raro chasquido al cargarla.
+--- BLOCK ---
+Ballesta siniestra de partes
+de Gigginox. Saborea el
+cuerpo y alma de enemigos.
+--- BLOCK ---
+Ballesta ligera poseída por
+almas de muertos vivientes.
+Se lleva a los vivos.
+--- BLOCK ---
+Ballesta ligera poseída por
+almas de muertos vivientes.
+Se lleva a los vivos.
+--- BLOCK ---
+Arma de Gigginox aterrador
+con almas de muertos. Sus
+disparos son paralizantes.
+--- BLOCK ---
+Arma de Gigginox aterrador
+con almas de muertos. Sus
+disparos son paralizantes.
+--- BLOCK ---
+Arma de Gigginox aterrador
+con furia de muertos. Amargo
+final para los enemigos.
+--- BLOCK ---
+Arma de Gigginox aterrador
+con furia de muertos. Amargo
+final para los enemigos.
+--- BLOCK ---
+Ballesta blanca de partes de
+Barioth. Realiza rápidos
+disparos congelantes.
+--- BLOCK ---
+Ballesta blanca de partes de
+Barioth. Realiza rápidos
+disparos congelantes.
+--- BLOCK ---
+Ballesta con el poder de
+un Barioth. Sus balas de
+hielo producen ventiscas.
+--- BLOCK ---
+Ballesta ligera con el poder
+de una tormenta de arena.
+Inicia una era de hielo.
+--- BLOCK ---
+Ballesta ligera con el poder
+de una tormenta de arena.
+Inicia una era de hielo.
+--- BLOCK ---
+Ballesta ligera elegante de
+Rathian. Sus perdigones
+matan en nombre de la reina.
+--- BLOCK ---
+Ballesta ligera elegante de
+Rathian. Sus perdigones
+matan en nombre de la reina.
+--- BLOCK ---
+Ballesta ligera elegante de
+Rathian. Sus perdigones
+matan en nombre de la reina.
+--- BLOCK ---
+Ballesta ligera que
+concentra fuego en un solo
+punto. Pequeña, pero fuerte.
+--- BLOCK ---
+Ballesta ligera que
+concentra fuego en un solo
+punto. Pequeña, pero fuerte.
+--- BLOCK ---
+Ballesta brillante de wyvern
+rey. Los enemigos no tienen
+dónde esconderse.
+--- BLOCK ---
+Ballesta de ébano, negra
+como la noche. Dos cañones
+acechan en la oscuridad.
+--- BLOCK ---
+Ballesta doble que se pierde
+en la noche. Quien la ve
+encontrará la muerte.
+--- BLOCK ---
+Ballesta fuerte que rige
+el ocaso. Oye susurrar
+a los enemigos.
+--- BLOCK ---
+Ballesta fuerte que rige
+el ocaso. Oye susurrar
+a los enemigos.
+--- BLOCK ---
+Ballesta que alumbra con
+sus disparos. Roba la vida
+de caminantes nocturnos.
+--- BLOCK ---
+Ballesta ligera de partes de
+Lagiacrus. Con electricidad
+de alto voltaje.
+--- BLOCK ---
+Ballesta ligera de partes de
+Lagiacrus. Con electricidad
+de alto voltaje.
+--- BLOCK ---
+Ballesta ligera de partes de
+Lagiacrus. Con electricidad
+de alto voltaje.
+--- BLOCK ---
+Ballesta de un Lagiacrus
+marmóreo. Con disparos
+de trueno abrasadores.
+--- BLOCK ---
+Ballesta de un Lagiacrus
+marmóreo. Con disparos
+de trueno abrasadores.
+--- BLOCK ---
+Ballesta con disparos de
+llama que queman en
+nombre del rey del cielo.
+--- BLOCK ---
+Ballesta con disparos de
+llama que queman en
+nombre del rey del cielo.
+--- BLOCK ---
+Ballesta ligera con el poder
+de un Rathalos. Su cólera
+consume con un fuego atroz.
+--- BLOCK ---
+Ballesta con el alma de un
+Rathalos celeste. Hasta los
+dioses se postran ante ella.
+--- BLOCK ---
+Ballesta con el alma de un
+Rathalos celeste. Hasta los
+dioses se postran ante ella.
+--- BLOCK ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK ---
+Arma con furia de Lagiacrus
+del abismo. Sus disparos de
+trueno impactan cual rayo.
+--- BLOCK ---
+Ballesta que lanza rayos
+rojos. Su rugido invoca
+el infierno.
+--- BLOCK ---
+Ballesta de Duramboros.
+Sus disparos de fatiga Nv1
+debilitan la Resistencia.
+--- BLOCK ---
+Ballesta de Duramboros.
+Sus disparos de fatiga Nv1
+debilitan la Resistencia.
+--- BLOCK ---
+Ballesta que recuerda a un
+Duramboros. Lanza ataques
+fuertes como la bestia.
+--- BLOCK ---
+Ballesta con el poder de un
+Duramboros herrumbroso.
+Destruye cielo y tierra.
+--- BLOCK ---
+Ballesta con el poder de un
+Duramboros herrumbroso.
+Destruye cielo y tierra.
+--- BLOCK ---
+Ballesta aterradora que
+según cuentan fue creada
+en un oscuro taller.
+--- BLOCK ---
+Ballesta aterradora que
+según cuentan fue creada
+en un oscuro taller.
+--- BLOCK ---
+Ballesta ligera pulida con
+sangre de Deviljho. Te
+persigue hasta la tumba.
+--- BLOCK ---
+Ballesta ligera pulida con
+sangre de Deviljho. Te
+persigue hasta la tumba.
+--- BLOCK ---
+Ballesta ligera de diseño
+diferente al del Gremio.
+Excepcional rendimiento.
+--- BLOCK ---
+Ballesta ligera de diseño
+diferente al del Gremio.
+Excepcional rendimiento.
+--- BLOCK ---
+Ballesta de una tetera que
+contiene un Felyne. El Fuego
+rápido lo hace salir.
+--- BLOCK ---
+¿Ballesta o bastión de
+un Felyne? Deja Vid Felyne
+en el Gremio para pagarle.
+--- BLOCK ---
+¿Ballesta o bastión de
+un Felyne? Deja Vid Felyne
+en el Gremio para pagarle.
+--- BLOCK ---
+Ballesta misteriosa de
+la antigüedad. Diferente
+a todo lo del Gremio.
+--- BLOCK ---
+Ballesta misteriosa de
+la antigüedad. Diferente
+a todo lo del Gremio.
+--- BLOCK ---
+Ballesta misteriosa de
+la antigüedad. Diferente
+a todo lo del Gremio.
+--- BLOCK ---
+Ballesta de un souvenir de
+una aldea cercana a las
+Cumbres borrascosas.
+--- BLOCK ---
+Ballesta de un souvenir de
+una aldea cercana a las
+Cumbres borrascosas.
+--- BLOCK ---
+Ballesta ligera mejorada muy
+demandada. Increíble que se
+vendiera como baratija.
+--- BLOCK ---
+Arma que juzga a hombres y
+dioses. Un disparo lo sume
+todo en llamas y tinieblas.
+--- BLOCK ---

@@ -1,0 +1,412 @@
+﻿TMSG_PIPE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Una flauta grande de metal.
+Esta arma eleva el ánimo de
+quienes escuchan su sonido.
+--- BLOCK ---
+Gaita mejorada, hecha de
+un raro metal. Su agradable
+timbre infunde coraje.
+--- BLOCK ---
+Gaita mejorada, hecha de
+un raro metal. Su agradable
+timbre infunde coraje.
+--- BLOCK ---
+Una flauta compuesta por
+muchísimas partes. Difícil
+de usar, aunque lo vale.
+--- BLOCK ---
+Una flauta compuesta por
+muchísimas partes. Difícil
+de usar, aunque lo vale.
+--- BLOCK ---
+Una flauta compuesta por
+muchísimas partes. Difícil
+de usar, aunque lo vale.
+--- BLOCK ---
+Una flauta compuesta por
+muchísimas partes. Difícil
+de usar, aunque lo vale.
+--- BLOCK ---
+Una flauta con forma de
+guitarra y la ira de un
+monarca. Libra su espíritu.
+--- BLOCK ---
+Una flauta con forma de
+guitarra y la ira de un
+monarca. Libra su espíritu.
+--- BLOCK ---
+Una flauta con forma de
+guitarra y el odio de un
+monarca. Sacude la tierra.
+--- BLOCK ---
+Una flauta con forma de
+guitarra y el odio de un
+monarca. Sacude la tierra.
+--- BLOCK ---
+Una flauta negra de ébano.
+Inaudible para muchos, es
+una señal en el inframundo.
+--- BLOCK ---
+Una flauta negra de ébano.
+Inaudible para muchos, es
+una señal en el inframundo.
+--- BLOCK ---
+Arma brillante con alas
+relucientes. Perteneció
+a un astuto cazador.
+--- BLOCK ---
+Una flauta con una caja de
+voz de Qurupeco. Anima
+a los compañeros.
+--- BLOCK ---
+Una flauta con una caja de
+voz de Qurupeco. Anima
+a los compañeros.
+--- BLOCK ---
+Una flauta con una caja de
+voz de Qurupeco. Anima
+a los compañeros.
+--- BLOCK ---
+Una flauta con una caja de
+voz de Qurupeco. Anima
+hasta al más amargado.
+--- BLOCK ---
+Una flauta con una caja de
+voz de Qurupeco. Anima
+hasta al más amargado.
+--- BLOCK ---
+Una arma musical de diseño
+gremial. Sus tonos dirigen
+movimientos en plena caza.
+--- BLOCK ---
+Arma musical diseñada para
+matar wyverns. Pulveriza
+a los enemigos.
+--- BLOCK ---
+Arma musical diseñada para
+matar wyverns. Pulveriza
+a los enemigos.
+--- BLOCK ---
+Arma oriental que parece
+la corona de un Barroth.
+Su sonido es muy agradable.
+--- BLOCK ---
+Arma oriental que parece
+la corona de un Barroth.
+Su sonido es muy agradable.
+--- BLOCK ---
+Arma musical hecha de
+partes de Barroth. Su
+música es conmovedora.
+--- BLOCK ---
+Arma musical hecha de
+partes de Barroth. Su canto
+evoca grandes gestas.
+--- BLOCK ---
+Arma musical hecha de
+partes de Barroth. Su canto
+evoca grandes gestas.
+--- BLOCK ---
+Arma basada en la corona de
+un Barroth esmeralda. Su
+sonido hiela el corazón.
+--- BLOCK ---
+Arma basada en la corona de
+un Barroth esmeralda. Su
+sonido hiela el corazón.
+--- BLOCK ---
+Una flauta de partes buenas
+de Barroth esmeralda. Su
+aullido es gélido.
+--- BLOCK ---
+Una flauta de partes buenas
+de Barroth esmeralda. Su
+aullido es gélido.
+--- BLOCK ---
+Una flauta con puntas
+de Agnaktor. La usan
+las tribus de las montañas.
+--- BLOCK ---
+Una flauta carmesí que
+dispara notas y fuego
+infernal contra el enemigo.
+--- BLOCK ---
+Una flauta carmesí que
+dispara notas y fuego
+infernal contra el enemigo.
+--- BLOCK ---
+Una gran flauta de hueso.
+Eleva el espíritu y otorga
+poder a los que la oyen.
+--- BLOCK ---
+Una gran flauta de hueso.
+Eleva el espíritu y otorga
+poder a los que la oyen.
+--- BLOCK ---
+Flauta de gran rendimiento
+para principiantes. Una
+opción muy popular.
+--- BLOCK ---
+Flauta de gran rendimiento
+para principiantes. Una
+opción muy popular.
+--- BLOCK ---
+Arma musical de concha.
+Toca toda clase de
+canciones marineras.
+--- BLOCK ---
+Arma musical de concha.
+Toca toda clase de
+canciones marineras.
+--- BLOCK ---
+Arma musical de concha.
+Toca toda clase de
+canciones marineras.
+--- BLOCK ---
+Una flauta hecha de partes
+de Arzuros. Su dulce tono
+resuena en las montañas. 
+--- BLOCK ---
+Una flauta hecha de partes
+de Arzuros. Su dulce tono
+resuena en las montañas. 
+--- BLOCK ---
+Una flauta hecha de partes
+de Arzuros. Su dulce tono
+resuena en las montañas. 
+--- BLOCK ---
+Arma musical que frota
+colmillo de Barioth y metal
+en una terrible sinfonía.
+--- BLOCK ---
+Arma musical tradicional de
+las tribus de las nieves.
+Apela a los dioses níveos.
+--- BLOCK ---
+Arma musical tradicional de
+las tribus de las nieves.
+Apela a los dioses níveos.
+--- BLOCK ---
+Arma musical hecha de
+partes de Uragaan. Su
+tono puede cortar el acero.
+--- BLOCK ---
+Un arma musical que parece
+un Uragaan ígneo. Canta
+al renacer en el yermo.
+--- BLOCK ---
+Un arma musical que parece
+un Uragaan ígneo. Canta
+al renacer en el yermo.
+--- BLOCK ---
+Arma hecha de partes de
+Ludroth real esponjosas.
+Incorpora amplificador.
+--- BLOCK ---
+Arma hecha de partes de
+Ludroth real esponjosas.
+Incorpora amplificador.
+--- BLOCK ---
+Arma hecha de partes de
+Ludroth real esponjosas.
+Incorpora amplificador.
+--- BLOCK ---
+Arma con forma de ataúd,
+sellada con piel de 
+Gigginox. Terrorífica.
+--- BLOCK ---
+Arma con forma de ataúd,
+sellada con piel de 
+Gigginox. Terrorífica.
+--- BLOCK ---
+Arma con forma de ataúd,
+sellada con piel de 
+Gigginox. Enloquecedora.
+--- BLOCK ---
+Flauta sellada con piel de
+Gigginox aterrador. Su son
+odioso controla toda vida.
+--- BLOCK ---
+Flauta sellada con piel de
+Gigginox aterrador. Su son
+odioso controla toda vida.
+--- BLOCK ---
+Flauta sellada con piel de
+Gigginox aterrador. Su son
+odioso controla toda vida.
+--- BLOCK ---
+Arma musical hecha de
+partes de Rathian. Flauta
+y campana al tiempo.
+--- BLOCK ---
+Arma musical hecha de
+partes de Rathian. Flauta
+y campana al tiempo.
+--- BLOCK ---
+Arma musical con el nombre
+de la reina. Su sonido
+propicia la nueva vida.
+--- BLOCK ---
+Elegante arma musical.
+Su tono cristalino anuncia
+la llegada de la primavera.
+--- BLOCK ---
+Elegante arma musical.
+Su tono cristalino anuncia
+la llegada de la primavera.
+--- BLOCK ---
+Armonizador dorado de
+un antiguo rey que ofrecía
+su música a los dioses.
+--- BLOCK ---
+Armonizador dorado de
+un antiguo rey que ofrecía
+su música a los dioses.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Es capaz
+de crear músicas únicas.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Es capaz
+de crear músicas únicas.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Su sonido
+es frío como el hielo.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Su sonido
+es frío como el hielo.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Su sonido
+es frío como el hielo.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Al tañer sus
+cuerdas salta la chispa.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Al tañer sus
+cuerdas salta la chispa.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Al tañer sus
+cuerdas salta la chispa.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Contiene
+un agente paralizante.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Contiene
+un agente paralizante.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Contiene
+un agente paralizante.
+--- BLOCK ---
+Arma-chelo hecha con partes
+de Bnahabra. Contiene un
+agente paralizante.
+--- BLOCK ---
+Arma musical de concha de 
+Uragaan acerado. Su son
+es hermoso... y horrible.
+--- BLOCK ---
+Arma musical de concha de 
+Uragaan acerado. Su son
+es hermoso... y horrible.
+--- BLOCK ---
+Arma musical de concha de 
+Uragaan acerado. Su son
+es hermoso... y horrible.
+--- BLOCK ---
+Arma musical típica de las
+cazadoras. Su son femenino
+resuena en los campos.
+--- BLOCK ---
+Arma musical típica de las
+cazadoras. Su son femenino
+resuena en los campos.
+--- BLOCK ---
+Arma musical típica de las
+cazadoras. Su son femenino
+resuena en los campos.
+--- BLOCK ---
+Flauta ajada de potencial
+desconocido. Quizá podría
+restaurarse...
+--- BLOCK ---
+Flauta vieja de potencial
+desconocido. Quizá podría
+restaurarse...
+--- BLOCK ---
+Se dice que este artefacto
+musical decía el futuro.
+Renovado como arma.
+--- BLOCK ---
+Se dice que este artefacto
+musical decía el futuro.
+Renovado como arma.
+--- BLOCK ---
+Arma musical chic hecha
+de partes de Brachydios.
+Abate con su ritmo rocoso.
+--- BLOCK ---
+Arma musical chic hecha
+de partes de Brachydios.
+Abate con su ritmo rocoso.
+--- BLOCK ---
+Solemne arma musical para
+tocar un réquiem que acabe
+con toda la creación.
+--- BLOCK ---
+Solemne arma musical para
+tocar un réquiem que acabe
+con toda la creación.
+--- BLOCK ---
+Arma musical inspirada en
+un Lagiacrus. Su trueno
+convoca grandes tormentas.
+--- BLOCK ---
+Arma musical inspirada en
+un Lagiacrus. Su trueno
+convoca grandes tormentas.
+--- BLOCK ---
+Arma musical inspirada en
+un Lagiacrus. Su trueno
+convoca grandes tormentas.
+--- BLOCK ---
+Arma musical que recuerda a
+un Lagiacrus del abismo.
+Sus rayos hienden el cielo.
+--- BLOCK ---
+Arma musical que recuerda a
+un Lagiacrus del abismo.
+Sus rayos hienden el cielo.
+--- BLOCK ---
+Arma musical surgida de un
+Miralis funesto. Su sonido
+anuncia el fin de todo.
+--- BLOCK ---
+Arma musical surgida de un
+Miralis funesto. Su sonido
+anuncia el fin de todo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Flauta que calma la mente,
+pero tras tocarla el aire
+canta al son de los rayos.
+--- BLOCK ---
+Flauta que calma la mente,
+pero tras tocarla el aire
+canta al son de los rayos.
+--- BLOCK ---

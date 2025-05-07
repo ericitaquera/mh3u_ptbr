@@ -1,0 +1,196 @@
+﻿TMSG_LBG
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Ballesta cruzada
+--- BLOCK [003] ---
+Ballesta cruzada+
+--- BLOCK [004] ---
+Rayo cruzado
+--- BLOCK [005] ---
+Fusil de cazador
+--- BLOCK [006] ---
+Francotirador
+--- BLOCK [007] ---
+Ascensión tirador
+--- BLOCK [008] ---
+Cañón de barro
+--- BLOCK [009] ---
+Cañón de barro+
+--- BLOCK [010] ---
+Barrozuca
+--- BLOCK [011] ---
+Bengala de aurora
+--- BLOCK [012] ---
+Avalancha
+--- BLOCK [013] ---
+Glacialahti
+--- BLOCK [014] ---
+Cañón ártico
+--- BLOCK [015] ---
+Rayo Brach
+--- BLOCK [016] ---
+Rayo Brach+
+--- BLOCK [017] ---
+Pistola demoledora
+--- BLOCK [018] ---
+Balista demoledora
+--- BLOCK [019] ---
+Fuego Jaggido
+--- BLOCK [020] ---
+Fuego bandido
+--- BLOCK [021] ---
+Duria de bandido
+--- BLOCK [022] ---
+Rabia despiadada
+--- BLOCK [023] ---
+Lanzador real
+--- BLOCK [024] ---
+Torrente real
+--- BLOCK [025] ---
+Inundación real
+--- BLOCK [026] ---
+Maelstrom
+--- BLOCK [027] ---
+Maelstrom+
+--- BLOCK [028] ---
+Chaparrón Plesioth
+--- BLOCK [029] ---
+Tormenta de jade
+--- BLOCK [030] ---
+Tempestad de jade
+--- BLOCK [031] ---
+Tirador de Gobul
+--- BLOCK [032] ---
+Pejesapo carmesí
+--- BLOCK [033] ---
+Pejesapo carmesí+
+--- BLOCK [034] ---
+Pejesapo Zhen
+--- BLOCK [035] ---
+Ganador Gobul
+--- BLOCK [036] ---
+Punzadora venenosa
+--- BLOCK [037] ---
+Veneno rematador
+--- BLOCK [038] ---
+Grillete inmortal
+--- BLOCK [039] ---
+Celda inmortal
+--- BLOCK [040] ---
+Prisión inmortal
+--- BLOCK [041] ---
+Atador sangriento
+--- BLOCK [042] ---
+Buscador carmesí
+--- BLOCK [043] ---
+Acosador letal
+--- BLOCK [044] ---
+Espectro del pesar
+--- BLOCK [045] ---
+Cañón ventisca
+--- BLOCK [046] ---
+Volea de ventisca
+--- BLOCK [047] ---
+Tabula blizzara
+--- BLOCK [048] ---
+Escarcha de diamante
+--- BLOCK [049] ---
+Cresta de diamante
+--- BLOCK [050] ---
+Fuego de valkiria
+--- BLOCK [051] ---
+Llamarada valkiria
+--- BLOCK [052] ---
+Llama de valkiria
+--- BLOCK [053] ---
+Corazón de valkiria
+--- BLOCK [054] ---
+Verdurrosa
+--- BLOCK [055] ---
+Caos floral
+--- BLOCK [056] ---
+Ojo oculto
+--- BLOCK [057] ---
+Búho nocturno
+--- BLOCK [058] ---
+Oteador Virnar
+--- BLOCK [059] ---
+Halxón aullador
+--- BLOCK [060] ---
+Oteador del eclipse
+--- BLOCK [061] ---
+Truenacrus
+--- BLOCK [062] ---
+Truenacrus+
+--- BLOCK [063] ---
+Truenacrus Rex
+--- BLOCK [064] ---
+Truenacrus novo
+--- BLOCK [065] ---
+Rayiblanco Eclair
+--- BLOCK [066] ---
+Amerrathalladora
+--- BLOCK [067] ---
+Condenahalladora
+--- BLOCK [068] ---
+Hallafénix
+--- BLOCK [069] ---
+Surcacielos celeste
+--- BLOCK [070] ---
+Abrasador celeste
+--- BLOCK [071] ---
+Crimen del usurpador
+--- BLOCK [072] ---
+Llama del déspota
+--- BLOCK [073] ---
+Grieta del opresor
+--- BLOCK [074] ---
+Orcus Barqus
+--- BLOCK [075] ---
+Phloxion tenebroso
+--- BLOCK [076] ---
+Envidia estigia
+--- BLOCK [077] ---
+Durambarrel
+--- BLOCK [078] ---
+Taurambarrel
+--- BLOCK [079] ---
+Funestarma Aldebaran
+--- BLOCK [080] ---
+Cuerno de Taurus
+--- BLOCK [081] ---
+Corona de Taurus
+--- BLOCK [082] ---
+Sonrisa del diablo
+--- BLOCK [083] ---
+Locura del diablo
+--- BLOCK [084] ---
+Funescañón Dementia
+--- BLOCK [085] ---
+Morticañón Dementia
+--- BLOCK [086] ---
+Islote del demonio
+--- BLOCK [087] ---
+Isla del demonio
+--- BLOCK [088] ---
+Tetera
+--- BLOCK [089] ---
+Tetera de lujo
+--- BLOCK [090] ---
+Tetera maestra
+--- BLOCK [091] ---
+Islote de Dios
+--- BLOCK [092] ---
+Isla de Dios
+--- BLOCK [093] ---
+Archipiélago de Dios
+--- BLOCK [094] ---
+Tiro de calabaza
+--- BLOCK [095] ---
+Tiro de cardencha
+--- BLOCK [096] ---
+Tiro de calabacín
+--- BLOCK [097] ---
+Wiluminador
+--- BLOCK [098] ---

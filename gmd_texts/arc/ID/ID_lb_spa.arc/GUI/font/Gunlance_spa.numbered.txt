@@ -1,0 +1,240 @@
+﻿TMSG_GUNLANCE
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Lanza pistola hierro
+--- BLOCK [003] ---
+Lanza pist. hierro+
+--- BLOCK [004] ---
+Lanza pistola acero
+--- BLOCK [005] ---
+Lanza pistola ariete
+--- BLOCK [006] ---
+Lanza pist. defensor
+--- BLOCK [007] ---
+Guardalanza imperial
+--- BLOCK [008] ---
+Arbalanza general
+--- BLOCK [009] ---
+Arbalanza almirante
+--- BLOCK [010] ---
+Juralanza imperial
+--- BLOCK [011] ---
+Lanza pistola oculta
+--- BLOCK [012] ---
+Lanza pist. oculta+
+--- BLOCK [013] ---
+Noche mortecina
+--- BLOCK [014] ---
+Lanza pist. eclipse
+--- BLOCK [015] ---
+Asterismo de Alioth
+--- BLOCK [016] ---
+Lanza pistola Virnar
+--- BLOCK [017] ---
+Fin de la noche
+--- BLOCK [018] ---
+Grajo rojo
+--- BLOCK [019] ---
+Grajo rojo+
+--- BLOCK [020] ---
+Grajo carmesí
+--- BLOCK [021] ---
+Grajo de plata
+--- BLOCK [022] ---
+Lanza pistola carro
+--- BLOCK [023] ---
+Fin del mundo
+--- BLOCK [024] ---
+Giralanza antigua
+--- BLOCK [025] ---
+Girataque antiguo
+--- BLOCK [026] ---
+Progénesis
+--- BLOCK [027] ---
+Lanzatorm. tipo 62
+--- BLOCK [028] ---
+Lanzatormenta asalto
+--- BLOCK [029] ---
+Mariscal de guerra
+--- BLOCK [030] ---
+Destrozo
+--- BLOCK [031] ---
+As del destrozo
+--- BLOCK [032] ---
+Dios del destrozo
+--- BLOCK [033] ---
+Estallido de Lagia
+--- BLOCK [034] ---
+Estallido de Lagia+
+--- BLOCK [035] ---
+Lanza pist. Exlagia
+--- BLOCK [036] ---
+Estallido Lagia novo
+--- BLOCK [037] ---
+Rayiblanco Eutaxy
+--- BLOCK [038] ---
+Rayiblanco Eutaxy+
+--- BLOCK [039] ---
+Lanza pistola oscura
+--- BLOCK [040] ---
+Jugulus tenebroso
+--- BLOCK [041] ---
+Lanza pistola Brach
+--- BLOCK [042] ---
+Lanza pistola Brach+
+--- BLOCK [043] ---
+Lanza pist. demoled.
+--- BLOCK [044] ---
+Demoledor Zvolta
+--- BLOCK [045] ---
+Lagomberador
+--- BLOCK [046] ---
+Lagomberatrix
+--- BLOCK [047] ---
+Lagombalanche
+--- BLOCK [048] ---
+Lanzallamas
+--- BLOCK [049] ---
+Lanzallamas+
+--- BLOCK [050] ---
+Agna Magma
+--- BLOCK [051] ---
+Agna Vulcano
+--- BLOCK [052] ---
+Causta Agnavulcano
+--- BLOCK [053] ---
+Lanzaagua
+--- BLOCK [054] ---
+Agna Aqua
+--- BLOCK [055] ---
+Rheo Agnacorso
+--- BLOCK [056] ---
+Lanza pistola hueso
+--- BLOCK [057] ---
+Lanza pistola hueso+
+--- BLOCK [058] ---
+Lanza pistola wyvern
+--- BLOCK [059] ---
+Cargador Barroth
+--- BLOCK [060] ---
+Cargador Barroth+
+--- BLOCK [061] ---
+Cargador duro
+--- BLOCK [062] ---
+Roscabarro
+--- BLOCK [063] ---
+Roscarpa
+--- BLOCK [064] ---
+Vaskaclast
+--- BLOCK [065] ---
+Vaskaclast+
+--- BLOCK [066] ---
+Roscahorror
+--- BLOCK [067] ---
+Roscavalancha
+--- BLOCK [068] ---
+Lanza pist. Jaggida
+--- BLOCK [069] ---
+Lanza pist. Jaggida+
+--- BLOCK [070] ---
+Lanza pist. Huracán
+--- BLOCK [071] ---
+Panoplia princesa
+--- BLOCK [072] ---
+Panoplia princesa+
+--- BLOCK [073] ---
+Ortlinde
+--- BLOCK [074] ---
+Panoplia reina
+--- BLOCK [075] ---
+Ishtar brillante
+--- BLOCK [076] ---
+Rugido del usurpador
+--- BLOCK [077] ---
+Flogisto del déspota
+--- BLOCK [078] ---
+Lluvia del opresor
+--- BLOCK [079] ---
+Sangre de Brimstren
+--- BLOCK [080] ---
+Avaricia estigia
+--- BLOCK [081] ---
+Tipi Peco
+--- BLOCK [082] ---
+Tipi Peco+
+--- BLOCK [083] ---
+Tipi ensueño
+--- BLOCK [084] ---
+Pluma tonante
+--- BLOCK [085] ---
+Ave de trueno
+--- BLOCK [086] ---
+Arca tonante
+--- BLOCK [087] ---
+Pescador marino
+--- BLOCK [088] ---
+Pescador abisal
+--- BLOCK [089] ---
+Gigante azul
+--- BLOCK [090] ---
+Lanza pis. Leviathan
+--- BLOCK [091] ---
+Lanza pis. Diviathan
+--- BLOCK [092] ---
+Lanza pistola voraz
+--- BLOCK [093] ---
+Lza. pis. insaciable
+--- BLOCK [094] ---
+Avaricia de Nerón
+--- BLOCK [095] ---
+Rompecolmillos
+--- BLOCK [096] ---
+Caoscolmillo
+--- BLOCK [097] ---
+Jhen Mortalis
+--- BLOCK [098] ---
+Lanza pistola ajada
+--- BLOCK [099] ---
+Lanza pistola vieja
+--- BLOCK [100] ---
+Obelisco
+--- BLOCK [101] ---
+Obelisco Deus
+--- BLOCK [102] ---
+Forja de Megido
+--- BLOCK [103] ---
+Disasualidad
+--- BLOCK [104] ---
+Felyoshka
+--- BLOCK [105] ---
+Felyoshka+
+--- BLOCK [106] ---
+Feliz Felyoshka
+--- BLOCK [107] ---
+Maicera
+--- BLOCK [108] ---
+Maicera+
+--- BLOCK [109] ---
+Maicera poderosa
+--- BLOCK [110] ---
+DUMMY
+--- BLOCK [111] ---
+DUMMY
+--- BLOCK [112] ---
+DUMMY
+--- BLOCK [113] ---
+DUMMY
+--- BLOCK [114] ---
+DUMMY
+--- BLOCK [115] ---
+DUMMY
+--- BLOCK [116] ---
+Blasón de barón
+--- BLOCK [117] ---
+Blasón de marqués
+--- BLOCK [118] ---
+Blasón de duque
+--- BLOCK [119] ---
+Blasón de rayo
+--- BLOCK [120] ---

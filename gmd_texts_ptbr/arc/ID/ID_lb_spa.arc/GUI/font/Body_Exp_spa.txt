@@ -1,0 +1,1415 @@
+TMSG_BODY_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Armadura de peito feita
+de couro e materiais
+leves fáceis de obter.
+--- BLOCK ---
+Armadura de peito robusta
+de malha. Os caçadores
+confiam na sua proteção.
+--- BLOCK ---
+Armadura frequentemente usada no
+deserto. Para absorver suor
+e dissipar o calor.
+--- BLOCK ---
+Armadura de peito especial
+para caçadores. Equipamento comum
+usado por muitos.
+--- BLOCK ---
+Armadura de peito especial
+para caçadores. Famosa pelo
+protetor de garganta.
+--- BLOCK ---
+Armadura de peito feita
+de ossos de monstro.
+Com aromas da natureza.
+--- BLOCK ---
+Armadura de peito feita de
+ossos de monstro. Prática
+apesar de sua aparência.
+--- BLOCK ---
+Armadura de peito feita de
+Mineral machalita. Fabricada com
+lógica e sem ornamentos.
+--- BLOCK ---
+Armadura de peito feita
+de Mineral machalita. Com
+um design inteligente.
+--- BLOCK ---
+Armadura de peito feita de
+partes de Jaggi. Sua pele
+flexível oferece boa proteção.
+--- BLOCK ---
+Armadura de peito feita de
+partes de Jaggi. Sua pele
+espessa protege contra impactos.
+--- BLOCK ---
+Armadura de peito de inseto
+para um aristocrata com
+gostos peculiares. Bem ajustada.
+--- BLOCK ---
+Armadura de peito de
+inseto com design excêntrico
+para um aristocrata excêntrico.
+--- BLOCK ---
+Armadura de peito feita de
+materiais resistentes. Seu design mantém
+água e areia fora.
+--- BLOCK ---
+Armadura de peito usada
+inicialmente por mineiros. Agora,
+por operários da construção.
+--- BLOCK ---
+Armadura de peito colorida feita
+de partes de Qurupeco.
+Efetiva contra o fogo.
+--- BLOCK ---
+Armadura de peito com uma
+decoração chamativa e viva.
+Muito resistente ao fogo.
+--- BLOCK ---
+Armadura de peito com
+grande flexibilidade. Aumenta
+a habilidade atlética.
+--- BLOCK ---
+Armadura de peito com um
+toque úmido. Seu design é
+muito popular entre os jovens.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para peito feita de
+partes de Baggi. Criada para
+proteger e manter frescor.
+--- BLOCK ---
+Armadura para peito feita de
+partes de Baggi. Conhecida
+por seu toque fresco.
+--- BLOCK ---
+Armadura para peito criada para
+ser rígida e mais dura
+do que qualquer coisa.
+--- BLOCK ---
+Armadura de peito bastante forte
+para repelir disparos de
+canhão. Um baluarte móvel.
+--- BLOCK ---
+Armadura de peito histórica.
+Seu design confiável permanece
+intacto por séculos.
+--- BLOCK ---
+Armadura de peito com
+uma longa tradição. Usada
+em inúmeras guerras.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equipamento de cavaleiros
+estrangeiros que apenas
+alguns podem usar.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+estrangeiros que apenas
+alguns podem usar.
+--- BLOCK ---
+Armadura de peito usada por
+funcionárias do Gremio. Prova de
+que sabem se defender.
+--- BLOCK ---
+Armadura de peito usada
+por funcionárias do Gremio.
+Com um design encantador.
+--- BLOCK ---
+Armadura de peito que
+honra o nome da
+rainha, com escamas duríssimas.
+--- BLOCK ---
+Armadura de peito digna
+da rainha da terra.
+Imune às chamas.
+--- BLOCK ---
+Armadura de peito feita de
+partes de Gigginox. Assustadora, mas
+útil em noites de lua.
+--- BLOCK ---
+Armadura de peito sinistra
+com garras por cima.
+Se mistura na escuridão.
+--- BLOCK ---
+Feita de Mineral dragonita
+selecionado cuidadosamente. Seu brilho
+dourado é vistoso.
+--- BLOCK ---
+Feita de Mineral dragonita
+selecionado cuidadosamente. Com
+placas grossas confiáveis.
+--- BLOCK ---
+Armadura para peito com
+placas celestes e poder
+de repelir ataques.
+--- BLOCK ---
+Armadura de peito celeste
+que confere coragem.
+Resistente ao trovão.
+--- BLOCK ---
+Armadura de peito que carrega
+o legado do Rei
+dos Céus. Essencialmente perfeita.
+--- BLOCK ---
+Armadura do rei envolta em
+chamas que nem as
+do inferno poderiam apagar.
+--- BLOCK ---
+Armadura de peito feita com
+placas grossas de Barioth,
+montadas de forma compacta.
+--- BLOCK ---
+Armadura de peito feita
+com placas de Barioth.
+Não atrapalha os movimentos.
+--- BLOCK ---
+Armadura de peito com
+partes de Diablos. Seus
+gigantescos chifres assustam monstros.
+--- BLOCK ---
+Armadura de peito com
+partes de Diablos. Faz
+uso audacioso dos chifres.
+--- BLOCK ---
+Pesada armadura de peito com
+partes de Uragaan. Defesa incrível,
+mas difícil de manusear.
+--- BLOCK ---
+Pesada armadura de peito com
+partes de Uragaan. Difícil para
+ser usada por atiradores.
+--- BLOCK ---
+Armadura de peito feita de
+Agnaktor. Tão eficaz que pode
+resistir até mesmo ao magma.
+--- BLOCK ---
+Armadura de peito feita
+de Agnaktor. Com materiais
+que suportam lava quente.
+--- BLOCK ---
+Armadura de peito feita de
+Ceadeus onde se podem
+ouvir sussurros dos deuses.
+--- BLOCK ---
+Armadura de peito feita
+de Ceadeus. Tão temível
+que poderia ser divina.
+--- BLOCK ---
+Armadura de peito feita de
+Ceadeus onde se podem
+ouvir sussurros dos deuses.
+--- BLOCK ---
+Armadura de peito feita
+de Ceadeus. Tão temível
+que poderia ser divina.
+--- BLOCK ---
+Armadura de peito com
+uma estranha capa nas
+costas. Importada do exterior.
+--- BLOCK ---
+Armadura de peito inspirada
+em caçadores que caçam
+em terras estrangeiras.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Arzuros. Forte e
+leve, de design Yukumo.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Arzuros. Fusão de
+estilos Yukumo e oriental.
+--- BLOCK ---
+Armadura de peito com
+pele macia de Lagombi.
+Seu toque é maravilhoso.
+--- BLOCK ---
+Armadura de peito exótica
+feita com pele de
+Lagombi adaptado à tundra.
+--- BLOCK ---
+Armadura de peito com
+casco de Volvidon. A
+área carnuda absorve impactos.
+--- BLOCK ---
+Armadura de peito do
+país do fogo. Simboliza
+seu fogo sagrado.
+--- BLOCK ---
+Protótipo de armadura de
+peito exoesquelética. Forte
+na defesa, aparentemente.
+--- BLOCK ---
+Armadura de peito exoesquelética
+melhorada. Eficiente, embora
+possa ser melhorada.
+--- BLOCK ---
+Armadura de peito pesada,
+forte e lenta. Vestir
+já é um desafio.
+--- BLOCK ---
+Armadura de peito com camadas
+de casco de Duramboros. Apenas
+para os mais fortes.
+--- BLOCK ---
+Armadura de peito comum
+em Yukumo. Oferece mais
+velocidade do que proteção.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de peito feita
+de couro. Fácil de
+usar, mas muito protetora.
+--- BLOCK ---
+Armadura de peito feita de
+couro durável. Fácil de
+usar e altamente protetora.
+--- BLOCK ---
+Armadura de peito robusta feita
+de malha. Já salvou a
+vida de muitos caçadores.
+--- BLOCK ---
+Armadura de peito feita
+de malha. Extremamente forte,
+mas leve e flexível.
+--- BLOCK ---
+Armadura de peito para o
+deserto. Usá-la fará o
+calor do sol desaparecer.
+--- BLOCK ---
+Armadura de peito especial
+resistente ao calor.
+--- BLOCK ---
+Armadura de peito usada por
+caçadores de elite. Equipamento
+de qualidade para especialistas.
+--- BLOCK ---
+Armadura de peito usada por
+caçadores de elite. Possui um
+grande protetor de garganta.
+--- BLOCK ---
+Armadura de peito feita
+de ossos de monstro.
+Com aromas da natureza.
+--- BLOCK ---
+Armadura de peito feita de
+ossos de qualidade. Prática
+apesar de sua aparência.
+--- BLOCK ---
+Armadura de peito feita
+de um mineral raro.
+Versão melhorada do original.
+--- BLOCK ---
+Armadura de peito feita
+de um mineral raro.
+Projetada para dispersar impactos.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Jaggi. Sua pele
+flexível oferece boa proteção.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Jaggi. Sua pele
+espessa protege contra impactos.
+--- BLOCK ---
+Armadura de peito de inseto
+para um aristocrata com
+gostos peculiares. Bem ajustada.
+--- BLOCK ---
+Armadura de peito de
+inseto com design peculiar
+para um aristocrata excêntrico.
+--- BLOCK ---
+Armadura de peito feita de
+materiais robustos. Seu design mantém
+água e areia longe.
+--- BLOCK ---
+Armadura de peito inicialmente
+usada por mineiros. Agora
+por trabalhadores da construção.
+--- BLOCK ---
+Armadura de peito feita
+de peles de Slagtoth.
+Resistente à água.
+--- BLOCK ---
+Armadura de peito impermeável
+feita de peles
+tratadas de Slagtoth.
+--- BLOCK ---
+Armadura de peito colorida feita
+com partes de Qurupeco.
+Efetiva contra o fogo.
+--- BLOCK ---
+Armadura de peito com
+decoração chamativa e vibrante.
+Altamente resistente ao fogo.
+--- BLOCK ---
+Luxuosa armadura de peito feita
+com partes de Qurupeco.
+Eficiente contra o fogo.
+--- BLOCK ---
+Armadura de peito
+com design vibrante
+inspirado nos deuses.
+--- BLOCK ---
+Armadura de peito com
+grande flexibilidade. Aumenta
+a habilidade atlética.
+--- BLOCK ---
+Armadura de peito com toque
+úmido. Seu design é muito
+popular entre os jovens.
+--- BLOCK ---
+Armadura de peito altamente flexível.
+Possui bolsas de ar
+para aliviar o peso.
+--- BLOCK ---
+Armadura de peito com toque
+úmido. Seu design é muito
+popular entre os jovens.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de peito de Baggi.
+Melhorada com o uso
+de um mineral raro.
+--- BLOCK ---
+Armadura de peito de
+Baggi. Várias camadas de
+pele protegem o corpo.
+--- BLOCK ---
+Armadura de peito com
+uma capa estranha nas
+costas. Importada do exterior.
+--- BLOCK ---
+Armadura de peito inspirada
+em caçadores que caçam
+em terras estrangeiras.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Arzuros. Forte e
+leve, de design Yukumo.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Arzuros. Fusão de
+estilos Yukumo e oriental.
+--- BLOCK ---
+Armadura de peito com
+pele macia de Lagombi.
+Seu toque é maravilhoso.
+--- BLOCK ---
+Armadura de peito exótica
+feita com pele de
+Lagombi adaptado à tundra.
+--- BLOCK ---
+Armadura de peito com
+casco de Volvidon. A
+área carnuda absorve impactos.
+--- BLOCK ---
+Armadura de peito do
+país do fogo. Simboliza
+seu fogo sagrado.
+--- BLOCK ---
+Armadura de peito criada para
+ser rígida e mais dura
+do que qualquer outra coisa.
+--- BLOCK ---
+Armadura de peito bastante forte
+para repelir disparos de
+canhão. Um baluarte móvel.
+--- BLOCK ---
+Armadura de peito criada para
+ser rígida e mais dura
+do que qualquer outra coisa.
+--- BLOCK ---
+Armadura de peito bastante forte
+para repelir disparos de
+canhão. Um baluarte móvel.
+--- BLOCK ---
+Armadura de peito histórica.
+Seu design confiável permaneceu
+intacto por séculos.
+--- BLOCK ---
+Armadura de peito com
+uma longa tradição. Usada
+em inúmeras guerras.
+--- BLOCK ---
+Equipamento de cavaleiros
+estrangeiros que apenas
+alguns podem usar.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+estrangeiros que apenas
+alguns podem usar.
+--- BLOCK ---
+Armadura de peito usada por
+funcionárias do Gremio. Prova de
+que sabem se defender.
+--- BLOCK ---
+Armadura de peito usada
+por funcionárias do Gremio.
+Com design encantador.
+--- BLOCK ---
+Armadura de peito que
+honra o nome da
+rainha, com escamas impenetráveis.
+--- BLOCK ---
+Armadura de peito digna
+da rainha da terra.
+Imune às chamas.
+--- BLOCK ---
+Armadura de peito rosa que
+brilha como uma fogueira.
+Emana calor e força.
+--- BLOCK ---
+Armadura de peito rosa como
+pétalas. Aqueles que a
+apreciam acabam na sepultura.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Gigginox. Assustadora, mas
+útil em noites de lua.
+--- BLOCK ---
+Armadura de peito sinistra com
+garras por cima. Mistura-se
+na escuridão da noite.
+--- BLOCK ---
+Armadura de peito feita com
+partes de Gigginox. Assustadora, mas
+útil em noites de lua.
+--- BLOCK ---
+Armadura de peito escarlate
+com garras sinistras. Reflete
+apenas a escuridão.
+--- BLOCK ---
+Feita de Mineral baticita
+selecionado cuidadosamente. Seu brilho
+dourado é chamativo.
+--- BLOCK ---
+Feita de Mineral baticita
+selecionado cuidadosamente. De
+placas espessas confiáveis.
+--- BLOCK ---
+Armadura de peito feita
+de ossos negros desconhecidos.
+Antiga mas sem danos.
+--- BLOCK ---
+Armadura de peito feita
+de ossos negros desconhecidos.
+Seu dono finalmente desperta.
+--- BLOCK ---
+Armadura de peito comum
+em Yukumo. Oferece mais
+velocidade do que proteção.
+--- BLOCK ---
+Armadura de peito padrão
+em Yukumo. Flexível e
+adequada para caçar.
+--- BLOCK ---
+Armadura de peito feita com partes
+de inseto. Use-a sob o
+sol e se sentirá invencível!
+--- BLOCK ---
+Armadura de peito feita com
+partes de inseto. As antenas
+evocam uma capa heroica.
+--- BLOCK ---
+Armadura de peito de
+insetos. As asas abertas
+chamam a atenção.
+--- BLOCK ---
+Armadura de peito feita com
+partes de inseto. Como flores
+na área de caça.
+--- BLOCK ---
+Armadura de peito de
+abóboras estranhas. Quem a
+usa não teme nada.
+--- BLOCK ---
+Armadura de peito de
+abóboras. Facilita a respiração
+e o esforço.
+--- BLOCK ---
+Armadura de peito rígida,
+feita com um metal
+que impressionou os artesãos.
+--- BLOCK ---
+Armadura de peito feita com
+os restos de um
+artefato desenterrado muito danificado.
+--- BLOCK ---
+Armadura para peito com
+placas celestes e o
+poder de repelir ataques.
+--- BLOCK ---
+Armadura de peito celestial
+que confere coragem.
+Resistente ao trovão.
+--- BLOCK ---
+Armadura de peito feita com
+osso de Lagiacrus mármore.
+Resistente como um wyvern.
+--- BLOCK ---
+Armadura de peito feita com
+osso de Lagiacrus mármore.
+Sua superfície é abaulada.
+--- BLOCK ---
+Armadura de peito que carrega
+o legado do Rei dos
+Céus. Em essência perfeita.
+--- BLOCK ---
+Armadura do rei envolta em
+chamas que nem as
+do inferno poderiam deslustrar.
+--- BLOCK ---
+Armadura de peito
+imbuida de lápis-lazúli.
+Destinada à grandeza.
+--- BLOCK ---
+Armadura de peito de
+lápis-lazúli de grande poder.
+Supera qualquer outra.
+--- BLOCK ---
+Armadura de peito feita com
+placas grossas de Barioth,
+montadas de forma compacta.
+--- BLOCK ---
+Armadura de peito feita
+com placas de Barioth.
+Não atrapalha o movimento.
+--- BLOCK ---
+Armadura de peito com
+casca de Barioth arenoso.
+Grossa e compacta.
+--- BLOCK ---
+Armadura de peito com
+casca de Barioth arenoso.
+Grossa, mas flexível.
+--- BLOCK ---
+Armadura de peito com
+partes de Diablos. Seus
+dois chifres são aterrorizantes.
+--- BLOCK ---
+Armadura de peito com
+partes de Diablos. Use
+bem os dois chifres.
+--- BLOCK ---
+Armadura de peito com
+partes de Diablos. Seus
+dois chifres são aterrorizantes.
+--- BLOCK ---
+Armadura de peito com
+partes de Diablos. Use
+bem os dois chifres.
+--- BLOCK ---
+Armadura de peito pesada com
+partes de Uragaan. Defesa genial,
+mas difícil de manejar.
+--- BLOCK ---
+Armadura de peito pesada com
+partes de Uragaan. Dura para
+ser equipamento de Atirador.
+--- BLOCK ---
+Armadura de peito pesada
+com partes de Uragaan
+acerado. Resistente mas lenta.
+--- BLOCK ---
+Armadura de peito pesada
+com partes de Uragaan
+acerado. Para Atiradores.
+--- BLOCK ---
+Armadura de peito feita de
+Agnaktor. Tão eficaz quanto resistir
+até mesmo ao magma.
+--- BLOCK ---
+Armadura de peito feita
+de Agnaktor. Com materiais
+que suportam lava quente.
+--- BLOCK ---
+Armadura de peito com partes
+de Agnaktor glacial. Congela wyverns
+voadores só de olhar.
+--- BLOCK ---
+Armadura de peito com partes
+de Agnaktor glacial. Seu
+acabamento evoca a tundra.
+--- BLOCK ---
+Armadura negra banhada na fúria
+do Deviljho. Concede poder,
+mas também fome repentina.
+--- BLOCK ---
+Armadura de peito com
+o poder do Deviljho.
+Despedaça qualquer espada.
+--- BLOCK ---
+Armadura celeste famosa por
+levar seu portador à
+glória. A maior defesa.
+--- BLOCK ---
+Armadura celeste famosa por
+levar seu portador à
+glória em momentos caóticos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de um deus da
+guerra que sobreviveu no
+oriente. Leve e resistente.
+--- BLOCK ---
+Armadura de peito digna de
+ser lendária. Grossa mas
+leve e muito resistente.
+--- BLOCK ---
+Armadura de peito de Jhen
+Mohran feita com a
+técnica de mestres orientais.
+--- BLOCK ---
+Armadura de peito com
+a melhor técnica oriental.
+Design para Atiradores.
+--- BLOCK ---
+Armadura abismal atrapaluz. Qualquer um
+que toque suas escamas
+se partirá ao meio.
+--- BLOCK ---
+Armadura abismal atrapaluz. Desperta
+desejos de destruir qualquer
+um que a toque.
+--- BLOCK ---
+Armadura de peito como um
+raio encarnado. Seu dono
+luta como um demônio.
+--- BLOCK ---
+Armadura de peito como um
+raio de Zinogre. Sua
+capacidade não tem igual.
+--- BLOCK ---
+Protótipo de armadura de
+peito exoesquelética. Forte
+na defesa, parece.
+--- BLOCK ---
+Armadura de peito exoesquelética
+melhorada. Eficiente, embora
+possa ser aprimorada.
+--- BLOCK ---
+Armadura de peito pesada,
+forte e lenta. Vestir
+já é um desafio.
+--- BLOCK ---
+Armadura de peito com camadas
+de casca de Duramboros. Apenas
+para os mais fortes.
+--- BLOCK ---
+Armadura de peito como o
+corpo de Nargacuga, com
+belas e frágeis escamas.
+--- BLOCK ---
+Armadura de peito escura.
+Reflete qualquer luz como
+uma estrela cadente.
+--- BLOCK ---
+Armadura de peito com
+escamas de Plesioth. Ajusta-se
+e absorve impactos.
+--- BLOCK ---
+Armadura de peito com
+barbatanas unidas a partes
+de Plesioth. Que colar!
+--- BLOCK ---
+Armadura de peito com
+a força do Brachydios.
+Contém uma faísca viva.
+--- BLOCK ---
+Armadura de peito com
+a força do Brachydios.
+Absorve quase tudo.
+--- BLOCK ---
+Armadura de peito para
+empregados. Todas as garotas
+sonham em usá-la.
+--- BLOCK ---
+Armadura de peito para
+funcionárias. Muitos se encantam
+com seu design.
+--- BLOCK ---
+Equipamento para soldado oficial
+de Loc Lac. Leve,
+mas oferece ampla proteção.
+--- BLOCK ---
+Equipamento para arqueiro oficial de
+Loc Lac. Designado para
+proteger vida e corpo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de peito de
+Pedra de Fogo seleta.
+Tem um brilho suave.
+--- BLOCK ---
+Armadura de peito de Pedra
+de Fogo seleta. Suas
+placas grossas são confiáveis.
+--- BLOCK ---
+Armadura de peito de inseto
+para um aristocrata com
+gostos excêntricos. Bem ajustada.
+--- BLOCK ---
+Armadura de peito de
+inseto com design raro
+para um aristocrata excêntrico.
+--- BLOCK ---
+Armadura de peito feita de
+materiais resistentes. Seu design mantém
+fora água e areia.
+--- BLOCK ---
+Armadura de peito usada
+por mineiros inicialmente. Agora,
+por trabalhadores da construção.
+--- BLOCK ---
+Armadura de peito impermeável
+feita de peles
+tratadas de Slagtoth.
+--- BLOCK ---
+Armadura de peito feita
+de peles de Slagtoth.
+Resistente à água.
+--- BLOCK ---
+Armadura de peito feita de
+partes de Jaggi. Sua pele
+flexível oferece boa proteção.
+--- BLOCK ---
+Armadura de peito feita de
+partes de Jaggi. Sua pele
+grossa protege contra impactos.
+--- BLOCK ---
+Armadura para peito feita de
+partes de Baggi. Criada para
+proteger e manter frescor.
+--- BLOCK ---
+Armadura para peito de
+Baggi. Várias camadas de
+pele protegem o corpo.
+--- BLOCK ---
+Armadura de peito com
+estranha capa nas costas.
+Importada do exterior.
+--- BLOCK ---
+Armadura de peito inspirada
+em caçadores que caçam
+em terras estrangeiras.
+--- BLOCK ---
+Armadura de peito de partes
+de Arzuros. Forte e
+leve, com design Yukumo.
+--- BLOCK ---
+Armadura de peito de partes
+de Arzuros. Fusão de
+estilos Yukumo e oriental.
+--- BLOCK ---
+Armadura de peito com
+pele suave de Lagombi.
+Seu toque é maravilhoso.
+--- BLOCK ---
+Armadura de peito exótica
+de pele de Lagombi
+aclimatado à tundra.
+--- BLOCK ---
+Armadura de peito com
+casca de Volvidon. A
+região carnuda absorve impactos.
+--- BLOCK ---
+Armadura de peito do
+país do fogo. Simboliza
+seu fogo sagrado.
+--- BLOCK ---
+Armadura de peito de
+partes de Qurupeco. Todos
+ficam hipnotizados ao vê-la.
+--- BLOCK ---
+Armadura de peito de partes
+de Qurupeco. Sua resistência
+ao fogo é enorme.
+--- BLOCK ---
+Armadura de peito de
+partes de Qurupeco carmesim.
+Todos ficam admirando.
+--- BLOCK ---
+Armadura de peito de
+partes de Qurupeco carmesim.
+Muito resistente ao trovão.
+--- BLOCK ---
+Armadura de peito de partes
+de Ludroth real. Repela
+os ataques mais fracos.
+--- BLOCK ---
+Armadura de peito de
+partes de Ludroth real.
+Confortável e segura.
+--- BLOCK ---
+Armadura de peito de partes
+de Ludroth purpúreo. Repela
+os ataques mais fracos.
+--- BLOCK ---
+Armadura de peito de
+partes de Ludroth purpúreo.
+Confortável e segura.
+--- BLOCK ---
+Armadura de peito de
+placa de Barroth. Levam
+meses para dar forma.
+--- BLOCK ---
+Armadura de peito de placa
+de Barroth. Nem a cauda
+de um wyvern voador arranha.
+--- BLOCK ---
+Armadura de peito de
+placa de Barroth esmeralda.
+Levam meses para criar.
+--- BLOCK ---
+Armadura de peito de placa
+de Barroth esmeralda. Nem
+um wyvern voador arranha.
+--- BLOCK ---
+Armadura de peito de pele
+de Gobul. Permite escapar rapidamente
+em caso de perigo.
+--- BLOCK ---
+Armadura de peito de
+pele de Gobul.
+Hidrofóbica e impermeável.
+--- BLOCK ---
+Armadura de peito de casca
+de Rathalos. Ri do
+fogo e do trovão.
+--- BLOCK ---
+Armadura de peito criada
+com as escamas de
+Rathalos mais duras.
+--- BLOCK ---
+Armadura de peito de
+Rathalos celeste. Ri do
+fogo e do trovão.
+--- BLOCK ---
+Armadura de peito criada
+com as escamas de
+Rathalos celeste mais duras.
+--- BLOCK ---
+Armadura de peito que brilha
+como uma chama. Seu
+calor protege contra ataques.
+--- BLOCK ---
+Armadura de Rathalos que
+arde como uma chama.
+Sua proteção é imensa.
+--- BLOCK ---
+Armadura de peito de
+partes de Rathian. Protege
+os caçadores do fogo.
+--- BLOCK ---
+Armadura de peito de partes
+de Rathian. Seu poder ígneo
+lança um ataque mortal.
+--- BLOCK ---
+Armadura de peito de partes
+de Rathian rosa. Concede
+o poder do fogo.
+--- BLOCK ---
+Armadura de peito de partes
+de Rathian rosa. Seu poder
+transforma um furacão em brisa.
+--- BLOCK ---
+Armadura de peito da rainha
+que dança na lua. Nada
+apaga sua cor dourada.
+--- BLOCK ---
+Este dom da lua dourada
+guarda um poder tremendo. As
+chamas não o afetam.
+--- BLOCK ---
+Armadura de peito de osso
+de Lagiacrus. Tem a
+força de um wyvern.
+--- BLOCK ---
+Armadura de peito de
+osso de Lagiacrus. Sua
+superfície é abobadada.
+--- BLOCK ---
+Armadura de peito de
+osso de Lagiacrus marmóreo.
+Resistente como um wyvern.
+--- BLOCK ---
+Armadura de peito de
+osso de Lagiacrus marmóreo.
+Sua superfície é abobadada.
+--- BLOCK ---
+Armadura de peito de
+Lagiacrus do abismo. Sua
+fúria é avassaladora.
+--- BLOCK ---
+Armadura de peito de
+Lagiacrus do abismo. Contra
+seres do mar.
+--- BLOCK ---
+Armadura de peito de
+Gigginox que antigamente
+expulsava almas indignas.
+--- BLOCK ---
+Armadura de peito de Gigginox
+que protege contra os
+elementos, como o raio.
+--- BLOCK ---
+Armadura de peito de
+Gigginox aterrorizante que
+expulsava almas indignas.
+--- BLOCK ---
+Armadura de peito de
+Gigginox aterrorizante que
+protege contra elementos.
+--- BLOCK ---
+Armadura de peito de partes
+de Barioth. Resiste ao poder
+de um grande glaciar.
+--- BLOCK ---
+Armadura de peito de
+partes de Barioth. Exala
+um ar de refinamento.
+--- BLOCK ---
+Armadura de peito de partes
+de Barioth arenoso. Resiste
+ao calor mais abrasador.
+--- BLOCK ---
+Armadura de peito de partes
+de Barioth arenoso. Exala
+um ar de refinamento.
+--- BLOCK ---
+Armadura de peito de concha
+de Diablos. Seu poder reduz
+quase tudo a cinzas.
+--- BLOCK ---
+Armadura de peito de concha
+de Diablos. Grande proteção no
+combate corpo a corpo.
+--- BLOCK ---
+Armadura de peito de concha
+de Diablos negra. Reduz
+quase tudo a cinzas.
+--- BLOCK ---
+Armadura de peito de concha
+de Diablos negra. Grande
+proteção corpo a corpo.
+--- BLOCK ---
+Armadura de peito de
+concha rochosa de Uragaan.
+Suporta tempestades elétricas.
+--- BLOCK ---
+Armadura de peito de concha
+rochosa de Uragaan. Forma
+robusta e curvas elegantes.
+--- BLOCK ---
+Armadura de peito de
+concha rochosa de Uragaan
+acerado. Suporta tempestades.
+--- BLOCK ---
+Armadura de peito de
+concha rochosa de Uragaan
+acerado. Robusta e elegante.
+--- BLOCK ---
+Armadura de peito de Agnaktor
+de lava. A lava será
+como um banho quente.
+--- BLOCK ---
+Armadura de peito de
+Agnaktor de lava. Lembra
+um deus flamejante.
+--- BLOCK ---
+Armadura de peito de
+Agnaktor de gelo. Ignora
+os danos pelo frio.
+--- BLOCK ---
+Armadura de peito de
+Agnaktor de gelo. Lembra
+um deus da geada.
+--- BLOCK ---
+Armadura de peito de pele de
+Ceadeus divino. Repeli água e
+gelo, e resiste à pressão.
+--- BLOCK ---
+Armadura de peito criada
+endurecendo peça por peça
+de Ceadeus divino.
+--- BLOCK ---
+Armadura de peito de
+Ceadeus barba dourada.
+Protege da pressão.
+--- BLOCK ---
+Armadura de peito de
+Ceadeus barba dourada.
+Uma sólida proteção.
+--- BLOCK ---
+Audaz armadura de peito
+de concha de gigante
+das profundezas. Muito impactante.
+--- BLOCK ---
+Modesta armadura de peito
+de concha de gigante
+das profundezas. Grande defesa.
+--- BLOCK ---
+Armadura de peito de
+Ceadeus barba dourada. Protege
+da pressão da água.
+--- BLOCK ---
+Armadura de peito de
+Ceadeus barba dourada. Suas
+camadas conferem sólida proteção.
+--- BLOCK ---
+Armadura de peito de partes
+de Jhen Mohran. Seu estilo
+destaca os matadores de dragões.
+--- BLOCK ---
+Armadura de peito de partes
+de Jhen Mohran. Resiste à
+chama de um wyvern voador.
+--- BLOCK ---
+Armadura de peito de partes
+de Jhen Mohran. Contém a
+alma de uma bela guerreira.
+--- BLOCK ---
+Armadura de peito de partes
+de Jhen Mohran. Suas curvas
+são fortes e bonitas.
+--- BLOCK ---
+Armadura de peito de
+Jhen Mohran sagrado. Resiste
+aos golpes mais fortes.
+--- BLOCK ---
+Armadura de peito de
+Jhen Mohran sagrado. Reverenciada
+como símbolo protetor.
+--- BLOCK ---
+Armadura de peito de
+Jhen Mohran sagrado. Resiste
+aos golpes mais fortes.
+--- BLOCK ---
+Armadura de peito de
+Jhen Mohran sagrado. Reverenciada
+como símbolo protetor.
+--- BLOCK ---
+Armadura de peito imbuida com
+a raiva de um
+Deviljho. Concede poder selvagem.
+--- BLOCK ---
+Armadura de peito com a
+voracidade de um Deviljho, e
+com seu poder feroz.
+--- BLOCK ---
+Armadura de peito de
+partes de Alatreon. Equipamento
+místico com poder elemental.
+--- BLOCK ---
+Armadura de peito de partes
+de Alatreon. Contém o poder
+de um dragão ancião.
+--- BLOCK ---
+Armadura de peito de concha
+elétrica de Zinogre. Ganha
+o poder do trovão.
+--- BLOCK ---
+Armadura de peito de concha
+elétrica de Zinogre. A
+pele crepita de energia.
+--- BLOCK ---
+Armadura de peito de
+Zinogre estígio. Protege
+de dragões anciões.
+--- BLOCK ---
+Armadura de peito de
+Zinogre estígio. Está coberta
+de garras raras.
+--- BLOCK ---
+Modelo melhorado de armadura
+de peito exoesquelética
+melhorada. Muito flexível.
+--- BLOCK ---
+Modelo melhorado de armadura
+de peito exoesquelética, resiste
+a dragões anciões.
+--- BLOCK ---
+Armadura de peito do melhor
+chifre de Duramboros. Boa
+proteção para o caçador.
+--- BLOCK ---
+Armadura de peito de
+chifre de Duramboros. Protege
+das armas mais potentes.
+--- BLOCK ---
+Armadura de peito
+de Duramboros ferrugento.
+Endurecida nas areias.
+--- BLOCK ---
+Armadura de peito de
+Duramboros ferrugento. Sua
+cor é carmesim.
+--- BLOCK ---
+Armadura de peito como o
+corpo de Nargacuga, de
+belas e frágeis escamas.
+--- BLOCK ---
+Armadura de peito escura.
+Reflete qualquer luz como
+uma estrela cadente.
+--- BLOCK ---
+Armadura de peito como
+o corpo de Nargacuga
+verdejante. De belas escamas.
+--- BLOCK ---
+Armadura de peito escura.
+Reflete qualquer luz como
+uma estrela cadente.
+--- BLOCK ---
+Armadura de peito de
+Nargacuga lunar. Leve mas
+forte como aço.
+--- BLOCK ---
+Armadura de peito de Nargacuga
+lunar. Tão leve que
+você se esquece dela.
+--- BLOCK ---
+Armadura de peito de
+escamas de Plesioth. Se
+ajusta e absorve impactos.
+--- BLOCK ---
+Armadura de peito de
+barbatanas unidas a partes
+de Plesioth. Que colar!
+--- BLOCK ---
+Armadura de peito de
+escamas de Plesioth. Se
+ajusta e absorve impactos.
+--- BLOCK ---
+Armadura de peito de
+barbatanas unidas a partes
+de Plesioth. Que colar!
+--- BLOCK ---
+Armadura de peito com
+a força do Brachydios.
+Contém uma faísca viva.
+--- BLOCK ---
+Armadura de peito com
+a força do Brachydios.
+Absorve quase tudo.
+--- BLOCK ---
+Armadura de peito do assassino
+de Miralis funesto, senhor do
+inferno e da calamidade.
+--- BLOCK ---
+Armadura de peito do assassino
+de Miralis funesto, senhor do
+inferno e da calamidade.
+--- BLOCK ---
+Armadura celestial famosa por
+levar seu portador à
+glória. A maior defesa.
+--- BLOCK ---
+Armadura celestial famosa por
+levar seu portador à
+glória em momentos caóticos.
+--- BLOCK ---
+Armadura de peito feita de
+ossos negros desconhecidos. Antiga
+mas sem se deteriorar.
+--- BLOCK ---
+Armadura de peito feita
+de ossos negros desconhecidos.
+Seu dono finalmente desperta.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de peito de partes
+de inseto. Use-a sob o
+sol e parecerá invencível!
+--- BLOCK ---
+Armadura de peito de partes
+de inseto. As antenas
+evocam uma capa heroica.
+--- BLOCK ---
+Armadura de peito de
+insetos. As asas abertas
+chamam a atenção.
+--- BLOCK ---
+Armadura de peito de partes
+de inseto. Como flores
+na área de caça.
+--- BLOCK ---
+Armadura de peito de
+abóboras. Quem a usa
+não teme nada.
+--- BLOCK ---
+Armadura de peito de
+abóboras. Facilita a respiração
+e o esforço.
+--- BLOCK ---
+Armadura de peito rígida,
+feita com um metal
+que impressionou os artesãos.
+--- BLOCK ---
+Armadura de peito feita com
+os restos de um
+artefato desenterrado muito danificado.
+--- BLOCK ---
+Armadura de peito para
+funcionárias. Todas as garotas
+sonham em usá-la.
+--- BLOCK ---
+Armadura de peito para
+funcionárias. Muitos se obsesionam
+com seu design.
+--- BLOCK ---
+Equipamento oficial de rastreador
+Loc Lac. É leve,
+mas oferece boa proteção.
+--- BLOCK ---
+Equipamento oficial de atirador
+Loc Lac. Foi projetada
+para proteger os membros.
+--- BLOCK ---
+Equipamento de cavaleiros
+estrangeiros que apenas
+alguns podem usar.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+estrangeiros que apenas
+alguns podem usar.
+--- BLOCK ---
+Armadura do peito usada por
+funcionárias da Guilda. Prova de
+que sabem se defender.
+--- BLOCK ---
+Armadura do peito usada
+por funcionárias da Guilda.
+De design encantador.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura do peito de
+funcionária da Guilda de
+Tanzia com lenço.
+--- BLOCK ---
+Armadura do peito de
+funcionária da Guilda de
+Tanzia com botões.
+--- BLOCK ---
+Colar pertencente a um
+sábio com poderes.
+Possui inúmeros usos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+O crânio de corvo simboliza
+a dedicação de um
+caçador à sua arte.
+--- BLOCK ---
+O crânio de corvo simboliza
+a dedicação de um
+caçador à sua arte.
+--- BLOCK ---

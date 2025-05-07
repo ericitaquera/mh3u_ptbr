@@ -1,0 +1,238 @@
+TMSG_LSWORD2
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Katana de ferro
+--- BLOCK ---
+Graça de ferro
+--- BLOCK ---
+Evangelho de ferro
+--- BLOCK ---
+Mata-cadeia
+--- BLOCK ---
+Rumbalaro
+--- BLOCK ---
+Serra trovão
+--- BLOCK ---
+Cortador usurpador
+--- BLOCK ---
+Parte-raio déspota
+--- BLOCK ---
+Lei do opressor
+--- BLOCK ---
+Katana sombria
+--- BLOCK ---
+Dilemnidade sombria
+--- BLOCK ---
+Gula estígia
+--- BLOCK ---
+Fio da borda
+--- BLOCK ---
+Flor da borda
+--- BLOCK ---
+Bordado e traição
+--- BLOCK ---
+Gelo de Edel
+--- BLOCK ---
+Lâmina oculta
+--- BLOCK ---
+Lâmina oculta+
+--- BLOCK ---
+Noite profunda
+--- BLOCK ---
+Lâmina do eclipse
+--- BLOCK ---
+Asterismo de Megrez
+--- BLOCK ---
+Lâmina de Virnar
+--- BLOCK ---
+Fendas da meia-noite
+--- BLOCK ---
+Espada Wroggi
+--- BLOCK ---
+Bocado noturnossombra
+--- BLOCK ---
+Bocado beladona
+--- BLOCK ---
+Trovão
+--- BLOCK ---
+Trovão+
+--- BLOCK ---
+Trovão celeste
+--- BLOCK ---
+Estrelas cortantes
+--- BLOCK ---
+Grande ceifador
+--- BLOCK ---
+Salpicante Plesioth
+--- BLOCK ---
+Salpicante Plesioth+
+--- BLOCK ---
+Salpico verde
+--- BLOCK ---
+Salpico verde+
+--- BLOCK ---
+Vagalhão de jade
+--- BLOCK ---
+Naginata de Arzuros
+--- BLOCK ---
+Naginata de Arzuros+
+--- BLOCK ---
+Penugem de Arzuros
+--- BLOCK ---
+Guan Dao
+--- BLOCK ---
+Yan Yue Dao
+--- BLOCK ---
+Yi Duan
+--- BLOCK ---
+Cabo sufocante
+--- BLOCK ---
+Alabarda encharcante
+--- BLOCK ---
+Cachoeira
+--- BLOCK ---
+Glaive enfraquecedor
+--- BLOCK ---
+Glaive despachador
+--- BLOCK ---
+Glaive de fraqueza
+--- BLOCK ---
+Katana canina
+--- BLOCK ---
+Katana lupina
+--- BLOCK ---
+Katana Cerbero
+--- BLOCK ---
+Espada osso Ananta
+--- BLOCK ---
+Espada osso Ananta+
+--- BLOCK ---
+Atrapasombras
+--- BLOCK ---
+Atrapaalmas
+--- BLOCK ---
+Estrangulaalmas
+--- BLOCK ---
+Lâmina
+--- BLOCK ---
+Lâmina+
+--- BLOCK ---
+Horca carmesí
+--- BLOCK ---
+Mazurca cromada
+--- BLOCK ---
+Vals cromado
+--- BLOCK ---
+Espada wyv "Fogo"
+--- BLOCK ---
+Espada wyv "Ígnea"
+--- BLOCK ---
+Espada wyv "Bengala"
+--- BLOCK ---
+Espada wyv "Pálido"
+--- BLOCK ---
+Espada wyv "Flor"
+--- BLOCK ---
+Espada wyv "Chama"
+--- BLOCK ---
+Espada wyv "Rosa"
+--- BLOCK ---
+Segador de montanha
+--- BLOCK ---
+Archisegador montanha
+--- BLOCK ---
+Cumes selvagens
+--- BLOCK ---
+Grande foice
+--- BLOCK ---
+Tribulação
+--- BLOCK ---
+Cruz sangrante
+--- BLOCK ---
+Cruz sangrante+
+--- BLOCK ---
+Katana mefítica
+--- BLOCK ---
+Fio vampírico
+--- BLOCK ---
+Carmilla Chupasangue
+--- BLOCK ---
+Cruz carmesí
+--- BLOCK ---
+Éden perdido
+--- BLOCK ---
+Sangue expelido
+--- BLOCK ---
+Lei do culpado
+--- BLOCK ---
+Chamas dançantes
+--- BLOCK ---
+Inferno dançante
+--- BLOCK ---
+Chama principal
+--- BLOCK ---
+Sirena nívea
+--- BLOCK ---
+Sirena de nevasca
+--- BLOCK ---
+Diva glacial
+--- BLOCK ---
+Katana Brach
+--- BLOCK ---
+Katana Brach+
+--- BLOCK ---
+Katana demolidora
+--- BLOCK ---
+Pirodemolidora
+--- BLOCK ---
+Lâmina bárbara
+--- BLOCK ---
+"Sharq" bárbaro
+--- BLOCK ---
+Kibamaru
+--- BLOCK ---
+Katana de Megido
+--- BLOCK ---
+Adjudicação
+--- BLOCK ---
+Garra escura
+--- BLOCK ---
+Garra esc. "Morte"
+--- BLOCK ---
+Altheos Altrusta
+--- BLOCK ---
+Cólera "Crueldade"
+--- BLOCK ---
+Cólera "Calamidade"
+--- BLOCK ---
+Calamidade de Nero
+--- BLOCK ---
+Comevento
+--- BLOCK ---
+Comesom
+--- BLOCK ---
+Céfiro
+--- BLOCK ---
+Lâmina capilar
+--- BLOCK ---
+Lâmina capilar nova
+--- BLOCK ---
+Lâmina capilar premium
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Tenebra
+--- BLOCK ---
+Tenebra D
+--- BLOCK ---
+Alma erguida
+--- BLOCK ---

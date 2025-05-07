@@ -1,0 +1,370 @@
+﻿TMSG_HBG_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Arma formidable enorme.
+Perfecta para practicar
+técnicas de Ballesta.
+--- BLOCK ---
+Arma formidable enorme.
+Perfecta para practicar
+técnicas de Ballesta.
+--- BLOCK ---
+Arma barata y fiable con
+buen rendimiento. Base ideal
+para futuras mejoras.
+--- BLOCK ---
+Arma de partes de Rathian
+resistentes al fuego. Se
+valora por su fiabilidad.
+--- BLOCK ---
+Arma de partes de Rathian
+resistentes al fuego. Se
+valora por su fiabilidad.
+--- BLOCK ---
+Arma de partes de Rathian
+resistentes al fuego. Se
+valora por su fiabilidad.
+--- BLOCK ---
+Ballesta de partes de
+Rathian rosa. Su largo canal
+mejora la precisión.
+--- BLOCK ---
+Ballesta de partes de
+Rathian rosa. Su largo canal
+mejora la precisión.
+--- BLOCK ---
+Ballesta de partes de
+Rathian rosa. Su largo canal
+mejora la precisión.
+--- BLOCK ---
+Arma elegante de perdigones
+de hielo. Su finura esconde
+un gran rendimiento.
+--- BLOCK ---
+Arma elegante de perdigones
+de hielo. Su finura esconde
+un gran rendimiento.
+--- BLOCK ---
+Ballesta pesada llamada como
+un deslizador. Al enemigo
+le llueven balas congeladas.
+--- BLOCK ---
+Ballesta pesada llamada como
+un deslizador. Al enemigo
+le llueven balas congeladas.
+--- BLOCK ---
+Arma para cazar bestias de
+montaña. Fácil de mantener,
+propicia el fuego.
+--- BLOCK ---
+Arma para cazar bestias de
+montaña. Fácil de mantener,
+propicia el fuego.
+--- BLOCK ---
+Ballesta pesada de nuevos
+materiales aprobada por el
+Gremio. Mata bestias.
+--- BLOCK ---
+Ballesta pesada de nuevos
+materiales aprobada por el
+Gremio. Mata bestias.
+--- BLOCK ---
+Ballesta pesada que portaron
+mercenarios del desierto. Se
+refinó tras muchas batallas.
+--- BLOCK ---
+Ballesta pesada que portaron
+mercenarios del desierto. Se
+refinó tras muchas batallas.
+--- BLOCK ---
+Ballesta pesada que portaron
+mercenarios del desierto. Se
+refinó tras muchas batallas.
+--- BLOCK ---
+Ballesta pesada rojiza que
+usó el mercenario Alfonso,
+quien luchó por sus ideales.
+--- BLOCK ---
+Ballesta pesada rojiza que
+usó el mercenario Alfonso,
+quien luchó por sus ideales.
+--- BLOCK ---
+Ballesta pesada del cuerpo
+de un Plesioth. Dispara
+muchos tipos de munición.
+--- BLOCK ---
+Ballesta pesada del cuerpo
+de un Plesioth. Dispara
+muchos tipos de munición.
+--- BLOCK ---
+Ballesta pesada del cuerpo
+de un Plesioth verde. Con
+la potencia de una bestia.
+--- BLOCK ---
+Ballesta pesada del cuerpo
+de un Plesioth verde. Con
+la potencia de una bestia.
+--- BLOCK ---
+Ballesta pesada decorada con
+partes de Qurupeco. Buena
+con disparos de llama.
+--- BLOCK ---
+Ballesta pesada decorada con
+partes de Qurupeco. Buena
+con disparos de llama.
+--- BLOCK ---
+Ballesta pesada de disparos
+de perdigón. Alcanza varios
+enemigos.
+--- BLOCK ---
+Ballesta pesada que abraza
+el trueno. Domina la caza
+con lluvias de balas.
+--- BLOCK ---
+Ballesta pesada que abraza
+el trueno. Domina la caza
+con lluvias de balas.
+--- BLOCK ---
+Ballesta pesada que abraza
+el trueno. Domina la caza
+con lluvias de balas.
+--- BLOCK ---
+Ballesta pesada con baba
+explosiva de Brachydios.
+Tiene una fuerza increíble.
+--- BLOCK ---
+Ballesta pesada con baba
+explosiva de Brachydios.
+Tiene una fuerza increíble.
+--- BLOCK ---
+Ballesta hecha de partes de
+Brachydios. Su baba
+explosiva traviesa el acero.
+--- BLOCK ---
+Ballesta hecha de partes de
+Brachydios. Su baba
+explosiva traviesa el acero.
+--- BLOCK ---
+Arma que convierte voluntad
+en poder. Un auténtico
+monarca la ensalzará.
+--- BLOCK ---
+Arma que convierte voluntad
+en poder. Un auténtico
+monarca la ensalzará.
+--- BLOCK ---
+Arma que convierte voluntad
+en poder. Un auténtico
+monarca la ensalzará.
+--- BLOCK ---
+Ballesta pesada que requiere
+mucho de su dueño. Solo apta
+para los que ansían poder.
+--- BLOCK ---
+Ballesta pesada de recarga
+muy rápida. Su excelente
+mira mejora la Afinidad.
+--- BLOCK ---
+Ballesta pesada de un
+asesino que mataba a sus
+víctimas oculto en la noche.
+--- BLOCK ---
+Ballesta pesada pintada de
+cielo oscuro. Roba vidas y
+las devuelve al inframundo.
+--- BLOCK ---
+Ballesta pesada pintada de
+cielo oscuro. Roba vidas y
+las devuelve al inframundo.
+--- BLOCK ---
+Ballesta que brilla en
+la noche. Quita la vida
+de golpe.
+--- BLOCK ---
+Arma de duelo creada con dos
+grandes cuernos. Ten cuidado
+de no cortarte con ella.
+--- BLOCK ---
+Arma de duelo creada con dos
+grandes cuernos. Ten cuidado
+de no cortarte con ella.
+--- BLOCK ---
+Temible Ballesta pesada para
+destruir enemigos. Tiene
+una potencia suprema.
+--- BLOCK ---
+Ballesta pesada hecha por
+un hombre obsesionado con
+la venganza.
+--- BLOCK ---
+Ballesta pesada hecha por
+un hombre obsesionado con
+la venganza.
+--- BLOCK ---
+Arma de partes de Lagiacrus.
+El cañón electrificado evita
+que las balas se ralenticen.
+--- BLOCK ---
+Arma de partes de Lagiacrus.
+El cañón electrificado evita
+que las balas se ralenticen.
+--- BLOCK ---
+Arma de partes de Lagiacrus.
+El cañón electrificado evita
+que las balas se ralenticen.
+--- BLOCK ---
+Ballesta pesada que parece
+un Lagiacrus marmóreo. El
+rayo potencia los disparos.
+--- BLOCK ---
+Ballesta pesada que parece
+un Lagiacrus marmóreo. El
+rayo potencia los disparos.
+--- BLOCK ---
+Ballesta pesada de partes de
+Lagiacrus del abismo. Roba
+el futuro de los enemigos.
+--- BLOCK ---
+Ballesta pesada carmesí de
+partes de Agnaktor. Presume
+de gran rendimiento.
+--- BLOCK ---
+Ballesta pesada carmesí de
+partes de Agnaktor. Presume
+de gran rendimiento.
+--- BLOCK ---
+Arma hecha de la furia de
+un Agnaktor. Las llamas
+lo abrasan todo.
+--- BLOCK ---
+Ballesta pesada que evoca el
+señor del volcán. Su salva
+suena como una erupción.
+--- BLOCK ---
+Ballesta pesada que evoca el
+señor del volcán. Su salva
+suena como una erupción.
+--- BLOCK ---
+Arma que extrae vida del
+llanto del Agnaktor glacial.
+Lanza olas destructoras.
+--- BLOCK ---
+Arma glacial inspirada en el
+señor de la tundra. Invoca
+avalanchas del mismo cielo.
+--- BLOCK ---
+Arma glacial inspirada en el
+señor de la tundra. Invoca
+avalanchas del mismo cielo.
+--- BLOCK ---
+Ballesta pesada de partes de
+Jhen Mohran. Difícil de
+empuñar, es formidable. 
+--- BLOCK ---
+Ballesta pesada de partes de
+Jhen Mohran. Difícil de
+empuñar, es formidable. 
+--- BLOCK ---
+Ballesta muy importante en
+la historia de una nación.
+Anuncia el fin del enemigo.
+--- BLOCK ---
+Arma explosiva de partes de
+Uragaan. Ideal para tipos
+específicos de munición.
+--- BLOCK ---
+Arma explosiva de partes de
+Uragaan. Ideal para tipos
+específicos de munición.
+--- BLOCK ---
+Arma explosiva de partes de
+Uragaan. Ideal para tipos
+específicos de munición.
+--- BLOCK ---
+Ballesta pesada para
+un gigante. Nació del deseo
+de poder eterno definitivo.
+--- BLOCK ---
+Ballesta pesada para
+un gigante. Nació del deseo
+de poder eterno definitivo.
+--- BLOCK ---
+Ballesta con el aspecto y
+fuerza de un Ceadeus.
+Hace temblar de miedo.
+--- BLOCK ---
+Ballesta con el aspecto y
+fuerza de un Ceadeus.
+Hace temblar de miedo.
+--- BLOCK ---
+Ballesta inspirada en un
+Ceadeus barba dorada. Agita
+el reino de los espíritus.
+--- BLOCK ---
+Ballesta inspirada en un
+Ceadeus barba dorada. Agita
+el reino de los espíritus.
+--- BLOCK ---
+Ballesta pesada de ónice de
+la ira y el caos. La rodea
+energía desconocida.
+--- BLOCK ---
+Ballesta pesada de ónice de
+la ira y el caos. La rodea
+energía desconocida.
+--- BLOCK ---
+Arma inspirada en una
+carroza de cuento. Capricho
+extrañamente popular.
+--- BLOCK ---
+Arma inspirada en una
+carroza de cuento. Capricho
+extrañamente popular.
+--- BLOCK ---
+Érase una vez, una Ballesta
+pesada de una chica. Y vivió
+feliz y comió perdiz.
+--- BLOCK ---
+Ballesta pesada de cristales
+finos. Su forma celestial
+recuerda una estrella fugaz.
+--- BLOCK ---
+Ballesta pesada de cristales
+finos. Su forma celestial
+recuerda una estrella fugaz.
+--- BLOCK ---
+Arma con el recuerdo de
+estrellas lejanas. Deja
+rastro de polvo estelar.
+--- BLOCK ---
+Ballesta pesada de tierras
+forasteras. Apreciada por
+los amantes de la pólvora.
+--- BLOCK ---
+Ballesta pesada de tierras
+forasteras. Apreciada por
+los amantes de la pólvora.
+--- BLOCK ---
+Ballesta pesada para
+destrucción masiva. Sus
+disparos acaban con todo.
+--- BLOCK ---
+Ballesta pesada forjada de
+raro metal. Con un diseño
+simple, tiene gran poder.
+--- BLOCK ---
+Ballesta pesada forjada de
+raro metal. Con un diseño
+simple, tiene gran poder.
+--- BLOCK ---
+Ballesta pesada forjada de
+raro metal. Con un diseño
+simple, tiene gran poder.
+--- BLOCK ---
+Ballesta pesada atroz. Las
+llamas explotan y el suelo
+se torna en infierno.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

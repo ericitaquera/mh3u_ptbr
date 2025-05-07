@@ -1,0 +1,298 @@
+﻿TMSG_LANCE
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Lanza de hierro
+--- BLOCK [003] ---
+Lanza de hierro+
+--- BLOCK [004] ---
+Lanza de hidalgo
+--- BLOCK [005] ---
+Lanza de hidalgo+
+--- BLOCK [006] ---
+Lanza de caballero
+--- BLOCK [007] ---
+Muralla
+--- BLOCK [008] ---
+Muralla+
+--- BLOCK [009] ---
+Venablo de Babel
+--- BLOCK [010] ---
+Venab. antiguo Babel
+--- BLOCK [011] ---
+Babel perdido
+--- BLOCK [012] ---
+Lanza perforadora
+--- BLOCK [013] ---
+Lanza megaperforad.
+--- BLOCK [014] ---
+Lanza gigaperforad.
+--- BLOCK [015] ---
+Cola roja
+--- BLOCK [016] ---
+Averno
+--- BLOCK [017] ---
+Lanza de prominencia
+--- BLOCK [018] ---
+Prominencia roja
+--- BLOCK [019] ---
+Prominencia de plata
+--- BLOCK [020] ---
+Prominencia solar
+--- BLOCK [021] ---
+Cola azul
+--- BLOCK [022] ---
+Prominencia azul
+--- BLOCK [023] ---
+Alma de prominencia
+--- BLOCK [024] ---
+Lanza colmillo
+--- BLOCK [025] ---
+Lanza colmillo+
+--- BLOCK [026] ---
+Diente de sable
+--- BLOCK [027] ---
+Shiera Stolrata
+--- BLOCK [028] ---
+Shiera Vitalica
+--- BLOCK [029] ---
+Cresta lapislázuli
+--- BLOCK [030] ---
+Cresta lapislázuli+
+--- BLOCK [031] ---
+Gran lapislázuli
+--- BLOCK [032] ---
+Bandera azul
+--- BLOCK [033] ---
+Venablo de agua
+--- BLOCK [034] ---
+Venablo de agua+
+--- BLOCK [035] ---
+Venablo acuoso
+--- BLOCK [036] ---
+Venablo esmeralda
+--- BLOCK [037] ---
+Marea de esmeraldas
+--- BLOCK [038] ---
+Venablo rocoso
+--- BLOCK [039] ---
+Venablo réquiem
+--- BLOCK [040] ---
+Lanza Acrus
+--- BLOCK [041] ---
+Lanza Acrus+
+--- BLOCK [042] ---
+Gran lanza Acrus
+--- BLOCK [043] ---
+Venablo de Doris
+--- BLOCK [044] ---
+Anfitrite
+--- BLOCK [045] ---
+Lanza Acrus nova
+--- BLOCK [046] ---
+Rayo blanco Gaius
+--- BLOCK [047] ---
+Lanza tenebrosa
+--- BLOCK [048] ---
+Terracontier oscura
+--- BLOCK [049] ---
+Venablo de Boros
+--- BLOCK [050] ---
+Venablo de Boros+
+--- BLOCK [051] ---
+Temblor Illboros
+--- BLOCK [052] ---
+Giga Sassoboros
+--- BLOCK [053] ---
+Temblor Granboros
+--- BLOCK [054] ---
+Jabalina sombría
+--- BLOCK [055] ---
+Jabalina sombría+
+--- BLOCK [056] ---
+Jabalina tóxica
+--- BLOCK [057] ---
+Noxninfa de hierro
+--- BLOCK [058] ---
+Luinox el Sediento
+--- BLOCK [059] ---
+Punzadora oculta
+--- BLOCK [060] ---
+Lluvianegra nocturna
+--- BLOCK [061] ---
+Lanza de Avidya
+--- BLOCK [062] ---
+Lanza del eclipse
+--- BLOCK [063] ---
+Asterismo de Dubhe
+--- BLOCK [064] ---
+Lanza de hueso
+--- BLOCK [065] ---
+Lanza de hueso+
+--- BLOCK [066] ---
+Venablo cornilargo
+--- BLOCK [067] ---
+Venablo cornilargo+
+--- BLOCK [068] ---
+Venablo colmilargo
+--- BLOCK [069] ---
+Ploshasta
+--- BLOCK [070] ---
+Rhenohasta
+--- BLOCK [071] ---
+Lanza de Diablos
+--- BLOCK [072] ---
+Venablo Diablos
+--- BLOCK [073] ---
+Cera Creos
+--- BLOCK [074] ---
+Tempestad negra
+--- BLOCK [075] ---
+Tempestad negra+
+--- BLOCK [076] ---
+Tempestad naciente
+--- BLOCK [077] ---
+Gobulu Muruka
+--- BLOCK [078] ---
+Gobulu Muruka+
+--- BLOCK [079] ---
+Gobuluku Muraaka
+--- BLOCK [080] ---
+Gobulaluku Bosca
+--- BLOCK [081] ---
+Gobulaluku Aquir
+--- BLOCK [082] ---
+Lanza dura
+--- BLOCK [083] ---
+Lanza dura+
+--- BLOCK [084] ---
+Cortador de Barroth
+--- BLOCK [085] ---
+Lanza aplastadora
+--- BLOCK [086] ---
+Hielo Bordenshkiold
+--- BLOCK [087] ---
+Hielo Arktika
+--- BLOCK [088] ---
+Llegada usurpador
+--- BLOCK [089] ---
+Cacofonía déspota
+--- BLOCK [090] ---
+Génesis del opresor
+--- BLOCK [091] ---
+Cola de Brimstren
+--- BLOCK [092] ---
+Ira estigia
+--- BLOCK [093] ---
+Calor espiral
+--- BLOCK [094] ---
+Lanza ígnea Agnaktor
+--- BLOCK [095] ---
+Vaskignador
+--- BLOCK [096] ---
+Líquido espiral
+--- BLOCK [097] ---
+Acualanza Agnaktor
+--- BLOCK [098] ---
+Varunagnaktor
+--- BLOCK [099] ---
+Venab. hueso Ludroth
+--- BLOCK [100] ---
+Lanza espiral
+--- BLOCK [101] ---
+Lanza espiral+
+--- BLOCK [102] ---
+Salpicadura espiral
+--- BLOCK [103] ---
+Cuerno de Ceadeus
+--- BLOCK [104] ---
+Gran cuerno Ceadeus
+--- BLOCK [105] ---
+Sima arcana
+--- BLOCK [106] ---
+Lanza señorial Exia
+--- BLOCK [107] ---
+Bella Nocuus
+--- BLOCK [108] ---
+Bel Nefastro
+--- BLOCK [109] ---
+Bel Nefastro+
+--- BLOCK [110] ---
+Lanza de jabalí
+--- BLOCK [111] ---
+Lanza de jabalí+
+--- BLOCK [112] ---
+Venablo de toro
+--- BLOCK [113] ---
+Punzadora Brach
+--- BLOCK [114] ---
+Punzadora Brach+
+--- BLOCK [115] ---
+Lanza de demolición
+--- BLOCK [116] ---
+Demoledora Albrach
+--- BLOCK [117] ---
+Lanza del dolor
+--- BLOCK [118] ---
+Torre infernal
+--- BLOCK [119] ---
+Atrocidad de Nerón
+--- BLOCK [120] ---
+Cráter azul
+--- BLOCK [121] ---
+Cráter de esmalte
+--- BLOCK [122] ---
+Corona maldita
+--- BLOCK [123] ---
+Corona eterna
+--- BLOCK [124] ---
+Corona Aidion
+--- BLOCK [125] ---
+Lanza oxidada
+--- BLOCK [126] ---
+Lanza deslustrada
+--- BLOCK [127] ---
+Funeraria
+--- BLOCK [128] ---
+Gran funeraria
+--- BLOCK [129] ---
+Funeraria nova
+--- BLOCK [130] ---
+Venablo desgastado
+--- BLOCK [131] ---
+Venablo estropeado
+--- BLOCK [132] ---
+Rascacielos
+--- BLOCK [133] ---
+Hiendecielos
+--- BLOCK [134] ---
+Aguja de Plegis
+--- BLOCK [135] ---
+Aguja de Plegis+
+--- BLOCK [136] ---
+Poderoso Plegis
+--- BLOCK [137] ---
+Mordisco de Sharq
+--- BLOCK [138] ---
+Ataque Sharq
+--- BLOCK [139] ---
+Asalto de Sharq
+--- BLOCK [140] ---
+Aguja de Megido
+--- BLOCK [141] ---
+Immaelestrom
+--- BLOCK [142] ---
+Lanza de Alatreon
+--- BLOCK [143] ---
+Rayo de Alatreon
+--- BLOCK [144] ---
+Altheos Gloralis
+--- BLOCK [145] ---
+DUMMY
+--- BLOCK [146] ---
+DUMMY
+--- BLOCK [147] ---
+ML001: Baltzenger
+--- BLOCK [148] ---
+L. equipo "Byakko"
+--- BLOCK [149] ---

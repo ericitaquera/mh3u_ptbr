@@ -1,0 +1,582 @@
+﻿TMSG_LANCE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Lanza básica para cazadores
+novatos. Proporciona defensa
+y ofensiva.
+--- BLOCK ---
+Lanza básica para cazadores
+novatos. Proporciona defensa
+y ofensiva.
+--- BLOCK ---
+Lanza grande forjada con
+mineral duro. Arma oficial
+de los caballeros.
+--- BLOCK ---
+Lanza grande forjada con
+mineral duro. Arma oficial
+de los caballeros.
+--- BLOCK ---
+Lanza grande forjada con
+mineral duro. Arma oficial
+de los caballeros.
+--- BLOCK ---
+Lanza para caballeros
+curtidos en el combate. Va
+con un gran escudo.
+--- BLOCK ---
+Lanza para caballeros
+curtidos en el combate. Va
+con un gran escudo.
+--- BLOCK ---
+Lanza dorada imponente como
+una torre, con capacidades
+defensivas y ofensivas.
+--- BLOCK ---
+Empuñado por un caballero
+antiguo contra los dioses
+para proteger la humanidad.
+--- BLOCK ---
+Empuñado por un caballero
+antiguo contra los dioses
+para proteger la humanidad.
+--- BLOCK ---
+Lanza mecánica usada para
+extraer mineral. Puede
+liberar electricidad.
+--- BLOCK ---
+Lanza mecánica usada para
+extraer mineral. Puede
+liberar electricidad.
+--- BLOCK ---
+Lanza mecánica de punta
+giratoria. Abre la carne
+con gran facilidad.
+--- BLOCK ---
+Lanza hecha de la cola de un
+Rathalos. De su cuerpo
+salen llamas abrasadoras.
+--- BLOCK ---
+Lanza hecha de la cola de un
+Rathalos. De su cuerpo
+salen llamas abrasadoras.
+--- BLOCK ---
+Lanza capaz de dar terribles
+golpes mientras lanza fuego
+infernal.
+--- BLOCK ---
+Lanza capaz de dar terribles
+golpes mientras lanza fuego
+infernal.
+--- BLOCK ---
+Lanza plateada que aniquila
+enemigos con ataques rápidos
+y llamas infernales.
+--- BLOCK ---
+Lanza plateada que aniquila
+enemigos con ataques rápidos
+y llamas infernales.
+--- BLOCK ---
+Lanza enjoyada creada con
+las últimas técnicas de
+forja.
+--- BLOCK ---
+Lanza enjoyada creada con
+las últimas técnicas de
+forja.
+--- BLOCK ---
+Lanza enjoyada creada con
+las últimas técnicas de
+forja.
+--- BLOCK ---
+Fría lanza hecha de colmillo
+de Barioth. Congela el
+vapor del aire.
+--- BLOCK ---
+Fría lanza hecha de colmillo
+de Barioth. Congela el
+vapor del aire.
+--- BLOCK ---
+Lanza de una tierra
+congelada. Dura y fría
+como la tundra.
+--- BLOCK ---
+Lanza helada reforzada con
+partes de Barioth arenoso.
+El frío la mantiene afilada.
+--- BLOCK ---
+Lanza helada reforzada con
+partes de Barioth arenoso.
+El frío la mantiene afilada.
+--- BLOCK ---
+Hecha con materiales de
+Baggi. La punta posee un
+fluido tranquilizante.
+--- BLOCK ---
+Hecha con materiales de
+Baggi. La punta posee un
+fluido tranquilizante.
+--- BLOCK ---
+Da a la presa unos pocos
+momentos de descanso antes
+del sueño eterno.
+--- BLOCK ---
+Da a la presa unos pocos
+momentos de descanso antes
+del sueño eterno.
+--- BLOCK ---
+Lanza hecha de excelentes
+partes de piscine. Mejora
+las propiedades elementales.
+--- BLOCK ---
+Lanza hecha de excelentes
+partes de piscine. Mejora
+las propiedades elementales.
+--- BLOCK ---
+Lanza hecha de excelentes
+partes de piscine. Mejora
+las propiedades elementales.
+--- BLOCK ---
+Lanza mística con punta
+verde esmeralda. Su delicado
+aspecto esconde su fuerza.
+--- BLOCK ---
+Lanza mística con punta
+verde esmeralda. Su delicado
+aspecto esconde su fuerza.
+--- BLOCK ---
+Lanza cubierta de sustancias
+calmantes. Se pueden mejorar
+sus efectos somníferos.
+--- BLOCK ---
+Lanza cubierta de sustancias
+calmantes que inducen sueño
+a los enemigos.
+--- BLOCK ---
+Temible lanza hecha con
+materiales de Lagiacrus.
+Descarga electricidad.
+--- BLOCK ---
+Temible lanza hecha con
+materiales de Lagiacrus.
+Descarga electricidad.
+--- BLOCK ---
+Temible lanza hecha con
+materiales de Lagiacrus.
+Descarga electricidad.
+--- BLOCK ---
+Temible lanza hecha con
+materiales de Lagiacrus.
+Descarga electricidad.
+--- BLOCK ---
+Rayo de Lagiacrus en forma
+de lanza. Convierte lo que
+toca en espuma de mar.
+--- BLOCK ---
+Lanza blanca símbolo de gran
+conquistador. Silencia a
+los enemigos para siempre.
+--- BLOCK ---
+Lanza blanca símbolo de gran
+conquistador. Silencia a
+los enemigos para siempre.
+--- BLOCK ---
+Lanza oscura con el alma del
+rey de los siete mares. Su
+rugido atronador horroriza. 
+--- BLOCK ---
+Lanza oscura con el alma del
+rey de los siete mares. Su
+rugido atronador horroriza. 
+--- BLOCK ---
+Lanza hecha de cuerno de
+Duramboros. Tumba un árbol
+de un solo golpe.
+--- BLOCK ---
+Lanza hecha de cuerno de
+Duramboros. Tumba un árbol
+de un solo golpe.
+--- BLOCK ---
+Lanza hecha de cuerno de
+Duramboros. Tumba un árbol
+de un solo golpe.
+--- BLOCK ---
+Lanza en forma de hacha de
+la concha de un Duramboros.
+Destroza rocas de un toque.
+--- BLOCK ---
+Lanza en forma de hacha de
+colahueso de Duramboros.
+Destroza rocas de un toque.
+--- BLOCK ---
+Lanza con las toxinas
+del Gigginox. Envenena
+violentamente a su presa.
+--- BLOCK ---
+Lanza con las toxinas
+del Gigginox. Envenena
+violentamente a su presa.
+--- BLOCK ---
+Lanza de punta envenenada.
+Para usarla sin peligro hay
+que saber sobre venenos.
+--- BLOCK ---
+Lanza en forma de cruz con
+veneno letal en la base. La
+toxina fluye a las puntas.
+--- BLOCK ---
+Lanza en forma de cruz con
+veneno letal en la base. La
+toxina fluye a las puntas.
+--- BLOCK ---
+Lanza de ébano, negra como
+la noche. Su sed de sangre
+lo cubre todo de oscuridad.
+--- BLOCK ---
+Lanza de ébano, negra como
+la noche. Su sed de sangre
+lo cubre todo de oscuridad.
+--- BLOCK ---
+Segunda arma de cuatro que
+usó un famoso asesino. Da
+paz a las almas en pena.
+--- BLOCK ---
+Destello en el ocaso. Se oye
+un grito desde la tierra.
+Cae el verdadero silencio.
+--- BLOCK ---
+La segunda de las Siete
+estrellas. Lanza que rige
+Dubhe y cubre de oscuridad.
+--- BLOCK ---
+Notable por su excepcional
+bloqueo y remate.
+--- BLOCK ---
+Notable por su excepcional
+bloqueo y remate.
+--- BLOCK ---
+Lanza fuerte hecha de huesos
+excelentes. Su poder emana
+de su simplicidad.
+--- BLOCK ---
+Lanza fuerte hecha de huesos
+excelentes. Su poder emana
+de su simplicidad.
+--- BLOCK ---
+Lanza fuerte hecha de huesos
+excelentes. Su poder emana
+de su simplicidad.
+--- BLOCK ---
+Hecha con materiales de
+Rhenoplos. Equilibra ataque
+en carrera y buena defensa.
+--- BLOCK ---
+Hecha con materiales de
+Rhenoplos. Equilibra ataque
+en carrera y buena defensa.
+--- BLOCK ---
+Hecha con el grueso y
+cortante cuerno del Diablos,
+majestuoso rey del desierto.
+--- BLOCK ---
+Contiene el espíritu del
+rey del desierto. Puede
+perforar cualquier cosa.
+--- BLOCK ---
+Contiene el espíritu del
+rey del desierto. Puede
+perforar cualquier cosa.
+--- BLOCK ---
+Lanza robusta hecha de
+partes de Diablos negro.
+Lleva el odio de la tirana.
+--- BLOCK ---
+Lanza robusta hecha de
+partes de Diablos negro.
+Lleva el odio de la tirana.
+--- BLOCK ---
+Lanza robusta hecha de
+partes de Diablos negro.
+Lleva el odio de la tirana.
+--- BLOCK ---
+Hecha con púas de Gobul.
+Paraliza a su presa
+con neurotoxinas.
+--- BLOCK ---
+Hecha con púas de Gobul.
+Paraliza a su presa
+con neurotoxinas.
+--- BLOCK ---
+Tiene el poder de paralizar
+el cuerpo de los monstruos
+a los que hiere.
+--- BLOCK ---
+Lanza que paraliza todo
+movimiento. La muerte es
+la única escapatoria.
+--- BLOCK ---
+Lanza que paraliza todo
+movimiento. La muerte es
+la única escapatoria.
+--- BLOCK ---
+Sólida como un Barroth.
+Mejor para barridos que
+para arremeter.
+--- BLOCK ---
+Sólida como un Barroth.
+Mejor para barridos que
+para arremeter.
+--- BLOCK ---
+Sólida como un Barroth.
+Mejor para barridos que
+para arremeter.
+--- BLOCK ---
+Lanza glacial hecha de
+partes de Barroth esmeralda.
+Destruye icebergs eternos.
+--- BLOCK ---
+Lanza glacial hecha de
+partes de Barroth esmeralda.
+Destruye icebergs eternos.
+--- BLOCK ---
+Lanza glacial hecha de
+partes de Barroth esmeralda.
+Destruye icebergs eternos.
+--- BLOCK ---
+Lanza que encarna un rey
+feroz. Borra la existencia
+de enemigos a lanzazos.
+--- BLOCK ---
+Lanza que encarna un rey
+feroz. Borra la existencia
+de enemigos a lanzazos.
+--- BLOCK ---
+Lanza que encarna un rey
+feroz. Borra la existencia
+de enemigos a lanzazos.
+--- BLOCK ---
+Lanza en honor al emperador
+del infierno. Un rayo negro
+golpea a los enemigos. 
+--- BLOCK ---
+Lanza en honor al emperador
+del infierno. Un rayo negro
+golpea a los enemigos. 
+--- BLOCK ---
+Hecha con el pico del
+Agnaktor. Capaz de perforar
+la roca.
+--- BLOCK ---
+Lanza de fuego escarlata.
+Sus remolinos convierten
+todo en cenizas.
+--- BLOCK ---
+Lanza de fuego escarlata.
+Sus remolinos convierten
+todo en cenizas.
+--- BLOCK ---
+Lanza que puede asolar la
+tundra. Chorros de agua lo
+arrasan todo a su camino.
+--- BLOCK ---
+Lanza que puede asolar la
+tundra. Chorros de agua lo
+arrasan todo a su camino.
+--- BLOCK ---
+Lanza que puede asolar la
+tundra. Chorros de agua lo
+arrasan todo a su camino.
+--- BLOCK ---
+La forma de barrena mejora
+su poder perforante. Hecha
+de hueso de Ludroth.
+--- BLOCK ---
+Está llena de agua y hecha
+de hueso de Ludroth real.
+Lanza agua a presión.
+--- BLOCK ---
+Está llena de agua y hecha
+de hueso de Ludroth real.
+Lanza agua a presión.
+--- BLOCK ---
+Lanza de Ludroth real que
+recuerda una tubería. Inunda
+de golpes a su presa.
+--- BLOCK ---
+Lanza hecha de cuernos de
+Ceadeus. Sus víctimas son
+arrastradas al abismo.
+--- BLOCK ---
+Lanza hecha de cuernos de
+Ceadeus. Sus víctimas son
+arrastradas al abismo.
+--- BLOCK ---
+Lanza enorme del señor de
+la profundidad del océano.
+Ninguna criatura escapa.
+--- BLOCK ---
+Lanza enorme del señor de
+la profundidad del océano.
+Ninguna criatura escapa.
+--- BLOCK ---
+Lanza que escupe veneno.
+Sus víctimas mueren en
+el acto.
+--- BLOCK ---
+Lanza que escupe veneno.
+Sus víctimas mueren en
+el acto.
+--- BLOCK ---
+Lanza que escupe veneno.
+Sus víctimas mueren en
+el acto.
+--- BLOCK ---
+Lanza hecha de partes de
+jabalí. Su portador adquiere
+energía y poder.
+--- BLOCK ---
+Lanza hecha de partes de
+jabalí. Su portador adquiere
+energía y poder.
+--- BLOCK ---
+Fiera lanza con alma de
+jabalí. La vida de la bestia
+se refleja en los colmillos.
+--- BLOCK ---
+Lanza con el espíritu de un
+Brachydios. Aporrea enemigos
+con golpes explosivos.
+--- BLOCK ---
+Lanza con el espíritu de un
+Brachydios. Aporrea enemigos
+con golpes explosivos.
+--- BLOCK ---
+Lanza explosiva con el calor
+de un Brachydios. Quien la
+domine gobernará el mundo.
+--- BLOCK ---
+Lanza explosiva con el calor
+de un Brachydios. Quien la
+domine gobernará el mundo.
+--- BLOCK ---
+Lanza matadragones con la
+fuerza de un Deviljho, que
+le da gran poder destructor.
+--- BLOCK ---
+Lanza matadragones imbuida
+con el poder del Deviljho.
+Corta escamas de dragón.
+--- BLOCK ---
+Lanza matadragones imbuida
+con el poder del Deviljho.
+Corta escamas de dragón.
+--- BLOCK ---
+Su mineral guarda antiguas
+memorias. Su grandeza
+natural impresiona.
+--- BLOCK ---
+Su mineral guarda antiguas
+memorias. Su grandeza
+natural impresiona.
+--- BLOCK ---
+Lanza antigua de piedra
+cuyos embates son tan
+imparables como el tiempo.
+--- BLOCK ---
+Lanza antigua de piedra
+cuyos embates son tan
+imparables como el tiempo.
+--- BLOCK ---
+Lanza antigua de piedra
+cuyos embates son tan
+imparables como el tiempo.
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría pulirse...
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría pulirse...
+--- BLOCK ---
+Arpón mecánico de metal
+antiguo. La forja moderna
+no puede restaurar la punta.
+--- BLOCK ---
+Arpón mecánico de metal
+antiguo. La forja moderna
+no puede restaurar la punta.
+--- BLOCK ---
+Arpón mecánico de metal
+antiguo. La forja moderna
+no puede restaurar la punta.
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK ---
+Lanza antigua que nunca
+ha sido usada. Parece que
+podría alcanzar el cielo.
+--- BLOCK ---
+Lanza antigua que nunca
+ha sido usada. Parece que
+podría alcanzar el cielo.
+--- BLOCK ---
+Lanza que usa setas
+paralizantes. Las toxinas
+penetran en el enemigo. 
+--- BLOCK ---
+Lanza que usa setas
+paralizantes. Las toxinas
+penetran en el enemigo. 
+--- BLOCK ---
+Lanza que usa setas
+paralizantes. Las toxinas
+penetran en el enemigo. 
+--- BLOCK ---
+Símbolo del terror de Moga.
+¡Cuidado con los arpones
+de otros cazadores!
+--- BLOCK ---
+Símbolo del terror de Moga.
+¡Cuidado con los arpones
+de otros cazadores!
+--- BLOCK ---
+Símbolo del terror de Moga.
+¡Cuidado con los arpones
+de otros cazadores!
+--- BLOCK ---
+Lanza que encarna el fin de
+los días. El fuego consumirá
+el mundo sin distinción.
+--- BLOCK ---
+Lanza que encarna el fin de
+los días. El fuego consumirá
+el mundo sin distinción.
+--- BLOCK ---
+Modelada como los cuernos
+del Alatreon. Se dice que es
+una llave a otro mundo.
+--- BLOCK ---
+Lanza terrible que emite una
+luz mortecina. Su portador
+desaparece, o cosas peores.
+--- BLOCK ---
+Lanza terrible que emite una
+luz mortecina. Su portador
+desaparece, o cosas peores.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Prototipo de arma forjada en
+tierras lejanas. Por ahora
+funciona como una lanza.
+--- BLOCK ---
+Prototipo de arma forjada en
+tierras lejanas. Por ahora
+funciona como una lanza.
+--- BLOCK ---

@@ -1,0 +1,536 @@
+TMSG_HAMMER_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+De grande poder. Seus
+golpes rendem e
+derrubam as presas.
+--- BLOCK ---
+De tremendo poder. Seus
+golpes derrubam e
+abatem as presas.
+--- BLOCK ---
+Martelo de ferro
+pontiagudo. Mais letal.
+Fácil de obter.
+--- BLOCK ---
+Martelo de ferro
+pontiagudo. Mais letal.
+Fácil de obter.
+--- BLOCK ---
+Martelo de ferro
+pontiagudo. Mais letal.
+Fácil de obter.
+--- BLOCK ---
+Gigante e superpoderoso.
+Uma imensa massa
+de metal.
+--- BLOCK ---
+Gigante e superpoderoso.
+Uma imensa massa
+de metal.
+--- BLOCK ---
+Pesado martelo de metal
+duro. Com um golpe
+esmaga ossos e escamas.
+--- BLOCK ---
+Yunque transformado
+em Martelo.
+Afiado.
+--- BLOCK ---
+Yunque transformado
+em Martelo.
+Afiado.
+--- BLOCK ---
+A pólvora
+interna explode
+ao impactar.
+--- BLOCK ---
+Poderoso martelo. Sem
+barreiras para quem
+busca liberdade.
+--- BLOCK ---
+Poderoso martelo. Sem
+barreiras para quem
+busca liberdade.
+--- BLOCK ---
+Martelo inspirado na cabeça
+de um Plesioth. Força
+de um rio.
+--- BLOCK ---
+Martelo inspirado na cabeça
+de um Plesioth. Força
+de um rio.
+--- BLOCK ---
+Martelo inspirado na cabeça
+de um Plesioth. Força
+de um rio.
+--- BLOCK ---
+Martelo inspirado na cabeça
+de um Plesioth verde.
+Punta e escamas machucam.
+--- BLOCK ---
+Martelo inspirado na cabeça
+de um Plesioth verde.
+Punta e escamas machucam.
+--- BLOCK ---
+Feito de colmillo de
+Jhen Mohran. Poder
+e resistência únicos.
+--- BLOCK ---
+Feito de colmillo de
+Jhen Mohran. Poder
+e resistência únicos.
+--- BLOCK ---
+Objeto sagrado que
+invoca águas para
+melhorar a colheita.
+--- BLOCK ---
+Martelo de concha
+com fluidos de
+Volvidon. Líquido paralisante.
+--- BLOCK ---
+Martelo de concha
+com fluidos de
+Volvidon. Líquido paralisante.
+--- BLOCK ---
+Martelo de concha
+com fluidos de
+Volvidon. Líquido paralisante.
+--- BLOCK ---
+Martelo elétrico inspirado
+nos remoinhos
+do Lagiacrus.
+--- BLOCK ---
+Martelo elétrico inspirado
+nos remoinhos
+do Lagiacrus.
+--- BLOCK ---
+Martelo elétrico com forma
+de remoinho gigante
+que devora vida.
+--- BLOCK ---
+Martelo elétrico com forma
+de remoinho gigante
+que devora vida.
+--- BLOCK ---
+Martelo elétrico com forma
+de remoinho gigante
+que devora vida.
+--- BLOCK ---
+Martelo de partes
+do Lagiacrus. Ataque
+elétrico de alcance.
+--- BLOCK ---
+Martelo de partes
+do Lagiacrus. Ataque
+elétrico de alcance.
+--- BLOCK ---
+Martelo com núcleo
+gélido. Congela
+ao tocar.
+--- BLOCK ---
+Martelo com núcleo
+gélido de permafrost.
+Congela lagos.
+--- BLOCK ---
+Martelo com núcleo
+gélido de permafrost.
+Congela lagos.
+--- BLOCK ---
+Martelo com pedernal
+que expele chamas
+ao impactar.
+--- BLOCK ---
+Martelo com pedernal
+que expele chamas
+ao impactar.
+--- BLOCK ---
+Martelo com pedernal
+que expele chamas
+ao impactar.
+--- BLOCK ---
+Martelo com gerador
+que descarrega
+eletricidade potente.
+--- BLOCK ---
+Martelo com gerador
+que descarrega
+eletricidade potente.
+--- BLOCK ---
+Martelo com gerador
+que descarrega
+eletricidade potente.
+--- BLOCK ---
+Arma feita de
+cabeça de Rathalos.
+Para os corajosos.
+--- BLOCK ---
+Arma feita de
+cabeça de Rathalos.
+Para os corajosos.
+--- BLOCK ---
+Martelo de fogo
+rebelde como
+um Rathalos.
+--- BLOCK ---
+Martelo ardente de partes
+de Rathalos celeste.
+Testa sua coragem.
+--- BLOCK ---
+Martelo ardente de partes
+de Rathalos celeste.
+Testa sua coragem.
+--- BLOCK ---
+Martelo ardente de partes
+de Rathalos celeste.
+Testa sua coragem.
+--- BLOCK ---
+Golpe inflama o ar,
+como o sol
+caindo à terra.
+--- BLOCK ---
+Golpe inflama o ar,
+como o sol
+caindo à terra.
+--- BLOCK ---
+Martelo inspirado na
+cauda de um
+Brachydios. Baba explosiva.
+--- BLOCK ---
+Martelo inspirado na
+cauda de um
+Brachydios. Baba explosiva.
+--- BLOCK ---
+Martelo com essência
+de Brachydios. Explosivo
+move o céu.
+--- BLOCK ---
+Martelo com essência
+de Brachydios. Explosivo
+move o céu.
+--- BLOCK ---
+Martelo bonito com
+penacho de plumas,
+espinas paralisantes.
+--- BLOCK ---
+Martelo bonito com
+penacho de plumas,
+espinas paralisantes.
+--- BLOCK ---
+Martelo belo como uma
+flor letal. Pode
+paralisar com espinas.
+--- BLOCK ---
+Martelo paralisante de
+partes de
+Qurupeco carmesim.
+--- BLOCK ---
+Martelo paralisante de
+partes de
+Qurupeco carmesim.
+--- BLOCK ---
+Martelo paralisante de
+partes de
+Qurupeco carmesim.
+--- BLOCK ---
+Martelo inspirado em um demônio
+deus do trovão. Reduz
+a vida a cinzas.
+--- BLOCK ---
+Martelo inspirado em um demônio
+deus do trovão. Reduz
+a vida a cinzas.
+--- BLOCK ---
+Martelo inspirado em um demônio
+deus do trovão. Reduz
+a vida a cinzas.
+--- BLOCK ---
+Martelo elétrico com fúria
+abissal. Pode partir o
+céu e a terra.
+--- BLOCK ---
+Martelo elétrico com fúria
+abissal. Pode partir o
+céu e a terra.
+--- BLOCK ---
+Martelo que emite a brilhante
+luz carmesim da fúria
+de um Zinogre estigio.
+--- BLOCK ---
+Martelo que emite a brilhante
+luz carmesim da fúria
+de um Zinogre estigio.
+--- BLOCK ---
+Feito de osso. Com
+golpes potentes, mas sem
+modo de bloqueio.
+--- BLOCK ---
+Feito de osso. Com
+golpes potentes, mas sem
+modo de bloqueio.
+--- BLOCK ---
+Martelo bruto de um grande
+osso. Sua força se
+revela com o uso.
+--- BLOCK ---
+Martelo bruto de um grande
+osso. Sua força se
+revela com o uso.
+--- BLOCK ---
+Martelo inspirado na cauda
+de um Duramboros. Pode
+derrubar uma árvore milenar.
+--- BLOCK ---
+Martelo feito de partes de
+Duramboros. Golpeia o chão e
+a poeira cobre o sol.
+--- BLOCK ---
+Martelo de peso e
+poder incríveis. Pode acabar
+com o mundo.
+--- BLOCK ---
+Martelo de peso e
+poder incríveis. Pode acabar
+com o mundo.
+--- BLOCK ---
+Martelo de peso e
+poder incríveis. Pode acabar
+com o mundo.
+--- BLOCK ---
+Martelo de ébano, negro como
+a noite. Tem o peso
+da mais profunda escuridão.
+--- BLOCK ---
+Martelo de ébano, negro como
+a noite. Tem o peso
+da mais profunda escuridão.
+--- BLOCK ---
+Martelo de ébano, negro como
+a noite. Tem o peso
+da mais profunda escuridão.
+--- BLOCK ---
+Martelo forjado de
+escuridão insondável. A
+morte o acompanha.
+--- BLOCK ---
+Martelo forjado de
+escuridão insondável. A
+morte o acompanha.
+--- BLOCK ---
+Coberto de pele de Ludroth.
+A construção óssea o
+torna leve e robusto.
+--- BLOCK ---
+Coberto de pele de Ludroth.
+A construção óssea o
+torna leve e robusto.
+--- BLOCK ---
+De esponja de Ludroth.
+A água interna explode
+no alvo ao impactar.
+--- BLOCK ---
+De esponja de Ludroth.
+A água interna explode
+no alvo ao impactar.
+--- BLOCK ---
+De esponja de Ludroth.
+A água interna explode
+no alvo ao impactar.
+--- BLOCK ---
+Martelo etéreo feito de esponjas
+de Ludroth purpúreo e
+coberto de veneno letal.
+--- BLOCK ---
+Martelo etéreo feito de esponjas
+de Ludroth purpúreo e
+coberto de veneno letal.
+--- BLOCK ---
+Martelo etéreo feito de esponjas
+de Ludroth purpúreo e
+coberto de veneno letal.
+--- BLOCK ---
+Lembra a armadura da
+cabeça de um Barroth.
+Pode esmagar o aço.
+--- BLOCK ---
+Lembra a armadura da
+cabeça de um Barroth.
+Pode esmagar o aço.
+--- BLOCK ---
+Forjado com duro
+casco. Sem contemplações:
+golpe certeiro!
+--- BLOCK ---
+Grande martelo que lembra
+um Barroth selvagem. Abre
+caminho para seu portador.
+--- BLOCK ---
+Grande martelo que lembra
+um Barroth selvagem. Abre
+caminho para seu portador.
+--- BLOCK ---
+Grande martelo que lembra
+um Barroth selvagem. Abre
+caminho para seu portador.
+--- BLOCK ---
+Martelo como a cabeça
+de um Barroth esmeralda.
+Transforma inimigos em gelo.
+--- BLOCK ---
+Martelo como a cabeça
+de um Barroth esmeralda.
+Transforma inimigos em gelo.
+--- BLOCK ---
+Martelo conquistado em
+uma feroz batalha.
+Lembra um glaciar.
+--- BLOCK ---
+Martelo conquistado em
+uma feroz batalha.
+Lembra um glaciar.
+--- BLOCK ---
+Desperta a fúria da
+terra. O mais pesado
+e resistente dos martelos.
+--- BLOCK ---
+Pesado martelo de
+duro Uragaan. Requer
+força para empunhá-lo.
+--- BLOCK ---
+Pesado martelo de
+duro Uragaan. Requer
+força para empunhá-lo.
+--- BLOCK ---
+Martelo feito de partes
+de um Uragaan.
+Desfere golpes demolidores.
+--- BLOCK ---
+Martelo feito de partes
+de um Uragaan.
+Desfere golpes demolidores.
+--- BLOCK ---
+Martelo feito de partes
+de um Uragaan.
+Desfere golpes demolidores.
+--- BLOCK ---
+Martelo feito de partes de
+um Bullfango. Faz os
+caçadores tremerem de medo.
+--- BLOCK ---
+Martelo inspirado em um
+Bullfango, besta oriental que
+investe com força.
+--- BLOCK ---
+Martelo inspirado em um
+Bullfango, besta oriental que
+investe com força.
+--- BLOCK ---
+Martelo feito de partes
+de um caranguejo. Pode
+induzir sono nos inimigos.
+--- BLOCK ---
+Martelo feito de partes
+de um caranguejo. Pode
+induzir sono nos inimigos.
+--- BLOCK ---
+Martelo feito de partes
+de um caranguejo. Pode
+induzir sono nos inimigos.
+--- BLOCK ---
+Exala o poder
+de um Deviljho.
+Ansiando sacrificar vidas.
+--- BLOCK ---
+Grande martelo que contém
+a selvagem e inesgotável
+energia do Deviljho.
+--- BLOCK ---
+Grande martelo que contém
+a selvagem e inesgotável
+energia do Deviljho.
+--- BLOCK ---
+Cheio de história. Imbuído
+da alma de
+um antigo wyvern.
+--- BLOCK ---
+Cheio de história. Imbuído
+da alma de
+um antigo wyvern.
+--- BLOCK ---
+Selado na terra há muito
+tempo. Contém a força
+vital de um wyvern.
+--- BLOCK ---
+Selado na terra há muito
+tempo. Contém a força
+vital de um wyvern.
+--- BLOCK ---
+Selado na terra há muito
+tempo. Contém a força
+vital de um wyvern.
+--- BLOCK ---
+Selo de quem vive pelo
+porto. Transportado por navios
+que sobrevivem às tempestades.
+--- BLOCK ---
+Potencial ignorado. Talvez
+possa ser aprimorado...
+--- BLOCK ---
+Potencial ignorado. Talvez
+possa ser aprimorado...
+--- BLOCK ---
+Antigo martelo militar, restaurado.
+Contém o sopro
+de um dragão.
+--- BLOCK ---
+Antigo martelo militar, restaurado.
+Contém o sopro
+de um dragão.
+--- BLOCK ---
+Antigo martelo militar, restaurado.
+Contém o sopro
+de um dragão.
+--- BLOCK ---
+Potencial ignorado. Talvez
+possa ser restaurado...
+--- BLOCK ---
+Potencial ignorado. Talvez
+possa ser restaurado...
+--- BLOCK ---
+De uma civilização perdida.
+Esmaga os alvos
+com poderosas vibrações.
+--- BLOCK ---
+De uma civilização perdida.
+Esmaga os alvos
+com poderosas vibrações.
+--- BLOCK ---
+Feito de garras de
+Alatreon. Protege os dragões
+e destrói os humanos.
+--- BLOCK ---
+Um martelo de loucura.
+Sua luz consome a
+sanidade do portador.
+--- BLOCK ---
+Um martelo de loucura.
+Sua luz consome a
+sanidade do portador.
+--- BLOCK ---
+Martelo mítico que inundou o
+mundo de fogo. Anuncia
+o fim dos tempos.
+--- BLOCK ---
+Martelo mítico que inundou o
+mundo de fogo. Anuncia
+o fim dos tempos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Martelo sagrado apenas para
+os melhores caçadores. Possui
+poder de cura.
+--- BLOCK ---

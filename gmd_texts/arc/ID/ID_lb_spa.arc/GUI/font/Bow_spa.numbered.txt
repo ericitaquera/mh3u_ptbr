@@ -1,0 +1,236 @@
+﻿TMSG_BOW
+--- BLOCK [001] ---
+(Ninguno)
+--- BLOCK [002] ---
+Peco hambriento
+--- BLOCK [003] ---
+Peco famélico
+--- BLOCK [004] ---
+Rompecorazones
+--- BLOCK [005] ---
+Corazón roto
+--- BLOCK [006] ---
+Corazón fuerte
+--- BLOCK [007] ---
+Revólver Wroggi I
+--- BLOCK [008] ---
+Revólver Wroggi II
+--- BLOCK [009] ---
+Revólver Wroggi III
+--- BLOCK [010] ---
+Revólver sucio I
+--- BLOCK [011] ---
+Revólver sucio II
+--- BLOCK [012] ---
+Esputo ponzoñoso
+--- BLOCK [013] ---
+Equipo esponja I
+--- BLOCK [014] ---
+Equipo esponja II
+--- BLOCK [015] ---
+Equipo esponja III
+--- BLOCK [016] ---
+Equipo amatista I
+--- BLOCK [017] ---
+Equipo amatista II
+--- BLOCK [018] ---
+Amir al Bahr
+--- BLOCK [019] ---
+Batal al Bahr
+--- BLOCK [020] ---
+Arko Nulo
+--- BLOCK [021] ---
+Arko Unu
+--- BLOCK [022] ---
+Arko Nulo (R)
+--- BLOCK [023] ---
+Arko Unu (R)
+--- BLOCK [024] ---
+Arko Du (R)
+--- BLOCK [025] ---
+Arko Tri (R)
+--- BLOCK [026] ---
+Arko Nulo (B)
+--- BLOCK [027] ---
+Arko Unu (B)
+--- BLOCK [028] ---
+Arko Du (B)
+--- BLOCK [029] ---
+Arko Tri (B)
+--- BLOCK [030] ---
+Arko Nulo (A)
+--- BLOCK [031] ---
+Arko Unu (A)
+--- BLOCK [032] ---
+Arko Du (A)
+--- BLOCK [033] ---
+Arko Tri (A)
+--- BLOCK [034] ---
+Arco de cazador I
+--- BLOCK [035] ---
+Arco de cazador II
+--- BLOCK [036] ---
+Arco de cazador III
+--- BLOCK [037] ---
+Arco recio cazador I
+--- BLOCK [038] ---
+Arco recio cazad. II
+--- BLOCK [039] ---
+Arco orgullo cazador
+--- BLOCK [040] ---
+Volador Brach
+--- BLOCK [041] ---
+Volador Brach+
+--- BLOCK [042] ---
+Arco de demolición
+--- BLOCK [043] ---
+Bengala demoledora
+--- BLOCK [044] ---
+Multiarco I tipo 64
+--- BLOCK [045] ---
+Multiarco II tipo 64
+--- BLOCK [046] ---
+Aguja de Escorpio
+--- BLOCK [047] ---
+Arpa caballito mar
+--- BLOCK [048] ---
+Arpa caballo real
+--- BLOCK [049] ---
+Arpa acuaballo
+--- BLOCK [050] ---
+Arco de reina I
+--- BLOCK [051] ---
+Arco de reina II
+--- BLOCK [052] ---
+Arco de reina III
+--- BLOCK [053] ---
+Arco tiro corazón I
+--- BLOCK [054] ---
+Arco tiro corazón II
+--- BLOCK [055] ---
+Arco tiro coraz. III
+--- BLOCK [056] ---
+Selene Lunarrota
+--- BLOCK [057] ---
+Retumbar usurpador
+--- BLOCK [058] ---
+Prontirrayo déspota
+--- BLOCK [059] ---
+Respuesta de opresor
+--- BLOCK [060] ---
+Vista de Brimstren
+--- BLOCK [061] ---
+Paciencia estigia
+--- BLOCK [062] ---
+Cresta de hielo
+--- BLOCK [063] ---
+Edelweiss
+--- BLOCK [064] ---
+Arc Valanga de ámbar
+--- BLOCK [065] ---
+Arcosable ligero
+--- BLOCK [066] ---
+Fallenfriede
+--- BLOCK [067] ---
+Jinete arena Rafalga
+--- BLOCK [068] ---
+Cordel metálico
+--- BLOCK [069] ---
+Gigáculos
+--- BLOCK [070] ---
+Gigantomaquia
+--- BLOCK [071] ---
+Cuerda cromada I
+--- BLOCK [072] ---
+Cuerda cromada II
+--- BLOCK [073] ---
+Dédalos de acero
+--- BLOCK [074] ---
+Arco oculto I
+--- BLOCK [075] ---
+Arco oculto II
+--- BLOCK [076] ---
+Vuelo nocturno
+--- BLOCK [077] ---
+Arco de eclipse
+--- BLOCK [078] ---
+Arco Virnar
+--- BLOCK [079] ---
+Vuelo de medianoche
+--- BLOCK [080] ---
+Lanzarrayos I
+--- BLOCK [081] ---
+Lanzarrayos II
+--- BLOCK [082] ---
+Lanzarrayos masivo
+--- BLOCK [083] ---
+Lanzarrayos novo
+--- BLOCK [084] ---
+Rayiblanco Acrus
+--- BLOCK [085] ---
+Arco batalla oscuro
+--- BLOCK [086] ---
+Emprestador oscuro
+--- BLOCK [087] ---
+Ar. cuer. Diablos I
+--- BLOCK [088] ---
+Ar. cuer. Diablos II
+--- BLOCK [089] ---
+Maestro de galernas
+--- BLOCK [090] ---
+Cera enroscacola
+--- BLOCK [091] ---
+Cera Cyclord
+--- BLOCK [092] ---
+Ala Victoria I
+--- BLOCK [093] ---
+Ala Victoria II
+--- BLOCK [094] ---
+Victoria reverente
+--- BLOCK [095] ---
+Diosa del Arca
+--- BLOCK [096] ---
+Arken Victrine
+--- BLOCK [097] ---
+Arco vidente mundo
+--- BLOCK [098] ---
+Prueba vidente mundo
+--- BLOCK [099] ---
+Botín vidente mundo
+--- BLOCK [100] ---
+Arco de Alatreon
+--- BLOCK [101] ---
+Mandato de Alatreon
+--- BLOCK [102] ---
+Altheos Incanonis
+--- BLOCK [103] ---
+Arca Raptora
+--- BLOCK [104] ---
+Arca Chaotica
+--- BLOCK [105] ---
+Arca Insantia
+--- BLOCK [106] ---
+Fénix de Megido
+--- BLOCK [107] ---
+Rysurrección
+--- BLOCK [108] ---
+Arco de exquisitez
+--- BLOCK [109] ---
+Arco copioso
+--- BLOCK [110] ---
+Arco del festín
+--- BLOCK [111] ---
+Agujón Kelbi
+--- BLOCK [112] ---
+Disparo Kelbi
+--- BLOCK [113] ---
+Bala gran Kelbi
+--- BLOCK [114] ---
+Taketori de bambú
+--- BLOCK [115] ---
+Okina de bambú
+--- BLOCK [116] ---
+Kaguya de bambú
+--- BLOCK [117] ---
+DUMMY
+--- BLOCK [118] ---

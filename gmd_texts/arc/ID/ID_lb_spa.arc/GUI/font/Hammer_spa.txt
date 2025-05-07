@@ -1,0 +1,274 @@
+﻿TMSG_HAMMER
+--- BLOCK ---
+(Ninguno)
+--- BLOCK ---
+Martillo de hierro
+--- BLOCK ---
+Martillo de hierro+
+--- BLOCK ---
+Martillo de guerra
+--- BLOCK ---
+Martillo de guerra+
+--- BLOCK ---
+Maza de guerra
+--- BLOCK ---
+Ariete de hierro
+--- BLOCK ---
+Ariete de hierro+
+--- BLOCK ---
+Impacto de hierro
+--- BLOCK ---
+Yunque martillo
+--- BLOCK ---
+Embate
+--- BLOCK ---
+Martillo pistola
+--- BLOCK ---
+Revólver de tuerto
+--- BLOCK ---
+Revólver reventón
+--- BLOCK ---
+Cabeza de Plesioth
+--- BLOCK ---
+Cabeza de Plesioth+
+--- BLOCK ---
+Rompedor Plesioth
+--- BLOCK ---
+Cab. Plesioth verde
+--- BLOCK ---
+Ronperagón verde
+--- BLOCK ---
+Mart. colmillo "Eco"
+--- BLOCK ---
+Ma. colmillo "Ruina"
+--- BLOCK ---
+Martillo Jhen Mohran
+--- BLOCK ---
+Cachiporra cegadora
+--- BLOCK ---
+Gorguera blindada
+--- BLOCK ---
+Megorguera blindada
+--- BLOCK ---
+Martillo torbellino
+--- BLOCK ---
+Martillo torbellino+
+--- BLOCK ---
+Gran mar. torbellino
+--- BLOCK ---
+Martillo remolino
+--- BLOCK ---
+Vortástrofe
+--- BLOCK ---
+Lagio Voltega
+--- BLOCK ---
+Lagio Vortivolte
+--- BLOCK ---
+Núcleo congelado
+--- BLOCK ---
+Cocito
+--- BLOCK ---
+Castigador Pykrete
+--- BLOCK ---
+Sílex de plumas
+--- BLOCK ---
+Sílex peco
+--- BLOCK ---
+Prendedor Qurupeco
+--- BLOCK ---
+Lectro Qurupeco
+--- BLOCK ---
+Rayo Qurupeco
+--- BLOCK ---
+Electro Qurupeco
+--- BLOCK ---
+Cachiporra roja
+--- BLOCK ---
+Cachiporra roja+
+--- BLOCK ---
+Martillo huracán
+--- BLOCK ---
+Huracán azul ardor
+--- BLOCK ---
+Martesta Rathalos
+--- BLOCK ---
+Ardor azul Rathalos
+--- BLOCK ---
+Leonid Partestrellas
+--- BLOCK ---
+Svarog Rompeastros
+--- BLOCK ---
+Martillo cola Brach
+--- BLOCK ---
+Martillo cola Brach+
+--- BLOCK ---
+Almádena
+--- BLOCK ---
+Demoledor Novagio
+--- BLOCK ---
+Pluma rígida
+--- BLOCK ---
+Pluma inválida
+--- BLOCK ---
+Loto seductor
+--- BLOCK ---
+Plegia Bocciolo
+--- BLOCK ---
+Plegia Fior
+--- BLOCK ---
+Plegia Fantasia
+--- BLOCK ---
+Trueno del usurpador
+--- BLOCK ---
+Crujido del déspota
+--- BLOCK ---
+Poder del opresor
+--- BLOCK ---
+Martillo tenebroso
+--- BLOCK ---
+Jarngrolnir oscuro
+--- BLOCK ---
+Fauces de Brimstren
+--- BLOCK ---
+Industria estigia
+--- BLOCK ---
+Martillo de hueso
+--- BLOCK ---
+Martillo de hueso+
+--- BLOCK ---
+Cachiporra de hueso
+--- BLOCK ---
+Cachiporra de hueso+
+--- BLOCK ---
+Esfera de Júpiter
+--- BLOCK ---
+Maza de Duramboros
+--- BLOCK ---
+Maza de Archambra
+--- BLOCK ---
+Maza de Archambra+
+--- BLOCK ---
+Archambra resurgida
+--- BLOCK ---
+Rompedor oculto
+--- BLOCK ---
+Rompedor oculto+
+--- BLOCK ---
+Noche eterna
+--- BLOCK ---
+Rompedor Virnar
+--- BLOCK ---
+Medianoche eterna
+--- BLOCK ---
+Maza hueso Ludroth
+--- BLOCK ---
+Derribo hueso Ludr.
+--- BLOCK ---
+Mar. esponja Ludroth
+--- BLOCK ---
+Martillo Vodyanoy
+--- BLOCK ---
+Lorelei
+--- BLOCK ---
+Venodroth hechizado
+--- BLOCK ---
+Venodroth violeta
+--- BLOCK ---
+Gran Envenodroth
+--- BLOCK ---
+Martillo caparazón
+--- BLOCK ---
+Martillo caparazón+
+--- BLOCK ---
+Martillo de Barroth
+--- BLOCK ---
+Maza de Barroth
+--- BLOCK ---
+Pegador Barroth
+--- BLOCK ---
+Machacador Barroth
+--- BLOCK ---
+Quiebrahielos
+--- BLOCK ---
+Destrozahielos
+--- BLOCK ---
+Viseberg de Barroth
+--- BLOCK ---
+Fisura de Barroth
+--- BLOCK ---
+Porra de latón
+--- BLOCK ---
+Gigamartillo
+--- BLOCK ---
+Martillo Grongigas
+--- BLOCK ---
+Meltronudillo
+--- BLOCK ---
+Martillo uragántico
+--- BLOCK ---
+Martillo uragantesco
+--- BLOCK ---
+Martillo toro
+--- BLOCK ---
+Martillo cabeza toro
+--- BLOCK ---
+Martillo cuerno toro
+--- BLOCK ---
+Langostruosidad
+--- BLOCK ---
+Rey langosta
+--- BLOCK ---
+Langosta real
+--- BLOCK ---
+Deuda del diablo
+--- BLOCK ---
+Trituradora diablo
+--- BLOCK ---
+Caos de Nerón
+--- BLOCK ---
+Gaiasp
+--- BLOCK ---
+Gaiarch
+--- BLOCK ---
+Gran Gaiarch
+--- BLOCK ---
+Madre Gaiarch
+--- BLOCK ---
+Horizonte de Gaia
+--- BLOCK ---
+Portomarca
+--- BLOCK ---
+Martillo oxidado
+--- BLOCK ---
+Martillo deslustrado
+--- BLOCK ---
+Martillo aliento
+--- BLOCK ---
+Martillo de lava
+--- BLOCK ---
+Martillo de corteza
+--- BLOCK ---
+Martillo desgastado
+--- BLOCK ---
+Martillo estropeado
+--- BLOCK ---
+Núcleo latiente
+--- BLOCK ---
+Núcleo meteórico
+--- BLOCK ---
+Martillo de Alatreon
+--- BLOCK ---
+Metamorfo Alatreon
+--- BLOCK ---
+Altheos Morphexo
+--- BLOCK ---
+Núcleo de Megido
+--- BLOCK ---
+Anteferno
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cetro majestuoso
+--- BLOCK ---

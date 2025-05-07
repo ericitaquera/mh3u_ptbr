@@ -1,0 +1,274 @@
+﻿TMSG_HAMMER
+--- BLOCK [001] ---
+(Ninguno)
+--- BLOCK [002] ---
+Martillo de hierro
+--- BLOCK [003] ---
+Martillo de hierro+
+--- BLOCK [004] ---
+Martillo de guerra
+--- BLOCK [005] ---
+Martillo de guerra+
+--- BLOCK [006] ---
+Maza de guerra
+--- BLOCK [007] ---
+Ariete de hierro
+--- BLOCK [008] ---
+Ariete de hierro+
+--- BLOCK [009] ---
+Impacto de hierro
+--- BLOCK [010] ---
+Yunque martillo
+--- BLOCK [011] ---
+Embate
+--- BLOCK [012] ---
+Martillo pistola
+--- BLOCK [013] ---
+Revólver de tuerto
+--- BLOCK [014] ---
+Revólver reventón
+--- BLOCK [015] ---
+Cabeza de Plesioth
+--- BLOCK [016] ---
+Cabeza de Plesioth+
+--- BLOCK [017] ---
+Rompedor Plesioth
+--- BLOCK [018] ---
+Cab. Plesioth verde
+--- BLOCK [019] ---
+Ronperagón verde
+--- BLOCK [020] ---
+Mart. colmillo "Eco"
+--- BLOCK [021] ---
+Ma. colmillo "Ruina"
+--- BLOCK [022] ---
+Martillo Jhen Mohran
+--- BLOCK [023] ---
+Cachiporra cegadora
+--- BLOCK [024] ---
+Gorguera blindada
+--- BLOCK [025] ---
+Megorguera blindada
+--- BLOCK [026] ---
+Martillo torbellino
+--- BLOCK [027] ---
+Martillo torbellino+
+--- BLOCK [028] ---
+Gran mar. torbellino
+--- BLOCK [029] ---
+Martillo remolino
+--- BLOCK [030] ---
+Vortástrofe
+--- BLOCK [031] ---
+Lagio Voltega
+--- BLOCK [032] ---
+Lagio Vortivolte
+--- BLOCK [033] ---
+Núcleo congelado
+--- BLOCK [034] ---
+Cocito
+--- BLOCK [035] ---
+Castigador Pykrete
+--- BLOCK [036] ---
+Sílex de plumas
+--- BLOCK [037] ---
+Sílex peco
+--- BLOCK [038] ---
+Prendedor Qurupeco
+--- BLOCK [039] ---
+Lectro Qurupeco
+--- BLOCK [040] ---
+Rayo Qurupeco
+--- BLOCK [041] ---
+Electro Qurupeco
+--- BLOCK [042] ---
+Cachiporra roja
+--- BLOCK [043] ---
+Cachiporra roja+
+--- BLOCK [044] ---
+Martillo huracán
+--- BLOCK [045] ---
+Huracán azul ardor
+--- BLOCK [046] ---
+Martesta Rathalos
+--- BLOCK [047] ---
+Ardor azul Rathalos
+--- BLOCK [048] ---
+Leonid Partestrellas
+--- BLOCK [049] ---
+Svarog Rompeastros
+--- BLOCK [050] ---
+Martillo cola Brach
+--- BLOCK [051] ---
+Martillo cola Brach+
+--- BLOCK [052] ---
+Almádena
+--- BLOCK [053] ---
+Demoledor Novagio
+--- BLOCK [054] ---
+Pluma rígida
+--- BLOCK [055] ---
+Pluma inválida
+--- BLOCK [056] ---
+Loto seductor
+--- BLOCK [057] ---
+Plegia Bocciolo
+--- BLOCK [058] ---
+Plegia Fior
+--- BLOCK [059] ---
+Plegia Fantasia
+--- BLOCK [060] ---
+Trueno del usurpador
+--- BLOCK [061] ---
+Crujido del déspota
+--- BLOCK [062] ---
+Poder del opresor
+--- BLOCK [063] ---
+Martillo tenebroso
+--- BLOCK [064] ---
+Jarngrolnir oscuro
+--- BLOCK [065] ---
+Fauces de Brimstren
+--- BLOCK [066] ---
+Industria estigia
+--- BLOCK [067] ---
+Martillo de hueso
+--- BLOCK [068] ---
+Martillo de hueso+
+--- BLOCK [069] ---
+Cachiporra de hueso
+--- BLOCK [070] ---
+Cachiporra de hueso+
+--- BLOCK [071] ---
+Esfera de Júpiter
+--- BLOCK [072] ---
+Maza de Duramboros
+--- BLOCK [073] ---
+Maza de Archambra
+--- BLOCK [074] ---
+Maza de Archambra+
+--- BLOCK [075] ---
+Archambra resurgida
+--- BLOCK [076] ---
+Rompedor oculto
+--- BLOCK [077] ---
+Rompedor oculto+
+--- BLOCK [078] ---
+Noche eterna
+--- BLOCK [079] ---
+Rompedor Virnar
+--- BLOCK [080] ---
+Medianoche eterna
+--- BLOCK [081] ---
+Maza hueso Ludroth
+--- BLOCK [082] ---
+Derribo hueso Ludr.
+--- BLOCK [083] ---
+Mar. esponja Ludroth
+--- BLOCK [084] ---
+Martillo Vodyanoy
+--- BLOCK [085] ---
+Lorelei
+--- BLOCK [086] ---
+Venodroth hechizado
+--- BLOCK [087] ---
+Venodroth violeta
+--- BLOCK [088] ---
+Gran Envenodroth
+--- BLOCK [089] ---
+Martillo caparazón
+--- BLOCK [090] ---
+Martillo caparazón+
+--- BLOCK [091] ---
+Martillo de Barroth
+--- BLOCK [092] ---
+Maza de Barroth
+--- BLOCK [093] ---
+Pegador Barroth
+--- BLOCK [094] ---
+Machacador Barroth
+--- BLOCK [095] ---
+Quiebrahielos
+--- BLOCK [096] ---
+Destrozahielos
+--- BLOCK [097] ---
+Viseberg de Barroth
+--- BLOCK [098] ---
+Fisura de Barroth
+--- BLOCK [099] ---
+Porra de latón
+--- BLOCK [100] ---
+Gigamartillo
+--- BLOCK [101] ---
+Martillo Grongigas
+--- BLOCK [102] ---
+Meltronudillo
+--- BLOCK [103] ---
+Martillo uragántico
+--- BLOCK [104] ---
+Martillo uragantesco
+--- BLOCK [105] ---
+Martillo toro
+--- BLOCK [106] ---
+Martillo cabeza toro
+--- BLOCK [107] ---
+Martillo cuerno toro
+--- BLOCK [108] ---
+Langostruosidad
+--- BLOCK [109] ---
+Rey langosta
+--- BLOCK [110] ---
+Langosta real
+--- BLOCK [111] ---
+Deuda del diablo
+--- BLOCK [112] ---
+Trituradora diablo
+--- BLOCK [113] ---
+Caos de Nerón
+--- BLOCK [114] ---
+Gaiasp
+--- BLOCK [115] ---
+Gaiarch
+--- BLOCK [116] ---
+Gran Gaiarch
+--- BLOCK [117] ---
+Madre Gaiarch
+--- BLOCK [118] ---
+Horizonte de Gaia
+--- BLOCK [119] ---
+Portomarca
+--- BLOCK [120] ---
+Martillo oxidado
+--- BLOCK [121] ---
+Martillo deslustrado
+--- BLOCK [122] ---
+Martillo aliento
+--- BLOCK [123] ---
+Martillo de lava
+--- BLOCK [124] ---
+Martillo de corteza
+--- BLOCK [125] ---
+Martillo desgastado
+--- BLOCK [126] ---
+Martillo estropeado
+--- BLOCK [127] ---
+Núcleo latiente
+--- BLOCK [128] ---
+Núcleo meteórico
+--- BLOCK [129] ---
+Martillo de Alatreon
+--- BLOCK [130] ---
+Metamorfo Alatreon
+--- BLOCK [131] ---
+Altheos Morphexo
+--- BLOCK [132] ---
+Núcleo de Megido
+--- BLOCK [133] ---
+Anteferno
+--- BLOCK [134] ---
+DUMMY
+--- BLOCK [135] ---
+DUMMY
+--- BLOCK [136] ---
+Cetro majestuoso
+--- BLOCK [137] ---

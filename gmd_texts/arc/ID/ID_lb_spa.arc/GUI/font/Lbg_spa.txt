@@ -1,0 +1,196 @@
+﻿TMSG_LBG
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Ballesta cruzada
+--- BLOCK ---
+Ballesta cruzada+
+--- BLOCK ---
+Rayo cruzado
+--- BLOCK ---
+Fusil de cazador
+--- BLOCK ---
+Francotirador
+--- BLOCK ---
+Ascensión tirador
+--- BLOCK ---
+Cañón de barro
+--- BLOCK ---
+Cañón de barro+
+--- BLOCK ---
+Barrozuca
+--- BLOCK ---
+Bengala de aurora
+--- BLOCK ---
+Avalancha
+--- BLOCK ---
+Glacialahti
+--- BLOCK ---
+Cañón ártico
+--- BLOCK ---
+Rayo Brach
+--- BLOCK ---
+Rayo Brach+
+--- BLOCK ---
+Pistola demoledora
+--- BLOCK ---
+Balista demoledora
+--- BLOCK ---
+Fuego Jaggido
+--- BLOCK ---
+Fuego bandido
+--- BLOCK ---
+Duria de bandido
+--- BLOCK ---
+Rabia despiadada
+--- BLOCK ---
+Lanzador real
+--- BLOCK ---
+Torrente real
+--- BLOCK ---
+Inundación real
+--- BLOCK ---
+Maelstrom
+--- BLOCK ---
+Maelstrom+
+--- BLOCK ---
+Chaparrón Plesioth
+--- BLOCK ---
+Tormenta de jade
+--- BLOCK ---
+Tempestad de jade
+--- BLOCK ---
+Tirador de Gobul
+--- BLOCK ---
+Pejesapo carmesí
+--- BLOCK ---
+Pejesapo carmesí+
+--- BLOCK ---
+Pejesapo Zhen
+--- BLOCK ---
+Ganador Gobul
+--- BLOCK ---
+Punzadora venenosa
+--- BLOCK ---
+Veneno rematador
+--- BLOCK ---
+Grillete inmortal
+--- BLOCK ---
+Celda inmortal
+--- BLOCK ---
+Prisión inmortal
+--- BLOCK ---
+Atador sangriento
+--- BLOCK ---
+Buscador carmesí
+--- BLOCK ---
+Acosador letal
+--- BLOCK ---
+Espectro del pesar
+--- BLOCK ---
+Cañón ventisca
+--- BLOCK ---
+Volea de ventisca
+--- BLOCK ---
+Tabula blizzara
+--- BLOCK ---
+Escarcha de diamante
+--- BLOCK ---
+Cresta de diamante
+--- BLOCK ---
+Fuego de valkiria
+--- BLOCK ---
+Llamarada valkiria
+--- BLOCK ---
+Llama de valkiria
+--- BLOCK ---
+Corazón de valkiria
+--- BLOCK ---
+Verdurrosa
+--- BLOCK ---
+Caos floral
+--- BLOCK ---
+Ojo oculto
+--- BLOCK ---
+Búho nocturno
+--- BLOCK ---
+Oteador Virnar
+--- BLOCK ---
+Halxón aullador
+--- BLOCK ---
+Oteador del eclipse
+--- BLOCK ---
+Truenacrus
+--- BLOCK ---
+Truenacrus+
+--- BLOCK ---
+Truenacrus Rex
+--- BLOCK ---
+Truenacrus novo
+--- BLOCK ---
+Rayiblanco Eclair
+--- BLOCK ---
+Amerrathalladora
+--- BLOCK ---
+Condenahalladora
+--- BLOCK ---
+Hallafénix
+--- BLOCK ---
+Surcacielos celeste
+--- BLOCK ---
+Abrasador celeste
+--- BLOCK ---
+Crimen del usurpador
+--- BLOCK ---
+Llama del déspota
+--- BLOCK ---
+Grieta del opresor
+--- BLOCK ---
+Orcus Barqus
+--- BLOCK ---
+Phloxion tenebroso
+--- BLOCK ---
+Envidia estigia
+--- BLOCK ---
+Durambarrel
+--- BLOCK ---
+Taurambarrel
+--- BLOCK ---
+Funestarma Aldebaran
+--- BLOCK ---
+Cuerno de Taurus
+--- BLOCK ---
+Corona de Taurus
+--- BLOCK ---
+Sonrisa del diablo
+--- BLOCK ---
+Locura del diablo
+--- BLOCK ---
+Funescañón Dementia
+--- BLOCK ---
+Morticañón Dementia
+--- BLOCK ---
+Islote del demonio
+--- BLOCK ---
+Isla del demonio
+--- BLOCK ---
+Tetera
+--- BLOCK ---
+Tetera de lujo
+--- BLOCK ---
+Tetera maestra
+--- BLOCK ---
+Islote de Dios
+--- BLOCK ---
+Isla de Dios
+--- BLOCK ---
+Archipiélago de Dios
+--- BLOCK ---
+Tiro de calabaza
+--- BLOCK ---
+Tiro de cardencha
+--- BLOCK ---
+Tiro de calabacín
+--- BLOCK ---
+Wiluminador
+--- BLOCK ---

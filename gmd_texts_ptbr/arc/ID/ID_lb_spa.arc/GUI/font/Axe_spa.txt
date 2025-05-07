@@ -1,0 +1,234 @@
+TMSG_AXE
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Machado de osso
+--- BLOCK ---
+Machado de Osso+
+--- BLOCK ---
+Esmagador de Ossos
+--- BLOCK ---
+Machado de Assalto
+--- BLOCK ---
+Machado de Assalto+
+--- BLOCK ---
+Blitzkrieg
+--- BLOCK ---
+Blitzkrieg+
+--- BLOCK ---
+Ataque Relâmpago
+--- BLOCK ---
+Machado Oculto
+--- BLOCK ---
+Meia-lua Noturna
+--- BLOCK ---
+Machado de Avidya
+--- BLOCK ---
+Machado do Eclipse
+--- BLOCK ---
+Asterismo de Mizar
+--- BLOCK ---
+Tyrannos
+--- BLOCK ---
+Terror Tyrannos
+--- BLOCK ---
+Machado Vil de Saligia
+--- BLOCK ---
+Endermachado Saligia
+--- BLOCK ---
+Machado de Relâmpago
+--- BLOCK ---
+Machado do trovão+
+--- BLOCK ---
+Grande machado do trovão
+--- BLOCK ---
+Machado de voltagem
+--- BLOCK ---
+Machado de megavoltagem
+--- BLOCK ---
+Machado do trovão nova
+--- BLOCK ---
+Brancorrelâmpago Remiel
+--- BLOCK ---
+Machado sombrio
+--- BLOCK ---
+Excellion sombrio
+--- BLOCK ---
+Machado de Arzuros
+--- BLOCK ---
+Machado de Arzuros+
+--- BLOCK ---
+Grande machado de Arzuros
+--- BLOCK ---
+Megamachado de Arzuros
+--- BLOCK ---
+Machado Brach
+--- BLOCK ---
+Machado Brach+
+--- BLOCK ---
+Machado de demolição
+--- BLOCK ---
+Explosivo demolidor
+--- BLOCK ---
+Corte de âmbar
+--- BLOCK ---
+Corte de âmbar+
+--- BLOCK ---
+Gélido âmbar
+--- BLOCK ---
+Ventaneve
+--- BLOCK ---
+Gigaventaneve
+--- BLOCK ---
+Machado de azurita
+--- BLOCK ---
+Vendaval de azurita
+--- BLOCK ---
+Gigavendaval azurita
+--- BLOCK ---
+Pecoxpander
+--- BLOCK ---
+Pecoxpander+
+--- BLOCK ---
+Qurupexpander
+--- BLOCK ---
+Explosão motriz
+--- BLOCK ---
+Explosão motriz+
+--- BLOCK ---
+Explosão gigante
+--- BLOCK ---
+Gigancelado
+--- BLOCK ---
+Brilharco
+--- BLOCK ---
+Choquearco
+--- BLOCK ---
+Brilharco+
+--- BLOCK ---
+Machado selvagem
+--- BLOCK ---
+Machado selvagem+
+--- BLOCK ---
+Corredor
+--- BLOCK ---
+Divisor pesado
+--- BLOCK ---
+Divisor pesado+
+--- BLOCK ---
+Grunhart
+--- BLOCK ---
+Hartschlagen
+--- BLOCK ---
+Nainokami
+--- BLOCK ---
+Semper Tyranis
+--- BLOCK ---
+Caos supremo
+--- BLOCK ---
+Machado de Gaia
+--- BLOCK ---
+Machado de Tánatos
+--- BLOCK ---
+Machado demoníaco
+--- BLOCK ---
+Machado de Hades
+--- BLOCK ---
+Tempestade de fogo
+--- BLOCK ---
+Tempestade de chamas
+--- BLOCK ---
+Ígneo fortíssimo
+--- BLOCK ---
+Tempestade líquida
+--- BLOCK ---
+Tempestágua
+--- BLOCK ---
+Dilúvio fortíssimo
+--- BLOCK ---
+Rolo capturador
+--- BLOCK ---
+Rolo capturador+
+--- BLOCK ---
+Vermilíngua
+--- BLOCK ---
+Machado vermelho sangue
+--- BLOCK ---
+Usurpador do dilúvio
+--- BLOCK ---
+Nuvem do déspota
+--- BLOCK ---
+Presa Brimstren
+--- BLOCK ---
+Glória estígia vanna
+--- BLOCK ---
+Machado Ludroth
+--- BLOCK ---
+Machado Ludroth+
+--- BLOCK ---
+Splish Splax
+--- BLOCK ---
+Demônio capturador
+--- BLOCK ---
+Grande demônio capturador
+--- BLOCK ---
+Demônio capturador digno
+--- BLOCK ---
+Cortante
+--- BLOCK ---
+Cortante+
+--- BLOCK ---
+Mega Rhipidon
+--- BLOCK ---
+Machado dracodoncella
+--- BLOCK ---
+Machado dracodoncella+
+--- BLOCK ---
+Terra criadora de Gríðr
+--- BLOCK ---
+Terra forjadora de Gríðr
+--- BLOCK ---
+Rosa celeste
+--- BLOCK ---
+Capullo rosa celeste
+--- BLOCK ---
+Gato sinistro
+--- BLOCK ---
+Grimmig Katze
+--- BLOCK ---
+Felyne fatalista
+--- BLOCK ---
+Fio Grosso
+--- BLOCK ---
+Quebra-Ossos
+--- BLOCK ---
+Quebra-Almas
+--- BLOCK ---
+Esmaga-Almas
+--- BLOCK ---
+Esmagadora Helios
+--- BLOCK ---
+Inceadeus
+--- BLOCK ---
+Grande Inceadeus
+--- BLOCK ---
+Machado de Proezas
+--- BLOCK ---
+Machado Espada Negra
+--- BLOCK ---
+Colheita Negra
+--- BLOCK ---
+Altheos Voracion
+--- BLOCK ---
+Crina de Megido
+--- BLOCK ---
+Carmesiana
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Santos Sinistros
+--- BLOCK ---
+Rugido de Dragão
+--- BLOCK ---

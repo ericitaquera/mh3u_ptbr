@@ -730,7 +730,7 @@ Espada Longa
 --- BLOCK ---
 Machado Espada
 --- BLOCK ---
-Lança Pistola
+Lança-canhão
 --- BLOCK ---
 Arco
 --- BLOCK ---
@@ -1037,7 +1037,7 @@ que deseja realizar.
 --- BLOCK ---
 Ataque
 --- BLOCK ---
-Afilamento
+Afiação
 --- BLOCK ---
 Ranhuras
 --- BLOCK ---

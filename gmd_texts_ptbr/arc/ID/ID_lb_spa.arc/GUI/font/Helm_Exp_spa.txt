@@ -1,0 +1,1418 @@
+TMSG_HELM_EXP
+--- BLOCK ---
+(Nenhum equipamento equipado.)
+--- BLOCK ---
+Capuz feito de pele
+curtida de monstro. Resistente
+e adequado para todos.
+--- BLOCK ---
+Peça projetada para uso
+debaixo d'água. Os chifres
+contêm Erva Aérea.
+--- BLOCK ---
+Cobertura de cabeça feita
+de minerais. Muito popular
+entre os caçadores.
+--- BLOCK ---
+Armadura de cabeça
+especial para caçadores.
+Firme mas flexível.
+--- BLOCK ---
+Armadura de cabeça especial para
+caçadores. Com uma mira
+na área dos olhos.
+--- BLOCK ---
+Armadura de cabeça feita de
+um Crânio desconhecido. Exala uma
+aura um tanto feroz.
+--- BLOCK ---
+Armadura de cabeça feita
+de um Crânio desconhecido.
+Todos deveriam ter uma.
+--- BLOCK ---
+Armadura de cabeça de
+Minério Machalita. Armadura
+defensiva muito funcional.
+--- BLOCK ---
+Armadura de cabeça de
+Minério Machalita. Um equipamento
+robusto para Atiradores.
+--- BLOCK ---
+Armadura de cabeça feita de
+partes de Jaggi. Barata
+mas robusta e confiável.
+--- BLOCK ---
+Armadura de cabeça feita de
+partes de Jaggi. Com óculos
+para proteger os olhos.
+--- BLOCK ---
+Armadura de inseto para
+cabeça de aristocratas. A
+sensação das festas!
+--- BLOCK ---
+Armadura de inseto para
+cabeça de aristocratas festeiros.
+Elegante e resistente.
+--- BLOCK ---
+Armadura de cabeça feita de
+Rhenoplos. Para procurar minerais
+e água na areia.
+--- BLOCK ---
+Armadura de cabeça feita
+de Rhenoplos. Tão resistente
+que poderia cavar fundações.
+--- BLOCK ---
+Armadura de cabeça usada
+por tribos estrangeiras quando
+saíam para caçar.
+--- BLOCK ---
+Armadura de cabeça florida e
+útil em várias situações pela
+sua resistência ao fogo.
+--- BLOCK ---
+As escamas felpudas nesta
+armadura de cabeça protegem
+mais do que metais.
+--- BLOCK ---
+Armadura de cabeça com aparência
+de peruca. Surpreende os
+artesãos quando a veem.
+--- BLOCK ---
+Armadura de cabeça feita de
+partes de Baggi. Seus desenhos
+azuis são muito chamativos.
+--- BLOCK ---
+Armadura de cabeça feita
+de partes de Baggi.
+Destacam-se os óculos.
+--- BLOCK ---
+Cobertura de cabeça de armadura
+de Barroth. Inquebrável mesmo se
+pisoteada por um wyvern.
+--- BLOCK ---
+Armadura de cabeça feita de
+Barroth para Atiradores. Sua
+dureza é algo sério.
+--- BLOCK ---
+Armadura de cabeça usada
+por um general oriental.
+Emana uma forte presença.
+--- BLOCK ---
+Armadura de cabeça usada
+por um estrategista oriental.
+Elegante e artística.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade estrangeiros.
+Com uma pena.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Inclui
+uma preciosa pena.
+--- BLOCK ---
+Armadura de cabeça usada por
+funcionárias do Gremio. Apesar
+de simples, protege bem.
+--- BLOCK ---
+Peça de cabeça usada por
+funcionárias do Gremio. Mais defesa
+do que o necessário.
+--- BLOCK ---
+Armadura aterrorizante para cabeça.
+Infundida com a graça
+da wyvern rainha.
+--- BLOCK ---
+Cobertura de cabeça digna da
+rainha. Nem mesmo um inferno
+em chamas poderia manchá-la.
+--- BLOCK ---
+Armadura de cabeça feita de
+partes de Gigginox. Efetiva
+contra trovão e gelo.
+--- BLOCK ---
+Armadura de cabeça com
+um design bizarro. Parece
+saída de um pesadelo.
+--- BLOCK ---
+Armadura de cabeça feita de
+Minério Dragonita. Tira muito
+proveito de sua liga.
+--- BLOCK ---
+Armadura de cabeça feita
+de Minério Dragonita. Aproveita
+o metal precioso.
+--- BLOCK ---
+Poderosa armadura de cabeça
+celestial, sinal de conquista
+do Senhor dos mares.
+--- BLOCK ---
+Armadura de cabeça, sinal de
+ter matado um Lagiacrus
+e resistente ao trovão.
+--- BLOCK ---
+Armadura de cabeça como uma
+coroa de rei. Concede
+uma defesa sem igual.
+--- BLOCK ---
+A armadura de cabeça que
+todos os caçadores desejam. Seu
+portador parecerá o rei.
+--- BLOCK ---
+Armadura de cabeça feita de
+partes de Barioth. Destacam-se os
+caninos e a juba.
+--- BLOCK ---
+Armadura de cabeça de
+Barioth. A máscara completa
+faz os monstros tremerem.
+--- BLOCK ---
+Cobertura de cabeça com armadura
+de Diablos. Um design
+tão duro quanto parece.
+--- BLOCK ---
+Cobertura de cabeça com armadura
+de Diablos. Prova de ter
+vencido o tirano do deserto.
+--- BLOCK ---
+Armadura de cabeça feita
+de Uragaan. Sua capacidade
+defensiva iguala seu peso.
+--- BLOCK ---
+Armadura de cabeça pesada de
+Uragaan. Protege a cabeça
+como um crânio exterior.
+--- BLOCK ---
+Armadura de cabeça de
+Agnaktor. Imbuída em chamas
+que queimam o céu.
+--- BLOCK ---
+Armadura para a cabeça
+de Agnaktor. Extremamente eficaz
+contra o fogo.
+--- BLOCK ---
+Armadura para a cabeça feita
+de Ceadeus. Seu design branco
+emana um sentido de nobreza.
+--- BLOCK ---
+Armadura para a cabeça feita
+de Ceadeus. Prova de pura
+valentia bruta e sem medo.
+--- BLOCK ---
+Armadura para a cabeça feita
+de Ceadeus. Seu design branco
+emana um sentido de nobreza.
+--- BLOCK ---
+Armadura para a cabeça feita
+de Ceadeus. Prova de pura
+valentia bruta e sem medo.
+--- BLOCK ---
+Cobertura de cabeça de design
+exclusivo. Criada por um
+ferreiro de outras terras.
+--- BLOCK ---
+Cobertura de cabeça preferida
+pelos forasteiros. Usada
+para transportar água.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Arzuros. Usada
+pelos caçadores de Yukumo.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Arzuros. Peso e
+visão prevalecem sobre defesa.
+--- BLOCK ---
+Armadura para a cabeça de
+design raro; contrasta com
+sua superfície glacial nívea.
+--- BLOCK ---
+Armadura para a cabeça de partes
+de Lagombi. A viseira é
+abaixada para proteger os olhos.
+--- BLOCK ---
+Cobertura de cabeça de caçadores
+do país do fogo. Simboliza
+o sagrado espírito do fogo.
+--- BLOCK ---
+Cobertura de cabeça herdada de
+caçadores provenientes de terras
+de fogo e vulcões.
+--- BLOCK ---
+Cobertura de cabeça de
+exoesqueleto melhorado muito ergonômico.
+Leve mas resistente.
+--- BLOCK ---
+Cobertura de cabeça de exoesqueleto
+melhorado criado com a
+melhor tecnologia do Gremio.
+--- BLOCK ---
+Cobertura de cabeça de chifre
+de Duramboros. Apenas caçadores
+poderosos suportam seu peso.
+--- BLOCK ---
+Cobertura de cabeça de chifre
+de Duramboros. Tão forte quanto
+pesado. Útil para dar poder.
+--- BLOCK ---
+Cobertura de cabeça de
+Yukumo. Identifica o portador
+como caçador viajante.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para a cabeça feita
+de couro seletivo. Forte
+e adequada para todos.
+--- BLOCK ---
+Armadura para a cabeça
+confiável, de materiais seletos.
+Design duro e tradicional.
+--- BLOCK ---
+Peça projetada para ser
+usada debaixo d'água. Os
+chifres contêm Erva aérea.
+--- BLOCK ---
+Peça projetada para ser
+usada debaixo d'água. Os
+chifres contêm Erva aérea.
+--- BLOCK ---
+Armadura para a cabeça
+feita de mineral. Malha
+que protegeu muitos caçadores.
+--- BLOCK ---
+Armadura para a cabeça feita
+de mineral na qual confiam
+caçadores do mundo inteiro.
+--- BLOCK ---
+Armadura para a cabeça feita
+para caçadores de elite.
+Usada até por veteranos.
+--- BLOCK ---
+Armadura para a cabeça usada por
+caçadores de elite. Com uma
+mira na região do olho.
+--- BLOCK ---
+Armadura para a cabeça feita
+de um Crânio desconhecido. Exala
+um ar um pouco feroz.
+--- BLOCK ---
+Armadura para a cabeça feita
+de um Crânio desconhecido.
+Todos deveriam ter uma.
+--- BLOCK ---
+Armadura para a cabeça feita
+com um raro mineral. Melhora
+o original em tudo.
+--- BLOCK ---
+Armadura para a cabeça de
+um raro mineral. Superfície forte
+com um brilho único.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Jaggi. Defesa
+prática e de qualidade.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Jaggi. Com óculos
+para proteger os olhos.
+--- BLOCK ---
+Armadura de insetos para
+a cabeça de aristocratas.
+A sensação das festas!
+--- BLOCK ---
+Armadura de insetos para
+a cabeça de aristocratas
+festeiros. Elegante e resistente.
+--- BLOCK ---
+Armadura para a cabeça feita
+de Rhenoplos. Para buscar minério
+e água na areia.
+--- BLOCK ---
+Armadura de cabeça feita
+de Rhenoplos. Tão forte
+quanto para cavar alicerces.
+--- BLOCK ---
+Cobertura de cabeça feita com
+pele grossa de Slagtoth. Valorizada
+por sua resistência à água.
+--- BLOCK ---
+Cobertura de cabeça feita com
+pele grossa de Slagtoth; resiste
+à água. Também ao vento.
+--- BLOCK ---
+Armadura para a cabeça
+usada por tribos estrangeiras
+ao sair para caçar.
+--- BLOCK ---
+Armadura para a cabeça florida
+e útil em várias situações
+por sua resistência ao fogo.
+--- BLOCK ---
+Armadura para a cabeça
+usada por tribos estrangeiras
+ao sair para caçar.
+--- BLOCK ---
+Cobertura de cabeça ornamentada,
+criada usando a sabedoria
+legada por antigas tribos.
+--- BLOCK ---
+Armadura para a cabeça com
+aparência de peruca. Surpreende os
+artesãos quando a veem.
+--- BLOCK ---
+Armadura para a cabeça com
+aparência de peruca. Surpreende os
+artesãos quando a veem.
+--- BLOCK ---
+As escamas fofas nesta armadura
+para a cabeça protegem
+mais do que metais.
+--- BLOCK ---
+Armadura para a cabeça com
+aparência de peruca. Surpreende os
+artesãos quando a veem.
+--- BLOCK ---
+Armadura para a cabeça feita
+de partes de Baggi. Design
+azul e fresco muito chamativo.
+--- BLOCK ---
+Armadura para a cabeça
+feita de partes de
+Baggi. Destacam-se seus óculos.
+--- BLOCK ---
+Cobertura de cabeça de design
+exclusivo. Criada por um
+ferreiro de outras terras.
+--- BLOCK ---
+Cobertura de cabeça preferida
+pelos forasteiros. Usada
+para transportar água.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Arzuros. Usada
+pelos caçadores de Yukumo.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Arzuros. Peso e
+visão prevalecem sobre defesa.
+--- BLOCK ---
+Armadura para a cabeça de
+design raro; contrasta com
+sua superfície glacial nívea.
+--- BLOCK ---
+Armadura para a cabeça de partes
+de Lagombi. A viseira é
+abaixada para proteger os olhos.
+--- BLOCK ---
+Cobertura de cabeça de caçadores
+do país do fogo. Simboliza
+o sagrado espírito do fogo.
+--- BLOCK ---
+Cobertura de cabeça herdada de
+caçadores provenientes de terras
+de fogo e vulcões.
+--- BLOCK ---
+Cobertura de cabeça de armadura
+de Barroth. Irrompível mesmo se
+pisoteada por um wyvern.
+--- BLOCK ---
+Armadura para a cabeça feita
+de Barroth para Atiradores. Sua
+dureza é coisa séria.
+--- BLOCK ---
+Cobertura de cabeça criada
+de armadura de Barroth
+esmeralda. Não se quebra.
+--- BLOCK ---
+Armadura para a cabeça
+de Barroth esmeralda. Para
+Atiradores e muito resistente.
+--- BLOCK ---
+Armadura para a cabeça usada
+por um general oriental.
+Emana uma forte presença.
+--- BLOCK ---
+Armadura para a cabeça
+usada por um estrategista
+oriental. Elegante e artística.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. As
+moedas são seus selos.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Inclui
+uma preciosa pena.
+--- BLOCK ---
+Armadura para a cabeça usada
+por funcionárias do Gremio.
+Embora simples, protege bem.
+--- BLOCK ---
+Peça para a cabeça usada
+por funcionárias do Gremio. Mais
+defesa do que o necessário.
+--- BLOCK ---
+Armadura aterradora para a
+cabeça. Infundida com a
+graça da wyvern rainha.
+--- BLOCK ---
+Cobertura de cabeça digna da
+rainha. Um inferno em
+chamas não poderia manchá-la.
+--- BLOCK ---
+Cobertura de cabeça digna da
+rainha. Cativa quem a vê.
+Sua defesa é como aço.
+--- BLOCK ---
+Cobertura de cabeça lendária
+muito apreciada. Seu design
+intrincado é esplêndido.
+--- BLOCK ---
+Armadura para a cabeça
+feita de Gigginox. Permeada
+por componentes antiveneno.
+--- BLOCK ---
+Armadura para a cabeça com
+design raro. Muito resistente
+contra trovão e gelo.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de Gigginox. Quem
+a usa tem pesadelos.
+--- BLOCK ---
+Armadura de cabeça com
+um design bizarro. Parece
+saída de um pesadelo.
+--- BLOCK ---
+Armadura para a cabeça feita
+de um raro mineral. Tira
+muito proveito de sua liga.
+--- BLOCK ---
+Armadura para a cabeça feita
+de um raro mineral. Tira
+proveito do metal precioso.
+--- BLOCK ---
+Armadura para a cabeça de
+ossos negros desconhecidos. Talvez
+de um poderoso dragão.
+--- BLOCK ---
+Armadura para a cabeça
+de ossos negros desconhecidos.
+Grande resistência a dragão.
+--- BLOCK ---
+Cobertura de cabeça de
+Yukumo. Identifica o portador
+como caçador viajante.
+--- BLOCK ---
+Cobertura de cabeça de
+Yukumo. Permite amplo campo
+de visão. Para Atiradores.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de insetos. Prova de
+valor em seu reino.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de insetos. Coloque-a e lidere
+as tribos na conquista!
+--- BLOCK ---
+Cobertura de cabeça de partes
+de inseto. Todos ficam petrificados
+diante de seu laço gigante.
+--- BLOCK ---
+Armadura para a cabeça de
+partes de inseto. Projetada para
+proteger até a nuca.
+--- BLOCK ---
+Cobertura de cabeça feita de
+raras abóboras. O portador
+ouvirá conselhos de caça.
+--- BLOCK ---
+Cobertura de cabeça feita de
+raras abóboras. Dizem que o
+portador pode ouvir vozes...
+--- BLOCK ---
+Poderosa armadura de cabeça
+celestial, sinal de conquista
+do Senhor dos mares.
+--- BLOCK ---
+Armadura para a cabeça, sinal
+de ter matado um Lagiacrus
+e resistente ao trovão.
+--- BLOCK ---
+Cobertura de cabeça de osso
+de Lagiacrus. Criaturas marinhas fogem
+por sua aparência wyvern.
+--- BLOCK ---
+Cobertura de cabeça de osso
+de Lagiacrus. Salva o caçador
+dos relâmpagos do wyvern.
+--- BLOCK ---
+Armadura para a cabeça como
+uma coroa de rei. Concede
+uma defesa sem igual.
+--- BLOCK ---
+A armadura para a cabeça
+que todos os caçadores desejam.
+Seu portador parecerá um rei.
+--- BLOCK ---
+Cobertura de cabeça do crepúsculo. As
+bestas que a veem não verão
+mais a luz do dia.
+--- BLOCK ---
+Cobertura de cabeça
+da meia-noite. Sua
+força é demoníaca.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Barioth. Destacam-se
+seus dentes e grande juba.
+--- BLOCK ---
+Armadura para a cabeça feita com
+partes de Barioth. A máscara
+completa faz os monstros tremerem.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Barioth arenoso. Destacam-se
+enormes dentes e crina.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Barioth arenoso. Sua
+cara coberta é assustadora.
+--- BLOCK ---
+Cobertura de cabeça com armadura
+de Diablos. Um design
+tão resistente quanto parece.
+--- BLOCK ---
+Cobertura de cabeça com armadura
+de Diablos. Prova ter vencido
+o tirano do deserto.
+--- BLOCK ---
+Cobertura de cabeça com armadura
+de Diablos. Um design
+tão resistente quanto parece.
+--- BLOCK ---
+Cobertura de cabeça com armadura
+de Diablos. Prova ter vencido
+o tirano do deserto.
+--- BLOCK ---
+Armadura para a cabeça feita
+com Uragaan. Sua capacidade
+defensiva iguala seu peso.
+--- BLOCK ---
+Armadura para a cabeça pesada
+de Uragaan. Protege a cabeça
+como um crânio externo.
+--- BLOCK ---
+Armadura pesada para a cabeça
+feita com partes de Uragaan
+enrijecido. Resistente e pesada.
+--- BLOCK ---
+Armadura pesada para a cabeça feita
+com partes de Uragaan enrijecido. Protege
+a cabeça como um exoesqueleto.
+--- BLOCK ---
+Armadura para a cabeça de
+Agnaktor. Imbuída em chamas
+que queimam o céu.
+--- BLOCK ---
+Armadura para a cabeça
+de Agnaktor. Extremamente eficaz
+contra o fogo.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Agnaktor glacial.
+É como uma chama prateada.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Agnaktor glacial.
+Reflete o medo do oponente.
+--- BLOCK ---
+Armadura de cabeça de
+pele curtida de Deviljho.
+Eleva impulsos destrutivos.
+--- BLOCK ---
+Armadura para a cabeça famosa
+por sua aparência rara. Apenas
+usá-la incita o mal.
+--- BLOCK ---
+Armadura celeste famosa por
+levar seu portador à
+vitória. Não tem igual.
+--- BLOCK ---
+Armadura celeste famosa por
+levar seu portador à
+glória. É lendária.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Um capacete que contém a
+alma de um deus oriental.
+Seus chifres cortam o céu.
+--- BLOCK ---
+Um capacete adornado com um
+dente de Jhen Mohran.
+A melhor artesanaria oriental.
+--- BLOCK ---
+Armadura para a cabeça criada
+usando uma técnica oriental.
+Pequena, mas muito protetora.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Jhen Mohran.
+Muito resistente ao fogo.
+--- BLOCK ---
+Armadura abismal atrapaluz que
+quebra espadas e presas
+que a atingem.
+--- BLOCK ---
+Armadura abismal atrapaluz. Satura
+o coração de seu
+portador na escuridão.
+--- BLOCK ---
+Armadura para a cabeça
+daquele tão poderoso que
+derrotou o grande Zinogre.
+--- BLOCK ---
+Armadura para a cabeça ideal
+para um conquistador. Suas chamas
+são símbolo de poder.
+--- BLOCK ---
+Cobertura de cabeça de
+exoesqueleto aprimorado muito ergonômica.
+Leve, mas resistente.
+--- BLOCK ---
+Cobertura de cabeça de exoesqueleto
+aprimorado criada com a
+melhor tecnologia do Gremio.
+--- BLOCK ---
+Cobertura de cabeça de chifre
+de Duramboros. Apenas caçadores
+poderosos suportam seu peso.
+--- BLOCK ---
+Cobertura de cabeça de chifre de
+Duramboros. Tão forte quanto pesado.
+Útil para aumentar o poder.
+--- BLOCK ---
+Cobertura de cabeça que lembra
+os olhos de Nargacuga
+ao caçar sua presa.
+--- BLOCK ---
+Cobertura de cabeça escura como a
+noite. Quem a usa pode
+se fundir com as sombras.
+--- BLOCK ---
+Armadura para a cabeça de
+escamas de Plesioth. Forte,
+mas vulnerável ao trovão.
+--- BLOCK ---
+Armadura de cabeça de
+escamas de Plesioth com
+barbatanas. Resiste à água.
+--- BLOCK ---
+Armadura para a cabeça
+com a força de
+Brachydios. Resiste às explosões.
+--- BLOCK ---
+Cobertura de cabeça com a
+força de Brachydios. Concede grande
+poder a cada golpe.
+--- BLOCK ---
+Cobertura de cabeça de funcionárias
+da Arena. Seu design floral
+cativa quem a vê.
+--- BLOCK ---
+Cobertura de cabeça de funcionárias
+da Arena. Foi desenhado
+numa floricultura de Yukumo.
+--- BLOCK ---
+Equipamento para soldado oficial de
+Loc Lac. O sol brilhante
+treme diante deste chapéu.
+--- BLOCK ---
+Equipamento oficial para arqueiro
+de Loc Lac. Concede
+precisão para alvos distantes.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para a cabeça feita
+de um mineral raro. Tira
+vantagem de sua liga.
+--- BLOCK ---
+Armadura para a cabeça feita
+de um mineral raro. Tira
+vantagem do metal precioso.
+--- BLOCK ---
+Armadura de insetos para
+cabeça de aristocratas. A
+sensação das festas!
+--- BLOCK ---
+Armadura de insetos para
+cabeça de aristocratas festeiros.
+Elegante e resistente.
+--- BLOCK ---
+Armadura para a cabeça feita
+com Rhenoplos. Para procurar minerais
+e água na areia.
+--- BLOCK ---
+Armadura de cabeça feita
+com Rhenoplos. Tão forte
+que pode cavar alicerces.
+--- BLOCK ---
+Cobertura de cabeça feita com
+pele espessa de Slagtoth. Valorizada
+por sua resistência à água.
+--- BLOCK ---
+Cobertura de cabeça feita com
+pele espessa de Slagtoth; resistente
+à água. Também ao vento.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Jaggi. Defesa
+prática e de qualidade.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Jaggi. Com
+óculos para proteger os olhos.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Baggi. Design
+azul e fresco muito chamativo.
+--- BLOCK ---
+Armadura para a cabeça
+feita com partes de
+Baggi. Destacam-se seus óculos.
+--- BLOCK ---
+Cobertura de cabeça de design
+exclusivo. Criado por um
+ferreiro de terras distantes.
+--- BLOCK ---
+Cobertura de cabeça preferida
+pelos forasteiros. Usada
+para transportar água.
+--- BLOCK ---
+Armadura para a cabeça feita
+com partes de Arzuros. Usado
+pelos caçadores de Yukumo.
+--- BLOCK ---
+Armadura para a cabeça feita com
+partes de Arzuros. Peso e
+visão predominam sobre a defesa.
+--- BLOCK ---
+Armadura para a cabeça de
+design raro; contrasta com
+sua superfície nívea glacial.
+--- BLOCK ---
+Armadura para a cabeça feita com
+partes de Lagombi. A viseira é
+abaixada para proteger os olhos.
+--- BLOCK ---
+Cobertura de cabeça dos caçadores
+do país do fogo. Simboliza
+o sagrado espírito do fogo.
+--- BLOCK ---
+Cobertura de cabeça herdada
+de caçadores das terras
+de fogo e vulcões.
+--- BLOCK ---
+Cobertura de cabeça feita com partes
+de Qurupeco. Sua asa se inspira
+na plumagem de um pássaro.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Qurupeco. Todos
+adoram sua aparência divertida.
+--- BLOCK ---
+Cobertura de cabeça feita com partes
+de Qurupeco carmesim. Sua asa é
+como a plumagem de um pássaro.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Qurupeco carmesim. Todos
+adoram seu aspecto divertido.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Ludroth real. Leve
+e confortável, com grande defesa.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Ludroth real. Apenas
+um caçador pode usá-la.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Ludroth real. Leve
+e confortável, com grande defesa.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Ludroth purpúreo. Apenas
+um caçador pode usá-la.
+--- BLOCK ---
+Cobertura de cabeça real de
+placas de Barroth. Forte, mas
+refinada, como seu portador.
+--- BLOCK ---
+Cobertura de cabeça de placas
+de Barroth. Nem um golpe
+de wyvern pode amassá-la.
+--- BLOCK ---
+Cobertura de cabeça real de
+placa de Barroth esmeralda. Forte
+e refinada, como seu portador.
+--- BLOCK ---
+Cobertura de cabeça de placas
+de Barroth esmeralda. Nem
+um wyvern pode amassá-la.
+--- BLOCK ---
+Armadura para a cabeça de pele
+de Gobul. Presente a um
+general oriental após a vitória.
+--- BLOCK ---
+Armadura para a cabeça de pele
+de Gobul. No oriente, é
+usada apenas por grandes arqueiros.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Rathalos. Aumenta a
+defesa e a concentração.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Rathalos. Concede um
+amplo campo de visão.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Rathalos celeste. Aumenta
+a defesa e a concentração.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Rathalos celeste. Concede
+um amplo campo de visão.
+--- BLOCK ---
+Cobertura de cabeça metálica
+de Rathalos prateado. Possui
+um poder infernal liberado.
+--- BLOCK ---
+Cobertura de cabeça com os
+raios de um sol prateado.
+Quem a usa perfura tudo.
+--- BLOCK ---
+Cobertura de cabeça feita com
+partes de Rathian com a
+proteção da rainha dos céus.
+--- BLOCK ---
+Armadura de cabeça feita
+com partes de Rathian.
+Protege do inferno.
+--- BLOCK ---
+Armadura de cabeça de Rathian
+rosa. Protege até do
+vento de um wyvern.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Rathian rosa. Protege
+de golpes de vento.
+--- BLOCK ---
+Cobertura de cabeça régia
+que parece um fragmento
+de lua dourada luminosa.
+--- BLOCK ---
+Armadura de cabeça da
+rainha lunar que caiu
+do céu. Encanta monstros.
+--- BLOCK ---
+Cobertura de cabeça de
+osso de Lagiacrus. Faz
+as criaturas marinhas fugirem.
+--- BLOCK ---
+Cobertura de cabeça de
+osso de Lagiacrus. Protege
+do relâmpago do wyvern.
+--- BLOCK ---
+Cobertura de cabeça de
+osso de Lagiacrus. Faz
+as criaturas marinhas fugirem.
+--- BLOCK ---
+Cobertura de cabeça de
+osso de Lagiacrus. Protege
+do relâmpago do wyvern.
+--- BLOCK ---
+Armadura de cabeça de
+Lagiacrus do abismo. Serás
+como um wyvern.
+--- BLOCK ---
+Armadura de cabeça de
+Lagiacrus do abismo. Serás
+como um deus marinho.
+--- BLOCK ---
+Cobertura de cabeça de Gigginox
+que o cavaleiro do norte
+usa em seus rituais.
+--- BLOCK ---
+Cobertura de cabeça de Gigginox
+do colonizador do norte para
+as tempestades de neve.
+--- BLOCK ---
+Cobertura de cabeça de
+Gigginox aterrorizante usada em
+rituais no norte.
+--- BLOCK ---
+Cobertura de cabeça de Gigginox
+aterrorizante usada no norte para
+as tempestades de neve.
+--- BLOCK ---
+Cobertura de cabeça de
+partes de Barioth. Seu
+colorido é magnífico.
+--- BLOCK ---
+Cobertura de cabeça de
+partes de Barioth. Concede
+um ar misterioso.
+--- BLOCK ---
+Cobertura de cabeça de
+partes de Barioth arenoso.
+Seu colorido é magnífico.
+--- BLOCK ---
+Cobertura de cabeça de
+partes de Barioth arenoso.
+Concede um ar misterioso.
+--- BLOCK ---
+Capacete de concha de
+Diablos. O chifre pode
+perfurar aço maciço.
+--- BLOCK ---
+Cobertura de cabeça de concha
+de Diablos. Os chifres são
+uma prova de grande poder.
+--- BLOCK ---
+Cobertura de cabeça de concha
+de Diablos negra. O
+chifre pode perfurar aço.
+--- BLOCK ---
+Cobertura de cabeça de concha
+de Diablos negra. Os chifres
+são uma prova de poder.
+--- BLOCK ---
+Cobertura de cabeça de concha
+rochosa de Uragaan. Brilha
+como um sol dourado.
+--- BLOCK ---
+Cobertura de cabeça de concha
+rochosa de Uragaan. Com
+ela, é difícil falar.
+--- BLOCK ---
+Cobertura de cabeça de concha
+rochosa de Uragaan acerado. Brilha
+como a luz da lua.
+--- BLOCK ---
+Cobertura de cabeça de concha
+rochosa de Uragaan acerado. Com
+ele, é difícil falar.
+--- BLOCK ---
+Armadura de cabeça de Agnaktor
+de lava. Quem a
+usa venceu o monstro.
+--- BLOCK ---
+Armadura de cabeça de Agnaktor
+de lava. Tem a aura
+de um grande guerreiro.
+--- BLOCK ---
+Armadura de cabeça de Agnaktor
+de gelo. Quem a
+usa venceu o monstro.
+--- BLOCK ---
+Armadura de cabeça de Agnaktor
+de gelo. Tem a aura
+de um grande guerreiro.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Ceadeus divino. O design
+tem um certo ar nobre.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Ceadeus divino. É venerado
+pelos adoradores do sol.
+--- BLOCK ---
+Cobertura de cabeça de Ceadeus
+barba dourada. Resiste ao rugido
+de um dragão ancião.
+--- BLOCK ---
+Cobertura de cabeça de Ceadeus
+barba dourada. Seus dois
+chifres evocam um dragão.
+--- BLOCK ---
+Cobertura de cabeça de
+concha de gigante das
+profundezas. Para espíritos selvagens.
+--- BLOCK ---
+Cobertura de cabeça de concha
+de gigante das profundezas.
+Tem um halo divino.
+--- BLOCK ---
+Capacete de Ceadeus barba
+dourada. Resiste ao rugido
+de um dragão ancião.
+--- BLOCK ---
+Cobertura de cabeça de Ceadeus
+barba dourada. Seus dois
+chifres evocam um dragão.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Jhen Mohran para
+quem venceu este dragão.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Jhen Mohran. Protege do
+hálito de dragão ancião.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Jhen Mohran. Sua mente
+se aguça ao usá-la.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de Jhen Mohran. Alguns usam
+a asa para mirar melhor.
+--- BLOCK ---
+Cobertura de cabeça de
+Jhen Mohran sagrado. Apenas
+artesãos orientais a trabalham.
+--- BLOCK ---
+Cobertura de cabeça de Jhen
+Mohran sagrado. Nobres do leste
+a usam na guerra.
+--- BLOCK ---
+Cobertura de cabeça de
+Jhen Mohran sagrado. Apenas
+artesãos orientais a trabalham.
+--- BLOCK ---
+Cobertura de cabeça de Jhen
+Mohran sagrado. Nobres do leste
+a usam na guerra.
+--- BLOCK ---
+Cobertura de cabeça imbuida com
+a fúria de um Deviljho
+para caçar como uma besta.
+--- BLOCK ---
+Cobertura de cabeça imbuida com
+a voracidade de um Deviljho.
+Só sacia a destruição.
+--- BLOCK ---
+Um capacete de partes de
+Alatreon, cuja cabeça pode
+ser vista no design.
+--- BLOCK ---
+Um capacete de partes de
+Alatreon, cuja cabeça pode
+ser vista no design.
+--- BLOCK ---
+Capacete de concha elétrica
+de Zinogre. Imuniza
+contra os raios.
+--- BLOCK ---
+Cobertura de cabeça de concha
+elétrica de Zinogre. Seu design
+é o de um raio.
+--- BLOCK ---
+Um capacete de Zinogre
+estígio. É muito resistente
+a ataques de dragão.
+--- BLOCK ---
+Um capacete de Zinogre
+estígio. Todos temem sua
+energia de dragão.
+--- BLOCK ---
+Modelo melhorado de cobertura
+de cabeça exoesquelética. Protege
+os pontos fracos.
+--- BLOCK ---
+Modelo aprimorado de cobertura
+de cabeça exoesquelética. Detecta
+seres do deserto.
+--- BLOCK ---
+Cobertura de cabeça do melhor
+chifre de Duramboros. Nem
+um wyvern poderia arranhá-lo.
+--- BLOCK ---
+Cobertura de cabeça do
+melhor chifre de Duramboros.
+Poderia atravessar rocha.
+--- BLOCK ---
+Cobertura de cabeça de Duramboros
+ferruginoso. Tem a forma
+da cauda do monstro.
+--- BLOCK ---
+Cobertura de cabeça de Duramboros ferruginoso.
+Sua forma é a de
+um grande machado de combate.
+--- BLOCK ---
+Cobertura de cabeça que lembra
+os olhos do Nargacuga,
+que espreitam sua presa.
+--- BLOCK ---
+Cobertura de cabeça escura como
+a noite que funde o
+usuário com as sombras.
+--- BLOCK ---
+Cobertura de cabeça que
+lembra os olhos espreitadores
+do Nargacuga verdejante.
+--- BLOCK ---
+Cobertura de cabeça escura como
+uma floresta que funde o
+usuário com as sombras.
+--- BLOCK ---
+Armadura de cabeça de
+Nargacuga lunar. Te confunde
+com o ambiente.
+--- BLOCK ---
+Cobertura de cabeça de
+Nargacuga lunar. Similar ao
+dos guerreiros orientais.
+--- BLOCK ---
+Armadura de cabeça de
+escamas de Plesioth. Resistente,
+mas fraca contra trovões.
+--- BLOCK ---
+Armadura de cabeça de
+escamas de Plesioth e
+barbatanas. Boa contra água.
+--- BLOCK ---
+Armadura de cabeça de
+escamas de Plesioth. Resistente,
+mas fraca contra trovões.
+--- BLOCK ---
+Armadura de cabeça de
+escamas de Plesioth e
+barbatanas. Boa contra água.
+--- BLOCK ---
+Armadura de cabeça com
+a força do Brachydios.
+Protege contra explosões.
+--- BLOCK ---
+Cobertura de cabeça com a
+força do Brachydios. Concede
+poder ígneo aos tiros.
+--- BLOCK ---
+Cobertura de cabeça de assassino
+de Miralis funesto, senhor do
+inferno e da calamidade.
+--- BLOCK ---
+Cobertura de cabeça de assassino
+de Miralis funesto, senhor do
+inferno e da calamidade.
+--- BLOCK ---
+Armadura celestial famosa por
+levar seu portador à
+vitória. Não tem igual.
+--- BLOCK ---
+Armadura celestial famosa por
+levar seu portador à
+glória. É lendária.
+--- BLOCK ---
+Armadura para cabeça de
+ossos negros desconhecidos. Talvez
+de um poderoso dragão.
+--- BLOCK ---
+Armadura para cabeça de
+ossos negros desconhecidos. Grande
+resistência a dragão.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cabeça de
+partes de inseto. Resalta
+seu poder sobre eles.
+--- BLOCK ---
+Cobertura de cabeça de partes
+de inseto. Guie com ele
+os insetos para a conquista!
+--- BLOCK ---
+Cobertura de cabeça de
+partes de inseto. Sua
+fita gigante é impressionante.
+--- BLOCK ---
+Armadura de cabeça de
+partes de inseto. Pensado
+para proteger a nuca.
+--- BLOCK ---
+Cobertura de cabeça de abóboras
+estranhas. Uma voz oferece
+conselhos sobre a caçada.
+--- BLOCK ---
+Cobertura de cabeça de
+abóboras estranhas. Quem a
+usar ouvirá vozes...
+--- BLOCK ---
+Cobertura de cabeça de funcionário.
+Seu design simples mas
+elegante é um clássico.
+--- BLOCK ---
+Cobertura de cabeça de funcionária.
+Seu ar elegante foi moda
+na corte no passado.
+--- BLOCK ---
+Equipamento oficial de montanhista
+Loc Lac. O sol
+treme diante deste chapéu.
+--- BLOCK ---
+Equipamento oficial de atirador
+Loc Lac. Grande precisão
+contra alvos distantes.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade estrangeiros.
+Com uma pena.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Inclui
+uma preciosa pena.
+--- BLOCK ---
+Armadura para cabeça usada
+por funcionárias do Gremio.
+Embora simples, protege bem.
+--- BLOCK ---
+Peça para a cabeça usada
+por funcionárias do Gremio. Mais
+defesa do que o necessário.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cabeça de
+funcionária do Gremio de
+Tanzia. Com uma fita.
+--- BLOCK ---
+Cobertura de cabeça de funcionária
+do Gremio de Tanzia.
+Sua aba parece feminina.
+--- BLOCK ---
+Coloque esses óculos de
+sol misteriosos e zombe
+do sol do deserto!
+--- BLOCK ---
+Uma máscara Jaggi criada por
+um pesquisador de monstros
+e usada em estudos.
+--- BLOCK ---
+As crianças fogem apavoradas ao ver
+esta máscara, que se parece
+com uma cabeça de Gargwa.
+--- BLOCK ---
+Capuz em forma de
+crânio de Bullfango. Imita
+a grande besta!
+--- BLOCK ---
+Máscara para imitar a morte.
+Se usada por muito tempo,
+você perderá sua alma.
+--- BLOCK ---
+Brinco pertencente a um
+sábio com poderes. Um
+tesouro com possibilidades infinitas.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Brinco usado por um
+santo da espada.
+Concede sabedoria oriental.
+--- BLOCK ---
+Brinco usado por um
+artilheiro lendário. Concede habilidade
+para carga extra.
+--- BLOCK ---
+Uma máscara para fingir
+estar morto. Dizem que
+permite ouvir as almas.
+--- BLOCK ---
+Brinco usado por um
+santo da espada.
+Concede sabedoria oriental.
+--- BLOCK ---

@@ -1,0 +1,234 @@
+﻿TMSG_AXE
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Hacha de hueso
+--- BLOCK ---
+Hacha de hueso+
+--- BLOCK ---
+Aplastahuesos
+--- BLOCK ---
+Hacha de asalto
+--- BLOCK ---
+Hacha de asalto+
+--- BLOCK ---
+Blitzkrieg
+--- BLOCK ---
+Blitzkrieg+
+--- BLOCK ---
+Ataque relámpago
+--- BLOCK ---
+Hacha oculta
+--- BLOCK ---
+Medialuna nocturna
+--- BLOCK ---
+Hacha de Avidya
+--- BLOCK ---
+Hacha del eclipse
+--- BLOCK ---
+Asterismo de Mizar
+--- BLOCK ---
+Tyrannos
+--- BLOCK ---
+Terror Tyrannos
+--- BLOCK ---
+Hacha vil de Saligia
+--- BLOCK ---
+Enderhacha Saligia
+--- BLOCK ---
+Hacha de relámpago
+--- BLOCK ---
+Hacha de relámpago+
+--- BLOCK ---
+Gran hacha relámpago
+--- BLOCK ---
+Hacha de voltaje
+--- BLOCK ---
+Hacha megavoltaje
+--- BLOCK ---
+Hacha relámpago nova
+--- BLOCK ---
+Rayiblanco Remiel
+--- BLOCK ---
+Hacha tenebrosa
+--- BLOCK ---
+Excellion tenebroso
+--- BLOCK ---
+Hacha de Arzuros
+--- BLOCK ---
+Hacha de Arzuros+
+--- BLOCK ---
+Gran hacha Arzuros
+--- BLOCK ---
+Megahacha de Arzuros
+--- BLOCK ---
+Hacha Brach
+--- BLOCK ---
+Hacha Brach+
+--- BLOCK ---
+Hacha de demolición
+--- BLOCK ---
+Explosivo demoledor
+--- BLOCK ---
+Tajo ámbar
+--- BLOCK ---
+Tajo ámbar+
+--- BLOCK ---
+Helada ambarina
+--- BLOCK ---
+Ventascarcha
+--- BLOCK ---
+Gigaventascarcha
+--- BLOCK ---
+Hacha de azurita
+--- BLOCK ---
+Vendaval de azurita
+--- BLOCK ---
+Gigavendaval azurita
+--- BLOCK ---
+Pecoxpander
+--- BLOCK ---
+Pecoxpander+
+--- BLOCK ---
+Qurupexpander
+--- BLOCK ---
+Reventón motriz
+--- BLOCK ---
+Reventón motriz+
+--- BLOCK ---
+Reventón gigante
+--- BLOCK ---
+Gigancelado
+--- BLOCK ---
+Sparqlepeco
+--- BLOCK ---
+Pecovoltaje
+--- BLOCK ---
+Pecobrillo
+--- BLOCK ---
+Hacha salvaje
+--- BLOCK ---
+Hacha salvaje+
+--- BLOCK ---
+Corredor
+--- BLOCK ---
+Divisor pesado
+--- BLOCK ---
+Divisor pesado+
+--- BLOCK ---
+Grunhart
+--- BLOCK ---
+Hartschlagen
+--- BLOCK ---
+Nainokami
+--- BLOCK ---
+Hacha Semper Tyranis
+--- BLOCK ---
+Gran caos
+--- BLOCK ---
+Hacha de Gaia
+--- BLOCK ---
+Hacha de Tánatos
+--- BLOCK ---
+Hacha demoníaca
+--- BLOCK ---
+Hacha de Hades
+--- BLOCK ---
+Tempestad de fuego
+--- BLOCK ---
+Tempestad de llamas
+--- BLOCK ---
+Helstrong ígneo
+--- BLOCK ---
+Tormenta líquida
+--- BLOCK ---
+Tempestagua
+--- BLOCK ---
+Helstrong diluvio
+--- BLOCK ---
+Rodillo atrapador
+--- BLOCK ---
+Rodillo atrapador+
+--- BLOCK ---
+Vermilingua
+--- BLOCK ---
+Hacha roja de sangre
+--- BLOCK ---
+Diluvio usurpador
+--- BLOCK ---
+Nube del déspota
+--- BLOCK ---
+Colmillo Brimstren
+--- BLOCK ---
+Vannagloria estigia
+--- BLOCK ---
+Hacha Ludroth
+--- BLOCK ---
+Hacha Ludroth+
+--- BLOCK ---
+Splish Splax
+--- BLOCK ---
+Atrapademonios
+--- BLOCK ---
+Gran atrapademonios
+--- BLOCK ---
+Atrapademonios digno
+--- BLOCK ---
+Cortaleta
+--- BLOCK ---
+Cortaleta+
+--- BLOCK ---
+Mega Rhipidon
+--- BLOCK ---
+Hacha dracodoncella
+--- BLOCK ---
+Hacha dracodoncella+
+--- BLOCK ---
+Creatierra de Gríðr
+--- BLOCK ---
+Forjatierra de Gríðr
+--- BLOCK ---
+Rosa celeste
+--- BLOCK ---
+Capullo rosa celeste
+--- BLOCK ---
+Gato siniestro
+--- BLOCK ---
+Grimmig Katze
+--- BLOCK ---
+Fatalidad Felyne
+--- BLOCK ---
+Filo grueso
+--- BLOCK ---
+Rompehuesos
+--- BLOCK ---
+Rompealmas
+--- BLOCK ---
+Aplastaalmas
+--- BLOCK ---
+Aplastadora Helios
+--- BLOCK ---
+Inceadeus
+--- BLOCK ---
+Gran Inceadeus
+--- BLOCK ---
+Hacha de hazañas
+--- BLOCK ---
+Hacha espada oscura
+--- BLOCK ---
+Cosecha negra
+--- BLOCK ---
+Altheos Voracion
+--- BLOCK ---
+Cresta de Megido
+--- BLOCK ---
+Carmesiana
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Santos siniestros
+--- BLOCK ---
+Rugido de dragón
+--- BLOCK ---

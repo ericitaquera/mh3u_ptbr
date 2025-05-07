@@ -1,0 +1,240 @@
+TMSG_GUNLANCE
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Lança-canhão de ferro
+--- BLOCK ---
+Lança-canhão ferro+
+--- BLOCK ---
+Lança-canhão aço
+--- BLOCK ---
+Lança-canhão ariete
+--- BLOCK ---
+Lança-canhão defensor
+--- BLOCK ---
+Guardalança imperial
+--- BLOCK ---
+Lança-balista geral
+--- BLOCK ---
+Lança-balista almirante
+--- BLOCK ---
+Lança-balista imperial
+--- BLOCK ---
+Lança-canhão oculta
+--- BLOCK ---
+Lança-canhão oculta+
+--- BLOCK ---
+Noite Crepuscular
+--- BLOCK ---
+Lança-canhão eclipse
+--- BLOCK ---
+Asterismo de Alioth
+--- BLOCK ---
+Lança-canhão Virnar
+--- BLOCK ---
+Fim da Noite
+--- BLOCK ---
+Gralha Vermelha
+--- BLOCK ---
+Gralha Vermelha+
+--- BLOCK ---
+Gralha Carmesim
+--- BLOCK ---
+Gralha de Prata
+--- BLOCK ---
+Lança-canhão carro
+--- BLOCK ---
+Fim do Mundo
+--- BLOCK ---
+Lança-balista antiga
+--- BLOCK ---
+Lança-assalto antigo
+--- BLOCK ---
+Progênesis
+--- BLOCK ---
+Lança-tormenta tipo 62
+--- BLOCK ---
+Lança-tempestade de assalto
+--- BLOCK ---
+Marechal de Guerra
+--- BLOCK ---
+Destruição
+--- BLOCK ---
+Ás da Destruição
+--- BLOCK ---
+Deus da Destruição
+--- BLOCK ---
+Explosão de Lagia
+--- BLOCK ---
+Explosão de Lagia+
+--- BLOCK ---
+Lança-canhão Exlagia
+--- BLOCK ---
+Explosão Lagia novo
+--- BLOCK ---
+Raiobranco Eutaxy
+--- BLOCK ---
+Raiobranco Eutaxy+
+--- BLOCK ---
+Lança-canhão escura
+--- BLOCK ---
+Jugulus tenebroso
+--- BLOCK ---
+Lança-canhão Brach
+--- BLOCK ---
+Lança-canhão Brach+
+--- BLOCK ---
+Lança-canhão demolidor
+--- BLOCK ---
+Demolidor Zvolta
+--- BLOCK ---
+Lagombardeador
+--- BLOCK ---
+Lagombardeatrix
+--- BLOCK ---
+Lagombalanche
+--- BLOCK ---
+Lança-chamas
+--- BLOCK ---
+Lança-chamas+
+--- BLOCK ---
+Agna Magma
+--- BLOCK ---
+Agna Vulcano
+--- BLOCK ---
+Agna Vulcano Caustico
+--- BLOCK ---
+Lança-água
+--- BLOCK ---
+Agna Água
+--- BLOCK ---
+Rheo Agnacorso
+--- BLOCK ---
+Lança-canhão de osso
+--- BLOCK ---
+Lança-canhão de osso+
+--- BLOCK ---
+Lança-canhão wyvern
+--- BLOCK ---
+Cargador Barroth
+--- BLOCK ---
+Cargador Barroth+
+--- BLOCK ---
+Cargador duro
+--- BLOCK ---
+Roscabarro
+--- BLOCK ---
+Roscarpa
+--- BLOCK ---
+Lança-balista Vaskaclast
+--- BLOCK ---
+Lança-balista Vaskaclast+
+--- BLOCK ---
+Roscahorror
+--- BLOCK ---
+Roscavalancha
+--- BLOCK ---
+Lança-canhão Jaggida
+--- BLOCK ---
+Lança-canhão Jaggida+
+--- BLOCK ---
+Lança-canhão Furacão
+--- BLOCK ---
+Panóplia princesa
+--- BLOCK ---
+Panóplia princesa+
+--- BLOCK ---
+Ortlinde
+--- BLOCK ---
+Panóplia reina
+--- BLOCK ---
+Ishtar brilhante
+--- BLOCK ---
+Rugido do usurpador
+--- BLOCK ---
+Flogisto do déspota
+--- BLOCK ---
+Chuva do opressor
+--- BLOCK ---
+Sangue de Brimstren
+--- BLOCK ---
+Avarícia estígia
+--- BLOCK ---
+Tipi Peco
+--- BLOCK ---
+Tipi Peco+
+--- BLOCK ---
+Tipi ensueño
+--- BLOCK ---
+Pluma tonante
+--- BLOCK ---
+Ave de trovão
+--- BLOCK ---
+Arca tonante
+--- BLOCK ---
+Pescador marinho
+--- BLOCK ---
+Pescador abissal
+--- BLOCK ---
+Gigante azul
+--- BLOCK ---
+Lança pis. Leviathan
+--- BLOCK ---
+Lança pis. Diviathan
+--- BLOCK ---
+Lança-canhão voraz
+--- BLOCK ---
+Lança-canhão insaciável
+--- BLOCK ---
+Avarícia de Nerón
+--- BLOCK ---
+Rompecolmillos
+--- BLOCK ---
+Caoscolmillo
+--- BLOCK ---
+Jhen Mortalis
+--- BLOCK ---
+Lança-canhão desgastada
+--- BLOCK ---
+Lança-canhão antiga
+--- BLOCK ---
+Obelisco
+--- BLOCK ---
+Obelisco Deus
+--- BLOCK ---
+Forja de Megido
+--- BLOCK ---
+Disasualidad
+--- BLOCK ---
+Felyoshka
+--- BLOCK ---
+Felyoshka+
+--- BLOCK ---
+Feliz Felyoshka
+--- BLOCK ---
+Maicera
+--- BLOCK ---
+Maicera+
+--- BLOCK ---
+Maicera poderosa
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Blasão de barão
+--- BLOCK ---
+Blasão de marquês
+--- BLOCK ---
+Blasão de duque
+--- BLOCK ---
+Blasão de raio
+--- BLOCK ---

@@ -1,0 +1,1404 @@
+TMSG_LEG_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Armadura de pernas. Parte do
+equipamento básico de caça. Leve
+e fácil de manusear.
+--- BLOCK ---
+Joelheiras feitas para
+nadar. Diminuem a
+resistência à água.
+--- BLOCK ---
+Perneiras robustas feitas
+com pouco metal
+para maior conforto.
+--- BLOCK ---
+Botas para o deserto.
+Resistência máxima ao calor
+em um tamanho mínimo.
+--- BLOCK ---
+Caneleiras especiais para
+caçadores. Sólidas
+para manobrabilidade.
+--- BLOCK ---
+Joelheiras para caçadores.
+Leves, fortes
+e equilibradas.
+--- BLOCK ---
+Joelheiras feitas de ossos
+de monstros. Oferecem
+uma forte proteção.
+--- BLOCK ---
+Joelheiras feitas com ossos
+de monstros. Seu
+selvagerismo é palpável.
+--- BLOCK ---
+Joelheiras feitas de Mineral
+machalita. Seu design
+é muito prático.
+--- BLOCK ---
+Joelheiras feitas de
+Mineral machalita. Designadas
+para Atiradores.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Jaggi. Pensadas
+para serem manejáveis.
+--- BLOCK ---
+Joelheiras feitas de partes de
+Jaggi. Feitas para desviar os
+golpes para o chão.
+--- BLOCK ---
+Joelheiras feitas de partes
+de inseto. Novas, mas
+de excelente design.
+--- BLOCK ---
+Joelheiras feitas de partes
+de inseto. Raras e
+populares por sua elegância.
+--- BLOCK ---
+Joelheiras feitas de
+Rhenoplos. Usadas frequentemente
+na mineração.
+--- BLOCK ---
+Joelheiras usadas originalmente por
+mineiros, mas úteis
+para a caça.
+--- BLOCK ---
+Joelheiras com um plumagem
+brilhante e leves
+como uma pena.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Qurupeco. Robustas
+ainda que leves.
+--- BLOCK ---
+Joelheiras com um design vistoso.
+Feitas de material flexível
+que se ajusta bem.
+--- BLOCK ---
+Perneiras de Ludroth, que
+se destacam pelo design
+prático e na moda.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Baggi. Não congelarão
+em lugares muito frios.
+--- BLOCK ---
+Perneiras de Baggi. O
+azul da pele faz
+parte do design.
+--- BLOCK ---
+Joelheiras feitas de pés
+de Barroth. Como se
+fosse um esqueleto externo.
+--- BLOCK ---
+Perneiras que oferecem
+grande força sem
+perder manobrabilidade.
+--- BLOCK ---
+Joelheiras de combate concebidas
+no oriente. A história
+demonstrou seu valor.
+--- BLOCK ---
+Perneiras históricas que
+enfrentaram a ação
+em numerosas guerras.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Joelheiras usadas por
+cavaleiros estrangeiros. Repletas
+de honra cavalheiresca.
+--- BLOCK ---
+Joelheiras usadas por
+cavaleiros estrangeiros. Parte
+do uniforme oficial.
+--- BLOCK ---
+Vestimenta para as pernas
+usada por funcionárias do
+Gremio. Correta e formal.
+--- BLOCK ---
+Sandálias usadas frequentemente por
+funcionárias do Gremio, que
+parecem ter muitos pares.
+--- BLOCK ---
+Joelheiras imbuidas do poder da
+rainha. Use-as para fazer
+a terra sua aliada.
+--- BLOCK ---
+Armadura real para pernas
+que mantém sua elegância
+mesmo no inferno.
+--- BLOCK ---
+Joelheiras que fazem você
+sentir como se estivesse
+carregando um monstro. Pretas.
+--- BLOCK ---
+Joelheiras feitas de Gigginox.
+Grotescas, mas ao
+mesmo tempo... belas.
+--- BLOCK ---
+Joelheiras douradas que
+usam lascivamente o
+Mineral dragonita.
+--- BLOCK ---
+Joelheiras douradas de Mineral
+dragonita. Usadas por caçadores
+de nível médio.
+--- BLOCK ---
+Perneiras feitas de escamas
+duras de Lagiacrus.
+Despertam habilidades latentes.
+--- BLOCK ---
+Perneiras feitas de escamas
+duras de Lagiacrus.
+Agitam os sentidos.
+--- BLOCK ---
+Perneiras de Rathalos.
+Lembram um wyvern
+dançando no céu.
+--- BLOCK ---
+Joelheiras do Rei dos
+Céus. Nem todas as
+chamas a queimariam.
+--- BLOCK ---
+Joelheiras com placas de
+Barioth. Permitem andar
+sobre gelo escorregadio.
+--- BLOCK ---
+Perneiras fortalecidas com couraça
+de Barioth. Permitem andar
+sobre o gelo.
+--- BLOCK ---
+Perneiras de concha
+de Diablos. Sua
+dureza é surpreendente.
+--- BLOCK ---
+Perneiras de Diablos. Seu
+design aponta para
+o verdadeiro guerreiro.
+--- BLOCK ---
+Perneiras pesadas de Uragaan.
+Use-as para ser
+uma fortaleza ambulante.
+--- BLOCK ---
+Perneiras pesadas feitas
+de Uragaan. Requer
+pernas musculosas.
+--- BLOCK ---
+Joelheiras de Agnaktor. Um
+passo e a
+terra queimada permanecerá.
+--- BLOCK ---
+Joelheiras de Agnaktor onde
+reside a alma
+do cavaleiro carmesim.
+--- BLOCK ---
+Perneiras feitas de Ceadeus. Resistiriam
+até a uma missão
+de toda uma vida.
+--- BLOCK ---
+Perneiras feitas de Ceadeus. Sua
+beleza branca e pura é
+uma obra de arte.
+--- BLOCK ---
+Perneiras feitas de Ceadeus. Resistiriam
+até a uma missão
+de toda uma vida.
+--- BLOCK ---
+Perneiras feitas de Ceadeus. Sua
+beleza branca e pura é
+uma obra de arte.
+--- BLOCK ---
+Peculiar armadura de perna
+que virou moda. São
+tão boas quanto parecem!
+--- BLOCK ---
+Joelheiras estrangeiras. Os
+ferreiros se surpreendem
+com seu design.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Arzuros. Para
+floresta e montanha.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Arzuros. Imitam
+as patas dianteiras.
+--- BLOCK ---
+Perneiras forradas com pele
+de Lagombi. Sua textura
+ajuda no gelo.
+--- BLOCK ---
+Perneiras cobertas de
+abrasivo. O design
+exótico é incrível.
+--- BLOCK ---
+Joelheiras feitas de concha
+de Volvidon. Encarnam o
+espírito de fogo.
+--- BLOCK ---
+Joelheiras carmesim para caçadores
+de uma terra árdua
+de fumaça e chamas.
+--- BLOCK ---
+Perneiras exoesqueléticas
+que podem
+despertar habilidades.
+--- BLOCK ---
+Perneiras baseadas no
+corpo humano. Melhoram
+o desempenho.
+--- BLOCK ---
+Joelheiras pesadas. Uma pessoa
+normal não conseguiria
+caminhar com elas.
+--- BLOCK ---
+Perneiras feitas de concha
+de Duramboros, uma besta
+que derruba árvores.
+--- BLOCK ---
+Perneiras da região
+de Yukumo. Ajustam-se
+com o cinto.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para pernas com um
+design padrão, mas grande
+defesa. Leve e confortável.
+--- BLOCK ---
+Armadura para pernas de design
+clássico, mas com grande
+defesa. Leve e flexível.
+--- BLOCK ---
+Perneiras feitas para
+nadar. Diminuem a
+resistência à água.
+--- BLOCK ---
+Perneiras feitas para
+nadar. Diminuem a
+resistência à água.
+--- BLOCK ---
+Robustas joelheiras, com
+pouco metal para
+facilitar o uso.
+--- BLOCK ---
+Perneiras simples, mas fortes,
+com mínimo de metal
+para máxima usabilidade.
+--- BLOCK ---
+Perneiras para o deserto.
+Resistência máxima ao calor
+em pacote pequeno.
+--- BLOCK ---
+Perneiras para o
+deserto. Tornam as
+fogueiras inofensivas.
+--- BLOCK ---
+Joelheiras para caçadores
+de elite. Equipamento
+sólido, mas manejável.
+--- BLOCK ---
+Joelheiras para caçadores
+de elite. Leves,
+fortes e equilibradas.
+--- BLOCK ---
+Armadura para pernas feita
+de ossos de monstro.
+Oferece uma proteção esplêndida.
+--- BLOCK ---
+Armadura para pernas feita
+com ossos de qualidade.
+Seu selvagerismo é palpável.
+--- BLOCK ---
+Armadura para pernas feita
+de um minério raro.
+Projetada para caçadores ativos.
+--- BLOCK ---
+Joelheiras de um minério
+raro. Para um uso
+ótimo por Atiradores.
+--- BLOCK ---
+Armadura para pernas feita
+de partes de Jaggi.
+Pensada para ser manejável.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de Jaggi. Feita para
+enviar os golpes ao chão.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de inseto. Nova,
+mas com excelente design.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de inseto. Rara e
+popular por sua elegância.
+--- BLOCK ---
+Armadura para pernas feita
+de Rhenoplos. Usada
+frequentemente na mineração.
+--- BLOCK ---
+Armadura para pernas usada
+por mineiros originalmente, mas
+útil para a caça.
+--- BLOCK ---
+Joelheiras com um penacho
+brilhante e tão leves
+quanto uma pena.
+--- BLOCK ---
+Armadura para pernas feita
+de partes de Qurupeco.
+Robusta, porém leve.
+--- BLOCK ---
+Joelheiras com um penacho
+brilhante e tão leves
+quanto uma pena.
+--- BLOCK ---
+Armadura para pernas feita
+de partes de Qurupeco.
+Robusta, porém leve.
+--- BLOCK ---
+Armadura para pernas com um
+design chamativo. Feita de material
+flexível que se ajusta bem.
+--- BLOCK ---
+Armadura para pernas de
+Ludroth, destacando-se por seu
+design prático e moderno.
+--- BLOCK ---
+Armadura para pernas com um
+design chamativo. Feita de material
+flexível que se ajusta bem.
+--- BLOCK ---
+Joelheiras feitas de
+material esponjoso. Grande
+estilo e desempenho.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de Baggi. Não congelam
+em lugares muito frios.
+--- BLOCK ---
+Joelheiras de Baggi. O
+azul da pele faz
+parte do design.
+--- BLOCK ---
+Peculiar armadura de perna
+que virou moda. São
+tão boas quanto parecem!
+--- BLOCK ---
+Joelheiras estrangeiras. Os
+ferreiros se surpreendem
+com seu design.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Arzuros. Para
+floresta e montanha.
+--- BLOCK ---
+Joelheiras feitas de partes
+de Arzuros. Imitam
+as patas dianteiras.
+--- BLOCK ---
+Perneiras forradas com pele
+de Lagombi. Sua textura
+ajuda no gelo.
+--- BLOCK ---
+Perneiras cobertas de
+abrasivo. O design
+exótico é incrível.
+--- BLOCK ---
+Joelheiras feitas de concha
+de Volvidon. Encarnam o
+espírito de fogo.
+--- BLOCK ---
+Joelheiras carmesim para caçadores
+de uma terra árdua
+de fumaça e chamas.
+--- BLOCK ---
+Armadura para pernas feita de
+pés de Barroth. Como se
+fosse um esqueleto externo.
+--- BLOCK ---
+Armadura para pernas que
+oferece grande força
+sem perder manobrabilidade.
+--- BLOCK ---
+Armadura para pernas feita de
+pés de Barroth. Como se
+fosse um esqueleto externo.
+--- BLOCK ---
+Armadura para pernas que
+oferece grande força
+sem perder manobrabilidade.
+--- BLOCK ---
+Joelheiras de combate concebidas
+no oriente. A história
+tem mostrado seu valor.
+--- BLOCK ---
+Armadura para pernas histórica
+que viveu a ação
+em várias guerras.
+--- BLOCK ---
+Armadura para pernas usada
+por cavaleiros estrangeiros. Cheia
+de honra cavalheiresca.
+--- BLOCK ---
+Armadura para pernas usada
+por cavaleiros estrangeiros. Parte
+do uniforme oficial.
+--- BLOCK ---
+Peça para as pernas
+usada por funcionárias do
+Gremio. Correta e formal.
+--- BLOCK ---
+Sandálias usadas frequentemente por
+funcionárias do Gremio, que
+parecem ter muitos pares.
+--- BLOCK ---
+Joelheiras imbuidas do poder da
+rainha. Use-as para fazer
+a terra sua aliada.
+--- BLOCK ---
+Verdadeira armadura para pernas,
+que mantém sua elegância
+mesmo no inferno.
+--- BLOCK ---
+Perneiras da wyvern rosa
+para mover-se como
+chama em óleo.
+--- BLOCK ---
+Perneiras rosa cujo poder
+é digno da
+rainha da terra.
+--- BLOCK ---
+Armadura para pernas que faz
+você sentir que está
+carregando um monstro. Pretas.
+--- BLOCK ---
+Armadura para pernas feita
+de Gigginox. Grotesca, mas
+ao mesmo tempo... bela.
+--- BLOCK ---
+Perneiras que parecem um
+monstro agarrado de
+cor vermelho sangue.
+--- BLOCK ---
+Armadura para pernas feita
+de Gigginox. Grotesca, mas
+ao mesmo tempo... bela.
+--- BLOCK ---
+Armadura para pernas dourada
+que usa lascivamente
+o Mineral carbalita.
+--- BLOCK ---
+Armadura para pernas usada por
+caçadores de elite. Aglomerado
+caro de mineral raro.
+--- BLOCK ---
+Joelheiras de ossos
+negros desconhecidos. Grande
+resistência ao trovão.
+--- BLOCK ---
+Joelheiras de ossos
+negros desconhecidos. Despertam
+desejos de caça.
+--- BLOCK ---
+Perneiras da região
+de Yukumo. Ajustam-se
+com o cinto.
+--- BLOCK ---
+Perneiras de caçadores
+de Yukumo. Ajustam-se
+com o cinto.
+--- BLOCK ---
+Joelheiras feitas de partes
+de inseto. Ajoelhem-se
+perante o campeão!
+--- BLOCK ---
+Perneiras de inseto. Cada
+passo é um salto
+para os insetos.
+--- BLOCK ---
+Perneiras de insetos.
+Flutuam como borboletas,
+picam como abelhas.
+--- BLOCK ---
+Joelheiras feitas de partes
+de inseto. Até a
+elite as venera.
+--- BLOCK ---
+Perneiras de abóboras.
+Cuidado para
+ninguém comê-las!
+--- BLOCK ---
+Perneiras de abóboras.
+Permitem pressentir
+o perigo.
+--- BLOCK ---
+Perneiras feitas de restos
+de um artefato desenterrado
+que continha engrenagens.
+--- BLOCK ---
+Perneiras feitas de restos
+de um artefato desenterrado
+que parecem pernas mecânicas.
+--- BLOCK ---
+Perneiras de escamas
+duras de Lagiacrus.
+Despertam habilidades latentes.
+--- BLOCK ---
+Perneiras feitas de escamas
+duras de Lagiacrus.
+Agudizam os sentidos.
+--- BLOCK ---
+Joelheiras de osso de
+Lagiacrus marmóreo. Brilham com
+um tom roxo.
+--- BLOCK ---
+Joelheiras de osso de
+Lagiacrus marmóreo. Para
+caçar debaixo d'água.
+--- BLOCK ---
+Joelheiras de Rathalos.
+Lembra um wyvern
+dançando no céu.
+--- BLOCK ---
+Armadura para pernas do rei
+dos céus. Nem todas
+as chamas a queimariam.
+--- BLOCK ---
+Joelheiras do wyvern
+voador celeste. Confunde-se
+durante a noite.
+--- BLOCK ---
+Armadura para pernas que evoca
+o rei dos céus.
+Todos sonham com ela.
+--- BLOCK ---
+Perneiras com placas de
+Barioth. Permitem andar
+sobre gelo escorregadio.
+--- BLOCK ---
+Calças fortalecidas com couraça
+de Barioth. Permitem andar
+sobre o gelo.
+--- BLOCK ---
+Joelheiras com concha de
+Barioth arenoso. Evocam um
+tornado de areia.
+--- BLOCK ---
+Joelheiras com concha de
+Barioth arenoso. O poder
+de um tornado.
+--- BLOCK ---
+Joelheiras de concha
+de Diablos. Sua
+dureza é surpreendente.
+--- BLOCK ---
+Joelheiras de Diablos. Seu
+design aponta para
+o verdadeiro guerreiro.
+--- BLOCK ---
+Joelheiras de concha
+de Diablos. Sua
+dureza é surpreendente.
+--- BLOCK ---
+Joelheiras de Diablos. Seu
+design aponta para
+o verdadeiro guerreiro.
+--- BLOCK ---
+Joelheiras pesadas de Uragaan.
+Use-as para ser
+uma fortaleza ambulante.
+--- BLOCK ---
+Joelheiras pesadas feitas
+de Uragaan. Precisam
+de pernas musculosas.
+--- BLOCK ---
+Joelheiras pesadas com
+partes de Uragaan
+endurecido. Impenetráveis.
+--- BLOCK ---
+Joelheiras pesadas com partes
+de Uragaan endurecido.
+Difíceis de mover.
+--- BLOCK ---
+Joelheiras de Agnaktor.
+Um passo e
+deixará terra queimada.
+--- BLOCK ---
+Joelheiras de Agnaktor onde
+reside a alma
+do cavaleiro carmesim.
+--- BLOCK ---
+Joelheiras de partes de
+Agnaktor glacial. Como um
+sopro de ar.
+--- BLOCK ---
+Joelheiras de partes de
+Agnaktor glacial. Refletem a
+luz do sol.
+--- BLOCK ---
+Joelheiras carregadas com o poder
+da pata de Deviljho. Cada
+passo deixará um cratera.
+--- BLOCK ---
+Armadura para pernas dotada
+com a força
+muscular do Deviljho.
+--- BLOCK ---
+Armadura celeste famosa por
+levar seu portador à
+glória. Emana vitória.
+--- BLOCK ---
+Armadura celeste famosa por
+dar glória ao portador.
+Emite uma força avassaladora.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para pernas do
+oriente. Mais poderosa do
+que se imagina.
+--- BLOCK ---
+Armadura para pernas feita
+de materiais de primeira.
+Defende e absorve impactos.
+--- BLOCK ---
+Armadura de pernas tingida
+com um design azul.
+Exemplo da arte oriental.
+--- BLOCK ---
+Armadura de pernas tingida
+com um design azul.
+Exemplo da arte oriental.
+--- BLOCK ---
+Armadura abissal captura-luz. Permanece
+escura mesmo sob o
+sol do meio-dia.
+--- BLOCK ---
+Armadura abissal captura-luz.
+Dizem que traz
+consigo catástrofes sombrias.
+--- BLOCK ---
+Armadura de perna sem
+igual. É como um
+raio encarnado devastador.
+--- BLOCK ---
+Joelheiras de concha
+de Zinogre. Para
+lutar sem medo.
+--- BLOCK ---
+Joelheiras exoesqueléticas
+que podem
+despertar habilidades.
+--- BLOCK ---
+Joelheiras baseadas no
+corpo humano. Melhoram
+o desempenho.
+--- BLOCK ---
+Joelheiras pesadas. Uma pessoa
+normal não conseguiria
+caminhar com elas.
+--- BLOCK ---
+Joelheiras de concha de
+Duramboros, uma besta
+que derruba árvores.
+--- BLOCK ---
+Joelheiras negras que parecem
+pernas de Nargacuga. Emanam
+um poder obscuro.
+--- BLOCK ---
+Armadura para pernas escuras.
+Ver seu dono se
+mover pelas sombras inquieta.
+--- BLOCK ---
+Perneiras justas feitas
+com escamas de
+Plesioth. Muito confortáveis.
+--- BLOCK ---
+Perneiras com escamas
+de Plesioth e
+barbatanas. Altamente impermeáveis.
+--- BLOCK ---
+Perneiras com a força
+do Brachydios. Cada passo
+racha o chão.
+--- BLOCK ---
+Perneiras com a
+força do Brachydios.
+Leves, mas resistentes.
+--- BLOCK ---
+Armadura para pernas de
+funcionárias. Seu design simples,
+mas elegante, é clássico.
+--- BLOCK ---
+Armadura para pernas de
+funcionárias. Sua elegância foi
+moda na corte.
+--- BLOCK ---
+Equipamento oficial para soldados de
+Loc Lac. Fabricado para ser
+leve e fácil de usar.
+--- BLOCK ---
+Equipamento oficial para arqueiros de
+Loc Lac. Sem nenhum
+defeito digno de nota.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Joelheiras douradas que
+aproveitam a Pedra
+de fogo.
+--- BLOCK ---
+Armadura para pernas usada por
+caçadores de elite. Um conglomerado
+caro de minerais raros.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de inseto. Nova, mas
+com um design excelente.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de inseto. Rara e
+popular por sua elegância.
+--- BLOCK ---
+Armadura para pernas feita
+de Rhenoplos. Frequentemente
+usada na mineração.
+--- BLOCK ---
+Armadura para pernas originalmente
+usada por mineiros, mas
+útil para a caça.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de Jaggi. Feita para
+ser fácil de usar.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de Jaggi. Feita para
+desviar golpes para o chão.
+--- BLOCK ---
+Armadura para pernas feita de
+partes de Baggi. Não congelará
+em locais muito frios.
+--- BLOCK ---
+Joelheiras de Baggi. O
+azul da pele faz
+parte do design.
+--- BLOCK ---
+Peculiar armadura para pernas
+que se tornou moda.
+Tão boas quanto parecem!
+--- BLOCK ---
+Armadura para pernas estrangeira.
+Os ferreiros se surpreendem
+com seu design.
+--- BLOCK ---
+Joelheiras de partes
+de Arzuros. Para
+floresta e montanha.
+--- BLOCK ---
+Joelheiras de partes
+de Arzuros. Imitam
+as patas dianteiras.
+--- BLOCK ---
+Perneiras revestidas com pele
+de Lagombi. Sua textura
+ajuda no gelo.
+--- BLOCK ---
+Perneiras cobertas com
+abrasivo. O design
+exótico é fantástico.
+--- BLOCK ---
+Joelheiras de concha de
+Volvidon. Encarnam o
+espírito do fogo.
+--- BLOCK ---
+Joelheiras carmesim para caçadores
+de uma terra árdua
+de fumaça e chamas.
+--- BLOCK ---
+Joelheiras de partes de
+Qurupeco. Feitas com
+as melhores penas.
+--- BLOCK ---
+Joelheiras de partes de
+Qurupeco. Feitas com
+penas muito leves.
+--- BLOCK ---
+Joelheiras de partes de
+Qurupeco carmesim. Feitas com
+as melhores penas.
+--- BLOCK ---
+Joelheiras de partes de
+Qurupeco carmesim. Feitas com
+penas muito leves.
+--- BLOCK ---
+Joelheiras de partes
+de Ludroth real.
+Incrivelmente absorventes.
+--- BLOCK ---
+Joelheiras de partes de
+Ludroth real. Todos
+elogiam sua elegância.
+--- BLOCK ---
+Joelheiras de partes
+de Ludroth purpúreo.
+Incrivelmente absorventes.
+--- BLOCK ---
+Joelheiras de partes de
+Ludroth purpúreo. Todos
+elogiam sua elegância.
+--- BLOCK ---
+Joelheiras de placa
+de Barroth. Podem
+esmagar uma rocha.
+--- BLOCK ---
+Joelheiras de placa de
+Barroth. Melhoram a
+estabilidade ao atirar.
+--- BLOCK ---
+Joelheiras de placa de
+Barroth esmeralda. Podem
+esmagar uma rocha.
+--- BLOCK ---
+Joelheiras de placa de
+Barroth esmeralda. Mais
+estabilidade ao atirar.
+--- BLOCK ---
+Joelheiras de pele de Gobul.
+Percorrem neve e lama
+como se fosse firme.
+--- BLOCK ---
+Joelheiras de pele de
+Gobul. Melhoram a aderência,
+mesmo lutando na lama.
+--- BLOCK ---
+Joelheiras de concha
+de Rathalos. Melhoram
+a estabilidade.
+--- BLOCK ---
+Joelheiras de concha
+de Rathalos. Evocam
+um wyvern majestoso.
+--- BLOCK ---
+Joelheiras de concha
+de Rathalos celeste.
+Melhoram a estabilidade.
+--- BLOCK ---
+Joelheiras de concha de
+Rathalos celeste. Evocam
+um grande wyvern.
+--- BLOCK ---
+Elegantes joelheiras com um
+rastro prateado. Nunca
+perdem o brilho.
+--- BLOCK ---
+Joelheiras de concha
+de wyvern plateado.
+A chama reverencia.
+--- BLOCK ---
+Joelheiras de partes de
+Rathian. Mantém a
+potência de salto.
+--- BLOCK ---
+Joelheiras de partes de
+Rathian. Evoca os
+pés da rainha.
+--- BLOCK ---
+Joelheiras de partes de
+Rathian rosa, com toda
+a potência de salto.
+--- BLOCK ---
+Joelheiras de partes de
+Rathian rosa. Evoca os
+pés da rainha.
+--- BLOCK ---
+Joelheiras que brilham
+como se absorvessem
+a lua. Arrebatadoras.
+--- BLOCK ---
+Joelheiras que parecem feitas
+de lua. Sua beleza
+não tem igual.
+--- BLOCK ---
+Joelheiras de osso de
+Lagiacrus. Brilham com
+um tom roxo.
+--- BLOCK ---
+Joelheiras de osso
+de Lagiacrus. Para
+caçar debaixo d'água.
+--- BLOCK ---
+Joelheiras de osso de
+Lagiacrus marmóreo. Brilham com
+um tom roxo.
+--- BLOCK ---
+Joelheiras de osso de
+Lagiacrus marmóreo. Para
+caçar debaixo d'água.
+--- BLOCK ---
+Joelheiras de Lagiacrus
+do abismo. Permitem
+nadar sem problemas.
+--- BLOCK ---
+Joelheiras de Lagiacrus
+do abismo. Permitem
+nadar muito rápido.
+--- BLOCK ---
+Joelheiras de Gigginox que
+concentram a consciência
+em um ritual.
+--- BLOCK ---
+Joelheiras de Gigginox que
+preservam o calor
+em climas nevados.
+--- BLOCK ---
+Joelheiras aterradoras de
+Gigginox, úteis durante
+um ritual.
+--- BLOCK ---
+Joelheiras aterradoras de
+Gigginox que preservam
+o calor corporal.
+--- BLOCK ---
+Joelheiras de partes
+de Barioth. Amplificam
+a potência.
+--- BLOCK ---
+Joelheiras de partes
+de Barioth. Possuem
+uma aura nobre.
+--- BLOCK ---
+Joelheiras de partes
+de Barioth arenoso.
+Amplificam a potência.
+--- BLOCK ---
+Joelheiras de partes de
+Barioth arenoso. Possuem
+uma aura nobre.
+--- BLOCK ---
+Joelheiras de concha
+de Diablos. Melhoram
+a estabilidade.
+--- BLOCK ---
+Joelheiras de concha de
+Diablos. Mais estabilidade
+em terreno ruim.
+--- BLOCK ---
+Joelheiras de concha de
+Diablos negra. Mais
+estabilidade e potência.
+--- BLOCK ---
+Joelheiras de concha de
+Diablos negra. Estabilidade
+em terreno ruim.
+--- BLOCK ---
+Perneiras de concha rochosa
+de Uragaan. Melhor
+movimento em vulcão.
+--- BLOCK ---
+Perneiras de concha rochosa
+de Uragaan. Anda
+em terreno vulcânico.
+--- BLOCK ---
+Perneiras de concha rochosa
+de Uragaan acerado. Melhor
+movimento em vulcão.
+--- BLOCK ---
+Perneiras de concha
+rochosa de Uragaan
+acerado. Para vulcão.
+--- BLOCK ---
+Perneiras de lava
+de Agnaktor. Para
+passear pelo vulcão.
+--- BLOCK ---
+Perneiras de lava de
+Agnaktor. São frequentemente
+usadas na Arena.
+--- BLOCK ---
+Perneiras de gelo
+de Agnaktor. Para
+passear pela tundra.
+--- BLOCK ---
+Perneiras de gelo de
+Agnaktor. São frequentemente
+usadas na Arena.
+--- BLOCK ---
+Perneiras de partes
+de Ceadeus divino.
+Equilíbrio debaixo d'água.
+--- BLOCK ---
+Perneiras de partes de
+Ceadeus divino. Protegem
+e permitem movimentar-se.
+--- BLOCK ---
+Perneiras de Ceadeus barba
+dourada. Nadam como
+um dragão ancião.
+--- BLOCK ---
+Perneiras de Ceadeus barba
+dourada. Resistem a
+um dragão ancião.
+--- BLOCK ---
+Caneleiras de concha de
+gigante das profundezas. Protegem
+os joelhos e tornozelos.
+--- BLOCK ---
+Caneleiras de concha de
+gigante das profundezas. Reduzem
+a força das correntezas.
+--- BLOCK ---
+Caneleiras de Ceadeus barba
+dourada. Nadam como
+um dragão ancião.
+--- BLOCK ---
+Caneleiras de Ceadeus barba
+dourada. Resistem a
+um dragão ancião.
+--- BLOCK ---
+Perneiras de partes de
+Jhen Mohran. Protegem
+contra dragões anciãos.
+--- BLOCK ---
+Perneiras de partes
+de Jhen Mohran.
+Oferecem grande estabilidade.
+--- BLOCK ---
+Perneiras de partes de
+Jhen Mohran. Cobrem
+como seda suave.
+--- BLOCK ---
+Perneiras de partes de
+Jhen Mohran. Cobrem
+como seda suave.
+--- BLOCK ---
+Perneiras imbuidas com a
+fúria de um Deviljho.
+À noite se ensanguentam.
+--- BLOCK ---
+Perneiras imbuidas com a
+voracidade de um Deviljho.
+Artillery sem recuo.
+--- BLOCK ---
+Perneiras de partes
+de Alatreon. Mais
+capacidade de salto.
+--- BLOCK ---
+Perneiras de partes
+de Alatreon. As
+escamas protegem bem.
+--- BLOCK ---
+Caneleiras de concha elétrica
+de Zinogre. Correm
+como o raio.
+--- BLOCK ---
+Caneleiras de concha elétrica
+de Zinogre. Correm
+como o raio.
+--- BLOCK ---
+Caneleiras de Zinogre
+estigio. Concedem o
+salto da besta.
+--- BLOCK ---
+Caneleiras de Zinogre
+estigio. Força de
+wyvern nas pernas.
+--- BLOCK ---
+Caneleiras negras que parecem
+pernas de Nargacuga. Emanam
+um poder atraente.
+--- BLOCK ---
+Caneleiras escuras. Ver seu
+dono se mover
+nas sombras inquieta.
+--- BLOCK ---
+Caneleiras que parecem pernas
+de Nargacuga verdejante. Emanam
+um poder sombrio.
+--- BLOCK ---
+Caneleiras escuras. Ver seu
+dono se mover
+nas sombras inquieta.
+--- BLOCK ---
+Caneleiras exoesqueléticas aprimoradas
+que aumentam
+o sigilo.
+--- BLOCK ---
+Caneleiras exoesqueléticas aprimoradas
+que protegem
+do calor.
+--- BLOCK ---
+Caneleiras feitas de partes
+de Duramboros. Resistem
+a ataques ferozes.
+--- BLOCK ---
+Caneleiras feitas de
+partes de Duramboros.
+Estabilizam para disparar.
+--- BLOCK ---
+Caneleiras de Duramboros
+ferrugentas. Ancoram os
+pés no solo.
+--- BLOCK ---
+Caneleiras de Duramboros
+ferrugentas. Pisada
+sempre estável.
+--- BLOCK ---
+Joelheiras negras que parecem
+pernas de Nargacuga. Emanam
+um poder atrativo.
+--- BLOCK ---
+Caneleiras escuras. Ver seu
+dono se mover
+nas sombras inquieta.
+--- BLOCK ---
+Joelheiras que parecem pernas
+de Nargacuga verdejante. Emanam
+um poder sombrio.
+--- BLOCK ---
+Caneleiras escuras. Ver seu
+dono se mover
+nas sombras inquieta.
+--- BLOCK ---
+Caneleiras lunares de
+Nargacuga. Silenciam os
+passos do dono.
+--- BLOCK ---
+Caneleiras lunares de
+Nargacuga. Surcam pradarias
+em silêncio.
+--- BLOCK ---
+Caneleiras ajustadas feitas
+com escamas de
+Plesioth. Muito confortáveis.
+--- BLOCK ---
+Caneleiras com escamas
+de Plesioth e
+barbatanas. Muito impermeáveis.
+--- BLOCK ---
+Caneleiras ajustadas feitas
+com escamas de
+Plesioth. Muito confortáveis.
+--- BLOCK ---
+Caneleiras com escamas
+de Plesioth e
+barbatanas. Muito impermeáveis.
+--- BLOCK ---
+Caneleiras com a força
+do Brachydios. Cada passo
+racha o chão.
+--- BLOCK ---
+Caneleiras com a
+força do Brachydios.
+Leves mas resistentes.
+--- BLOCK ---
+Caneleiras assassinas de
+Miralis funesto, senhor
+do inferno.
+--- BLOCK ---
+Caneleiras assassinas de
+Miralis funesto, senhor
+do inferno.
+--- BLOCK ---
+Caneleiras celestiais famosas por
+levar seu portador à
+glória. Emanam vitória.
+--- BLOCK ---
+Caneleiras celestiais famosas por
+dar glória ao portador.
+Emitem uma força avassaladora.
+--- BLOCK ---
+Caneleiras de ossos
+negros, com grande
+resistência a dragão.
+--- BLOCK ---
+Caneleiras de ossos
+negros desconhecidos. Despertam
+desejos de caça.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Caneleiras de inseto.
+De joelhos diante
+do campeão!
+--- BLOCK ---
+Caneleiras de inseto. Cada
+passo é um salto
+para os insetos.
+--- BLOCK ---
+Meias de inseto. Flutuam
+como uma borboleta, picam
+como uma abelha.
+--- BLOCK ---
+Caneleiras de partes de
+inseto. Até a
+elite as venera.
+--- BLOCK ---
+Meias de abóbora.
+Cuidado para
+ninguém comê-las!
+--- BLOCK ---
+Meias de abóbora.
+Permitem pressentir
+o perigo.
+--- BLOCK ---
+Caneleiras de restos de
+um artefato desenterrado
+que continha engrenagens.
+--- BLOCK ---
+Caneleiras de restos de
+um artefato desenterrado que
+parecem pernas mecânicas.
+--- BLOCK ---
+Caneleiras para funcionárias. Seu
+design simples mas
+elegante é clássico.
+--- BLOCK ---
+Caneleiras para funcionárias. Seu
+ar elegante foi
+moda na corte.
+--- BLOCK ---
+Equipamento oficial de guarda
+de Loc Lac.
+Leve e manobrável.
+--- BLOCK ---
+Equipamento oficial de atirador
+de Loc Lac.
+Sem defeitos notáveis.
+--- BLOCK ---
+Caneleiras usadas por
+cavaleiros estrangeiros. Cheias
+de honra cavalheiresca.
+--- BLOCK ---
+Caneleiras usadas por
+cavaleiros estrangeiros. Parte
+do uniforme oficial.
+--- BLOCK ---
+Prenda para as pernas
+usada por funcionárias do
+Gremio. Correta e formal.
+--- BLOCK ---
+Sandálias muito usadas por
+funcionárias da Guilda, que
+parecem ter muitos pares.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Proteção resistente à água para
+as pernas usada por funcionárias
+da Guilda de Tanzia.
+--- BLOCK ---
+Sandálias de funcionária
+da Guilda de
+Tanzia. Surpreendentemente confortáveis!
+--- BLOCK ---
+Tornozeleira pertencente a um sábio
+com poderes. Capaz de se
+adaptar a qualquer poder.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Perneiras selvagens de alma
+roqueira. Ideais para
+exibir pernas robustas.
+--- BLOCK ---
+Calças selvagens de alma
+roqueira. Ideais para
+exibir pernas robustas.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

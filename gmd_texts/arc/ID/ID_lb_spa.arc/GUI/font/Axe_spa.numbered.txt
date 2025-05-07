@@ -1,0 +1,234 @@
+﻿TMSG_AXE
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Hacha de hueso
+--- BLOCK [003] ---
+Hacha de hueso+
+--- BLOCK [004] ---
+Aplastahuesos
+--- BLOCK [005] ---
+Hacha de asalto
+--- BLOCK [006] ---
+Hacha de asalto+
+--- BLOCK [007] ---
+Blitzkrieg
+--- BLOCK [008] ---
+Blitzkrieg+
+--- BLOCK [009] ---
+Ataque relámpago
+--- BLOCK [010] ---
+Hacha oculta
+--- BLOCK [011] ---
+Medialuna nocturna
+--- BLOCK [012] ---
+Hacha de Avidya
+--- BLOCK [013] ---
+Hacha del eclipse
+--- BLOCK [014] ---
+Asterismo de Mizar
+--- BLOCK [015] ---
+Tyrannos
+--- BLOCK [016] ---
+Terror Tyrannos
+--- BLOCK [017] ---
+Hacha vil de Saligia
+--- BLOCK [018] ---
+Enderhacha Saligia
+--- BLOCK [019] ---
+Hacha de relámpago
+--- BLOCK [020] ---
+Hacha de relámpago+
+--- BLOCK [021] ---
+Gran hacha relámpago
+--- BLOCK [022] ---
+Hacha de voltaje
+--- BLOCK [023] ---
+Hacha megavoltaje
+--- BLOCK [024] ---
+Hacha relámpago nova
+--- BLOCK [025] ---
+Rayiblanco Remiel
+--- BLOCK [026] ---
+Hacha tenebrosa
+--- BLOCK [027] ---
+Excellion tenebroso
+--- BLOCK [028] ---
+Hacha de Arzuros
+--- BLOCK [029] ---
+Hacha de Arzuros+
+--- BLOCK [030] ---
+Gran hacha Arzuros
+--- BLOCK [031] ---
+Megahacha de Arzuros
+--- BLOCK [032] ---
+Hacha Brach
+--- BLOCK [033] ---
+Hacha Brach+
+--- BLOCK [034] ---
+Hacha de demolición
+--- BLOCK [035] ---
+Explosivo demoledor
+--- BLOCK [036] ---
+Tajo ámbar
+--- BLOCK [037] ---
+Tajo ámbar+
+--- BLOCK [038] ---
+Helada ambarina
+--- BLOCK [039] ---
+Ventascarcha
+--- BLOCK [040] ---
+Gigaventascarcha
+--- BLOCK [041] ---
+Hacha de azurita
+--- BLOCK [042] ---
+Vendaval de azurita
+--- BLOCK [043] ---
+Gigavendaval azurita
+--- BLOCK [044] ---
+Pecoxpander
+--- BLOCK [045] ---
+Pecoxpander+
+--- BLOCK [046] ---
+Qurupexpander
+--- BLOCK [047] ---
+Reventón motriz
+--- BLOCK [048] ---
+Reventón motriz+
+--- BLOCK [049] ---
+Reventón gigante
+--- BLOCK [050] ---
+Gigancelado
+--- BLOCK [051] ---
+Sparqlepeco
+--- BLOCK [052] ---
+Pecovoltaje
+--- BLOCK [053] ---
+Pecobrillo
+--- BLOCK [054] ---
+Hacha salvaje
+--- BLOCK [055] ---
+Hacha salvaje+
+--- BLOCK [056] ---
+Corredor
+--- BLOCK [057] ---
+Divisor pesado
+--- BLOCK [058] ---
+Divisor pesado+
+--- BLOCK [059] ---
+Grunhart
+--- BLOCK [060] ---
+Hartschlagen
+--- BLOCK [061] ---
+Nainokami
+--- BLOCK [062] ---
+Hacha Semper Tyranis
+--- BLOCK [063] ---
+Gran caos
+--- BLOCK [064] ---
+Hacha de Gaia
+--- BLOCK [065] ---
+Hacha de Tánatos
+--- BLOCK [066] ---
+Hacha demoníaca
+--- BLOCK [067] ---
+Hacha de Hades
+--- BLOCK [068] ---
+Tempestad de fuego
+--- BLOCK [069] ---
+Tempestad de llamas
+--- BLOCK [070] ---
+Helstrong ígneo
+--- BLOCK [071] ---
+Tormenta líquida
+--- BLOCK [072] ---
+Tempestagua
+--- BLOCK [073] ---
+Helstrong diluvio
+--- BLOCK [074] ---
+Rodillo atrapador
+--- BLOCK [075] ---
+Rodillo atrapador+
+--- BLOCK [076] ---
+Vermilingua
+--- BLOCK [077] ---
+Hacha roja de sangre
+--- BLOCK [078] ---
+Diluvio usurpador
+--- BLOCK [079] ---
+Nube del déspota
+--- BLOCK [080] ---
+Colmillo Brimstren
+--- BLOCK [081] ---
+Vannagloria estigia
+--- BLOCK [082] ---
+Hacha Ludroth
+--- BLOCK [083] ---
+Hacha Ludroth+
+--- BLOCK [084] ---
+Splish Splax
+--- BLOCK [085] ---
+Atrapademonios
+--- BLOCK [086] ---
+Gran atrapademonios
+--- BLOCK [087] ---
+Atrapademonios digno
+--- BLOCK [088] ---
+Cortaleta
+--- BLOCK [089] ---
+Cortaleta+
+--- BLOCK [090] ---
+Mega Rhipidon
+--- BLOCK [091] ---
+Hacha dracodoncella
+--- BLOCK [092] ---
+Hacha dracodoncella+
+--- BLOCK [093] ---
+Creatierra de Gríðr
+--- BLOCK [094] ---
+Forjatierra de Gríðr
+--- BLOCK [095] ---
+Rosa celeste
+--- BLOCK [096] ---
+Capullo rosa celeste
+--- BLOCK [097] ---
+Gato siniestro
+--- BLOCK [098] ---
+Grimmig Katze
+--- BLOCK [099] ---
+Fatalidad Felyne
+--- BLOCK [100] ---
+Filo grueso
+--- BLOCK [101] ---
+Rompehuesos
+--- BLOCK [102] ---
+Rompealmas
+--- BLOCK [103] ---
+Aplastaalmas
+--- BLOCK [104] ---
+Aplastadora Helios
+--- BLOCK [105] ---
+Inceadeus
+--- BLOCK [106] ---
+Gran Inceadeus
+--- BLOCK [107] ---
+Hacha de hazañas
+--- BLOCK [108] ---
+Hacha espada oscura
+--- BLOCK [109] ---
+Cosecha negra
+--- BLOCK [110] ---
+Altheos Voracion
+--- BLOCK [111] ---
+Cresta de Megido
+--- BLOCK [112] ---
+Carmesiana
+--- BLOCK [113] ---
+DUMMY
+--- BLOCK [114] ---
+DUMMY
+--- BLOCK [115] ---
+Santos siniestros
+--- BLOCK [116] ---
+Rugido de dragón
+--- BLOCK [117] ---

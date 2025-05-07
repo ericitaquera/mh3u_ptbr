@@ -1,0 +1,188 @@
+TMSG_HBG
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Estoura-ossos
+--- BLOCK ---
+Estoura-ossos
+--- BLOCK ---
+Caçaossos
+--- BLOCK ---
+Fogo da rainha
+--- BLOCK ---
+Voador da rainha
+--- BLOCK ---
+Prole da rainha
+--- BLOCK ---
+Casulo imperatriz
+--- BLOCK ---
+Flor da imperatriz
+--- BLOCK ---
+Jardim da imperatriz
+--- BLOCK ---
+Assassino pinguim
+--- BLOCK ---
+Governante pinguim
+--- BLOCK ---
+Grande senhor pinguim
+--- BLOCK ---
+Deus pinguim
+--- BLOCK ---
+Pistola de Arzuros
+--- BLOCK ---
+Estrondadora de Arzuros
+--- BLOCK ---
+Pescadora de Arzuros
+--- BLOCK ---
+As de Arzuros
+--- BLOCK ---
+Gunflage I tipo 46
+--- BLOCK ---
+Gunflagem II tipo 46
+--- BLOCK ---
+Gunflagem III tipo 46
+--- BLOCK ---
+Protótipo Nibelflagem
+--- BLOCK ---
+Estoura-ossos atrincherado
+--- BLOCK ---
+Plasmer pressurizado
+--- BLOCK ---
+Plasmer pressurizado+
+--- BLOCK ---
+Escudo verde
+--- BLOCK ---
+Capitão Verde
+--- BLOCK ---
+Canhão tropeco
+--- BLOCK ---
+Fambocanhão tropeco
+--- BLOCK ---
+Canhão pecopioso
+--- BLOCK ---
+Trovão pecopioso
+--- BLOCK ---
+Paco Bico Peco
+--- BLOCK ---
+Precisão Bico Peco
+--- BLOCK ---
+Canhão Brach
+--- BLOCK ---
+Canhão Brach+
+--- BLOCK ---
+Canhão de demolição
+--- BLOCK ---
+Demolidor Haize
+--- BLOCK ---
+Tremor usurpador
+--- BLOCK ---
+Paroxismo déspota
+--- BLOCK ---
+Criação do opressor
+--- BLOCK ---
+Temperança estígia
+--- BLOCK ---
+Gambito oculto
+--- BLOCK ---
+Noite aterrorizante
+--- BLOCK ---
+Fuzil pesado Virnar
+--- BLOCK ---
+Meia-noite sinistra
+--- BLOCK ---
+Gambito eclipse
+--- BLOCK ---
+Dupla ameaça
+--- BLOCK ---
+Dupla ameaça+
+--- BLOCK ---
+Diablaster
+--- BLOCK ---
+Balestra de Nerón
+--- BLOCK ---
+Balestra de grifo
+--- BLOCK ---
+Estoura-ossos Lagia
+--- BLOCK ---
+Estoura-ossos Lagia+
+--- BLOCK ---
+Fuzil Thunderblitz
+--- BLOCK ---
+Estoura-ossos Lagia novo
+--- BLOCK ---
+Blitz de ossos brancos
+--- BLOCK ---
+Salvador tenebroso
+--- BLOCK ---
+Agnabum
+--- BLOCK ---
+Agnaexplosivo
+--- BLOCK ---
+Agna Infernal
+--- BLOCK ---
+Agna Mágnum
+--- BLOCK ---
+Agna Escorpión
+--- BLOCK ---
+Avel de Agnacañón
+--- BLOCK ---
+Caim de Agnacañón
+--- BLOCK ---
+Zeth de Agnacachón
+--- BLOCK ---
+Canhão de Jhen
+--- BLOCK ---
+Dracañón Jhen
+--- BLOCK ---
+Dracañón sagrado
+--- BLOCK ---
+Vulcañón
+--- BLOCK ---
+Vulcañón+
+--- BLOCK ---
+Vulmágnum
+--- BLOCK ---
+Lanzador gigante
+--- BLOCK ---
+Canhão gigante
+--- BLOCK ---
+Moby Deus
+--- BLOCK ---
+Frater Deus
+--- BLOCK ---
+Precursor do arca
+--- BLOCK ---
+Arken Antiphon
+--- BLOCK ---
+Asa do caos
+--- BLOCK ---
+Altheos Aetheria
+--- BLOCK ---
+Balestra de carroça
+--- BLOCK ---
+Carroça da rainha
+--- BLOCK ---
+Cindrilhão
+--- BLOCK ---
+Estrela cadente
+--- BLOCK ---
+Meteoro
+--- BLOCK ---
+Grande meteoro
+--- BLOCK ---
+Fuzil Aguámatico
+--- BLOCK ---
+Fuzil Fogonazo
+--- BLOCK ---
+Fuzil Cenizador
+--- BLOCK ---
+Canhão de carbalita
+--- BLOCK ---
+Canhão meteoro
+--- BLOCK ---
+Canhão galáxia
+--- BLOCK ---
+Estoura-ossos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

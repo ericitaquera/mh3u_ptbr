@@ -1,0 +1,238 @@
+﻿TMSG_LSWORD2
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Katana de hierro
+--- BLOCK [003] ---
+Gracia de hierro
+--- BLOCK [004] ---
+Evangelio de hierro
+--- BLOCK [005] ---
+Matacadena
+--- BLOCK [006] ---
+Rumbalaro
+--- BLOCK [007] ---
+Sierra trueno
+--- BLOCK [008] ---
+Cortador usurpador
+--- BLOCK [009] ---
+Parterrayo déspota
+--- BLOCK [010] ---
+Ley del opresor
+--- BLOCK [011] ---
+Katana tenebrosa
+--- BLOCK [012] ---
+Dilemnidad tenebrosa
+--- BLOCK [013] ---
+Gula estigia
+--- BLOCK [014] ---
+Rimahoja
+--- BLOCK [015] ---
+Rimaflor
+--- BLOCK [016] ---
+Rima y traición
+--- BLOCK [017] ---
+Hielo de Edel
+--- BLOCK [018] ---
+Sable oculto
+--- BLOCK [019] ---
+Sable oculto+
+--- BLOCK [020] ---
+Noche profunda
+--- BLOCK [021] ---
+Sable del eclipse
+--- BLOCK [022] ---
+Asterismo de Megrez
+--- BLOCK [023] ---
+Sable de Virnar
+--- BLOCK [024] ---
+Simas de medianoche
+--- BLOCK [025] ---
+Espada Wroggi
+--- BLOCK [026] ---
+Bocado noctosombra
+--- BLOCK [027] ---
+Bocado belladona
+--- BLOCK [028] ---
+Trueno
+--- BLOCK [029] ---
+Trueno+
+--- BLOCK [030] ---
+Trueno del cielo
+--- BLOCK [031] ---
+Hiendestrellas
+--- BLOCK [032] ---
+Gran cercenador
+--- BLOCK [033] ---
+Salpicador Plesioth
+--- BLOCK [034] ---
+Salpicador Plesioth+
+--- BLOCK [035] ---
+Salpicadura verde
+--- BLOCK [036] ---
+Salpicadura verde+
+--- BLOCK [037] ---
+Vagalhao de jade
+--- BLOCK [038] ---
+Naginata de Arzuros
+--- BLOCK [039] ---
+Naginata de Arzuros+
+--- BLOCK [040] ---
+Pluma de Arzuros
+--- BLOCK [041] ---
+Guan Dao
+--- BLOCK [042] ---
+Yan Yue Dao
+--- BLOCK [043] ---
+Yi Duan
+--- BLOCK [044] ---
+Fuste de ahogo
+--- BLOCK [045] ---
+Bardiche empapador
+--- BLOCK [046] ---
+Catarata
+--- BLOCK [047] ---
+Glaive debilitador
+--- BLOCK [048] ---
+Glaive despachador
+--- BLOCK [049] ---
+Glaive de debilidad
+--- BLOCK [050] ---
+Katana canina
+--- BLOCK [051] ---
+Katana lupina
+--- BLOCK [052] ---
+Katana Cerbero
+--- BLOCK [053] ---
+Espada hueso Ananta
+--- BLOCK [054] ---
+Espada hueso Ananta+
+--- BLOCK [055] ---
+Atrapasombras
+--- BLOCK [056] ---
+Atrapaalmas
+--- BLOCK [057] ---
+Estrangulaalmas
+--- BLOCK [058] ---
+Diapasón
+--- BLOCK [059] ---
+Diapasón+
+--- BLOCK [060] ---
+Horca carmesí
+--- BLOCK [061] ---
+Mazurca cromada
+--- BLOCK [062] ---
+Vals cromado
+--- BLOCK [063] ---
+Espada wyv "Fuego"
+--- BLOCK [064] ---
+Espada wyv "Ígnea"
+--- BLOCK [065] ---
+Espada wyv "Bengala"
+--- BLOCK [066] ---
+Espada wyv "Pálido"
+--- BLOCK [067] ---
+Espada wyv "Flor"
+--- BLOCK [068] ---
+Espada wyv "Llama"
+--- BLOCK [069] ---
+Espada wyv "Rosa"
+--- BLOCK [070] ---
+Segador de montaña
+--- BLOCK [071] ---
+Archisegador montaña
+--- BLOCK [072] ---
+Cumbres salvajes
+--- BLOCK [073] ---
+Gran hoz
+--- BLOCK [074] ---
+Tribulación
+--- BLOCK [075] ---
+Cruz sangrante
+--- BLOCK [076] ---
+Cruz sangrante+
+--- BLOCK [077] ---
+Katana mefítica
+--- BLOCK [078] ---
+Filo vampírico
+--- BLOCK [079] ---
+Carmilla Chupasangre
+--- BLOCK [080] ---
+Cruz carmesí
+--- BLOCK [081] ---
+Edén perdido
+--- BLOCK [082] ---
+Sangre expulsada
+--- BLOCK [083] ---
+Ley del culpable
+--- BLOCK [084] ---
+Llamas danzarinas
+--- BLOCK [085] ---
+Averno danzante
+--- BLOCK [086] ---
+Llama principal
+--- BLOCK [087] ---
+Sirena nívea
+--- BLOCK [088] ---
+Sirena de ventisca
+--- BLOCK [089] ---
+Diva glacial
+--- BLOCK [090] ---
+Katana Brach
+--- BLOCK [091] ---
+Katana Brach+
+--- BLOCK [092] ---
+Katana de demolición
+--- BLOCK [093] ---
+Pirodemoledora
+--- BLOCK [094] ---
+Hoja bárbara
+--- BLOCK [095] ---
+"Sharq" bárbaro
+--- BLOCK [096] ---
+Kibamaru
+--- BLOCK [097] ---
+Katana de Megido
+--- BLOCK [098] ---
+Adjudicación
+--- BLOCK [099] ---
+Garra oscura
+--- BLOCK [100] ---
+Garra osc. "Muerte"
+--- BLOCK [101] ---
+Altheos Altrusta
+--- BLOCK [102] ---
+Cólera "Crueldad"
+--- BLOCK [103] ---
+Cólera "Calamidad"
+--- BLOCK [104] ---
+Calamidad de Nerón
+--- BLOCK [105] ---
+Comeviento
+--- BLOCK [106] ---
+Comesonido
+--- BLOCK [107] ---
+Céfiro
+--- BLOCK [108] ---
+Hoja de cabello
+--- BLOCK [109] ---
+Hoja cabello nueva
+--- BLOCK [110] ---
+Hoja cabello premium
+--- BLOCK [111] ---
+DUMMY
+--- BLOCK [112] ---
+DUMMY
+--- BLOCK [113] ---
+DUMMY
+--- BLOCK [114] ---
+DUMMY
+--- BLOCK [115] ---
+DUMMY
+--- BLOCK [116] ---
+Tenebra
+--- BLOCK [117] ---
+Tenebra D
+--- BLOCK [118] ---
+Alma alzada
+--- BLOCK [119] ---

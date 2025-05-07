@@ -1,0 +1,246 @@
+DATA
+--- BLOCK ---
+Impacto de poções
+--- BLOCK ---
+Chamado para comer
+--- BLOCK ---
+Patrulha de cogumelos
+--- BLOCK ---
+Salto do Jaggi
+--- BLOCK ---
+Oportunidade do Peixe Dourado
+--- BLOCK ---
+Em excursão
+--- BLOCK ---
+Sem amor para o Ludroth
+--- BLOCK ---
+Caçando insetos
+--- BLOCK ---
+A mensagem do meu senhor
+--- BLOCK ---
+Brincando com fogo
+--- BLOCK ---
+Consertando nosso navio
+--- BLOCK ---
+Rugido do Wroggi
+--- BLOCK ---
+Agitador tóxico
+--- BLOCK ---
+Liderando o ataque
+--- BLOCK ---
+Fúria de Rhenoplos!
+--- BLOCK ---
+Cena do crime
+--- BLOCK ---
+Líder da matilha de gelo
+--- BLOCK ---
+O trenó preso
+--- BLOCK ---
+Muito azul
+--- BLOCK ---
+A dragonesa
+--- BLOCK ---
+O veneno furtivo
+--- BLOCK ---
+O demônio do pescador
+--- BLOCK ---
+Com muita marcha
+--- BLOCK ---
+Pegada do Uroktor
+--- BLOCK ---
+Defesas caindo
+--- BLOCK ---
+O glutão do deserto
+--- BLOCK ---
+Wyvern cornudo
+--- BLOCK ---
+A fúria do vulcão
+--- BLOCK ---
+Habitante da lava
+--- BLOCK ---
+A ira de Rathalos
+--- BLOCK ---
+A história de um bardo
+--- BLOCK ---
+Perseguindo o Bullfango
+--- BLOCK ---
+Rugido do Wroggi
+--- BLOCK ---
+Agitador tóxico
+--- BLOCK ---
+Salto do Jaggi
+--- BLOCK ---
+Em excursão
+--- BLOCK ---
+Caçameleira
+--- BLOCK ---
+Manias do Arzuros
+--- BLOCK ---
+Caçando insetos
+--- BLOCK ---
+Brincando com fogo
+--- BLOCK ---
+Flor de um dia
+--- BLOCK ---
+Controle de pragas
+--- BLOCK ---
+A história do pescador
+--- BLOCK ---
+Operação Controle do veneno
+--- BLOCK ---
+Fúria de Rhenoplos!
+--- BLOCK ---
+Liderando o ataque
+--- BLOCK ---
+Ira de Rathian
+--- BLOCK ---
+Rainha rosa das montanhas
+--- BLOCK ---
+O trenó preso
+--- BLOCK ---
+Investigação do acidente
+--- BLOCK ---
+Salpicão doloroso
+--- BLOCK ---
+Muito azul
+--- BLOCK ---
+Líder da matilha de gelo
+--- BLOCK ---
+Com muita marcha
+--- BLOCK ---
+O veneno furtivo
+--- BLOCK ---
+Bolas de neve
+--- BLOCK ---
+Evento impactante
+--- BLOCK ---
+A ira de Rathalos
+--- BLOCK ---
+Defesas caindo
+--- BLOCK ---
+O glutão do deserto
+--- BLOCK ---
+O demônio do pescador
+--- BLOCK ---
+Wyvern cornudo
+--- BLOCK ---
+A expedição perdida
+--- BLOCK ---
+A fúria do vulcão
+--- BLOCK ---
+Brachydios traz problemas
+--- BLOCK ---
+Habitante da lava
+--- BLOCK ---
+Pegada do Uroktor
+--- BLOCK ---
+Ataque celeste
+--- BLOCK ---
+Uivos sob a lua
+--- BLOCK ---
+Loucura à meia-noite
+--- BLOCK ---
+Pavor nas sombras
+--- BLOCK ---
+Tempestade do deserto
+--- BLOCK ---
+Ás na manga
+--- BLOCK ---
+Ecolocalização
+--- BLOCK ---
+Conquistador mundial
+--- BLOCK ---
+Ao fogo
+--- BLOCK ---
+Salto do Jaggi
+--- BLOCK ---
+Em excursão
+--- BLOCK ---
+Agitador tóxico
+--- BLOCK ---
+Caçando insetos
+--- BLOCK ---
+A mensagem do meu senhor
+--- BLOCK ---
+O trenó preso
+--- BLOCK ---
+Brincando com fogo
+--- BLOCK ---
+Fúria de Rhenoplos!
+--- BLOCK ---
+Flor de um dia
+--- BLOCK ---
+A história do pescador
+--- BLOCK ---
+Reino de cor púrpura
+--- BLOCK ---
+Liderando o ataque
+--- BLOCK ---
+Bolas de neve
+--- BLOCK ---
+Controle de pragas
+--- BLOCK ---
+A missão do mercador
+--- BLOCK ---
+A rainha flor de cerejeira
+--- BLOCK ---
+Salpicão doloroso
+--- BLOCK ---
+Com muita marcha
+--- BLOCK ---
+O glutão do deserto
+--- BLOCK ---
+O brilho verde
+--- BLOCK ---
+Líder da matilha de gelo
+--- BLOCK ---
+Investigação do acidente
+--- BLOCK ---
+O veneno furtivo
+--- BLOCK ---
+Evento impactante
+--- BLOCK ---
+A história de um bardo
+--- BLOCK ---
+A montanha móvel
+--- BLOCK ---
+Interesses pessoais
+--- BLOCK ---
+Wyvern cornudo
+--- BLOCK ---
+Loucura à meia-noite
+--- BLOCK ---
+A ira de Rathalos
+--- BLOCK ---
+Ataque celeste
+--- BLOCK ---
+A fúria do vulcão
+--- BLOCK ---
+Ás na manga
+--- BLOCK ---
+Pegada do Uroktor
+--- BLOCK ---
+Habitante da lava
+--- BLOCK ---
+Tempestade do deserto
+--- BLOCK ---
+Olhos famintos
+--- BLOCK ---
+Espreita noturna
+--- BLOCK ---
+Exaustão pelo calor
+--- BLOCK ---
+Ecolocalização
+--- BLOCK ---
+Derrubando o Deviljho
+--- BLOCK ---
+Caçador caçado
+--- BLOCK ---
+Grande senhor infernal
+--- BLOCK ---
+O demônio do pescador
+--- BLOCK ---
+Governante de dois reinos
+--- BLOCK ---
+Caça ao Brachydios
+--- BLOCK ---

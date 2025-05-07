@@ -1,0 +1,461 @@
+﻿TMSG_BOW_EXP
+--- BLOCK [001] ---
+(Nada equipado.)
+--- BLOCK [002] ---
+Un Arco de calidad con
+cuerda de piel flexible y
+yesca para prender flechas.
+--- BLOCK [003] ---
+Un Arco de calidad con
+cuerda de piel flexible y
+yesca para prender flechas.
+--- BLOCK [004] ---
+Un Arco elegante como
+un Qurupeco bailarín.
+Prende las flechas.
+--- BLOCK [005] ---
+Un Arco con un prendedor
+inspirado en un Qurupeco.
+Puede perforar las almas.
+--- BLOCK [006] ---
+Un Arco con un prendedor
+inspirado en un Qurupeco.
+Puede perforar las almas.
+--- BLOCK [007] ---
+Un Arco inusual con
+un cilindro adosado. Dispara
+con una potencia increíble.
+--- BLOCK [008] ---
+Un Arco inusual con
+un cilindro adosado. Dispara
+con una potencia increíble.
+--- BLOCK [009] ---
+Un Arco inusual con
+un cilindro adosado. Dispara
+con una potencia increíble.
+--- BLOCK [010] ---
+Un Arco con un potente
+mecanismo. Dispara con
+una fuerza impresionante.
+--- BLOCK [011] ---
+Un Arco con un potente
+mecanismo. Dispara con
+una fuerza impresionante.
+--- BLOCK [012] ---
+Un Arco con un sistema de
+disparo muy avanzado.
+Enorme poder destructivo.
+--- BLOCK [013] ---
+Arco de partes de Ludroth
+real. El material esponjoso
+retiene la humedad.
+--- BLOCK [014] ---
+Arco de partes de Ludroth
+real. El material esponjoso
+retiene la humedad.
+--- BLOCK [015] ---
+Arco de partes de Ludroth
+real. Las flechas se cargan
+de agua al tensarlo.
+--- BLOCK [016] ---
+Arco de partes de Ludroth
+purpúreo. Sus materiales
+le dan un gran rendimiento. 
+--- BLOCK [017] ---
+Arco de partes de Ludroth
+purpúreo. Sus materiales
+le dan un gran rendimiento. 
+--- BLOCK [018] ---
+Arco de partes de Ludroth
+purpúreo. Sus flechas
+dejan un rastro acuoso.
+--- BLOCK [019] ---
+Arco de partes de Ludroth
+purpúreo de calidad. 
+Dispara nubes de flechas.
+--- BLOCK [020] ---
+Un elegante Arco de partes
+de Bnahabra. Su diseño es
+digno de un museo de arte.
+--- BLOCK [021] ---
+Un elegante Arco de partes
+de Bnahabra. Su diseño es
+digno de un museo de arte.
+--- BLOCK [022] ---
+Un elegante Arco de partes
+de Bnahabra. Sus flechas
+podrían prender el océano.
+--- BLOCK [023] ---
+Un elegante Arco de partes
+de Bnahabra. Sus flechas
+podrían prender el océano.
+--- BLOCK [024] ---
+Epítome del ingenio
+insectil. Disfruta con
+los gritos de sus víctimas.
+--- BLOCK [025] ---
+Epítome del ingenio
+insectil. Disfruta con
+los gritos de sus víctimas.
+--- BLOCK [026] ---
+Un elegante Arco de partes
+de Bnahabra. Sus flechas
+congelan a las presas.
+--- BLOCK [027] ---
+Un elegante Arco de partes
+de Bnahabra. Sus flechas
+congelan a las presas.
+--- BLOCK [028] ---
+Epítome del ingenio
+insectil. Convierte
+en hielo espejado.
+--- BLOCK [029] ---
+Epítome del ingenio
+insectil. Convierte
+en hielo espejado.
+--- BLOCK [030] ---
+Un elegante Arco de partes
+de Bnahabra. Asombran sus
+propiedades de trueno.
+--- BLOCK [031] ---
+Un elegante Arco de partes
+de Bnahabra. Asombran sus
+propiedades de trueno.
+--- BLOCK [032] ---
+Epítome del ingenio
+insectil. Cuantos lo ven
+reconocen su belleza.
+--- BLOCK [033] ---
+Epítome del ingenio
+insectil. Cuantos lo ven
+reconocen su belleza.
+--- BLOCK [034] ---
+Un Arco barato para novatos.
+Incluye aljaba y flechas.
+--- BLOCK [035] ---
+Un Arco barato para novatos.
+Incluye aljaba y flechas.
+--- BLOCK [036] ---
+Un Arco excelente si se
+tiene algo de habilidad. 
+Novatos abstenerse.
+--- BLOCK [037] ---
+Un Arco pensado para
+cazadores, que fue
+reconstruido más tarde.
+--- BLOCK [038] ---
+Un Arco pensado para
+cazadores, que fue
+reconstruido más tarde.
+--- BLOCK [039] ---
+Un Arco pensado para
+cazadores, que fue
+reconstruido más tarde.
+--- BLOCK [040] ---
+Un Arco formidable. Sus
+flechas llevan una baba que
+explota tras penetrar. 
+--- BLOCK [041] ---
+Un Arco formidable. Sus
+flechas llevan una baba que
+explota tras penetrar. 
+--- BLOCK [042] ---
+Un Arco mecánico con
+la furia de un Brachydios.
+Sus flechas hacen pedazos.
+--- BLOCK [043] ---
+Un Arco mecánico con
+la furia de un Brachydios.
+Sus flechas hacen pedazos.
+--- BLOCK [044] ---
+Un Arco avanzado diseñado
+contra wyverns voladores con
+la financiación del Gremio.
+--- BLOCK [045] ---
+Un Arco avanzado diseñado
+contra wyverns voladores con
+la financiación del Gremio.
+--- BLOCK [046] ---
+Un Arco que dispara flechas
+potentísimas. Puede perforar
+hasta murallas.
+--- BLOCK [047] ---
+Un Arco divino. Los juglares
+wyvern lo usan para luchar
+y tocar alguna melodía.
+--- BLOCK [048] ---
+Un Arco divino. Los juglares
+wyvern lo usan para luchar
+y tocar alguna melodía.
+--- BLOCK [049] ---
+Un Arco divino. Los juglares
+wyvern lo usan para luchar
+y tocar alguna melodía.
+--- BLOCK [050] ---
+Un Arco verde con armazón
+de concha de Rathian. Su
+forma evoca a la reina.
+--- BLOCK [051] ---
+Un Arco verde con armazón
+de concha de Rathian. Su
+forma evoca a la reina.
+--- BLOCK [052] ---
+Un Arco de concha de la
+reina danzante. Su belleza
+arrebata el corazón.
+--- BLOCK [053] ---
+Un Arco increíble de partes
+de Rathian rosa. Funciona
+tan bien como parece.
+--- BLOCK [054] ---
+Un Arco increíble de partes
+de Rathian rosa. Funciona
+tan bien como parece.
+--- BLOCK [055] ---
+Un Arco increíble de partes
+de Rathian rosa. Funciona
+tan bien como parece.
+--- BLOCK [056] ---
+Un Arco digno del héroe que
+robó el corazón de la diosa
+dorada. Incomparable.
+--- BLOCK [057] ---
+Un Arco hecho de concha
+de rey sin par. Sus flechas
+diezman a los enemigos.
+--- BLOCK [058] ---
+Un Arco sin tacha envuelto
+en rayos de rey purpúreo.
+Puede abatir el sol.
+--- BLOCK [059] ---
+Un Arco sin tacha envuelto
+en rayos de rey purpúreo.
+Puede abatir el sol.
+--- BLOCK [060] ---
+Un Arco con el poder oscuro
+de un Zinogre estigio. Su
+potencia es increíble.
+--- BLOCK [061] ---
+Un Arco con el poder oscuro
+de un Zinogre estigio. Su
+potencia es increíble.
+--- BLOCK [062] ---
+Un Arco cubierto con coraza
+de Barioth. Propiedades de
+hielo y gran Afinidad.
+--- BLOCK [063] ---
+Un Arco terriblemente frío. 
+Sus flechas pueden
+cristalizar el aire mismo.
+--- BLOCK [064] ---
+Un Arco terriblemente frío. 
+Sus flechas pueden
+cristalizar el aire mismo.
+--- BLOCK [065] ---
+Un Arco cubierto con coraza
+de Barioth arenoso. Sus
+flechas muerden profundo.
+--- BLOCK [066] ---
+Un Arco cubierto con coraza
+de Barioth arenoso. Sus
+flechas muerden profundo.
+--- BLOCK [067] ---
+Un Arco cubierto con coraza
+de Barioth arenoso. Sus
+flechas muerden profundo.
+--- BLOCK [068] ---
+Un Arco recio y pesado de
+partes de Uragaan. Calidad
+y propiedades de fuego.
+--- BLOCK [069] ---
+Un Arco pesado con
+la esencia de un Uragaan. 
+Pulveriza al enemigo.
+--- BLOCK [070] ---
+Un Arco pesado con
+la esencia de un Uragaan.
+Pulveriza al enemigo.
+--- BLOCK [071] ---
+Un Arco recio y pesado de
+partes de Uragaan acerado.
+Puede quebrar montañas.
+--- BLOCK [072] ---
+Un Arco recio y pesado de
+partes de Uragaan acerado.
+Puede quebrar montañas.
+--- BLOCK [073] ---
+Un Arco recio y pesado de
+partes de Uragaan acerado.
+Puede quebrar montañas.
+--- BLOCK [074] ---
+Una Arco negro de ébano. 
+La piel de Nargacuga
+lo hace casi invisible.
+--- BLOCK [075] ---
+Una Arco negro de ébano. 
+La piel de Nargacuga
+lo hace casi invisible.
+--- BLOCK [076] ---
+Arco de asesino que carga
+las flechas con sed de
+sangre. Potentísimo.
+--- BLOCK [077] ---
+Un Arco que brilla como
+la luz de luna. Sus flechas
+dejan un rastro reluciente.
+--- BLOCK [078] ---
+Un Arco decorado con
+muerte. Sus flechas se
+clavan en el alma.
+--- BLOCK [079] ---
+Un Arco decorado con
+muerte. Sus flechas se
+clavan en el alma.
+--- BLOCK [080] ---
+Arco de partes de Ludroth
+flexibles. La velocidad
+de sus flechas es inmensa.
+--- BLOCK [081] ---
+Arco de partes de Ludroth
+flexibles. La velocidad
+de sus flechas es inmensa.
+--- BLOCK [082] ---
+Arco de partes de Ludroth
+flexibles. La velocidad
+de sus flechas es inmensa.
+--- BLOCK [083] ---
+Arco blanco con ornamento
+de Lagiacrus marmóreo.
+También dispara rayos.
+--- BLOCK [084] ---
+Arco blanco con ornamento
+de Lagiacrus marmóreo.
+También dispara rayos.
+--- BLOCK [085] ---
+Un Arco con el poder de
+un Lagiacrus del abismo.
+Un desprecio a los dioses.
+--- BLOCK [086] ---
+Un Arco con el poder de
+un Lagiacrus del abismo.
+Un desprecio a los dioses.
+--- BLOCK [087] ---
+Un Arco hecho con cuernos
+de Diablos. Tensarlo
+requiere una gran fuerza.
+--- BLOCK [088] ---
+Un Arco hecho con cuernos
+de Diablos. Tensarlo
+requiere una gran fuerza.
+--- BLOCK [089] ---
+Un Arco de cuerno de Diablos
+negra. Tensar su cuerda
+es toda una proeza.
+--- BLOCK [090] ---
+Un Arco de cuerno de Diablos
+negra. Tensar su cuerda
+es toda una proeza.
+--- BLOCK [091] ---
+Un Arco de cuerno de Diablos
+negra. Tensar su cuerda
+es toda una proeza.
+--- BLOCK [092] ---
+Un Arco angelical descrito
+en los códices. Sus flechas
+anuncian la victoria.
+--- BLOCK [093] ---
+Un Arco angelical descrito
+en los códices. Sus flechas
+anuncian la victoria.
+--- BLOCK [094] ---
+Un Arco angelical descrito
+en los códices. Sus flechas
+anuncian la victoria.
+--- BLOCK [095] ---
+Un Arco que parece un dios
+mítico. Una leve luz dorada
+señala su poder.
+--- BLOCK [096] ---
+Un Arco que parece un dios
+mítico. Una leve luz dorada
+señala su poder.
+--- BLOCK [097] ---
+Un Arco hecho con muchos
+colmillos de Jhen Mohran.
+Clara influencia oriental.
+--- BLOCK [098] ---
+Un Arco hecho con muchos
+colmillos de Jhen Mohran.
+Clara influencia oriental.
+--- BLOCK [099] ---
+Un Arco decorado con
+colmillos de Jhen Mohran.
+Confiere prosperidad.
+--- BLOCK [100] ---
+Un Arco que hechiza a
+los que lo ven. Se transmite
+de una víctima a otra.
+--- BLOCK [101] ---
+Un Arco deseado por
+los que ansían el poder.
+Te convierte en dragón.
+--- BLOCK [102] ---
+Un Arco deseado por
+los que ansían el poder.
+Te convierte en dragón.
+--- BLOCK [103] ---
+Un Arco hecho de cristal
+formado en el hueso de un
+wyvern anciano. Perfecto.
+--- BLOCK [104] ---
+Un Arco hecho de cristal
+formado en el hueso de un
+wyvern anciano. Perfecto.
+--- BLOCK [105] ---
+Un Arco hecho de cristal
+formado en el hueso de un
+wyvern anciano. Perfecto.
+--- BLOCK [106] ---
+El Arco del juicio. Al alba,
+canta prosperidad. Al ocaso,
+aúlla muerte.
+--- BLOCK [107] ---
+El Arco del juicio. Al alba,
+canta prosperidad. Al ocaso,
+aúlla muerte.
+--- BLOCK [108] ---
+Un Arco ecológico diseñado
+con raspa de pez espada.
+--- BLOCK [109] ---
+Un Arco ecológico diseñado
+con raspa de pez espada.
+--- BLOCK [110] ---
+Un Arco ecológico diseñado
+con raspa de pez espada.
+--- BLOCK [111] ---
+Un Arco rarísimo hecho de
+Cuerno de Kelbi. Dispara
+perdigones de acero.
+--- BLOCK [112] ---
+Un Arco rarísimo hecho de
+Cuerno de Kelbi. Dispara
+perdigones de acero.
+--- BLOCK [113] ---
+Un Arco rarísimo hecho de
+Cuerno de Kelbi. Dispara
+perdigones de acero.
+--- BLOCK [114] ---
+Un Arco flexible de bambú
+de una región montañosa.
+Un capricho de artesano.
+--- BLOCK [115] ---
+Un Arco flexible de bambú
+de una región montañosa.
+Un capricho de artesano.
+--- BLOCK [116] ---
+Un Arco de bambú de fuerza
+incomparable. Su diseño
+requirió toda una vida.
+--- BLOCK [117] ---
+DUMMY
+--- BLOCK [118] ---

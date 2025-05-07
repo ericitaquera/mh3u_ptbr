@@ -1,0 +1,298 @@
+﻿TMSG_LANCE
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Lanza de hierro
+--- BLOCK ---
+Lanza de hierro+
+--- BLOCK ---
+Lanza de hidalgo
+--- BLOCK ---
+Lanza de hidalgo+
+--- BLOCK ---
+Lanza de caballero
+--- BLOCK ---
+Muralla
+--- BLOCK ---
+Muralla+
+--- BLOCK ---
+Venablo de Babel
+--- BLOCK ---
+Venab. antiguo Babel
+--- BLOCK ---
+Babel perdido
+--- BLOCK ---
+Lanza perforadora
+--- BLOCK ---
+Lanza megaperforad.
+--- BLOCK ---
+Lanza gigaperforad.
+--- BLOCK ---
+Cola roja
+--- BLOCK ---
+Averno
+--- BLOCK ---
+Lanza de prominencia
+--- BLOCK ---
+Prominencia roja
+--- BLOCK ---
+Prominencia de plata
+--- BLOCK ---
+Prominencia solar
+--- BLOCK ---
+Cola azul
+--- BLOCK ---
+Prominencia azul
+--- BLOCK ---
+Alma de prominencia
+--- BLOCK ---
+Lanza colmillo
+--- BLOCK ---
+Lanza colmillo+
+--- BLOCK ---
+Diente de sable
+--- BLOCK ---
+Shiera Stolrata
+--- BLOCK ---
+Shiera Vitalica
+--- BLOCK ---
+Cresta lapislázuli
+--- BLOCK ---
+Cresta lapislázuli+
+--- BLOCK ---
+Gran lapislázuli
+--- BLOCK ---
+Bandera azul
+--- BLOCK ---
+Venablo de agua
+--- BLOCK ---
+Venablo de agua+
+--- BLOCK ---
+Venablo acuoso
+--- BLOCK ---
+Venablo esmeralda
+--- BLOCK ---
+Marea de esmeraldas
+--- BLOCK ---
+Venablo rocoso
+--- BLOCK ---
+Venablo réquiem
+--- BLOCK ---
+Lanza Acrus
+--- BLOCK ---
+Lanza Acrus+
+--- BLOCK ---
+Gran lanza Acrus
+--- BLOCK ---
+Venablo de Doris
+--- BLOCK ---
+Anfitrite
+--- BLOCK ---
+Lanza Acrus nova
+--- BLOCK ---
+Rayo blanco Gaius
+--- BLOCK ---
+Lanza tenebrosa
+--- BLOCK ---
+Terracontier oscura
+--- BLOCK ---
+Venablo de Boros
+--- BLOCK ---
+Venablo de Boros+
+--- BLOCK ---
+Temblor Illboros
+--- BLOCK ---
+Giga Sassoboros
+--- BLOCK ---
+Temblor Granboros
+--- BLOCK ---
+Jabalina sombría
+--- BLOCK ---
+Jabalina sombría+
+--- BLOCK ---
+Jabalina tóxica
+--- BLOCK ---
+Noxninfa de hierro
+--- BLOCK ---
+Luinox el Sediento
+--- BLOCK ---
+Punzadora oculta
+--- BLOCK ---
+Lluvianegra nocturna
+--- BLOCK ---
+Lanza de Avidya
+--- BLOCK ---
+Lanza del eclipse
+--- BLOCK ---
+Asterismo de Dubhe
+--- BLOCK ---
+Lanza de hueso
+--- BLOCK ---
+Lanza de hueso+
+--- BLOCK ---
+Venablo cornilargo
+--- BLOCK ---
+Venablo cornilargo+
+--- BLOCK ---
+Venablo colmilargo
+--- BLOCK ---
+Ploshasta
+--- BLOCK ---
+Rhenohasta
+--- BLOCK ---
+Lanza de Diablos
+--- BLOCK ---
+Venablo Diablos
+--- BLOCK ---
+Cera Creos
+--- BLOCK ---
+Tempestad negra
+--- BLOCK ---
+Tempestad negra+
+--- BLOCK ---
+Tempestad naciente
+--- BLOCK ---
+Gobulu Muruka
+--- BLOCK ---
+Gobulu Muruka+
+--- BLOCK ---
+Gobuluku Muraaka
+--- BLOCK ---
+Gobulaluku Bosca
+--- BLOCK ---
+Gobulaluku Aquir
+--- BLOCK ---
+Lanza dura
+--- BLOCK ---
+Lanza dura+
+--- BLOCK ---
+Cortador de Barroth
+--- BLOCK ---
+Lanza aplastadora
+--- BLOCK ---
+Hielo Bordenshkiold
+--- BLOCK ---
+Hielo Arktika
+--- BLOCK ---
+Llegada usurpador
+--- BLOCK ---
+Cacofonía déspota
+--- BLOCK ---
+Génesis del opresor
+--- BLOCK ---
+Cola de Brimstren
+--- BLOCK ---
+Ira estigia
+--- BLOCK ---
+Calor espiral
+--- BLOCK ---
+Lanza ígnea Agnaktor
+--- BLOCK ---
+Vaskignador
+--- BLOCK ---
+Líquido espiral
+--- BLOCK ---
+Acualanza Agnaktor
+--- BLOCK ---
+Varunagnaktor
+--- BLOCK ---
+Venab. hueso Ludroth
+--- BLOCK ---
+Lanza espiral
+--- BLOCK ---
+Lanza espiral+
+--- BLOCK ---
+Salpicadura espiral
+--- BLOCK ---
+Cuerno de Ceadeus
+--- BLOCK ---
+Gran cuerno Ceadeus
+--- BLOCK ---
+Sima arcana
+--- BLOCK ---
+Lanza señorial Exia
+--- BLOCK ---
+Bella Nocuus
+--- BLOCK ---
+Bel Nefastro
+--- BLOCK ---
+Bel Nefastro+
+--- BLOCK ---
+Lanza de jabalí
+--- BLOCK ---
+Lanza de jabalí+
+--- BLOCK ---
+Venablo de toro
+--- BLOCK ---
+Punzadora Brach
+--- BLOCK ---
+Punzadora Brach+
+--- BLOCK ---
+Lanza de demolición
+--- BLOCK ---
+Demoledora Albrach
+--- BLOCK ---
+Lanza del dolor
+--- BLOCK ---
+Torre infernal
+--- BLOCK ---
+Atrocidad de Nerón
+--- BLOCK ---
+Cráter azul
+--- BLOCK ---
+Cráter de esmalte
+--- BLOCK ---
+Corona maldita
+--- BLOCK ---
+Corona eterna
+--- BLOCK ---
+Corona Aidion
+--- BLOCK ---
+Lanza oxidada
+--- BLOCK ---
+Lanza deslustrada
+--- BLOCK ---
+Funeraria
+--- BLOCK ---
+Gran funeraria
+--- BLOCK ---
+Funeraria nova
+--- BLOCK ---
+Venablo desgastado
+--- BLOCK ---
+Venablo estropeado
+--- BLOCK ---
+Rascacielos
+--- BLOCK ---
+Hiendecielos
+--- BLOCK ---
+Aguja de Plegis
+--- BLOCK ---
+Aguja de Plegis+
+--- BLOCK ---
+Poderoso Plegis
+--- BLOCK ---
+Mordisco de Sharq
+--- BLOCK ---
+Ataque Sharq
+--- BLOCK ---
+Asalto de Sharq
+--- BLOCK ---
+Aguja de Megido
+--- BLOCK ---
+Immaelestrom
+--- BLOCK ---
+Lanza de Alatreon
+--- BLOCK ---
+Rayo de Alatreon
+--- BLOCK ---
+Altheos Gloralis
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+ML001: Baltzenger
+--- BLOCK ---
+L. equipo "Byakko"
+--- BLOCK ---

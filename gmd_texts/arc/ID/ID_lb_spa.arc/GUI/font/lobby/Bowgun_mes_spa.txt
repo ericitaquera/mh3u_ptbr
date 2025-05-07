@@ -1,0 +1,218 @@
+﻿TMSG_BOWGUN_MES
+--- BLOCK ---
+Más lento
+--- BLOCK ---
+Ext. lento
+--- BLOCK ---
+Muy lento
+--- BLOCK ---
+Lento
+--- BLOCK ---
+Algo lento
+--- BLOCK ---
+Medio
+--- BLOCK ---
+Algo veloz
+--- BLOCK ---
+Veloz
+--- BLOCK ---
+Muy veloz
+--- BLOCK ---
+Más veloz
+--- BLOCK ---
+Lento
+--- BLOCK ---
+Algo lento
+--- BLOCK ---
+Medio
+--- BLOCK ---
+--
+--- BLOCK ---
+Pot. peq.
+--- BLOCK ---
+Pot. gran.
+--- BLOCK ---
+Máximo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+Medio
+--- BLOCK ---
+Algo
+--- BLOCK ---
+Bajo
+--- BLOCK ---
+Muy bajo
+--- BLOCK ---
+Mínimo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+Medio
+--- BLOCK ---
+Algo
+--- BLOCK ---
+--
+--- BLOCK ---
+Reducido
+--- BLOCK ---
+Reducido+
+--- BLOCK ---
+Ninguno
+--- BLOCK ---
+Bajo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+Ninguno
+--- BLOCK ---
+I
+--- BLOCK ---
+D
+--- BLOCK ---
+ID
+--- BLOCK ---
+Ninguno
+--- BLOCK ---
+Reducido
+--- BLOCK ---
+Reducido+
+--- BLOCK ---
+Aumentado
+--- BLOCK ---
+Aumentado+
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Afinidad
+--- BLOCK ---
+Espacios
+--- BLOCK ---
+Peso
+--- BLOCK ---
+Alcance
+--- BLOCK ---
+Recarga
+--- BLOCK ---
+Retroceso
+--- BLOCK ---
+Desvío
+--- BLOCK ---
+Otros
+--- BLOCK ---
+Normal
+--- BLOCK ---
+Perfor.
+--- BLOCK ---
+Perdig.
+--- BLOCK ---
+Explos.
+--- BLOCK ---
+Grupo
+--- BLOCK ---
+Recuper.
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Paraliz.
+--- BLOCK ---
+Sueño
+--- BLOCK ---
+Fatiga
+--- BLOCK ---
+Submar.
+--- BLOCK ---
+Llama
+--- BLOCK ---
+Agua
+--- BLOCK ---
+Trueno
+--- BLOCK ---
+Congel.
+--- BLOCK ---
+Dragón
+--- BLOCK ---
+Tranq.
+--- BLOCK ---
+Pintura
+--- BLOCK ---
+Demonio
+--- BLOCK ---
+Armadur.
+--- BLOCK ---
+Cortador
+--- BLOCK ---
+Baba
+--- BLOCK ---
+F. Wyvern
+--- BLOCK ---
+Normal
+--- BLOCK ---
+Perfor.
+--- BLOCK ---
+Perdig.
+--- BLOCK ---
+Explos.
+--- BLOCK ---
+Grupo
+--- BLOCK ---
+F. Wyvern
+--- BLOCK ---
+Recuper.
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Paraliz.
+--- BLOCK ---
+Sueño
+--- BLOCK ---
+Submar.
+--- BLOCK ---
+Demonio
+--- BLOCK ---
+Armadur.
+--- BLOCK ---
+Fatiga
+--- BLOCK ---
+Llama
+--- BLOCK ---
+Agua
+--- BLOCK ---
+Congel.
+--- BLOCK ---
+Trueno
+--- BLOCK ---
+Dragón
+--- BLOCK ---
+Cortador
+--- BLOCK ---
+Tranq.
+--- BLOCK ---
+Pintura
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Potencia
+--- BLOCK ---
+Elemento
+--- BLOCK ---
+Aturdido
+--- BLOCK ---
+Dragón
+--- BLOCK ---
+Fatiga
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Baba
+--- BLOCK ---
+Sueño
+--- BLOCK ---

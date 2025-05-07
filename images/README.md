@@ -76,3 +76,24 @@ Used to display **zone or map names** like "Port" and "Village" (Porto/Vila).
 
 ---
 
+## 🎨 `td_com_ID_spa.tex`
+
+Used for rendering **icon-style text labels** map from the Forest and beyond.
+
+### ✏️ Font Settings
+
+#### Fechar/Voltar a ler
+
+* **Font**: MingLiU\_HKSCS-ExtB Bold 13
+Two layers, Antialiasing=ON
+* **Layer 1 Font Color**: `#332516` (brown)
+* **Layer 2 Font**: `#000000` (black)
+
+#### Valor / Qtd. / NC
+
+* **Font Color**: `#ffffff` (white)
+* **Outline**: +2px, `#0d0802` (brown)
+
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="td_com_ID_spa.preview.png" alt="td_com_ID_spa preview">
+</div>

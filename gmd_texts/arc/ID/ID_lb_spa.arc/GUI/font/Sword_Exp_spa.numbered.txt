@@ -1,0 +1,558 @@
+﻿TMSG_SWORD_EXP
+--- BLOCK [001] ---
+(Nada equipado.)
+--- BLOCK [002] ---
+Espada de una mano, fácil de
+empuñar. No muy poderosa,
+pero de combos potentes.
+--- BLOCK [003] ---
+Espada de una mano, fácil de
+empuñar. No muy poderosa,
+pero de combos potentes.
+--- BLOCK [004] ---
+Espada hecha de mineral de
+gran pureza que mejora su
+fuerza. Su hoja es curva.
+--- BLOCK [005] ---
+Espada hecha de mineral de
+gran pureza que mejora su
+fuerza. Su hoja es curva.
+--- BLOCK [006] ---
+Espada de frío extremo. Su
+hoja perfora los caparazones
+y congela desde dentro.
+--- BLOCK [007] ---
+Espada de frío extremo. Su
+hoja perfora los caparazones
+y congela desde dentro.
+--- BLOCK [008] ---
+De material de Barioth.
+Congela el fuego, la tierra,
+el agua y hasta el aire.
+--- BLOCK [009] ---
+Espada cruel que envía todo
+al olvido. Dicen que sometió
+a los dioses del fuego.
+--- BLOCK [010] ---
+Espada cruel que envía todo
+al olvido. Dicen que sometió
+a los dioses del fuego.
+--- BLOCK [011] ---
+Espada que transforma magma
+en hielo. Congela
+la creación eternamente.
+--- BLOCK [012] ---
+Espada que transforma magma
+en hielo. Congela
+la creación eternamente.
+--- BLOCK [013] ---
+Espada con la habilidad del
+Barioth arenoso. Te abre
+paso en tormentas de tierra.
+--- BLOCK [014] ---
+Espada con la habilidad del
+Barioth arenoso. Te abre
+paso en tormentas de tierra.
+--- BLOCK [015] ---
+Espada con la habilidad del
+Barioth arenoso. Te abre
+paso en tormentas de tierra.
+--- BLOCK [016] ---
+Arma de caballero real
+adaptada a la caza. Cuidado
+con la hoja envenenada.
+--- BLOCK [017] ---
+Arma de caballero real
+adaptada a la caza. Cuidado
+con la hoja envenenada.
+--- BLOCK [018] ---
+Brutal espada imbuida de
+veneno. Corrompe y
+descompone al contacto.
+--- BLOCK [019] ---
+Espada negra sublime. Su
+veneno anuncia muerte.
+--- BLOCK [020] ---
+Espada negra sublime. Su
+veneno anuncia muerte.
+--- BLOCK [021] ---
+Espada de ébano, negra como
+la noche. La extraña textura
+de la hoja oculta sangre. 
+--- BLOCK [022] ---
+Espada de ébano, negra como
+la noche. La extraña textura
+de la hoja oculta sangre. 
+--- BLOCK [023] ---
+Tercera arma de cuatro que
+usó un famoso asesino. Bebe
+sangre de presas incautas.
+--- BLOCK [024] ---
+Espada que brilla a la luz
+de la luna. Solo su brillo
+ya corta enemigos.
+--- BLOCK [025] ---
+La tercera de las Siete
+estrellas. Su brillo acaba
+con la sombra y con la vida.
+--- BLOCK [026] ---
+Espada ligera hecha de
+materiales de Jaggi. Fácil
+de usar y de encontrar.
+--- BLOCK [027] ---
+Espada ligera hecha de
+materiales de Jaggi. Fácil
+de usar y de encontrar.
+--- BLOCK [028] ---
+Muy fácil de usar. Hecha de
+piel de Gran Jaggi. Mejora
+con el uso.
+--- BLOCK [029] ---
+Muy fácil de usar. Hecha de
+piel de Gran Jaggi. Mejora
+con el uso.
+--- BLOCK [030] ---
+Muy fácil de usar. Hecha de
+piel de Gran Jaggi. Mejora
+con el uso.
+--- BLOCK [031] ---
+Espada hecha de un cuerno
+ancho como el pecho.
+Desgarra carne y hueso.
+--- BLOCK [032] ---
+Espada hecha de un cuerno
+ancho como el pecho.
+Desgarra carne y hueso.
+--- BLOCK [033] ---
+Espada hecha de un cuerno
+ancho como el pecho.
+Desgarra carne y hueso.
+--- BLOCK [034] ---
+Los cazadores prefieren esta
+espada, que emplea sedantes
+extraídos de un Baggi.
+--- BLOCK [035] ---
+Los cazadores prefieren esta
+espada, que emplea sedantes
+extraídos de un Baggi.
+--- BLOCK [036] ---
+La presa sucumbe a un
+sueño tranquilo, seguido de
+un violento despertar.
+--- BLOCK [037] ---
+Espada curva que inflige
+sueño. Envía al enemigo
+a una eterna pesadilla.
+--- BLOCK [038] ---
+Espada curva que inflige
+sueño. Envía al enemigo
+a una eterna pesadilla.
+--- BLOCK [039] ---
+Espada venenosa junto con un
+escudo único que absorbe
+golpes con una bolsa de gas.
+--- BLOCK [040] ---
+Espada venenosa junto con un
+escudo único que absorbe
+golpes con una bolsa de gas.
+--- BLOCK [041] ---
+Espada sofisticada con un
+escudo único que absorbe
+golpes con una bolsa de gas.
+--- BLOCK [042] ---
+Hecha con púas de la cola
+del Gobul. Contiene una
+fuerte toxina nerviosa.
+--- BLOCK [043] ---
+Hecha con púas de la cola
+del Gobul. Contiene una
+fuerte toxina nerviosa.
+--- BLOCK [044] ---
+Hecha con púas de la cola
+del Gobul. Contiene una
+fuerte toxina nerviosa.
+--- BLOCK [045] ---
+Hecha con púas de la cola
+del Gobul. Contiene una
+fuerte toxina nerviosa.
+--- BLOCK [046] ---
+Espada de colores con un
+toque extranjero. Inmoviliza
+y aniquila a los enemigos.
+--- BLOCK [047] ---
+Espada de colores vivos con
+un toque extranjero. Retiene
+y aniquila a los enemigos.
+--- BLOCK [048] ---
+Espada con la fuerza vital
+de un rey. Sus golpes
+trazan arcos eléctricos.
+--- BLOCK [049] ---
+Espada con la fuerza vital
+de un rey. Sus golpes
+trazan arcos eléctricos.
+--- BLOCK [050] ---
+Espada con la fuerza vital
+de un rey. Sus golpes
+trazan arcos eléctricos.
+--- BLOCK [051] ---
+Espada brillante que anuncia
+el despertar del emperador
+del inframundo.
+--- BLOCK [052] ---
+Espada brillante que anuncia
+el despertar del emperador
+del inframundo.
+--- BLOCK [053] ---
+Sencilla y práctica daga de
+hueso. El escudo también
+se usa para atacar.
+--- BLOCK [054] ---
+Sencilla y práctica daga de
+hueso. El escudo también
+se usa para atacar.
+--- BLOCK [055] ---
+Hacha de mano. De material
+de Qurupeco. Copia de un
+hacha occidental.
+--- BLOCK [056] ---
+Hacha de mano. De material
+de Qurupeco. Copia de un
+hacha occidental.
+--- BLOCK [057] ---
+Hacha de mano. De material
+de Qurupeco. Copia de un
+hacha occidental.
+--- BLOCK [058] ---
+Espada de hoja candente
+envuelta en las abrasadoras
+llamas de un wyvern.
+--- BLOCK [059] ---
+Espada de hoja candente
+envuelta en las abrasadoras
+llamas de un wyvern.
+--- BLOCK [060] ---
+Forma más fuerte del Djinn,
+hecha de materiales
+incendiarios. Como el magma.
+--- BLOCK [061] ---
+Espada cubierta de poderosas
+llamas. Ataque bajo pero
+gran potencia de fuego.
+--- BLOCK [062] ---
+Espada cubierta de poderosas
+llamas. Ataque bajo pero
+gran potencia de fuego.
+--- BLOCK [063] ---
+Espada de escamas doradas de
+wyvern. Un arma similar yace
+en la tumba de un viejo rey.
+--- BLOCK [064] ---
+Espada de escamas doradas de
+wyvern. Un arma similar yace
+en la tumba de un viejo rey.
+--- BLOCK [065] ---
+Hacha de doble filo, de hoja
+cortante y envenenada.
+Muy letal.
+--- BLOCK [066] ---
+Hacha de doble filo, de hoja
+cortante y envenenada.
+Muy letal.
+--- BLOCK [067] ---
+Hacha de doble filo, de hoja
+cortante y envenenada.
+Muy letal.
+--- BLOCK [068] ---
+Por su hoja fluye el rayo
+para multiplicar el dolor.
+--- BLOCK [069] ---
+Por su hoja fluye el rayo
+para multiplicar el dolor.
+--- BLOCK [070] ---
+Espada de lapislázuli con
+rayo; su portador se vuelve
+un furioso torbellino.
+--- BLOCK [071] ---
+Espada de lapislázuli con
+rayo; su portador se vuelve
+un furioso torbellino.
+--- BLOCK [072] ---
+Espada de lapislázuli con
+rayo; su portador se vuelve
+un furioso torbellino.
+--- BLOCK [073] ---
+Espada blanca que parece un
+Lagiacrus marmóreo. Hace
+temblar los siete mares.
+--- BLOCK [074] ---
+Espada blanca que parece un
+Lagiacrus marmóreo. Hace
+temblar los siete mares.
+--- BLOCK [075] ---
+Encarnación de un Lagiacrus
+del abismo. Su trueno
+sacude los mares.
+--- BLOCK [076] ---
+Encarnación de un Lagiacrus
+del abismo. Su trueno
+sacude los mares.
+--- BLOCK [077] ---
+Hecha con piel de Ludroth.
+Parece que está pidiendo
+mejoras.
+--- BLOCK [078] ---
+Hecha con materiales de
+Ludroth; sus rociadas de
+agua hipnotizan.
+--- BLOCK [079] ---
+Hecha con materiales de
+Ludroth; sus rociadas de
+agua hipnotizan.
+--- BLOCK [080] ---
+Cubierta por una membrana
+acuosa. Emplea el agua para
+reducir a los monstruos.
+--- BLOCK [081] ---
+Espada muy absorbente hecha
+de Ludroth purpúreo.
+Extingue cualquier llama.
+--- BLOCK [082] ---
+Espada muy absorbente hecha
+de Ludroth purpúreo.
+Extingue cualquier llama.
+--- BLOCK [083] ---
+Espada muy absorbente hecha
+de Ludroth purpúreo.
+Extingue cualquier llama.
+--- BLOCK [084] ---
+Lúgubre espada, tipo porra,
+hecha de caparazón de
+Barroth. Rompe los huesos.
+--- BLOCK [085] ---
+Lúgubre espada, tipo porra,
+hecha de caparazón de
+Barroth. Rompe los huesos.
+--- BLOCK [086] ---
+La ultracondensación del
+caparazón de un monstruo ha
+dado este filo destructivo.
+--- BLOCK [087] ---
+Espada en forma de porra con
+la furia de un Diablos. El
+portador siente a la bestia.
+--- BLOCK [088] ---
+Espada en forma de porra con
+la furia de un Diablos. El
+portador siente a la bestia.
+--- BLOCK [089] ---
+Espada en forma de porra con
+la furia de un Diablos. El
+portador siente a la bestia.
+--- BLOCK [090] ---
+Arma sin filo cuyos pesados
+golpes dañan más que la
+mayoría de las espadas.
+--- BLOCK [091] ---
+Arma sin filo cuyos pesados
+golpes dañan más que la
+mayoría de las espadas.
+--- BLOCK [092] ---
+Arma sin filo cuyos pesados
+golpes dañan más que la
+mayoría de las espadas.
+--- BLOCK [093] ---
+Arma sin filo cuyos pesados
+golpes dañan más que la
+mayoría de las espadas.
+--- BLOCK [094] ---
+Espada volátil hecha de
+partes de Brachydios.
+Revienta todo lo que toca. 
+--- BLOCK [095] ---
+Espada volátil hecha de
+partes de Brachydios.
+Revienta todo lo que toca. 
+--- BLOCK [096] ---
+Espada que encarna la fiera
+ira de la tierra. Su poder
+explosivo separa el cielo.
+--- BLOCK [097] ---
+Espada que encarna la fiera
+ira de la tierra. Su poder
+explosivo separa el cielo.
+--- BLOCK [098] ---
+Espada tallada de partes de
+un Bnahabra. De diseño
+elegante y afilada.
+--- BLOCK [099] ---
+Espada tallada de partes de
+un Bnahabra. De diseño
+elegante y afilada.
+--- BLOCK [100] ---
+Espada tallada de partes de
+un Bnahabra. Frías astillas
+sobresalen de la superficie.
+--- BLOCK [101] ---
+Espada tallada de partes de
+un Bnahabra. Frías astillas
+sobresalen de la superficie.
+--- BLOCK [102] ---
+Espada tallada de partes de
+un Bnahabra. Frías astillas
+sobresalen de la superficie.
+--- BLOCK [103] ---
+Espada tallada de partes de
+un Bnahabra. Su hoja
+esmeralda paraliza enemigos.
+--- BLOCK [104] ---
+Espada tallada de partes de
+un Bnahabra. Su hoja
+esmeralda paraliza enemigos.
+--- BLOCK [105] ---
+Espada tallada de partes de
+un Bnahabra. Su hoja
+esmeralda paraliza enemigos.
+--- BLOCK [106] ---
+Espada en forma de hacha de
+huesos de Qurupeco. Lanza
+rápida electricidad mortal.
+--- BLOCK [107] ---
+Espada en forma de hacha de
+huesos de Qurupeco. Lanza
+rápida electricidad mortal.
+--- BLOCK [108] ---
+Espada y escudo que parecen
+la cabeza de un wyvern
+al juntarse. Umm...
+--- BLOCK [109] ---
+Espada y escudo que parecen
+la cabeza de un wyvern
+al juntarse. Umm...
+--- BLOCK [110] ---
+Espada de antiguas memorias.
+El wyvern enseña los dientes
+que el tiempo ha afilado.
+--- BLOCK [111] ---
+Espada de antiguas memorias.
+El wyvern enseña los dientes
+que el tiempo ha afilado.
+--- BLOCK [112] ---
+Espada de antiguas memorias.
+El wyvern enseña los dientes
+que el tiempo ha afilado.
+--- BLOCK [113] ---
+Hecha con cuernos de
+Ceadeus. Dicen que solo
+puede empuñarla un héroe.
+--- BLOCK [114] ---
+Símbolo del orgullo del
+Ceadeus. Acaba con 10 000
+de un solo golpe.
+--- BLOCK [115] ---
+Símbolo del orgullo del
+Ceadeus. Acaba con 10 000
+de un solo golpe.
+--- BLOCK [116] ---
+Encarnación de un Ceadeus
+barba dorada. Sus ataques
+áureos condenan al silencio.
+--- BLOCK [117] ---
+Encarnación de un Ceadeus
+barba dorada. Sus ataques
+áureos condenan al silencio.
+--- BLOCK [118] ---
+Espada oriental que aniquila
+enemigos, armaduras y todo.
+Maravillosamente cortante.
+--- BLOCK [119] ---
+Espada de leyenda. Se dice
+que la usó un dios guerrero
+y mató incontables enemigos.
+--- BLOCK [120] ---
+Espada de colmillo de Jhen
+Mohran sagrado. El secreto
+de su diseño es ancestral.
+--- BLOCK [121] ---
+Espada de colmillo de Jhen
+Mohran sagrado. El secreto
+de su diseño es ancestral.
+--- BLOCK [122] ---
+Usada por cazadores
+extranjeros. Notable por su
+forma y colores extraños.
+--- BLOCK [123] ---
+Usada por cazadores
+extranjeros. Notable por su
+forma y colores extraños.
+--- BLOCK [124] ---
+Rara espada del extranjero.
+Parece que se podría
+combinar con su escudo...
+--- BLOCK [125] ---
+Espada corta de atributos de
+agua que mejoran el Afilado.
+La sangre se limpia sola.
+--- BLOCK [126] ---
+Espada corta de atributos de
+agua que mejoran el Afilado.
+La sangre se limpia sola.
+--- BLOCK [127] ---
+De potencial ignorado. Quizá
+podría pulirse...
+--- BLOCK [128] ---
+De potencial ignorado. Quizá
+podría pulirse...
+--- BLOCK [129] ---
+La espada matadragones
+definitiva. Fue forjada
+en 108 días.
+--- BLOCK [130] ---
+La espada matadragones
+definitiva. Fue forjada
+en 108 días.
+--- BLOCK [131] ---
+La espada matadragones
+definitiva. Fue forjada
+en 108 días.
+--- BLOCK [132] ---
+De potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK [133] ---
+De potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK [134] ---
+Muy extraña. Dicen que
+en su escudo pulido puede
+verse el futuro...
+--- BLOCK [135] ---
+Muy extraña. Dicen que
+en su escudo pulido puede
+verse el futuro...
+--- BLOCK [136] ---
+De cuerno de Alatreon. Dicen
+que su portador puede oír
+una voz misteriosa...
+--- BLOCK [137] ---
+Espada cuyo portador es
+atraído hacia la oscuridad
+por una voz fantasmal.
+--- BLOCK [138] ---
+Espada cuyo portador es
+atraído hacia la oscuridad
+por una voz fantasmal.
+--- BLOCK [139] ---
+¿Esta poderosa espada traerá
+salvación o destrucción? El
+fuego dará la respuesta.
+--- BLOCK [140] ---
+¿Esta poderosa espada traerá
+salvación o destrucción? El
+fuego dará la respuesta.
+--- BLOCK [141] ---
+DUMMY
+--- BLOCK [142] ---
+Hoja trueno que parece una
+sierra. Con increíbles
+dientes, lo corta todo.
+--- BLOCK [143] ---

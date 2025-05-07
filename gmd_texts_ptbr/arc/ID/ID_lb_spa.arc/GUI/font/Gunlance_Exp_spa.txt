@@ -1,0 +1,464 @@
+TMSG_GUNLANCE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Uma lança-canhão não muito
+cara. Uma boa
+arma para começar.
+--- BLOCK ---
+Uma Lança-canhão não muito
+cara. Uma boa
+arma para começar.
+--- BLOCK ---
+Uma Lança-canhão não muito
+cara. Uma boa
+arma para começar.
+--- BLOCK ---
+Uma boa Lança-canhão
+de longa história.
+Fabricada pelo Gremio.
+--- BLOCK ---
+Uma boa Lança-canhão
+de longa história.
+Fabricada pelo Gremio.
+--- BLOCK ---
+Uma boa Lança-canhão
+de longa história.
+Fabricada pelo Gremio.
+--- BLOCK ---
+Uma Lança-canhão melhorada por um
+mestre, mas fácil de
+usar por qualquer um.
+--- BLOCK ---
+Uma Lança-canhão melhorada por um
+mestre, mas fácil de
+usar por qualquer um.
+--- BLOCK ---
+Uma Lança-canhão melhorada por um
+mestre, mas fácil de
+usar por qualquer um.
+--- BLOCK ---
+Uma Lança-canhão de ébano.
+O canhão é ocultado
+por folhas de obsidiana.
+--- BLOCK ---
+Uma Lança-canhão de ébano.
+O canhão é ocultado
+por folhas de obsidiana.
+--- BLOCK ---
+Uma Lança-canhão de ébano.
+O canhão é ocultado
+por folhas de obsidiana.
+--- BLOCK ---
+Uma Lança-canhão com tons
+sobrenaturais. Seus usuários se
+escondem nas sombras.
+--- BLOCK ---
+A sexta das
+Sete estrelas, encarnada.
+Emite luz estelar.
+--- BLOCK ---
+Uma Lança-canhão verde que evoca
+a noite. Apaga luzes
+e vidas com facilidade.
+--- BLOCK ---
+Uma Lança-canhão verde que evoca
+a noite. Apaga luzes
+e vidas com facilidade.
+--- BLOCK ---
+Uma Lança-canhão que representa
+um Rathalos. Sua
+melodia é letal.
+--- BLOCK ---
+Uma Lança-canhão que representa
+um Rathalos. Sua
+melodia é letal.
+--- BLOCK ---
+Uma Lança-canhão que representa
+um Rathalos. Sua
+melodia é letal.
+--- BLOCK ---
+Uma Lança-canhão de pedaços
+de Rathalos de prata.
+Suas escamas brilham nobres.
+--- BLOCK ---
+Uma Lança-canhão de pedaços
+de Rathalos de prata.
+Suas escamas brilham nobres.
+--- BLOCK ---
+Uma Lança-canhão de pedaços
+de Rathalos de prata.
+Suas escamas brilham nobres.
+--- BLOCK ---
+Uma Lança-canhão criada escavando
+uma antiga e
+reconstruindo o disparo.
+--- BLOCK ---
+Uma Lança-canhão criada escavando
+uma antiga e
+reconstruindo o disparo.
+--- BLOCK ---
+Uma Lança-canhão criada escavando
+uma antiga e
+reconstruindo o disparo.
+--- BLOCK ---
+Uma temível Lança-canhão
+criada com tecnologia
+gremial. Contra wyverns.
+--- BLOCK ---
+Uma Lança-canhão que penetra
+escamas de wyvern. O
+último contra wyverns.
+--- BLOCK ---
+Uma Lança-canhão que penetra
+escamas de wyvern. O
+último contra wyverns.
+--- BLOCK ---
+Uma grande Lança-canhão que
+lembra um Volvidon. Esmaga,
+mais do que apunhala.
+--- BLOCK ---
+Uma grande Lança-canhão que
+lembra um Volvidon. Esmaga,
+mais do que apunhala.
+--- BLOCK ---
+Uma grande Lança-canhão que
+lembra um Volvidon. Esmaga,
+mais do que apunhala.
+--- BLOCK ---
+Uma Lança-canhão com o
+poder de um Lagiacrus.
+Dispara raios terríveis.
+--- BLOCK ---
+Uma Lança-canhão com o
+poder de um Lagiacrus.
+Dispara raios terríveis.
+--- BLOCK ---
+Uma Lança-canhão com o
+poder de um Lagiacrus.
+Dispara raios terríveis.
+--- BLOCK ---
+Uma Lança-canhão que converte
+o poder de um
+Lagiacrus em raios.
+--- BLOCK ---
+Uma Lança-canhão que converte
+o poder de um
+Lagiacrus em raios.
+--- BLOCK ---
+Uma Lança-canhão que converte
+o poder de um
+Lagiacrus em raios.
+--- BLOCK ---
+Uma Lança-canhão azul que
+lembra o mar. Concede
+o governo das águas.
+--- BLOCK ---
+Uma Lança-canhão azul que
+lembra o mar. Concede
+o governo das águas.
+--- BLOCK ---
+Uma Lança-canhão com baba
+de Brachydios. Seu
+poder é incomensurável.
+--- BLOCK ---
+Uma Lança-canhão com baba
+de Brachydios. Seu
+poder é incomensurável.
+--- BLOCK ---
+Uma Lança-canhão com o poder
+de um Brachydios. Não causa
+nada além de dor.
+--- BLOCK ---
+Uma Lança-canhão com o poder
+de um Brachydios. Não causa
+nada além de dor.
+--- BLOCK ---
+Uma Lança-canhão que une
+tecnologia e exotismo.
+Tem propriedades gélidas.
+--- BLOCK ---
+Uma Lança-canhão que une
+tecnologia e exotismo.
+Tem propriedades gélidas.
+--- BLOCK ---
+Uma Lança-canhão que une
+tecnologia e exotismo.
+Tem propriedades gélidas.
+--- BLOCK ---
+Uma Lança-canhão que imita
+o blindagem do Agnaktor.
+Parece brilhar, infernal.
+--- BLOCK ---
+Uma Lança-canhão que imita
+o blindagem do Agnaktor.
+Parece brilhar, infernal.
+--- BLOCK ---
+Uma Lança-canhão vermelha e
+reluzente. Reduz os
+inimigos a cinzas.
+--- BLOCK ---
+Uma Lança-canhão composta de
+pedaços de Agnaktor. Vaporiza
+tudo o que toca.
+--- BLOCK ---
+Uma Lança-canhão composta de
+pedaços de Agnaktor. Vaporiza
+tudo o que toca.
+--- BLOCK ---
+Uma Lança-canhão de gelo.
+Seus jatos de água
+atravessam o aço maciço.
+--- BLOCK ---
+Uma Lança-canhão baseada em
+um Agnaktor glacial.
+Invoca furiosos redemoinhos.
+--- BLOCK ---
+Uma Lança-canhão baseada em
+um Agnaktor glacial.
+Invoca furiosos redemoinhos.
+--- BLOCK ---
+Lança-canhão para caçadores
+iniciantes. Com design
+perfeito para praticar.
+--- BLOCK ---
+Uma Lança-canhão para
+iniciantes. Permite aprender
+os fundamentos.
+--- BLOCK ---
+Uma Lança-canhão para
+iniciantes. Permite aprender
+os fundamentos.
+--- BLOCK ---
+Uma Lança-canhão de lama, criada
+de um Barroth. Funciona
+em todas as condições.
+--- BLOCK ---
+Uma Lança-canhão de lama, criada
+de um Barroth. Funciona
+em todas as condições.
+--- BLOCK ---
+Uma Lança-canhão de lama, criada
+de um Barroth. Funciona
+em todas as condições.
+--- BLOCK ---
+Uma Lança-canhão muito resistente,
+capaz de suportar os
+climas mais severos.
+--- BLOCK ---
+Uma Lança-canhão muito resistente,
+capaz de suportar os
+climas mais severos.
+--- BLOCK ---
+Uma Lança-canhão de gelo,
+feita de Barroth esmeralda.
+Pode redirecionar avalanches.
+--- BLOCK ---
+Uma Lança-canhão de gelo,
+feita de Barroth esmeralda.
+Pode redirecionar avalanches.
+--- BLOCK ---
+Uma Lança-canhão glacial. Converte
+os inimigos em
+esculturas de gelo.
+--- BLOCK ---
+Uma Lança-canhão glacial. Converte
+os inimigos em
+esculturas de gelo.
+--- BLOCK ---
+Uma Lança-canhão coberta de
+peles de Grande Jaggi.
+Um design ortodoxo.
+--- BLOCK ---
+Uma Lança-canhão coberta de
+peles de Grande Jaggi.
+Um design ortodoxo.
+--- BLOCK ---
+Uma Lança-canhão coberta com
+peles de Grande Jaggi.
+Um design ortodoxo.
+--- BLOCK ---
+Uma Lança-canhão com
+escamas da rainha.
+Dispara veneno.
+--- BLOCK ---
+Uma Lança-canhão com
+escamas da rainha.
+Dispara veneno.
+--- BLOCK ---
+Uma Lança-canhão com
+escamas da rainha.
+Dispara veneno.
+--- BLOCK ---
+Uma Lança-canhão da rainha. O
+último que os rivais veem
+é a sua beleza.
+--- BLOCK ---
+Uma Lança-canhão da rainha. O
+último que os rivais veem
+é a sua beleza.
+--- BLOCK ---
+Uma Lança-canhão com o
+poder de um monarca.
+Seu rugido anuncia conquista.
+--- BLOCK ---
+Uma Lança-canhão com o
+poder de um monarca.
+Seu rugido anuncia conquista.
+--- BLOCK ---
+Uma Lança-canhão com o
+poder de um monarca.
+Seu rugido anuncia conquista.
+--- BLOCK ---
+Uma Lança-canhão baseada em
+um Zinogre estígio. Seus
+disparos são temíveis.
+--- BLOCK ---
+Uma Lança-canhão baseada em
+um Zinogre estígio. Seus
+disparos são temíveis.
+--- BLOCK ---
+Uma Lança-canhão com penas
+de Qurupeco. Seu
+prendedor dispara fogo.
+--- BLOCK ---
+Uma Lança-canhão com penas
+de Qurupeco. Seu
+prendedor dispara fogo.
+--- BLOCK ---
+Uma Lança-canhão com
+ignição interna. Suas
+chamas são aterradoras.
+--- BLOCK ---
+Uma Lança-canhão com penas
+de Qurupeco carmesim. Produz
+ataques de trovão.
+--- BLOCK ---
+Uma Lança-canhão com penas
+de Qurupeco carmesim. Produz
+ataques de trovão.
+--- BLOCK ---
+Uma Lança-canhão com penas
+de Qurupeco carmesim. Produz
+ataques de trovão.
+--- BLOCK ---
+Uma Lança-canhão feita de
+pedaços de Plesioth. Pode
+efetuar vários disparos.
+--- BLOCK ---
+Uma Lança-canhão feita de
+pedaços de Plesioth. Pode
+efetuar vários disparos.
+--- BLOCK ---
+Uma Lança-canhão que é
+um Plesioth personificado. Pode
+silenciar um tsunami.
+--- BLOCK ---
+Uma Lança-canhão que é
+um Plesioth personificado. Pode
+silenciar um tsunami.
+--- BLOCK ---
+Uma Lança-canhão que é
+um Plesioth personificado. Pode
+silenciar um tsunami.
+--- BLOCK ---
+Lança-canhão com alma de
+Deviljho. A forma da
+besta é evidente.
+--- BLOCK ---
+Lança-canhão com alma de
+Deviljho. A forma da
+besta é evidente.
+--- BLOCK ---
+Lança-canhão com alma de
+Deviljho. A forma da
+besta é evidente.
+--- BLOCK ---
+Uma Lança-canhão criada
+esculpindo um dente
+de Jhen Mohran.
+--- BLOCK ---
+Uma Lança-canhão criada
+esculpindo um dente
+de Jhen Mohran.
+--- BLOCK ---
+Uma Lança-canhão de dente
+de Jhen Mohran. Há
+uma arma por dente.
+--- BLOCK ---
+Uma Lança-canhão desgastada e
+com potencial. Talvez
+pudesse ser restaurada...
+--- BLOCK ---
+Uma Lança-canhão antiga com
+potencial ignorado. Talvez
+pudesse ser restaurada...
+--- BLOCK ---
+Uma Lança-canhão para
+honrar o deus
+solar. Agora renasceu.
+--- BLOCK ---
+Uma Lança-canhão para
+honrar o deus
+solar. Agora renasceu.
+--- BLOCK ---
+Uma Lança-canhão nascida de
+um senhor infernal. O
+usuário pode queimar.
+--- BLOCK ---
+Uma Lança-canhão nascida de
+um senhor infernal. O
+usuário pode queimar.
+--- BLOCK ---
+Uma Lança-canhão em forma de
+lembrança Felyne. Há uma
+boneca dentro de outra!
+--- BLOCK ---
+Uma Lança-canhão em forma de
+lembrança Felyne. Há uma
+boneca dentro de outra!
+--- BLOCK ---
+Uma Lança-canhão em forma de
+lembrança Felyne. Há uma
+boneca dentro de outra!
+--- BLOCK ---
+Uma Lança-canhão nascida da
+agricultura. Apesar de sua
+aparência, é poderosa.
+--- BLOCK ---
+Uma Lança-canhão nascida da
+agricultura. Apesar de sua
+aparência, é poderosa.
+--- BLOCK ---
+Uma Lança-canhão nascida da
+agricultura. Apesar de sua
+aparência, é poderosa.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bela Lança-canhão com uma
+lâmina de cobre. Valorizada
+como peça de exposição.
+--- BLOCK ---
+Lança-canhão nobre que chama
+a atenção, com uma
+lâmina de brilho prateado.
+--- BLOCK ---
+Lança-canhão esplêndida com uma lâmina
+de brilho dourado. O
+portador deve ser nobre.
+--- BLOCK ---
+Como um furacão, abre o
+céu com sua luz. Se
+confunde com uma chama branca.
+--- BLOCK ---

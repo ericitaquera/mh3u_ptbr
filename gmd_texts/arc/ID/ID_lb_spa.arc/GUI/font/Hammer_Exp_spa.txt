@@ -1,0 +1,536 @@
+﻿TMSG_HAMMER_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+De tremendo poder. Sus
+golpes rinden y derriban
+las presas.
+--- BLOCK ---
+De tremendo poder. Sus
+golpes rinden y derriban
+las presas.
+--- BLOCK ---
+Martillo de hierro de punta
+afilada que lo hace más
+letal. Fácil de obtener.
+--- BLOCK ---
+Martillo de hierro de punta
+afilada que lo hace más
+letal. Fácil de obtener.
+--- BLOCK ---
+Martillo de hierro de punta
+afilada que lo hace más
+letal. Fácil de obtener.
+--- BLOCK ---
+Gigante y superpoderoso.
+Es una inmensa mole
+de metal.
+--- BLOCK ---
+Gigante y superpoderoso.
+Es una inmensa mole
+de metal.
+--- BLOCK ---
+Pesado martillo de duro
+metal. Con un golpe machaca
+tanto huesos como escamas.
+--- BLOCK ---
+Yunque convertido en
+Martillo. Conserva bien
+su Afilado.
+--- BLOCK ---
+Yunque convertido en
+Martillo. Conserva bien
+su Afilado.
+--- BLOCK ---
+La pólvora del interior
+de la recámara giratoria
+explota al impactar.
+--- BLOCK ---
+Poderoso martillo. Para
+quien busca la libertad. No
+hay barreras para él.
+--- BLOCK ---
+Poderoso martillo. Para
+quien busca la libertad. No
+hay barreras para él.
+--- BLOCK ---
+Martillo inspirado en
+la cabeza de un Plesioth.
+Tiene la fuerza de un río.
+--- BLOCK ---
+Martillo inspirado en
+la cabeza de un Plesioth.
+Tiene la fuerza de un río.
+--- BLOCK ---
+Martillo inspirado en
+la cabeza de un Plesioth.
+Tiene la fuerza de un río.
+--- BLOCK ---
+Martillo inspirado en la
+cabeza de un Plesioth verde.
+Su punta y escamas machacan.
+--- BLOCK ---
+Martillo inspirado en la
+cabeza de un Plesioth verde.
+Su punta y escamas machacan.
+--- BLOCK ---
+Hecho de un colmillo de Jhen
+Mohran. Poder y resistencia
+sin igual.
+--- BLOCK ---
+Hecho de un colmillo de Jhen
+Mohran. Poder y resistencia
+sin igual.
+--- BLOCK ---
+Objeto sagrado que invoca
+las aguas para mejorar la
+cosecha y salvar la tierra.
+--- BLOCK ---
+Martillo hecho de una concha
+con fluidos de Volvidon.
+Escupe líquido paralizante.
+--- BLOCK ---
+Martillo hecho de una concha
+con fluidos de Volvidon.
+Escupe líquido paralizante.
+--- BLOCK ---
+Martillo hecho de una concha
+con fluidos de Volvidon.
+Escupe líquido paralizante.
+--- BLOCK ---
+Martillo eléctrico inspirado
+en los remolinos que usa
+el Lagiacrus para cazar.
+--- BLOCK ---
+Martillo eléctrico inspirado
+en los remolinos que usa
+el Lagiacrus para cazar.
+--- BLOCK ---
+Martillo eléctrico con forma
+de remolino gigante que
+devora toda vida.
+--- BLOCK ---
+Martillo eléctrico con forma
+de remolino gigante que
+devora toda vida.
+--- BLOCK ---
+Martillo eléctrico con forma
+de remolino gigante que
+devora toda vida.
+--- BLOCK ---
+Martillo hecho de partes
+de Lagiacrus. Ataque
+eléctrico de gran alcance.
+--- BLOCK ---
+Martillo hecho de partes
+de Lagiacrus. Ataque
+eléctrico de gran alcance.
+--- BLOCK ---
+Martillo con núcleo gélido.
+Sin protección, congela las
+manos con solo tocarlo.
+--- BLOCK ---
+Martillo con núcleo gélido
+hecho de permafrost de la
+tundra. Congela lagos.
+--- BLOCK ---
+Martillo con núcleo gélido
+hecho de permafrost de la
+tundra. Congela lagos.
+--- BLOCK ---
+Martillo con un mecanismo de
+pedernal que expele llamas
+al impactar.
+--- BLOCK ---
+Martillo con un mecanismo de
+pedernal que expele llamas
+al impactar.
+--- BLOCK ---
+Martillo con un mecanismo de
+pedernal que expele llamas
+al impactar.
+--- BLOCK ---
+Martillo con un generador
+que descarga potente
+electricidad al impactar.
+--- BLOCK ---
+Martillo con un generador
+que descarga potente
+electricidad al impactar.
+--- BLOCK ---
+Martillo con un generador
+que descarga potente
+electricidad al impactar.
+--- BLOCK ---
+Espléndida arma hecha de
+cabeza de Rathalos. Solo
+para los más valientes.
+--- BLOCK ---
+Espléndida arma hecha de
+cabeza de Rathalos. Solo
+para los más valientes.
+--- BLOCK ---
+Martillo de fuego fruto de
+muchas mejoras. De espíritu
+rebelde como un Rathalos.
+--- BLOCK ---
+Martillo ardiente hecho de
+partes de Rathalos celeste.
+Pone a prueba tu valor.
+--- BLOCK ---
+Martillo ardiente hecho de
+partes de Rathalos celeste.
+Pone a prueba tu valor.
+--- BLOCK ---
+Martillo ardiente hecho de
+partes de Rathalos celeste.
+Pone a prueba tu valor.
+--- BLOCK ---
+Un golpe de este martillo
+inflama el aire, como si
+el sol cayera a la tierra.
+--- BLOCK ---
+Un golpe de este martillo
+inflama el aire, como si
+el sol cayera a la tierra.
+--- BLOCK ---
+Martillo inspirado en la
+cola de un Brachydios. Una
+invasión de baba explosiva.
+--- BLOCK ---
+Martillo inspirado en la
+cola de un Brachydios. Una
+invasión de baba explosiva.
+--- BLOCK ---
+Martillo con la esencia de
+un Brachydios. Su poder
+explosivo mueve el cielo.
+--- BLOCK ---
+Martillo con la esencia de
+un Brachydios. Su poder
+explosivo mueve el cielo.
+--- BLOCK ---
+Lindo martillo envuelto en
+un penacho de plumas, que
+oculta espinas paralizantes.
+--- BLOCK ---
+Lindo martillo envuelto en
+un penacho de plumas, que
+oculta espinas paralizantes.
+--- BLOCK ---
+Martillo bello como una
+flor letal. Puede paralizar
+con sus espinas.
+--- BLOCK ---
+Martillo paralizante como
+una flor divina hecho de
+partes de Qurupeco carmesí.
+--- BLOCK ---
+Martillo paralizante como
+una flor divina hecho de
+partes de Qurupeco carmesí.
+--- BLOCK ---
+Martillo paralizante como
+una flor divina hecho de
+partes de Qurupeco carmesí.
+--- BLOCK ---
+Martillo inspirado en un
+demoníaco dios del trueno.
+Reduce la vida a cenizas.
+--- BLOCK ---
+Martillo inspirado en un
+demoníaco dios del trueno.
+Reduce la vida a cenizas.
+--- BLOCK ---
+Martillo inspirado en un
+demoníaco dios del trueno.
+Reduce la vida a cenizas.
+--- BLOCK ---
+Martillo eléctrico con furia
+abisal. Puede partir en dos
+el cielo y la tierra.
+--- BLOCK ---
+Martillo eléctrico con furia
+abisal. Puede partir en dos
+el cielo y la tierra.
+--- BLOCK ---
+Martillo que emite la
+brillante luz carmesí de la
+furia de un Zinogre estigio.
+--- BLOCK ---
+Martillo que emite la
+brillante luz carmesí de la
+furia de un Zinogre estigio.
+--- BLOCK ---
+Hecho de hueso. Con potentes
+golpes definitivos, pero
+sin modo de bloquear.
+--- BLOCK ---
+Hecho de hueso. Con potentes
+golpes definitivos, pero
+sin modo de bloquear.
+--- BLOCK ---
+Martillo burdo creado de un
+gran hueso. Su fuerza se
+hace patente con el uso.
+--- BLOCK ---
+Martillo burdo creado de un
+gran hueso. Su fuerza se
+hace patente con el uso.
+--- BLOCK ---
+Martillo inspirado en la
+cola de un Duramboros. Puede
+tumbar un árbol milenario.
+--- BLOCK ---
+Martillo hecho de partes de
+Duramboros. Golpea el suelo
+y el polvo tapará el sol.
+--- BLOCK ---
+Martillo de increíble peso y
+poder. Puede acabar
+con el mundo.
+--- BLOCK ---
+Martillo de increíble peso
+y poder. Puede acabar
+con el mundo.
+--- BLOCK ---
+Martillo de increíble peso
+y poder. Puede acabar
+con el mundo.
+--- BLOCK ---
+Martillo de ébano, negro
+como la noche. Tiene el peso
+de la más profunda tiniebla.
+--- BLOCK ---
+Martillo de ébano, negro
+como la noche. Tiene el peso
+de la más profunda tiniebla.
+--- BLOCK ---
+Martillo de ébano, negro
+como la noche. Tiene el peso
+de la más profunda tiniebla.
+--- BLOCK ---
+Martillo forjado de
+insondable oscuridad. Lo
+acompaña la muerte.
+--- BLOCK ---
+Martillo forjado de
+insondable oscuridad. Lo
+acompaña la muerte.
+--- BLOCK ---
+Cubierto de piel de Ludroth.
+La construcción de hueso lo
+hace ligero y robusto.
+--- BLOCK ---
+Cubierto de piel de Ludroth.
+La construcción de hueso lo
+hace ligero y robusto.
+--- BLOCK ---
+De esponja de Ludroth. El
+agua interior explota sobre
+el objetivo al impactar.
+--- BLOCK ---
+De esponja de Ludroth. El
+agua interior explota sobre
+el objetivo al impactar.
+--- BLOCK ---
+De esponja de Ludroth. El
+agua interior explota sobre
+el objetivo al impactar.
+--- BLOCK ---
+Martillo etéreo hecho de
+esponjas de Ludroth purpúreo
+y cubierto de veneno letal.
+--- BLOCK ---
+Martillo etéreo hecho de
+esponjas de Ludroth purpúreo
+y cubierto de veneno letal.
+--- BLOCK ---
+Martillo etéreo hecho de
+esponjas de Ludroth purpúreo
+y cubierto de veneno letal.
+--- BLOCK ---
+Recuerda la armadura de la
+cabeza de un Barroth. Puede
+aplastar el acero.
+--- BLOCK ---
+Recuerda la armadura de la
+cabeza de un Barroth. Puede
+aplastar el acero.
+--- BLOCK ---
+Forjado con duro caparazón.
+Nada de contemplaciones:
+¡a golpe limpio!
+--- BLOCK ---
+Gran martillo que recuerda a
+un Barroth salvaje. Abre
+camino a su portador.
+--- BLOCK ---
+Gran martillo que recuerda a
+un Barroth salvaje. Abre
+camino a su portador.
+--- BLOCK ---
+Gran martillo que recuerda a
+un Barroth salvaje. Abre
+camino a su portador.
+--- BLOCK ---
+Martillo como la cabeza
+de un Barroth esmeralda.
+Convierte enemigos en hielo.
+--- BLOCK ---
+Martillo como la cabeza
+de un Barroth esmeralda.
+Convierte enemigos en hielo.
+--- BLOCK ---
+Martillo ganado en una fiera
+batalla. Recuerda
+a un glaciar.
+--- BLOCK ---
+Martillo ganado en una fiera
+batalla. Recuerda
+a un glaciar.
+--- BLOCK ---
+Despierta la furia de
+la tierra. El más pesado
+y duro de los martillos.
+--- BLOCK ---
+Pesado martillo de duro
+Uragaan. Hace falta ser
+fuerte para empuñarlo.
+--- BLOCK ---
+Pesado martillo de duro
+Uragaan. Hace falta ser
+fuerte para empuñarlo.
+--- BLOCK ---
+Martillo hecho de partes
+de un Uragaan. Propina
+golpes demoledores.
+--- BLOCK ---
+Martillo hecho de partes
+de un Uragaan. Propina
+golpes demoledores.
+--- BLOCK ---
+Martillo hecho de partes
+de un Uragaan. Propina
+golpes demoledores.
+--- BLOCK ---
+Martillo hecho de partes de
+un Bullfango. Hace temblar
+de miedo a los cazadores.
+--- BLOCK ---
+Martillo inspirado en un
+Bullfango, bestia oriental
+que da duras embestidas.
+--- BLOCK ---
+Martillo inspirado en un
+Bullfango, bestia oriental
+que da duras embestidas.
+--- BLOCK ---
+Martillo hecho de partes de
+una langosta. Puede inducir
+sueño a los enemigos.
+--- BLOCK ---
+Martillo hecho de partes de
+una langosta. Puede inducir
+sueño a los enemigos.
+--- BLOCK ---
+Martillo hecho de partes de
+una langosta. Puede inducir
+sueño a los enemigos.
+--- BLOCK ---
+Rezuma el poder de un
+Deviljho. Ansía sacrificar
+vidas.
+--- BLOCK ---
+Gran martillo que contiene
+la salvaje e inagotable
+energía del Deviljho.
+--- BLOCK ---
+Gran martillo que contiene
+la salvaje e inagotable
+energía del Deviljho.
+--- BLOCK ---
+Lleno de historia. Está
+imbuido del alma de un
+antiguo wyvern.
+--- BLOCK ---
+Lleno de historia. Está
+imbuido del alma de un
+antiguo wyvern.
+--- BLOCK ---
+Sellado en la tierra hace
+mucho tiempo. Contiene la
+fuerza vital de un wyvern.
+--- BLOCK ---
+Sellado en la tierra hace
+mucho tiempo. Contiene la
+fuerza vital de un wyvern.
+--- BLOCK ---
+Sellado en la tierra hace
+mucho tiempo. Contiene la
+fuerza vital de un wyvern.
+--- BLOCK ---
+Sello de quien vive por el
+puerto. Lo llevan barcos que
+sobreviven a las tormentas.
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría pulirse...
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría pulirse...
+--- BLOCK ---
+Antiguo martillo militar,
+restaurado. Contiene el
+aliento de un dragón.
+--- BLOCK ---
+Antiguo martillo militar,
+restaurado. Contiene el
+aliento de un dragón.
+--- BLOCK ---
+Antiguo martillo militar,
+restaurado. Contiene el
+aliento de un dragón.
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK ---
+De potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK ---
+De una civilización perdida.
+Aplasta los objetivos usando
+poderosas vibraciones.
+--- BLOCK ---
+De una civilización perdida.
+Aplasta los objetivos usando
+poderosas vibraciones.
+--- BLOCK ---
+Hecho de garras de Alatreon.
+Protege a los dragones
+y destruye a los humanos.
+--- BLOCK ---
+Un martillo de locura. Su
+luz consume la cordura
+del portador.
+--- BLOCK ---
+Un martillo de locura. Su
+luz consume la cordura
+del portador.
+--- BLOCK ---
+Martillo mítico que inundó
+el mundo de fuego. Anuncia
+el fin de los tiempos.
+--- BLOCK ---
+Martillo mítico que inundó
+el mundo de fuego. Anuncia
+el fin de los tiempos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Martillo sagrado solo apto
+para los mejores cazadores.
+Entraña el poder curativo.
+--- BLOCK ---

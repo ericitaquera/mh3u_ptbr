@@ -1,0 +1,218 @@
+﻿TMSG_BOWGUN_MES
+--- BLOCK [001] ---
+Más lento
+--- BLOCK [002] ---
+Ext. lento
+--- BLOCK [003] ---
+Muy lento
+--- BLOCK [004] ---
+Lento
+--- BLOCK [005] ---
+Algo lento
+--- BLOCK [006] ---
+Medio
+--- BLOCK [007] ---
+Algo veloz
+--- BLOCK [008] ---
+Veloz
+--- BLOCK [009] ---
+Muy veloz
+--- BLOCK [010] ---
+Más veloz
+--- BLOCK [011] ---
+Lento
+--- BLOCK [012] ---
+Algo lento
+--- BLOCK [013] ---
+Medio
+--- BLOCK [014] ---
+--
+--- BLOCK [015] ---
+Pot. peq.
+--- BLOCK [016] ---
+Pot. gran.
+--- BLOCK [017] ---
+Máximo
+--- BLOCK [018] ---
+Alto
+--- BLOCK [019] ---
+Medio
+--- BLOCK [020] ---
+Algo
+--- BLOCK [021] ---
+Bajo
+--- BLOCK [022] ---
+Muy bajo
+--- BLOCK [023] ---
+Mínimo
+--- BLOCK [024] ---
+Alto
+--- BLOCK [025] ---
+Medio
+--- BLOCK [026] ---
+Algo
+--- BLOCK [027] ---
+--
+--- BLOCK [028] ---
+Reducido
+--- BLOCK [029] ---
+Reducido+
+--- BLOCK [030] ---
+Ninguno
+--- BLOCK [031] ---
+Bajo
+--- BLOCK [032] ---
+Alto
+--- BLOCK [033] ---
+Ninguno
+--- BLOCK [034] ---
+I
+--- BLOCK [035] ---
+D
+--- BLOCK [036] ---
+ID
+--- BLOCK [037] ---
+Ninguno
+--- BLOCK [038] ---
+Reducido
+--- BLOCK [039] ---
+Reducido+
+--- BLOCK [040] ---
+Aumentado
+--- BLOCK [041] ---
+Aumentado+
+--- BLOCK [042] ---
+Ataque
+--- BLOCK [043] ---
+Afinidad
+--- BLOCK [044] ---
+Espacios
+--- BLOCK [045] ---
+Peso
+--- BLOCK [046] ---
+Alcance
+--- BLOCK [047] ---
+Recarga
+--- BLOCK [048] ---
+Retroceso
+--- BLOCK [049] ---
+Desvío
+--- BLOCK [050] ---
+Otros
+--- BLOCK [051] ---
+Normal
+--- BLOCK [052] ---
+Perfor.
+--- BLOCK [053] ---
+Perdig.
+--- BLOCK [054] ---
+Explos.
+--- BLOCK [055] ---
+Grupo
+--- BLOCK [056] ---
+Recuper.
+--- BLOCK [057] ---
+Veneno
+--- BLOCK [058] ---
+Paraliz.
+--- BLOCK [059] ---
+Sueño
+--- BLOCK [060] ---
+Fatiga
+--- BLOCK [061] ---
+Submar.
+--- BLOCK [062] ---
+Llama
+--- BLOCK [063] ---
+Agua
+--- BLOCK [064] ---
+Trueno
+--- BLOCK [065] ---
+Congel.
+--- BLOCK [066] ---
+Dragón
+--- BLOCK [067] ---
+Tranq.
+--- BLOCK [068] ---
+Pintura
+--- BLOCK [069] ---
+Demonio
+--- BLOCK [070] ---
+Armadur.
+--- BLOCK [071] ---
+Cortador
+--- BLOCK [072] ---
+Baba
+--- BLOCK [073] ---
+F. Wyvern
+--- BLOCK [074] ---
+Normal
+--- BLOCK [075] ---
+Perfor.
+--- BLOCK [076] ---
+Perdig.
+--- BLOCK [077] ---
+Explos.
+--- BLOCK [078] ---
+Grupo
+--- BLOCK [079] ---
+F. Wyvern
+--- BLOCK [080] ---
+Recuper.
+--- BLOCK [081] ---
+Veneno
+--- BLOCK [082] ---
+Paraliz.
+--- BLOCK [083] ---
+Sueño
+--- BLOCK [084] ---
+Submar.
+--- BLOCK [085] ---
+Demonio
+--- BLOCK [086] ---
+Armadur.
+--- BLOCK [087] ---
+Fatiga
+--- BLOCK [088] ---
+Llama
+--- BLOCK [089] ---
+Agua
+--- BLOCK [090] ---
+Congel.
+--- BLOCK [091] ---
+Trueno
+--- BLOCK [092] ---
+Dragón
+--- BLOCK [093] ---
+Cortador
+--- BLOCK [094] ---
+Tranq.
+--- BLOCK [095] ---
+Pintura
+--- BLOCK [096] ---
+Invalid Message
+--- BLOCK [097] ---
+Invalid Message
+--- BLOCK [098] ---
+Invalid Message
+--- BLOCK [099] ---
+Invalid Message
+--- BLOCK [100] ---
+Invalid Message
+--- BLOCK [101] ---
+Potencia
+--- BLOCK [102] ---
+Elemento
+--- BLOCK [103] ---
+Aturdido
+--- BLOCK [104] ---
+Dragón
+--- BLOCK [105] ---
+Fatiga
+--- BLOCK [106] ---
+Veneno
+--- BLOCK [107] ---
+Baba
+--- BLOCK [108] ---
+Sueño
+--- BLOCK [109] ---

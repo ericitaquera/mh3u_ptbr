@@ -1,0 +1,841 @@
+﻿TMSG_SKILL_EXP
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Previene el veneno.
+--- BLOCK ---
+Duplica el daño recibido
+por veneno.
+--- BLOCK ---
+Previene la parálisis.
+--- BLOCK ---
+Dobla la duración de
+la parálisis.
+--- BLOCK ---
+Previene el sueño.
+--- BLOCK ---
+Dobla la duración
+del sueño.
+--- BLOCK ---
+Reduce la probabilidad de
+ser aturdido un 50%.
+--- BLOCK ---
+Previene el aturdimiento.
+--- BLOCK ---
+Dificulta la recuperación
+tras ser aturdido.
+--- BLOCK ---
+Previene las condiciones
+Muñeco de nieve y Embarrado.
+--- BLOCK ---
+Reduce la probabilidad de
+ser atacado por monstruos.
+--- BLOCK ---
+Aumenta la probabilidad de
+ser atacado por monstruos.
+--- BLOCK ---
+Aumenta la Salud máxima
+en 20.
+--- BLOCK ---
+Aumenta la Salud máxima
+en 50.
+--- BLOCK ---
+Reduce la Salud máxima
+en 10.
+--- BLOCK ---
+Reduce la Salud máxima
+en 30.
+--- BLOCK ---
+Acelera la recuperación del
+daño temporal (parte roja
+del indicador de Salud).
+--- BLOCK ---
+Acelera mucho la recuperación
+del daño temporal (parte roja
+del indicador de Salud).
+--- BLOCK ---
+Frena la recuperación del
+daño temporal (parte roja
+del indicador de Salud).
+--- BLOCK ---
+Frena mucho la recuperación
+del daño temporal (parte roja
+del indicador de Salud).
+--- BLOCK ---
+Divide por 2 la velocidad de
+pérdida de Afilado del arma.
+--- BLOCK ---
+Dobla la velocidad de
+pérdida de Afilado del arma.
+--- BLOCK ---
+Aumenta un nivel el
+Afilado de tu arma.
+--- BLOCK ---
+Evita que tus ataques
+sean rechazados.
+--- BLOCK ---
+Aumenta la Afinidad un 10%.
+--- BLOCK ---
+Aumenta la Afinidad un 20%.
+--- BLOCK ---
+Aumenta la Afinidad un 30%.
+--- BLOCK ---
+Reduce la Afinidad un 5%.
+--- BLOCK ---
+Reduce la Afinidad un 10%.
+--- BLOCK ---
+Reduce la Afinidad un 15%.
+--- BLOCK ---
+Acelera el afilado de armas.
+--- BLOCK ---
+Reduce el afilado
+de armas.
+--- BLOCK ---
+Aumenta la probabilidad de
+mantener el terreno al
+bloquear un ataque.
+--- BLOCK ---
+Aumenta mucho la probabilidad
+de mantener el terreno al
+bloquear un ataque.
+--- BLOCK ---
+Reduce la probabilidad de
+mantener el terreno al
+bloquear un ataque.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Hace que ataques que no
+eran bloqueables se hagan
+bloqueables.
+--- BLOCK ---
+Permite bloquear ataques
+automáticamente (si es posible
+bloquear y el arma está a mano).
+--- BLOCK ---
+Acelera ligeramente la recarga
+de Ballesta y la carga de
+revestimientos de Arco.
+--- BLOCK ---
+Acelera la recarga de Ballesta
+y carga automáticamente los
+revestimientos de Arco.
+--- BLOCK ---
+Acelera mucho la recarga de
+Ballesta y carga automáticamente
+los revestimientos de Arco.
+--- BLOCK ---
+Ralentiza ligeramente la recarga
+de Ballesta y la carga de
+revestimientos de Arco.
+--- BLOCK ---
+Ralentiza la recarga de Ballesta
+y la carga de revestimientos de
+Arco.
+--- BLOCK ---
+Ralentiza mucho la recarga
+de Ballesta y la carga de
+revestimientos de Arco.
+--- BLOCK ---
+Reduce algo el retroceso
+de la Ballesta.
+--- BLOCK ---
+Reduce el retroceso de
+la Ballesta.
+--- BLOCK ---
+Reduce mucho el retroceso
+de la Ballesta.
+--- BLOCK ---
+Aumenta algo el retroceso
+de la Ballesta.
+--- BLOCK ---
+Aumenta el retroceso de
+la Ballesta.
+--- BLOCK ---
+Aumenta mucho el
+retroceso de la Ballesta.
+--- BLOCK ---
+Aumenta la potencia de disparos
+normales y flechas rápidas.
+--- BLOCK ---
+Aumenta la potencia de disparos
+perforadores y flechas
+perforadoras.
+--- BLOCK ---
+Aumenta la potencia de disparos
+de perdigón y flechas en
+abanico.
+--- BLOCK ---
+Permite que se carguen todos los
+niveles de disparos normales.
+--- BLOCK ---
+Permite que se carguen los
+disparos perforadores Nv1.
+--- BLOCK ---
+Permite que se carguen todos
+los niveles de disparos
+perforadores.
+--- BLOCK ---
+Permite que se carguen los
+disparos de perdigón Nv1.
+--- BLOCK ---
+Permite que se carguen todos los
+niveles de disparos de perdigón.
+--- BLOCK ---
+Permite que se carguen los
+disparos explosivos Nv1.
+--- BLOCK ---
+Permite que se carguen todos los
+niveles de disparos explosivos.
+--- BLOCK ---
+Permite que se carguen los
+disparos de grupo Nv1.
+--- BLOCK ---
+Permite que se carguen todos los
+niveles de disparos de grupo.
+--- BLOCK ---
+Aumenta ligeramente la potencia
+de ataques de estados anormales.
+--- BLOCK ---
+Aumenta la potencia de
+ataques de estados anormales.
+--- BLOCK ---
+Reduce la potencia de ataques
+de estados anormales.
+--- BLOCK ---
+Aumenta la potencia de
+ataques elementales.
+--- BLOCK ---
+Reduce la potencia de
+ataques elementales.
+--- BLOCK ---
+Aumenta el daño de bomba y
+la probabilidad de combinación
+de todas las bombas al 100%.
+--- BLOCK ---
+Divide por 2 la velocidad de
+gasto de Resistencia máxima.
+--- BLOCK ---
+Anula el gasto de
+Resistencia máxima.
+--- BLOCK ---
+Aumenta la velocidad de
+gasto de Resistencia máxima.
+--- BLOCK ---
+Aumenta mucho la velocidad
+de gasto de Resistencia máxima.
+--- BLOCK ---
+Aumenta la eficacia de la carne,
+que sube la Resistencia máxima.
+--- BLOCK ---
+Dota cualquier objeto que comas
+o bebas de potencia para subir
+tu Resistencia máxima.
+--- BLOCK ---
+Aumenta algo el Ataque.
+--- BLOCK ---
+Aumenta el Ataque.
+--- BLOCK ---
+Aumenta mucho el Ataque.
+--- BLOCK ---
+Reduce algo el Ataque.
+--- BLOCK ---
+Reduce el Ataque.
+--- BLOCK ---
+Reduce mucho el Ataque.
+--- BLOCK ---
+Aumenta algo la Defensa.
+--- BLOCK ---
+Aumenta la Defensa.
+--- BLOCK ---
+Aumenta mucho la Defensa.
+--- BLOCK ---
+Reduce algo la Defensa.
+--- BLOCK ---
+Reduce la Defensa.
+--- BLOCK ---
+Reduce mucho la Defensa.
+--- BLOCK ---
+A veces reduce el daño
+recibido.
+--- BLOCK ---
+A veces aumenta el daño
+recibido.
+--- BLOCK ---
+Anula el efecto del rugido de
+algunos monstruos grandes.
+--- BLOCK ---
+Anula el efecto de todos los
+rugidos de monstruos grandes.
+--- BLOCK ---
+Previene el robo de objetos.
+--- BLOCK ---
+Transfiere parte de los
+efectos de ciertos objetos a
+los camaradas en la zona.
+--- BLOCK ---
+Transfiere los efectos de
+ciertos objetos a los
+camaradas en la zona.
+--- BLOCK ---
+Aumenta la velocidad al
+transportar objetos y reduce
+la probabilidad de soltarlos.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumenta la Resistencia
+al fuego en 15.
+--- BLOCK ---
+Aumenta la Resistencia
+al fuego en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Reduce la Resistencia al fuego
+en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumenta la Resistencia
+al agua en 15.
+--- BLOCK ---
+Aumenta la Resistencia
+al agua en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Reduce la Resistencia al agua
+en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumenta la Resistencia
+al trueno en 15.
+--- BLOCK ---
+Aumenta la Resistencia
+al trueno en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Reduce la Resistencia
+al trueno en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumenta la Resistencia
+al hielo en 15.
+--- BLOCK ---
+Aumenta la Resistencia
+al hielo en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Reduce la Resistencia
+al hielo en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumenta la Resistencia
+al dragón en 15.
+--- BLOCK ---
+Aumenta la Resistencia
+al dragón en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Reduce la Resistencia al dragón
+en 20.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Anula todo el calor y el
+daño por lava.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Aumenta el daño provocado por
+calor y lava.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Anula todo el frío.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Aumenta la velocidad a la
+que se agota la Resistencia
+máxima por frío.
+--- BLOCK ---
+Anula cierta cantidad de
+presión del viento.
+--- BLOCK ---
+Anula casi toda la presión
+del viento.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+A veces aumenta las ocasiones
+en que pueden recogerse objetos
+en zonas de recogida.
+--- BLOCK ---
+A menudo aumenta las ocasiones
+en que pueden recogerse objetos
+en zonas de recogida.
+--- BLOCK ---
+A veces reduce las ocasiones
+en que pueden recogerse objetos
+en zonas de recogida.
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumenta la velocidad de
+cortar, recoger, coger
+insectos y extraer.
+--- BLOCK ---
+Reduce la probabilidad de rotura
+de Picos, Redes de bichos,
+Bumeranes y Flautas.
+--- BLOCK ---
+Reduce mucho la probabilidad
+de rotura de Picos, Redes de
+bichos, Bumeranes y Flautas.
+--- BLOCK ---
+Aumenta la probabilidad de
+rotura de Picos, Redes de
+bichos, Bumeranes y Flautas.
+--- BLOCK ---
+Aumenta mucho la probabilidad de
+rotura de Picos, Redes de
+bichos, Bumeranes y Flautas.
+--- BLOCK ---
+A veces aumenta el número de
+objetos de recompensa
+por acabar una misión.
+--- BLOCK ---
+A menudo aumenta el número
+de objetos de recompensa
+por acabar una misión.
+--- BLOCK ---
+A veces reduce el número de
+objetos de recompensa
+por acabar una misión.
+--- BLOCK ---
+A menudo reduce el número
+de objetos de recompensa
+por acabar una misión.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Aumenta la información en
+el mapa cuando hay monstruos
+grandes marcados.
+--- BLOCK ---
+Siempre muestra monstruos
+grandes en el mapa, como si
+estuvieran marcados.
+--- BLOCK ---
+Aumenta la eficacia de los
+objetos que otorgan Salud.
+--- BLOCK ---
+Reduce la eficacia de los
+objetos que otorgan Salud.
+--- BLOCK ---
+Mejora las opciones de éxito
+de combinación en un 20%.
+--- BLOCK ---
+Aumenta la probabilidad de
+combinación un 25%.
+--- BLOCK ---
+Aumenta la probabilidad de
+combinación un 45%.
+--- BLOCK ---
+Reduce la probabilidad de
+combinación un 10%.
+--- BLOCK ---
+Reduce la probabilidad de
+combinación un 10%.
+--- BLOCK ---
+Reduce las opciones de éxito
+de combinación en un 20%.
+--- BLOCK ---
+Garantiza los mejores resultados
+con combinaciones que producen
+más de un objeto a la vez.
+--- BLOCK ---
+Extiende al evadir el
+periodo de invulnerabilidad.
+--- BLOCK ---
+Extiende mucho al 
+evadir el periodo de
+invulnerabilidad.
+--- BLOCK ---
+Reduce el periodo de
+invulnerabilidad durante
+la evasión.
+--- BLOCK ---
+Aumenta mucho la Defensa
+cuando la Salud está por debajo
+del 40% de su cantidad máxima.
+--- BLOCK ---
+Aumenta mucho el Ataque y la
+Defensa con la Salud por debajo
+del 40% de su cantidad máxima.
+--- BLOCK ---
+Reduce la potencia de Defensa y
+Ataque cuando el nivel de Salud
+es inferior al 40% del total.
+--- BLOCK ---
+Aumenta el tiempo de efecto
+de ciertos objetos.
+--- BLOCK ---
+Reduce el tiempo de efecto
+de ciertos objetos.
+--- BLOCK ---
+Ralentiza el uso de Resistencia
+de acciones que requieren un
+consumo continuo (como correr).
+--- BLOCK ---
+Acelera el uso de Resistencia
+de acciones que requieren un
+consumo continuo (como correr).
+--- BLOCK ---
+Aumenta la capacidad de munición
+de Ballestas y Lanzas pistola y
+la de ataque de carga en Arcos.
+--- BLOCK ---
+Reduce la Desviación
+al apuntar.
+--- BLOCK ---
+Reduce mucho la Desviación
+al apuntar.
+--- BLOCK ---
+Aumenta la Desviación
+al apuntar.
+--- BLOCK ---
+Aumenta mucho la Desviación
+al apuntar.
+--- BLOCK ---
+Aumenta la velocidad
+de consumo de carne.
+--- BLOCK ---
+Aumenta la velocidad de
+consumo de carne y objetos.
+--- BLOCK ---
+Reduce la velocidad
+de consumo de carne.
+--- BLOCK ---
+Previene empujones mientras
+se está cortando.
+--- BLOCK ---
+Aumenta las posibilidades
+de corte y previene empujones
+mientras se corta.
+--- BLOCK ---
+Evita trastabillar por los
+temblores causados por
+monstruos grandes.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Aumenta la distancia de evasión.
+--- BLOCK ---
+Aumenta la Afinidad con todos
+los ataques de desenfundadura
+en un 100%.
+--- BLOCK ---
+Hace que las combinaciones de
+trampa funcionen y acelera la
+colocación de trampas y bombas.
+--- BLOCK ---
+Ralentiza el gasto de
+Resistencia al evadir,
+bloquear, etc.
+--- BLOCK ---
+Ralentiza mucho el gasto
+de Resistencia al evadir,
+bloquear, etc.
+--- BLOCK ---
+Acelera el gasto de
+Resistencia al evadir,
+bloquear, etc.
+--- BLOCK ---
+Acelera mucho el gasto
+de Resistencia al evadir,
+bloquear, etc.
+--- BLOCK ---
+Aumenta mucho la probabilidad de
+obtener más objetos de
+recompensa por capturas.
+--- BLOCK ---
+Aporta conocimiento sobre
+cuándo se puede capturar
+a un monstruo grande.
+--- BLOCK ---
+Reduce tmp. carga de indic. de
+Esp. L, Esp. D y Hacha E, y atq.
+carga de Arco, G Esp. y Mart.
+--- BLOCK ---
+Aumenta tmp. carga de indic. de
+Esp. L, Esp. D y Hacha E, y atq.
+carga de Arco, Esp. G y Mart.
+--- BLOCK ---
+Detiene la bajada del indicador
+de Oxígeno.
+--- BLOCK ---
+Acelera el consumo del
+indicador de Oxígeno.
+--- BLOCK ---
+Anula algunas corrientes
+de agua creadas por
+monstruos grandes.
+--- BLOCK ---
+Anula las corrientes de agua
+creadas por monstruos grandes.
+--- BLOCK ---
+Aumenta la velocidad de
+movimiento en el agua.
+--- BLOCK ---
+Reduce la velocidad de
+movimiento en el agua.
+--- BLOCK ---
+Te permite aturdir a monstruos
+con ataques de desenfundadura
+de armas contundentes.
+--- BLOCK ---
+Anula todas las plagas 
+elementales (fuego, agua,
+trueno, hielo y dragón).
+--- BLOCK ---
+Libera las propiedades
+elementales latentes en armas
+que carecen de elementos.
+--- BLOCK ---
+Aumenta tu Ataque y Defensa cada
+vez que caes en la batalla.
+--- BLOCK ---
+Permite disparar un tiro más
+con el disparo rápido (bonus).
+--- BLOCK ---
+Hace que las Bombas boñiga sean
+efectivas y mejora las opciones
+de éxito de combinación al 100%.
+--- BLOCK ---
+Los monstruos actúan como
+si portaras una Antorcha,
+aunque no sea así.
+--- BLOCK ---
+Anula la Plaga de baba y evita
+los bloqueos de uso de objetos
+provocados por el estado Hedor.
+--- BLOCK ---
+Permite usar Revestimientos de
+veneno cuando llevas un Arco.
+--- BLOCK ---
+Permite usar Revestimientos
+paralizantes cuando llevas
+un Arco.
+--- BLOCK ---
+Permite usar Revestimientos de
+sueño cuando llevas un Arco.
+--- BLOCK ---
+Permite usar Revestimientos de
+energía cuando llevas un Arco.
+--- BLOCK ---
+Permite usar Revestimientos de
+alcance cuando llevas un Arco.
+--- BLOCK ---
+Reduce la probabilidad de rotura
+de Flautas y aumenta el tiempo
+de efecto de melodías de Flauta.
+--- BLOCK ---
+Aumenta algo la potencia de
+Balista, Cañón, Lanza pistola,
+Fuego de wyvern y d. explosivos.
+--- BLOCK ---
+Aumenta la potencia de Balista,
+Cañón, Lanza pistola, Fuego de
+wyvern y disparos explosivos.
+--- BLOCK ---
+Te da poder durante un tiempo
+limitado cuando se dan unas
+condiciones determinadas.
+--- BLOCK ---
+Te da gran poder durante un
+tiempo limitado cuando se dan
+unas condiciones determinadas.
+--- BLOCK ---
+Mejora éxito de pesca y cocina
+en misiones y muestra el Mapa
+siempre, aun sin el objeto Mapa.
+--- BLOCK ---
+Anula los efectos de
+Defensa reducida.
+--- BLOCK ---
+Aumenta la potencia de ataques
+de fuego y disparos de llama.
+--- BLOCK ---
+Aumenta mucho la potencia
+de ataques de fuego y disparos
+de llama.
+--- BLOCK ---
+Reduce la potencia de ataques
+de fuego y disparos de llama.
+--- BLOCK ---
+Aumenta la potencia de ataques
+de agua y disparos de agua.
+--- BLOCK ---
+Aumenta mucho la potencia
+de ataques de agua y disparos
+de agua.
+--- BLOCK ---
+Reduce la potencia de ataques
+de agua y disparos de agua.
+--- BLOCK ---
+Aumenta la potencia de ataques
+de trueno y disparos de trueno.
+--- BLOCK ---
+Aumenta mucho la potencia
+de ataques de trueno y disparos
+de trueno.
+--- BLOCK ---
+Reduce la potencia de ataques
+de trueno y disparos de trueno.
+--- BLOCK ---
+Aumenta la potencia de ataques
+de hielo y disparos congelantes.
+--- BLOCK ---
+Aumenta mucho la potencia
+de ataques de hielo y disparos
+congelantes.
+--- BLOCK ---
+Reduce la potencia de ataques
+de hielo y disparos congelantes.
+--- BLOCK ---
+Aumenta la potencia de ataques
+de dragón y disparos de dragón.
+--- BLOCK ---
+Aumenta mucho la potencia
+de ataques de dragón y disparos
+de dragón.
+--- BLOCK ---
+Reduce la potencia de ataques
+de dragón y disparos de dragón.
+--- BLOCK ---
+Permite que se carguen los
+disparos cortadores.
+--- BLOCK ---
+Permite usar Revestimientos de
+fatiga cuando llevas un Arco.
+--- BLOCK ---
+Aumenta el daño al golpear
+partes del cuerpo en las que
+tus ataques son muy efectivos.
+--- BLOCK ---
+Facilita que se puedan herir,
+destrozar o amputar partes
+de monstruos grandes.
+--- BLOCK ---
+Facilita el aturdimiento de
+monstruos.
+--- BLOCK ---
+Aumenta la capacidad de ciertos
+ataques de agotar a monstruos.
+--- BLOCK ---
+Aumenta la velocidad de
+desenfundadura de las armas.
+--- BLOCK ---
+Aumenta la velocidad de
+recuperación de Resistencia.
+--- BLOCK ---
+Reduce la velocidad de
+recuperación de Resistencia.
+--- BLOCK ---
+Comes Carne cruda, y los Filetes
+poco hechos y al punto dan
+Resistencia ilimitada temporal.
+--- BLOCK ---
+Te permite evadir monstruos
+grandes con estirada y aumenta
+tu distancia de estirada.
+--- BLOCK ---
+Te permite recoger dos Cajas de
+miel o de Jalea real a la vez.
+--- BLOCK ---
+Sube eficacia de Bomba boñiga
+y de Combinación, anula Plaga
+de baba y evita Hedor.
+--- BLOCK ---
+Aumenta el Ataque y la Afinidad
+cuando un monstruo grande se
+enfada en la misma área.
+--- BLOCK ---
+Aumenta mucho Ataque y Afinidad
+cuando un monstruo grande
+se enfada en la misma área.
+--- BLOCK ---
+Aumenta el Ataque cuando
+el indicador de Salud está
+al máximo.
+--- BLOCK ---
+Te permite recuperarte de
+ataques con mayor rapidez.
+--- BLOCK ---
+Detiene el gasto de Oxígeno,
+aumenta la velocidad de natación
+y anula las corrientes de agua.
+--- BLOCK ---
+Evita el desmayo al recibir
+un golpe mortal si queda
+cierta cantidad de Salud.
+--- BLOCK ---
+Aumenta mucho el Ataque y sube
+el Afilado de tu arma un nivel.
+--- BLOCK ---
+Aumenta la potencia de disparo
+normal, perforador y perdigón, y
+flecha rápida, abanico y perfor.
+--- BLOCK ---
+Previene el veneno,
+la parálisis, el sueño
+y el aturdimiento.
+--- BLOCK ---
+Con un nivel alto de Salud, da
+los efectos de Tripas; con nivel
+bajo, potencia Ataque y Defensa.
+--- BLOCK ---
+Aumenta Ataque y Defensa de
+Cha-Cha y Kayamba y acelera su
+recuperación de Resistencia.
+--- BLOCK ---
+Te permite usar la Ovación para
+llamar a Cha-Cha o Kayamba
+cuando se han ido o desmayado.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Te permite extraer dos amuletos
+a la vez... Quizá.
+--- BLOCK ---
+Aumenta la probabilidad de
+obtener más objetos de
+recompensa por capturas.
+--- BLOCK ---
+Permite que se carguen los
+disparos de baba.
+--- BLOCK ---
+Permite usar Revestimientos de
+baba cuando llevas un Arco.
+--- BLOCK ---

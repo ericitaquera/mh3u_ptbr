@@ -1,0 +1,228 @@
+﻿TMSG_CAT_SKILL_EXP
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+A menudo aumenta el número
+de veces que puedes cortar.
+--- BLOCK ---
+A veces aumenta el número de
+ocasiones en que puedes cortar.
+--- BLOCK ---
+Acelera la recuperación de
+Salud. La probabilidad de Hierba
+antídoto y Bicho amargo es 100%.
+--- BLOCK ---
+Ralentiza el gasto de
+Resistencia al evadir,
+bloquear, etc.
+--- BLOCK ---
+Aumenta el daño de todos los
+tipos de Bomba barril y reduce
+la potencia de ataques de baba.
+--- BLOCK ---
+Aumenta la potencia de ataques
+de estados anormales.
+--- BLOCK ---
+A menudo reduce el daño
+recibido.
+--- BLOCK ---
+A veces reduce el daño
+recibido.
+--- BLOCK ---
+Reduce la probabilidad de rotura
+de objetos de Flauta.
+--- BLOCK ---
+Reduce la probabilidad de rotura
+de Picos y Redes de bichos.
+--- BLOCK ---
+Maximiza las veces que
+puedes hablar con el
+Anciano Vegetal.
+--- BLOCK ---
+Aumenta la probabilidad
+de combinación un 20%.
+--- BLOCK ---
+Aumenta la probabilidad
+de combinación un 10%.
+--- BLOCK ---
+A veces aumenta las ocasiones
+en que pueden recogerse objetos
+en zonas de recogida.
+--- BLOCK ---
+Aumenta la potencia de
+los disparos normales.
+--- BLOCK ---
+Suele aumentar el número de
+objetos de recompensa recibidos
+al final de una misión.
+--- BLOCK ---
+A veces aumenta el número de
+objetos de recompensa
+por acabar una misión.
+--- BLOCK ---
+Aumenta mucho el Ataque cuando
+el nivel de Salud es muy bajo.
+--- BLOCK ---
+Ayuda a tu arma a conservar
+el Afilado cuando se
+rechazan ataques.
+--- BLOCK ---
+Reduce el gasto de Resistencia
+al huir de monstruos grandes.
+--- BLOCK ---
+Aumenta el daño de proyectiles
+como Piedras, Cuchillos de
+lanzamiento y Bumeranes.
+--- BLOCK ---
+Previene el susto al ser 
+descubierto por un
+monstruo.
+--- BLOCK ---
+Previene los empujones al
+transportar y frena el gasto
+de Resistencia por correr.
+--- BLOCK ---
+Previene los empujones
+al transportar un objeto.
+--- BLOCK ---
+Aumenta la probabilidad de
+que los monstruos grandes en
+una misión sean débiles.
+--- BLOCK ---
+Asegura que se empieza en 
+áreas ocultas en misiones
+con punto de inicio al azar.
+--- BLOCK ---
+Aumenta el número de
+puntos de Rango cazador
+recibidos por una misión.
+--- BLOCK ---
+Extiende mucho el tiempo
+de invulnerabilidad al
+levantarse.
+--- BLOCK ---
+Extiende el tiempo
+de invulnerabilidad
+al levantarse.
+--- BLOCK ---
+Aumenta el daño de Ballesta,
+pero también la Desviación.
+--- BLOCK ---
+Refuerza las patadas.
+--- BLOCK ---
+Aumenta el daño del gesto
+Boxeo con sombra.
+--- BLOCK ---
+Concede resistencia a algunos
+ataques al escalar y frena
+la reducción de Resistencia.
+--- BLOCK ---
+Concede resistencia a algunos
+ataques al escalar.
+--- BLOCK ---
+Previene empujones mientras
+se está cortando.
+--- BLOCK ---
+Previene tropezones al
+saltar desde lugares muy
+altos.
+--- BLOCK ---
+Potencia temporalmente el
+Ataque al usar el gesto
+Devolver.
+--- BLOCK ---
+Aumenta el Afilado cuando
+golpeas justo después de
+rechazar un ataque.
+--- BLOCK ---
+Hace que el efecto de la
+comida permanezca aunque
+te desmayes en combate.
+--- BLOCK ---
+Aumenta la probabilidad de
+aturdir a los monstruos.
+--- BLOCK ---
+Aumenta la cantidad de
+dinero que recibes al
+final de una misión.
+--- BLOCK ---
+Aumenta el tiempo de efecto de
+las Bombas vid Felyne y garantiza
+el éxito de sus combinaciones.
+--- BLOCK ---
+Aumenta el daño de Cañón,
+Balista, disparos explosivos
+y Lanza pistola.
+--- BLOCK ---
+Evita una vez desmayarse
+cuando el daño sufrido
+excede la Salud restante.
+--- BLOCK ---
+Garantiza el efecto de Bombas
+boñiga y el éxito de sus
+combinaciones.
+--- BLOCK ---
+Divide por 2 el tiempo de efecto
+de Defensa/Resistencia reducida.
+Acelera recuperación de plagas.
+--- BLOCK ---
+Previene el daño sufrido
+por la lava.
+--- BLOCK ---
+Facilita la huida al estar
+atrapado debajo de un
+monstruo grande.
+--- BLOCK ---
+Durante un breve tiempo muestra
+monstruos grandes en el mapa
+al empezar una misión.
+--- BLOCK ---
+A menudo acelera el tiempo
+de afilado.
+--- BLOCK ---
+Hace que te recuperes
+rápidamente si te lanza un
+monstruo por los aires.
+--- BLOCK ---
+Garantiza que aparezca un
+monstruo grande cuando el
+entorno de caza es inestable.
+--- BLOCK ---
+Acelera el crecimiento de
+Cha-Cha y Kayamba y evita que
+luchen entre ellos.
+--- BLOCK ---
+Aumenta Ataque y Defensa al
+inicio de una misión durante un
+periodo de tiempo limitado.
+--- BLOCK ---
+Hace que el suministro adicional
+se entregue inmediatamente.
+--- BLOCK ---
+Evita que duermas durante una
+misión, ni siquiera en la cama
+del campamento base.
+--- BLOCK ---
+Evita que te caigas.
+--- BLOCK ---
+Aumenta la probabilidad de que
+pique un pez mientras pescas.
+--- BLOCK ---
+Mejora la Resistencia al fuego.
+--- BLOCK ---
+Mejora la Resistencia al agua.
+--- BLOCK ---
+Mejora la Resistencia al trueno.
+--- BLOCK ---
+Mejora la Resistencia al hielo.
+--- BLOCK ---
+Mejora la Resistencia al dragón.
+--- BLOCK ---
+Reduce el gasto de Resistencia
+en el agua por acciones que
+requieren un consumo continuo.
+--- BLOCK ---
+Provoca acontecimientos
+funestos al inicio de una
+misión...
+--- BLOCK ---

@@ -1,0 +1,502 @@
+﻿TMSG_WSWORD_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Espadas gemelas que lanzan
+ataques vertiginosos, pero
+renunciando a bloquear.
+--- BLOCK ---
+Espada de metal de alta
+calidad, para aprender a
+usar la Espada doble.
+--- BLOCK ---
+Espada de metal de alta
+calidad, para aprender a
+usar la Espada doble.
+--- BLOCK ---
+Espadas para uso doble.
+Sacrifican la defensa a
+cambio de un buen ataque.
+--- BLOCK ---
+Espadas para su uso doble.
+Sacrifican la defensa a
+cambio de un buen ataque.
+--- BLOCK ---
+Espadas para su uso doble.
+Sacrifican la defensa a
+cambio de un buen ataque.
+--- BLOCK ---
+Espadas dobles inusuales
+para cortar carne. Cada
+una tiene un peso distinto.
+--- BLOCK ---
+Espadas dobles inusuales
+para sajar carne. Cada
+una tiene un peso distinto.
+--- BLOCK ---
+Espadas dobles inusuales
+para sajar carne. Cada
+una tiene un peso distinto.
+--- BLOCK ---
+Hachas gemelas, potentes y
+equilibradas. Terroríficas
+en manos de un experto.
+--- BLOCK ---
+Hachas gemelas, potentes y
+equilibradas. Terroríficas
+en manos de un experto.
+--- BLOCK ---
+Hojas bañadas en baba
+explosiva. Primero te
+cortan y luego te vuelan.
+--- BLOCK ---
+Hojas bañadas en baba
+explosiva. Primero te
+cortan y luego te vuelan.
+--- BLOCK ---
+Hojas dobles con el poder
+de un Brachydios. Dejan
+un rastro escarlata.
+--- BLOCK ---
+Hojas dobles con el poder
+de un Brachydios. Dejan
+un rastro escarlata.
+--- BLOCK ---
+Hojas dobles del uniforme
+de algunos guardias. Pueden
+herir a un wyvern.
+--- BLOCK ---
+Hojas dobles del uniforme
+de algunos guardias. Pueden
+herir a un wyvern.
+--- BLOCK ---
+Hojas dobles del uniforme
+de algunos guardias. Pueden
+herir a un wyvern.
+--- BLOCK ---
+Espadas de los Caballeros
+del Gremio. Hasta
+los dioses temen su filo.
+--- BLOCK ---
+Espadas de los Caballeros
+del Gremio. Hasta
+los dioses temen su filo.
+--- BLOCK ---
+Hojas dobles para cortar
+metal en taller. Se forjan
+con técnicas avanzadas.
+--- BLOCK ---
+Hojas dobles para cortar
+metal en taller. Se forjan
+con técnicas avanzadas.
+--- BLOCK ---
+Espadas mecánicas con hojas
+giratorias. Un experto puede
+acabar con un wyvern.
+--- BLOCK ---
+Armas demoníacas con hojas
+giratorias que no ofrecen
+piedad. ¡Masacre segura!
+--- BLOCK ---
+Armas demoníacas con hojas
+giratorias que no ofrecen
+piedad. ¡Masacre segura!
+--- BLOCK ---
+Hojas dobles para aplastar
+y cortar. Su peso las ayuda
+a cortar muy profundo.
+--- BLOCK ---
+Hojas dobles para aplastar
+y cortar. Su peso las ayuda
+a cortar muy profundo.
+--- BLOCK ---
+Hojas dobles como garrotes,
+equilibradas. Aprovechan
+la fuerza al máximo.
+--- BLOCK ---
+Hojas dobles forjadas con
+metales extraños. No suelen
+estar en venta.
+--- BLOCK ---
+Hojas dobles forjadas con
+metales extraños. No suelen
+estar en venta.
+--- BLOCK ---
+Hojas dobles forjadas con
+metales extraños. No suelen
+estar en venta.
+--- BLOCK ---
+Hojas dobles templadas casi
+hasta lo imposible. Su filo
+es asombroso.
+--- BLOCK ---
+Hojas dobles templadas casi
+hasta lo imposible. Su filo
+es asombroso.
+--- BLOCK ---
+Hojas pequeñas hechas con
+piel de Gobul. Sus pinchos
+rezuman líquido paralizante.
+--- BLOCK ---
+Hojas pequeñas hechas con
+piel de Gobul. Sus pinchos
+rezuman líquido paralizante.
+--- BLOCK ---
+Hojas pequeñas hechas con
+piel de Gobul. Sus pinchos
+rezuman líquido paralizante.
+--- BLOCK ---
+Hojas dobles tan adorables
+que parecen más arte que 
+armamento. Eficacísimas.
+--- BLOCK ---
+Hojas dobles tan adorables
+que parecen más arte que 
+armamento. Eficacísimas.
+--- BLOCK ---
+Hojas dobles tan adorables
+que parecen más arte que 
+armamento. Eficacísimas.
+--- BLOCK ---
+Hojas dobles hermosas como
+una mariposa, pero capaces
+de abrasar a cualquiera.
+--- BLOCK ---
+Hojas dobles hermosas como
+una mariposa, pero capaces
+de abrasar a cualquiera.
+--- BLOCK ---
+Hojas dobles hermosas como
+una mariposa, pero capaces
+de abrasar a cualquiera.
+--- BLOCK ---
+Armas nacidas de la concha
+ígnea de un Agnaktor.
+Su tacto es abrasador.
+--- BLOCK ---
+Armas nacidas de la concha
+ígnea de un Agnaktor.
+Su tacto es abrasador.
+--- BLOCK ---
+Hojas con el poder
+de la Tundra y el Volcán.
+Una combinación antinatural.
+--- BLOCK ---
+Hojas con el poder
+de la Tundra y el Volcán.
+Una combinación antinatural.
+--- BLOCK ---
+Atractivas espadas dobles. 
+Emiten rayos que las hacen
+aún más brillantes.
+--- BLOCK ---
+Atractivas espadas dobles. 
+Emiten rayos que las hacen
+aún más brillantes.
+--- BLOCK ---
+Atractivas espadas dobles. 
+Emiten rayos que las hacen
+aún más brillantes.
+--- BLOCK ---
+Armas hechas de Lagiacrus
+marmóreo. Siegan vida y
+alma de un solo tajo.
+--- BLOCK ---
+Armas hechas de Lagiacrus
+marmóreo. Siegan vida y
+alma de un solo tajo.
+--- BLOCK ---
+Hojas dobles puramente
+ofensivas. Están sin acabar
+y les falta filo.
+--- BLOCK ---
+Hojas dobles puramente
+ofensivas. Están sin acabar
+y les falta filo.
+--- BLOCK ---
+Hojas dobles puramente
+ofensivas. Están sin acabar
+y les falta filo.
+--- BLOCK ---
+Espadas de Ludroth real.
+Rocían agua, lo que ayuda
+a limpiar la sangre.
+--- BLOCK ---
+Espadas de Ludroth real.
+Rocían agua, lo que ayuda
+a limpiar la sangre.
+--- BLOCK ---
+Espadas de Ludroth real.
+Rocían agua, lo que ayuda
+a limpiar la sangre.
+--- BLOCK ---
+Hojas dobles de ébano. Se
+dice que proceden de una
+sociedad de asesinos.
+--- BLOCK ---
+Hojas dobles de ébano. Se
+dice que proceden de una
+sociedad de asesinos.
+--- BLOCK ---
+Armas oscuras, favoritas de
+la Muerte misma. Mandan
+a cualquiera a la tumba.
+--- BLOCK ---
+Armas oscuras, favoritas de
+la Muerte misma. Mandan
+a cualquiera a la tumba.
+--- BLOCK ---
+Armas brillantes de hoja
+curva. Aniquilan al rival
+con su feroz danza.
+--- BLOCK ---
+La última de las Siete
+estrellas encarnada. Sus
+rayos expulsan almas.
+--- BLOCK ---
+Hojas dobles con el poder
+de un Zinogre. Solo el
+coraje puede despertarlas.
+--- BLOCK ---
+Hojas dobles con el poder
+de un Zinogre. Solo el
+coraje puede despertarlas.
+--- BLOCK ---
+Hojas dobles con el poder
+de un Zinogre. Solo el
+coraje puede despertarlas.
+--- BLOCK ---
+Hojas con el poder de
+un Lagiacrus del abismo.
+Su poder es tempestuoso.
+--- BLOCK ---
+Hojas con el poder de
+un Lagiacrus del abismo.
+Su poder es tempestuoso.
+--- BLOCK ---
+Hojas dobles con la fuerza
+de un trueno. Son capaces
+de sacudir el mundo.
+--- BLOCK ---
+Hojas dobles con la fuerza
+de un trueno. Son capaces
+de sacudir el mundo.
+--- BLOCK ---
+Hojas dobles que aumentan
+la Defensa. Tienen poderes
+acuáticos y gran filo.
+--- BLOCK ---
+Hojas dobles que aumentan
+la Defensa. Tienen poderes
+acuáticos y gran filo.
+--- BLOCK ---
+Hojas dobles que aumentan
+la Defensa. Tienen poderes
+acuáticos y gran filo.
+--- BLOCK ---
+Hojas dobles de aleta de
+Plesioth. Su red es duradera
+y afilada.
+--- BLOCK ---
+Hojas dobles de aleta de
+Plesioth. Su red es duradera
+y afilada.
+--- BLOCK ---
+Hojas dobles de red de
+jade, como el vestido de
+un ángel. Adorables.
+--- BLOCK ---
+Hojas dobles de red de
+jade, como el vestido de
+un ángel. Adorables.
+--- BLOCK ---
+Hojas dobles que liberan
+un veneno mortal. Danzan
+al son de sus vapores.
+--- BLOCK ---
+Hojas dobles que liberan
+un veneno mortal. Danzan
+al son de sus vapores.
+--- BLOCK ---
+Armas de un artesano loco
+que juró vengarse de
+los dioses. Veneno potente.
+--- BLOCK ---
+Hojas dobles tan tóxicas
+que matan con solo tocar.
+Emanan puro odio.
+--- BLOCK ---
+Hojas dobles tan tóxicas
+que matan con solo tocar.
+Emanan puro odio.
+--- BLOCK ---
+Hojas dobles con forma de
+alas. Guardan el poder de
+un Gigginox aterrador.
+--- BLOCK ---
+Hojas dobles con forma de
+alas. Guardan el poder de
+un Gigginox aterrador.
+--- BLOCK ---
+Hojas dobles con forma de
+alas. Guardan el poder de
+un Gigginox aterrador.
+--- BLOCK ---
+Espadas con poderosas
+capacidades elementales
+heredadas de un wyvern.
+--- BLOCK ---
+Espadas con poderosas
+capacidades elementales
+heredadas de un wyvern.
+--- BLOCK ---
+Espadas con poderosas
+capacidades elementales
+heredadas de un wyvern.
+--- BLOCK ---
+Hojas hechas con wyverns
+dorados y plateados. Tienen
+grandes poderes ígneos.
+--- BLOCK ---
+Hojas hechas con wyverns
+dorados y plateados. Tienen
+grandes poderes ígneos.
+--- BLOCK ---
+Espadas llamadas como dos
+hermanas muertas en
+la Tundra. Causan angustia.
+--- BLOCK ---
+Espadas llamadas como dos
+hermanas muertas en
+la Tundra. Causan angustia.
+--- BLOCK ---
+Espadas llamadas como dos
+hermanas muertas en
+la Tundra. Causan angustia.
+--- BLOCK ---
+Hojas dobles hechas con
+garras, colmillos y aliento
+de Barioth. Congeladoras.
+--- BLOCK ---
+Hojas dobles hechas con
+garras, colmillos y aliento
+de Barioth. Congeladoras.
+--- BLOCK ---
+Hojas dobles hechas con
+garras, colmillos y aliento
+de Barioth. Congeladoras.
+--- BLOCK ---
+Hojas dobles hechas con
+un Barioth arenoso. Cortan
+como una tormenta de arena.
+--- BLOCK ---
+Hojas dobles hechas con
+un Barioth arenoso. Cortan
+como una tormenta de arena.
+--- BLOCK ---
+Hojas dobles de extraña
+forma, hechas con Diablos.
+Conquistan la voluntad.
+--- BLOCK ---
+Hojas dobles de extraña
+forma, hechas con Diablos.
+Conquistan la voluntad.
+--- BLOCK ---
+Hojas pesadas creadas por
+un tirano. Hienden carne
+y hueso por igual.
+--- BLOCK ---
+Hojas dobles que pueden
+usar los que vencen al
+tirano, so riesgo de serlo.
+--- BLOCK ---
+Hojas dobles que pueden
+usar los que vencen al
+tirano, so riesgo de serlo.
+--- BLOCK ---
+Armas que encarnan al
+predador Deviljho. Casi
+parecen estar vivas...
+--- BLOCK ---
+Armas que encarnan al
+predador Deviljho. Casi
+parecen estar vivas...
+--- BLOCK ---
+Armas que encarnan al
+predador Deviljho. Casi
+parecen estar vivas...
+--- BLOCK ---
+Armas dobles ajadas de
+potencial desconocido. Tal
+vez podrían restaurarse...
+--- BLOCK ---
+Armas dobles viejas de
+potencial desconocido. Tal
+vez podrían restaurarse...
+--- BLOCK ---
+Matadragones definitivas.
+¿Estarán hechas con restos
+de un antiguo pueblo?
+--- BLOCK ---
+Matadragones definitivas.
+¿Estarán hechas con restos
+de un antiguo pueblo?
+--- BLOCK ---
+Hojas dobles que encarnan a
+un Ceadeus. Grandes, aunque
+refinadas y prácticas.
+--- BLOCK ---
+Hojas dobles que encarnan a
+un Ceadeus. Grandes, aunque
+refinadas y prácticas.
+--- BLOCK ---
+Hojas dobles que encarnan a
+un Ceadeus. Grandes, aunque
+refinadas y prácticas.
+--- BLOCK ---
+Espantapájaros con pinta de
+Shakalaka. Se usan para
+ahuyentar a los wyverns.
+--- BLOCK ---
+Espantapájaros con pinta de
+Shakalaka. Se usan para
+ahuyentar a los wyverns.
+--- BLOCK ---
+Espantapájaros con pinta de
+Shakalaka. Se usan para
+ahuyentar a los wyverns.
+--- BLOCK ---
+Armas del célebre epicúreo
+monsieur Chereau, inventor
+del filete muy hecho.
+--- BLOCK ---
+Utensilios del epicúreo
+monsieur Chereau. Los usó
+para cocinar wyverns.
+--- BLOCK ---
+Hojas dobles hechas
+de cubertería. ¡Para
+las tortitas de wyvern!
+--- BLOCK ---
+Hojas dobles hechas
+de cubertería. ¡Para
+las tortitas de wyvern!
+--- BLOCK ---
+Hojas dobles de inenarrable
+poder. Sus llamas envían a
+los impuros al infierno.
+--- BLOCK ---
+Hojas dobles de inenarrable
+poder. Sus llamas envían a
+los impuros al infierno.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Espada doble robada del
+Lejano Oriente para
+investigación. Muy afilada.
+--- BLOCK ---

@@ -1,0 +1,1415 @@
+﻿TMSG_BODY_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Armadura de pecho hecha de
+cuero y materiales ligeros
+fáciles de obtener.
+--- BLOCK ---
+Robusta armadura de pecho de
+malla. Los cazadores
+confían en su protección.
+--- BLOCK ---
+Armadura usada a menudo en
+el desierto. Para absorber
+sudor y disipar el calor.
+--- BLOCK ---
+Armadura de pecho especial
+para cazadores. Equipo común
+que llevan muchos.
+--- BLOCK ---
+Armadura de pecho especial
+para cazadores. Famosa por
+su protector de garganta.
+--- BLOCK ---
+Armadura de pecho hecha de
+huesos de monstruo. Con
+aromas de la naturaleza.
+--- BLOCK ---
+Armadura de pecho hecha de
+huesos de monstruo. Práctica
+a pesar de su apariencia.
+--- BLOCK ---
+Armadura de pecho hecha de
+Mineral machalita. Fabricada
+con lógica y sin florituras.
+--- BLOCK ---
+Armadura de pecho hecha de
+Mineral machalita. Con un
+diseño inteligente.
+--- BLOCK ---
+Armadura de pecho hecha de 
+partes de Jaggi. Su flexible
+piel da buena protección.
+--- BLOCK ---
+Armadura de pecho hecha de
+partes de Jaggi. Su gruesa
+piel protege de los choques.
+--- BLOCK ---
+Armadura de pecho de insecto
+para un aristócrata con
+gustos raros. Bien ajustada.
+--- BLOCK ---
+Armadura de pecho de insecto
+con diseño raro para
+un aristócrata excéntrico.
+--- BLOCK ---
+Armadura de pecho hecha de
+materiales recios. Su diseño
+mantiene fuera agua y arena.
+--- BLOCK ---
+Armadura de pecho usada por
+mineros inicialmente. Ahora,
+por obreros de construcción.
+--- BLOCK ---
+Armadura de pecho colorida
+hecha de partes de Qurupeco.
+Efectiva contra el fuego.
+--- BLOCK ---
+Armadura de pecho con una
+decoración llamativa y viva.
+Muy resistente al fuego.
+--- BLOCK ---
+Armadura de pecho con gran 
+flexibilidad. Aumenta la
+habilidad atlética.
+--- BLOCK ---
+Armadura de pecho con un 
+tacto húmedo. Su diseño es
+muy popular entre jóvenes.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para pecho hecha de
+partes de Baggi. Creada para
+proteger y mantener fresco.
+--- BLOCK ---
+Armadura para pecho hecha de
+partes de Baggi. Conocida
+por su tacto fresco.
+--- BLOCK ---
+Armadura para pecho, creada
+para ser rígida y más dura
+que cualquier otra cosa.
+--- BLOCK ---
+Armadura de pecho bastante
+fuerte para repeler disparos
+de cañón. Un baluarte móvil.
+--- BLOCK ---
+Armadura de pecho histórica.
+Su fiable diseño lleva
+intacto durante siglos.
+--- BLOCK ---
+Armadura de pecho que tiene
+una larga tradición. Usada
+en innumerables guerras.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equipo de caballeros 
+extranjeros que solo pueden
+llevar unos pocos.
+--- BLOCK ---
+Equipo usado por caballeros
+extranjeros que solo pueden
+llevar unos pocos.
+--- BLOCK ---
+Armadura de pecho usada por
+empleadas del Gremio. Prueba
+de que saben defenderse.
+--- BLOCK ---
+Armadura de pecho usada por
+empleadas del Gremio. De
+diseño encantador.
+--- BLOCK ---
+Armadura de pecho que hace
+honor al nombre de la reina,
+con durísimas escamas.
+--- BLOCK ---
+Armadura de pecho digna
+de la reina de la tierra.
+Inmune a las llamas.
+--- BLOCK ---
+Armadura de pecho hecha de
+partes de Gigginox. Asusta,
+pero sirve en noche de luna.
+--- BLOCK ---
+Armadura de pecho de forma
+siniestra con garras encima.
+Se mezcla en la noche.
+--- BLOCK ---
+Hecha de Mineral dragonita
+seleccionado cuidadosamente.
+Su brillo dorado es vistoso.
+--- BLOCK ---
+Hecho de Mineral dragonita
+seleccionado cuidadosamente.
+De gruesas planchas fiables.
+--- BLOCK ---
+Armadura para pecho con 
+placas celestes y el poder
+de rechazar ataques.
+--- BLOCK ---
+Armadura de pecho celeste
+que confiere valentía.
+Resistente al trueno.
+--- BLOCK ---
+Armadura de pecho que lleva 
+el legado del Rey de los
+Cielos. En esencia perfecta.
+--- BLOCK ---
+Armadura del rey envuelta 
+en llamas que ni las del
+infierno podrían deslustrar.
+--- BLOCK ---
+Armadura de pecho hecha con 
+placas gruesas de Barioth,
+montadas de forma compacta.
+--- BLOCK ---
+Armadura de pecho hecha con 
+placas de Barioth.
+No entorpece el movimiento.
+--- BLOCK ---
+Armadura de pecho y partes 
+de Diablos. Sus gigantes
+cuernos asustan a monstruos.
+--- BLOCK ---
+Armadura de pecho con 
+partes de Diablos. Hace un 
+audaz uso de los cuernos.
+--- BLOCK ---
+Pesada armadura de pecho con
+partes de Uragaan. Defensa
+genial, pero difícil manejo.
+--- BLOCK ---
+Pesada armadura de pecho con
+partes de Uragaan. Duro para
+ser equipo de Artillero.
+--- BLOCK ---
+Armadura de pecho hecha de 
+Agnaktor. Tan efectiva como
+para resistir incluso magma.
+--- BLOCK ---
+Armadura de pecho hecha de 
+Agnaktor. Con materiales que
+soportan lava caliente.
+--- BLOCK ---
+Armadura de pecho hecha de
+Ceadeus en la que se pueden
+oír los susurros de dioses.
+--- BLOCK ---
+Armadura de pecho hecha de
+Ceadeus. Inspira tanto temor
+que podría ser divina.
+--- BLOCK ---
+Armadura de pecho hecha de
+Ceadeus en la que se pueden
+oír los susurros de dioses.
+--- BLOCK ---
+Armadura de pecho hecha de
+Ceadeus. Inspira tanto temor
+que podría ser divina.
+--- BLOCK ---
+Armadura de pecho con
+extraña capa en la espalda.
+Importada del extranjero.
+--- BLOCK ---
+Armadura de pecho inspirada
+en unos cazadores que cazan
+en tierra extranjera.
+--- BLOCK ---
+Armadura de pecho de partes
+de Arzuros. Fuerte y
+ligera, de diseño Yukumo.
+--- BLOCK ---
+Armadura de pecho de partes
+de Arzuros. Fusión de
+estilos Yukumo y oriental.
+--- BLOCK ---
+Armadura de pecho con piel
+suave de Lagombi. Su tacto
+es maravilloso.
+--- BLOCK ---
+Armadura de pecho exótica
+de piel de Lagombi
+aclimatado a la tundra.
+--- BLOCK ---
+Armadura de pecho con
+concha de Volvidon. La zona
+carnosa absorbe golpes.
+--- BLOCK ---
+Armadura de pecho del país
+del fuego. Simboliza su
+fuego sagrado.
+--- BLOCK ---
+Prototipo de armadura de
+pecho exoesquelética.
+Fuerte en defensa, parece.
+--- BLOCK ---
+Armadura de pecho
+exoesquelética mejorada.
+Eficaz, aunque cabe mejora.
+--- BLOCK ---
+Armadura de pecho pesada,
+fuerte y lenta. Ponérsela ya
+es una prueba.
+--- BLOCK ---
+Armadura de pecho con capas
+de concha de Duramboros.
+Solo para los más fuertes.
+--- BLOCK ---
+Armadura de pecho común en
+Yukumo. Ofrece más
+velocidad que protección.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de pecho hecha de
+cuero. Fácil de usar, pero
+a la vez muy protectora.
+--- BLOCK ---
+Armadura de pecho hecha de 
+cuero duradero. Uso sencillo
+y gran protección.
+--- BLOCK ---
+Robusta armadura de pecho
+hecha de malla. Ha salvado
+la vida a muchos cazadores.
+--- BLOCK ---
+Armadura de pecho hecha de
+malla. Tremendamente fuerte,
+pero ligera y flexible.
+--- BLOCK ---
+Armadura de pecho para el 
+desierto. Llévala y el calor
+del sol desaparecerá.
+--- BLOCK ---
+Armadura de pecho especial
+resistente al calor.
+--- BLOCK ---
+Armadura de pecho usada por
+cazadores de élite. Equipo
+de calidad para expertos.
+--- BLOCK ---
+Armadura de pecho usada por
+cazadores de élite. Tiene un
+gran protector de garganta.
+--- BLOCK ---
+Armadura de pecho hecha de
+huesos de monstruo. Con
+aromas de la naturaleza.
+--- BLOCK ---
+Armadura de pecho hecha de 
+huesos de calidad. Práctica
+a pesar de su apariencia.
+--- BLOCK ---
+Armadura de pecho hecha de 
+un raro mineral. Versión
+mejorada de la original.
+--- BLOCK ---
+Armadura de pecho hecha de 
+un raro mineral. Diseñada
+para dispersar impactos.
+--- BLOCK ---
+Armadura de pecho hecha de 
+partes de Jaggi. Su flexible
+piel da buena protección.
+--- BLOCK ---
+Armadura de pecho hecha de
+partes de Jaggi. Su gruesa
+piel protege de los choques.
+--- BLOCK ---
+Armadura de pecho de insecto
+para un aristócrata con
+gustos raros. Bien ajustada.
+--- BLOCK ---
+Armadura de pecho de insecto
+con diseño raro para
+un aristócrata excéntrico.
+--- BLOCK ---
+Armadura de pecho hecha de
+materiales recios. Su diseño
+mantiene fuera agua y arena.
+--- BLOCK ---
+Armadura de pecho usada por
+mineros inicialmente. Ahora,
+por obreros de construcción.
+--- BLOCK ---
+Armadura de pecho hecha de
+pieles de Slagtoth. Es
+resistente al agua.
+--- BLOCK ---
+Armadura de pecho
+impermeable hecha de pieles
+tratadas de Slagtoth.
+--- BLOCK ---
+Armadura de pecho colorida
+hecha de partes de Qurupeco.
+Efectiva contra el fuego.
+--- BLOCK ---
+Armadura de pecho con una
+decoración llamativa y viva.
+Muy resistente al fuego.
+--- BLOCK ---
+Lujosa armadura de pecho de
+partes de Qurupeco. Eficaz
+contra el fuego.
+--- BLOCK ---
+Armadura de pecho de
+vibrante diseño inspirado
+en los dioses.
+--- BLOCK ---
+Armadura de pecho con gran 
+flexibilidad. Aumenta la
+habilidad atlética.
+--- BLOCK ---
+Armadura de pecho con un 
+tacto húmedo. Su diseño es
+muy popular entre jóvenes.
+--- BLOCK ---
+Armadura de pecho muy
+flexible. Tiene bolsas de
+aire para aligerar el peso.
+--- BLOCK ---
+Armadura de pecho con un 
+tacto húmedo. Su diseño es
+muy popular entre jóvenes.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para pecho de 
+Baggi. Mejorada por el uso
+de un mineral raro.
+--- BLOCK ---
+Armadura para pecho de 
+Baggi. Varias capas
+de piel protegen el cuerpo.
+--- BLOCK ---
+Armadura de pecho con
+extraña capa en la espalda.
+Importada del extranjero.
+--- BLOCK ---
+Armadura de pecho inspirada
+en unos cazadores que cazan
+en tierra extranjera.
+--- BLOCK ---
+Armadura de pecho de partes
+de Arzuros. Fuerte y
+ligera, de diseño Yukumo.
+--- BLOCK ---
+Armadura de pecho de partes
+de Arzuros. Fusión de
+estilos Yukumo y oriental.
+--- BLOCK ---
+Armadura de pecho con piel
+suave de Lagombi. Su tacto
+es maravilloso.
+--- BLOCK ---
+Armadura de pecho exótica
+de piel de Lagombi
+aclimatado a la tundra.
+--- BLOCK ---
+Armadura de pecho con
+concha de Volvidon. La zona
+carnosa absorbe golpes.
+--- BLOCK ---
+Armadura de pecho del país
+del fuego. Simboliza su
+fuego sagrado.
+--- BLOCK ---
+Armadura para pecho, creada
+para ser rígida y más dura
+que cualquier otra cosa.
+--- BLOCK ---
+Armadura de pecho bastante
+fuerte para repeler disparos
+de cañón. Un baluarte móvil.
+--- BLOCK ---
+Armadura para pecho, creada
+para ser rígida y más dura
+que cualquier otra cosa.
+--- BLOCK ---
+Armadura de pecho bastante
+fuerte para repeler disparos
+de cañón. Un baluarte móvil.
+--- BLOCK ---
+Armadura de pecho histórica.
+Su fiable diseño lleva
+intacto durante siglos.
+--- BLOCK ---
+Armadura de pecho que tiene
+una larga tradición. Usada
+en innumerables guerras.
+--- BLOCK ---
+Equipo de caballeros 
+extranjeros que solo pueden
+llevar unos pocos.
+--- BLOCK ---
+Equipo usado por caballeros
+extranjeros que solo pueden
+llevar unos pocos.
+--- BLOCK ---
+Armadura de pecho usada por
+empleadas del Gremio. Prueba
+de que saben defenderse.
+--- BLOCK ---
+Armadura de pecho usada por
+empleadas del Gremio. De
+diseño encantador.
+--- BLOCK ---
+Armadura de pecho que hace
+honor al nombre de la reina,
+con escalas impenetrables.
+--- BLOCK ---
+Armadura de pecho digna de 
+la reina de la tierra.
+Inmune a las llamas.
+--- BLOCK ---
+Armadura de pecho rosa que
+brilla como una hoguera.
+Emana calor y fuerza.
+--- BLOCK ---
+Armadura de pecho rosa como
+unos pétalos. A quienes
+encanta acaban en la tumba.
+--- BLOCK ---
+Armadura de pecho hecha de
+partes de Gigginox. Asusta,
+pero sirve en noche de luna.
+--- BLOCK ---
+Armadura de pecho de forma
+siniestra con garras encima.
+Se mezcla en la noche.
+--- BLOCK ---
+Armadura de pecho hecha de
+partes de Gigginox. Asusta,
+pero sirve en noche de luna.
+--- BLOCK ---
+Armadura de pecho escarlata
+con unas garras siniestras.
+Refleja solo oscuridad.
+--- BLOCK ---
+Hecha de Mineral baticita
+seleccionado cuidadosamente.
+Su brillo dorado es vistoso.
+--- BLOCK ---
+Hecho de Mineral baticita
+seleccionado cuidadosamente.
+De gruesas planchas fiables.
+--- BLOCK ---
+Armadura de pecho hecha de 
+huesos negros desconocidos.
+Antigua pero sin estropear.
+--- BLOCK ---
+Armadura de pecho hecha de 
+huesos negros desconocidos.
+Su dueño despierta por fin.
+--- BLOCK ---
+Armadura de pecho común en
+Yukumo. Ofrece más
+velocidad que protección.
+--- BLOCK ---
+Armadura de pecho estándar
+en Yukumo. Flexible y
+apropiada para cazar.
+--- BLOCK ---
+Armadura de pecho de partes
+de insecto. ¡Úsala bajo el
+sol y te verás invencible!
+--- BLOCK ---
+Armadura de pecho de partes
+de insecto. Las antenas
+evocan una capa heroica.
+--- BLOCK ---
+Armadura de pecho de
+insectos. Las alas abiertas
+atraen la atención.
+--- BLOCK ---
+Armadura de pecho de partes
+de insecto. Como las flores
+en zona de caza.
+--- BLOCK ---
+Armadura de pecho de
+extrañas calabazas. Quien
+la usa no teme a nada.
+--- BLOCK ---
+Armadura de pecho de
+calabazas. Facilita la
+respiración y el esfuerzo.
+--- BLOCK ---
+Armadura de pecho rígida,
+hecha con un metal que
+asombró a los artesanos.
+--- BLOCK ---
+Armadura de pecho hecha con
+los restos de un artefacto
+desenterrado muy dañado.
+--- BLOCK ---
+Armadura para pecho con 
+placas celestes y el poder
+de rechazar ataques.
+--- BLOCK ---
+Armadura de pecho celeste
+que confiere valentía.
+Resistente al trueno.
+--- BLOCK ---
+Armadura de pecho de hueso
+de Lagiacrus marmóreo.
+Recia como un wyvern.
+--- BLOCK ---
+Armadura de pecho de hueso
+de Lagiacrus marmóreo. Su
+superficie es abombada.
+--- BLOCK ---
+Armadura de pecho que lleva 
+el legado del Rey de los
+Cielos. En esencia perfecta.
+--- BLOCK ---
+Armadura del rey envuelta 
+en llamas que ni las del
+infierno podrían deslustrar.
+--- BLOCK ---
+Armadura de pecho de
+lapislázuli imbuida.
+Destinada a la grandeza.
+--- BLOCK ---
+Armadura de pecho de
+lapislázuli de gran poder.
+Supera a cualquier otra.
+--- BLOCK ---
+Armadura de pecho hecha con 
+placas gruesas de Barioth,
+montadas de forma compacta.
+--- BLOCK ---
+Armadura de pecho hecha con 
+placas de Barioth.
+No entorpece el movimiento.
+--- BLOCK ---
+Armadura de pecho con
+concha de Barioth arenoso.
+Gruesa y compacta.
+--- BLOCK ---
+Armadura de pecho con
+concha de Barioth arenoso.
+Gruesa, pero flexible.
+--- BLOCK ---
+Armadura de pecho con
+partes de Diablos. Sus dos
+cuernos son aterradores.
+--- BLOCK ---
+Armadura de pecho con
+partes de Diablos. Usa bien
+los dos cuernos.
+--- BLOCK ---
+Armadura de pecho con
+partes de Diablos. Sus dos
+cuernos son aterradores.
+--- BLOCK ---
+Armadura de pecho con
+partes de Diablos. Usa bien
+los dos cuernos.
+--- BLOCK ---
+Pesada armadura de pecho con
+partes de Uragaan. Defensa
+genial, pero difícil manejo.
+--- BLOCK ---
+Pesada armadura de pecho con
+partes de Uragaan. Duro para
+ser equipo de Artillero.
+--- BLOCK ---
+Armadura de pecho pesada
+con partes de Uragaan
+acerado. Recia pero lenta.
+--- BLOCK ---
+Armadura de pecho pesada
+con partes de Uragaan
+acerado. Para Artilleros.
+--- BLOCK ---
+Armadura de pecho hecha de 
+Agnaktor. Tan efectiva como
+para resistir incluso magma.
+--- BLOCK ---
+Armadura de pecho hecha de 
+Agnaktor. Con materiales que
+soportan lava caliente.
+--- BLOCK ---
+Armadura de pecho de partes
+de Agnaktor glacial. Hiela a
+wyverns voladores con verlo.
+--- BLOCK ---
+Armadura de pecho de partes
+de Agnaktor glacial. Su
+acabado evoca la tundra.
+--- BLOCK ---
+Armadura negra bañada en 
+furia de Deviljho. Da poder,
+y también hambre repentina.
+--- BLOCK ---
+Armadura de pecho con el 
+poder del Deviljho. Hace
+pedazos cualquier espada.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria. La mayor defensa.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria en momentos caóticos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de un dios de la 
+guerra que sobrevivió en
+oriente. Ligera y fuerte.
+--- BLOCK ---
+Armadura de pecho digna de 
+ser legendaria. Gruesa pero
+ligera y muy fuerte.
+--- BLOCK ---
+Armadura de pecho de Jhen 
+Mohran hecha con la técnica
+de maestros orientales.
+--- BLOCK ---
+Armadura de pecho con 
+la mejor técnica oriental.
+Diseño para Artilleros.
+--- BLOCK ---
+Armadura abismal atrapaluz.
+Cualquiera que toque sus
+escamas se partirá en dos.
+--- BLOCK ---
+Armadura abismal atrapaluz.
+Despierta deseos de destruir
+a cualquiera que la toque.
+--- BLOCK ---
+Armadura de pecho como un
+rayo encarnado. Su dueño
+lucha como un demonio.
+--- BLOCK ---
+Armadura de pecho como un
+rayo de Zinogre. Su
+capacidad no tiene igual.
+--- BLOCK ---
+Prototipo de armadura de
+pecho exoesquelética.
+Fuerte en defensa, parece.
+--- BLOCK ---
+Armadura de pecho
+exoesquelética mejorada.
+Eficaz, aunque cabe mejora.
+--- BLOCK ---
+Armadura de pecho pesada,
+fuerte y lenta. Ponérsela
+ya es una prueba.
+--- BLOCK ---
+Armadura de pecho con capas
+de concha de Duramboros.
+Solo para los más fuertes.
+--- BLOCK ---
+Armadura de pecho como un
+cuerpo de Nargacuga, de
+bellas y frágiles escamas.
+--- BLOCK ---
+Armadura de pecho oscura.
+Refleja cualquier luz como
+una estrella fugaz.
+--- BLOCK ---
+Armadura de pecho de escamas
+de Plesioth. Se ajusta y
+absorbe impactos.
+--- BLOCK ---
+Armadura de pecho de aletas
+unidas a partes de Plesioth.
+¡Vaya collar!
+--- BLOCK ---
+Armadura de pecho con la
+fuerza del Brachydios.
+Contiene una chispa viva.
+--- BLOCK ---
+Armadura de pecho con la
+fuerza del Brachydios. Lo
+absorbe casi todo.
+--- BLOCK ---
+Armadura de pecho para
+empleados. Todas las chicas
+sueñan con llevarla.
+--- BLOCK ---
+Armadura de pecho para
+empleadas. Muchos se
+obsesionan con su diseño.
+--- BLOCK ---
+Equipo para soldado Loc Lac 
+oficial. Ligero, pero ofrece
+una amplia protección.
+--- BLOCK ---
+Equipo para arquero Loc Lac
+oficial. Diseñado para
+proteger vida y cuerpo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de pecho de Piedra
+de fuego selecta. Tiene un
+brillo suave.
+--- BLOCK ---
+Armadura de pecho de Piedra
+de fuego selecta. Sus
+gruesas placas son fiables.
+--- BLOCK ---
+Armadura de pecho de insecto
+para un aristócrata con
+gustos raros. Bien ajustada.
+--- BLOCK ---
+Armadura de pecho de insecto
+con diseño raro para
+un aristócrata excéntrico.
+--- BLOCK ---
+Armadura de pecho hecha de
+materiales recios. Su diseño
+mantiene fuera agua y arena.
+--- BLOCK ---
+Armadura de pecho usada por
+mineros inicialmente. Ahora,
+por obreros de construcción.
+--- BLOCK ---
+Armadura de pecho
+impermeable hecha de pieles
+tratadas de Slagtoth.
+--- BLOCK ---
+Armadura de pecho hecha de
+pieles de Slagtoth. Es
+resistente al agua.
+--- BLOCK ---
+Armadura de pecho hecha de 
+partes de Jaggi. Su flexible
+piel da buena protección.
+--- BLOCK ---
+Armadura de pecho hecha de
+partes de Jaggi. Su gruesa
+piel protege de los choques.
+--- BLOCK ---
+Armadura para pecho hecha de
+partes de Baggi. Creada para
+proteger y mantener fresco.
+--- BLOCK ---
+Armadura para pecho de 
+Baggi. Varias capas
+de piel protegen el cuerpo.
+--- BLOCK ---
+Armadura de pecho con
+extraña capa en la espalda.
+Importada del extranjero.
+--- BLOCK ---
+Armadura de pecho inspirada
+en unos cazadores que cazan
+en tierra extranjera.
+--- BLOCK ---
+Armadura de pecho de partes
+de Arzuros. Fuerte y
+ligera, de diseño Yukumo.
+--- BLOCK ---
+Armadura de pecho de partes
+de Arzuros. Fusión de
+estilos Yukumo y oriental.
+--- BLOCK ---
+Armadura de pecho con piel
+suave de Lagombi. Su tacto
+es maravilloso.
+--- BLOCK ---
+Armadura de pecho exótica
+de piel de Lagombi
+aclimatado a la tundra.
+--- BLOCK ---
+Armadura de pecho con
+concha de Volvidon. La zona
+carnosa absorbe golpes.
+--- BLOCK ---
+Armadura de pecho del país
+del fuego. Simboliza su
+fuego sagrado.
+--- BLOCK ---
+Armadura de pecho de partes
+de Qurupeco. Todos se
+quedan mirándola embobados.
+--- BLOCK ---
+Armadura de pecho de partes
+de Qurupeco. Su resistencia
+al fuego es enorme.
+--- BLOCK ---
+Armadura de pecho de partes
+de Qurupeco carmesí. Todos
+se quedan mirándola.
+--- BLOCK ---
+Armadura de pecho de partes
+de Qurupeco carmesí. Muy
+resistente al trueno.
+--- BLOCK ---
+Armadura de pecho de partes
+de Ludroth real. Repele los
+ataques más débiles.
+--- BLOCK ---
+Armadura de pecho de partes
+de Ludroth real. Resulta
+cómoda y segura.
+--- BLOCK ---
+Armadura de pecho de partes
+de Ludroth purpúreo. Repele
+los ataques más débiles.
+--- BLOCK ---
+Armadura de pecho de partes
+de Ludroth purpúreo. Es
+cómoda y segura.
+--- BLOCK ---
+Armadura de pecho de placa
+de Barroth. Se tardan meses
+en darle forma.
+--- BLOCK ---
+Armadura de pecho de placa
+de Barroth. Ni una cola de
+wyvern volador la araña.
+--- BLOCK ---
+Armadura de pecho de placa
+de Barroth esmeralda. Se
+tardan meses en crearla.
+--- BLOCK ---
+Armadura de pecho de placa
+de Barroth esmeralda. Ni
+un wyvern volador la araña.
+--- BLOCK ---
+Armadura de pecho de piel
+de Gobul. Permite salir por
+piernas en caso de peligro.
+--- BLOCK ---
+Armadura de pecho de piel
+de Gobul. Es hidrófuga e
+impermeable.
+--- BLOCK ---
+Armadura de pecho de
+corteza de Rathalos. Se ríe
+del fuego y el trueno.
+--- BLOCK ---
+Armadura de pecho creada
+con las escamas de Rathalos
+más duras.
+--- BLOCK ---
+Armadura de pecho de
+Rathalos celeste. Se ríe
+del fuego y el trueno.
+--- BLOCK ---
+Armadura de pecho creada
+con las escamas de Rathalos
+celeste más duras.
+--- BLOCK ---
+Armadura de pecho que
+brilla como una llama. Su
+calor protege de ataques.
+--- BLOCK ---
+Armadura de Rathalos que
+arde como una llama. Su
+protección es inmensa.
+--- BLOCK ---
+Armadura de pecho de partes
+de Rathian. Protege a los
+cazadores del fuego.
+--- BLOCK ---
+Armadura de pecho de partes
+de Rathian. Su poder ígneo
+lanza un ataque mortal.
+--- BLOCK ---
+Armadura de pecho de partes
+de Rathian rosa. Concede el
+poder del fuego.
+--- BLOCK ---
+Armadura de pecho de partes
+de Rathian rosa. Su poder
+torna un huracán en brisa.
+--- BLOCK ---
+Armadura de pecho de la
+reina que baila en la luna.
+Nada apaga su color dorado.
+--- BLOCK ---
+Este don de la luna dorada
+guarda un poder tremendo.
+Las llamas no le afectan.
+--- BLOCK ---
+Armadura de pecho de hueso
+de Lagiacrus. Tiene la
+fuerza de un wyvern.
+--- BLOCK ---
+Armadura de pecho de hueso
+de Lagiacrus. Su
+superficie es abombada.
+--- BLOCK ---
+Armadura de pecho de hueso
+de Lagiacrus marmóreo.
+Recia como un wyvern.
+--- BLOCK ---
+Armadura de pecho de hueso
+de Lagiacrus marmóreo. Su
+superficie es abombada.
+--- BLOCK ---
+Armadura de pecho de
+Lagiacrus del abismo. Su
+furia es arrebatadora.
+--- BLOCK ---
+Armadura de pecho de
+Lagiacrus del abismo.
+Contra seres del mar.
+--- BLOCK ---
+Armadura de pecho de
+Gigginox que antiguamente
+expulsaba a almas indignas.
+--- BLOCK ---
+Armadura de pecho de
+Gigginox que protege contra
+los elementos, como el rayo.
+--- BLOCK ---
+Armadura de pecho de
+Gigginox aterrador que
+expulsaba a almas indignas.
+--- BLOCK ---
+Armadura de pecho de
+Gigginox aterrador que
+protege contra elementos.
+--- BLOCK ---
+Armadura de pecho de partes
+de Barioth. Resiste el
+poder de un gran glaciar.
+--- BLOCK ---
+Armadura de pecho de partes
+de Barioth. Exuda un aire
+de refinamiento.
+--- BLOCK ---
+Armadura de pecho de partes
+de Barioth arenoso. Resiste
+el calor más abrasador.
+--- BLOCK ---
+Armadura de pecho de partes
+de Barioth arenoso. Exuda
+un aire de refinamiento.
+--- BLOCK ---
+Armadura de pecho de concha
+de Diablos. Su poder lo
+reduce casi todo a cenizas.
+--- BLOCK ---
+Armadura de pecho de concha
+de Diablos. Gran protección
+en combate cuerpo a cuerpo.
+--- BLOCK ---
+Armadura de pecho de concha
+de Diablos negra. Lo
+reduce casi todo a cenizas.
+--- BLOCK ---
+Armadura de pecho de concha
+de Diablos negra. Gran
+protección cuerpo a cuerpo.
+--- BLOCK ---
+Armadura de pecho de concha
+rocosa de Uragaan. Soporta
+tormentas eléctricas.
+--- BLOCK ---
+Armadura de pecho de concha
+rocosa de Uragaan. Forma
+recia y curvas elegantes.
+--- BLOCK ---
+Armadura de pecho de concha
+rocosa de Uragaan acerado.
+Soporta tempestades.
+--- BLOCK ---
+Armadura de pecho de concha
+rocosa de Uragaan acerado.
+Recia y elegante.
+--- BLOCK ---
+Armadura de pecho de
+Agnaktor de lava. La lava
+será como un baño caliente.
+--- BLOCK ---
+Armadura de pecho de
+Agnaktor de lava. Recuerda
+a un dios flamígero.
+--- BLOCK ---
+Armadura de pecho de
+Agnaktor de hielo. Ignora
+los daños por frío.
+--- BLOCK ---
+Armadura de pecho de
+Agnaktor de hielo. Recuerda
+a un dios de escarcha.
+--- BLOCK ---
+Armadura de piel de Ceadeus
+divino. Repele agua y
+hielo, y resiste la presión.
+--- BLOCK ---
+Armadura de pecho creada
+endureciendo pieza tras
+pieza de Ceadeus divino.
+--- BLOCK ---
+Armadura de pecho de
+Ceadeus barba dorada.
+Protege de la presión.
+--- BLOCK ---
+Armadura de pecho de
+Ceadeus barba dorada. Una
+sólida protección.
+--- BLOCK ---
+Audaz armadura de pecho de
+concha de gigante de la
+profundidad. Muy impactante.
+--- BLOCK ---
+Modesta armadura de pecho
+de concha de gigante de la
+profundidad. Gran defensa.
+--- BLOCK ---
+Armadura de pecho de Ceadeus
+barba dorada. Protege de la
+presión del agua.
+--- BLOCK ---
+Armadura de pecho de Ceadeus
+barba dorada. Sus capas
+confieren sólida protección.
+--- BLOCK ---
+Armadura de pecho de partes
+de Jhen Mohran. Su estilo
+destaca a los matadragones.
+--- BLOCK ---
+Armadura de pecho de partes
+de Jhen Mohran. Resiste la
+llama de un wyvern volador.
+--- BLOCK ---
+Armadura de pecho de partes
+de Jhen Mohran. Contiene el
+alma de una bella guerrera.
+--- BLOCK ---
+Armadura de pecho de partes
+de Jhen Mohran. Sus curvas
+son fuertes y hermosas.
+--- BLOCK ---
+Armadura de pecho de Jhen
+Mohran sagrado. Resiste los
+golpes más fuertes.
+--- BLOCK ---
+Armadura de pecho de Jhen
+Mohran sagrado. Reverenciada
+como símbolo protector.
+--- BLOCK ---
+Armadura de pecho de Jhen
+Mohran sagrado. Resiste los
+golpes más fuertes.
+--- BLOCK ---
+Armadura de pecho de Jhen
+Mohran sagrado. Reverenciada
+como símbolo protector.
+--- BLOCK ---
+Armadura de pecho imbuida
+con la rabia de un Deviljho.
+Confiere poder salvaje.
+--- BLOCK ---
+Armadura de pecho con la
+voracidad de un Deviljho,
+y con su poder feroz.
+--- BLOCK ---
+Armadura de pecho de partes
+de Alatreon. Equipo místico
+con poder elemental.
+--- BLOCK ---
+Armadura de pecho de partes
+de Alatreon. Contiene el
+poder de un dragón anciano.
+--- BLOCK ---
+Armadura de pecho de concha
+eléctrica de Zinogre. Se
+gana el poder del trueno.
+--- BLOCK ---
+Armadura de pecho de concha
+eléctrica de Zinogre. La
+piel crepita de energía.
+--- BLOCK ---
+Armadura de pecho de
+Zinogre estigio. Protege de
+dragones ancianos.
+--- BLOCK ---
+Armadura de pecho de
+Zinogre estigio. Está
+cubierta de raras garras.
+--- BLOCK ---
+Modelo mejorado de armadura
+de pecho exoesquelética
+mejorada. Es muy flexible.
+--- BLOCK ---
+Modelo mejorado de armadura
+de pecho exoesquelética,
+resiste dragones ancianos.
+--- BLOCK ---
+Armadura de pecho del mejor
+cuerno de Duramboros. Buena
+protección para el cazador.
+--- BLOCK ---
+Armadura de pecho de cuerno
+de Duramboros. Protege de
+las armas más potentes.
+--- BLOCK ---
+Armadura de pecho de
+Duramboros herrumbroso.
+Endurecida en las arenas.
+--- BLOCK ---
+Armadura de pecho de
+Duramboros herrumbroso.
+Su color es carmesí.
+--- BLOCK ---
+Armadura de pecho como un
+cuerpo de Nargacuga, de
+bellas y frágiles escamas.
+--- BLOCK ---
+Armadura de pecho oscura.
+Refleja cualquier luz como
+una estrella fugaz.
+--- BLOCK ---
+Armadura de pecho como un
+cuerpo de Nargacuga verdoso.
+De bellas escamas.
+--- BLOCK ---
+Armadura de pecho oscura.
+Refleja cualquier luz como
+una estrella fugaz.
+--- BLOCK ---
+Armadura de pecho de
+Nargacuga lunar. Ligera
+pero fuerte como el acero.
+--- BLOCK ---
+Armadura de pecho de
+Nargacuga lunar. Tan ligera
+que te olvidas de ella.
+--- BLOCK ---
+Armadura de pecho de escamas
+de Plesioth. Se ajusta y
+absorbe impactos.
+--- BLOCK ---
+Armadura de pecho de aletas
+unidas a partes de Plesioth.
+¡Vaya collar!
+--- BLOCK ---
+Armadura de pecho de escamas
+de Plesioth. Se ajusta y
+absorbe impactos.
+--- BLOCK ---
+Armadura de pecho de aletas
+unidas a partes de Plesioth.
+¡Vaya collar!
+--- BLOCK ---
+Armadura de pecho con la
+fuerza del Brachydios.
+Contiene una chispa viva.
+--- BLOCK ---
+Armadura de pecho con la
+fuerza del Brachydios. Lo
+absorbe casi todo.
+--- BLOCK ---
+Armadura de pecho de asesino
+de Miralis funesto, señor
+del averno y la calamidad.
+--- BLOCK ---
+Armadura de pecho de asesino
+de Miralis funesto, señor
+del averno y la calamidad.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria. La mayor defensa.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria en momentos caóticos.
+--- BLOCK ---
+Armadura de pecho hecha de 
+huesos negros desconocidos.
+Antigua pero sin estropear.
+--- BLOCK ---
+Armadura de pecho hecha de 
+huesos negros desconocidos.
+Su dueño despierta por fin.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de pecho de partes
+de insecto. ¡Úsala bajo el
+sol y te verás invencible!
+--- BLOCK ---
+Armadura de pecho de partes
+de insecto. Las antenas
+evocan una capa heroica.
+--- BLOCK ---
+Armadura de pecho de
+insectos. Las alas abiertas
+atraen la atención.
+--- BLOCK ---
+Armadura de pecho de partes
+de insecto. Como las flores
+en zona de caza.
+--- BLOCK ---
+Armadura de pecho de
+calabazas. Quien la usa
+no teme a nada.
+--- BLOCK ---
+Armadura de pecho de
+calabazas. Facilita la
+respiración y el esfuerzo.
+--- BLOCK ---
+Armadura de pecho rígida,
+hecha con un metal que
+asombró a los artesanos.
+--- BLOCK ---
+Armadura de pecho hecha con
+los restos de un artefacto
+desenterrado muy dañado.
+--- BLOCK ---
+Armadura de pecho para
+empleadas. Todas las chicas
+sueñan con llevarla.
+--- BLOCK ---
+Armadura de pecho para
+empleadas. Muchos se
+obsesionan con su diseño.
+--- BLOCK ---
+Equipo oficial de montaraz
+Loc Lac. Es ligera, pero
+ofrece buena protección.
+--- BLOCK ---
+Equipo oficial de tirador
+Loc Lac. Está diseñada
+para proteger los miembros.
+--- BLOCK ---
+Equipo de caballeros 
+extranjeros que solo pueden
+llevar unos pocos.
+--- BLOCK ---
+Equipo usado por caballeros
+extranjeros que solo pueden
+llevar unos pocos.
+--- BLOCK ---
+Armadura de pecho usada por
+empleadas del Gremio. Prueba
+de que saben defenderse.
+--- BLOCK ---
+Armadura de pecho usada por
+empleadas del Gremio. De
+diseño encantador.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de pecho de
+empleada del Gremio de
+Tanzia con pañuelo.
+--- BLOCK ---
+Armadura de pecho de
+empleada del Gremio de
+Tanzia con botones.
+--- BLOCK ---
+Collar perteneciente a un
+sabio con poderes. Tiene
+incontables usos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+El cráneo de cuervo
+simboliza la dedicación
+de un cazador a su arte.
+--- BLOCK ---
+El cráneo de cuervo
+simboliza la dedicación
+de un cazador a su arte.
+--- BLOCK ---

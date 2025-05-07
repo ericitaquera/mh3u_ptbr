@@ -1,0 +1,1368 @@
+TMSG_WAIST_EXP
+--- BLOCK ---
+Nada equipado.
+--- BLOCK ---
+Cinta feita de couro
+e outros materiais leves.
+Equipamento básico geral.
+--- BLOCK ---
+Protetor de Coxa para usar
+debaixo d'água, com pesos de
+chumbo e um tanque.
+--- BLOCK ---
+Uma cinta simples, mas
+de fabricação especial.
+Leve nos quadris.
+--- BLOCK ---
+Protetor de Coxa para
+o deserto, usado por
+sua resistência ao calor.
+--- BLOCK ---
+Cinta especial para
+caçadores. Flexível mas
+durável, muito utilizada.
+--- BLOCK ---
+Cinta especial para caçadores.
+Ótimo design até
+nos mínimos detalhes.
+--- BLOCK ---
+Protetor de Coxa adornado
+com ossos de monstros.
+Caracteriza-se pelas pontas.
+--- BLOCK ---
+Cinta feita de ossos
+de monstro. Curta,
+mas muito prática.
+--- BLOCK ---
+Cinta feita de Mineral
+machalita. Seu design fino
+é realmente bonito.
+--- BLOCK ---
+Cinta feita de Mineral
+machalita. Seu design
+demonstra grande artesanato.
+--- BLOCK ---
+Cinta feita de partes de
+Jaggi. Um uso genial para
+a pele de Jaggi.
+--- BLOCK ---
+Cinta feita de partes
+de Jaggi. O design
+é bastante chamativo.
+--- BLOCK ---
+Cinta criada para um
+aristocrata que gosta
+de colecionar raridades.
+--- BLOCK ---
+Cinta feita de asas de
+inseto. Use-a e será
+o rei da festa.
+--- BLOCK ---
+Cinta feita de partes
+de Rhenoplos. Para procurar
+água ou minerais.
+--- BLOCK ---
+Cinta feita de partes
+de Rhenoplos, oferece grande
+cobertura para as pernas.
+--- BLOCK ---
+Cinta feita de
+vistosas penas de
+Qurupeco. Extremamente ignífuga.
+--- BLOCK ---
+Cinta criada com partes
+de Qurupeco. Uma verdadeira
+obra de arte.
+--- BLOCK ---
+Cinta feita de partes
+de Ludroth. A saia
+protege bem as pernas.
+--- BLOCK ---
+Cinta feita de partes
+de Ludroth. Criada por
+um famoso designer.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa feito de
+partes de Baggi. Proteção
+prática para a cintura.
+--- BLOCK ---
+Protetor de Coxa feito de
+partes de Baggi. Proteção
+prática para a cintura.
+--- BLOCK ---
+Cinta feita de carapaça
+de Barroth, muito
+dura e impenetrável.
+--- BLOCK ---
+Flexível, mas resistente; dois
+extremos surpreendentes em um
+protetor de coxa.
+--- BLOCK ---
+Cinta de origem oriental
+e antiga. Ainda usada
+nos dias de hoje.
+--- BLOCK ---
+Cinta oriental que faz
+quem a usa parecer
+que está dançando.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Pouco
+usado por caçadores.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Usá-lo
+é uma grande honra.
+--- BLOCK ---
+Cinta usada por funcionárias
+do Gremio. Faz
+parecer mais fina.
+--- BLOCK ---
+Cinta usada por funcionárias
+do Gremio. Muito
+familiar para caçadores.
+--- BLOCK ---
+Cinta real verde que
+intimida até o
+monstro mais implacável.
+--- BLOCK ---
+Cinta considerada a encarnação
+de sua majestade, a
+rainha da terra.
+--- BLOCK ---
+A luz da lua faz
+com que esta cinta
+projete uma bela silhueta.
+--- BLOCK ---
+Cinta notável por seu
+comprimento, que chega aos
+pés. Simples mas bonita.
+--- BLOCK ---
+Cinta feita com muito
+Mineral dragonita. Segue o
+contorno do corpo.
+--- BLOCK ---
+Cinta feita com muito
+Mineral dragonita e novas
+técnicas de forja.
+--- BLOCK ---
+Protetor de Coxa, sinal do
+heroísmo de derrotar o
+Lagiacrus. Resiste a impactos.
+--- BLOCK ---
+Protetor de Coxa para quem
+matou um Lagiacrus. Um
+verdadeiro emblema de honra.
+--- BLOCK ---
+Cinta carmesim impregnada de
+vitória. Dá um
+atrativo de wyvern.
+--- BLOCK ---
+Cinta feita de partes
+de Rathalos. Parece
+uma chama tremeluzente.
+--- BLOCK ---
+Cinta feita de Barioth.
+Emana o espírito do
+cavaleiro da tundra.
+--- BLOCK ---
+Cinta feita de Barioth.
+Prova de ter matado
+o cavaleiro da tundra.
+--- BLOCK ---
+Cinta feita de partes
+de Diablos. Defesa para
+quem venceu o tirano.
+--- BLOCK ---
+Cinta feita de partes
+de Diablos. Os ataques
+normais não funcionam.
+--- BLOCK ---
+Cinta pesada de Uragaan.
+Suas placas protegem
+até o joelho.
+--- BLOCK ---
+Protetor de Coxa pesado
+feito de Uragaan.
+Proteção extremamente confiável.
+--- BLOCK ---
+Cinta feita de Agnaktor.
+Sua placa vermelha
+extingue qualquer fogo.
+--- BLOCK ---
+Cinta de Agnaktor
+que incorpora desenhos
+da antiguidade.
+--- BLOCK ---
+Protetor de Coxa feito de
+Ceadeus. Com múltiplas camadas de
+placas duras e brancas.
+--- BLOCK ---
+Protetor de Coxa feito
+de Ceadeus. Encarna o
+gigante das profundezas.
+--- BLOCK ---
+Protetor de Coxa feito de
+Ceadeus. Com múltiplas camadas de
+placas duras e brancas.
+--- BLOCK ---
+Protetor de Coxa feito
+de Ceadeus. Encarna o
+gigante das profundezas.
+--- BLOCK ---
+Cinta de caçador
+estrangeiro. Conserva
+o aspecto.
+--- BLOCK ---
+Cinta para armas
+à distância. Ideal
+para Atiradores.
+--- BLOCK ---
+Cinta feita de partes
+de Arzuros. É
+modesta e funcional.
+--- BLOCK ---
+Cinta feita de partes
+de Arzuros. O
+tapa-sexo é tradicional.
+--- BLOCK ---
+Protetor de Coxa único
+projetado para uso diário
+em climas gelados.
+--- BLOCK ---
+Cinta para regiões
+geladas. Usada como
+equipamento de caça.
+--- BLOCK ---
+Cinta que reverencia o
+espírito do fogo,
+algo pouco comum.
+--- BLOCK ---
+Protetor de Coxa feito
+de concha de Volvidon,
+ideal para Atiradores.
+--- BLOCK ---
+O Gremio a projetou
+para resistir a impactos
+e a wyverns voadores.
+--- BLOCK ---
+Protetor de Coxa
+exoesquelético aprimorado. Ainda
+é um protótipo.
+--- BLOCK ---
+Cinta feita de
+concha de Duramboros.
+Confere grande força.
+--- BLOCK ---
+Protetor que cobre a
+cintura. Apenas um caçador
+é capaz de usá-lo.
+--- BLOCK ---
+Cinta muito funcional.
+Às vezes envolve
+os ombros.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinta de couro
+e materiais leves.
+Básica mas resistente.
+--- BLOCK ---
+Cinta de couro de
+primeira. Simples, mas
+concede grande defesa.
+--- BLOCK ---
+Cinta para uso debaixo
+d'água, com pesos de
+chumbo e um tanque.
+--- BLOCK ---
+Cinta para uso debaixo
+d'água, com pesos de
+chumbo e um tanque.
+--- BLOCK ---
+Um cinto simples, mas
+de fabricação especial. Leve
+sobre os quadris.
+--- BLOCK ---
+Aparência comum, efeito
+extraordinário. Exemplo de
+excepcional artesanato.
+--- BLOCK ---
+Cinta resistente ao
+calor, de
+fabricação especial.
+--- BLOCK ---
+Cinta para o deserto.
+Absorve uma quantidade
+incrível de calor.
+--- BLOCK ---
+Cinta para caçadores de
+elite. Além de
+forte, muito flexível.
+--- BLOCK ---
+Cinta para caçadores de
+elite. Projetada até
+nos mínimos detalhes.
+--- BLOCK ---
+Cinta adornada com
+ossos de qualidade.
+Caracteriza-se pelas pontas.
+--- BLOCK ---
+Protetor de Coxa de
+ossos de qualidade. Curto,
+mas muito prático.
+--- BLOCK ---
+Cinta feita com um
+raro mineral. Muito funcional
+e sem adornos.
+--- BLOCK ---
+Protetor de Coxa de um
+raro mineral. Seu brilho
+único é muito belo.
+--- BLOCK ---
+Cinta feita de partes de
+Jaggi. Um uso genial para
+a pele de Jaggi.
+--- BLOCK ---
+Cinta feita de partes
+de Jaggi. O design
+é bastante chamativo.
+--- BLOCK ---
+Cinta criada para um
+aristocrata que gosta
+de colecionar raridades.
+--- BLOCK ---
+Protetor de Coxa de carapaça
+de inseto. Com ela
+você brilhará na festa.
+--- BLOCK ---
+Cinta feita de partes
+de Rhenoplos. Para buscar
+água ou minerais.
+--- BLOCK ---
+Cinta feita de partes
+de Rhenoplos, oferece grande
+cobertura para as pernas.
+--- BLOCK ---
+Cinta feita de
+vistosas penas de
+Qurupeco. Extremamente ignífuga.
+--- BLOCK ---
+Cinta criada com partes
+de Qurupeco. Uma verdadeira
+obra de arte.
+--- BLOCK ---
+Cinta de plumas
+de Qurupeco. Mostra
+respeito pela natureza.
+--- BLOCK ---
+Cinta criada com partes
+de Qurupeco. Uma verdadeira
+obra de arte.
+--- BLOCK ---
+Cinta feita de partes
+de Ludroth. A saia
+protege bem as pernas.
+--- BLOCK ---
+Cinta feita de partes
+de Ludroth. Criada por
+um famoso designer.
+--- BLOCK ---
+Cinta feita de partes
+de Ludroth. A saia
+protege bem as pernas.
+--- BLOCK ---
+Cinta feita de partes
+de Ludroth. Criada por
+um famoso designer.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa de Baggi.
+Use-o e nunca mais
+será incomodado pelo calor.
+--- BLOCK ---
+Cinta leve de
+Baggi. Emana uma
+qualidade ventosa.
+--- BLOCK ---
+Cinta de caçador
+estrangeiro. Conserva
+o aspecto.
+--- BLOCK ---
+Cinta para armas
+à distância. Ideal
+para Atiradores.
+--- BLOCK ---
+Cinta feita de partes
+de Arzuros. É
+modesta e funcional.
+--- BLOCK ---
+Cinta feita de partes
+de Arzuros. O
+tapa-sexo é tradicional.
+--- BLOCK ---
+Protetor de Coxa único
+projetado para uso diário
+em climas gelados.
+--- BLOCK ---
+Cinta para regiões
+geladas. Usada como
+equipamento de caça.
+--- BLOCK ---
+Cinta que reverencia o
+espírito do fogo,
+algo pouco comum.
+--- BLOCK ---
+Protetor de Coxa feito
+de concha de Volvidon,
+ideal para Atiradores.
+--- BLOCK ---
+Cinta feita de carapaça
+de Barroth muito
+dura e impenetrável.
+--- BLOCK ---
+Flexível, mas resistente;
+dois extremos surpreendentes
+em uma cinta.
+--- BLOCK ---
+Protetor de Coxa feito
+com a do
+duríssimo Barroth esmeralda.
+--- BLOCK ---
+Flexível, mas resistente;
+dois extremos surpreendentes
+em uma cinta.
+--- BLOCK ---
+Cinta de origem oriental e
+antiga. Ainda é usada
+nos dias de hoje.
+--- BLOCK ---
+Cinta oriental que faz
+quem a usa parecer
+que está dançando.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Pouco
+usado por caçadores.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Usá-lo
+é uma verdadeira honra.
+--- BLOCK ---
+Cinta usada por funcionárias
+do Gremio. Faz
+parecer mais magra.
+--- BLOCK ---
+Cinta usada por funcionárias
+do Gremio. Muito
+familiar para caçadores.
+--- BLOCK ---
+Cinta real verde que
+intimidará até o
+monstro mais impiedoso.
+--- BLOCK ---
+Cinta tida como encarnação
+de sua majestade, a
+rainha da terra.
+--- BLOCK ---
+Cinta de grande
+beleza. Concede força
+e equilíbrio.
+--- BLOCK ---
+Protetor de Coxa em homenagem
+a Rathian. Apaga as
+chamas que se aproximam.
+--- BLOCK ---
+A luz da lua faz
+com que este protetor de
+Coxa projete uma bela silhueta.
+--- BLOCK ---
+Protetor de Coxa notável por
+sua extensão, que chega aos
+pés. Simples mas bonito.
+--- BLOCK ---
+A luz da lua faz
+com que este protetor de
+Coxa projete uma bela silhueta.
+--- BLOCK ---
+Protetor de Coxa notável por
+sua extensão, que chega aos
+pés. Simples mas bonito.
+--- BLOCK ---
+Cinta de um raro
+mineral. Segue o
+contorno do corpo.
+--- BLOCK ---
+Cinta com um belo
+brilho metálico. Sua mobilidade
+vem do estudo.
+--- BLOCK ---
+Protetor de Coxa de
+ossos negros desconhecidos, talvez
+de um rei dragão.
+--- BLOCK ---
+Protetor de Coxa de
+ossos negros desconhecidos.
+Ressuscitados pelos deuses.
+--- BLOCK ---
+Cinta muito funcional.
+Às vezes envolve
+os ombros.
+--- BLOCK ---
+Cinta de Yukumo.
+Muito modificada
+para Atiradores.
+--- BLOCK ---
+Cinta de partes de
+insetos. Para um
+campeão dos insetos.
+--- BLOCK ---
+Protetor de Coxa de insetos.
+Nem o dente de
+wyvern voador a risca.
+--- BLOCK ---
+Cinta de partes de
+insetos. Nem o
+barro a mancha.
+--- BLOCK ---
+Cinta de partes de
+insetos. O orgulho
+de seu criador.
+--- BLOCK ---
+Cinta de calabouços.
+Um artesão tinha
+tempo livre...
+--- BLOCK ---
+Cinta de calabouços.
+Por trás parece
+um fantasma.
+--- BLOCK ---
+Protetor de Coxa, sinal do
+heroísmo de derrotar o
+Lagiacrus. Resiste a impactos.
+--- BLOCK ---
+Cinta para aqueles que
+matam um Lagiacrus. Um
+verdadeiro emblema de honra.
+--- BLOCK ---
+Protetor de Coxa de
+Lagiacrus marmóreo. Usou-se
+Conchas de Choque.
+--- BLOCK ---
+Protetor de Coxa de
+Lagiacrus marmóreo. Tem
+espaços para munição.
+--- BLOCK ---
+Cinta carmesim impregnada de
+vitória. Dá um apelo
+como de wyvern.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Rathalos. Parece
+uma chama tremeluzente.
+--- BLOCK ---
+Cinta que evoca o
+rei dos céus. Poder
+de chama e vento.
+--- BLOCK ---
+Protetor de Coxa do
+wyvern rei. Rejeita ataques
+físicos e elementais.
+--- BLOCK ---
+Cinta feita de Barioth.
+Emana o espírito do
+cavaleiro da tundra.
+--- BLOCK ---
+Cinta feita de Barioth.
+Prova ter matado o
+cavaleiro da tundra.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Barioth arenoso.
+Do cavaleiro do deserto.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Barioth arenoso.
+Do cavaleiro do deserto.
+--- BLOCK ---
+Protetor de Coxa de partes
+de Diablos. Defesa para
+quem venceu o tirano.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Diablos. Os
+ataques normais não funcionam.
+--- BLOCK ---
+Protetor de Coxa de partes
+de Diablos. Defesa para
+quem derrotou o tirano.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Diablos. Os
+ataques normais não funcionam.
+--- BLOCK ---
+Protetor de Coxa pesado
+de Uragaan. Suas placas
+protegem até o joelho.
+--- BLOCK ---
+Protetor de Coxa pesado
+feito de Uragaan.
+Proteção extremamente confiável.
+--- BLOCK ---
+Protetor de Coxa pesado
+de Uragaan acerado. Protege
+da cintura ao joelho.
+--- BLOCK ---
+Protetor de Coxa pesado
+com partes de Uragaan
+acerado. Muito confiável.
+--- BLOCK ---
+Protetor de Coxa feito
+de Agnaktor. Sua placa
+avermelhada extingue qualquer fogo.
+--- BLOCK ---
+Cinta de Agnaktor
+que incorpora designs
+da antiguidade.
+--- BLOCK ---
+Cinta de partes de
+Agnaktor glacial. Gela tudo
+ao seu redor.
+--- BLOCK ---
+Cinta de partes de
+Agnaktor glacial, com
+designs muito antigos.
+--- BLOCK ---
+Cinta com um emblema
+gigante. Deixa a visão
+vermelha de fúria total.
+--- BLOCK ---
+Cinta com escamas grossas.
+Pulsa como se
+ainda estivesse viva.
+--- BLOCK ---
+Cinta célebre por levar
+seu portador à glória.
+Difícil de ser vista.
+--- BLOCK ---
+Cinta célebre por dar
+glória ao portador.
+Mencionada em cantigas.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Uma obra-prima
+majestosa. Rejeita
+até wyverns.
+--- BLOCK ---
+Protetor de Coxa feito de
+partes de Jhen Mohran. Uma
+construção sólida de placas.
+--- BLOCK ---
+Protetor de Coxa superior de
+Jhen Mohran. Seu design emana
+uma aura de elegância.
+--- BLOCK ---
+Protetor de Coxa supremo de
+Jhen Mohran. Sua beleza
+esconde uma grande força.
+--- BLOCK ---
+Cinta abismal atrai-luz. Dizem
+que encurta a vida
+em troca de poder.
+--- BLOCK ---
+Cinta abismal atrai-luz. Imbuída
+com a invencível
+força de Alatreon.
+--- BLOCK ---
+Protetor de Coxa que
+combina a melhor manufatura
+com partes de Zinogre.
+--- BLOCK ---
+Protetor de Coxa que
+contém o poder do
+grande caçador Zinogre.
+--- BLOCK ---
+O Gremio a projetou
+para resistir a impactos
+e wyverns voadores.
+--- BLOCK ---
+Protetor de Coxa
+exoesquelético aprimorado. Ainda
+é um protótipo.
+--- BLOCK ---
+Cinta de concha
+de Duramboros. Concede
+grande força.
+--- BLOCK ---
+Cinta que cobre a
+cintura. Apenas um caçador
+é capaz de usá-la.
+--- BLOCK ---
+Cinta negra que evoca as
+asas de Nargacuga. O pelo
+tem uma aura mística.
+--- BLOCK ---
+Cinta escura. Até
+a sombra do
+portador parece sinistra.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinta com a força
+do Brachydios. Brilha
+pálida e escura.
+--- BLOCK ---
+Cinta com a
+força do Brachydios.
+Os Atiradores gostam.
+--- BLOCK ---
+Cinta para empregadas.
+Usá-la é uma
+honra para poucas.
+--- BLOCK ---
+Cinta para empregadas. Muitas
+buscam a posição
+apenas para usá-la.
+--- BLOCK ---
+Equipamento oficial para soldados
+de Loc Lac. Fino,
+leve e protetor.
+--- BLOCK ---
+Equipamento oficial para arqueiros
+de Loc Lac. Um
+design simples mas eficaz.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa de
+um raro mineral. Segue
+o contorno do corpo.
+--- BLOCK ---
+Protetor de Coxa de
+um raro metal. Busca
+facilitar os movimentos.
+--- BLOCK ---
+Protetor de Coxa criado
+para um aristocrata que
+gosta de colecionar raridades.
+--- BLOCK ---
+Protetor de Coxa com partes
+de insetos. Você será
+a alma do grupo.
+--- BLOCK ---
+Protetor de Coxa feito de
+partes de Rhenoplos. Para
+procurar água ou minerais.
+--- BLOCK ---
+Protetor de Coxa feito de
+partes de Rhenoplos, oferece ótima
+cobertura para as pernas.
+--- BLOCK ---
+Protetor de Coxa feito de partes
+de Jaggi. Um excelente uso
+para a pele de Jaggi.
+--- BLOCK ---
+Protetor de Coxa feito de
+partes de Jaggi. O
+design é bastante chamativo.
+--- BLOCK ---
+Cinta de Baggi. Use-a
+e o calor não
+te incomodará mais.
+--- BLOCK ---
+Cinta leve de
+Baggi. Emana uma
+qualidade ventosa.
+--- BLOCK ---
+Protetor de Coxa
+de caçador estrangeiro.
+Mantém a aparência.
+--- BLOCK ---
+Protetor de Coxa para
+armas à distância.
+Ideal para Atiradores.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Arzuros.
+Modesto e funcional.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Arzuros. O
+tapa-sexo é tradicional.
+--- BLOCK ---
+Protetor de Coxa único
+projetado para uso diário
+em climas frios.
+--- BLOCK ---
+Protetor de Coxa para
+regiões geladas. Usado como
+equipamento de caça.
+--- BLOCK ---
+Protetor de Coxa que
+reverencia o espírito do
+fogo, algo incomum.
+--- BLOCK ---
+Protetor de Coxa de
+concha de Volvidon,
+ideal para Atiradores.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Qurupeco. Sua
+cor protege do fogo.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Qurupeco. Suas
+penas são hipnóticas.
+--- BLOCK ---
+Protetor de Coxa de partes
+de Qurupeco carmesim. Sua
+cor protege do trovão.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Qurupeco carmesim.
+Suas penas são hipnóticas.
+--- BLOCK ---
+Protetor de Coxa de
+placa de Ludroth real.
+Oferece defesa flexível.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Ludroth real.
+Um design muito premiado.
+--- BLOCK ---
+Protetor de Coxa de
+placa de Ludroth purpúreo.
+Oferece defesa flexível.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Ludroth purpúreo.
+Um design muito premiado.
+--- BLOCK ---
+Protetor de Coxa de
+placa de Barroth. Feito
+com escamas muito duras.
+--- BLOCK ---
+Protetor de Coxa de
+placa de Barroth. Sólido,
+mas também flexível.
+--- BLOCK ---
+Protetor de Coxa de placa
+de Barroth esmeralda. As
+escamas são muito duras.
+--- BLOCK ---
+Protetor de Coxa de
+placa de Barroth esmeralda.
+Sólido, mas flexível.
+--- BLOCK ---
+Protetor de Coxa de pele
+de Gobul. Feito de barbatanas
+mais duras que metal.
+--- BLOCK ---
+Protetor de Coxa de pele
+de Gobul. Não aperta nem
+após uma grande refeição.
+--- BLOCK ---
+Protetor de Coxa de
+concha de Rathalos. Resistente,
+mas também leve.
+--- BLOCK ---
+Protetor de Coxa de
+concha de Rathalos. Sua
+cor evoca determinação.
+--- BLOCK ---
+Protetor de Coxa de
+concha de Rathalos celeste.
+Resistente, mas também leve.
+--- BLOCK ---
+Protetor de Coxa de
+concha de Rathalos celeste.
+Sua cor evoca determinação.
+--- BLOCK ---
+Protetor de Coxa
+dedicado ao sol
+prateado. Praticamente perfeito.
+--- BLOCK ---
+Protetor de Coxa tão
+brilhante que atrai a
+luz solar. Grande defesa.
+--- BLOCK ---
+Protetor de Coxa de
+partes de Rathian. Muito
+flexível, apesar de tudo.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Rathian. Pode
+armazenar itens do caçador.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Rathian rosa.
+Flexível e muito resistente.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Rathian rosa.
+Armazena itens do caçador.
+--- BLOCK ---
+Cinta da rainha
+dourada. Extremamente difícil
+de atravessar.
+--- BLOCK ---
+Cinta forjada com luz
+da lua dourada. Brilha
+o tempo todo.
+--- BLOCK ---
+Protetor de Coxa feito
+com osso de Lagiacrus.
+Utilizou-se Conchas de Descarga.
+--- BLOCK ---
+Protetor de Coxa feito
+com osso de Lagiacrus.
+Possui espaços para munição.
+--- BLOCK ---
+Cinta de Lagiacrus
+marmóreo. Utilizou-se Conchas
+de Descarga.
+--- BLOCK ---
+Cinta de Lagiacrus
+marmóreo. Possui espaços
+para munição.
+--- BLOCK ---
+Cinta de Lagiacrus
+do abismo. Resiste
+bem ao trovão.
+--- BLOCK ---
+Cinta de Lagiacrus
+do abismo. Permite
+movimentar-se na água.
+--- BLOCK ---
+Austera Protetor de Coxa
+de Gigginox. Aumenta o
+silêncio nos rituais.
+--- BLOCK ---
+Protetor de Coxa de
+Gigginox que permite
+carregar diversas ferramentas.
+--- BLOCK ---
+Austera Protetor de Coxa
+de Gigginox aterrador. Mais
+silêncio nos rituais.
+--- BLOCK ---
+Protetor de Coxa de
+Gigginox aterrador que
+carrega várias ferramentas.
+--- BLOCK ---
+Protetor de Coxa feito
+com partes de Barioth.
+Concede agilidade superior.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Barioth. Confere
+uma aura de dignidade.
+--- BLOCK ---
+Protetor de Coxa feito
+com partes de Barioth
+arenoso. Concede grande agilidade.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Barioth arenoso. Confere
+uma aura de dignidade.
+--- BLOCK ---
+Cinta de concha de
+Diablos. Resiste ao chifre
+do wyvern voador.
+--- BLOCK ---
+Cinta de concha
+de Diablos. Protege
+bem as costas.
+--- BLOCK ---
+Cinta de concha de Diablos
+negra. O chifre do
+wyvern não a risca.
+--- BLOCK ---
+Cinta de concha de
+Diablos negra. Protege
+bem as costas.
+--- BLOCK ---
+Cinta de concha
+rochosa de Uragaan.
+Protege áreas vitais.
+--- BLOCK ---
+Cinta de concha rochosa
+de Uragaan. E
+é bastante elegante!
+--- BLOCK ---
+Cinta de concha
+rochosa de Uragaan
+acerado. Boa proteção.
+--- BLOCK ---
+Cinta de concha rochosa
+de Uragaan acerado.
+E é elegante!
+--- BLOCK ---
+Cinta de lava de
+Agnaktor. A lava a
+torna muito resistente.
+--- BLOCK ---
+Cinta de lava
+de Agnaktor. Protege
+contra qualquer chama.
+--- BLOCK ---
+Cinta de gelo de
+Agnaktor. O gelo a
+torna muito resistente.
+--- BLOCK ---
+Cinta de gelo
+de Agnaktor. Protege
+contra todo frio.
+--- BLOCK ---
+Protetor de Coxa divino
+de Ceadeus, com sua
+força e flexibilidade.
+--- BLOCK ---
+Protetor de Coxa feito
+com partes de Ceadeus.
+Usá-lo aumenta o valor.
+--- BLOCK ---
+Cinta de Ceadeus com
+barba dourada. Requer
+muito pelo divino.
+--- BLOCK ---
+Cinta de Ceadeus com
+barba dourada. Protege contra
+água e gelo.
+--- BLOCK ---
+Cinta de concha
+de gigante das
+profundezas. Protege bem.
+--- BLOCK ---
+Cinta de concha
+de gigante das
+profundezas. Ventila bem.
+--- BLOCK ---
+Cinta de Ceadeus com
+barba dourada. Requer
+muito pelo divino.
+--- BLOCK ---
+Cinta de Ceadeus com
+barba dourada. Protege contra
+água e gelo.
+--- BLOCK ---
+Protetor de Coxa feito
+com partes de Jhen
+Mohran. Para guerreiros determinados.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Jhen Mohran.
+Protege até os joelhos.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Jhen Mohran.
+As cordas são vitais.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Jhen Mohran.
+Não dificulta os movimentos.
+--- BLOCK ---
+Cinta de Jhen Mohran
+sagrada. A inveja
+de todo caçador.
+--- BLOCK ---
+Cinta de Jhen
+Mohran sagrada. Apenas
+para os melhores.
+--- BLOCK ---
+Cinta de Jhen Mohran
+sagrada. A inveja
+de todo caçador.
+--- BLOCK ---
+Cinta de Jhen
+Mohran sagrada. Apenas
+para os melhores.
+--- BLOCK ---
+Cinta imbuida com a
+fúria de um Deviljho.
+As bestas menores fogem.
+--- BLOCK ---
+Cinta imbuida com a
+voracidade de um
+Deviljho. Design brutal.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Alatreon. Guarda o
+poder de um dragão.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de Alatreon. Guarda o
+poder de um dragão ancião.
+--- BLOCK ---
+Cinta de concha elétrica
+de Zinogre. Liberta
+o poder interior.
+--- BLOCK ---
+Cinta de concha elétrica
+de Zinogre. Sua
+aura é inquietante.
+--- BLOCK ---
+Cinta de Zinogre estigio.
+Feita com os
+membros da criatura.
+--- BLOCK ---
+Cinta de Zinogre estigio.
+Feita com membros
+bons para saltar.
+--- BLOCK ---
+Protetor de Coxa exoesquelético
+aprimorado contra golpes
+e wyverns voadores.
+--- BLOCK ---
+Modelo aprimorado de
+protetor de Coxa
+exoesquelético. O último.
+--- BLOCK ---
+Cinta feita com partes
+de Duramboros. Permite
+atacar com força.
+--- BLOCK ---
+Cinta feita com partes
+de Duramboros. Permite
+atacar com força.
+--- BLOCK ---
+Cinta de Duramboros ferrugento.
+Feita com o
+torso da criatura.
+--- BLOCK ---
+Cinta de Duramboros
+ferrugento. Pode
+pulverizar pedras.
+--- BLOCK ---
+Cinta negra evocando as
+asas de Nargacuga. O
+pelo tem aura mística.
+--- BLOCK ---
+Cinta escura. Até
+a sombra do
+portador parece sinistra.
+--- BLOCK ---
+Cinta evocando as asas
+do Nargacuga verdejante. O
+pelo tem aura mística.
+--- BLOCK ---
+Cinta escura. Até
+a sombra do
+portador parece sinistra.
+--- BLOCK ---
+Protetor de Coxa
+de Nargacuga lunar.
+Permite movimentar-se rapidamente.
+--- BLOCK ---
+Protetor de Coxa de
+Nargacuga lunar. Forjada sob
+a lua cheia.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cinta com a força
+do Brachydios. Brilha
+pálida e escura.
+--- BLOCK ---
+Cinta com a
+força do Brachydios.
+Os Atiradores gostam.
+--- BLOCK ---
+Protetor de Coxa de
+assassino de Miralis funesto,
+senhor do inferno.
+--- BLOCK ---
+Protetor de Coxa de
+assassino de Miralis funesto,
+senhor do inferno.
+--- BLOCK ---
+Armadura celeste famosa por levar
+seu portador à glória.
+Difícil de ser vista.
+--- BLOCK ---
+Armadura celeste famosa por
+trazer glória ao portador.
+Mencionada em canções.
+--- BLOCK ---
+Protetor de Coxa feito com
+ossos negros desconhecidos, talvez
+de um rei dragão.
+--- BLOCK ---
+Protetor de Coxa feito
+com ossos negros desconhecidos.
+Ressuscitados pelos deuses.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de insetos. Para
+um campeão dos insetos.
+--- BLOCK ---
+Protetor de Coxa de insetos.
+Nem o dente do
+wyvern voador a risca.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de insetos. Nem
+o barro a mancha.
+--- BLOCK ---
+Protetor de Coxa feito com
+partes de insetos. O
+orgulho de seu criador.
+--- BLOCK ---
+Cinta de abóbora.
+Um artesão tinha
+tempo livre...
+--- BLOCK ---
+Cinta de abóbora.
+Por trás parece
+um fantasma.
+--- BLOCK ---
+Cinta para empregadas. Muitas
+almejam o cargo
+para poder usá-la.
+--- BLOCK ---
+Cinta para empregadas.
+Portar é uma
+honra para poucos.
+--- BLOCK ---
+Equipamento oficial de rastreador
+Loc Lac. Fino e
+leve, mas protetor.
+--- BLOCK ---
+Equipamento oficial de atirador
+Loc Lac. Um design
+simples e eficaz.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Pouco
+usado por caçadores.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Usá-lo
+é uma grande honra.
+--- BLOCK ---
+Cinta usada por empregadas
+do Gremio. Faz
+parecer mais magra.
+--- BLOCK ---
+Cinta usada por empregadas
+do Gremio. Muito familiar
+para os caçadores.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Protetor de Coxa de
+empregada do Gremio de
+Tanzia. Com roupa íntima.
+--- BLOCK ---
+Protetor de Coxa do
+Gremio de Tanzia.
+Com saia curta.
+--- BLOCK ---
+Muslera pertencente a um sábio
+com poderes. Reflete o que
+está dentro de cada um.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

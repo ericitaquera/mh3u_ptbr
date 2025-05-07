@@ -1,0 +1,246 @@
+﻿DATA
+--- BLOCK [001] ---
+Conmoción de pociones
+--- BLOCK [002] ---
+Llamada a comer
+--- BLOCK [003] ---
+Patrulla de setas
+--- BLOCK [004] ---
+Salta el Jaggi
+--- BLOCK [005] ---
+Oportunidad del Pez dorado
+--- BLOCK [006] ---
+De excursión
+--- BLOCK [007] ---
+Sin amor para el Ludroth
+--- BLOCK [008] ---
+Cazando bichos
+--- BLOCK [009] ---
+El recado de mi señor
+--- BLOCK [010] ---
+Jugando con fuego
+--- BLOCK [011] ---
+Arregla nuestro barco
+--- BLOCK [012] ---
+Rugido de Wroggi
+--- BLOCK [013] ---
+Alborotador tóxico
+--- BLOCK [014] ---
+Liderar el ataque
+--- BLOCK [015] ---
+¡Furia de Rhenoplos!
+--- BLOCK [016] ---
+Escena del crimen
+--- BLOCK [017] ---
+Líder de la manada del hielo
+--- BLOCK [018] ---
+El trineo atascado
+--- BLOCK [019] ---
+Demasiado azul
+--- BLOCK [020] ---
+La dragona
+--- BLOCK [021] ---
+La ponzoña sigilosa
+--- BLOCK [022] ---
+El demonio del pescador
+--- BLOCK [023] ---
+Con mucha marcha
+--- BLOCK [024] ---
+Pisada de Uroktor
+--- BLOCK [025] ---
+Caen las defensas
+--- BLOCK [026] ---
+El glotón del desierto
+--- BLOCK [027] ---
+Wyvern cornudo
+--- BLOCK [028] ---
+La furia del volcán
+--- BLOCK [029] ---
+Morador de la lava
+--- BLOCK [030] ---
+La ira de Rathalos
+--- BLOCK [031] ---
+El cuento de un bardo
+--- BLOCK [032] ---
+Acoso al Bullfango
+--- BLOCK [033] ---
+Rugido de Wroggi
+--- BLOCK [034] ---
+Alborotador tóxico
+--- BLOCK [035] ---
+Salta el Jaggi
+--- BLOCK [036] ---
+De excursión
+--- BLOCK [037] ---
+Cazamiel
+--- BLOCK [038] ---
+Manías de Arzuros
+--- BLOCK [039] ---
+Cazando bichos
+--- BLOCK [040] ---
+Jugando con fuego
+--- BLOCK [041] ---
+Flor de un día
+--- BLOCK [042] ---
+Control de plagas
+--- BLOCK [043] ---
+El cuento del pescador
+--- BLOCK [044] ---
+Operación Control del veneno
+--- BLOCK [045] ---
+¡Furia de Rhenoplos!
+--- BLOCK [046] ---
+Liderar el ataque
+--- BLOCK [047] ---
+Ira de Rathian
+--- BLOCK [048] ---
+Reina rosa de las cumbres
+--- BLOCK [049] ---
+El trineo atascado
+--- BLOCK [050] ---
+Investigación del accidente
+--- BLOCK [051] ---
+Salpicón doloroso
+--- BLOCK [052] ---
+Demasiado azul
+--- BLOCK [053] ---
+Líder de la manada del hielo
+--- BLOCK [054] ---
+Con mucha marcha
+--- BLOCK [055] ---
+La ponzoña sigilosa
+--- BLOCK [056] ---
+Bolazos de nieve
+--- BLOCK [057] ---
+Acontecimiento impactante
+--- BLOCK [058] ---
+La ira de Rathalos
+--- BLOCK [059] ---
+Caen las defensas
+--- BLOCK [060] ---
+El glotón del desierto
+--- BLOCK [061] ---
+El demonio del pescador
+--- BLOCK [062] ---
+Wyvern cornudo
+--- BLOCK [063] ---
+La expedición perdida
+--- BLOCK [064] ---
+La furia del volcán
+--- BLOCK [065] ---
+Brachydios trae problemas
+--- BLOCK [066] ---
+Morador de la lava
+--- BLOCK [067] ---
+Pisada de Uroktor
+--- BLOCK [068] ---
+Ataque celeste
+--- BLOCK [069] ---
+Aullidos bajo la luna
+--- BLOCK [070] ---
+Locura a medianoche
+--- BLOCK [071] ---
+Pavor a las sombras
+--- BLOCK [072] ---
+Tormenta del desierto
+--- BLOCK [073] ---
+As bajo la manga
+--- BLOCK [074] ---
+Ecolocación
+--- BLOCK [075] ---
+Conquistador mundial
+--- BLOCK [076] ---
+Al fuego
+--- BLOCK [077] ---
+Salta el Jaggi
+--- BLOCK [078] ---
+De excursión
+--- BLOCK [079] ---
+Alborotador tóxico
+--- BLOCK [080] ---
+Cazando bichos
+--- BLOCK [081] ---
+El recado de mi señor
+--- BLOCK [082] ---
+El trineo atascado
+--- BLOCK [083] ---
+Jugando con fuego
+--- BLOCK [084] ---
+¡Furia de Rhenoplos!
+--- BLOCK [085] ---
+Flor de un día
+--- BLOCK [086] ---
+El cuento del pescador
+--- BLOCK [087] ---
+Reino de color púrpura
+--- BLOCK [088] ---
+Liderar el ataque
+--- BLOCK [089] ---
+Bolazos de nieve
+--- BLOCK [090] ---
+Control de plagas
+--- BLOCK [091] ---
+La misión del mercader
+--- BLOCK [092] ---
+La reina flor de cerezo
+--- BLOCK [093] ---
+Salpicón doloroso
+--- BLOCK [094] ---
+Con mucha marcha
+--- BLOCK [095] ---
+El glotón del desierto
+--- BLOCK [096] ---
+El destello verde
+--- BLOCK [097] ---
+Líder de la manada del hielo
+--- BLOCK [098] ---
+Investigación del accidente
+--- BLOCK [099] ---
+La ponzoña sigilosa
+--- BLOCK [100] ---
+Acontecimiento impactante
+--- BLOCK [101] ---
+El cuento de un bardo
+--- BLOCK [102] ---
+La montaña móvil
+--- BLOCK [103] ---
+Intereses personales
+--- BLOCK [104] ---
+Wyvern cornudo
+--- BLOCK [105] ---
+Locura a medianoche
+--- BLOCK [106] ---
+La ira de Rathalos
+--- BLOCK [107] ---
+Ataque celeste
+--- BLOCK [108] ---
+La furia del volcán
+--- BLOCK [109] ---
+As bajo la manga
+--- BLOCK [110] ---
+Pisada de Uroktor
+--- BLOCK [111] ---
+Morador de la lava
+--- BLOCK [112] ---
+Tormenta del desierto
+--- BLOCK [113] ---
+Ojos hambrientos
+--- BLOCK [114] ---
+Acecho nocturno
+--- BLOCK [115] ---
+Agotamiento por calor
+--- BLOCK [116] ---
+Ecolocación
+--- BLOCK [117] ---
+Derribar al Deviljho
+--- BLOCK [118] ---
+Cazador cazado
+--- BLOCK [119] ---
+Gran señor infernal
+--- BLOCK [120] ---
+El demonio del pescador
+--- BLOCK [121] ---
+Gobernante de dos reinos
+--- BLOCK [122] ---
+A cazar Brachydios
+--- BLOCK [123] ---

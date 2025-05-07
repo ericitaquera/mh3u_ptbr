@@ -1,0 +1,558 @@
+TMSG_SWORD_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Espada de uma mão, fácil
+de empunhar. Não muito poderosa,
+mas com combos potentes.
+--- BLOCK ---
+Espada de uma mão, fácil
+de empunhar. Não muito poderosa,
+mas possui combos potentes.
+--- BLOCK ---
+Espada feita de mineral de
+grande pureza que melhora sua
+força. Sua lâmina é curva.
+--- BLOCK ---
+Espada feita de mineral de
+grande pureza que melhora sua
+força. Sua lâmina é curva.
+--- BLOCK ---
+Espada de frio extremo. Sua
+lâmina perfura carapaças e congela
+de dentro para fora.
+--- BLOCK ---
+Espada de frio extremo. Sua
+lâmina perfura carapaças e congela
+de dentro para fora.
+--- BLOCK ---
+Feita de material de Barioth. Congela
+o fogo, a terra, a
+água e até o ar.
+--- BLOCK ---
+Espada cruel que envia tudo
+ao esquecimento. Dizem que subjugou
+os deuses do fogo.
+--- BLOCK ---
+Espada cruel que envia tudo
+ao esquecimento. Dizem que subjugou
+os deuses do fogo.
+--- BLOCK ---
+Espada que transforma magma
+em gelo. Congela
+a criação eternamente.
+--- BLOCK ---
+Espada que transforma magma
+em gelo. Congela
+a criação eternamente.
+--- BLOCK ---
+Espada com a habilidade do
+Barioth arenoso. Abre caminho
+em tempestades de terra.
+--- BLOCK ---
+Espada com a habilidade do
+Barioth arenoso. Abre caminho
+em tempestades de terra.
+--- BLOCK ---
+Espada com a habilidade do
+Barioth arenoso. Abre caminho
+em tempestades de terra.
+--- BLOCK ---
+Arma de cavaleiro real adaptada
+para a caça. Cuidado
+com a lâmina envenenada.
+--- BLOCK ---
+Arma de cavaleiro real adaptada
+para a caça. Cuidado
+com a lâmina envenenada.
+--- BLOCK ---
+Brutal espada imbuida de
+veneno. Corrompe e
+decompoem ao contato.
+--- BLOCK ---
+Espada negra sublime. Seu
+veneno anuncia morte.
+--- BLOCK ---
+Espada negra sublime. Seu
+veneno anuncia morte.
+--- BLOCK ---
+Espada de ébano, negra como
+a noite. A estranha textura
+da lâmina oculta sangue.
+--- BLOCK ---
+Espada de ébano, negra como
+a noite. A estranha textura
+da lâmina oculta sangue.
+--- BLOCK ---
+Terceira arma das quatro usadas
+por um famoso assassino. Bebe
+sangue de presas desavisadas.
+--- BLOCK ---
+Espada que brilha à luz
+da lua. Seu brilho por
+si só corta inimigos.
+--- BLOCK ---
+A terceira das Sete estrelas.
+Seu brilho acaba com a
+sombra e com a vida.
+--- BLOCK ---
+Espada leve feita de materiais
+de Jaggi. Fácil de
+usar e de encontrar.
+--- BLOCK ---
+Espada leve feita de materiais
+de Jaggi. Fácil de
+usar e de encontrar.
+--- BLOCK ---
+Muito fácil de usar. Feita
+de pele de Grande Jaggi.
+Melhora com o uso.
+--- BLOCK ---
+Muito fácil de usar. Feita
+de pele de Grande Jaggi.
+Melhora com o uso.
+--- BLOCK ---
+Muito fácil de usar. Feita
+de pele de Grande Jaggi.
+Melhora com o uso.
+--- BLOCK ---
+Espada feita de um chifre
+largo como o peito.
+Dilacera carne e osso.
+--- BLOCK ---
+Espada feita de um chifre
+largo como o peito.
+Dilacera carne e osso.
+--- BLOCK ---
+Espada feita de um chifre
+largo como o peito.
+Dilacera carne e osso.
+--- BLOCK ---
+Os caçadores preferem esta
+espada, que usa sedativos
+extraídos de um Baggi.
+--- BLOCK ---
+Os caçadores preferem esta
+espada, que usa sedativos
+extraídos de um Baggi.
+--- BLOCK ---
+A presa sucumbe a
+um sono tranquilo, seguido
+por um despertar violento.
+--- BLOCK ---
+Espada curva que causa
+sono. Envia o inimigo
+a um pesadelo eterno.
+--- BLOCK ---
+Espada curva que causa
+sono. Envia o inimigo
+a um pesadelo eterno.
+--- BLOCK ---
+Espada venenosa com um escudo
+único que absorve golpes com
+uma bolsa de gás.
+--- BLOCK ---
+Espada venenosa com um escudo
+único que absorve golpes com
+uma bolsa de gás.
+--- BLOCK ---
+Espada sofisticada com um escudo
+único que absorve golpes com
+uma bolsa de gás.
+--- BLOCK ---
+Feita com espinhos da
+cauda do Gobul. Contém
+uma forte toxina nervosa.
+--- BLOCK ---
+Feita com espinhos da
+cauda do Gobul. Contém
+uma forte toxina nervosa.
+--- BLOCK ---
+Feita com espinhos da
+cauda do Gobul. Contém
+uma forte toxina nervosa.
+--- BLOCK ---
+Feita com espinhos da
+cauda do Gobul. Contém
+uma forte toxina nervosa.
+--- BLOCK ---
+Espada colorida com um
+toque estrangeiro. Imobiliza e
+aniquila os inimigos.
+--- BLOCK ---
+Espada de cores vivas com
+um toque estrangeiro. Retém
+e aniquila os inimigos.
+--- BLOCK ---
+Espada com a força vital
+de um rei. Seus
+golpes traçam arcos elétricos.
+--- BLOCK ---
+Espada com a força vital
+de um rei. Seus
+golpes traçam arcos elétricos.
+--- BLOCK ---
+Espada com a força vital
+de um rei. Seus
+golpes traçam arcos elétricos.
+--- BLOCK ---
+Espada brilhante que anuncia
+o despertar do
+imperador do submundo.
+--- BLOCK ---
+Espada brilhante que anuncia
+o despertar do
+imperador do submundo.
+--- BLOCK ---
+Faca simples e prática de
+osso. O escudo também
+é usado para atacar.
+--- BLOCK ---
+Faca simples e prática de
+osso. O escudo também
+é usado para atacar.
+--- BLOCK ---
+Machado de mão. Feito de
+material de Qurupeco. Cópia
+de um machado ocidental.
+--- BLOCK ---
+Machado de mão. Feito de
+material de Qurupeco. Cópia
+de um machado ocidental.
+--- BLOCK ---
+Machado de mão. Feito de
+material de Qurupeco. Cópia
+de um machado ocidental.
+--- BLOCK ---
+Espada de lâmina candente
+envolta nas chamas ardentes
+de um wyvern.
+--- BLOCK ---
+Espada de lâmina candente
+envolta nas chamas ardentes
+de um wyvern.
+--- BLOCK ---
+Forma mais forte do
+Djinn, feita de materiais
+incendiários. Como o magma.
+--- BLOCK ---
+Espada coberta de poderosas
+chamas. Ataque baixo, mas
+grande potência de fogo.
+--- BLOCK ---
+Espada coberta de poderosas
+chamas. Ataque baixo, mas
+grande potência de fogo.
+--- BLOCK ---
+Espada de escamas douradas de wyvern.
+Uma arma similar repousa no
+túmulo de um antigo rei.
+--- BLOCK ---
+Espada de escamas douradas de wyvern.
+Uma arma similar repousa no
+túmulo de um antigo rei.
+--- BLOCK ---
+Machado de duplo fio,
+de lâmina afiada e
+envenenada. Muito letal.
+--- BLOCK ---
+Machado de duplo fio,
+de lâmina afiada e
+envenenada. Muito letal.
+--- BLOCK ---
+Machado de duplo fio,
+de lâmina afiada e
+envenenada. Muito letal.
+--- BLOCK ---
+Por sua lâmina flui o
+raio para multiplicar a dor.
+--- BLOCK ---
+Por sua lâmina flui o
+raio para multiplicar a dor.
+--- BLOCK ---
+Espada de lapislázuli com
+raio; seu portador se
+torna um furioso redemoinho.
+--- BLOCK ---
+Espada de lapislázuli com
+raio; seu portador se
+torna um furioso redemoinho.
+--- BLOCK ---
+Espada de lapislázuli com
+raio; seu portador se
+torna um furioso redemoinho.
+--- BLOCK ---
+Espada branca que parece
+um Lagiacrus marmóreo. Faz
+tremer os sete mares.
+--- BLOCK ---
+Espada branca que parece
+um Lagiacrus marmóreo. Faz
+tremer os sete mares.
+--- BLOCK ---
+Encarnação de um Lagiacrus
+do abismo. Seu trovão
+sacode os mares.
+--- BLOCK ---
+Encarnação de um Lagiacrus
+do abismo. Seu trovão
+sacode os mares.
+--- BLOCK ---
+Feita com pele
+de Ludroth. Parece
+estar pedindo melhorias.
+--- BLOCK ---
+Feita com materiais de
+Ludroth; seus jatos
+de água hipnotizam.
+--- BLOCK ---
+Feita com materiais de
+Ludroth; seus jatos
+de água hipnotizam.
+--- BLOCK ---
+Coberta por uma membrana
+aquosa. Usa a água
+para enfraquecer os monstros.
+--- BLOCK ---
+Espada muito absorvente feita
+de Ludroth púrpuro.
+Extingue qualquer chama.
+--- BLOCK ---
+Espada muito absorvente feita
+de Ludroth púrpuro.
+Extingue qualquer chama.
+--- BLOCK ---
+Espada muito absorvente feita
+de Ludroth púrpuro.
+Extingue qualquer chama.
+--- BLOCK ---
+Lúgubre espada, tipo porrete,
+feita de carapaça de
+Barroth. Quebra os ossos.
+--- BLOCK ---
+Lúgubre espada, tipo porrete,
+feita de carapaça de
+Barroth. Quebra os ossos.
+--- BLOCK ---
+A ultracondensação da carapaça de
+um monstro deu origem
+a este fio destrutivo.
+--- BLOCK ---
+Espada em forma de porrete com
+a fúria de um Diablos.
+O portador sente a besta.
+--- BLOCK ---
+Espada em forma de porrete com
+a fúria de um Diablos.
+O portador sente a besta.
+--- BLOCK ---
+Espada em forma de porrete com
+a fúria de um Diablos.
+O portador sente a besta.
+--- BLOCK ---
+Arma sem fio cujos golpes
+pesados causam mais dano do
+que a maioria das espadas.
+--- BLOCK ---
+Arma sem fio cujos golpes
+pesados causam mais dano do
+que a maioria das espadas.
+--- BLOCK ---
+Arma sem fio cujos golpes
+pesados causam mais dano do
+que a maioria das espadas.
+--- BLOCK ---
+Arma sem fio cujos golpes
+pesados causam mais dano do
+que a maioria das espadas.
+--- BLOCK ---
+Espada volátil feita de
+partes de Brachydios. Explode
+tudo o que toca.
+--- BLOCK ---
+Espada volátil feita de
+partes de Brachydios. Explode
+tudo o que toca.
+--- BLOCK ---
+Espada que incorpora a feroz
+ira da terra. Seu poder
+explosivo separa o céu.
+--- BLOCK ---
+Espada que incorpora a feroz
+ira da terra. Seu poder
+explosivo separa o céu.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. De
+design elegante e afiada.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. De
+design elegante e afiada.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. Frias
+lascas sobressaem na superfície.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. Frias
+lascas sobressaem na superfície.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. Frias
+lascas sobressaem na superfície.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. Sua
+lâmina esmeralda paralisa inimigos.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. Sua
+lâmina esmeralda paralisa inimigos.
+--- BLOCK ---
+Espada esculpida de partes
+de um Bnahabra. Sua
+lâmina esmeralda paralisa inimigos.
+--- BLOCK ---
+Espada em forma de machado
+de ossos de Qurupeco.
+Libera rápida eletricidade mortal.
+--- BLOCK ---
+Espada em forma de machado
+de ossos de Qurupeco.
+Libera rápida eletricidade mortal.
+--- BLOCK ---
+Espada e escudo que lembram
+a cabeça de um wyvern
+ao se unirem. Uau...
+--- BLOCK ---
+Espada e escudo que lembram
+a cabeça de um wyvern
+ao se unirem. Uau...
+--- BLOCK ---
+Espada de memórias antigas.
+O wyvern mostra os
+dentes afiados pelo tempo.
+--- BLOCK ---
+Espada de memórias antigas.
+O wyvern mostra os
+dentes afiados pelo tempo.
+--- BLOCK ---
+Espada de memórias antigas.
+O wyvern mostra os
+dentes afiados pelo tempo.
+--- BLOCK ---
+Feita com chifres de
+Ceadeus. Dizem que só
+um herói pode empunhá-la.
+--- BLOCK ---
+Símbolo do orgulho do
+Ceadeus. Derruba 10.000 com
+um único golpe.
+--- BLOCK ---
+Símbolo do orgulho do
+Ceadeus. Derruba 10.000 com
+um único golpe.
+--- BLOCK ---
+Encarnação de um Ceadeus
+barba dourada. Seus ataques
+dourados condenam ao silêncio.
+--- BLOCK ---
+Encarnação de um Ceadeus
+barba dourada. Seus ataques
+dourados condenam ao silêncio.
+--- BLOCK ---
+Espada oriental que aniquila
+inimigos, armaduras e tudo
+mais. Maravilhosamente afiada.
+--- BLOCK ---
+Espada lendária. Dizem que foi
+usada por um deus guerreiro
+e matou inimigos incontáveis.
+--- BLOCK ---
+Espada de colmillo de Jhen
+Mohran sagrado. O segredo de
+seu design é ancestral.
+--- BLOCK ---
+Espada de colmillo de Jhen
+Mohran sagrado. O segredo de
+seu design é ancestral.
+--- BLOCK ---
+Usada pelos caçadores estrangeiros.
+Notável por sua forma
+e cores estranhas.
+--- BLOCK ---
+Usada pelos caçadores estrangeiros.
+Notável por sua forma
+e cores estranhas.
+--- BLOCK ---
+Rara espada do estrangeiro.
+Parece que poderia ser
+combinada com seu escudo...
+--- BLOCK ---
+Fio curto com atributos de
+água que melhoram o Afiamento.
+O sangue se limpa sozinho.
+--- BLOCK ---
+Fio curto com atributos de
+água que melhoram o Afiamento.
+O sangue se limpa sozinho.
+--- BLOCK ---
+De potencial ignorado. Talvez
+possa ser aprimorada...
+--- BLOCK ---
+De potencial ignorado. Talvez
+possa ser aprimorada...
+--- BLOCK ---
+A Lâmina matadragões
+definitiva. Foi forjada
+em 108 dias.
+--- BLOCK ---
+A Lâmina matadragões
+definitiva. Foi forjada
+em 108 dias.
+--- BLOCK ---
+A Lâmina matadragões
+definitiva. Foi forjada
+em 108 dias.
+--- BLOCK ---
+De potencial ignorado. Talvez
+possa ser restaurada...
+--- BLOCK ---
+De potencial ignorado. Talvez
+possa ser restaurada...
+--- BLOCK ---
+Muito estranha. Dizem que em
+seu escudo polido é
+possível ver o futuro...
+--- BLOCK ---
+Muito estranha. Dizem que em
+seu escudo polido é
+possível ver o futuro...
+--- BLOCK ---
+De chifre de Alatreon. Dizem
+que seu portador pode
+ouvir uma voz misteriosa...
+--- BLOCK ---
+Espada cujo portador é
+atraído para a escuridão
+por uma voz fantasmagórica.
+--- BLOCK ---
+Espada cujo portador é
+atraído para a escuridão
+por uma voz fantasmagórica.
+--- BLOCK ---
+Esta poderosa espada trará
+salvação ou destruição? O
+fogo dará a resposta.
+--- BLOCK ---
+Esta poderosa espada trará
+salvação ou destruição? O
+fogo dará a resposta.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Lâmina trovão que se assemelha
+a uma serra. Com
+incríveis dentes, corta tudo.
+--- BLOCK ---

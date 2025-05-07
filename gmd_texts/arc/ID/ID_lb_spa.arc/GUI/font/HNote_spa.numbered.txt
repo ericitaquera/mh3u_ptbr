@@ -1,0 +1,3214 @@
+﻿MONSTER_LIST_EXP
+--- BLOCK [001] ---
+KNOWLEDGE_TOP_NAME
+--- BLOCK [002] ---
+KNOWLEDGE_LIST1
+--- BLOCK [003] ---
+KNOWLEDGE_LIST2
+--- BLOCK [004] ---
+KNOWLEDGE_LIST3
+--- BLOCK [005] ---
+TUTO_T02_F05
+--- BLOCK [006] ---
+TUTO_T02_F06
+--- BLOCK [007] ---
+TUTO_T02_F07
+--- BLOCK [008] ---
+TUTO_T00_F00_S00
+--- BLOCK [009] ---
+TUTO_T00_F00_S01
+--- BLOCK [010] ---
+TUTO_T00_F00_S02
+--- BLOCK [011] ---
+TUTO_T00_F00_S03
+--- BLOCK [012] ---
+TUTO_T00_F00_S04
+--- BLOCK [013] ---
+TUTO_T00_F00_S05
+--- BLOCK [014] ---
+TUTO_T00_F00_S06
+--- BLOCK [015] ---
+TUTO_T00_F00_S07
+--- BLOCK [016] ---
+TUTO_T00_F00_S08
+--- BLOCK [017] ---
+TUTO_T00_F00_S09
+--- BLOCK [018] ---
+TUTO_T00_F00_S10
+--- BLOCK [019] ---
+TUTO_T00_F00_S11
+--- BLOCK [020] ---
+TUTO_T00_F00_S12
+--- BLOCK [021] ---
+TUTO_T00_F00_S13
+--- BLOCK [022] ---
+TUTO_T00_F00_S14
+--- BLOCK [023] ---
+TUTO_T00_F01_S00
+--- BLOCK [024] ---
+TUTO_T00_F01_S01
+--- BLOCK [025] ---
+TUTO_T00_F01_S02
+--- BLOCK [026] ---
+TUTO_T00_F01_S03
+--- BLOCK [027] ---
+TUTO_T00_F01_S04
+--- BLOCK [028] ---
+TUTO_T00_F01_S05
+--- BLOCK [029] ---
+TUTO_T00_F01_S06
+--- BLOCK [030] ---
+TUTO_T00_F01_S07
+--- BLOCK [031] ---
+TUTO_T00_F01_S08
+--- BLOCK [032] ---
+TUTO_T00_F01_S09
+--- BLOCK [033] ---
+TUTO_T00_F01_S10
+--- BLOCK [034] ---
+TUTO_T00_F01_S11
+--- BLOCK [035] ---
+TUTO_T00_F01_S12
+--- BLOCK [036] ---
+TUTO_T01_F00_S00
+--- BLOCK [037] ---
+TUTO_T01_F00_S01
+--- BLOCK [038] ---
+TUTO_T01_F00_S02
+--- BLOCK [039] ---
+TUTO_T01_F00_S03
+--- BLOCK [040] ---
+TUTO_T01_F00_S04
+--- BLOCK [041] ---
+TUTO_T01_F00_S05
+--- BLOCK [042] ---
+TUTO_T01_F00_S06
+--- BLOCK [043] ---
+TUTO_T01_F00_S07
+--- BLOCK [044] ---
+TUTO_T01_F00_S08
+--- BLOCK [045] ---
+TUTO_T01_F00_S09
+--- BLOCK [046] ---
+TUTO_T01_F00_S10
+--- BLOCK [047] ---
+TUTO_T01_F01_S00
+--- BLOCK [048] ---
+TUTO_T01_F01_S01
+--- BLOCK [049] ---
+TUTO_T01_F01_S02
+--- BLOCK [050] ---
+TUTO_T01_F01_S03
+--- BLOCK [051] ---
+TUTO_T01_F01_S04
+--- BLOCK [052] ---
+TUTO_T01_F01_S05
+--- BLOCK [053] ---
+TUTO_T01_F01_S06
+--- BLOCK [054] ---
+TUTO_T01_F02_S00
+--- BLOCK [055] ---
+TUTO_T01_F02_S01
+--- BLOCK [056] ---
+TUTO_T01_F02_S02
+--- BLOCK [057] ---
+TUTO_T01_F02_S03
+--- BLOCK [058] ---
+TUTO_T01_F02_S04
+--- BLOCK [059] ---
+TUTO_T01_F02_S07
+--- BLOCK [060] ---
+TUTO_T01_F03_S00
+--- BLOCK [061] ---
+TUTO_T01_F03_S01
+--- BLOCK [062] ---
+TUTO_T01_F03_S02
+--- BLOCK [063] ---
+TUTO_T01_F03_S03
+--- BLOCK [064] ---
+TUTO_T01_F04_S00
+--- BLOCK [065] ---
+TUTO_T01_F04_S01
+--- BLOCK [066] ---
+TUTO_T01_F04_S02
+--- BLOCK [067] ---
+TUTO_T01_F04_S03
+--- BLOCK [068] ---
+TUTO_T01_F04_S04
+--- BLOCK [069] ---
+TUTO_T01_F04_S05
+--- BLOCK [070] ---
+TUTO_T01_F04_S06
+--- BLOCK [071] ---
+TUTO_T01_F04_S07
+--- BLOCK [072] ---
+TUTO_T01_F04_S08
+--- BLOCK [073] ---
+TUTO_T01_F04_S10
+--- BLOCK [074] ---
+TUTO_T01_F05_S00
+--- BLOCK [075] ---
+TUTO_T01_F05_S01
+--- BLOCK [076] ---
+TUTO_T01_F05_S02
+--- BLOCK [077] ---
+TUTO_T01_F05_S03
+--- BLOCK [078] ---
+TUTO_T01_F05_S04
+--- BLOCK [079] ---
+TUTO_T01_F05_S05
+--- BLOCK [080] ---
+TUTO_T02_F00_S00
+--- BLOCK [081] ---
+TUTO_T02_F00_S01
+--- BLOCK [082] ---
+TUTO_T02_F00_S02
+--- BLOCK [083] ---
+TUTO_T02_F01_S00
+--- BLOCK [084] ---
+TUTO_T02_F01_S01
+--- BLOCK [085] ---
+TUTO_T02_F01_S02
+--- BLOCK [086] ---
+TUTO_T02_F01_S03
+--- BLOCK [087] ---
+TUTO_T02_F01_S04
+--- BLOCK [088] ---
+TUTO_T02_F01_S05
+--- BLOCK [089] ---
+TUTO_T02_F01_S06
+--- BLOCK [090] ---
+TUTO_T02_F02_S00
+--- BLOCK [091] ---
+TUTO_T02_F02_S01
+--- BLOCK [092] ---
+TUTO_T02_F02_S02
+--- BLOCK [093] ---
+TUTO_T02_F02_S03
+--- BLOCK [094] ---
+TUTO_T02_F02_S04
+--- BLOCK [095] ---
+TUTO_T02_F02_S05
+--- BLOCK [096] ---
+TUTO_T02_F02_S06
+--- BLOCK [097] ---
+TUTO_T02_F02_S07
+--- BLOCK [098] ---
+TUTO_T02_F03_S00
+--- BLOCK [099] ---
+TUTO_T02_F03_S01
+--- BLOCK [100] ---
+TUTO_T02_F03_S02
+--- BLOCK [101] ---
+TUTO_T02_F03_S03
+--- BLOCK [102] ---
+TUTO_T02_F03_S04
+--- BLOCK [103] ---
+TUTO_T02_F03_S05
+--- BLOCK [104] ---
+TUTO_T02_F03_S06
+--- BLOCK [105] ---
+TUTO_T02_F03_S07
+--- BLOCK [106] ---
+TUTO_T02_F03_S08
+--- BLOCK [107] ---
+TUTO_T02_F03_S09
+--- BLOCK [108] ---
+TUTO_T02_F03_S10
+--- BLOCK [109] ---
+TUTO_T02_F03_S11
+--- BLOCK [110] ---
+TUTO_T02_F03_S12
+--- BLOCK [111] ---
+TUTO_T02_F03_S13
+--- BLOCK [112] ---
+TUTO_T02_F04_S00
+--- BLOCK [113] ---
+TUTO_T02_F04_S01
+--- BLOCK [114] ---
+TUTO_T02_F04_S02
+--- BLOCK [115] ---
+TUTO_T00_F02_S00_T00
+--- BLOCK [116] ---
+TUTO_T00_F02_S00_T01
+--- BLOCK [117] ---
+TUTO_T00_F02_S00_T02
+--- BLOCK [118] ---
+TUTO_T00_F02_S01_T00
+--- BLOCK [119] ---
+TUTO_T00_F02_S01_T01
+--- BLOCK [120] ---
+TUTO_T00_F02_S01_T02
+--- BLOCK [121] ---
+TUTO_T00_F02_S01_T03
+--- BLOCK [122] ---
+TUTO_T00_F02_S01_T04
+--- BLOCK [123] ---
+TUTO_T00_F02_S01_T05
+--- BLOCK [124] ---
+TUTO_T00_F02_S01_T06
+--- BLOCK [125] ---
+TUTO_T00_F02_S02_T00
+--- BLOCK [126] ---
+TUTO_T00_F02_S02_T01
+--- BLOCK [127] ---
+TUTO_T00_F02_S02_T02
+--- BLOCK [128] ---
+TUTO_T00_F02_S02_T03
+--- BLOCK [129] ---
+TUTO_T00_F02_S02_T04
+--- BLOCK [130] ---
+TUTO_T00_F02_S02_T05
+--- BLOCK [131] ---
+TUTO_T00_F02_S02_T06
+--- BLOCK [132] ---
+TUTO_T00_F02_S03_T00
+--- BLOCK [133] ---
+TUTO_T00_F02_S03_T01
+--- BLOCK [134] ---
+TUTO_T00_F02_S03_T02
+--- BLOCK [135] ---
+TUTO_T00_F02_S03_T03
+--- BLOCK [136] ---
+TUTO_T00_F02_S04_T00
+--- BLOCK [137] ---
+TUTO_T00_F02_S04_T01
+--- BLOCK [138] ---
+TUTO_T00_F02_S04_T02
+--- BLOCK [139] ---
+TUTO_T00_F02_S04_T03
+--- BLOCK [140] ---
+TUTO_T00_F02_S04_T04
+--- BLOCK [141] ---
+TUTO_T00_F02_S04_T05
+--- BLOCK [142] ---
+TUTO_T00_F02_S04_T06
+--- BLOCK [143] ---
+TUTO_T00_F02_S04_T07
+--- BLOCK [144] ---
+TUTO_T00_F02_S04_T08
+--- BLOCK [145] ---
+TUTO_T00_F02_S04_T09
+--- BLOCK [146] ---
+TUTO_T00_F02_S04_T10
+--- BLOCK [147] ---
+TUTO_T00_F02_S04_T11
+--- BLOCK [148] ---
+TUTO_T00_F02_S04_T12
+--- BLOCK [149] ---
+TUTO_T00_F02_S05_T00
+--- BLOCK [150] ---
+TUTO_T00_F02_S05_T01
+--- BLOCK [151] ---
+TUTO_T00_F02_S05_T02
+--- BLOCK [152] ---
+TUTO_T00_F02_S05_T03
+--- BLOCK [153] ---
+TUTO_T00_F02_S05_T04
+--- BLOCK [154] ---
+TUTO_T00_F02_S05_T05
+--- BLOCK [155] ---
+TUTO_T00_F02_S05_T06
+--- BLOCK [156] ---
+TUTO_T00_F02_S06_T00
+--- BLOCK [157] ---
+TUTO_T00_F02_S06_T01
+--- BLOCK [158] ---
+TUTO_T00_F02_S06_T02
+--- BLOCK [159] ---
+TUTO_T00_F02_S06_T03
+--- BLOCK [160] ---
+TUTO_T00_F02_S06_T04
+--- BLOCK [161] ---
+TUTO_T00_F02_S07_T00
+--- BLOCK [162] ---
+TUTO_T00_F02_S07_T01
+--- BLOCK [163] ---
+TUTO_T00_F02_S07_T02
+--- BLOCK [164] ---
+TUTO_T00_F02_S07_T03
+--- BLOCK [165] ---
+TUTO_T00_F02_S07_T04
+--- BLOCK [166] ---
+TUTO_T00_F02_S07_T05
+--- BLOCK [167] ---
+TUTO_T00_F02_S07_T06
+--- BLOCK [168] ---
+TUTO_T00_F02_S07_T07
+--- BLOCK [169] ---
+TUTO_T00_F02_S07_T08
+--- BLOCK [170] ---
+TUTO_T00_F02_S07_T09
+--- BLOCK [171] ---
+TUTO_T00_F02_S07_T10
+--- BLOCK [172] ---
+TUTO_T00_F02_S07_T11
+--- BLOCK [173] ---
+TUTO_T00_F02_S07_T12
+--- BLOCK [174] ---
+TUTO_T00_F02_S07_T13
+--- BLOCK [175] ---
+TUTO_T00_F02_S07_T15
+--- BLOCK [176] ---
+TUTO_T00_F02_S08_T00
+--- BLOCK [177] ---
+TUTO_T00_F02_S08_T01
+--- BLOCK [178] ---
+TUTO_T00_F02_S08_T02
+--- BLOCK [179] ---
+TUTO_T00_F02_S08_T03
+--- BLOCK [180] ---
+TUTO_T00_F02_S08_T04
+--- BLOCK [181] ---
+TUTO_T00_F02_S08_T05
+--- BLOCK [182] ---
+TUTO_T00_F02_S08_T06
+--- BLOCK [183] ---
+TUTO_T00_F02_S08_T07
+--- BLOCK [184] ---
+TUTO_T00_F02_S08_T08
+--- BLOCK [185] ---
+TUTO_T00_F02_S08_T09
+--- BLOCK [186] ---
+TUTO_T00_F02_S08_T10
+--- BLOCK [187] ---
+TUTO_T00_F02_S08_T11
+--- BLOCK [188] ---
+TUTO_T00_F02_S09_T00
+--- BLOCK [189] ---
+TUTO_T00_F02_S09_T01
+--- BLOCK [190] ---
+TUTO_T00_F02_S09_T02
+--- BLOCK [191] ---
+TUTO_T00_F02_S09_T03
+--- BLOCK [192] ---
+TUTO_T00_F02_S09_T04
+--- BLOCK [193] ---
+TUTO_T00_F02_S09_T05
+--- BLOCK [194] ---
+TUTO_T00_F02_S09_T06
+--- BLOCK [195] ---
+TUTO_T00_F02_S09_T07
+--- BLOCK [196] ---
+TUTO_T00_F02_S09_T08
+--- BLOCK [197] ---
+TUTO_T00_F02_S09_T09
+--- BLOCK [198] ---
+TUTO_T00_F02_S09_T10
+--- BLOCK [199] ---
+TUTO_T00_F02_S09_T11
+--- BLOCK [200] ---
+TUTO_T00_F02_S10_T00
+--- BLOCK [201] ---
+TUTO_T00_F02_S10_T01
+--- BLOCK [202] ---
+TUTO_T00_F02_S10_T02
+--- BLOCK [203] ---
+TUTO_T00_F02_S10_T03
+--- BLOCK [204] ---
+TUTO_T00_F02_S10_T04
+--- BLOCK [205] ---
+TUTO_T00_F02_S10_T05
+--- BLOCK [206] ---
+TUTO_T00_F02_S10_T06
+--- BLOCK [207] ---
+TUTO_T00_F02_S10_T07
+--- BLOCK [208] ---
+TUTO_T00_F02_S11_T00
+--- BLOCK [209] ---
+TUTO_T00_F02_S11_T01
+--- BLOCK [210] ---
+TUTO_T00_F02_S11_T02
+--- BLOCK [211] ---
+TUTO_T00_F02_S11_T03
+--- BLOCK [212] ---
+TUTO_T00_F02_S11_T04
+--- BLOCK [213] ---
+TUTO_T00_F02_S11_T05
+--- BLOCK [214] ---
+TUTO_T00_F02_S11_T06
+--- BLOCK [215] ---
+TUTO_T00_F02_S11_T07
+--- BLOCK [216] ---
+TUTO_T01_F02_S05_T00
+--- BLOCK [217] ---
+TUTO_T01_F02_S05_T01
+--- BLOCK [218] ---
+TUTO_T01_F02_S05_T02
+--- BLOCK [219] ---
+TUTO_T01_F02_S06_T00
+--- BLOCK [220] ---
+TUTO_T01_F02_S06_T01
+--- BLOCK [221] ---
+TUTO_T01_F02_S06_T02
+--- BLOCK [222] ---
+Herbívoros relativamente dóciles
+con crestas características.
+Forman grupos, crían comunalmente
+a los jóvenes y se han usado como
+animales de carga durante
+generaciones. Su carne es sabrosa.
+Muy cautos con monstruos grandes.
+--- BLOCK [223] ---
+Pequeños herbívoros famosos por
+ser amigables y las propiedades
+medicinales de sus cuernos.
+Para conseguir uno hay que
+aturdir al Kelbi con un golpe y
+cortarle el cuerno mientras viva.
+--- BLOCK [224] ---
+Herbívoros sumisos que habitan en
+el agua y subsisten con hierbas
+y musgo. Salen a menudo a la
+superficie a tomar el sol. Son muy
+tímidos; les entra pánico ante el
+peligro y se ponen a nadar sin
+control.
+--- BLOCK [225] ---
+Herbívoros que forman grupos. De
+pelaje abundante para soportar el
+frío. Son dóciles, pero usan con
+valor sus grandes colmillos al
+defender a sus crías. Su carne es
+muy nutritiva; la lengua de Popo
+se considera un manjar.
+--- BLOCK [226] ---
+Insectos voladores que habitan en
+entornos distintos. Atacan con
+veneno paralizante y ponen huevos
+en la carroña con un fluido que
+acelera la descomposición. Como se
+destruyen rápido, el veneno es
+ideal para recolectar sus partes.
+--- BLOCK [227] ---
+Insectos que habitan en muchas
+zonas. Absorben fruta, setas y
+miel y las llevan al nido. Luego
+pueden recogerse estos materiales
+de sus abdómenes hinchados, cuyos
+colores están relacionados con la
+sustancia que llevan dentro.
+--- BLOCK [228] ---
+Criaturas bípedas parecidas a los
+gatos, conocidas por su pelo
+claro. Son dóciles, pero atacan
+fieramente si se los provoca. Muy
+curiosos. Algunos intentarán
+entrar en la sociedad humana. Les
+encanta el aroma de la Vid Felyne.
+--- BLOCK [229] ---
+Bípedos parecidos a los gatos, de
+característico pelo oscuro. Más
+curiosos que los Felyne. Son
+cleptómanos y se llevan lo que
+roban a sus guaridas. Se intoxican
+con la Vid Felyne y se les caen
+cosas al suelo.
+--- BLOCK [230] ---
+En esta categoría entran peces
+carnívoros (Sharq, Bagre),
+migratorios (Atún, Arrowana) y
+nadadores (Mólido, Perciforme).
+Suelen huir cuando los atacan, por
+lo que los cazadores prefieren
+usar arpones.
+--- BLOCK [231] ---
+Larva de wyvern muy fecunda que
+crece en entornos oscuros.
+Sobreviven chupándole la sangre a
+otros animales y convirtiéndola en
+toxinas. Si alguien es atacado por
+Giggi, deberá restregarse por
+el suelo para quitárselo.
+--- BLOCK [232] ---
+Wyverns pájaro carnívoros y muy
+sociables que viven en grandes
+grupos. Los Jaggi jóvenes cazan
+en grupo cuando atacan animales
+grandes y roban huevos de wyvern.
+Se cree que actúan a las órdenes
+de un único macho alfa.
+--- BLOCK [233] ---
+Jaggi hembras que viven en grupo.
+Se apiñan alrededor del nido para
+defenderlo y criar a los jóvenes.
+Menores que los machos adultos,
+pero mayores y más fuertes que los
+jóvenes. También actúan a
+las órdenes de un individuo alfa.
+--- BLOCK [234] ---
+Wyverns pájaro muy inteligentes y
+carnívoros que cazan en grupo. Sus
+escamas azules y su penetrante
+mirada son características.
+Secretan un fluido tranquilizante
+que neutraliza hasta a humanos
+durante varios segundos.
+--- BLOCK [235] ---
+Wyverns pájaro carnívoros con
+órganos productores de veneno que
+van de la boca a la garganta. Se
+mueven en manadas lideradas por
+un macho alfa. Los miembros
+inferiores son muy leales y darían
+la vida para proteger al líder.
+--- BLOCK [236] ---
+Monstruos acuáticos femeninos.
+Forman "harenes" alrededor de
+machos grandes: estos territorios
+son zonas de cría. Son muy
+agresivas con extraños. Se
+recomienda precaución.
+--- BLOCK [237] ---
+Leviathans que habitan en
+volcanes. Se alimentan de las
+presas de otros monstruos. Es raro
+que cacen ellos mismos. Cuando lo
+hacen atacan a la presa desde el
+suelo. Son muy agresivos.
+--- BLOCK [238] ---
+Monstruos carnívoros del desierto
+que viajan en grupos de cuatro.
+Cuando se acercan a monstruos
+grandes durante la caza, rodean
+a la presa en busca de comida. Su
+sensible oído los hace vulnerables
+a las Bombas sónicas.
+--- BLOCK [239] ---
+Herbívoros muy territoriales. Ven
+muy mal, pero su oído es agudo.
+Persiguen tenazmente cualquier
+objetivo que detecten.
+A menudo, chocan con rocas, quizá
+porque no les resulta fácil parar
+una vez han empezado a correr.
+--- BLOCK [240] ---
+Wyverns pájaro no voladores con
+vestigios de alas. Se los ve
+vagando por las Cumbres
+borrascosas, pero también se crían
+como ganado en Yukumo. Los Gargwa,
+bastante tímidos, ponen huevos
+cuando se asustan.
+--- BLOCK [241] ---
+Furiosos jabalíes que embisten a
+los cazadores nada más verlos.
+Fértiles y nómadas, se les
+ha visto formar en alguna ocasión
+enormes manadas. Su carne tiene
+un sabor único. 
+--- BLOCK [242] ---
+Herbívoros que habitan cerca del
+agua en el volcán y el Bosque
+inundado. Su pesada y flácida piel
+tiene nutrientes y es resistente
+al calor y el agua. Los machos son
+territoriales y se niegan a huir
+incluso de los wyverns invasores.
+--- BLOCK [243] ---
+Herbívoros que viven en climas
+fríos. Son dóciles, aunque atacan
+si se sienten amenazados. Su piel
+de gran calidad tiene muchos usos
+y sus cuernos son muy apreciados
+por el Gremio. Se puede conseguir
+uno si logras aturdirlo.
+--- BLOCK [244] ---
+Macho alfa de los grupos de Jaggi.
+La mayoría de los machos abandonan
+el grupo al hacerse adultos, y
+luego vuelven para competir con
+los otros. El macho dominante se
+convierte en un Gran Jaggi. Pueden
+dar órdenes complejas aullando.
+--- BLOCK [245] ---
+Wyverns carnívoros como los Jaggi.
+Tienen crestas craneales y piel
+blanca-azulada adaptada a la
+nieve. Ordenan a otros Baggi que
+rodeen a las presas y las aturden
+con un líquido tranquilizante.
+--- BLOCK [246] ---
+Wyverns pájaro que escupen una
+niebla venenosa. Los Wroggi viajan
+en bandadas lideradas por el más
+grande y tóxico de sus miembros.
+El veneno se produce en un órgano
+de su garganta. Si se destruye, su
+habilidad de escupir se perderá.
+--- BLOCK [247] ---
+Bestias que habitan en bosques y
+montañas, normalmente con humedad.
+Aunque se los conoce por pescar
+y permanecer erguidos para recoger
+miel, sus gruesas garras y duros
+antebrazos propinan fuertes
+golpes a sus enemigos.
+--- BLOCK [248] ---
+Bestias de colmillos con cálida
+piel y gruesas capas de grasa que
+les permiten sobrevivir en climas
+gélidos. Aunque son herbívoros,
+algunos Lagombi utilizan su oído y
+su habilidad de deslizarse sobre
+el hielo para atrapar presas.
+--- BLOCK [249] ---
+Bestias de colmillos con gruesos
+caparazones rojos resistentes a la
+lava. El cuerpo redondo es ideal
+para rodar en terrenos calientes
+y las largas lenguas les permiten
+capturar insectos. Su saliva tiene
+una peligrosa toxina paralizante.
+--- BLOCK [250] ---
+Wyverns pájaro de plumaje único.
+Se los conoce por usar sus órganos
+torácicos para imitar el sonido de
+otros monstruos. Los llaman; luego
+los distraen para huir. Escupe
+un peligroso fluido corporal que
+puede reducir las resistencias.
+--- BLOCK [251] ---
+Subespecie de Qurupeco con plumaje
+carmesí intenso y con su misma
+habilidad para imitar y bailar.
+El sílex de las alas les permite
+crear electricidad, que sirve para
+producir fuertes impactos o
+luz intensa.
+--- BLOCK [252] ---
+Normalmente se quedan bajo el
+barro, quizá para protegerse del
+calor; incluso arrojan barro para
+atacar. Cargan frenéticamente
+contra todo aquello que
+perturbe sus barrizales.
+--- BLOCK [253] ---
+Subespecie de Barroth que habita
+en climas más fríos. A falta de
+barro, se revisten con nieve y
+hielo, que pueden lanzar ante
+posibles amenazas. Se los conoce
+por golpear sus coronas contra el
+hielo y se alimentan de Bnahabra.
+--- BLOCK [254] ---
+Enormes wyverns brutos que comen
+minerales, usando sus poderosas
+mandíbulas para masticar rocas.
+Fijan piedras en su piel con lava
+y las sueltan con vibraciones
+para que exploten. Cuando mueren,
+los minerales se pueden extraer.
+--- BLOCK [255] ---
+Subespecie metálica de Uragaan con
+una dieta inusual que le permite
+crear un poderoso gas nocivo.
+El gas impregna las rocas de su
+cuerpo, que luego emiten humos
+tóxicos cuando se esparcen. Como
+los Uragaan, viaja rápido rodando.
+--- BLOCK [256] ---
+Wyverns brutos gigantes con cola
+en forma de martillo. Sobreviven
+de árboles caídos o marchitos.
+Suelen usar la cola para
+derribarlos. Dicen que los bultos
+de su lomo actúan como fuente
+de energía.
+--- BLOCK [257] ---
+Subespecie de Duramboros color
+óxido con una cola en forma de
+hacha. La cola es perfecta para
+vivir en el desierto, pues aparta
+la arena cada vez que se mueve.
+Pese al calor, permanecen activos
+durante largos periodos de tiempo.
+--- BLOCK [258] ---
+Wyverns hembra que escupen
+fuego. Las llaman "reinas de la
+tierra". Tienen patas muy potentes
+y colas que secretan veneno. Cazan
+sobre todo en tierra. A veces
+se las ha visto cazar en pareja.
+Cooperan bien con los Rathalos.
+--- BLOCK [259] ---
+Subespecie de Rathian con escamas
+rosa brillante. Las Rathian rosa
+blanden su cola tóxica mejor que
+las Rathian comunes y usan
+diferentes ataques para debilitar
+a la presa antes de matarla.
+--- BLOCK [260] ---
+Especie rara de Rathian con
+un hermoso cuerpo dorado que
+recuerda al sol. No se sabe
+mucho sobre sus costumbres
+ni fisiología, ni siquiera sobre
+la fuente de su brillo dorado.
+--- BLOCK [261] ---
+Wyverns terribles llamados "reyes
+de los cielos". Junto a las
+Rathian, ocupan amplios
+territorios centrados en sus
+nidos. Atacan desde el cielo
+con sus garras venenosas y su
+aliento de fuego.
+--- BLOCK [262] ---
+Subespecie de Rathalos color
+celeste. Más móviles que sus
+parientes cercanos, localizan a la
+presa en el aire y descienden en
+picado para matarla. Cuando fija
+un objetivo, ya poco puede hacer
+para escapar de sus garras.
+--- BLOCK [263] ---
+Especie rara de Rathalos con
+un hermoso cuerpo plateado que
+recuerda a la luna. No se sabe mucho
+sobre sus costumbres ni
+fisiología, ni siquiera sobre
+la fuente de su brillo plateado.
+--- BLOCK [264] ---
+Wyverns tiranos del desierto. Muy
+territoriales. Atacan a los
+invasores con furia ciega.
+Muy sensibles al sonido, quizá
+porque a menudo viajan bajo la
+arena. Se sabe que se
+alimentan de cactus.
+--- BLOCK [265] ---
+Estas Diablos de concha negra
+se consideran subespecie, pero
+en realidad son Diablos hembra
+en celo. Su color cambia como
+advertencia para el resto de
+criaturas, pues se vuelven muy
+agresivas en el periodo de celo.
+--- BLOCK [266] ---
+Wyverns que habitan en la tundra.
+Gigginox vive en la oscuridad, de
+ahí que su vista esté deteriorada.
+Detectan a las presas por su calor
+y las atacan con veneno. Al
+emocionarse, su color cambia y su
+cuerpo se endurece. Muy fértiles.
+--- BLOCK [267] ---
+Subespecie de Gigginox que utiliza
+electricidad para aturdir a la
+presa. Dicen que es una mutación,
+por eso su aspecto es raro. Se
+pueden debilitar sus poderes
+eléctricos si se destruyen los
+órganos capacitadores del cuerpo.
+--- BLOCK [268] ---
+Wyverns que reinan en la tundra
+helada. Usan sus enormes colmillos
+y sus pinchos para moverse
+libremente por el hielo, lo
+que hace muy difícil
+seguirles el ritmo.
+--- BLOCK [269] ---
+Subespecie de Barioth que vive en
+los Llanos arenosos. Tan fuerte es
+su respiración que crea tornados
+que usa para viajar rápido. Su
+caparazón amarillo está teñido de
+rojo y sus colmillos desprenden un
+brillo azul cuando están pulidos.
+--- BLOCK [270] ---
+Usan las escamas tipo esponja de
+su cuello para absorber agua
+y no quedarse secos en tierra.
+Cuando la esponja se seca,
+intentan volver al agua. También
+escupen mucosidad para hacer
+tropezar a sus presas. 
+--- BLOCK [271] ---
+Subespecie de Ludroth real con
+una melena púrpura que almacena
+y esparce una poderosa toxina.
+Humedecerse la melena los
+revitaliza, por eso prefieren
+vivir en zonas acuáticas.
+--- BLOCK [272] ---
+Tienen gran capacidad de camuflaje
+y potentes neurotoxinas. Nadan
+mal. Se ocultan para acechar a
+las presas imitando plantas.
+Pueden tragarse a los Epioth
+enteros. Les encantan las ranas.
+--- BLOCK [273] ---
+Leviathans que se han adaptado a
+las zonas arenosas. Se entierran
+en el desierto y localizan a las
+presas con el oído; engullen a la
+presa y la arena con sus fauces.
+Las agallas de su boca sirven
+para absorber nutrientes.
+--- BLOCK [274] ---
+Leviathans que están en lo alto
+de la cadena alimenticia acuática.
+Los marineros lo conocen como el
+señor de los mares. Almacena tanta
+electricidad en su dorsal como
+para enfurecer a los océanos.
+Se los ve en tierra descansando.
+--- BLOCK [275] ---
+Subespecie de Lagiacrus con bello
+caparazón marmóreo. Se mueve
+fenomenal por la tierra y
+sus embestidas y ataques en área
+son devastadores. Cuando se
+enfada, emite descargas eléctricas
+aterradoras.
+--- BLOCK [276] ---
+Especie rara de Lagiacrus conocida
+solo por un antiguo pergamino:
+   Desde el más profundo abismo,
+   al maestro de los mares atisbo.
+   Su sed de destrucción es feroz,
+   un diablo de los mares atroz.
+   Su visión provoca pavor.
+--- BLOCK [277] ---
+Conocido como el wyvern del pico
+de fuego, Agnaktor utiliza su gran
+pico y enorme fuerza para
+atravesar la roca. Su armadura
+reforzada con lava se reblandece
+cuando está bajo tierra o lo
+atacan con fuego o explosivos.
+--- BLOCK [278] ---
+Subespecie de Agnaktor que vive
+en la tundra y escupe fuertes
+chorros de agua. Su afilado pico
+le permite excavar en
+el permafrost y recubrirse con
+una capa de hielo. La armadura
+helada solo se funde con calor.
+--- BLOCK [279] ---
+Wyverns voladores que se han
+adaptado a vivir en zonas
+boscosas. Estas astutas bestias
+acechan a sus presas desde
+las sombras con gran velocidad y
+persistencia y sus enormes colas
+son tan hábiles como mortales. 
+--- BLOCK [280] ---
+Subespecie de Nargacuga de pelaje
+moteado que le permite confundirse
+con el follaje de zonas verdosas
+como el Bosque inundado o la Isla
+desierta. Controla su cola
+a la perfección. Se dice que
+sus púas son mortíferas.
+--- BLOCK [281] ---
+Especie rara de Nargacuga cuyas
+costumbres y hábitat son todo
+un misterio. La leyenda cuenta que
+aparece en las noches de niebla
+en un lugar recóndito, pero
+el Gremio aún no ha comprobado
+la veracidad de tal historia.
+--- BLOCK [282] ---
+Wyverns de colmillos cuyos
+cuerpos emanan electricidad. Las
+garras afiladas y fuertes miembros
+les permiten sobrevivir en
+montaña. Cuando cazan, reúnen
+bichos eléctricos en cantidad para
+aumentar al máximo su poder.
+--- BLOCK [283] ---
+Subespecie de Zinogre con cuerpo
+negro. Reúne bichos que comen
+semillas de dragón y utiliza la
+energía de dragón para aumentar
+su poder al máximo. Quizás es
+la razón por la que sobrevive a
+temperaturas extremas.
+--- BLOCK [284] ---
+Wyverns piscine con movimientos
+acuáticos veloces y variados, así
+como mortales ataques de embestida
+y de área. Los Plesioth se ponen
+nerviosos con los ruidos, así que
+hay que acercarse con cautela.
+Les encantan las ranas.
+--- BLOCK [285] ---
+Subespecie de Plesioth de escamas
+verde esmeralda. Aunque son de
+agua, también se manejan bien en
+tierra. Cuando se enfadan, salen a
+la superficie y lo arrasan todo.
+--- BLOCK [286] ---
+Wyverns brutos revestidos de una
+sustancia verdosa explosiva. Se
+cree que el material es un hongo
+mucoso único que se detona con
+la propia saliva del Brachydios.
+Estas inigualables criaturas
+también propinan fuertes patadas.
+--- BLOCK [287] ---
+Dragones ancianos legendarios
+llamados "gigantes brillantes de
+las profundidades" o "grandes
+dragones marinos". Su existencia
+se ha confirmado hace poco. Los
+terremotos de Moga los causó un
+Ceadeus golpeando los cuernos.
+--- BLOCK [288] ---
+Subespecie de Ceadeus muy rara que
+habita ruinas de las profundidades
+marinas. La luz dorada que
+desprende embellece a
+esta leyenda. Por desgracia, no se
+sabe mucho sobre su parentesco
+con los Ceadeus comunes.
+--- BLOCK [289] ---
+El temible y nómada Deviljho no
+tiene territorio. Si se le
+provoca, se le hinchan los
+músculos y revelan viejas heridas.
+Necesita alimento continuo por
+su alto calor corporal. Pueden
+extinguir a animales cercanos.
+--- BLOCK [290] ---
+Puede obtenerse un raro mineral
+del lomo de estos dragones; por
+ello se les considera símbolos de
+prosperidad. Tragan gran cantidad
+de material orgánico y siempre los
+rodean Delex carroñeros, que los
+pescadores usan para localizarlos.
+--- BLOCK [291] ---
+Subespecie de Jhen Mohran cuya
+apariencia se asemeja a la del
+cristal titilando en la oscuridad.
+Inspira tanto asombro y admiración
+que se rumorea que cazadores de
+todo el territorio vienen
+a observarlo. 
+--- BLOCK [292] ---
+Brillantes dragones negros que
+recuerdan tanto al rayo como a la
+oscuridad. Atacan implacables
+a cuanto toque sus afiladas
+escamas. Son inestables y sus
+acciones pueden afectar al clima.
+Son desastres naturales vivientes.
+--- BLOCK [293] ---
+Algunas leyendas cuentan que es
+el demonio que destruirá el mundo;
+otras lo consideran el gigante
+creador de todo. ¿Podrán
+los simples humanos sofocar
+su furia sin límites?
+--- BLOCK [294] ---
+Este fiero Deviljho ha entrado en
+frenesí por el hambre. Dicen que
+los han visto comerse monstruos
+mayores que ellos mismos.
+La retirada inmediata es la mejor
+opción para el cazador que se
+encuentre con esta temible bestia.
+--- BLOCK [295] ---
+Info. y controles
+--- BLOCK [296] ---
+Información jugador
+--- BLOCK [297] ---
+Consejos de cazador
+--- BLOCK [298] ---
+Datos en pantalla
+--- BLOCK [299] ---
+Controles básicos
+--- BLOCK [300] ---
+Guía de armas
+--- BLOCK [301] ---
+Información básica
+--- BLOCK [302] ---
+Arm. cuerpo a cuerpo
+--- BLOCK [303] ---
+Ballestas
+--- BLOCK [304] ---
+Arcos
+--- BLOCK [305] ---
+Armadura y Amuletos
+--- BLOCK [306] ---
+Habilidad. y adornos
+--- BLOCK [307] ---
+Iniciar misiones
+--- BLOCK [308] ---
+Realizar misiones
+--- BLOCK [309] ---
+Objetos de caza
+--- BLOCK [310] ---
+La aldea
+--- BLOCK [311] ---
+El puerto
+--- BLOCK [312] ---
+Búsqueda de cazador
+--- BLOCK [313] ---
+El gong del puerto
+--- BLOCK [314] ---
+StreetPass
+--- BLOCK [315] ---
+HARDUMMY
+--- BLOCK [316] ---
+Mapa en pantalla
+--- BLOCK [317] ---
+Salud y Resistencia
+--- BLOCK [318] ---
+Indicador de oxígeno
+--- BLOCK [319] ---
+Reloj
+--- BLOCK [320] ---
+Barra de objetos
+--- BLOCK [321] ---
+Iconos emergentes
+--- BLOCK [322] ---
+Icono de afilado
+--- BLOCK [323] ---
+Icono de munición
+--- BLOCK [324] ---
+Icono de estado
+--- BLOCK [325] ---
+Estado monstruo gr.
+--- BLOCK [326] ---
+Indicador espíritu
+--- BLOCK [327] ---
+Indicador de cambio
+--- BLOCK [328] ---
+Pentagrama
+--- BLOCK [329] ---
+Indic. revestimiento
+--- BLOCK [330] ---
+Indicador demoníaco
+--- BLOCK [331] ---
+Movimientos básicos
+--- BLOCK [332] ---
+Agacharse
+--- BLOCK [333] ---
+Andar con sigilo
+--- BLOCK [334] ---
+Movimiento acuático
+--- BLOCK [335] ---
+Bucear y flotar
+--- BLOCK [336] ---
+Salientes y vides
+--- BLOCK [337] ---
+Vista
+--- BLOCK [338] ---
+Usar objetos
+--- BLOCK [339] ---
+Evasión
+--- BLOCK [340] ---
+Recogida y minería
+--- BLOCK [341] ---
+Patadas
+--- BLOCK [342] ---
+Placajes
+--- BLOCK [343] ---
+Menú del juego
+--- BLOCK [344] ---
+Para empezar
+--- BLOCK [345] ---
+Gran espada
+--- BLOCK [346] ---
+Espada y escudo
+--- BLOCK [347] ---
+Martillo
+--- BLOCK [348] ---
+Lanza
+--- BLOCK [349] ---
+Ballesta
+--- BLOCK [350] ---
+Espada larga
+--- BLOCK [351] ---
+Hacha espada
+--- BLOCK [352] ---
+Lanza pistola
+--- BLOCK [353] ---
+Espada doble
+--- BLOCK [354] ---
+Flauta
+--- BLOCK [355] ---
+Arco
+--- BLOCK [356] ---
+Salud
+--- BLOCK [357] ---
+Resistencia
+--- BLOCK [358] ---
+Oxígeno
+--- BLOCK [359] ---
+Ataque
+--- BLOCK [360] ---
+Elementos
+--- BLOCK [361] ---
+Defensa
+--- BLOCK [362] ---
+Resistencias
+--- BLOCK [363] ---
+Afinidad
+--- BLOCK [364] ---
+Bonificación defensa
+--- BLOCK [365] ---
+Forjar
+--- BLOCK [366] ---
+Bolsa objetos
+--- BLOCK [367] ---
+Introducción
+--- BLOCK [368] ---
+Forjar
+--- BLOCK [369] ---
+Mejorar
+--- BLOCK [370] ---
+Elem./Est. anormales
+--- BLOCK [371] ---
+Afinidad
+--- BLOCK [372] ---
+Afilado
+--- BLOCK [373] ---
+Bonificación defensa
+--- BLOCK [374] ---
+Introducción
+--- BLOCK [375] ---
+Fuego rápido
+--- BLOCK [376] ---
+Disparo agachado
+--- BLOCK [377] ---
+Personalización
+--- BLOCK [378] ---
+Sin limitador
+--- BLOCK [379] ---
+Retroceso
+--- BLOCK [380] ---
+Desvío
+--- BLOCK [381] ---
+Recarga
+--- BLOCK [382] ---
+Introducción
+--- BLOCK [383] ---
+Revestimien. flechas
+--- BLOCK [384] ---
+Disparos con arco
+--- BLOCK [385] ---
+Elementos
+--- BLOCK [386] ---
+Amuletos
+--- BLOCK [387] ---
+Obtener Amuletos
+--- BLOCK [388] ---
+Armadura
+--- BLOCK [389] ---
+Mejorar
+--- BLOCK [390] ---
+Resistencia al fuego
+--- BLOCK [391] ---
+Resistencia al agua
+--- BLOCK [392] ---
+Resistencia al hielo
+--- BLOCK [393] ---
+Resistencia trueno
+--- BLOCK [394] ---
+Resistencia dragón
+--- BLOCK [395] ---
+Pigmentos armadura
+--- BLOCK [396] ---
+Habilidades
+--- BLOCK [397] ---
+Habilidades comida
+--- BLOCK [398] ---
+Ranuras y adornos
+--- BLOCK [399] ---
+Datos de habilidades
+--- BLOCK [400] ---
+Forjar adorno
+--- BLOCK [401] ---
+Gestionar adornos
+--- BLOCK [402] ---
+Nivel de misión
+--- BLOCK [403] ---
+Entorno de caza
+--- BLOCK [404] ---
+Cazas y capturas
+--- BLOCK [405] ---
+Combinación
+--- BLOCK [406] ---
+Barbacoa
+--- BLOCK [407] ---
+Pesca
+--- BLOCK [408] ---
+Zonas de recogida
+--- BLOCK [409] ---
+Campamento base
+--- BLOCK [410] ---
+Anciano Vegetal
+--- BLOCK [411] ---
+Transportador
+--- BLOCK [412] ---
+Bola de pintura
+--- BLOCK [413] ---
+Tram. escollo/choque
+--- BLOCK [414] ---
+Bomba de luz/sónica
+--- BLOCK [415] ---
+Oxígeno/Bomba boñiga
+--- BLOCK [416] ---
+Antorcha
+--- BLOCK [417] ---
+Tipos de bomba
+--- BLOCK [418] ---
+Tipos de bebida
+--- BLOCK [419] ---
+Otros objts. comunes
+--- BLOCK [420] ---
+Bosque de Moga
+--- BLOCK [421] ---
+Ecología de Moga
+--- BLOCK [422] ---
+Recursos
+--- BLOCK [423] ---
+Bienes
+--- BLOCK [424] ---
+Granja
+--- BLOCK [425] ---
+Flota de caza
+--- BLOCK [426] ---
+Argosy
+--- BLOCK [427] ---
+Cantina
+--- BLOCK [428] ---
+Cha-Cha
+--- BLOCK [429] ---
+Danzas de Cha-Cha
+--- BLOCK [430] ---
+Máscaras de Cha-Cha
+--- BLOCK [431] ---
+Habilid. de Cha-Cha
+--- BLOCK [432] ---
+Kayamba
+--- BLOCK [433] ---
+Cha-chi
+--- BLOCK [434] ---
+Iniciar misiones
+--- BLOCK [435] ---
+Unirse a misiones
+--- BLOCK [436] ---
+Arena
+--- BLOCK [437] ---
+Controles básicos
+--- BLOCK [438] ---
+Sacar armas
+--- BLOCK [439] ---
+Guardar armas
+--- BLOCK [440] ---
+Tajo desenfundadura
+--- BLOCK [441] ---
+Tajo descendente
+--- BLOCK [442] ---
+Tajo horizontal
+--- BLOCK [443] ---
+Tajo ascendente
+--- BLOCK [444] ---
+Tajo cargado
+--- BLOCK [445] ---
+Bloquear
+--- BLOCK [446] ---
+Ataque especial
+--- BLOCK [447] ---
+Tajo desenfundadura
+--- BLOCK [448] ---
+Hachazo
+--- BLOCK [449] ---
+Tajo lateral
+--- BLOCK [450] ---
+Ataque de escudo
+--- BLOCK [451] ---
+Tajo circular
+--- BLOCK [452] ---
+Tajo con salto
+--- BLOCK [453] ---
+Bloquear
+--- BLOCK [454] ---
+Tajo desenfundadura
+--- BLOCK [455] ---
+Golpe descendente
+--- BLOCK [456] ---
+Golpe lateral
+--- BLOCK [457] ---
+Golpe definitivo
+--- BLOCK [458] ---
+Tajo desenfundadura
+--- BLOCK [459] ---
+Lanzazo medio
+--- BLOCK [460] ---
+Lanzazo alto
+--- BLOCK [461] ---
+Tajo horizontal
+--- BLOCK [462] ---
+Ataque en carrera
+--- BLOCK [463] ---
+Remate
+--- BLOCK [464] ---
+Parada en seco
+--- BLOCK [465] ---
+Bloquear
+--- BLOCK [466] ---
+Contralanzazo
+--- BLOCK [467] ---
+Bloquear y avanzar
+--- BLOCK [468] ---
+Ataque de escudo
+--- BLOCK [469] ---
+Paso atrás
+--- BLOCK [470] ---
+Paso lateral
+--- BLOCK [471] ---
+Disparar
+--- BLOCK [472] ---
+Recarga
+--- BLOCK [473] ---
+Mira
+--- BLOCK [474] ---
+Mira rápida
+--- BLOCK [475] ---
+Cambiar de munición
+--- BLOCK [476] ---
+Cuerpo a cuerpo
+--- BLOCK [477] ---
+Disparo agachado
+--- BLOCK [478] ---
+Tajo desenfundadura
+--- BLOCK [479] ---
+Tajo en avance
+--- BLOCK [480] ---
+Estocada
+--- BLOCK [481] ---
+Tajo en retirada
+--- BLOCK [482] ---
+Espada Espiritual
+--- BLOCK [483] ---
+Tajo desenfundadura
+--- BLOCK [484] ---
+Hacha: Tajo descend.
+--- BLOCK [485] ---
+Hacha: Tajo lateral
+--- BLOCK [486] ---
+Hacha: Tajo ascend.
+--- BLOCK [487] ---
+Hacha: Frenesí
+--- BLOCK [488] ---
+Hacha: Tajo avance
+--- BLOCK [489] ---
+Hacha: Tajo mutante
+--- BLOCK [490] ---
+Mutación
+--- BLOCK [491] ---
+Espada: Tajo lateral
+--- BLOCK [492] ---
+Espada: Tajo mutante
+--- BLOCK [493] ---
+Espada: Tajo descen.
+--- BLOCK [494] ---
+Espada: Tajo ascend.
+--- BLOCK [495] ---
+Descarga elemental
+--- BLOCK [496] ---
+Recarga
+--- BLOCK [497] ---
+Paso lateral
+--- BLOCK [498] ---
+Tajo desenfundadura
+--- BLOCK [499] ---
+Envite hacia delante
+--- BLOCK [500] ---
+Bloquear
+--- BLOCK [501] ---
+Envite hacia arriba
+--- BLOCK [502] ---
+Tajo ascendente
+--- BLOCK [503] ---
+Paso atrás
+--- BLOCK [504] ---
+Paso lateral
+--- BLOCK [505] ---
+Disparo
+--- BLOCK [506] ---
+Recarga
+--- BLOCK [507] ---
+Golpe descendente
+--- BLOCK [508] ---
+Fuego reventón
+--- BLOCK [509] ---
+Fuego de wyvern
+--- BLOCK [510] ---
+Tajo desenfundadura
+--- BLOCK [511] ---
+Tajo doble
+--- BLOCK [512] ---
+Tajo mariposa
+--- BLOCK [513] ---
+Doble corte (D)
+--- BLOCK [514] ---
+Doble corte (I)
+--- BLOCK [515] ---
+Modo Demoníaco
+--- BLOCK [516] ---
+Tajo giratorio (D)
+--- BLOCK [517] ---
+Tajo giratorio (I)
+--- BLOCK [518] ---
+Tajo circular
+--- BLOCK [519] ---
+Danza de espadas
+--- BLOCK [520] ---
+Evasión demoníaca
+--- BLOCK [521] ---
+Modo Archidemoníaco
+--- BLOCK [522] ---
+Tajo desenfundadura
+--- BLOCK [523] ---
+Impacto descendente
+--- BLOCK [524] ---
+Blandir izquierda
+--- BLOCK [525] ---
+Blandir derecha
+--- BLOCK [526] ---
+Golpe hacia atrás
+--- BLOCK [527] ---
+Golpe total
+--- BLOCK [528] ---
+Golpe musical
+--- BLOCK [529] ---
+Gol. musical desenf.
+--- BLOCK [530] ---
+Atq. cuerpo a cuerpo
+--- BLOCK [531] ---
+Desenfundar
+--- BLOCK [532] ---
+Lanzar
+--- BLOCK [533] ---
+Apuntar
+--- BLOCK [534] ---
+Disparo con arco
+--- BLOCK [535] ---
+Cargar revestimiento
+--- BLOCK [536] ---
+Paso atrás
+--- BLOCK [537] ---
+Rodar hacia adelante
+--- BLOCK [538] ---
+Introducción
+--- BLOCK [539] ---
+Ballesta ligera
+--- BLOCK [540] ---
+Ballesta pesada
+--- BLOCK [541] ---
+Introducción
+--- BLOCK [542] ---
+Ballesta ligera
+--- BLOCK [543] ---
+Ballesta pesada
+--- BLOCK [544] ---
+Búsqueda de cazador te permite buscar
+jugadores cercanos que también estén
+jugando a Monster Hunter 3 Ultimate.
+--- BLOCK [545] ---
+Para acceder a Búsqueda de cazador,
+toca la pantalla táctil donde aparezcan
+las palabras "Búsqueda de cazador".
+--- BLOCK [546] ---
+HARDUMMY
+--- BLOCK [547] ---
+HARDUMMY
+--- BLOCK [548] ---
+En el puerto multijugador, pulsa
+el botón Y cerca del puesto de misión
+para hacer sonar el gong del puerto.
+--- BLOCK [549] ---
+Cuando suene el gong, tu estado será
+"Buscando compañeros" cuando otros
+te encuentren en la Búsqueda de cazador.
+--- BLOCK [550] ---
+¡Siempre que quieras embarcarte en
+una misión con los jugadores cercanos
+a ti, toca el gong!
+--- BLOCK [551] ---
+Si quieres anular este estado, pulsa
+el botón Y otra vez cuando estés cerca
+del puesto de misión.
+--- BLOCK [552] ---
+HARDUMMY
+--- BLOCK [553] ---
+HARDUMMY
+--- BLOCK [554] ---
+Con StreetPass, podrás intercambiar
+tarjetas del Gremio con cazadores que
+estén cerca al instante.
+--- BLOCK [555] ---
+Para activar StreetPass, dirígete a
+Puerto Tanzia y habla con el mensajero.
+--- BLOCK [556] ---
+Las tarjetas del Gremio que recibas
+mediante StreetPass, las encontrarás en
+el buzón de tarjetas del Gremio.
+--- BLOCK [557] ---
+La flecha roja en el mapa muestra tu
+posición actual, mientras que la casa
+blanca indica la del campamento base.
+--- BLOCK [558] ---
+Puedes usar el menú de juego en
+cualquier momento para acercar
+la vista del mapa...
+--- BLOCK [559] ---
+... o volver a alejarla para que se
+muestre entero. Como prefieras.
+--- BLOCK [560] ---
+La barra verde indica tu Salud.
+Si te quedas sin Salud, se acabó.
+Regresas al campamento base.
+--- BLOCK [561] ---
+La barra amarilla es la Resistencia;
+se agota con la actividad y usualmente
+se restablece de manera natural.
+--- BLOCK [562] ---
+La longitud de la barra de Resistencia
+puede reducirse con el tiempo. 
+Usa objetos para evitarlo.
+--- BLOCK [563] ---
+La barra azul vertical muestra tu nivel
+de Oxígeno. Se irá agotando cuando estés
+bajo el agua.
+--- BLOCK [564] ---
+Cuando te quedes sin Oxígeno y la barra
+parpadee en rojo, empezarás a perder
+Salud.
+--- BLOCK [565] ---
+¡Evítalo! Busca zonas de suministro de
+aire (indicadas con burbujas) o usa un
+Suministro de oxígeno.
+--- BLOCK [566] ---
+El reloj al lado del indicador de Salud
+muestra el tiempo restante del que
+dispones para completar la misión.
+--- BLOCK [567] ---
+La manecilla roja marca el límite.
+La blanca (tiempo actual) se mueve
+un paso cada cinco minutos.
+--- BLOCK [568] ---
+El tiempo exacto que queda puede verse
+eligiendo Información misión
+en el menú del juego.
+--- BLOCK [569] ---
+La barra de objetos que se muestra en
+la pantalla superior te ayudará a
+escoger los objetos que puedes utilizar.
+--- BLOCK [570] ---
+HARDUMMY
+--- BLOCK [571] ---
+A veces aparece un icono sobre la cabeza
+del personaje.
+--- BLOCK [572] ---
+El icono que veas dependerá de tu
+ubicación y circunstancias.
+--- BLOCK [573] ---
+Cuando ocurra, pulsa el botón A para
+realizar la acción relevante.
+--- BLOCK [574] ---
+Cuando tengas un arma de Espadachín,
+un icono en forma de espada aparecerá
+en la pantalla.
+--- BLOCK [575] ---
+Este icono indica el nivel de Afilado.
+Se embotará con el uso; el color y la
+apariencia del icono lo indicarán.
+--- BLOCK [576] ---
+Las armas romas causan menos daño:
+mantén afilada el arma usando una Piedra
+de afilar o una Mini piedra de afilar.
+--- BLOCK [577] ---
+Solo podrás cargar tantos disparos en
+tu Ballesta de una vez como se indiquen
+en el icono de munición de la pantalla.
+--- BLOCK [578] ---
+Cuando te quedes sin munición, verás la
+palabra RECARGAR. Para poder disparar
+de nuevo, tendrás que (¡sí!) recargar.
+--- BLOCK [579] ---
+A la derecha de tu nombre de cazador
+hay iconos que indican efectos
+de estado.
+--- BLOCK [580] ---
+Los efectos de estado varían mucho;
+pueden ser positivos o negativos.
+--- BLOCK [581] ---
+Atrae la atención de un monstruo
+grande y se pondrá en guardia; verás un
+ojo a la izquierda de tu nombre.
+--- BLOCK [582] ---
+Si muestras agresividad hacia el
+monstruo, podría entrar en modo ataque:
+el ojo se pondría rojo.
+--- BLOCK [583] ---
+Los monstruos grandes se cansarán tras
+mucha actividad violenta. Busca signos
+de fatiga, como babeo u otros.
+--- BLOCK [584] ---
+Esto es de gran ayuda para el cazador:
+es más probable que un monstruo cansado
+caiga en una trampa, por ejemplo.
+--- BLOCK [585] ---
+Indicador especial de la Espada larga.
+Se llena cuando atacas y se agota cuando
+usas ataques de Espada Espiritual.
+--- BLOCK [586] ---
+El tajo circular espiritual aumenta la
+potencia de ataque: el indicador
+va del blanco al amarillo y al rojo.
+--- BLOCK [587] ---
+Indicador especial de la Espada hacha.
+--- BLOCK [588] ---
+Se agota cuando atacas en modo Espada o
+ejecutas un ataque de Descarga
+elemental.
+--- BLOCK [589] ---
+Si se agota demasiado el indicador,
+verás la palabra RECARGA: deberás usar
+el modo Hacha hasta que se rellene.
+--- BLOCK [590] ---
+El pentagrama es solo para la Flauta.
+--- BLOCK [591] ---
+Cuando realizas ataques, el pentagrama
+se llena de notas de colores.
+--- BLOCK [592] ---
+Cada Flauta puede crear tres tipos de
+notas. El color de la nota cambia
+dependiendo del ataque.
+--- BLOCK [593] ---
+Diferentes combinaciones de notas
+provocarán distintos efectos melódicos.
+¡Pruébalos todos y a ver qué pasa!
+--- BLOCK [594] ---
+Este indicador es solo para el Arco.
+--- BLOCK [595] ---
+Si no tienes ningún revestimiento de
+flecha cargado, aparecerá lo siguiente: &<;---&>;.
+--- BLOCK [596] ---
+Una vez que cargues un revestimiento,
+el indicador te mostrará las dosis
+restantes.
+--- BLOCK [597] ---
+Este indicador es solo para la Espada
+doble. La barra aumentará si realizas
+ataques con éxito en el modo Demoníaco.
+--- BLOCK [598] ---
+Cuando el indicador esté hasta arriba,
+entrarás en el modo Archidemoníaco.
+--- BLOCK [599] ---
+En el modo Archidemoníaco, la velocidad
+de ataque aumenta y puedes usar Evasión
+demoníaca y Ráfaga demoníaca.
+--- BLOCK [600] ---
+El indicador demoníaco se reduce con el
+tiempo, o cuando usas dichos movimientos
+(a menos que estés en modo Demoníaco).
+--- BLOCK [601] ---
+Si tu indicador demoníaco se vacía,
+el modo Archidemoníaco finalizará y
+volverás a tu estado normal.
+--- BLOCK [602] ---
+Usa el botón deslizante para
+moverte.
+--- BLOCK [603] ---
+Mantén pulsado el botón R cuando
+te muevas para correr.
+--- BLOCK [604] ---
+HARDUMMY
+--- BLOCK [605] ---
+Pulsa el botón B para agacharte.
+--- BLOCK [606] ---
+Usa el botón deslizante cuando te
+agaches para moverte.
+--- BLOCK [607] ---
+HARDUMMY
+--- BLOCK [608] ---
+Mueve el botón deslizante ligeramente
+para andar despacio y con sigilo.
+--- BLOCK [609] ---
+HARDUMMY
+--- BLOCK [610] ---
+Con la cruz de control, selecciona la
+dirección hacia la que quieres nadar.
+Usa el botón deslizante para moverte.
+--- BLOCK [611] ---
+HARDUMMY
+--- BLOCK [612] ---
+Para emerger, mantén pulsado el botón B
+y mueve el botón deslizante hacia arriba
+cuando estés en el agua.
+--- BLOCK [613] ---
+Para sumergirte más, mantén pulsado
+el botón B y mueve el botón deslizante
+hacia abajo cuando estés en el agua.
+--- BLOCK [614] ---
+HARDUMMY
+--- BLOCK [615] ---
+HARDUMMY
+--- BLOCK [616] ---
+Para escalar por salientes y plantas,
+acércate y espera a que aparezca
+el icono. Luego pulsa el botón A.
+--- BLOCK [617] ---
+Usa la cruz de control para mirar
+a tu alrededor.
+--- BLOCK [618] ---
+Pulsa el botón L para cambiar la cámara
+y colocarla detrás del jugador.
+--- BLOCK [619] ---
+Mantén pulsado el botón L y pulsa
+el botón A o el botón Y para recorrer
+la lista de objetos.
+--- BLOCK [620] ---
+Para usar el objeto seleccionado, suelta
+el botón L y pulsa el botón Y.
+--- BLOCK [621] ---
+Pulsa el botón B al moverte con
+el botón deslizante para evadir.
+--- BLOCK [622] ---
+Algunos ataques pueden concluirse con
+esta maniobra para anular el ataque y
+evadir en su lugar.
+--- BLOCK [623] ---
+También puedes evadir de manera vertical
+bajo del agua tras atacar.
+--- BLOCK [624] ---
+Con la orientación tipo 2, el movimiento
+con el botón deslizante para evadir en
+vertical depende de hacia dónde mires.
+--- BLOCK [625] ---
+HARDUMMY
+--- BLOCK [626] ---
+HARDUMMY
+--- BLOCK [627] ---
+Para recoger o extraer materiales,
+guarda el arma y pulsa el botón A.
+--- BLOCK [628] ---
+Para dar una patada, toca el panel de
+Ataque especial en la pantalla táctil.
+--- BLOCK [629] ---
+También puedes usar la configuración
+"botón START" en Opciones para dar
+la patada con el botón START.
+--- BLOCK [630] ---
+HARDUMMY
+--- BLOCK [631] ---
+HARDUMMY
+--- BLOCK [632] ---
+Cuando estés bajo el agua, toca
+el panel de Ataque especial en
+la pantalla táctil para hacer placaje.
+--- BLOCK [633] ---
+HARDUMMY
+--- BLOCK [634] ---
+Pulsa START para abrir menú del juego.
+Usa la configuración del botón START
+para abrirlo desde la pantalla táctil.
+--- BLOCK [635] ---
+HARDUMMY
+--- BLOCK [636] ---
+Si te quedas sin Salud (barra verde de
+la parte superior), se acabó: volverás
+al campamento base.
+--- BLOCK [637] ---
+El indicador de Salud disminuye cuando
+los monstruos te dañan. Usa objetos de
+recuperación para restaurar Salud.
+--- BLOCK [638] ---
+Cuando te dañan, parte del indicador de
+Salud se pone rojo. Este daño temporal
+se cura automáticamente con el tiempo.
+--- BLOCK [639] ---
+También puedes usar objetos o comida
+para aumentar tu Salud máxima. ¡Prueba
+distintos objetos! 
+--- BLOCK [640] ---
+La barra amarilla es la Resistencia;
+se agota con la actividad y usualmente
+se restablece de manera natural.
+--- BLOCK [641] ---
+Si gastas demasiada Resistencia, irás
+más despacio y finalmente te detendrás
+del todo. ¡Ten cuidado!
+--- BLOCK [642] ---
+La longitud de la barra de Resistencia
+puede reducirse con el tiempo.
+Usa objetos para evitarlo.
+--- BLOCK [643] ---
+También puedes usar objetos para
+aumentar la Resistencia máxima.
+¡Prueba distintos objetos!
+--- BLOCK [644] ---
+La barra vertical a la izquierda de la
+pantalla es el Oxígeno, que se agotará
+cuando estés bajo el agua.
+--- BLOCK [645] ---
+Cuando te quedes sin Oxígeno y la barra
+parpadee en rojo, empezarás a perder
+Salud.
+--- BLOCK [646] ---
+¡Evítalo! Busca zonas de suministro de
+aire (indicadas con burbujas) o usa un
+Suministro de oxígeno.
+--- BLOCK [647] ---
+Los monstruos reciben daño en función de
+cómo sea tu Ataque. Cuanto mayor sea
+este valor, más daño causarás.
+--- BLOCK [648] ---
+El Ataque depende del arma que uses.
+Cuanto más fuerte sea el arma, mayor
+valor tendrá tu Ataque.
+--- BLOCK [649] ---
+Algunas armas están imbuidas del poder
+de distintos elementos.
+--- BLOCK [650] ---
+Hay cinco elementos: fuego, agua, hielo,
+trueno y dragón. Estos elementos afectan
+al daño que se causa a los monstruos.
+--- BLOCK [651] ---
+Por ejemplo, un arma con un elemento de
+fuego fuerte puede causar daño extra a
+monstruos débiles ante el fuego.
+--- BLOCK [652] ---
+Tu Defensa determina el daño que te
+causan los ataques de los monstruos.
+Cuanto más alta sea, mejor.
+--- BLOCK [653] ---
+La armadura tiene valores de Resistencia
+a fuego, agua, hielo, trueno y dragón.
+Cuanto mayor sea el valor, mejor.
+--- BLOCK [654] ---
+Por ejemplo, una Resistencia al fuego
+alta reduce la gravedad del daño por
+Plaga de fuego cuando ardes.
+--- BLOCK [655] ---
+Cuando tu Afinidad sea positiva, podrás
+realizar ataques muy dañinos en algunas
+ocasiones llamados golpes críticos.
+--- BLOCK [656] ---
+Cuando tu Afinidad sea negativa, puede
+que algún ataque realizado sea menos
+dañino de lo normal (ataques débiles).
+--- BLOCK [657] ---
+Si te equipas con ciertas armas puedes
+aumentar tu Defensa. ¡Experimenta a ver
+qué encuentras!
+--- BLOCK [658] ---
+Además de comprar armas y armaduras
+en la Armería, puedes forjarlas en
+la Herrería.
+--- BLOCK [659] ---
+Para forjar equipamiento, necesitarás
+materiales especiales y dinero.
+--- BLOCK [660] ---
+La Bolsa de objetos se usa para llevar
+objetos que compras o consigues
+durante las misiones.
+--- BLOCK [661] ---
+La bolsa del Artillero te da acceso a
+la Lista de munición, para que tengas
+tu munición y revestimientos ordenados.
+--- BLOCK [662] ---
+Cuando cambies de un tipo de cazador a
+otro, los objetos de la bolsa que ya no
+necesites irán a la Caja de objetos.
+--- BLOCK [663] ---
+Las armas cuerpo a cuerpo, como la Gran
+espada, el Martillo y la Lanza, se usan
+para atacar a los monstruos de cerca.
+--- BLOCK [664] ---
+Cuando llevas un arma de cuerpo a cuerpo
+solo puedes equiparte con armadura de
+Espadachín.
+--- BLOCK [665] ---
+La armadura de Espadachín tiene más
+valor de Defensa que la de Artillero.
+--- BLOCK [666] ---
+Además de comprarlas en la tienda de
+equipos, puedes forjar armas de cuerpo
+a cuerpo en la tienda de artesanía.
+--- BLOCK [667] ---
+Para forjar equipamiento, necesitarás
+materiales especiales y dinero.
+--- BLOCK [668] ---
+Mejora las armas cuerpo a cuerpo en la
+Herrería. Las armas mejoradas cambian
+de aspecto y de potencia de ataque.
+--- BLOCK [669] ---
+Como para forjar, necesitas materiales
+especiales y dinero para mejorar
+las armas.
+--- BLOCK [670] ---
+Armas cuerpo a cuerpo tienen elementos
+(fuego, agua, etc.) y ataques de estado
+anormal (veneno, parálisis, sueño).
+--- BLOCK [671] ---
+Los elementos ayudan a determinar el
+daño que causas; los efectos de estado
+anormal lo aumentan.
+--- BLOCK [672] ---
+Por ejemplo, un arma con un elemento de
+fuego fuerte puede causar daño extra a
+monstruos débiles ante el fuego.
+--- BLOCK [673] ---
+Y golpear repetidamente a un monstruo
+con un arma fuerte en veneno puede
+envenenarlo.
+--- BLOCK [674] ---
+Cuanto mayor sea tu Afinidad con un
+arma, más probabilidades tienes de
+dañar con "golpes críticos".
+--- BLOCK [675] ---
+Por otro lado, las armas con Afinidad
+negativa tienen más probabilidades de
+asestar "golpes débiles".
+--- BLOCK [676] ---
+Cuanto mayor sea el Afilado de un arma,
+mayor daño causará. El Afilado disminuye
+con el uso.
+--- BLOCK [677] ---
+Los monstruos repelerán más fácilmente
+las armas poco afiladas. Usa una Piedra
+o una Mini piedra de afilar.
+--- BLOCK [678] ---
+Hay distintos niveles de Afilado:
+Rojo >> Naranja >> Amarillo >> Verde.
+La potencia cambia según el color.
+--- BLOCK [679] ---
+Si te equipas con ciertas armas puedes
+aumentar tu Defensa. ¡Experimenta a ver
+qué encuentras!
+--- BLOCK [680] ---
+Las Ballestas son armas de largo alcance
+que infligen daño desde lejos. Hay dos
+tipos: pesadas y ligeras.
+--- BLOCK [681] ---
+Cuando lleves una Ballesta, usarás
+armadura de Artillero. Puedes atacar
+desde lejos, pero con menos Defensa.
+--- BLOCK [682] ---
+A diferencia de las armas de cuerpo a
+cuerpo, las Ballestas necesitan
+munición.
+--- BLOCK [683] ---
+Obtenla combinando objetos o comprando.
+Siempre tendrás munición de disparo
+normal de nivel 1 al empezar una misión.
+--- BLOCK [684] ---
+Algunas Ballestas ligeras pueden usar
+Fuego rápido con algunos tipos de
+munición.
+--- BLOCK [685] ---
+Fuego rápido permite realizar varios
+disparos con un solo cartucho de
+munición.
+--- BLOCK [686] ---
+Con las Ballestas pesadas, puedes
+disparar cierta munición al agacharte.
+Se conoce como Disparo agachado.
+--- BLOCK [687] ---
+Cuando usas Disparo agachado, se cargan
+muchos cartuchos de una vez, lo que te
+permite disparar sin cesar.
+--- BLOCK [688] ---
+Si estás en posición de Disparo agachado
+no podrás moverte ni evadir, y eso te
+vuelve vulnerable hasta que te levantes.
+--- BLOCK [689] ---
+A las Ballestas les afecta el Retroceso
+al dispararlas. Un Retroceso fuerte
+implica más tiempo muerto entre tiros.
+--- BLOCK [690] ---
+La intensidad del Retroceso de la
+Ballesta varía según la Ballesta que
+utilices.
+--- BLOCK [691] ---
+La precisión de la Ballesta depende
+de su Desviación.
+--- BLOCK [692] ---
+La magnitud y dirección de la Desviación
+de la Ballesta varía según la Ballesta
+que utilices.
+--- BLOCK [693] ---
+Cuanto mayor sea el índice de recarga
+de una Ballesta más rápido podrá
+recargarse la munición.
+--- BLOCK [694] ---
+Los tiempos de recarga de la Ballesta
+varían según la que utilices.
+--- BLOCK [695] ---
+Los Arcos son armas de largo alcance
+que infligen daño a distancia.
+--- BLOCK [696] ---
+Cuando uses un Arco, deberás llevar
+armadura de Artillero. Te permite atacar
+desde lejos, pero con menos Defensa.
+--- BLOCK [697] ---
+A diferencia de las Ballestas, los Arcos
+no tienen munición limitada.
+--- BLOCK [698] ---
+Los Arcos se equipan con unos frascos
+llamados Revestimientos que contienen un
+líquido usado para revestir las flechas.
+--- BLOCK [699] ---
+Los Revestimientos otorgan a las flechas
+efectos como más poder o la habilidad de
+infligir efectos de estado anormal.
+--- BLOCK [700] ---
+Los Arcos realizan Disparos con arco,
+que golpean a los enemigos con flechas
+especializadas.
+--- BLOCK [701] ---
+Hay tres tipos de Disparos con arco que
+varían en poder y alcance del ataque.
+--- BLOCK [702] ---
+Los Disparos con arco pueden debilitar
+la Resistencia de los monstruos.
+--- BLOCK [703] ---
+Algunos Arcos están imbuidos con
+el poder de distintos elementos (fuego,
+agua, hielo, trueno o dragón).
+--- BLOCK [704] ---
+El elemento de las armas influye en
+la cantidad de daño infligido sobre
+los monstruos.
+--- BLOCK [705] ---
+Por ejemplo, un arma con un elemento de
+fuego fuerte puede causar daño extra a
+monstruos débiles ante el fuego.
+--- BLOCK [706] ---
+Los Amuletos son objetos misteriosos
+y poderosos que se hacen usando artes
+olvidadas del pasado.
+--- BLOCK [707] ---
+Se equipan por separado de los
+cinco tipos de armadura, y conceden
+puntos de habilidad cuando se equipan.
+--- BLOCK [708] ---
+Las técnicas de forja de hoy en día no
+están lo bastante avanzadas para crear
+nuevos Amuletos partiendo de cero.
+--- BLOCK [709] ---
+Por ello, hay que conseguir Amuletos de
+otro modo, por ejemplo, extrayéndolos de
+minas o como recompensas de misión.
+--- BLOCK [710] ---
+Los Amuletos se tasan automáticamente
+cuando solicitas tu recompensa de misión
+y revelan su auténtico valor.
+--- BLOCK [711] ---
+La armadura eleva la Defensa y la
+Resistencia y puede otorgar habilidades
+especiales al portador.
+--- BLOCK [712] ---
+Hay tres clases de armadura:
+de Espadachín, de Artillero y
+una adecuada para los dos.
+--- BLOCK [713] ---
+Los Espadachines no pueden llevar la
+de Artillero y viceversa, pero pueden
+compartir la tercera clase.
+--- BLOCK [714] ---
+Puedes usar Esferas de armadura y dinero
+en la Herrería para mejorar las piezas y
+aumentar su Defensa.
+--- BLOCK [715] ---
+Las Esferas de armadura mejoran la
+Defensa de las piezas de armadura
+de modos distintos.
+--- BLOCK [716] ---
+Obtén Esferas de armadura extrayéndolas,
+como recompensas de misión
+o por otros medios...
+--- BLOCK [717] ---
+La armadura con Resistencia al fuego
+protege de los ataques de fuego de
+los monstruos.
+--- BLOCK [718] ---
+La alta Resistencia al fuego tiene sus
+ventajas.
+--- BLOCK [719] ---
+Por ejemplo, mitiga los efectos de la
+Plaga de fuego, que agota rápidamente
+la Salud.
+--- BLOCK [720] ---
+La armadura con Resistencia al agua
+protege de los ataques de agua de
+los monstruos.
+--- BLOCK [721] ---
+La alta Resistencia al agua tiene sus
+ventajas.
+--- BLOCK [722] ---
+Por ejemplo, mitiga los efectos de la
+Plaga de agua, que reduce la velocidad a
+la que recobras Resistencia.
+--- BLOCK [723] ---
+La armadura con Resistencia al hielo
+protege de los ataques de hielo de
+los monstruos.
+--- BLOCK [724] ---
+La alta Resistencia al hielo tiene
+sus ventajas.
+--- BLOCK [725] ---
+Por ejemplo, mitiga los efectos de
+Plaga de hielo, que aumenta el
+consumo de Resistencia.
+--- BLOCK [726] ---
+La armadura con Resistencia al trueno
+protege de los ataques de trueno de
+los monstruos.
+--- BLOCK [727] ---
+La alta Resistencia al trueno tiene sus
+ventajas.
+--- BLOCK [728] ---
+Por ejemplo, mitiga los efectos de la
+Plaga de trueno, que hace más fácil
+aturdirte.
+--- BLOCK [729] ---
+La armadura con Resistencia al dragón
+protege de los ataques de dragón de
+los monstruos.
+--- BLOCK [730] ---
+La alta Resistencia a dragón tiene sus
+ventajas.
+--- BLOCK [731] ---
+Por ejemplo, suaviza los efectos de
+Plaga de dragón, que anula
+propiedades elementales de las armas.
+--- BLOCK [732] ---
+Usa la Caja de objetos de tu casa para
+cambiar el color de algunas partes de
+tu armadura.
+--- BLOCK [733] ---
+Las Habilidades son ciertas capacidades
+que tienen los cazadores.
+--- BLOCK [734] ---
+Se activan cuando se asignan puntos de
+habilidad a la armadura y cuando tienes
+añadidos cierto número de Amuletos.
+--- BLOCK [735] ---
+Las habilidades de alimento son
+bonificaciones especiales que se
+consiguen por comer.
+--- BLOCK [736] ---
+Algunas te darán ventaja como cazador,
+mientras que otras harán que recoger y
+extraer sean más convenientes.
+--- BLOCK [737] ---
+Los adornos son joyas únicas que
+contienen puntos de habilidad.
+--- BLOCK [738] ---
+Las armas y las armaduras pueden tener
+uno o más espacios llamados "ranuras",
+donde pueden colocarse los adornos.
+--- BLOCK [739] ---
+El número de ranuras varía en función
+del equipamiento, y algunos adornos
+requieren más ranuras que otros.
+--- BLOCK [740] ---
+Las habilidades pueden tener efectos
+buenos o malos según si tus puntos de
+Habilidad son altos o bajos.
+--- BLOCK [741] ---
+Por ejemplo, el árbol de Salud aumenta
+tu Salud al máximo cuando está positivo
+o la reduce si está negativo.
+--- BLOCK [742] ---
+Los adornos pueden hacerse en la
+Herrería con dinero y materiales.
+--- BLOCK [743] ---
+Los adornos se pueden colocar o quitar
+en la Herrería o usando la Caja de
+objetos de tu casa.
+--- BLOCK [744] ---
+Los Gremios de la aldea y del puerto
+tienen muchas misiones para cazadores
+ambiciosos... pero no de inmediato.
+--- BLOCK [745] ---
+Primero debes completar las misiones
+disponibles para aumentar tu nivel de
+misión y así desbloquear más.
+--- BLOCK [746] ---
+Cuando comienzas una misión, échale
+un ojo al icono "PELIGRO". Significa
+que el entorno de caza es inestable.
+--- BLOCK [747] ---
+Los entornos estables son seguros, pero
+en los inestables puede haber grandes
+monstruos al acecho.
+--- BLOCK [748] ---
+Puedes derrotar a monstruos grandes que
+no se mencionen en la misión, pero
+no es necesario para cumplirla.
+--- BLOCK [749] ---
+Muchas misiones te enviarán a cazar
+o a capturar monstruos grandes.
+--- BLOCK [750] ---
+Las Cacerías son misiones en las que hay
+que matar a ciertos monstruos. Puedes
+aprovechar para cortarlos.
+--- BLOCK [751] ---
+En las Capturas hay que capturar un
+monstruo que primero hayas debilitado.
+Si lo logras, recibes una recompensa.
+--- BLOCK [752] ---
+La Combinación es el delicado arte de
+fundir dos objetos para hacer otro.
+--- BLOCK [753] ---
+Puedes combinar objetos desde
+el menú de juego o desde la Caja
+de objetos en tu casa.
+--- BLOCK [754] ---
+Los comandos de la Lista Combo te
+permiten elegir una receta de la lista y
+crear el objeto seleccionado.
+--- BLOCK [755] ---
+La Barbacoa es un arte de auténticos
+cazadores, y objetos como el Asador son
+tu lienzo y tu caballete.
+--- BLOCK [756] ---
+Dependiendo del tiempo que inviertas
+cocinando, te saldrá: Filete al punto,
+Filete poco hecho o Carne tostada.
+--- BLOCK [757] ---
+El elemento más esencial de la Barbacoa
+es la Carne cruda, que puede cortarse de
+los monstruos que caces.
+--- BLOCK [758] ---
+Puedes pescar en diferentes lugares
+salvajes usando señuelos o un cebo
+como los gusanos.
+--- BLOCK [759] ---
+Cuando te acerques a una zona de pesca
+donde haya peces, te aparecerá sobre la
+cabeza un icono.
+--- BLOCK [760] ---
+Cuando aparezca el icono emergente,
+pulsa el botón A para arrojar el señuelo
+o el botón Y para usar el cebo.
+--- BLOCK [761] ---
+Un señuelo te permite pescar muchas
+veces incluso si no dispones de cebo.
+--- BLOCK [762] ---
+¡Intenta coger uno grande! Espera a
+que el pez muerda el anzuelo y lo lleve
+abajo; luego enrolla el carrete.
+--- BLOCK [763] ---
+Las zonas de recogida aparecen al azar
+en el mapa y se reponen con el tiempo
+aunque las hayas agotado.
+--- BLOCK [764] ---
+A veces aparecen zonas de recogida poco
+comunes, con formas y colores distintos
+de los normales.
+--- BLOCK [765] ---
+Son difíciles de localizar, pero cuando
+las encuentras, puedes obtener
+objetos muy valiosos.
+--- BLOCK [766] ---
+En el campamento base descansas,
+coges objetos de la Caja de suministros
+y haces las entregas de misión.
+--- BLOCK [767] ---
+El Anciano Vegetal, esté donde esté,
+intercambiará objetos contigo o te dará
+algunos gratis.
+--- BLOCK [768] ---
+A los Ancianos Vegetales les encantan
+los objetos lucrativos como las Setas
+especiales o las Tripas de monstruo.
+--- BLOCK [769] ---
+Cuando cojas una roca grande o un Huevo
+de monstruo, entrarás en el
+modo Transportador.
+--- BLOCK [770] ---
+En el modo Transportador, usa las dos
+manos para llevar el objeto y no puedes
+hacer nada más que andar y correr.
+--- BLOCK [771] ---
+Si realizas otras acciones, caes desde
+una altura o agotas la Resistencia, se
+te caerá el objeto.
+--- BLOCK [772] ---
+Si te ataca un monstruo también
+perderás el objeto. ¡Así que cuidado!
+--- BLOCK [773] ---
+El modo Transportador se acaba cuando
+llevas el objeto a la Caja de entrega
+roja del campamento base.
+--- BLOCK [774] ---
+Golpear a monstruos con Bolas de
+pintura hará que se muestre su ubicación
+en el mapa.
+--- BLOCK [775] ---
+Si le das a un monstruo grande, su
+ubicación quedará a la vista en el mapa
+esté en la zona que esté.
+--- BLOCK [776] ---
+Los pequeños, en cambio, solo aparecerán
+en el mapa si están en la misma zona
+que tú.
+--- BLOCK [777] ---
+Las Trampas escollo y las Trampas choque
+pueden crearse combinando objetos.
+--- BLOCK [778] ---
+Se usan para entorpecer temporalmente
+el movimiento de monstruos grandes.
+--- BLOCK [779] ---
+Si se ha debilitado lo bastante a un
+monstruo grande, es posible capturarlo
+con una de ellas.
+--- BLOCK [780] ---
+Pueden lanzarse a un monstruo Bombas
+de luz para cegarlos temporalmente.
+--- BLOCK [781] ---
+Las Bombas sónicas pueden usarse para
+asustar a algunos monstruos o atraer
+a otros fuera de la tierra.
+--- BLOCK [782] ---
+Si estás nadando y te queda poco Oxígeno
+usa un Suministro de oxígeno para
+recobrarte.
+--- BLOCK [783] ---
+Golpear a un monstruo con una Bomba
+boñiga es un buen modo de hacerlo huir.
+--- BLOCK [784] ---
+Recuerda que los monstruos tienen
+índices de amenaza, y los menos
+amenazantes se irán antes.
+--- BLOCK [785] ---
+Las Antorchas se pueden utilizar para
+espantar a los monstruos a los que no
+les gusta el fuego.
+--- BLOCK [786] ---
+Mientras sujetas una Antorcha puedes
+recoger y extraer materiales.
+--- BLOCK [787] ---
+Se puede dañar a los monstruos con
+Bombas barril grandes y pequeñas. Las
+grandes hay que detonarlas.
+--- BLOCK [788] ---
+Las Bombas vid Felyne pueden usarse para
+distraer a objetivos Felyne y Melynx.
+--- BLOCK [789] ---
+En zonas calientes, te disminuirá
+gradualmente la Salud. Con Bebidas frías
+puedes contrarrestar este efecto.
+--- BLOCK [790] ---
+Disminuirá la Resistencia más rápido en
+zonas frías. Con Bebidas calientes
+contrarrestarás este efecto.
+--- BLOCK [791] ---
+Si te acercas a una zona de minería
+aparecerá un icono. Si tienes un Pico
+podrás extraer mineral.
+--- BLOCK [792] ---
+Si te acercas a una zona de Red de
+bichos, aparecerá un icono. Si tienes
+una Red de bichos podrás cazar.
+--- BLOCK [793] ---
+Para cortar materiales de los peces,
+necesitarás un Arpón. ¡Acércate a un pez
+y atácalo!
+--- BLOCK [794] ---
+El Bosque de Moga es una fuente de
+recursos para el pueblo, y el hábitat
+natural de monstruos.
+--- BLOCK [795] ---
+Los cazadores pueden entrar en este
+bosque cuando quieran para cazar
+monstruos o recoger materiales.
+--- BLOCK [796] ---
+A diferencia de las misiones, no hay
+límite de tiempo para explorar el
+Bosque de Moga.
+--- BLOCK [797] ---
+Si informas de la muerte de monstruos y
+recogida de materiales al hijo del Jefe
+logras puntos de Recursos.
+--- BLOCK [798] ---
+El Bosque de Moga es un hábitat
+cambiante lleno de flora y fauna
+únicas.
+--- BLOCK [799] ---
+En algunas partes del bosque hallarás
+monstruos enormes que te darán
+objetos pocos comunes.
+--- BLOCK [800] ---
+El hijo del Jefe es experto en estos
+cambios del bosque, y puede predecirlos
+con dos días de antelación.
+--- BLOCK [801] ---
+A medida que te desarrolles como cazador
+verás también cambiar el
+Bosque de Moga.
+--- BLOCK [802] ---
+Los materiales que recoge la población
+(peces, huesos, etc.) se llaman
+colectivamente Recursos.
+--- BLOCK [803] ---
+La gente del pueblo almacena estos
+Recursos para poder funcionar como
+comunidad autosuficiente.
+--- BLOCK [804] ---
+Si los cazadores informan de sus éxitos
+de caza y recogida al hijo del Jefe, se
+añaden a los Recursos del pueblo.
+--- BLOCK [805] ---
+A los Recursos almacenados se les dan
+usos en el pueblo, por ejemplo, para la
+granja o la Flota de caza.
+--- BLOCK [806] ---
+Los Bienes son objetos únicos de Moga
+que pueden recogerse u obtenerse
+cazando en el Bosque de Moga.
+--- BLOCK [807] ---
+Los Bienes pueden usarse como
+Recursos; también sirven para el trueque
+en el Argosy (barco mercante).
+--- BLOCK [808] ---
+Los de Moga no pueden derrotar a los
+monstruos del bosque, por lo que muchos
+Bienes están sin descubrir.
+--- BLOCK [809] ---
+La gente de Moga espera que tú, como
+cazador, puedas llevarles muchos objetos
+valiosos de los monstruos que caces.
+--- BLOCK [810] ---
+La granja abastece a los habitantes de
+Moga, pero si les traes objetos, también
+los plantarán.
+--- BLOCK [811] ---
+En función de los objetos que quieras
+plantar, el proceso te costará cierto
+número de puntos de Recursos.
+--- BLOCK [812] ---
+También puedes usar Fertilizante del
+Bosque de Moga o el Argosy para mejorar
+la cosecha.
+--- BLOCK [813] ---
+La Flota de caza apoya el floreciente
+comercio de pescado del pueblo, pero,
+ahora también quieren ayudarte.
+--- BLOCK [814] ---
+La duración de sus viajes y la cantidad
+de pescado dependerá de adónde
+envíes sus barcos.
+--- BLOCK [815] ---
+Los barcos pueden viajar a aguas remotas
+pero necesitan más Recursos
+para hacerlo.
+--- BLOCK [816] ---
+Hacer un uso apropiado de los Avíos
+puede facilitar los viajes y conseguir
+mejores capturas.
+--- BLOCK [817] ---
+Barco mercante que hace visitas
+periódicas con Artículos de tierras
+lejanas para canjear por Bienes.
+--- BLOCK [818] ---
+Puedes hacer dos tipos de canje
+en el Argosy: normal y raro. El
+último puede depararte tesoros.
+--- BLOCK [819] ---
+El capitán del barco también acepta
+peticiones. Pídele que vaya a ciertos
+lugares para traerte lo que necesites.
+--- BLOCK [820] ---
+En la Cantina puedes pedir comida,
+cambiar tus habilidades y adquirir
+útiles Habilidades de comida.
+--- BLOCK [821] ---
+Los efectos de la comida varían según
+los ingredientes y la preparación y te
+ayudan a recuperarte si caes en combate.
+--- BLOCK [822] ---
+Los efectos de la comida mejorarán a
+medida que aumentes el nivel de cada
+ingrediente.
+--- BLOCK [823] ---
+El nivel de los ingredientes se aumenta
+completando algunas misiones, hablando
+con algunos aldeanos, etc.
+--- BLOCK [824] ---
+A medida que Cha-Cha gana experiencia,
+aumentan su Nivel y su Valor.
+--- BLOCK [825] ---
+Con el Nivel aumentan sus estadísticas.
+También aprende nuevas habilidades.
+--- BLOCK [826] ---
+A medida que gane en Valor, tendrá menos
+miedo de los monstruos y aumentará
+su Resistencia.
+--- BLOCK [827] ---
+También puedes dar objetos a Cha-Cha.
+Dale carne (¡le encanta!) y su Nivel y
+Valor aumentarán más rápido.
+--- BLOCK [828] ---
+Los movimientos de Danza de Cha-Cha
+tienen muchos efectos: curar, potenciar
+tu fuerza, ¡y muchos otros!
+--- BLOCK [829] ---
+Con la Danza, Cha-Cha gasta Resistencia,
+pero no te preocupes: se regenera
+naturalmente con el tiempo.
+--- BLOCK [830] ---
+Cha-Cha lleva máscaras de caras. Al
+cambiarlas, también lo hacen su
+personalidad y habilidades.
+--- BLOCK [831] ---
+Cambiar la Máscara a Cha-Cha puede
+aumentarle la Fuerza o hacer que actúe
+de manera errática o inusual.
+--- BLOCK [832] ---
+Cha-Cha tiene muchas habilidades, que
+pueden asignarse a sus Máscaras.
+--- BLOCK [833] ---
+Cuando estés con Cha-Cha, podrás
+fortalecer a Kayamba aumentando su Nivel
+y su Maestría de máscara.
+--- BLOCK [834] ---
+Tanto Cha-Cha como Kayamba pueden llevar
+la mayoría de las Máscaras. Algunas solo
+las puede llevar uno de los dos.
+--- BLOCK [835] ---
+Cuando te llevas a Cha-Cha y Kayamba
+juntos de misión, su nivel de Cha-chi
+aumentará.
+--- BLOCK [836] ---
+A medida que aumenta el nivel de Cha-chi
+pasarán cosas chachi; por ejemplo,
+se unirán a la danza del otro al bailar.
+--- BLOCK [837] ---
+Puedes iniciar misiones en el puerto
+hablando con la empleada que trabaja
+en el mostrador de la Taberna.
+--- BLOCK [838] ---
+Si quieres cancelar la misión, vuelve
+a hablar con la empleada.
+--- BLOCK [839] ---
+Puedes unirte a misiones que otros
+cazadores hayan iniciado
+en el Tablón de misiones.
+--- BLOCK [840] ---
+Elige en el Tablón de misiones la misión
+a la que te gustaría unirte.
+--- BLOCK [841] ---
+Cuando estés listo, ve a la Puerta de
+salida de la parte trasera de la Taberna
+y espera a que los demás estén listos.
+--- BLOCK [842] ---
+En la Arena de Tanzia encontrarás muchas
+misiones contrarreloj especiales.
+--- BLOCK [843] ---
+Recibirás premios diversos dependiendo
+de la rapidez con que las completes.
+--- BLOCK [844] ---
+Habla con la empleada de la Arena para
+ver qué misiones están disponibles o
+comprobar las clasificaciones.
+--- BLOCK [845] ---
+Las Clasificaciones te muestran tus
+mejores tiempos y los de los demás
+si tienes sus tarjetas del Gremio.
+--- BLOCK [846] ---
+Pulsa el botón X para desenfundar
+el arma.
+--- BLOCK [847] ---
+Con el arma desenfundada, pulsa
+el botón X o el botón A para atacar.
+--- BLOCK [848] ---
+Sigue pulsando el botón X o el botón A
+para iniciar un combo.
+--- BLOCK [849] ---
+Para guardar el arma, pulsa el botón Y.
+--- BLOCK [850] ---
+Pulsa el botón X para desenfundar
+el arma.
+--- BLOCK [851] ---
+Pulsa el botón Y para guardar el arma.
+--- BLOCK [852] ---
+Al moverte, desenfunda tu Gran espada
+con el botón X para atacar
+inmediatamente.
+--- BLOCK [853] ---
+Pulsa el botón X para atacar con
+tu espada hacia abajo.
+--- BLOCK [854] ---
+Pulsa el botón A para atacar con
+tu espada lateralmente.
+--- BLOCK [855] ---
+Pulsa el botón X y el botón A para
+atacar con tu espada hacia arriba.
+--- BLOCK [856] ---
+Mantén pulsado el botón X para recargar
+el poder.
+--- BLOCK [857] ---
+Cuando esté al máximo, suelta el botón X
+para realizar un ataque brutal.
+--- BLOCK [858] ---
+Puedes bloquear mientras tu Gran espada
+está desenfundada si mantienes pulsado
+el botón R.
+--- BLOCK [859] ---
+Si tu arma está guardada, pulsa
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [860] ---
+Con la Gran espada desenfundada, puedes
+dar una patada si tocas el panel de
+Ataque especial en la pantalla táctil.
+--- BLOCK [861] ---
+HARDUMMY
+--- BLOCK [862] ---
+Al moverte, desenfunda tu espada con
+el botón X para atacar inmediatamente.
+--- BLOCK [863] ---
+Pulsa el botón X para atacar con
+la espada hacia abajo.
+--- BLOCK [864] ---
+Pulsa el botón A para atacar con
+la espada lateralmente.
+--- BLOCK [865] ---
+Mueve el botón deslizante en cualquier
+dirección y pulsa el botón A para atacar
+con tu escudo.
+--- BLOCK [866] ---
+También puedes pulsar el botón A para
+mover una Antorcha cuando la tengas
+equipada.
+--- BLOCK [867] ---
+HARDUMMY
+--- BLOCK [868] ---
+Durante un combo, mantén el botón
+deslizante hacia abajo y pulsa
+el botón X para un corte giratorio.
+--- BLOCK [869] ---
+Si pulsas el botón X y el botón A
+a la vez en medio de un combo,
+también servirá.
+--- BLOCK [870] ---
+Otra forma de realizar el movimiento es
+tocando el panel de Ataque especial en
+la pantalla táctil (durante el combo).
+--- BLOCK [871] ---
+HARDUMMY
+--- BLOCK [872] ---
+HARDUMMY
+--- BLOCK [873] ---
+Pulsa el botón X y el botón A para
+saltar hacia delante y atacar.
+--- BLOCK [874] ---
+Puedes bloquear mientras tu Espada
+está desenfundada si mantienes pulsado
+el botón R.
+--- BLOCK [875] ---
+Si tu arma está guardada, pulsa
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [876] ---
+Al moverte, desenfunda el Martillo con
+el botón X para atacar inmediatamente.
+--- BLOCK [877] ---
+Pulsa el botón X para atacar con
+el Martillo hacia abajo.
+--- BLOCK [878] ---
+Pulsa el botón A para atacar con
+tu Martillo lateralmente.
+--- BLOCK [879] ---
+Con el Martillo desenfundado, mantén
+pulsado el botón R para recargar
+el poder del arma usando la Resistencia.
+--- BLOCK [880] ---
+Si tu arma está enfundada, pulsa
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [881] ---
+¡Una vez cargado, pulsa el botón X o
+suelta el botón R para desatar un ataque
+brutal!
+--- BLOCK [882] ---
+Puedes cargar el ataque hasta tres
+niveles. Cuanto más lo cargues, más
+poderoso será el ataque.
+--- BLOCK [883] ---
+Al moverte, desenfunda la Lanza con
+el botón X para atacar inmediatamente.
+--- BLOCK [884] ---
+Pulsa el botón X para dar una lanzada
+en la zona media del cuerpo.
+--- BLOCK [885] ---
+Pulsa el botón A para dar una lanzada
+en la zona alta del cuerpo.
+--- BLOCK [886] ---
+Pulsa el botón X y el botón A para
+atacar con la Lanza lateralmente.
+--- BLOCK [887] ---
+Con la Lanza desenfundada, toca el panel
+de Ataque especial en la pantalla táctil
+para hacer un ataque en carrera.
+--- BLOCK [888] ---
+También puedes correr si pulsas
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [889] ---
+HARDUMMY
+--- BLOCK [890] ---
+¡Pulsa el botón X durante un ataque en
+carrera para asestar el golpe final!
+--- BLOCK [891] ---
+Pulsa el botón B durante un ataque en
+carrera para detenerte.
+--- BLOCK [892] ---
+Puedes bloquear mientras la Lanza
+está desenfundada si mantienes
+pulsado el botón R.
+--- BLOCK [893] ---
+Si la Lanza está guardada, pulsa
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [894] ---
+Con el arma desenfundada, mantén
+pulsado el botón R y luego el botón A
+para realizar un contralanzazo.
+--- BLOCK [895] ---
+Pulsa el botón X y mueve el botón
+deslizante con el botón R pulsado para
+dar un paso adelante mientras bloqueas.
+--- BLOCK [896] ---
+HARDUMMY
+--- BLOCK [897] ---
+Pulsa el botón X justo después de
+bloquear y avanzar para arremeter
+con tu escudo.
+--- BLOCK [898] ---
+Pulsa el botón B con tu arma
+desenfundada para dar un paso
+hacia atrás.
+--- BLOCK [899] ---
+Si mueves el botón deslizante un poco
+hacia atrás cuando das un paso atrás,
+darás un salto más largo.
+--- BLOCK [900] ---
+HARDUMMY
+--- BLOCK [901] ---
+Tras atacar, pulsa el botón B mientras
+mueves el botón deslizante hacia
+izquierda/derecha para un paso lateral.
+--- BLOCK [902] ---
+HARDUMMY
+--- BLOCK [903] ---
+Pulsa el botón A cuando la Ballesta esté
+desenfundada para disparar.
+--- BLOCK [904] ---
+Pulsa el botón X cuando la Ballesta esté
+desenfundada para recargar.
+--- BLOCK [905] ---
+Puedes recargar tu Ballesta cuando está
+guardada pulsando el botón R, el botón X
+y el botón A a la vez.
+--- BLOCK [906] ---
+Pulsa el botón R para activar
+o desactivar la mira.
+--- BLOCK [907] ---
+Cuando tengas la mira activada, muévela
+con el botón deslizante.
+--- BLOCK [908] ---
+Usa la cruz de control para acercar o
+alejar la vista siempre que el arma
+tenga la función disponible.
+--- BLOCK [909] ---
+HARDUMMY
+--- BLOCK [910] ---
+Usa la mira rápida de la Ballesta
+manteniendo pulsado el botón R.
+--- BLOCK [911] ---
+Usa la cruz de control para mover
+la mira.
+--- BLOCK [912] ---
+Para cambiar el tipo de munición, mantén
+pulsado el botón L y pulsa el botón X
+o el botón B.
+--- BLOCK [913] ---
+Con la Ballesta desenfundada, toca el
+panel de Ataque especial en la pantalla
+táctil para un ataque de corto alcance.
+--- BLOCK [914] ---
+HARDUMMY
+--- BLOCK [915] ---
+HARDUMMY
+--- BLOCK [916] ---
+Pulsa el botón X y el botón A a la vez
+para ponerte en posición de Disparo
+agachado. (Solo Ballesta Pesada) 
+--- BLOCK [917] ---
+Al moverte, desenfunda la Espada larga
+con el botón X para atacar
+inmediatamente.
+--- BLOCK [918] ---
+Pulsa el botón X para dar un paso
+adelante y atacar.
+--- BLOCK [919] ---
+Pulsa el botón A para clavar la Espada
+larga.
+--- BLOCK [920] ---
+Pulsa el botón X y el botón A para
+atacar con tu Espada larga mientras das
+un paso hacia atrás.
+--- BLOCK [921] ---
+Con la Espada larga desenfundada, pulsa
+el botón R para empezar ataques de
+Espada Espiritual.
+--- BLOCK [922] ---
+Si tu Espada larga está guardada, pulsa
+el botón R, el botón X y el botón A
+a la vez.
+--- BLOCK [923] ---
+¡Tras un combo de Espada Espiritual,
+pulsa el botón R para terminar con
+un tajo circular espiritual!
+--- BLOCK [924] ---
+Al moverte, desenfunda tu Hacha espada
+con el botón X para atacar
+inmediatamente.
+--- BLOCK [925] ---
+Pulsa el botón X para atacar con
+el Hacha espada hacia abajo.
+--- BLOCK [926] ---
+Pulsa el botón A para atacar con
+el Hacha espada lateralmente.
+--- BLOCK [927] ---
+Pulsa el botón X y el botón A para
+atacar con tu Hacha espada hacia arriba.
+--- BLOCK [928] ---
+También puedes atacar con el Hacha
+espada hacia arriba tocando el panel de
+Ataque especial en la pantalla táctil.
+--- BLOCK [929] ---
+HARDUMMY
+--- BLOCK [930] ---
+Tras un tajo ascendente, pulsa
+el botón A repetidas veces para desatar
+una ráfaga de ataques.
+--- BLOCK [931] ---
+Pulsa el botón X mientras te mueves con
+el botón deslizante para arremeter con
+el Hacha espada.
+--- BLOCK [932] ---
+HARDUMMY
+--- BLOCK [933] ---
+Pulsa el botón R tras un tajo avance
+para atacar mientras mutas tu arma.
+--- BLOCK [934] ---
+Pulsa el botón R para transformar
+el Hacha espada de Hacha a Espada
+y viceversa.
+--- BLOCK [935] ---
+Pulsa el botón A para atacar con
+la Espada lateralmente.
+--- BLOCK [936] ---
+Pulsa el botón R tras un tajo lateral
+para atacar mientras mutas tu arma.
+--- BLOCK [937] ---
+Pulsa el botón X para atacar con
+la Espada hacia abajo.
+--- BLOCK [938] ---
+Tras un tajo descendente, pulsa
+el botón X para atacar con la Espada
+hacia arriba.
+--- BLOCK [939] ---
+También puedes atacar con la Espada
+hacia arriba tocando el panel de Ataque
+especial en la pantalla táctil.
+--- BLOCK [940] ---
+HARDUMMY
+--- BLOCK [941] ---
+Pulsa el botón X y el botón A para
+clavar tu Espada y liberar su energía
+elemental.
+--- BLOCK [942] ---
+Mientras tu Espada esté clavada,
+pulsa el botón X repetidas veces para
+conseguir un final explosivo.
+--- BLOCK [943] ---
+Durante la descarga elemental, mueve
+el botón deslizante hacia atrás y pulsa
+el botón X para un final más rápido.
+--- BLOCK [944] ---
+HARDUMMY
+--- BLOCK [945] ---
+Pulsa el botón R para recargar el Hacha
+espada y llenar el indicador de cambio.
+--- BLOCK [946] ---
+Tras atacar, pulsa el botón B mientras
+mueves el botón deslizante hacia
+izquierda/derecha para un paso lateral.
+--- BLOCK [947] ---
+HARDUMMY
+--- BLOCK [948] ---
+Al moverte, pulsa el botón X para dar
+un paso hacia delante y clavar tu Lanza
+pistola.
+--- BLOCK [949] ---
+Pulsa el botón X con la Lanza pistola
+desenfundada para un lanzazo directo.
+--- BLOCK [950] ---
+Puedes bloquear mientras la Lanza
+pistola está desenfundada si mantienes
+pulsado el botón R.
+--- BLOCK [951] ---
+Si tu arma está guardada, pulsa
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [952] ---
+Mientras bloqueas, pulsa el botón X para
+realizar un lanzazo arriba con la Lanza
+pistola.
+--- BLOCK [953] ---
+Pulsa el botón X y el botón A con
+la Lanza pistola desenfundada para
+atacar con el arma hacia arriba.
+--- BLOCK [954] ---
+Pulsa el botón B con el arma
+desenfundada para dar un paso
+hacia atrás.
+--- BLOCK [955] ---
+Si mueves el botón deslizante un poco
+hacia atrás cuando das un paso atrás,
+darás un salto más largo.
+--- BLOCK [956] ---
+HARDUMMY
+--- BLOCK [957] ---
+Tras atacar, pulsa el botón B mientras
+mueves el botón deslizante hacia
+izquierda/derecha para un paso lateral.
+--- BLOCK [958] ---
+HARDUMMY
+--- BLOCK [959] ---
+Pulsa el botón A para disparar
+un proyectil. Vuelve a pulsarlo para
+recargar rápidamente.
+--- BLOCK [960] ---
+Tras disparar un proyectil, mantén
+pulsado el botón R y pulsa el botón A
+para lanzar un disparo cargado.
+--- BLOCK [961] ---
+Al bloquear o dar un paso a un lado,
+pulsa el botón A para recargar por
+completo.
+--- BLOCK [962] ---
+Tras realizar dos lanzazos directos,
+pulsa el botón X para machacar al
+objetivo con tu arma.
+--- BLOCK [963] ---
+Tras un golpe descendente, pulsa
+ell botón A para disparar la carga
+completa de munición.
+--- BLOCK [964] ---
+Al bloquear, pulsa el botón X y botón A
+para desatar una poderosa explosión
+llamada Fuego de wyvern.
+--- BLOCK [965] ---
+Al moverte, desenfunda la Espada
+doble con el botón X para atacar
+inmediatamente.
+--- BLOCK [966] ---
+Pulsa el botón X con la Espada doble
+desenfundada para cortar dos veces
+seguidas.
+--- BLOCK [967] ---
+Pulsa el botón X y el botón A con la
+Espada doble desenfundada para clavar
+hacia delante y cortar hacia afuera.
+--- BLOCK [968] ---
+Pulsa el botón A con la Espada doble
+desenfundada para atacar dos veces con
+la espada derecha.
+--- BLOCK [969] ---
+Pulsa el botón A a la vez que mueves
+el botón deslizante hacia la izquierda
+para atacar dos veces con la izquierda.
+--- BLOCK [970] ---
+HARDUMMY
+--- BLOCK [971] ---
+Pulsa el botón R con tu Espada doble
+para entrar en modo Demoníaco. Púlsalo
+o agota la Resistencia para salir.
+--- BLOCK [972] ---
+Pulsa el botón A en modo Demoníaco para
+realizar dos tajos giratorios
+a la derecha.
+--- BLOCK [973] ---
+Pulsa botón A y mueve botón deslizante
+hacia izquierda en modo Demoníaco para
+dos cortes giratorios a la izquierda.
+--- BLOCK [974] ---
+HARDUMMY
+--- BLOCK [975] ---
+Pulsa el botón X en modo Demoníaco para
+realizar un tajo vertical y circular.
+--- BLOCK [976] ---
+Pulsa el botón X y el botón A en modo
+Demoníaco para desatar una ráfaga de
+ataques bailarines.
+--- BLOCK [977] ---
+Pulsa el botón B en modo Demoníaco para
+realizar evasivas superrápidas conocidas
+como evasión demoníaca.
+--- BLOCK [978] ---
+Si el indicador demoníaco está lleno al
+salir del modo Demoníaco pasarás al modo
+Archidemoníaco y no al estado normal.
+--- BLOCK [979] ---
+En el modo Archidemoníaco, la velocidad
+de ataque aumenta y puedes usar evasión
+demoníaca y ráfaga demoníaca. 
+--- BLOCK [980] ---
+El indicador demoníaco se reduce con
+el tiempo o si realizas evasiones
+demoníacas o ráfagas demoníacas.
+--- BLOCK [981] ---
+Cuando se vacíe el indicador demoníaco,
+saldrás del modo Archidemoníaco y
+volverás al estado normal.
+--- BLOCK [982] ---
+Al moverte, desenfunda la Flauta con
+el botón X para atacar inmediatamente.
+--- BLOCK [983] ---
+Pulsa el botón X mientras mueves
+el botón deslizante para blandir
+la Flauta delante de ti.
+--- BLOCK [984] ---
+HARDUMMY
+--- BLOCK [985] ---
+Pulsa el botón X para blandir la Flauta
+de izquierda a derecha.
+--- BLOCK [986] ---
+Pulsa el botón A para blandir la Flauta
+de derecha a izquierda.
+--- BLOCK [987] ---
+Pulsa el botón X y el botón A para
+blandirla de manera descendente
+hacia atrás.
+--- BLOCK [988] ---
+Pulsa el botón X y el botón A mientras
+mueves el botón deslizante para girar
+la Flauta y golpearla contra el suelo.
+--- BLOCK [989] ---
+HARDUMMY
+--- BLOCK [990] ---
+Usa el botón R para tocar las notas
+del pentagrama. Crea varias melodías
+para conseguir efectos distintos.
+--- BLOCK [991] ---
+Pulsa el botón R una vez más tras tocar
+una melodía para tocar la misma
+melodía otra vez.
+--- BLOCK [992] ---
+Al moverte, pulsa el botón R, el botón X
+y el botón A para desenfundar la Flauta
+y empezar a tocar de inmediato.
+--- BLOCK [993] ---
+Con el Arco desenfundado, pulsa
+el botón A para realizar un ataque
+cuerpo a cuerpo.
+--- BLOCK [994] ---
+Si tu arma está guardada, pulsa
+el botón X y el botón A mientras
+mantienes pulsado el botón R.
+--- BLOCK [995] ---
+Usa el botón X para sacar una flecha.
+Mantenlo pulsado para cargar el poder
+utilizando la Resistencia.
+--- BLOCK [996] ---
+Tras sacar una flecha, suelta
+el botón X para disparar.
+--- BLOCK [997] ---
+Tras sacar una flecha, mantén pulsado
+el botón R y usa la cruz de control para
+ajustar la trayectoria de la flecha.
+--- BLOCK [998] ---
+Al cargar lo suficiente el poder de
+la flecha, pulsa el botón A para lanzar
+un disparo especial que traza un arco.
+--- BLOCK [999] ---
+Con el Arco desenfundado, pulsa
+el botón X y el botón A para cargar
+un Revestimiento.
+--- BLOCK [1000] ---
+Pulsa el botón B con el arma
+desenfundada para dar un paso
+hacia atrás.
+--- BLOCK [1001] ---
+Pulsa el botón B al moverte para rodar
+hacia adelante.
+--- BLOCK [1002] ---
+Se le pueden añadir partes
+personalizadas a la Ballesta usando
+el menú de mejoras de la Herrería.
+--- BLOCK [1003] ---
+Mira con zoom: te permite
+ajustar el nivel de zoom de la mira.
+--- BLOCK [1004] ---
+Silenciadores: reducen el ruido,
+suavizan el retroceso y evitan que los
+monstruos te descubran con facilidad.
+--- BLOCK [1005] ---
+Cañones largos: aumentan el Ataque.
+--- BLOCK [1006] ---
+Escudos: bloquean automáticamente
+los ataques de monstruos cuando
+estás de pie.
+--- BLOCK [1007] ---
+Cañones de poder: aumentan el Ataque.
+--- BLOCK [1008] ---
+A medida que avances, en la Herrería
+aparecerá la opción Quitar limitador
+en lista de opciones de mejora.
+--- BLOCK [1009] ---
+Sin limitador solo está disponible para
+Ballestas de un mínimo de 6 estrellas
+de rareza.
+--- BLOCK [1010] ---
+Puedes restablecer la Ballesta a
+su estado anterior seleccionando
+la opción Con limitador.
+--- BLOCK [1011] ---
+Si le quitas el limitador a una Ballesta
+ligera, puedes cambiar de munición sin
+tener que hacer una recarga adicional.
+--- BLOCK [1012] ---
+Pulsa el botón X y el botón A para
+realizar una recarga completa que
+restablece toda la munición.
+--- BLOCK [1013] ---
+Si quitas el limitador, se desactiva
+el Fuego rápido, pero aumenta la
+capacidad de munición del Fuego rápido.
+--- BLOCK [1014] ---
+Si quitas el limitador, te moverás más
+despacio, y ya no podrás dar pasos
+atrás.
+--- BLOCK [1015] ---
+Sin el limitador, los disparos de
+una Ballesta pesada son más potentes.
+--- BLOCK [1016] ---
+Si quitas el limitador, se desactiva
+el Disparo agachado, pero aumenta
+la capacidad de munición del mismo.
+--- BLOCK [1017] ---
+Sin el limitador, te moverás más
+despacio.
+--- BLOCK [1018] ---
+Sin el limitador, aumenta la eficacia de
+los complementos de Escudo, y así
+absorben más daño.
+--- BLOCK [1019] ---

@@ -1,0 +1,678 @@
+TMSG_SKILL
+--- BLOCK ---
+TMSG_SKILL_UNKNOWN
+--- BLOCK ---
+TMSG_CAT_SKILL_NAME
+--- BLOCK ---
+(Sem habilidade.)
+--- BLOCK ---
+Anula veneno
+--- BLOCK ---
+Duplo veneno
+--- BLOCK ---
+Anula paralisia
+--- BLOCK ---
+Dupla paralisia
+--- BLOCK ---
+Anula sono
+--- BLOCK ---
+Duplo sono
+--- BLOCK ---
+Metade atordoamento
+--- BLOCK ---
+Anula atordoamento
+--- BLOCK ---
+Duplo atordoamento
+--- BLOCK ---
+Anula Gelo/Neve
+--- BLOCK ---
+Sigilo
+--- BLOCK ---
+Provocação
+--- BLOCK ---
+Vida +20
+--- BLOCK ---
+Vida +50
+--- BLOCK ---
+Vida -10
+--- BLOCK ---
+Vida -30
+--- BLOCK ---
+Vel. recup. +1
+--- BLOCK ---
+Vel. recup. +2
+--- BLOCK ---
+Vel. recup. -1
+--- BLOCK ---
+Vel. recup. -2
+--- BLOCK ---
+Saque de lâmina
+--- BLOCK ---
+Saque rombo
+--- BLOCK ---
+Afiado +1
+--- BLOCK ---
+Olho preciso
+--- BLOCK ---
+Olho crítico +1
+--- BLOCK ---
+Olho crítico +2
+--- BLOCK ---
+Olho crítico +3
+--- BLOCK ---
+Olho crítico -1
+--- BLOCK ---
+Olho crítico -2
+--- BLOCK ---
+Olho crítico -3
+--- BLOCK ---
+Afiado rápido
+--- BLOCK ---
+Afiado lento
+--- BLOCK ---
+Guarda +1
+--- BLOCK ---
+Guarda +2
+--- BLOCK ---
+Guarda -1
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Guarda+
+--- BLOCK ---
+Autoguarda
+--- BLOCK ---
+Vel. recarga +1
+--- BLOCK ---
+Vel. recarga +2
+--- BLOCK ---
+Vel. recarga +3
+--- BLOCK ---
+Vel. recarga -1
+--- BLOCK ---
+Vel. recarga -2
+--- BLOCK ---
+Vel. recarga -3
+--- BLOCK ---
+Recuo +1
+--- BLOCK ---
+Recuo +2
+--- BLOCK ---
+Recuo +3
+--- BLOCK ---
+Recuo -1
+--- BLOCK ---
+Recuo -2
+--- BLOCK ---
+Recuo -3
+--- BLOCK ---
+Normal/rápida+
+--- BLOCK ---
+Perfuração+
+--- BLOCK ---
+Disper./leque+
+--- BLOCK ---
+Usa normal
+--- BLOCK ---
+Usa perfuração Nv1
+--- BLOCK ---
+Usa perfurador
+--- BLOCK ---
+Usa dispersão Nv1
+--- BLOCK ---
+Usa dispersão
+--- BLOCK ---
+Usa explosão Nv1
+--- BLOCK ---
+Usa explosivo
+--- BLOCK ---
+Usa grupo Nv1
+--- BLOCK ---
+Usa grupo
+--- BLOCK ---
+Doença anormal +1
+--- BLOCK ---
+Doença anormal +2
+--- BLOCK ---
+Doença anormal -1
+--- BLOCK ---
+Força elemental +1
+--- BLOCK ---
+Força elemental -1
+--- BLOCK ---
+Bombardeiro
+--- BLOCK ---
+Metade Doença
+--- BLOCK ---
+Anula Doença
+--- BLOCK ---
+Aumenta Doença
+--- BLOCK ---
+Dupla Doença
+--- BLOCK ---
+Glutão
+--- BLOCK ---
+Carniceiro
+--- BLOCK ---
+Ataq. +1
+--- BLOCK ---
+Ataq. +2
+--- BLOCK ---
+Ataq. +3
+--- BLOCK ---
+Ataq. -1
+--- BLOCK ---
+Ataq. -2
+--- BLOCK ---
+Ataq. -3
+--- BLOCK ---
+Defesa +1
+--- BLOCK ---
+Defesa +2
+--- BLOCK ---
+Defesa +3
+--- BLOCK ---
+Defesa -1
+--- BLOCK ---
+Defesa -2
+--- BLOCK ---
+Defesa -3
+--- BLOCK ---
+Bênção divina
+--- BLOCK ---
+Bên. demoníaca
+--- BLOCK ---
+Tampões +1
+--- BLOCK ---
+Tampões +2
+--- BLOCK ---
+Antifurto
+--- BLOCK ---
+Efeito área +1
+--- BLOCK ---
+Efeito área +2
+--- BLOCK ---
+Exp. mochileiro
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. fogo +15
+--- BLOCK ---
+Res. fogo +20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. fogo -20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. água +15
+--- BLOCK ---
+Res. água +20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. água -20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. trovão +15
+--- BLOCK ---
+Res. trovão +20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. trovão -20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. gelo +15
+--- BLOCK ---
+Res. gelo +20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. gelo -20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. dragão +15
+--- BLOCK ---
+Res. dragão +20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Res. dragão -20
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Anula o calor
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Aumentar calor
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Anula o frio
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Aumentar frio
+--- BLOCK ---
+Res. vento +1
+--- BLOCK ---
+Res. vento +2
+--- BLOCK ---
+Visão distante
+--- BLOCK ---
+Visão próxima
+--- BLOCK ---
+Coleta +1
+--- BLOCK ---
+Coleta +2
+--- BLOCK ---
+Coleta -1
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Veloc. Coleta
+--- BLOCK ---
+Capricho +1
+--- BLOCK ---
+Capricho +2
+--- BLOCK ---
+Capricho -1
+--- BLOCK ---
+Capricho -2
+--- BLOCK ---
+Sorte +1
+--- BLOCK ---
+Sorte +2
+--- BLOCK ---
+Sorte -1
+--- BLOCK ---
+Sorte -2
+--- BLOCK ---
+Especialista em pesca
+--- BLOCK ---
+Detectar
+--- BLOCK ---
+Autorrastreador
+--- BLOCK ---
+Nvl recuperação +1
+--- BLOCK ---
+Nvl recuperação -1
+--- BLOCK ---
+Combinação +20%
+--- BLOCK ---
+Combinação +25%
+--- BLOCK ---
+Combinação +45%
+--- BLOCK ---
+Combinação -10%
+--- BLOCK ---
+Combinação -10%
+--- BLOCK ---
+Combinação -20%
+--- BLOCK ---
+Combinação+
+--- BLOCK ---
+Evasão +1
+--- BLOCK ---
+Evasão +2
+--- BLOCK ---
+Evasão -1
+--- BLOCK ---
+Adrenalina +1
+--- BLOCK ---
+Adrenalina +2
+--- BLOCK ---
+Sobrecarregado
+--- BLOCK ---
+Duração +1
+--- BLOCK ---
+Duração -1
+--- BLOCK ---
+Corredor +1
+--- BLOCK ---
+Corredor -1
+--- BLOCK ---
+Carga+
+--- BLOCK ---
+Precisão +1
+--- BLOCK ---
+Precisão +2
+--- BLOCK ---
+Precisão -1
+--- BLOCK ---
+Precisão -2
+--- BLOCK ---
+Consumir +1
+--- BLOCK ---
+Consumir +2
+--- BLOCK ---
+Consumir -1
+--- BLOCK ---
+Cortador experiente
+--- BLOCK ---
+Mestre cortador
+--- BLOCK ---
+Resistência a tremores
+--- BLOCK ---
+Especialista em churrasco
+--- BLOCK ---
+Distância de evasão
+--- BLOCK ---
+Desembainhar rápido
+--- BLOCK ---
+Mestre das Armadilhas
+--- BLOCK ---
+Constituição +1
+--- BLOCK ---
+Constituição +2
+--- BLOCK ---
+Constituição -1
+--- BLOCK ---
+Constituição -2
+--- BLOCK ---
+Mestre das Capturas
+--- BLOCK ---
+Guru de Captura
+--- BLOCK ---
+Foco
+--- BLOCK ---
+Distração
+--- BLOCK ---
+Oxigênio Eterno
+--- BLOCK ---
+Pouco Fôlego
+--- BLOCK ---
+Res. corrien. +1
+--- BLOCK ---
+Res. corrien. +2
+--- BLOCK ---
+Nadador olímpico
+--- BLOCK ---
+Estilo perrito
+--- BLOCK ---
+Punição imediata
+--- BLOCK ---
+Antidoenças
+--- BLOCK ---
+Despertar
+--- BLOCK ---
+Fortalecer
+--- BLOCK ---
+Disparo bônus
+--- BLOCK ---
+Mestre do Esterco
+--- BLOCK ---
+Aura chama
+--- BLOCK ---
+Antisséptico
+--- BLOCK ---
++ veneno
+--- BLOCK ---
++ paralisa.
+--- BLOCK ---
++ sono
+--- BLOCK ---
++ energia
+--- BLOCK ---
++ alcance
+--- BLOCK ---
+Flautista
+--- BLOCK ---
+Artilharia +1
+--- BLOCK ---
+Artilharia +2
+--- BLOCK ---
+Força oculta +1
+--- BLOCK ---
+Força oculta +2
+--- BLOCK ---
+Guerreiro
+--- BLOCK ---
+Pele de ferro
+--- BLOCK ---
+Ataque de fogo +1
+--- BLOCK ---
+Ataque de fogo +2
+--- BLOCK ---
+Ataque de fogo -1
+--- BLOCK ---
+Ataque de água +1
+--- BLOCK ---
+Ataque de água +2
+--- BLOCK ---
+Ataque de água -1
+--- BLOCK ---
+Ataq. trovão +1
+--- BLOCK ---
+Ataq. trovão +2
+--- BLOCK ---
+Ataq. trovão -1
+--- BLOCK ---
+Ataq. gelo +1
+--- BLOCK ---
+Ataq. gelo +2
+--- BLOCK ---
+Ataq. gelo -1
+--- BLOCK ---
+Ataq. dragão +1
+--- BLOCK ---
+Ataq. dragão +2
+--- BLOCK ---
+Ataq. dragão -1
+--- BLOCK ---
+Usa cortador
+--- BLOCK ---
++ cansaço
+--- BLOCK ---
+Maça
+--- BLOCK ---
+Destruidor
+--- BLOCK ---
+Pugilista
+--- BLOCK ---
+Roubaresistência
+--- BLOCK ---
+Saque rápido
+--- BLOCK ---
+Resis. recup. +1
+--- BLOCK ---
+Resis. recup. -1
+--- BLOCK ---
+Carnívoro
+--- BLOCK ---
+Evasivo
+--- BLOCK ---
+Caçador de Monstros
+--- BLOCK ---
+Biólogo
+--- BLOCK ---
+Espírito +1
+--- BLOCK ---
+Espírito +2
+--- BLOCK ---
+Intacto
+--- BLOCK ---
+Invencível
+--- BLOCK ---
+Brânquias
+--- BLOCK ---
+Entranhas
+--- BLOCK ---
+Perfurante
+--- BLOCK ---
+Pulso Firme
+--- BLOCK ---
+Bem-estar
+--- BLOCK ---
+Fúria
+--- BLOCK ---
+Em equipe
+--- BLOCK ---
+Liderança
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Busca-talismãs
+--- BLOCK ---
+Especialista em Capturas
+--- BLOCK ---
+Usa saliva
+--- BLOCK ---
++ saliva
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Saque
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+(Sem hab. Felyne)
+--- BLOCK ---
+Cortador Felyne +2
+--- BLOCK ---
+Cortador Felyne +1
+--- BLOCK ---
+Médico Felyne
+--- BLOCK ---
+Cinturão neg. Felyne
+--- BLOCK ---
+Piro Felyne
+--- BLOCK ---
+Especialista Felyne
+--- BLOCK ---
+Defensor Felyne +2
+--- BLOCK ---
+Defensor Felyne +1
+--- BLOCK ---
+Chifre Felyne
+--- BLOCK ---
+Silvicultor Felyne
+--- BLOCK ---
+Carisma Felyne
+--- BLOCK ---
+Combinador Felyne +2
+--- BLOCK ---
+Combinador Felyne +1
+--- BLOCK ---
+Coletor Felyne
+--- BLOCK ---
+Pontaria Felyne
+--- BLOCK ---
+Gato ultra sorte
+--- BLOCK ---
+Sortudo Felino
+--- BLOCK ---
+Heroísmo Felyne
+--- BLOCK ---
+Desvio Felyne
+--- BLOCK ---
+Fuga Felyne
+--- BLOCK ---
+Lançador Felyne
+--- BLOCK ---
+Coragem Felyne
+--- BLOCK ---
+Superfelino Felyne
+--- BLOCK ---
+Felino Forte Felyne
+--- BLOCK ---
+Enfraquecedor Felyne
+--- BLOCK ---
+Explorador Felyne
+--- BLOCK ---
+Troca Felyne
+--- BLOCK ---
+Elevador Felyne +2
+--- BLOCK ---
+Elevador Felyne +1
+--- BLOCK ---
+Temperamento Felyne
+--- BLOCK ---
+Kickboxer Felyne
+--- BLOCK ---
+Luchador Felyne
+--- BLOCK ---
+Escalador Felyne +2
+--- BLOCK ---
+Escalador Felyne +1
+--- BLOCK ---
+Supercortador Felyne
+--- BLOCK ---
+Aterrizador Felyne
+--- BLOCK ---
+Gato elegante
+--- BLOCK ---
+Escavador Felyne
+--- BLOCK ---
+Gourmet Felyne
+--- BLOCK ---
+Boxeador Felyne
+--- BLOCK ---
+Gato sorte
+--- BLOCK ---
+Explosão Felyne
+--- BLOCK ---
+Bombardeiro Felyne
+--- BLOCK ---
+Sangue frio Felyne
+--- BLOCK ---
+Detentor de estrume Felyne
+--- BLOCK ---
+Limpa Felyne
+--- BLOCK ---
+Andarilho Felyne
+--- BLOCK ---
+Deslizador Felyne
+--- BLOCK ---
+Oráculo Felyne
+--- BLOCK ---
+Polidor Felyne
+--- BLOCK ---
+Acrobata Felyne
+--- BLOCK ---
+Mudança de jogo Felyne
+--- BLOCK ---
+Treinador Felyne
+--- BLOCK ---
+Potencializador Felyne
+--- BLOCK ---
+Fornecedor Felyne
+--- BLOCK ---
+Insone Felyne
+--- BLOCK ---
+Felyne Equilibrista
+--- BLOCK ---
+Felyne Pescador
+--- BLOCK ---
+Felyne Acendedor
+--- BLOCK ---
+Felyne Aguador
+--- BLOCK ---
+Felyne Capturatrovão
+--- BLOCK ---
+Felyne RompeGelo
+--- BLOCK ---
+Felyne Matadragões
+--- BLOCK ---
+Felyne Nadador
+--- BLOCK ---
+Gato Azarado
+--- BLOCK ---

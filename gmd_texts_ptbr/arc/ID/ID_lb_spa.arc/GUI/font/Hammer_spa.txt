@@ -1,0 +1,274 @@
+TMSG_HAMMER
+--- BLOCK ---
+(Nenhum)
+--- BLOCK ---
+Martelo de ferro
+--- BLOCK ---
+Martelo de ferro+
+--- BLOCK ---
+Martelo de guerra
+--- BLOCK ---
+Martelo de guerra+
+--- BLOCK ---
+Maça de guerra
+--- BLOCK ---
+Aríete de ferro
+--- BLOCK ---
+Aríete de ferro+
+--- BLOCK ---
+Impacto de ferro
+--- BLOCK ---
+Martelo de bigorna
+--- BLOCK ---
+Embate
+--- BLOCK ---
+Martelo pistola
+--- BLOCK ---
+Revólver caolho
+--- BLOCK ---
+Revólver explosivo
+--- BLOCK ---
+Cabeça de Plesioth
+--- BLOCK ---
+Cabeça de Plesioth+
+--- BLOCK ---
+Quebra-cabeça Plesioth
+--- BLOCK ---
+Cabeça Plesioth verde
+--- BLOCK ---
+Quebrachão verde
+--- BLOCK ---
+Mar. colm. "Eco"
+--- BLOCK ---
+Mar. colm. "Ruina"
+--- BLOCK ---
+Martelo Jhen Mohran
+--- BLOCK ---
+Maça cegante
+--- BLOCK ---
+Gargantilha blindada
+--- BLOCK ---
+Megargantilha blindada
+--- BLOCK ---
+Martelo redemoinho
+--- BLOCK ---
+Martelo redemoinho+
+--- BLOCK ---
+Grand. mar. redem.
+--- BLOCK ---
+Martelo remoinho
+--- BLOCK ---
+Vortástrofe
+--- BLOCK ---
+Lagio Voltega
+--- BLOCK ---
+Lagio Vortivolte
+--- BLOCK ---
+Núcleo congelado
+--- BLOCK ---
+Cocito
+--- BLOCK ---
+Castigador Pykrete
+--- BLOCK ---
+Sílex de plumas
+--- BLOCK ---
+Sílex peco
+--- BLOCK ---
+Prendedor Qurupeco
+--- BLOCK ---
+Lectro Qurupeco
+--- BLOCK ---
+Raio Qurupeco
+--- BLOCK ---
+Electro Qurupeco
+--- BLOCK ---
+Maça vermelha
+--- BLOCK ---
+Maça vermelha+
+--- BLOCK ---
+Martelo furacão
+--- BLOCK ---
+Furacão azul ardor
+--- BLOCK ---
+Martesta Rathalos
+--- BLOCK ---
+Ardor azul Rathalos
+--- BLOCK ---
+Leonid Partestrelas
+--- BLOCK ---
+Svarog Rompeasteroides
+--- BLOCK ---
+Martelo cauda Brach
+--- BLOCK ---
+Martelo cauda Brach+
+--- BLOCK ---
+Almádena
+--- BLOCK ---
+Demolidor Novagio
+--- BLOCK ---
+Pena rígida
+--- BLOCK ---
+Pena inválida
+--- BLOCK ---
+Loto sedutor
+--- BLOCK ---
+Plegia Bocciolo
+--- BLOCK ---
+Plegia Fior
+--- BLOCK ---
+Plegia Fantasia
+--- BLOCK ---
+Trovão do Usurpador
+--- BLOCK ---
+Estalo do Ditador
+--- BLOCK ---
+Poder do Opressor
+--- BLOCK ---
+Martelo Sombrio
+--- BLOCK ---
+Jarngrolnir Obscuro
+--- BLOCK ---
+Presas de Brimstren
+--- BLOCK ---
+Indústria Estígia
+--- BLOCK ---
+Martelo de Osso
+--- BLOCK ---
+Martelo de Osso+
+--- BLOCK ---
+Maça de Osso
+--- BLOCK ---
+Maça de Osso+
+--- BLOCK ---
+Esfera de Júpiter
+--- BLOCK ---
+Maça de Duramboros
+--- BLOCK ---
+Maça de Archambra
+--- BLOCK ---
+Maça de Archambra+
+--- BLOCK ---
+Archambra Ressurgida
+--- BLOCK ---
+Quebrador Oculto
+--- BLOCK ---
+Quebrador Oculto+
+--- BLOCK ---
+Noite Eterna
+--- BLOCK ---
+Quebrador Virnar
+--- BLOCK ---
+Meia-Noite Eterna
+--- BLOCK ---
+Maça Osso Ludroth
+--- BLOCK ---
+Derrubador Osso Ludr.
+--- BLOCK ---
+Mar. Esponja Ludroth
+--- BLOCK ---
+Martelo Vodyanoy
+--- BLOCK ---
+Lorelei
+--- BLOCK ---
+Venodroth Enfeitiçado
+--- BLOCK ---
+Venodroth Violeta
+--- BLOCK ---
+Gran Venodroth
+--- BLOCK ---
+Martelo Carapaça
+--- BLOCK ---
+Martelo Carapaça+
+--- BLOCK ---
+Martelo de Barroth
+--- BLOCK ---
+Maça de Barroth
+--- BLOCK ---
+Pegador Barroth
+--- BLOCK ---
+Machacador Barroth
+--- BLOCK ---
+Quebra-Gelos
+--- BLOCK ---
+Destroça-Gelos
+--- BLOCK ---
+Viseberg de Barroth
+--- BLOCK ---
+Fissura de Barroth
+--- BLOCK ---
+Cacetete de Latão
+--- BLOCK ---
+Gigamartelo
+--- BLOCK ---
+Martelo Grongigas
+--- BLOCK ---
+Meltronudillo
+--- BLOCK ---
+Martelo Uragânico
+--- BLOCK ---
+Martelo Uragantesco
+--- BLOCK ---
+Martelo Touro
+--- BLOCK ---
+Martelo Cabeça Touro
+--- BLOCK ---
+Martelo Chifre Touro
+--- BLOCK ---
+Monstruosidade
+--- BLOCK ---
+Rei Lagosta
+--- BLOCK ---
+Lagosta Real
+--- BLOCK ---
+Dívida do Diabo
+--- BLOCK ---
+Triturador Diabo
+--- BLOCK ---
+Caos de Nerón
+--- BLOCK ---
+Gaiasp
+--- BLOCK ---
+Gaiarch
+--- BLOCK ---
+Gran Gaiarch
+--- BLOCK ---
+Mãe Gaiarch
+--- BLOCK ---
+Horizonte de Gaia
+--- BLOCK ---
+Portomarca
+--- BLOCK ---
+Martelo Enferrujado
+--- BLOCK ---
+Martelo Desbotado
+--- BLOCK ---
+Martelo Sopro
+--- BLOCK ---
+Martelo de Lava
+--- BLOCK ---
+Martelo de Crosta
+--- BLOCK ---
+Martelo Desgastado
+--- BLOCK ---
+Martelo Danificado
+--- BLOCK ---
+Núcleo Pulsante
+--- BLOCK ---
+Núcleo Meteórico
+--- BLOCK ---
+Martelo de Alatreon
+--- BLOCK ---
+Metamorfo Alatreon
+--- BLOCK ---
+Altheos Morphexo
+--- BLOCK ---
+Núcleo de Megido
+--- BLOCK ---
+Anteferno
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cetro Majestoso
+--- BLOCK ---

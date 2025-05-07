@@ -1,0 +1,298 @@
+TMSG_LANCE
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Lança de ferro
+--- BLOCK ---
+Lança de Ferro+
+--- BLOCK ---
+Lança do Nobre
+--- BLOCK ---
+Lança do Nobre+
+--- BLOCK ---
+Lança do Cavaleiro
+--- BLOCK ---
+Muralha
+--- BLOCK ---
+Muralha+
+--- BLOCK ---
+Lança de Babel
+--- BLOCK ---
+Venábulo Antigo de Babel
+--- BLOCK ---
+Babel Perdida
+--- BLOCK ---
+Lança Perfuradora
+--- BLOCK ---
+Lança Megaperfuradora
+--- BLOCK ---
+Lança Gigaperfuradora
+--- BLOCK ---
+Cauda Vermelha
+--- BLOCK ---
+Inferno
+--- BLOCK ---
+Lança da Proeminência
+--- BLOCK ---
+Proeminência Vermelha
+--- BLOCK ---
+Proeminência de Prata
+--- BLOCK ---
+Proeminência Solar
+--- BLOCK ---
+Cauda Azul
+--- BLOCK ---
+Proeminência Azul
+--- BLOCK ---
+Alma da Proeminência
+--- BLOCK ---
+Lança Presa
+--- BLOCK ---
+Lança Presa+
+--- BLOCK ---
+Dente de Sabre
+--- BLOCK ---
+Shiera Stolrata
+--- BLOCK ---
+Shiera Vitalica
+--- BLOCK ---
+Crista de Lápis-lazúli
+--- BLOCK ---
+Crista de Lápis-lazúli+
+--- BLOCK ---
+Grande Lápis-lazúli
+--- BLOCK ---
+Bandeira Azul
+--- BLOCK ---
+Venábulo da Água
+--- BLOCK ---
+Venábulo da Água+
+--- BLOCK ---
+Venábulo Aquoso
+--- BLOCK ---
+Venábulo Esmeralda
+--- BLOCK ---
+Maré de Esmeraldas
+--- BLOCK ---
+Venábulo Rochoso
+--- BLOCK ---
+Venábulo Réquiem
+--- BLOCK ---
+Lança Acrus
+--- BLOCK ---
+Lança Acrus+
+--- BLOCK ---
+Grande Lança Acrus
+--- BLOCK ---
+Venábulo de Doris
+--- BLOCK ---
+Anfitrite
+--- BLOCK ---
+Lança Acrus Nova
+--- BLOCK ---
+Raio Branco Gaius
+--- BLOCK ---
+Lança Tenebrosa
+--- BLOCK ---
+Terracontier Sombria
+--- BLOCK ---
+Venábulo de Boros
+--- BLOCK ---
+Venábulo de Boros+
+--- BLOCK ---
+Tremor Illboros
+--- BLOCK ---
+Gigassauroboros
+--- BLOCK ---
+Tremor Granboros
+--- BLOCK ---
+Lança Sombria
+--- BLOCK ---
+Lança Sombria+
+--- BLOCK ---
+Lança Tóxica
+--- BLOCK ---
+Noxninfa de Ferro
+--- BLOCK ---
+Luinox, o Sedento
+--- BLOCK ---
+Punhal Oculto
+--- BLOCK ---
+Chuva Negra Noturna
+--- BLOCK ---
+Lança de Avidya
+--- BLOCK ---
+Lança do Eclipse
+--- BLOCK ---
+Asterismo de Dubhe
+--- BLOCK ---
+Lança de Osso
+--- BLOCK ---
+Lança de Osso+
+--- BLOCK ---
+Venábulo Cornilargo
+--- BLOCK ---
+Venábulo Cornilargo+
+--- BLOCK ---
+Venábulo Colmilargo
+--- BLOCK ---
+Ploshasta
+--- BLOCK ---
+Rhenohasta
+--- BLOCK ---
+Lança de Diablos
+--- BLOCK ---
+Venábulo Diablos
+--- BLOCK ---
+Cera Creos
+--- BLOCK ---
+Tempestade Negra
+--- BLOCK ---
+Tempestade Negra+
+--- BLOCK ---
+Tempestade Nascente
+--- BLOCK ---
+Gobulu Muruka
+--- BLOCK ---
+Gobulu Muruka+
+--- BLOCK ---
+Gobuluku Muraaka
+--- BLOCK ---
+Gobulaluku Bosca
+--- BLOCK ---
+Gobulaluku Aquir
+--- BLOCK ---
+Lança Resistente
+--- BLOCK ---
+Lança Resistente+
+--- BLOCK ---
+Cortador de Barroth
+--- BLOCK ---
+Lança Esmagadora
+--- BLOCK ---
+Gelo Bordenshkiold
+--- BLOCK ---
+Gelo Arkika
+--- BLOCK ---
+Chegada Usurpadora
+--- BLOCK ---
+Cacofonia Despótica
+--- BLOCK ---
+Gênese do Opressor
+--- BLOCK ---
+Cauda de Brimstren
+--- BLOCK ---
+Ira Estígia
+--- BLOCK ---
+Calor Espiral
+--- BLOCK ---
+Lança Ígnea Agnaktor
+--- BLOCK ---
+Vaskignador
+--- BLOCK ---
+Líquido Espiral
+--- BLOCK ---
+Lança Aquática Agnaktor
+--- BLOCK ---
+Varunagnaktor
+--- BLOCK ---
+Venábulo de Osso Ludroth
+--- BLOCK ---
+Lança espiral
+--- BLOCK ---
+Lança espiral+
+--- BLOCK ---
+Salpicadura espiral
+--- BLOCK ---
+Chifre de Ceadeus
+--- BLOCK ---
+Grande chifre de Ceadeus
+--- BLOCK ---
+Fosso arcana
+--- BLOCK ---
+Lança senhorial Exia
+--- BLOCK ---
+Bella Nocuus
+--- BLOCK ---
+Bel Nefastro
+--- BLOCK ---
+Bel Nefastro+
+--- BLOCK ---
+Lança de javali
+--- BLOCK ---
+Lança de javali+
+--- BLOCK ---
+Arpão de touro
+--- BLOCK ---
+Perfuradora Brach
+--- BLOCK ---
+Perfuradora Brach+
+--- BLOCK ---
+Lança de demolição
+--- BLOCK ---
+Demolidora Albrach
+--- BLOCK ---
+Lança da dor
+--- BLOCK ---
+Torre infernal
+--- BLOCK ---
+Atrocidade de Nerón
+--- BLOCK ---
+Cratera azul
+--- BLOCK ---
+Cratera de esmalte
+--- BLOCK ---
+Coroa maldita
+--- BLOCK ---
+Coroa eterna
+--- BLOCK ---
+Coroa Aidion
+--- BLOCK ---
+Lança enferrujada
+--- BLOCK ---
+Lança desgastada
+--- BLOCK ---
+Funerária
+--- BLOCK ---
+Grande funerária
+--- BLOCK ---
+Funerária nova
+--- BLOCK ---
+Arpão desgastado
+--- BLOCK ---
+Arpão estropeado
+--- BLOCK ---
+Arranha-céus
+--- BLOCK ---
+Céus rasgantes
+--- BLOCK ---
+Agulha de Plegis
+--- BLOCK ---
+Agulha de Plegis+
+--- BLOCK ---
+Poderoso Plegis
+--- BLOCK ---
+Mordida de Sharq
+--- BLOCK ---
+Ataque Sharq
+--- BLOCK ---
+Assalto Sharq
+--- BLOCK ---
+Agulha de Megido
+--- BLOCK ---
+Immaelestrom
+--- BLOCK ---
+Lança de Alatreon
+--- BLOCK ---
+Raio de Alatreon
+--- BLOCK ---
+Altheos Gloralis
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+ML001: Baltzenger
+--- BLOCK ---
+Conjunto "Byakko"
+--- BLOCK ---

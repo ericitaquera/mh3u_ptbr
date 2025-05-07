@@ -1,0 +1,460 @@
+﻿TMSG_AXE_EXP
+--- BLOCK [001] ---
+(Nada equipado.)
+--- BLOCK [002] ---
+Arma novísima, creación del
+desierto. Hay que dominar
+el hacha y la espada.
+--- BLOCK [003] ---
+Arma novísima, creación del
+desierto. Hay que dominar
+el hacha y la espada.
+--- BLOCK [004] ---
+Arma novísima, creación del
+desierto. Hay que dominar
+el hacha y la espada.
+--- BLOCK [005] ---
+Versátil hacha de caza.
+En modo Espada, lanza
+agentes paralizantes.
+--- BLOCK [006] ---
+Versátil hacha de caza.
+En modo Espada, lanza
+agentes paralizantes.
+--- BLOCK [007] ---
+Versátil hacha de caza.
+En modo Espada, lanza
+agentes paralizantes.
+--- BLOCK [008] ---
+Versátil hacha de caza.
+En modo Espada, lanza
+agentes paralizantes.
+--- BLOCK [009] ---
+Símbolo de la tenacidad del
+wyvern. No hay presa que
+pueda escapar.
+--- BLOCK [010] ---
+Hacha espada de ébano, negra
+como la noche. Tan rápida
+que resulta invisible. 
+--- BLOCK [011] ---
+Hacha espada de ébano, negra
+como la noche. Tan rápida
+que resulta invisible. 
+--- BLOCK [012] ---
+Última de las cuatro armas
+de un famoso asesino. Evita
+la agonía de la víctima.
+--- BLOCK [013] ---
+Hacha espada con punta
+rasgadora. El enemigo grita
+cuando brilla bajo la luna.
+--- BLOCK [014] ---
+La quinta de las Siete
+estrellas. Es poesía
+silenciosa para la caza.
+--- BLOCK [015] ---
+Hacha espada que encarna un
+voraz Deviljho. Con marcas
+de viejas batallas.
+--- BLOCK [016] ---
+Hacha espada que encarna un
+voraz Deviljho. Con marcas
+de viejas batallas.
+--- BLOCK [017] ---
+Hacha espada forjada con
+sangre de un Deviljho feroz.
+Encabezará muchas matanzas.
+--- BLOCK [018] ---
+Hacha espada forjada con
+sangre de un Deviljho feroz.
+Encabezará muchas matanzas.
+--- BLOCK [019] ---
+Hacha que canaliza el poder
+del Lagiacrus. Con cada tajo
+explosiona luz azul.
+--- BLOCK [020] ---
+Hacha que canaliza el poder
+del Lagiacrus. Con cada tajo
+explosiona luz azul.
+--- BLOCK [021] ---
+Hacha envuelta en rayo.
+Un arma digna del señor
+de los mares.
+--- BLOCK [022] ---
+Hacha envuelta en rayo.
+Un arma digna del señor
+de los mares.
+--- BLOCK [023] ---
+Hacha envuelta en rayo.
+Un arma digna del señor
+de los mares.
+--- BLOCK [024] ---
+Hacha espada de Lagiacrus
+marmóreo. Abrasa la tierra
+con rayos.
+--- BLOCK [025] ---
+Hacha espada de Lagiacrus
+marmóreo. Abrasa la tierra
+con rayos.
+--- BLOCK [026] ---
+Hacha espada de Lagiacrus
+del abismo. De tal furia que
+puede hacer hervir mares.
+--- BLOCK [027] ---
+Hacha espada de Lagiacrus
+del abismo. De tal furia que
+puede hacer hervir mares.
+--- BLOCK [028] ---
+Hacha espada con una hoja de
+hierro y placas de Arzuros.
+Mejora Afilado. Gran fuerza.
+--- BLOCK [029] ---
+Hacha espada con una hoja de
+hierro y placas de Arzuros.
+Mejora Afilado y fuerza.
+--- BLOCK [030] ---
+Hacha espada con una hoja de
+hierro y placas de Arzuros.
+Mejora Afilado. Gran fuerza.
+--- BLOCK [031] ---
+Hacha espada con una hoja de
+hierro y placas de Arzuros.
+Mejora Afilado. Gran fuerza.
+--- BLOCK [032] ---
+Hacha espada explosiva.
+La baba interior va donde
+se necesita.
+--- BLOCK [033] ---
+Hacha espada explosiva.
+La baba interior va donde
+se necesita.
+--- BLOCK [034] ---
+Hacha espada explosiva con
+poder de Brachydios. Los
+enemigos sufren dos veces.
+--- BLOCK [035] ---
+Hacha espada explosiva con
+poder de Brachydios. Los
+enemigos sufren dos veces.
+--- BLOCK [036] ---
+Hacha de caza hecha del
+tricolor Barioth. Congela
+la sangre.
+--- BLOCK [037] ---
+Hacha de caza hecha del
+tricolor Barioth. Congela
+la sangre.
+--- BLOCK [038] ---
+Nacida en el permafrost que
+invoca los vientos del norte
+y anuncia la muerte.
+--- BLOCK [039] ---
+Hacha espada de colmillos de
+Barioth supremos. Hace
+sentir el frío del sepulcro.
+--- BLOCK [040] ---
+Hacha espada de colmillos de
+Barioth supremos. Hace
+sentir el frío del sepulcro.
+--- BLOCK [041] ---
+Hacha espada con colmillos
+de Barioth arenoso. Por ella
+fluye líquido paralizante. 
+--- BLOCK [042] ---
+Hacha espada con colmillos
+de Barioth arenoso. Por ella
+fluye líquido paralizante. 
+--- BLOCK [043] ---
+Hacha espada con colmillos
+de Barioth arenoso. Por ella
+fluye líquido paralizante. 
+--- BLOCK [044] ---
+Hacha espada de plumas de
+Qurupeco endurecidas
+químicamente.
+--- BLOCK [045] ---
+Hacha espada de escamas
+y plumas de Qurupeco
+endurecidas químicamente.
+--- BLOCK [046] ---
+Hacha espada de escamas
+y plumas de Qurupeco
+endurecidas químicamente.
+--- BLOCK [047] ---
+Gran Hacha espada que
+requiere mucha fuerza. Lanza
+a enemigos por los aires.
+--- BLOCK [048] ---
+Gran Hacha espada que
+requiere mucha fuerza. Lanza
+a enemigos por los aires.
+--- BLOCK [049] ---
+Gran Hacha espada que
+requiere mucha fuerza. Lanza
+a enemigos por los aires.
+--- BLOCK [050] ---
+Gran Hacha espada que
+requiere mucha fuerza. Lanza
+a enemigos por los aires.
+--- BLOCK [051] ---
+Hacha espada carmesí con
+electricidad. Los materiales
+elásticos le dan alcance.
+--- BLOCK [052] ---
+Hacha espada carmesí con
+electricidad. Los materiales
+elásticos le dan alcance.
+--- BLOCK [053] ---
+Hacha espada carmesí con
+electricidad. Los materiales
+elásticos le dan alcance.
+--- BLOCK [054] ---
+Hacha espada roma. Más
+ligera de lo que parece,
+es de fácil manejo.
+--- BLOCK [055] ---
+Hacha espada roma. Más
+ligera de lo que parece,
+es de fácil manejo.
+--- BLOCK [056] ---
+Hacha espada roma. Más
+ligera de lo que parece,
+es de fácil manejo.
+--- BLOCK [057] ---
+Hacha espada que arranca la
+cabeza de wyverns voladores.
+Más fuerte que el acero.
+--- BLOCK [058] ---
+Hacha espada que arranca la
+cabeza de wyverns voladores.
+Más fuerte que el acero.
+--- BLOCK [059] ---
+Hacha espada extraña. Hasta
+la tierra gime de dolor
+por sus tremendos golpes.
+--- BLOCK [060] ---
+Hacha de partes duras de
+Duramboros. Mata wyverns
+voladores y agita la tierra.
+--- BLOCK [061] ---
+Hacha de partes duras de
+Duramboros. Mata wyverns
+voladores y agita la tierra.
+--- BLOCK [062] ---
+Hacha espada de armadura de
+púas de Diablos. Desgarra la
+carne y la separa del hueso.
+--- BLOCK [063] ---
+Hacha espada de la armadura
+de un tirano del desierto.
+Arma temible y brutal.
+--- BLOCK [064] ---
+Hacha espada de la armadura
+de un tirano del desierto.
+Arma temible y brutal.
+--- BLOCK [065] ---
+Hacha espada con el alma de
+una tirana negra. Consume el
+alma con su sed de sangre.
+--- BLOCK [066] ---
+Hacha espada con el alma de
+una tirana negra. Consume el
+alma con su sed de sangre.
+--- BLOCK [067] ---
+Hacha espada con el alma de
+una tirana negra. Consume el
+alma con su sed de sangre.
+--- BLOCK [068] ---
+Hacha espada hecha de
+las garras de fuego de
+un Agnaktor.
+--- BLOCK [069] ---
+Hacha escarlata que encierra
+el alma de un Agnaktor.
+Reduce a cenizas.
+--- BLOCK [070] ---
+Hacha escarlata que encierra
+el alma de un Agnaktor.
+Reduce a cenizas.
+--- BLOCK [071] ---
+Arma hecha amolando el pico
+de una bestia gélida de la
+tundra. Afilado asombroso.
+--- BLOCK [072] ---
+Arma hecha amolando el pico
+de una bestia gélida de la
+tundra. Afilado asombroso.
+--- BLOCK [073] ---
+Arma hecha amolando el pico
+de una bestia gélida de la
+tundra. Afilado asombroso.
+--- BLOCK [074] ---
+Hacha espada de concha dura
+y elástica de Volvidon.
+Sorprendentemente flexible.
+--- BLOCK [075] ---
+Hacha espada de concha dura
+y elástica de Volvidon.
+Sorprendentemente flexible.
+--- BLOCK [076] ---
+Hacha espada de concha dura
+y elástica de Volvidon.
+Sorprendentemente flexible.
+--- BLOCK [077] ---
+Hacha espada de concha dura
+y elástica de Volvidon.
+Sorprendentemente flexible.
+--- BLOCK [078] ---
+Hacha espada del mejor
+cazador hasta hoy. Su rayo
+anuncia el regreso del rey.
+--- BLOCK [079] ---
+Hacha espada del mejor
+cazador hasta hoy. Su rayo
+anuncia el regreso del rey.
+--- BLOCK [080] ---
+Hacha espada con el poder de
+un Zinogre estigio. Hace
+gritar a wyverns voladores.
+--- BLOCK [081] ---
+Hacha espada con el poder de
+un Zinogre estigio. Hace
+gritar a wyverns voladores.
+--- BLOCK [082] ---
+Hacha de partes de Ludroth
+real. Muy fácil cambiar
+de modo.
+--- BLOCK [083] ---
+Hacha de partes de Ludroth
+real. Muy fácil cambiar
+de modo.
+--- BLOCK [084] ---
+Hacha de partes de Ludroth
+real. Muy fácil cambiar
+de modo.
+--- BLOCK [085] ---
+Robusta hacha de caza de
+diseño oriental. Parte las
+escamas de wyvern.
+--- BLOCK [086] ---
+Robusta hacha de caza de
+diseño oriental. Parte las
+escamas de wyvern.
+--- BLOCK [087] ---
+Poderosa arma para guerreros
+probados. Copia del hacha
+de un rey oriental.
+--- BLOCK [088] ---
+Hacha espada elegante hecha
+de Plesioth. Sus brillantes
+aletas cortan a tiras.
+--- BLOCK [089] ---
+Hacha espada elegante hecha
+de Plesioth. Sus brillantes
+aletas cortan a tiras.
+--- BLOCK [090] ---
+Hacha espada de hoja de
+jade. Con Afilado diamantino
+y agente somnífero.
+--- BLOCK [091] ---
+Hacha espada presentada a la
+princesa de la batalla. La
+sangre resbala por su hoja.
+--- BLOCK [092] ---
+Hacha espada presentada a la
+princesa de la batalla. La
+sangre resbala por su hoja.
+--- BLOCK [093] ---
+Hacha espada presentada a la
+princesa de la batalla. La
+sangre resbala por su hoja.
+--- BLOCK [094] ---
+Hacha espada de una princesa
+de la batalla. Su belleza
+destacaba en combate.
+--- BLOCK [095] ---
+Hacha espada de Rathian rosa
+y Rathalos celeste. De quien
+venció a las dos bestias.
+--- BLOCK [096] ---
+Hacha espada de Rathian rosa
+y Rathalos celeste. De quien
+venció a las dos bestias.
+--- BLOCK [097] ---
+Hacha espada que presenta un
+gato de inquietante sonrisa.
+Mata sin dejar de sonreír.
+--- BLOCK [098] ---
+Hacha espada que presenta un
+gato de inquietante sonrisa.
+Mata sin dejar de sonreír.
+--- BLOCK [099] ---
+Hacha espada que presenta un
+gato de inquietante sonrisa.
+Mata sin dejar de sonreír.
+--- BLOCK [100] ---
+Hecha de mineral antiguo,
+y encarnación de un espíritu
+humano inflexible.
+--- BLOCK [101] ---
+Hecha de mineral antiguo,
+y encarnación de un espíritu
+humano inflexible.
+--- BLOCK [102] ---
+Arma de piedra que encierra
+un alma antigua. El tiempo
+la ha afilado.
+--- BLOCK [103] ---
+Arma de piedra que encierra
+un alma antigua. El tiempo
+la ha afilado.
+--- BLOCK [104] ---
+Arma de piedra que encierra
+un alma antigua. El tiempo
+la ha afilado.
+--- BLOCK [105] ---
+Legendaria Hacha espada
+labrada en el cuerno de un
+Ceadeus. Su interior brilla.
+--- BLOCK [106] ---
+Legendaria Hacha espada
+labrada en el cuerno de un
+Ceadeus. Su interior brilla.
+--- BLOCK [107] ---
+Ira de Ceadeus en forma de
+arma. Puede partir el mar
+y agitar la tierra.
+--- BLOCK [108] ---
+Temible Hacha espada, de
+hueso de Alatreon, oscura
+como la aurora primordial.
+--- BLOCK [109] ---
+Arma robaalmas. Anuncia el
+fin de la humanidad y el
+advenimiento del dragón.
+--- BLOCK [110] ---
+Arma robaalmas. Anuncia el
+fin de la humanidad y el
+advenimiento del dragón.
+--- BLOCK [111] ---
+Hacha espada fiera que
+vaticina el fin. Las llamas
+lo consumirán todo.
+--- BLOCK [112] ---
+Hacha espada fiera que
+vaticina el fin. Las llamas
+lo consumirán todo.
+--- BLOCK [113] ---
+DUMMY
+--- BLOCK [114] ---
+DUMMY
+--- BLOCK [115] ---
+Hoja que se debate entre la
+luz y las tinieblas. Puede
+hacer el bien o el mal.
+--- BLOCK [116] ---
+Tras años de investigación,
+un arma que puede adoptar la
+elegancia de un dragón.
+--- BLOCK [117] ---

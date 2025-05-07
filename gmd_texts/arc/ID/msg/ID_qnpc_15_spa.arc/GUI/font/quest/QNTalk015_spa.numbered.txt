@@ -1,0 +1,193 @@
+﻿TMSG_QNTALK002_000
+--- BLOCK [001] ---
+TMSG_QNTALK002_001
+--- BLOCK [002] ---
+¡Objetivo fijado!
+Permiso para llorar como bebé, señor.
+--- BLOCK [003] ---
+¡Cha-Cha no alista para esto!
+--- BLOCK [004] ---
+Marcha militar abre estómago.
+¡Cha-Cha zampa mucho rancho!
+--- BLOCK [005] ---
+¡Soldado Cha-Cha tiene a veces trauma
+de guerra! Pero ahora, mejor.
+--- BLOCK [006] ---
+¡Soldado Cha-Cha en su puesto, señor!
+¡Operación Cosecha-cha Salvaje completa!
+--- BLOCK [007] ---
+Soldado Cha-Cha comenzará con
+recogida en campo de batalla, señor.
+--- BLOCK [008] ---
+¡Soldado Cha-Cha pide permiso para
+bailar, señor!
+--- BLOCK [009] ---
+¡Izquierda! ¡Derecha! ¡Izquierda! 
+¡Soldado Cha-Cha en servicio de baile!
+--- BLOCK [010] ---
+¡Misión completa, señor!
+¡Cha-Cha baila como fuerzas especiales!
+--- BLOCK [011] ---
+Cha-Cha falla Operación Chachachá,
+señor. Cava trinchera para esconderse.
+--- BLOCK [012] ---
+Trampa choque lista, señor.
+¡Es nuestro momento!
+--- BLOCK [013] ---
+¡Soldado Cha-Cha no entrado en combate!
+--- BLOCK [014] ---
+Cha-Cha solo siente tener una sola vida
+para entregar por su jefe...
+--- BLOCK [015] ---
+¡Eso es, jefe! ¡Se acabó,
+mucha-chacho! ¡Se acabó!
+--- BLOCK [016] ---
+¡Médico! ¡Médico! ¡Soldado Cha-Cha
+necesita evacuación de frente!
+--- BLOCK [017] ---
+¡Soldado Cha-Cha necesita un permiso!
+¡Deja misión en tus manos, jefe!
+--- BLOCK [018] ---
+¡Infierno para monstruos,
+hogar para Cha-Cha!
+--- BLOCK [019] ---
+¡Negativo, jefe!
+¡Cha-Cha aún planeando estrategia!
+--- BLOCK [020] ---
+¡Trampa escollo lista, señor!
+¡Soldado Cha-Cha dispara y olvida!
+--- BLOCK [021] ---
+¡Señor! ¡Gracias, señor!
+--- BLOCK [022] ---
+DUMMY
+--- BLOCK [023] ---
+¡Rancho exquisito, jefe!
+--- BLOCK [024] ---
+¡Ha dado en el blanco, jefe!
+--- BLOCK [025] ---
+¡Buaj! Antes que esto, Cha-Cha
+come tierra que cava.
+--- BLOCK [026] ---
+¡Buen trabajo, jefe!
+¡Igual que en guía de campo!
+--- BLOCK [027] ---
+¿No aprende cocina en entrenamiento
+básico, señor?
+--- BLOCK [028] ---
+¡Cargas listas, señor!
+¡Deja bomba a Cha-Cha, jefe!
+--- BLOCK [029] ---
+¡No te me mueras, jefe!
+¡En pie, señor!
+--- BLOCK [030] ---
+¡Cacémoslos y que los dioses
+escojan los suyos!
+--- BLOCK [031] ---
+¡Cúbreme, señor! ¡Cha-Cha entra!
+--- BLOCK [032] ---
+Siempre hay paz antes de la caza...
+¿Verdad, jefe?
+--- BLOCK [033] ---
+¡Soldado Cha-Cha es ejército de
+un Shakalaka!
+--- BLOCK [034] ---
+¡Compañero de Cha-Cha es inútil!
+¡Cha-Cha ausenta sin permiso!
+--- BLOCK [035] ---
+¡Cha-Cha no abandona ningún Shakalaka!
+¡Arrancarán máscara de sus dedos yertos!
+--- BLOCK [036] ---
+¡Cha-Cha une a danza de guerra! ¡Ho-cha!
+--- BLOCK [037] ---
+DUMMY
+--- BLOCK [038] ---
+¡Soldado Kayamba divisa blanco
+de ojos de monstruo, señor!
+--- BLOCK [039] ---
+¡Vete, señor! Soldado Kayamba se queda.
+Da cobertura a retaguardia.
+--- BLOCK [040] ---
+Guarda rancho para emergencia, señor.
+Kayamba no quiere comerse las manos.
+--- BLOCK [041] ---
+Soldado Kayamba enfada a veces...
+¡Pero ahora, todo correcto, señor!
+--- BLOCK [042] ---
+¡Iniciando pillaje, señor!
+--- BLOCK [043] ---
+¡Iniciando operación de rescate, señor!
+--- BLOCK [044] ---
+¡Kayamba no sabe, pero le han dicho!
+¡Baile de Kayamba fuera de control!
+--- BLOCK [045] ---
+¡Kayamba baila hasta caer o morir!
+--- BLOCK [046] ---
+¡Permiso para descansar, señor!
+--- BLOCK [047] ---
+¡Baile de soldado fracasa, señor!
+¡Kayamba hace 200 flexiones, señor!
+--- BLOCK [048] ---
+¡Trampa choque lista, señor!
+--- BLOCK [049] ---
+¡No matarán a este soldado, señor!
+--- BLOCK [050] ---
+Soldado Kayamba... cae en...
+foso sin fondo..., señor...
+--- BLOCK [051] ---
+Llevad a soldado Kayamba... a casa con
+su máscara...
+--- BLOCK [052] ---
+¡Soldado Kayamba solicita permiso,
+señor!
+--- BLOCK [053] ---
+¡Kayamba regresa, señor!
+¡Hurra!
+--- BLOCK [054] ---
+¡Soldado Kayamba es ministro de la
+muerte y busca guerra!
+--- BLOCK [055] ---
+Señor, ¡soldado Kayamba no puede cumplir
+esa orden hasta terminar preparativos!
+--- BLOCK [056] ---
+¡Trampa escollo lista, señor! ¡Yam-ba!
+--- BLOCK [057] ---
+... ¿Señor?
+--- BLOCK [058] ---
+DUMMY
+--- BLOCK [059] ---
+¡Un rancho delicioso, señor!
+--- BLOCK [060] ---
+El rancho no está mal, señor.
+--- BLOCK [061] ---
+¡Ese rancho como lodo de pantano, señor!
+--- BLOCK [062] ---
+¡Buen trabajo, señor! ¡Soldado Kayamba
+recomienda para medalla de honor!
+--- BLOCK [063] ---
+¿Qué impedimento tienes, señor?
+--- BLOCK [064] ---
+¡Fuego en trinchera!
+--- BLOCK [065] ---
+¡Es pronto para rendirse, señor!
+¡No quiere roja insignia de valor!
+--- BLOCK [066] ---
+¡Ahora la misión es el monstruo, señor!
+--- BLOCK [067] ---
+¡Soldado Kayamba en su puesto, señor!
+--- BLOCK [068] ---
+A Kayamba encanta el olor de carne
+asada por la mañana...
+--- BLOCK [069] ---
+Debes a soldado Kayamba 50 cabelleras de
+monstruo. Y Kayamba las quiere ya.
+--- BLOCK [070] ---
+Soldado Kayamba trabaja solo hoy.
+¡Atrás!
+--- BLOCK [071] ---
+¡Kayamba no deja nadie atrás!
+--- BLOCK [072] ---
+Soldado Kayamba no ve razón para que
+combatientes no bailen, señor.
+--- BLOCK [073] ---
+DUMMY
+--- BLOCK [074] ---

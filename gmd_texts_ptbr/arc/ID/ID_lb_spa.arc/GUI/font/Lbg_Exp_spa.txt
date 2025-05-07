@@ -1,0 +1,388 @@
+TMSG_LBG_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Balestra leve para presas pequenas.
+Grande capacidade de tiros
+de chumbinho nível 1.
+--- BLOCK ---
+Arma de tiros de
+chumbinho Nv1 rápidos, eficaz
+contra monstros pequenos.
+--- BLOCK ---
+Arma de tiros de
+chumbinho Nv1 rápidos, eficaz
+contra monstros pequenos.
+--- BLOCK ---
+Balestra leve de
+caçadores experientes. Simples,
+mas poderosa.
+--- BLOCK ---
+Balestra leve de
+caçadores experientes. Simples,
+mas poderosa.
+--- BLOCK ---
+Balestra leve de
+caçadores experientes. Simples,
+mas poderosa.
+--- BLOCK ---
+Balestra leve de concha
+de Barroth. Tiros poderosos,
+mas com pouca mira.
+--- BLOCK ---
+Balestra leve de concha
+de Barroth. Tiros poderosos,
+mas com pouca mira.
+--- BLOCK ---
+Balestra leve de concha
+de Barroth. Tiros poderosos,
+mas com pouca mira.
+--- BLOCK ---
+Balestra leve como Barroth
+esmeralda. Um refrigerador
+permite maior potência.
+--- BLOCK ---
+Balestra leve como Barroth
+esmeralda. Um refrigerador
+permite maior potência.
+--- BLOCK ---
+Balestra leve como Barroth esmeralda.
+O corpo de gelo
+lhe dá força extrema.
+--- BLOCK ---
+Balestra leve como Barroth esmeralda.
+O corpo de gelo
+lhe dá força extrema.
+--- BLOCK ---
+Balestra leve de armadura
+de Brachydios. A baba
+tem um brilho inquietante.
+--- BLOCK ---
+Balestra leve de armadura
+de Brachydios. A baba
+tem um brilho inquietante.
+--- BLOCK ---
+Arma com o caráter explosivo
+de um Brachydios. Sua
+luz insinua grande poder.
+--- BLOCK ---
+Arma com o caráter explosivo
+de um Brachydios. Sua
+luz insinua grande poder.
+--- BLOCK ---
+Balestra leve de partes
+de Gran Jaggi. Projetada
+contra monstros grandes.
+--- BLOCK ---
+Balestra leve feita com partes
+de Gran Jaggi. Criada
+para enfrentar monstros grandes.
+--- BLOCK ---
+Balestra leve feita com partes
+de Gran Jaggi. Acalma
+as presas até adormecê-las.
+--- BLOCK ---
+Arma feita com as melhores
+partes de um Gran Jaggi.
+Como a besta, golpeia inimigos.
+--- BLOCK ---
+Balestra leve feita de
+material esponjoso. Combina com
+disparos de água.
+--- BLOCK ---
+Balestra leve feita de
+material esponjoso. Combina com
+disparos de água.
+--- BLOCK ---
+Balestra leve feita de
+material esponjoso. Combina com
+disparos de água.
+--- BLOCK ---
+Balestra leve para diversos
+tipos de munição.
+Também dispara água.
+--- BLOCK ---
+Balestra leve para diversos
+tipos de munição.
+Também dispara água.
+--- BLOCK ---
+Balestra leve para diversos
+tipos de munição.
+Também dispara água.
+--- BLOCK ---
+Balestra versátil para vários
+tipos de munição. Útil
+em qualquer situação.
+--- BLOCK ---
+Balestra leve, poderosa e
+versátil. Possui a força
+de uma fera tempestuosa.
+--- BLOCK ---
+Balestra leve feita com partes
+de Gobul. O farol
+auxilia na mira precisa.
+--- BLOCK ---
+Balestra leve feita com partes
+de Gobul. O farol
+auxilia na mira precisa.
+--- BLOCK ---
+Balestra leve feita com partes
+de Gobul. O farol
+auxilia na mira precisa.
+--- BLOCK ---
+Balestra leve feita com partes
+de bestas de rio. Dispara
+projéteis paralisantes que atordoam.
+--- BLOCK ---
+Balestra leve feita com partes
+de bestas de rio. Dispara
+projéteis paralisantes que atordoam.
+--- BLOCK ---
+Misteriosa arma explosiva feita com
+partes estranhas. Produz um som
+peculiar ao ser carregada.
+--- BLOCK ---
+Misteriosa arma explosiva feita com
+partes estranhas. Produz um som
+peculiar ao ser carregada.
+--- BLOCK ---
+Balestra sinistra feita com partes
+de Gigginox. Saboreia o corpo
+e alma dos inimigos.
+--- BLOCK ---
+Balestra leve possuída por
+almas de mortos-vivos. Leva
+consigo os vivos.
+--- BLOCK ---
+Balestra leve possuída por
+almas de mortos-vivos. Leva
+consigo os vivos.
+--- BLOCK ---
+Arma aterrorizante de Gigginox
+com almas de mortos.
+Seus disparos paralisam.
+--- BLOCK ---
+Arma aterrorizante de Gigginox
+com almas de mortos.
+Seus disparos paralisam.
+--- BLOCK ---
+Arma aterrorizante de Gigginox com
+fúria dos mortos. Final
+amargo para os inimigos.
+--- BLOCK ---
+Arma aterrorizante de Gigginox com
+fúria dos mortos. Final
+amargo para os inimigos.
+--- BLOCK ---
+Balestra branca feita com
+partes de Barioth. Dispara
+rapidamente projéteis congelantes.
+--- BLOCK ---
+Balestra branca feita com
+partes de Barioth. Dispara
+rapidamente projéteis congelantes.
+--- BLOCK ---
+Balestra com o poder de
+um Barioth. Suas balas
+de gelo causam nevascas.
+--- BLOCK ---
+Balestra leve com o poder
+de uma tempestade de areia.
+Inicia uma era de gelo.
+--- BLOCK ---
+Balestra leve com o poder
+de uma tempestade de areia.
+Inicia uma era de gelo.
+--- BLOCK ---
+Balestra leve elegante de
+Rathian. Seus projéteis matam
+em nome da rainha.
+--- BLOCK ---
+Balestra leve elegante de
+Rathian. Seus projéteis matam
+em nome da rainha.
+--- BLOCK ---
+Balestra leve elegante de
+Rathian. Seus projéteis matam
+em nome da rainha.
+--- BLOCK ---
+Balestra leve que concentra
+fogo em um único
+ponto. Pequena, mas forte.
+--- BLOCK ---
+Balestra leve que concentra
+fogo em um único
+ponto. Pequena, mas forte.
+--- BLOCK ---
+Balestra brilhante do wyvern
+rei. Os inimigos não
+têm onde se esconder.
+--- BLOCK ---
+Balestra de ébano, negra
+como a noite. Dois
+canhões espreitam na escuridão.
+--- BLOCK ---
+Balestra dupla que se perde
+na noite. Quem a
+vê encontrará a morte.
+--- BLOCK ---
+Balestra forte que rege
+o crepúsculo. Ouça
+os inimigos sussurrarem.
+--- BLOCK ---
+Balestra forte que rege
+o crepúsculo. Ouça
+os inimigos sussurrarem.
+--- BLOCK ---
+Balestra que ilumina com
+seus disparos. Rouba a
+vida dos andarilhos noturnos.
+--- BLOCK ---
+Balestra leve feita de
+partes de Lagiacrus. Com
+eletricidade de alto voltagem.
+--- BLOCK ---
+Balestra leve feita de
+partes de Lagiacrus. Com
+eletricidade de alto voltagem.
+--- BLOCK ---
+Balestra leve feita de
+partes de Lagiacrus. Com
+eletricidade de alto voltagem.
+--- BLOCK ---
+Balestra de um Lagiacrus
+marmóreo. Com disparos
+de trovão abrasadores.
+--- BLOCK ---
+Balestra de um Lagiacrus
+marmóreo. Com disparos
+de trovão abrasadores.
+--- BLOCK ---
+Balestra com disparos de chamas
+que queimam em nome
+do rei dos céus.
+--- BLOCK ---
+Balestra com disparos de chamas
+que queimam em nome
+do rei dos céus.
+--- BLOCK ---
+Balestra leve com o poder
+de um Rathalos. Sua cólera
+consome com um fogo atroz.
+--- BLOCK ---
+Balestra com a alma de
+um Rathalos celeste. Até os
+deuses se curvam diante dela.
+--- BLOCK ---
+Balestra com a alma de
+um Rathalos celeste. Até os
+deuses se curvam diante dela.
+--- BLOCK ---
+Balestra com instintos de um
+monarca. Os disparos marcam o
+início da caça real.
+--- BLOCK ---
+Balestra com instintos de um
+monarca. Os disparos marcam o
+início da caça real.
+--- BLOCK ---
+Balestra com instintos de um
+monarca. Os disparos marcam o
+início da caça real.
+--- BLOCK ---
+Balestra com instintos de um
+monarca. Os disparos marcam o
+início da caça real.
+--- BLOCK ---
+Arma com fúria de Lagiacrus
+do abismo. Seus disparos de
+trovão impactam como raios.
+--- BLOCK ---
+Balestra que lança raios
+vermelhos. Seu rugido
+invoca o inferno.
+--- BLOCK ---
+Balestra de Duramboros. Seus
+disparos de fadiga Nv1
+enfraquecem a Resistência.
+--- BLOCK ---
+Balestra de Duramboros. Seus
+disparos de fadiga Nv1
+enfraquecem a Resistência.
+--- BLOCK ---
+Balestra que lembra um
+Duramboros. Lança ataques fortes
+como a besta.
+--- BLOCK ---
+Balestra com o poder
+de um Duramboros enferrujado.
+Destroi céu e terra.
+--- BLOCK ---
+Balestra com o poder
+de um Duramboros enferrujado.
+Destroi céu e terra.
+--- BLOCK ---
+Balestra aterrorizante que dizem
+ter sido criada em
+uma oficina escura.
+--- BLOCK ---
+Balestra aterrorizante que dizem
+ter sido criada em
+uma oficina escura.
+--- BLOCK ---
+Balestra leve polida com
+sangue de Deviljho. Te
+persegue até o túmulo.
+--- BLOCK ---
+Balestra leve polida com
+sangue de Deviljho. Te
+persegue até o túmulo.
+--- BLOCK ---
+Balestra leve de design
+diferente do da
+Guilda. Desempenho excepcional.
+--- BLOCK ---
+Balestra leve de design
+diferente do da
+Guilda. Desempenho excepcional.
+--- BLOCK ---
+Balestra de uma chaleira que
+contém um Felyne. O Fogo
+rápido o faz sair.
+--- BLOCK ---
+¿Balestra ou bastão de um
+Felyne? Deixe Vid Felyne
+na Guilda para pagá-lo.
+--- BLOCK ---
+¿Balestra ou bastão de um
+Felyne? Deixe Vid Felyne
+na Guilda para pagá-lo.
+--- BLOCK ---
+Balestra misteriosa da
+antiguidade. Diferente de
+tudo da Guilda.
+--- BLOCK ---
+Balestra misteriosa da
+antiguidade. Diferente de
+tudo da Guilda.
+--- BLOCK ---
+Balestra misteriosa da
+antiguidade. Diferente de
+tudo da Guilda.
+--- BLOCK ---
+Balestra de uma lembrança
+de uma vila próxima
+às Cumbres Tempestuosas.
+--- BLOCK ---
+Balestra de uma lembrança
+de uma vila próxima
+às Cumbres Tempestuosas.
+--- BLOCK ---
+Balestra leve aprimorada muito
+procurada. Incrível que tenha
+sido vendida como bugiganga.
+--- BLOCK ---
+Arma que julga homens e
+deuses. Um disparo mergulha tudo
+em chamas e trevas.
+--- BLOCK ---

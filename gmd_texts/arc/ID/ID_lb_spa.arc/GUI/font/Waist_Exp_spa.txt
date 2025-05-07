@@ -1,0 +1,1368 @@
+﻿TMSG_WAIST_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Cinturón hecho de cuero y
+otros materiales ligeros.
+Equipo general básico.
+--- BLOCK ---
+Armadura de cintura para
+usarse bajo el agua, con
+pesas de plomo y un tanque.
+--- BLOCK ---
+Un cinturón sencillo, pero
+de fabricación especial.
+Ligero sobre las caderas.
+--- BLOCK ---
+Armadura de cintura para el
+desierto, usada por su
+resistencia al calor.
+--- BLOCK ---
+Armadura de cintura especial
+para cazadores. Flexible
+pero duradera, muy usada.
+--- BLOCK ---
+Armadura de cintura especial
+para cazadores. Gran diseño
+hasta el mínimo detalle.
+--- BLOCK ---
+Armadura de cintura adornada
+con huesos de monstruos. Se
+caracteriza por las púas.
+--- BLOCK ---
+Armadura de cintura hecha de
+huesos de monstruo. Corta,
+pero muy práctica.
+--- BLOCK ---
+Armadura de cintura hecha de
+Mineral machalita. Su fino
+diseño es realmente bello.
+--- BLOCK ---
+Armadura de cintura hecha de
+Mineral machalita. Su diseño
+muestra una gran artesanía.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Jaggi. Un genial
+uso para la piel de Jaggi.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Jaggi. El diseño
+es bastante llamativo.
+--- BLOCK ---
+Armadura de cintura creada
+para un aristócrata al que
+le guste reunir rarezas.
+--- BLOCK ---
+Armadura de cintura hecha de
+alas de insecto. Llévala y
+serás el amo de la fiesta.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Rhenoplos. Para
+buscar agua o minerales.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Rhenoplos, da gran
+cobertura para las piernas.
+--- BLOCK ---
+Armadura de cintura hecha de
+vistosas plumas de Qurupeco.
+Extremadamente ignífuga.
+--- BLOCK ---
+Armadura de cintura creada
+con partes de Qurupeco.
+Toda una obra de arte.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Ludroth. La falda
+protege bien las piernas.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Ludroth. Creada
+por un famoso diseñador.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura de 
+partes de Baggi. Protección
+práctica para la cintura.
+--- BLOCK ---
+Armadura de cintura de 
+partes de Baggi. Protección
+práctica para la cintura.
+--- BLOCK ---
+Armadura de cintura hecha de
+coraza de Barroth muy dura
+e impenetrable.
+--- BLOCK ---
+Flexible, pero resistente;
+dos extremos sorprendentes
+en una armadura de cintura.
+--- BLOCK ---
+Armadura de cintura de
+origen oriental y antiguo.
+Sigue usándose hoy en día.
+--- BLOCK ---
+Armadura de cintura oriental
+que hace al que la lleva
+parecer que está bailando.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equipo usado por caballeros
+defensores de la ciudad.
+Poco usado por cazadores.
+--- BLOCK ---
+Equipo usado por caballeros
+defensores de la ciudad. 
+Llevarlo es todo un honor.
+--- BLOCK ---
+Armadura de cintura usada
+por empleadas del Gremio.
+Hace parecer más delgada.
+--- BLOCK ---
+Armadura de cintura usada
+por empleadas del Gremio.
+Muy familiar para cazadores.
+--- BLOCK ---
+Armadura de cintura real
+verde que intimidará incluso
+al monstruo más despiadado.
+--- BLOCK ---
+Armadura de cintura creída
+encarnación de su majestad
+la reina de la tierra.
+--- BLOCK ---
+La luz de la luna hace que 
+esta armadura de cintura
+proyecte una bella silueta.
+--- BLOCK ---
+Armadura de cintura notable
+por su longitud, que llega a
+los pies. Simple pero bella.
+--- BLOCK ---
+Armadura de cintura hecha 
+con mucho Mineral dragonita.
+Sigue contorno del cuerpo.
+--- BLOCK ---
+Armadura de cintura hecha 
+con mucho Mineral dragonita
+y nuevas técnicas de forja.
+--- BLOCK ---
+Armadura de cintura, señal 
+del heroísmo de derrotar al
+Lagiacrus. Resiste impactos.
+--- BLOCK ---
+Armadura de cintura para 
+los que matan un Lagiacrus. 
+Un real emblema al honor.
+--- BLOCK ---
+Armadura de cintura carmesí
+impregnada de victoria. Da
+un atractivo como de wyvern.
+--- BLOCK ---
+Armadura de cintura de 
+partes de Rathalos. Parece
+una llama parpadeante.
+--- BLOCK ---
+Armadura de cintura hecha de
+Barioth. Emana el espíritu
+del caballero de la tundra.
+--- BLOCK ---
+Armadura de cintura hecha de
+Barioth. Prueba haber matado
+al caballero de la tundra.
+--- BLOCK ---
+Armadura de cintura de
+partes de Diablos. Defensa
+para quien venció al tirano.
+--- BLOCK ---
+Armadura de cintura de
+partes de Diablos. Los
+ataques normales no sirven.
+--- BLOCK ---
+Armadura de cintura pesada
+de Uragaan. Sus placas
+protegen hasta la rodilla.
+--- BLOCK ---
+Armadura de cintura pesada
+hecha de Uragaan. Protección
+tremendamente fiable.
+--- BLOCK ---
+Armadura de cintura hecha de
+Agnaktor. Su placa bermeja
+extingue cualquier fuego.
+--- BLOCK ---
+Armadura de cintura de 
+Agnaktor que incorpora
+diseños de la antigüedad.
+--- BLOCK ---
+Armadura de cintura hecha de
+Ceadeus. Con múltiples capas
+de placas duras y blancas.
+--- BLOCK ---
+Armadura de cintura hecha de
+Ceadeus. Encarna al gigante
+de las profundidades.
+--- BLOCK ---
+Armadura de cintura hecha de
+Ceadeus. Con múltiples capas
+de placas duras y blancas.
+--- BLOCK ---
+Armadura de cintura hecha de
+Ceadeus. Encarna al gigante
+de las profundidades.
+--- BLOCK ---
+Armadura de cintura de
+cazador extranjero.
+Conserva el aspecto.
+--- BLOCK ---
+Armadura de cintura para
+armas a distancia.
+Ideal para Artilleros.
+--- BLOCK ---
+Armadura de cintura de
+partes de Arzuros. Es
+modesta y funcional.
+--- BLOCK ---
+Armadura de cintura de
+partes de Arzuros. El
+taparrabos es tradicional.
+--- BLOCK ---
+Armadura de cintura única
+diseñada para su uso diario
+en climas gélidos.
+--- BLOCK ---
+Armadura de cintura para
+regiones heladas. Se usa
+como equipo de caza.
+--- BLOCK ---
+Armadura de cintura que
+reverencia al espíritu del
+fuego, algo poco habitual.
+--- BLOCK ---
+Armadura de cintura de
+concha de Volvidon,
+ideal para Artilleros.
+--- BLOCK ---
+El Gremio la diseñó para que
+fuera contra impactos y
+contra wyverns voladores.
+--- BLOCK ---
+Armadura de cintura
+exoesquelética mejorada.
+Aún es un prototipo.
+--- BLOCK ---
+Armadura de cintura de
+concha de Duramboros.
+Confiere gran fuerza.
+--- BLOCK ---
+Armadura que cubre la
+cintura. Solo un cazador
+es capaz de usarla.
+--- BLOCK ---
+Armadura de cintura muy
+funcional. A veces envuelve
+los hombros.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura de 
+cuero y materiales ligeros.
+Básica pero dura.
+--- BLOCK ---
+Armadura de cintura de 
+cuero de primera. Sencilla,
+pero otorga gran defensa.
+--- BLOCK ---
+Armadura de cintura para
+usarse bajo el agua, con
+pesas de plomo y un tanque.
+--- BLOCK ---
+Armadura de cintura para
+usarse bajo el agua, con
+pesas de plomo y un tanque.
+--- BLOCK ---
+Un cinturón sencillo, pero
+de fabricación especial.
+Ligero sobre las caderas.
+--- BLOCK ---
+Aspecto ordinario, efecto 
+extraordinario. Ejemplo 
+de artesanía excepcional.
+--- BLOCK ---
+Armadura de cintura
+resistente al calor, de
+fabricación especial.
+--- BLOCK ---
+Armadura de cintura para el 
+desierto. Absorbe una
+cantidad increíble de calor.
+--- BLOCK ---
+Armadura de cintura para
+cazadores de élite. Además
+de fuerte, muy flexible.
+--- BLOCK ---
+Armadura de cintura para
+cazadores de élite. Diseñado
+hasta el mínimo detalle.
+--- BLOCK ---
+Armadura de cintura adornada
+con huesos de calidad. Se
+caracteriza por las púas.
+--- BLOCK ---
+Armadura de cintura de 
+huesos de calidad. Corta,
+pero muy práctica.
+--- BLOCK ---
+Armadura de cintura hecha 
+con un raro mineral. Muy
+funcional y sin adornos.
+--- BLOCK ---
+Armadura de cintura de 
+un raro mineral. Su brillo
+único es muy hermoso.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Jaggi. Un genial
+uso para la piel de Jaggi.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Jaggi. El diseño
+es bastante llamativo.
+--- BLOCK ---
+Armadura de cintura creada
+para un aristócrata al que
+le guste reunir rarezas.
+--- BLOCK ---
+Armadura de cintura de 
+caparazón de insecto. Con
+ella brillarás en la fiesta.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Rhenoplos. Para
+buscar agua o minerales.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Rhenoplos, da gran
+cobertura para las piernas.
+--- BLOCK ---
+Armadura de cintura hecha de
+vistosas plumas de Qurupeco.
+Extremadamente ignífuga.
+--- BLOCK ---
+Armadura de cintura creada
+con partes de Qurupeco.
+Toda una obra de arte.
+--- BLOCK ---
+Armadura de cintura de
+plumas de Qurupeco. Muestra
+respeto por la naturaleza.
+--- BLOCK ---
+Armadura de cintura creada
+con partes de Qurupeco.
+Toda una obra de arte.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Ludroth. La falda
+protege bien las piernas.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Ludroth. Creada
+por un famoso diseñador.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Ludroth. La falda
+protege bien las piernas.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Ludroth. Creada
+por un famoso diseñador.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura de 
+Baggi. Llévala y nunca te
+volverá a molestar el calor.
+--- BLOCK ---
+Armadura de cintura ligera
+de Baggi. Emana una
+cualidad ventosa.
+--- BLOCK ---
+Armadura de cintura de
+cazador extranjero.
+Conserva el aspecto.
+--- BLOCK ---
+Armadura de cintura para
+armas a distancia.
+Ideal para Artilleros.
+--- BLOCK ---
+Armadura de cintura de
+partes de Arzuros. Es
+modesta y funcional.
+--- BLOCK ---
+Armadura de cintura de
+partes de Arzuros. El
+taparrabos es tradicional.
+--- BLOCK ---
+Armadura de cintura única
+diseñada para su uso diario
+en climas gélidos.
+--- BLOCK ---
+Armadura de cintura para
+regiones heladas. Se usa
+como equipo de caza.
+--- BLOCK ---
+Armadura de cintura que
+reverencia al espíritu del
+fuego, algo poco habitual.
+--- BLOCK ---
+Armadura de cintura de
+concha de Volvidon,
+ideal para Artilleros.
+--- BLOCK ---
+Armadura de cintura hecha de
+coraza de Barroth muy dura
+e impenetrable.
+--- BLOCK ---
+Flexible, pero resistente;
+dos extremos sorprendentes
+en una armadura de cintura.
+--- BLOCK ---
+Armadura de cintura hecha
+con la del durísimo Barroth
+esmeralda.
+--- BLOCK ---
+Flexible, pero resistente;
+dos extremos sorprendentes
+en una armadura de cintura.
+--- BLOCK ---
+Armadura de cintura de
+origen oriental y antiguo.
+Sigue usándose hoy en día.
+--- BLOCK ---
+Armadura de cintura oriental
+que hace al que la lleva
+parecer que está bailando.
+--- BLOCK ---
+Equipo usado por caballeros
+defensores de la ciudad.
+Poco usado por cazadores.
+--- BLOCK ---
+Equipo usado por caballeros
+defensores de la ciudad. 
+Llevarlo es todo un honor.
+--- BLOCK ---
+Armadura de cintura usada
+por empleadas del Gremio.
+Hace parecer más delgada.
+--- BLOCK ---
+Armadura de cintura usada
+por empleadas del Gremio.
+Muy familiar para cazadores.
+--- BLOCK ---
+Armadura de cintura real
+verde que intimidará incluso
+al monstruo más despiadado.
+--- BLOCK ---
+Armadura de cintura creída
+encarnación de su majestad
+la reina de la tierra.
+--- BLOCK ---
+Armadura de cintura de gran
+belleza. Confiere fuerza y
+equilibrio.
+--- BLOCK ---
+Armadura de cintura
+homenaje a Rathian. Apaga
+las llamas que se acercan.
+--- BLOCK ---
+La luz de la luna hace que 
+esta armadura de cintura
+proyecte una bella silueta.
+--- BLOCK ---
+Armadura de cintura notable
+por su longitud, que llega a
+los pies. Simple pero bella.
+--- BLOCK ---
+La luz de la luna hace que 
+esta armadura de cintura
+proyecte una bella silueta.
+--- BLOCK ---
+Armadura de cintura notable
+por su longitud, que llega a
+los pies. Simple pero bella.
+--- BLOCK ---
+Armadura de cintura de 
+un raro mineral. Sigue
+el contorno del cuerpo.
+--- BLOCK ---
+Armadura de cintura con un
+hermoso brillo metálico. Su
+movilidad nace del estudio.
+--- BLOCK ---
+Armadura de cintura de 
+huesos negros desconocidos,
+quizá de un rey dragón.
+--- BLOCK ---
+Armadura de cintura de 
+huesos negros desconocidos.
+Resucitados por los dioses.
+--- BLOCK ---
+Armadura de cintura muy
+funcional. A veces envuelve
+los hombros.
+--- BLOCK ---
+Armadura de cintura de
+Yukumo. Muy modificada
+para Artilleros.
+--- BLOCK ---
+Armadura de cintura de
+partes de insectos. Para
+un campeón de los insectos.
+--- BLOCK ---
+Armadura de cintura de
+insectos. Ni el colmillo de
+wyvern volador lo raya.
+--- BLOCK ---
+Armadura de cintura de
+partes de insectos. Ni
+el barro la mancha.
+--- BLOCK ---
+Armadura de cintura de
+partes de insectos. El
+orgullo de su creador.
+--- BLOCK ---
+Armadura de cintura de
+calabazas. Un artesano
+tenía tiempo libre...
+--- BLOCK ---
+Armadura de cintura de
+calabazas. Por detrás
+parece un fantasma.
+--- BLOCK ---
+Armadura de cintura, señal 
+del heroísmo de derrotar al
+Lagiacrus. Resiste impactos.
+--- BLOCK ---
+Armadura de cintura para 
+los que matan un Lagiacrus. 
+Un real emblema al honor.
+--- BLOCK ---
+Armadura de cintura
+de Lagiacrus marmóreo. Se
+usaron Conchas descarga.
+--- BLOCK ---
+Armadura de cintura de
+Lagiacrus marmóreo. Tiene
+espacios para munición.
+--- BLOCK ---
+Armadura de cintura carmesí
+impregnada de victoria. Da
+un atractivo como de wyvern.
+--- BLOCK ---
+Armadura de cintura de 
+partes de Rathalos. Parece
+una llama parpadeante.
+--- BLOCK ---
+Armadura de cintura que
+evoca al rey del cielo.
+Poder de llama y viento.
+--- BLOCK ---
+Armadura de cintura del
+wyvern rey. Rechaza ataques
+físicos y elementales.
+--- BLOCK ---
+Armadura de cintura hecha de
+Barioth. Emana el espíritu
+del caballero de la tundra.
+--- BLOCK ---
+Armadura de cintura hecha de
+Barioth. Prueba haber matado
+al caballero de la tundra.
+--- BLOCK ---
+Armadura de cintura de
+partes de Barioth arenoso.
+Del caballero del desierto.
+--- BLOCK ---
+Armadura de cintura de
+partes de Barioth arenoso.
+Del caballero del desierto.
+--- BLOCK ---
+Armadura de cintura de
+partes de Diablos. Defensa
+para quien venció al tirano.
+--- BLOCK ---
+Armadura de cintura de
+partes de Diablos. Los
+ataques normales no sirven.
+--- BLOCK ---
+Armadura de cintura de
+partes de Diablos. Defensa
+para quien venció al tirano.
+--- BLOCK ---
+Armadura de cintura de
+partes de Diablos. Los
+ataques normales no sirven.
+--- BLOCK ---
+Armadura de cintura pesada
+de Uragaan. Sus placas
+protegen hasta la rodilla.
+--- BLOCK ---
+Armadura de cintura pesada
+hecha de Uragaan. Protección
+tremendamente fiable.
+--- BLOCK ---
+Armadura de cintura pesada
+de Uragaan acerado. Protege
+de la cintura a la rodilla.
+--- BLOCK ---
+Armadura de cintura pesada
+con partes de Uragaan
+acerado. Muy fiable.
+--- BLOCK ---
+Armadura de cintura hecha de
+Agnaktor. Su placa bermeja
+extingue cualquier fuego.
+--- BLOCK ---
+Armadura de cintura de 
+Agnaktor que incorpora
+diseños de la antigüedad.
+--- BLOCK ---
+Armadura de cintura de
+partes de Agnaktor glacial.
+Hiela cuanto se le acerca.
+--- BLOCK ---
+Armadura de cintura de
+partes de Agnaktor glacial,
+con diseños muy antiguos.
+--- BLOCK ---
+Armadura de cintura con un 
+emblema gigante. Pone roja
+la vista con furia total.
+--- BLOCK ---
+Armadura de cintura con
+escamas gruesas. Late
+como si siguiera viva.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria. Difícil de ver.
+--- BLOCK ---
+Armadura celeste famosa
+por dar gloria al portador.
+Mencionada en cantares.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Una obra maestra con 
+la majestuosidad de un dios.
+Rechaza incluso a wyverns. 
+--- BLOCK ---
+Armadura creada de partes 
+de Jhen Mohran. Una sólida
+construcción de placas.
+--- BLOCK ---
+Armadura de cintura de Jhen
+Mohran superior. Su diseño
+emana un aire de elegancia.
+--- BLOCK ---
+Armadura de cintura de Jhen 
+Mohran suprema. Su belleza
+esconde una gran fuerza.
+--- BLOCK ---
+Armadura abismal atrapa-luz.
+Cuentan que acorta la vida
+a cambio de poder.
+--- BLOCK ---
+Armadura abismal atrapa-luz.
+Imbuida con la invencible
+fuerza de Alatreon.
+--- BLOCK ---
+Armadura de cintura que
+aúna la mejor manufactura
+con partes de Zinogre.
+--- BLOCK ---
+Armadura de cintura que
+contiene el poder del gran
+cazador Zinogre.
+--- BLOCK ---
+El Gremio la diseñó para que
+fuera contra impactos y
+contra wyverns voladores.
+--- BLOCK ---
+Armadura de cintura
+exoesquelética mejorada.
+Aún es un prototipo.
+--- BLOCK ---
+Armadura de cintura de
+concha de Duramboros.
+Confiere gran fuerza.
+--- BLOCK ---
+Armadura que cubre la
+cintura. Solo un cazador
+es capaz de usarla.
+--- BLOCK ---
+Cinturón negro que evoca
+las alas de Nargacuga. El
+pelaje tiene aura mística.
+--- BLOCK ---
+Armadura de cintura oscura.
+Hasta la sombra del portador
+parece siniestra.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura con la
+fuerza del Brachydios.
+Brilla pálida y oscura.
+--- BLOCK ---
+Armadura de cintura con la
+fuerza del Brachydios.
+A los Artilleros les gusta.
+--- BLOCK ---
+Armadura de cintura para
+empleadas. Portarla es un
+honor de unas pocas.
+--- BLOCK ---
+Armadura de cintura para
+empleadas. Muchas piden el
+cargo para poder llevarla.
+--- BLOCK ---
+Equipo para soldado Loc Lac
+oficial. Fino y ligero,
+a la par que protector.
+--- BLOCK ---
+Equipo para arquero Loc Lac
+oficial. Un diseño sencillo
+pero eficaz.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura de 
+un raro mineral. Sigue
+el contorno del cuerpo.
+--- BLOCK ---
+Armadura de cintura de un
+raro metal. Busca la
+facilidad de movimientos.
+--- BLOCK ---
+Armadura de cintura creada
+para un aristócrata al que
+le guste reunir rarezas.
+--- BLOCK ---
+Armadura de cintura con
+partes de insectos. Serás
+el alma del grupo.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Rhenoplos. Para
+buscar agua o minerales.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Rhenoplos, da gran
+cobertura para las piernas.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Jaggi. Un genial
+uso para la piel de Jaggi.
+--- BLOCK ---
+Armadura de cintura hecha de
+partes de Jaggi. El diseño
+es bastante llamativo.
+--- BLOCK ---
+Armadura de cintura de 
+Baggi. Llévala y nunca te
+volverá a molestar el calor.
+--- BLOCK ---
+Armadura de cintura ligera
+de Baggi. Emana una
+cualidad ventosa.
+--- BLOCK ---
+Armadura de cintura de
+cazador extranjero.
+Conserva el aspecto.
+--- BLOCK ---
+Armadura de cintura para
+armas a distancia.
+Ideal para Artilleros.
+--- BLOCK ---
+Armadura de cintura de
+partes de Arzuros. Es
+modesta y funcional.
+--- BLOCK ---
+Armadura de cintura de
+partes de Arzuros. El
+taparrabos es tradicional.
+--- BLOCK ---
+Armadura de cintura única
+diseñada para su uso diario
+en climas gélidos.
+--- BLOCK ---
+Armadura de cintura para
+regiones heladas. Se usa
+como equipo de caza.
+--- BLOCK ---
+Armadura de cintura que
+reverencia al espíritu del
+fuego, algo poco habitual.
+--- BLOCK ---
+Armadura de cintura de
+concha de Volvidon,
+ideal para Artilleros.
+--- BLOCK ---
+Armadura de cintura de
+partes de Qurupeco. Su
+color protege del fuego.
+--- BLOCK ---
+Armadura de cintura de
+partes de Qurupeco. Su
+plumaje es hipnótico.
+--- BLOCK ---
+Armadura de cintura de
+partes de Qurupeco carmesí.
+Su color protege del trueno.
+--- BLOCK ---
+Armadura de cintura de
+partes de Qurupeco carmesí.
+Su plumaje es hipnótico.
+--- BLOCK ---
+Armadura de cintura de
+partes de Ludroth real.
+Ofrece defensa flexible.
+--- BLOCK ---
+Armadura de cintura de
+partes de Ludroth real.
+Un diseño muy galardonado.
+--- BLOCK ---
+Armadura de cintura de
+partes de Ludroth purpúreo.
+Ofrece defensa flexible.
+--- BLOCK ---
+Armadura de cintura de
+partes de Ludroth purpúreo.
+Un diseño muy galardonado.
+--- BLOCK ---
+Armadura de cintura de
+placa de Barroth. Hecha con
+escamas muy duras.
+--- BLOCK ---
+Armadura de cintura de
+placa de Barroth. Sólida,
+aunque también flexible.
+--- BLOCK ---
+Armadura de cintura de
+placa de Barroth esmeralda.
+Las escamas son muy duras.
+--- BLOCK ---
+Armadura de cintura de
+placa de Barroth esmeralda.
+Sólida, aunque flexible.
+--- BLOCK ---
+Armadura de cintura de piel
+de Gobul. Hecha de aletas
+más duras que algún metal.
+--- BLOCK ---
+Armadura de cintura de piel
+de Gobul. No aprieta ni
+tras una comilona.
+--- BLOCK ---
+Armadura de cintura de
+concha de Rathalos.
+Dura, pero también ligera.
+--- BLOCK ---
+Armadura de cintura de
+concha de Rathalos.
+Su color evoca la voluntad.
+--- BLOCK ---
+Armadura de cintura de
+concha de Rathalos celeste.
+Dura, pero también ligera.
+--- BLOCK ---
+Armadura de cintura de
+concha de Rathalos celeste.
+Su color evoca la voluntad.
+--- BLOCK ---
+Armadura de cintura
+dedicada al sol plateado.
+Prácticamente perfecta.
+--- BLOCK ---
+Armadura de cintura tan
+brillante que atrae la luz
+solar. Gran defensa.
+--- BLOCK ---
+Armadura de cintura de
+partes de Rathian. Muy
+flexible, pese a todo.
+--- BLOCK ---
+Armadura de cintura de
+partes de Rathian. Puede
+guardar cosas del cazador.
+--- BLOCK ---
+Armadura de cintura de
+partes de Rathian rosa.
+Flexible y muy resistente.
+--- BLOCK ---
+Armadura de cintura de
+partes de Rathian rosa.
+Guarda cosas del cazador.
+--- BLOCK ---
+Armadura de cintura de la
+reina dorada. Dificilísima
+de atravesar.
+--- BLOCK ---
+Armadura de cintura forjada
+con luz de luna dorada.
+Brilla en todo momento.
+--- BLOCK ---
+Armadura de cintura de
+hueso de Lagiacrus. Se
+usaron Conchas descarga.
+--- BLOCK ---
+Armadura de cintura de
+hueso de Lagiacrus. Tiene
+espacios para munición.
+--- BLOCK ---
+Armadura de cintura de
+Lagiacrus marmóreo. Se
+usaron Conchas descarga.
+--- BLOCK ---
+Armadura de cintura de
+Lagiacrus marmóreo. Tiene
+espacios para munición.
+--- BLOCK ---
+Armadura de cintura de
+Lagiacrus del abismo.
+Resiste bien el trueno.
+--- BLOCK ---
+Armadura de cintura de
+Lagiacrus del abismo.
+Permite moverse en el agua.
+--- BLOCK ---
+Austera armadura de cintura
+de Gigginox. Aumenta el
+silencio en los rituales.
+--- BLOCK ---
+Armadura de cintura de
+Gigginox que permite llevar
+herramientas diversas.
+--- BLOCK ---
+Austera armadura de cintura
+de Gigginox aterrador. Más
+silencio en los rituales.
+--- BLOCK ---
+Armadura de cintura de
+Gigginox aterrador que
+lleva varias herramientas.
+--- BLOCK ---
+Armadura de cintura de
+partes de Barioth. Confiere
+una agilidad superior.
+--- BLOCK ---
+Armadura de cintura de
+partes de Barioth. Aporta
+un aire de dignidad.
+--- BLOCK ---
+Armadura de cintura de
+partes de Barioth arenoso.
+Confiere una gran agilidad.
+--- BLOCK ---
+Armadura de cintura de
+partes de Barioth arenoso.
+Aporta un aire de dignidad.
+--- BLOCK ---
+Armadura de cintura de
+concha de Diablos. Resiste
+el cuerno de wyvern volador.
+--- BLOCK ---
+Armadura de cintura de
+concha de Diablos.
+Protege bien la espalda.
+--- BLOCK ---
+Armadura de cintura de
+concha de Diablos negra. El
+cuerno de wyvern no la raya.
+--- BLOCK ---
+Armadura de cintura de
+concha de Diablos negra.
+Protege bien la espalda.
+--- BLOCK ---
+Armadura de cintura de
+concha rocosa de Uragaan.
+Protege áreas vitales.
+--- BLOCK ---
+Armadura de cintura de
+concha rocosa de Uragaan.
+¡Y es bastante elegante!
+--- BLOCK ---
+Armadura de cintura de
+concha rocosa de Uragaan
+acerado. Buena protección.
+--- BLOCK ---
+Armadura de cintura de
+concha rocosa de Uragaan
+acerado. ¡Y es elegante!
+--- BLOCK ---
+Armadura de cintura de
+Agnaktor de lava. La lava
+la hace muy fuerte.
+--- BLOCK ---
+Armadura de cintura de
+Agnaktor de lava. Protege
+de cualquier llama.
+--- BLOCK ---
+Armadura de cintura de
+Agnaktor de hielo. El hielo
+la hace muy fuerte.
+--- BLOCK ---
+Armadura de cintura de
+Agnaktor de hielo. Protege
+de todo frío.
+--- BLOCK ---
+Armadura de cintura de
+Ceadeus divino, con su
+fuerza y flexibilidad.
+--- BLOCK ---
+Armadura de cintura de
+partes de Ceadeus. Llevarlo
+aumenta el valor.
+--- BLOCK ---
+Armadura de cintura de
+Ceadeus barba dorada.
+Requirió mucho pelo divino.
+--- BLOCK ---
+Armadura de cintura de
+Ceadeus barba dorada.
+Protege de agua y hielo.
+--- BLOCK ---
+Armadura de cintura de
+concha de gigante de la
+profundidad. Protege bien.
+--- BLOCK ---
+Armadura de cintura de
+concha de gigante de la
+profundidad. Ventila bien.
+--- BLOCK ---
+Armadura de cintura de
+Ceadeus barba dorada. 
+Requiere mucho pelo divino.
+--- BLOCK ---
+Armadura de cintura de
+Ceadeus barba dorada.
+Protege de agua y hielo.
+--- BLOCK ---
+Armadura de cintura de
+partes de Jhen Mohran.
+Para guerreros decididos.
+--- BLOCK ---
+Armadura de cintura de
+partes de Jhen Mohran.
+Protege hasta las rodillas.
+--- BLOCK ---
+Armadura de cintura de
+partes de Jhen Mohran. Las
+cuerdas son vitales.
+--- BLOCK ---
+Armadura de cintura de
+partes de Jhen Mohran.
+No dificulta el movimiento.
+--- BLOCK ---
+Armadura de cintura de Jhen
+Mohran sagrado. La envidia
+de todo cazador.
+--- BLOCK ---
+Armadura de cintura de Jhen
+Mohran sagrado. Solo es
+para los mejores.
+--- BLOCK ---
+Armadura de cintura de Jhen
+Mohran sagrado. La envidia
+de todo cazador.
+--- BLOCK ---
+Armadura de cintura de Jhen
+Mohran sagrado. Solo es
+para los mejores.
+--- BLOCK ---
+Armadura de cintura imbuida
+con la furia de un Deviljho.
+Las bestias menores huyen.
+--- BLOCK ---
+Armadura de cintura imbuida
+con la voracidad de un
+Deviljho. Diseño brutal.
+--- BLOCK ---
+Armadura de cintura de
+partes de Alatreon. Guarda
+el poder de un dragón.
+--- BLOCK ---
+Armadura de cintura de
+partes de Alatreon. Guarda
+poder de un dragón anciano.
+--- BLOCK ---
+Armadura de cintura de
+concha eléctrica de Zinogre.
+Libera el poder interior.
+--- BLOCK ---
+Armadura de cintura de
+concha eléctrica de Zinogre.
+Su aura es inquietante.
+--- BLOCK ---
+Armadura de cintura de
+Zinogre estigio. Hecha con
+los miembros del ser.
+--- BLOCK ---
+Armadura de cintura de
+Zinogre estigio. Hecha con
+miembros buenos para saltar.
+--- BLOCK ---
+Armadura de cintura
+exoesquelética mejorada ante
+golpes y wyverns voladores.
+--- BLOCK ---
+Modelo perfeccionado de
+armadura de cintura
+exoesquelética. Lo último.
+--- BLOCK ---
+Armadura de cintura hecha
+de partes de Duramboros.
+Permite atacar con fuerza.
+--- BLOCK ---
+Armadura de cintura hecha
+de partes de Duramboros. 
+Permite atacar con fuerza.
+--- BLOCK ---
+Armadura de cintura de
+Duramboros herrumbroso.
+Hecha con el torso del ser.
+--- BLOCK ---
+Armadura de cintura de
+Duramboros herrumbroso.
+Puede pulverizar piedras.
+--- BLOCK ---
+Cinturón negro que evoca
+las alas de Nargacuga. El
+pelaje tiene aura mística.
+--- BLOCK ---
+Armadura de cintura oscura.
+Hasta la sombra del portador
+parece siniestra.
+--- BLOCK ---
+Cinturón que evoca las alas
+del Nargacuga verdoso. El
+pelaje tiene aura mística.
+--- BLOCK ---
+Armadura de cintura oscura.
+Hasta la sombra del portador
+parece siniestra.
+--- BLOCK ---
+Armadura de cintura de
+Nargacuga lunar. Permite
+moverse muy rápido.
+--- BLOCK ---
+Armadura de cintura de
+Nargacuga lunar. Forjada
+bajo la luna llena.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura con la
+fuerza del Brachydios.
+Brilla pálida y oscura.
+--- BLOCK ---
+Armadura de cintura con la
+fuerza del Brachydios. A
+los Artilleros les gusta.
+--- BLOCK ---
+Armadura de cintura de
+asesino de Miralis funesto,
+señor del averno.
+--- BLOCK ---
+Armadura de cintura de
+asesino de Miralis funesto,
+señor del averno.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria. Difícil de ver.
+--- BLOCK ---
+Armadura celeste famosa
+por dar gloria al portador.
+Mencionada en cantares. 
+--- BLOCK ---
+Armadura de cintura de 
+huesos negros desconocidos,
+quizá de un rey dragón.
+--- BLOCK ---
+Armadura de cintura de 
+huesos negros desconocidos.
+Resucitados por los dioses.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura de
+partes de insectos. Para
+un campeón de los insectos.
+--- BLOCK ---
+Armadura de cintura de
+insectos. Ni el colmillo de
+wyvern volador la raya.
+--- BLOCK ---
+Armadura de cintura de
+partes de insectos. Ni
+el barro la mancha.
+--- BLOCK ---
+Armadura de cintura de
+partes de insectos. El
+orgullo de su creador.
+--- BLOCK ---
+Armadura de cintura de
+calabazas. Un artesano
+tenía tiempo libre...
+--- BLOCK ---
+Armadura de cintura de
+calabazas. Por detrás
+parece un fantasma.
+--- BLOCK ---
+Armadura de cintura para
+empleadas. Muchas piden el
+cargo para poder llevarla.
+--- BLOCK ---
+Armadura de cintura para
+empleadas. Portarla es un
+honor de unos pocos.
+--- BLOCK ---
+Equipo oficial de montaraz
+Loc Lac. Delgada y
+ligera, pero protectora.
+--- BLOCK ---
+Equipo oficial de tirador
+Loc Lac. Un diseño
+sencillo y eficaz.
+--- BLOCK ---
+Equipo usado por caballeros
+defensores de la ciudad.
+Poco usado por cazadores.
+--- BLOCK ---
+Equipo usado por caballeros
+defensores de la ciudad. 
+Llevarlo es todo un honor.
+--- BLOCK ---
+Armadura de cintura usada
+por empleadas del Gremio.
+Hace parecer más delgada.
+--- BLOCK ---
+Armadura de cintura usada
+por empleadas del Gremio.
+Muy familiar para cazadores.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de cintura de
+empleada del Gremio de
+Tanzia. Con ropa interior.
+--- BLOCK ---
+Armadura de cintura de
+empleada del Gremio de
+Tanzia. Con falda corta.
+--- BLOCK ---
+Muslera perteneciente a un 
+sabio con poderes. Refleja
+lo que uno lleva dentro.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

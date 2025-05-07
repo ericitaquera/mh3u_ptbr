@@ -1,0 +1,240 @@
+﻿TMSG_GUNLANCE
+--- BLOCK ---
+(Ninguna)
+--- BLOCK ---
+Lanza pistola hierro
+--- BLOCK ---
+Lanza pist. hierro+
+--- BLOCK ---
+Lanza pistola acero
+--- BLOCK ---
+Lanza pistola ariete
+--- BLOCK ---
+Lanza pist. defensor
+--- BLOCK ---
+Guardalanza imperial
+--- BLOCK ---
+Arbalanza general
+--- BLOCK ---
+Arbalanza almirante
+--- BLOCK ---
+Juralanza imperial
+--- BLOCK ---
+Lanza pistola oculta
+--- BLOCK ---
+Lanza pist. oculta+
+--- BLOCK ---
+Noche mortecina
+--- BLOCK ---
+Lanza pist. eclipse
+--- BLOCK ---
+Asterismo de Alioth
+--- BLOCK ---
+Lanza pistola Virnar
+--- BLOCK ---
+Fin de la noche
+--- BLOCK ---
+Grajo rojo
+--- BLOCK ---
+Grajo rojo+
+--- BLOCK ---
+Grajo carmesí
+--- BLOCK ---
+Grajo de plata
+--- BLOCK ---
+Lanza pistola carro
+--- BLOCK ---
+Fin del mundo
+--- BLOCK ---
+Giralanza antigua
+--- BLOCK ---
+Girataque antiguo
+--- BLOCK ---
+Progénesis
+--- BLOCK ---
+Lanzatorm. tipo 62
+--- BLOCK ---
+Lanzatormenta asalto
+--- BLOCK ---
+Mariscal de guerra
+--- BLOCK ---
+Destrozo
+--- BLOCK ---
+As del destrozo
+--- BLOCK ---
+Dios del destrozo
+--- BLOCK ---
+Estallido de Lagia
+--- BLOCK ---
+Estallido de Lagia+
+--- BLOCK ---
+Lanza pist. Exlagia
+--- BLOCK ---
+Estallido Lagia novo
+--- BLOCK ---
+Rayiblanco Eutaxy
+--- BLOCK ---
+Rayiblanco Eutaxy+
+--- BLOCK ---
+Lanza pistola oscura
+--- BLOCK ---
+Jugulus tenebroso
+--- BLOCK ---
+Lanza pistola Brach
+--- BLOCK ---
+Lanza pistola Brach+
+--- BLOCK ---
+Lanza pist. demoled.
+--- BLOCK ---
+Demoledor Zvolta
+--- BLOCK ---
+Lagomberador
+--- BLOCK ---
+Lagomberatrix
+--- BLOCK ---
+Lagombalanche
+--- BLOCK ---
+Lanzallamas
+--- BLOCK ---
+Lanzallamas+
+--- BLOCK ---
+Agna Magma
+--- BLOCK ---
+Agna Vulcano
+--- BLOCK ---
+Causta Agnavulcano
+--- BLOCK ---
+Lanzaagua
+--- BLOCK ---
+Agna Aqua
+--- BLOCK ---
+Rheo Agnacorso
+--- BLOCK ---
+Lanza pistola hueso
+--- BLOCK ---
+Lanza pistola hueso+
+--- BLOCK ---
+Lanza pistola wyvern
+--- BLOCK ---
+Cargador Barroth
+--- BLOCK ---
+Cargador Barroth+
+--- BLOCK ---
+Cargador duro
+--- BLOCK ---
+Roscabarro
+--- BLOCK ---
+Roscarpa
+--- BLOCK ---
+Vaskaclast
+--- BLOCK ---
+Vaskaclast+
+--- BLOCK ---
+Roscahorror
+--- BLOCK ---
+Roscavalancha
+--- BLOCK ---
+Lanza pist. Jaggida
+--- BLOCK ---
+Lanza pist. Jaggida+
+--- BLOCK ---
+Lanza pist. Huracán
+--- BLOCK ---
+Panoplia princesa
+--- BLOCK ---
+Panoplia princesa+
+--- BLOCK ---
+Ortlinde
+--- BLOCK ---
+Panoplia reina
+--- BLOCK ---
+Ishtar brillante
+--- BLOCK ---
+Rugido del usurpador
+--- BLOCK ---
+Flogisto del déspota
+--- BLOCK ---
+Lluvia del opresor
+--- BLOCK ---
+Sangre de Brimstren
+--- BLOCK ---
+Avaricia estigia
+--- BLOCK ---
+Tipi Peco
+--- BLOCK ---
+Tipi Peco+
+--- BLOCK ---
+Tipi ensueño
+--- BLOCK ---
+Pluma tonante
+--- BLOCK ---
+Ave de trueno
+--- BLOCK ---
+Arca tonante
+--- BLOCK ---
+Pescador marino
+--- BLOCK ---
+Pescador abisal
+--- BLOCK ---
+Gigante azul
+--- BLOCK ---
+Lanza pis. Leviathan
+--- BLOCK ---
+Lanza pis. Diviathan
+--- BLOCK ---
+Lanza pistola voraz
+--- BLOCK ---
+Lza. pis. insaciable
+--- BLOCK ---
+Avaricia de Nerón
+--- BLOCK ---
+Rompecolmillos
+--- BLOCK ---
+Caoscolmillo
+--- BLOCK ---
+Jhen Mortalis
+--- BLOCK ---
+Lanza pistola ajada
+--- BLOCK ---
+Lanza pistola vieja
+--- BLOCK ---
+Obelisco
+--- BLOCK ---
+Obelisco Deus
+--- BLOCK ---
+Forja de Megido
+--- BLOCK ---
+Disasualidad
+--- BLOCK ---
+Felyoshka
+--- BLOCK ---
+Felyoshka+
+--- BLOCK ---
+Feliz Felyoshka
+--- BLOCK ---
+Maicera
+--- BLOCK ---
+Maicera+
+--- BLOCK ---
+Maicera poderosa
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Blasón de barón
+--- BLOCK ---
+Blasón de marqués
+--- BLOCK ---
+Blasón de duque
+--- BLOCK ---
+Blasón de rayo
+--- BLOCK ---

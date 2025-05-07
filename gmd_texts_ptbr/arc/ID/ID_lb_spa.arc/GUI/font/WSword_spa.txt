@@ -2,9 +2,9 @@ TMSG_WSWORD
 --- BLOCK ---
 (Nenhuma)
 --- BLOCK ---
-Cortadoras em Conjunto
+Cortadoras Gêmeas
 --- BLOCK ---
-Cortadoras em Conjunto+
+Cortadoras Gêmeas+
 --- BLOCK ---
 Cortadoras Duplas
 --- BLOCK ---

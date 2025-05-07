@@ -1,0 +1,236 @@
+TMSG_BOW
+--- BLOCK ---
+(Nenhum)
+--- BLOCK ---
+Fome de Peco
+--- BLOCK ---
+Fome Peco
+--- BLOCK ---
+Rompe-Corações
+--- BLOCK ---
+Coração Partido
+--- BLOCK ---
+Coração Forte
+--- BLOCK ---
+Revólver Wroggi I
+--- BLOCK ---
+Revólver Wroggi II
+--- BLOCK ---
+Revólver Wroggi III
+--- BLOCK ---
+Revólver Sujo I
+--- BLOCK ---
+Revólver Sujo II
+--- BLOCK ---
+Escarro Venenoso
+--- BLOCK ---
+Equipamento Esponja I
+--- BLOCK ---
+Equipamento Esponja II
+--- BLOCK ---
+Equipamento Esponja III
+--- BLOCK ---
+Equipamento Ametista I
+--- BLOCK ---
+Equipamento Ametista II
+--- BLOCK ---
+Amir al Bahr
+--- BLOCK ---
+Batal al Bahr
+--- BLOCK ---
+Arco Nulo
+--- BLOCK ---
+Arco Um
+--- BLOCK ---
+Arco Nulo (R)
+--- BLOCK ---
+Arco Um (R)
+--- BLOCK ---
+Arco Dois (R)
+--- BLOCK ---
+Arco Três (R)
+--- BLOCK ---
+Arco Nulo (B)
+--- BLOCK ---
+Arco Um (B)
+--- BLOCK ---
+Arco Dois (B)
+--- BLOCK ---
+Arco Três (B)
+--- BLOCK ---
+Arco Nulo (A)
+--- BLOCK ---
+Arco Um (A)
+--- BLOCK ---
+Arco Dois (A)
+--- BLOCK ---
+Arco Três (A)
+--- BLOCK ---
+Arco de Caçador I
+--- BLOCK ---
+Arco de Caçador II
+--- BLOCK ---
+Arco de Caçador III
+--- BLOCK ---
+Arco Resistente de Caçador I
+--- BLOCK ---
+Arco Resistente de Caçador II
+--- BLOCK ---
+Arco de Orgulho de Caçador
+--- BLOCK ---
+Voador Brach
+--- BLOCK ---
+Voador Brach+
+--- BLOCK ---
+Arco Demolidor
+--- BLOCK ---
+Bengalas Demolidoras
+--- BLOCK ---
+Multiarco I Tipo 64
+--- BLOCK ---
+Multiarco II Tipo 64
+--- BLOCK ---
+Agulha de Escorpião
+--- BLOCK ---
+Harpa de Cavalo Marinho
+--- BLOCK ---
+Harpa de Cavalo Real
+--- BLOCK ---
+Harpa Aquacavalo
+--- BLOCK ---
+Arco da Rainha I
+--- BLOCK ---
+Arco da Rainha II
+--- BLOCK ---
+Arco da Rainha III
+--- BLOCK ---
+Arco Tiro Coração I
+--- BLOCK ---
+Arco Tiro Coração II
+--- BLOCK ---
+Arco Tiro Coração III
+--- BLOCK ---
+Selene Lunarrota
+--- BLOCK ---
+Retumbar Usurpador
+--- BLOCK ---
+Prontirrai Despótico
+--- BLOCK ---
+Resposta do Opressor
+--- BLOCK ---
+Vista de Brimstren
+--- BLOCK ---
+Paciência Estígia
+--- BLOCK ---
+Crina de Gelo
+--- BLOCK ---
+Edelweiss
+--- BLOCK ---
+Arco Avalanche de Âmbar
+--- BLOCK ---
+Arco Sável Leve
+--- BLOCK ---
+Paz Caída
+--- BLOCK ---
+Jinete Arena Rafaga
+--- BLOCK ---
+Corda Metálica
+--- BLOCK ---
+Gigáculos
+--- BLOCK ---
+Gigantomaquia
+--- BLOCK ---
+Corda Cromada I
+--- BLOCK ---
+Corda Cromada II
+--- BLOCK ---
+Labirintos de Aço
+--- BLOCK ---
+Arco Oculto I
+--- BLOCK ---
+Arco Oculto II
+--- BLOCK ---
+Voo Noturno
+--- BLOCK ---
+Arco de Eclipse
+--- BLOCK ---
+Arco Virnar
+--- BLOCK ---
+Voo da Meia-Noite
+--- BLOCK ---
+Lança-Raios I
+--- BLOCK ---
+Lança-Raios II
+--- BLOCK ---
+Lança-Raios Massivo
+--- BLOCK ---
+Lança-Raios Novo
+--- BLOCK ---
+Raio Branco Acrus
+--- BLOCK ---
+Arco de Batalha Sombrio
+--- BLOCK ---
+Emprestador Sombrio
+--- BLOCK ---
+Arco Cor. Diablos I
+--- BLOCK ---
+Arco Cor. Diablos II
+--- BLOCK ---
+Mestre das Galernas
+--- BLOCK ---
+Cera Enroscacola
+--- BLOCK ---
+Cera Cyclord
+--- BLOCK ---
+Asa da Vitória I
+--- BLOCK ---
+Asa da Vitória II
+--- BLOCK ---
+Vitória Reverente
+--- BLOCK ---
+Deusa da Arca
+--- BLOCK ---
+Arken Victrine
+--- BLOCK ---
+Arco Vidente do Mundo
+--- BLOCK ---
+Prova Vidente do Mundo
+--- BLOCK ---
+Tesouro Vidente do Mundo
+--- BLOCK ---
+Arco de Alatreon
+--- BLOCK ---
+Mandato de Alatreon
+--- BLOCK ---
+Altheos Incanonis
+--- BLOCK ---
+Arco Rapinante
+--- BLOCK ---
+Arco Caótico
+--- BLOCK ---
+Arco Insantia
+--- BLOCK ---
+Fênix de Megido
+--- BLOCK ---
+Ressurreição
+--- BLOCK ---
+Arco da Exquisitez
+--- BLOCK ---
+Arco Copioso
+--- BLOCK ---
+Arco do Festim
+--- BLOCK ---
+Agulhão Kelbi
+--- BLOCK ---
+Disparo Kelbi
+--- BLOCK ---
+Bala Grande Kelbi
+--- BLOCK ---
+Taketori de Bambu
+--- BLOCK ---
+Okina de Bambu
+--- BLOCK ---
+Kaguya de Bambu
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

@@ -1,0 +1,188 @@
+﻿TMSG_HBG
+--- BLOCK [001] ---
+(Ninguna)
+--- BLOCK [002] ---
+Estallahuesos
+--- BLOCK [003] ---
+Estallahuesos+
+--- BLOCK [004] ---
+Cazahuesos
+--- BLOCK [005] ---
+Fuego de la reina
+--- BLOCK [006] ---
+Volador de la reina
+--- BLOCK [007] ---
+Vástago de la reina
+--- BLOCK [008] ---
+Capullo emperatriz
+--- BLOCK [009] ---
+Flor de emperatriz
+--- BLOCK [010] ---
+Jardín de emperatriz
+--- BLOCK [011] ---
+Asesino pingüino
+--- BLOCK [012] ---
+Gobernante pingüino
+--- BLOCK [013] ---
+Gran señor pingüino
+--- BLOCK [014] ---
+Dios pingüino
+--- BLOCK [015] ---
+Pistola de Arzuros
+--- BLOCK [016] ---
+Tronadora de Arzuros
+--- BLOCK [017] ---
+Pescadora de Arzuros
+--- BLOCK [018] ---
+As Arzuros
+--- BLOCK [019] ---
+Gunflage I tipo 46
+--- BLOCK [020] ---
+Gunflage II tipo 46
+--- BLOCK [021] ---
+Gunflage III tipo 46
+--- BLOCK [022] ---
+Prototipo Nibelflage
+--- BLOCK [023] ---
+Snarfer atrincherado
+--- BLOCK [024] ---
+Plaser presurizado
+--- BLOCK [025] ---
+Plaser presurizado+
+--- BLOCK [026] ---
+Escudo verde
+--- BLOCK [027] ---
+Capitán Verde
+--- BLOCK [028] ---
+Cañón tropeco
+--- BLOCK [029] ---
+Fambocañón tropeco
+--- BLOCK [030] ---
+Cañón pecopioso
+--- BLOCK [031] ---
+Trueno pecopioso
+--- BLOCK [032] ---
+Paco Pico Peco
+--- BLOCK [033] ---
+Precisión Pico Peco
+--- BLOCK [034] ---
+Cañón Brach
+--- BLOCK [035] ---
+Cañón Brach+
+--- BLOCK [036] ---
+Cañón de demolición
+--- BLOCK [037] ---
+Demoledor Haize
+--- BLOCK [038] ---
+Temblor usurpador
+--- BLOCK [039] ---
+Paroxismo déspota
+--- BLOCK [040] ---
+Creación del opresor
+--- BLOCK [041] ---
+Templanza estigia
+--- BLOCK [042] ---
+Gambito oculto
+--- BLOCK [043] ---
+Noche aterradora
+--- BLOCK [044] ---
+Fusil pesado Virnar
+--- BLOCK [045] ---
+Medianoche siniestra
+--- BLOCK [046] ---
+Gambito eclipse
+--- BLOCK [047] ---
+Doble amenaza
+--- BLOCK [048] ---
+Doble amenaza+
+--- BLOCK [049] ---
+Diablazuca
+--- BLOCK [050] ---
+Blazuca de Nerón
+--- BLOCK [051] ---
+Blazuca de grifo
+--- BLOCK [052] ---
+Rayo Lagia
+--- BLOCK [053] ---
+Rayo Lagia+
+--- BLOCK [054] ---
+Cañón Thunderblitz
+--- BLOCK [055] ---
+Rayo Lagia novo
+--- BLOCK [056] ---
+Rayiblanco Blitz
+--- BLOCK [057] ---
+Salvador tenebroso
+--- BLOCK [058] ---
+Agnabum
+--- BLOCK [059] ---
+Agnaexplosivo
+--- BLOCK [060] ---
+Agna Infernal
+--- BLOCK [061] ---
+Agna Mágnum
+--- BLOCK [062] ---
+Agna Escorpión
+--- BLOCK [063] ---
+Agnacañón Avel
+--- BLOCK [064] ---
+Agnacañón Caim
+--- BLOCK [065] ---
+Agnacachón Zeth
+--- BLOCK [066] ---
+Cañón de Jhen
+--- BLOCK [067] ---
+Dracañón Jhen
+--- BLOCK [068] ---
+Dracañón sagrado
+--- BLOCK [069] ---
+Vulcañón
+--- BLOCK [070] ---
+Vulcañón+
+--- BLOCK [071] ---
+Vulmágnum
+--- BLOCK [072] ---
+Lanzador gigante
+--- BLOCK [073] ---
+Cañón gigante
+--- BLOCK [074] ---
+Moby Deus
+--- BLOCK [075] ---
+Frater Deus
+--- BLOCK [076] ---
+Precursor del arca
+--- BLOCK [077] ---
+Arken Antiphon
+--- BLOCK [078] ---
+Ala del caos
+--- BLOCK [079] ---
+Altheos Aetheria
+--- BLOCK [080] ---
+Bazuca de carroza
+--- BLOCK [081] ---
+Carroza de la reina
+--- BLOCK [082] ---
+Cendrillón
+--- BLOCK [083] ---
+Estrella fugaz
+--- BLOCK [084] ---
+Meteorito
+--- BLOCK [085] ---
+Gran meteorito
+--- BLOCK [086] ---
+Acuamático Aguja
+--- BLOCK [087] ---
+Acuamático Fogonazo
+--- BLOCK [088] ---
+Acuamático Cenizador
+--- BLOCK [089] ---
+Cañón de carbalita
+--- BLOCK [090] ---
+Cañón meteoro
+--- BLOCK [091] ---
+Cañón galaxia
+--- BLOCK [092] ---
+Hexclamación
+--- BLOCK [093] ---
+DUMMY
+--- BLOCK [094] ---

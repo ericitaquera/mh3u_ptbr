@@ -1,0 +1,502 @@
+TMSG_WSWORD_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Espadas gêmeas que lançam
+ataques vertiginosos, mas abrem
+mão de bloquear.
+--- BLOCK ---
+Espada de metal de alta
+qualidade, para aprender a usar
+a Secta de Fio.
+--- BLOCK ---
+Espada de metal de alta
+qualidade, para aprender a usar
+a Secta de Fio.
+--- BLOCK ---
+Espadas para uso duplo. Sacrificam
+a defesa em troca
+de um bom ataque.
+--- BLOCK ---
+Espadas para uso duplo. Sacrificam
+a defesa em troca
+de um bom ataque.
+--- BLOCK ---
+Espadas para uso duplo. Sacrificam
+a defesa em troca
+de um bom ataque.
+--- BLOCK ---
+Espadas duplas incomuns para
+cortar carne. Cada uma
+tem um peso diferente.
+--- BLOCK ---
+Espadas duplas incomuns para
+retalhar carne. Cada uma
+tem um peso diferente.
+--- BLOCK ---
+Espadas duplas incomuns para
+retalhar carne. Cada uma
+tem um peso diferente.
+--- BLOCK ---
+Machados gêmeos, potentes e
+equilibrados. Aterrorizantes nas mãos
+de um especialista.
+--- BLOCK ---
+Machados gêmeos, potentes e
+equilibrados. Aterrorizantes nas mãos
+de um especialista.
+--- BLOCK ---
+Lâminas banhadas em baba
+explosiva. Primeiro cortam
+e depois explodem.
+--- BLOCK ---
+Lâminas banhadas em baba
+explosiva. Primeiro cortam
+e depois explodem.
+--- BLOCK ---
+Lâminas duplas com o
+poder de um Brachydios.
+Deixam um rastro escarlate.
+--- BLOCK ---
+Lâminas duplas com o
+poder de um Brachydios.
+Deixam um rastro escarlate.
+--- BLOCK ---
+Lâminas duplas do uniforme
+de alguns guardas. Podem
+ferir um wyvern.
+--- BLOCK ---
+Lâminas duplas do uniforme
+de alguns guardas. Podem
+ferir um wyvern.
+--- BLOCK ---
+Lâminas duplas do uniforme
+de alguns guardas. Podem
+ferir um wyvern.
+--- BLOCK ---
+Espadas dos Cavaleiros do
+Gremio. Até os deuses
+temem sua fio.
+--- BLOCK ---
+Espadas dos Cavaleiros do
+Gremio. Até os deuses
+temem sua fio.
+--- BLOCK ---
+Lâminas duplas para cortar
+metal na oficina. São
+forjadas com técnicas avançadas.
+--- BLOCK ---
+Lâminas duplas para cortar
+metal na oficina. São
+forjadas com técnicas avançadas.
+--- BLOCK ---
+Espadas mecânicas com lâminas
+giratórias. Um especialista pode
+acabar com um wyvern.
+--- BLOCK ---
+Armas demoníacas com lâminas
+giratórias que não oferecem
+piedade. Massacre garantido!
+--- BLOCK ---
+Armas demoníacas com lâminas
+giratórias que não oferecem
+piedade. Massacre garantido!
+--- BLOCK ---
+Lâminas duplas para esmagar
+e cortar. Seu peso
+ajuda a cortar profundamente.
+--- BLOCK ---
+Lâminas duplas para esmagar
+e cortar. Seu peso
+ajuda a cortar profundamente.
+--- BLOCK ---
+Lâminas duplas como maças,
+equilibradas. Aproveitam a
+força ao máximo.
+--- BLOCK ---
+Lâminas duplas forjadas com
+metais estranhos. Não costumam
+estar à venda.
+--- BLOCK ---
+Lâminas duplas forjadas com
+metais estranhos. Não costumam
+estar à venda.
+--- BLOCK ---
+Lâminas duplas forjadas com
+metais estranhos. Não costumam
+estar à venda.
+--- BLOCK ---
+Lâminas duplas temperadas quase
+até o impossível. Seu
+fio é surpreendente.
+--- BLOCK ---
+Lâminas duplas temperadas quase
+até o impossível. Seu
+fio é surpreendente.
+--- BLOCK ---
+Lâminas pequenas feitas com
+pele de Gobul. Seus
+espinhos exsudam líquido paralisante.
+--- BLOCK ---
+Lâminas pequenas feitas com
+pele de Gobul. Seus
+espinhos exsudam líquido paralisante.
+--- BLOCK ---
+Lâminas pequenas feitas com
+pele de Gobul. Seus
+espinhos exsudam líquido paralisante.
+--- BLOCK ---
+Lâminas duplas tão adoráveis que
+parecem mais arte do
+que armamento. Extremamente eficazes.
+--- BLOCK ---
+Lâminas duplas tão adoráveis que
+parecem mais arte do
+que armamento. Extremamente eficazes.
+--- BLOCK ---
+Lâminas duplas tão adoráveis que
+parecem mais arte do
+que armamento. Extremamente eficazes.
+--- BLOCK ---
+Lâminas duplas belas como
+uma borboleta, mas capazes
+de abrasar qualquer um.
+--- BLOCK ---
+Lâminas duplas belas como
+uma borboleta, mas capazes
+de abrasar qualquer um.
+--- BLOCK ---
+Lâminas duplas belas como
+uma borboleta, mas capazes
+de abrasar qualquer um.
+--- BLOCK ---
+Armas nascidas da casca
+ígnea de um Agnaktor.
+Seu toque é abrasador.
+--- BLOCK ---
+Armas nascidas da casca
+ígnea de um Agnaktor.
+Seu toque é abrasador.
+--- BLOCK ---
+Lâminas com o poder
+da Tundra e do
+Vulcão. Uma combinação antinatural.
+--- BLOCK ---
+Lâminas com o poder
+da Tundra e do
+Vulcão. Uma combinação antinatural.
+--- BLOCK ---
+Espadas duplas atraentes. Emanam
+raios que as tornam
+ainda mais brilhantes.
+--- BLOCK ---
+Espadas duplas atraentes. Emanam
+raios que as tornam
+ainda mais brilhantes.
+--- BLOCK ---
+Espadas duplas atraentes. Emitindo
+raios que as tornam
+ainda mais brilhantes.
+--- BLOCK ---
+Armas feitas de Lagiacrus marmóreo.
+Ceifam vida e alma
+com um único golpe.
+--- BLOCK ---
+Armas feitas de Lagiacrus marmóreo.
+Ceifam vida e alma
+com um único golpe.
+--- BLOCK ---
+Lâminas duplas puramente
+ofensivas. Estão inacabadas
+e sem fio.
+--- BLOCK ---
+Lâminas duplas puramente
+ofensivas. Estão inacabadas
+e sem fio.
+--- BLOCK ---
+Lâminas duplas puramente
+ofensivas. Estão inacabadas
+e sem fio.
+--- BLOCK ---
+Espadas de Ludroth real.
+Espalham água, ajudando a
+limpar o sangue.
+--- BLOCK ---
+Espadas de Ludroth real.
+Espalham água, ajudando a
+limpar o sangue.
+--- BLOCK ---
+Espadas de Ludroth real.
+Espalham água, ajudando a
+limpar o sangue.
+--- BLOCK ---
+Lâminas duplas de ébano.
+Dizem-se originárias de uma
+sociedade de assassinos.
+--- BLOCK ---
+Lâminas duplas de ébano.
+Dizem-se originárias de uma
+sociedade de assassinos.
+--- BLOCK ---
+Armas escuras, favoritas da
+própria Morte. Enviando qualquer
+um para a sepultura.
+--- BLOCK ---
+Armas escuras, favoritas da
+própria Morte. Enviando qualquer
+um para a sepultura.
+--- BLOCK ---
+Armas brilhantes de lâmina
+curva. Aniquilam o oponente
+com sua dança feroz.
+--- BLOCK ---
+A última das Sete
+estrelas encarnada. Seus
+raios expulsam almas.
+--- BLOCK ---
+Lâminas duplas com o poder
+de um Zinogre. Apenas
+a coragem pode despertá-las.
+--- BLOCK ---
+Lâminas duplas com o poder
+de um Zinogre. Apenas
+a coragem pode despertá-las.
+--- BLOCK ---
+Lâminas duplas com o poder
+de um Zinogre. Apenas
+a coragem pode despertá-las.
+--- BLOCK ---
+Lâminas com o poder de
+um Lagiacrus do abismo.
+Seu poder é tempestuoso.
+--- BLOCK ---
+Lâminas com o poder de
+um Lagiacrus do abismo.
+Seu poder é tempestuoso.
+--- BLOCK ---
+Lâminas duplas com a força
+de um trovão. Capazes
+de abalar o mundo.
+--- BLOCK ---
+Lâminas duplas com a força
+de um trovão. Capazes
+de abalar o mundo.
+--- BLOCK ---
+Lâminas duplas que aumentam
+a Defesa. Possuem poderes
+aquáticos e grande fio.
+--- BLOCK ---
+Lâminas duplas que aumentam
+a Defesa. Possuem poderes
+aquáticos e grande fio.
+--- BLOCK ---
+Lâminas duplas que aumentam
+a Defesa. Possuem poderes
+aquáticos e grande fio.
+--- BLOCK ---
+Lâminas duplas feitas com barbatanas
+de Plesioth. Sua rede
+é durável e afiada.
+--- BLOCK ---
+Lâminas duplas feitas com barbatanas
+de Plesioth. Sua rede
+é durável e afiada.
+--- BLOCK ---
+Lâminas duplas de rede de
+jade, como o vestido
+de um anjo. Adoráveis.
+--- BLOCK ---
+Lâminas duplas de rede de
+jade, como o vestido
+de um anjo. Adoráveis.
+--- BLOCK ---
+Lâminas duplas que liberam um
+veneno mortal. Dançam ao
+som de seus vapores.
+--- BLOCK ---
+Lâminas duplas que liberam um
+veneno mortal. Dançam ao
+som de seus vapores.
+--- BLOCK ---
+Armas de um artesão
+louco que jurou vingar-se
+dos deuses. Veneno potente.
+--- BLOCK ---
+Lâminas duplas tão tóxicas que
+matam com um simples
+toque. Emanam puro ódio.
+--- BLOCK ---
+Lâminas duplas tão tóxicas que
+matam com um simples
+toque. Emanam puro ódio.
+--- BLOCK ---
+Lâminas duplas em forma de
+asas. Guardam o poder
+de um Gigginox aterrador.
+--- BLOCK ---
+Lâminas duplas em forma de
+asas. Guardam o poder
+de um Gigginox aterrador.
+--- BLOCK ---
+Lâminas duplas em forma de
+asas. Guardam o poder
+de um Gigginox aterrador.
+--- BLOCK ---
+Espadas com poderosas
+capacidades elementares herdadas
+de um wyvern.
+--- BLOCK ---
+Espadas com poderosas
+capacidades elementares herdadas
+de um wyvern.
+--- BLOCK ---
+Espadas com poderosas
+capacidades elementares herdadas
+de um wyvern.
+--- BLOCK ---
+Lâminas feitas com wyverns
+dourados e prateados. Possuem
+grandes poderes ígneos.
+--- BLOCK ---
+Lâminas feitas com wyverns
+dourados e prateados. Possuem
+grandes poderes ígneos.
+--- BLOCK ---
+Espadas chamadas como duas
+irmãs mortas na
+Tundra. Causam angústia.
+--- BLOCK ---
+Espadas chamadas como duas
+irmãs mortas na
+Tundra. Causam angústia.
+--- BLOCK ---
+Espadas chamadas como duas
+irmãs mortas na
+Tundra. Causam angústia.
+--- BLOCK ---
+Lâminas duplas feitas com
+garras, presas e hálito
+de Barioth. Congelantes.
+--- BLOCK ---
+Lâminas duplas feitas com
+garras, presas e hálito
+de Barioth. Congelantes.
+--- BLOCK ---
+Lâminas duplas feitas com
+garras, presas e hálito
+de Barioth. Congelantes.
+--- BLOCK ---
+Lâminas duplas feitas com um
+Barioth arenoso. Cortam como
+uma tempestade de areia.
+--- BLOCK ---
+Lâminas duplas feitas com um
+Barioth arenoso. Cortam como
+uma tempestade de areia.
+--- BLOCK ---
+Lâminas duplas de forma
+estranha, feitas com Diablos.
+Conquistam a vontade.
+--- BLOCK ---
+Lâminas duplas de forma
+estranha, feitas com Diablos.
+Conquistam a vontade.
+--- BLOCK ---
+Lâminas pesadas criadas por
+um tirano. Dilaceram carne
+e osso igualmente.
+--- BLOCK ---
+Lâminas duplas que podem ser usadas
+pelos que vencem o tirano, sob
+risco de se tornarem um.
+--- BLOCK ---
+Lâminas duplas que podem ser usadas
+pelos que vencem o tirano, sob
+risco de se tornarem um.
+--- BLOCK ---
+Armas que personificam o
+predador Deviljho. Quase
+parecem estar vivas...
+--- BLOCK ---
+Armas que personificam o
+predador Deviljho. Quase
+parecem estar vivas...
+--- BLOCK ---
+Armas que personificam o
+predador Deviljho. Quase
+parecem estar vivas...
+--- BLOCK ---
+Armas duplas desgastadas com
+potencial desconhecido. Talvez
+possam ser restauradas...
+--- BLOCK ---
+Armas duplas antigas com
+potencial desconhecido. Talvez
+possam ser restauradas...
+--- BLOCK ---
+Matadragões definitivas. Serão feitas
+com restos de
+uma antiga vila?
+--- BLOCK ---
+Matadragões definitivas. Serão feitas
+com restos de
+uma antiga vila?
+--- BLOCK ---
+Lâminas duplas que personificam
+um Ceadeus. Grandes, porém
+refinadas e práticas.
+--- BLOCK ---
+Lâminas duplas que personificam
+um Ceadeus. Grandes, porém
+refinadas e práticas.
+--- BLOCK ---
+Lâminas duplas que personificam
+um Ceadeus. Grandes, porém
+refinadas e práticas.
+--- BLOCK ---
+Espantalhos com aparência
+de Shakalaka. Usados
+para espantar wyverns.
+--- BLOCK ---
+Espantalhos com aparência
+de Shakalaka. Usados
+para espantar wyverns.
+--- BLOCK ---
+Espantalhos com aparência
+de Shakalaka. Usados
+para espantar wyverns.
+--- BLOCK ---
+Armas do célebre epicurista
+monsieur Chereau, inventor da
+lâmina muito bem passada.
+--- BLOCK ---
+Utensílios do epicurista
+monsieur Chereau. Usados
+para cozinhar wyverns.
+--- BLOCK ---
+Lâminas duplas feitas de
+talheres. Para as
+panquecas de wyvern!
+--- BLOCK ---
+Lâminas duplas feitas de
+talheres. Para as
+panquecas de wyvern!
+--- BLOCK ---
+Lâminas duplas de poder inenarrável.
+Suas chamas enviam os
+impuros para o inferno.
+--- BLOCK ---
+Lâminas duplas de poder inenarrável.
+Suas chamas enviam os
+impuros para o inferno.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Espada dupla roubada do
+Extremo Oriente para
+pesquisa. Muito afiada.
+--- BLOCK ---

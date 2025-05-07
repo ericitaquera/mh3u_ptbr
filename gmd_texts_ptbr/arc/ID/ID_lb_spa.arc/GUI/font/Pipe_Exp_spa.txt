@@ -1,0 +1,412 @@
+TMSG_PIPE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Uma gaita de metal grande.
+Esta arma eleva o ânimo
+daqueles que ouvem seu som.
+--- BLOCK ---
+Gaita aprimorada, feita de
+um metal raro. Seu
+som agradável inspira coragem.
+--- BLOCK ---
+Gaita aprimorada, feita de
+um metal raro. Seu
+som agradável inspira coragem.
+--- BLOCK ---
+Uma gaita composta por muitas
+partes. Difícil de usar,
+mas vale a pena.
+--- BLOCK ---
+Uma gaita composta por muitas
+partes. Difícil de usar,
+mas vale a pena.
+--- BLOCK ---
+Uma gaita composta por muitas
+partes. Difícil de usar,
+mas vale a pena.
+--- BLOCK ---
+Uma gaita composta por muitas
+partes. Difícil de usar,
+mas vale a pena.
+--- BLOCK ---
+Uma gaita com formato de
+guitarra e a fúria de
+um monarca. Libera seu espírito.
+--- BLOCK ---
+Uma gaita com formato de
+guitarra e a fúria de
+um monarca. Libera seu espírito.
+--- BLOCK ---
+Uma gaita com formato de
+guitarra e o ódio de
+um monarca. Abala a terra.
+--- BLOCK ---
+Uma gaita com formato de
+guitarra e o ódio de
+um monarca. Abala a terra.
+--- BLOCK ---
+Uma gaita negra de ébano.
+Inaudível para muitos, é
+um sinal no submundo.
+--- BLOCK ---
+Uma gaita negra de ébano.
+Inaudível para muitos, é
+um sinal no submundo.
+--- BLOCK ---
+Arma brilhante com asas
+reluzentes. Pertenceu a
+um caçador astuto.
+--- BLOCK ---
+Uma gaita com uma
+caixa de voz de
+Qurupeco. Anima os companheiros.
+--- BLOCK ---
+Uma gaita com uma
+caixa de voz de
+Qurupeco. Anima os companheiros.
+--- BLOCK ---
+Uma gaita com uma
+caixa de voz de
+Qurupeco. Anima os companheiros.
+--- BLOCK ---
+Uma gaita com uma caixa
+de voz de Qurupeco. Anima
+até os mais amargurados.
+--- BLOCK ---
+Uma gaita com caixa de
+voz de Qurupeco. Anima
+até o mais amargurado.
+--- BLOCK ---
+Uma arma musical de design
+guilda. Seus tons direcionam
+movimentos em plena caça.
+--- BLOCK ---
+Arma musical projetada
+para matar wyverns.
+Pulveriza os inimigos.
+--- BLOCK ---
+Arma musical projetada
+para matar wyverns.
+Pulveriza os inimigos.
+--- BLOCK ---
+Arma oriental que se assemelha
+à coroa de um Barroth.
+Seu som é muito agradável.
+--- BLOCK ---
+Arma oriental que se assemelha
+à coroa de um Barroth.
+Seu som é muito agradável.
+--- BLOCK ---
+Uma gaita feita de
+partes de Barroth. Sua
+música é comovente.
+--- BLOCK ---
+Uma gaita feita de
+partes de Barroth. Seu
+canto evoca grandes feitos.
+--- BLOCK ---
+Uma gaita feita de
+partes de Barroth. Seu
+canto evoca grandes feitos.
+--- BLOCK ---
+Arma baseada na coroa de
+um Barroth esmeralda. Seu
+som congela o coração.
+--- BLOCK ---
+Arma baseada na coroa de
+um Barroth esmeralda. Seu
+som congela o coração.
+--- BLOCK ---
+Uma gaita feita de boas
+partes do Barroth esmeralda.
+Seu uivo é gelado.
+--- BLOCK ---
+Uma gaita feita de boas
+partes do Barroth esmeralda.
+Seu uivo é gelado.
+--- BLOCK ---
+Uma gaita com pontas
+de Agnaktor. Usada pelas
+tribos das montanhas.
+--- BLOCK ---
+Uma gaita carmesim que
+dispara notas e fogo
+infernal contra o inimigo.
+--- BLOCK ---
+Uma gaita carmesim que
+dispara notas e fogo
+infernal contra o inimigo.
+--- BLOCK ---
+Uma grande gaita de osso.
+Eleva o espírito e concede
+poder aos que a ouvem.
+--- BLOCK ---
+Uma grande gaita de osso.
+Eleva o espírito e concede
+poder aos que a ouvem.
+--- BLOCK ---
+Gaita de alto desempenho
+para iniciantes. Uma
+opção muito popular.
+--- BLOCK ---
+Gaita de alto desempenho
+para iniciantes. Uma
+opção muito popular.
+--- BLOCK ---
+Arma musical de concha.
+Toca todo tipo
+de canções marinhas.
+--- BLOCK ---
+Arma musical de concha.
+Toca todo tipo
+de canções marinhas.
+--- BLOCK ---
+Arma musical de concha.
+Toca todo tipo
+de canções marinhas.
+--- BLOCK ---
+Uma gaita feita de partes
+de Arzuros. Seu doce
+tom ressoa nas montanhas.
+--- BLOCK ---
+Uma gaita feita de partes
+de Arzuros. Seu doce
+tom ressoa nas montanhas.
+--- BLOCK ---
+Uma gaita feita de partes
+de Arzuros. Seu doce
+tom ressoa nas montanhas.
+--- BLOCK ---
+Arma musical que fricciona presas
+de Barioth e metal
+em uma terrível sinfonia.
+--- BLOCK ---
+Arma musical tradicional das
+tribos das neves. Apela
+aos deuses níveos.
+--- BLOCK ---
+Arma musical tradicional das
+tribos das neves. Apela
+aos deuses níveos.
+--- BLOCK ---
+Arma musical feita de partes
+de Uragaan. Seu tom
+pode cortar o aço.
+--- BLOCK ---
+Um instrumento musical que se
+assemelha a um Uragaan ígneo.
+Entoa ao renascer no ermo.
+--- BLOCK ---
+Um instrumento musical que se
+assemelha a um Uragaan ígneo.
+Entoa ao renascer no ermo.
+--- BLOCK ---
+Instrumento feito de partes
+fofas de Ludroth
+real. Possui amplificador.
+--- BLOCK ---
+Instrumento feito de partes
+fofas de Ludroth
+real. Possui amplificador.
+--- BLOCK ---
+Instrumento feito de partes
+fofas de Ludroth
+real. Possui amplificador.
+--- BLOCK ---
+Instrumento em forma de
+caixão, selado com pele
+de Gigginox. Aterrorizante.
+--- BLOCK ---
+Instrumento em forma de
+caixão, selado com pele
+de Gigginox. Aterrorizante.
+--- BLOCK ---
+Instrumento em forma de
+caixão, selado com pele
+de Gigginox. Enlouquecedor.
+--- BLOCK ---
+Gaita selada com pele de
+Gigginox aterrador. Seu som
+odioso controla toda vida.
+--- BLOCK ---
+Gaita selada com pele de
+Gigginox aterrador. Seu som
+odioso controla toda vida.
+--- BLOCK ---
+Gaita selada com pele de
+Gigginox aterrador. Seu som
+odioso controla toda vida.
+--- BLOCK ---
+Instrumento musical feito de partes
+de Rathian. Gaita e
+sino ao mesmo tempo.
+--- BLOCK ---
+Instrumento musical feito de partes
+de Rathian. Gaita e
+sino ao mesmo tempo.
+--- BLOCK ---
+Instrumento musical com o
+nome da rainha. Seu
+som promove nova vida.
+--- BLOCK ---
+Elegante instrumento musical. Seu
+tom cristalino anuncia a
+chegada da primavera.
+--- BLOCK ---
+Elegante instrumento musical. Seu
+tom cristalino anuncia a
+chegada da primavera.
+--- BLOCK ---
+Harmonizador dourado de um
+antigo rei que oferecia
+sua música aos deuses.
+--- BLOCK ---
+Harmonizador dourado de um
+antigo rei que oferecia
+sua música aos deuses.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Capaz de
+criar músicas únicas.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Capaz de
+criar músicas únicas.
+--- BLOCK ---
+Gaita feita com partes de
+Bnahabra. Seu som é
+frio como o gelo.
+--- BLOCK ---
+Gaita feita com partes de
+Bnahabra. Seu som é
+frio como o gelo.
+--- BLOCK ---
+Gaita feita com partes de
+Bnahabra. Seu som é
+frio como o gelo.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Ao tocar
+suas cordas, faíscas saltam.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Ao tocar
+suas cordas, faíscas saltam.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Ao tocar
+suas cordas, faíscas saltam.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Contém
+um agente paralisante.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Contém
+um agente paralisante.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Contém
+um agente paralisante.
+--- BLOCK ---
+Gaita feita com partes
+de Bnahabra. Contém
+um agente paralisante.
+--- BLOCK ---
+Instrumento musical de concha de
+Uragaan de aço. Seu som
+é belo... e horrível.
+--- BLOCK ---
+Instrumento musical de concha de
+Uragaan de aço. Seu som
+é belo... e horrível.
+--- BLOCK ---
+Instrumento musical de concha de
+Uragaan de aço. Seu som
+é belo... e horrível.
+--- BLOCK ---
+Instrumento musical típico das
+caçadoras. Seu som feminino
+ressoa nos campos.
+--- BLOCK ---
+Instrumento musical típico das
+caçadoras. Seu som feminino
+ressoa nos campos.
+--- BLOCK ---
+Instrumento musical típico das
+caçadoras. Seu som feminino
+ressoa nos campos.
+--- BLOCK ---
+Flauta desgastada de
+potencial desconhecido. Talvez
+possa ser restaurada...
+--- BLOCK ---
+Flauta antiga de
+potencial desconhecido. Talvez
+possa ser restaurada...
+--- BLOCK ---
+Dizem que este artefato
+musical previa o futuro.
+Renovado como arma.
+--- BLOCK ---
+Dizem que este artefato
+musical previa o futuro.
+Renovado como arma.
+--- BLOCK ---
+Instrumento musical chique feito de
+partes de Brachydios. Derruba
+com seu ritmo rochoso.
+--- BLOCK ---
+Instrumento musical chique feito de
+partes de Brachydios. Derruba
+com seu ritmo rochoso.
+--- BLOCK ---
+Solene instrumento musical para tocar
+um réquiem que acabe
+com toda a criação.
+--- BLOCK ---
+Solene instrumento musical para tocar
+um réquiem que acabe
+com toda a criação.
+--- BLOCK ---
+Instrumento musical inspirado em
+um Lagiacrus. Seu trovão
+convoca grandes tempestades.
+--- BLOCK ---
+Instrumento musical inspirado em
+um Lagiacrus. Seu trovão
+convoca grandes tempestades.
+--- BLOCK ---
+Instrumento musical inspirado em
+um Lagiacrus. Seu trovão
+convoca grandes tempestades.
+--- BLOCK ---
+Instrumento musical que lembra um
+Lagiacrus do abismo. Seus
+raios rasgam o céu.
+--- BLOCK ---
+Instrumento musical que lembra um
+Lagiacrus do abismo. Seus
+raios rasgam o céu.
+--- BLOCK ---
+Instrumento musical surgido de um
+Miralis nefasto. Seu som anuncia
+o fim de tudo.
+--- BLOCK ---
+Gaita surgida de um Miralis
+funesto. Seu som anuncia
+o fim de tudo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Gaita que acalma a mente,
+mas ao tocá-la, o ar
+canta ao som dos raios.
+--- BLOCK ---
+Gaita que acalma a mente,
+mas ao tocá-la, o ar
+canta ao som dos raios.
+--- BLOCK ---

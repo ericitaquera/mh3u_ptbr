@@ -1,0 +1,246 @@
+﻿DATA
+--- BLOCK ---
+Conmoción de pociones
+--- BLOCK ---
+Llamada a comer
+--- BLOCK ---
+Patrulla de setas
+--- BLOCK ---
+Salta el Jaggi
+--- BLOCK ---
+Oportunidad del Pez dorado
+--- BLOCK ---
+De excursión
+--- BLOCK ---
+Sin amor para el Ludroth
+--- BLOCK ---
+Cazando bichos
+--- BLOCK ---
+El recado de mi señor
+--- BLOCK ---
+Jugando con fuego
+--- BLOCK ---
+Arregla nuestro barco
+--- BLOCK ---
+Rugido de Wroggi
+--- BLOCK ---
+Alborotador tóxico
+--- BLOCK ---
+Liderar el ataque
+--- BLOCK ---
+¡Furia de Rhenoplos!
+--- BLOCK ---
+Escena del crimen
+--- BLOCK ---
+Líder de la manada del hielo
+--- BLOCK ---
+El trineo atascado
+--- BLOCK ---
+Demasiado azul
+--- BLOCK ---
+La dragona
+--- BLOCK ---
+La ponzoña sigilosa
+--- BLOCK ---
+El demonio del pescador
+--- BLOCK ---
+Con mucha marcha
+--- BLOCK ---
+Pisada de Uroktor
+--- BLOCK ---
+Caen las defensas
+--- BLOCK ---
+El glotón del desierto
+--- BLOCK ---
+Wyvern cornudo
+--- BLOCK ---
+La furia del volcán
+--- BLOCK ---
+Morador de la lava
+--- BLOCK ---
+La ira de Rathalos
+--- BLOCK ---
+El cuento de un bardo
+--- BLOCK ---
+Acoso al Bullfango
+--- BLOCK ---
+Rugido de Wroggi
+--- BLOCK ---
+Alborotador tóxico
+--- BLOCK ---
+Salta el Jaggi
+--- BLOCK ---
+De excursión
+--- BLOCK ---
+Cazamiel
+--- BLOCK ---
+Manías de Arzuros
+--- BLOCK ---
+Cazando bichos
+--- BLOCK ---
+Jugando con fuego
+--- BLOCK ---
+Flor de un día
+--- BLOCK ---
+Control de plagas
+--- BLOCK ---
+El cuento del pescador
+--- BLOCK ---
+Operación Control del veneno
+--- BLOCK ---
+¡Furia de Rhenoplos!
+--- BLOCK ---
+Liderar el ataque
+--- BLOCK ---
+Ira de Rathian
+--- BLOCK ---
+Reina rosa de las cumbres
+--- BLOCK ---
+El trineo atascado
+--- BLOCK ---
+Investigación del accidente
+--- BLOCK ---
+Salpicón doloroso
+--- BLOCK ---
+Demasiado azul
+--- BLOCK ---
+Líder de la manada del hielo
+--- BLOCK ---
+Con mucha marcha
+--- BLOCK ---
+La ponzoña sigilosa
+--- BLOCK ---
+Bolazos de nieve
+--- BLOCK ---
+Acontecimiento impactante
+--- BLOCK ---
+La ira de Rathalos
+--- BLOCK ---
+Caen las defensas
+--- BLOCK ---
+El glotón del desierto
+--- BLOCK ---
+El demonio del pescador
+--- BLOCK ---
+Wyvern cornudo
+--- BLOCK ---
+La expedición perdida
+--- BLOCK ---
+La furia del volcán
+--- BLOCK ---
+Brachydios trae problemas
+--- BLOCK ---
+Morador de la lava
+--- BLOCK ---
+Pisada de Uroktor
+--- BLOCK ---
+Ataque celeste
+--- BLOCK ---
+Aullidos bajo la luna
+--- BLOCK ---
+Locura a medianoche
+--- BLOCK ---
+Pavor a las sombras
+--- BLOCK ---
+Tormenta del desierto
+--- BLOCK ---
+As bajo la manga
+--- BLOCK ---
+Ecolocación
+--- BLOCK ---
+Conquistador mundial
+--- BLOCK ---
+Al fuego
+--- BLOCK ---
+Salta el Jaggi
+--- BLOCK ---
+De excursión
+--- BLOCK ---
+Alborotador tóxico
+--- BLOCK ---
+Cazando bichos
+--- BLOCK ---
+El recado de mi señor
+--- BLOCK ---
+El trineo atascado
+--- BLOCK ---
+Jugando con fuego
+--- BLOCK ---
+¡Furia de Rhenoplos!
+--- BLOCK ---
+Flor de un día
+--- BLOCK ---
+El cuento del pescador
+--- BLOCK ---
+Reino de color púrpura
+--- BLOCK ---
+Liderar el ataque
+--- BLOCK ---
+Bolazos de nieve
+--- BLOCK ---
+Control de plagas
+--- BLOCK ---
+La misión del mercader
+--- BLOCK ---
+La reina flor de cerezo
+--- BLOCK ---
+Salpicón doloroso
+--- BLOCK ---
+Con mucha marcha
+--- BLOCK ---
+El glotón del desierto
+--- BLOCK ---
+El destello verde
+--- BLOCK ---
+Líder de la manada del hielo
+--- BLOCK ---
+Investigación del accidente
+--- BLOCK ---
+La ponzoña sigilosa
+--- BLOCK ---
+Acontecimiento impactante
+--- BLOCK ---
+El cuento de un bardo
+--- BLOCK ---
+La montaña móvil
+--- BLOCK ---
+Intereses personales
+--- BLOCK ---
+Wyvern cornudo
+--- BLOCK ---
+Locura a medianoche
+--- BLOCK ---
+La ira de Rathalos
+--- BLOCK ---
+Ataque celeste
+--- BLOCK ---
+La furia del volcán
+--- BLOCK ---
+As bajo la manga
+--- BLOCK ---
+Pisada de Uroktor
+--- BLOCK ---
+Morador de la lava
+--- BLOCK ---
+Tormenta del desierto
+--- BLOCK ---
+Ojos hambrientos
+--- BLOCK ---
+Acecho nocturno
+--- BLOCK ---
+Agotamiento por calor
+--- BLOCK ---
+Ecolocación
+--- BLOCK ---
+Derribar al Deviljho
+--- BLOCK ---
+Cazador cazado
+--- BLOCK ---
+Gran señor infernal
+--- BLOCK ---
+El demonio del pescador
+--- BLOCK ---
+Gobernante de dos reinos
+--- BLOCK ---
+A cazar Brachydios
+--- BLOCK ---

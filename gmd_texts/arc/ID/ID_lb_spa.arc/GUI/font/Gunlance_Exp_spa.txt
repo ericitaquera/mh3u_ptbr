@@ -1,0 +1,464 @@
+﻿TMSG_GUNLANCE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Una Lanza pistola no
+demasiado cara. Una buena
+arma para empezar.
+--- BLOCK ---
+Una Lanza pistola no
+demasiado cara. Una buena
+arma para empezar.
+--- BLOCK ---
+Una Lanza pistola no
+demasiado cara. Una buena
+arma para empezar.
+--- BLOCK ---
+Una buena Lanza pistola
+de larga historia.
+La fabricó el Gremio.
+--- BLOCK ---
+Una buena Lanza pistola
+de larga historia.
+La fabricó el Gremio.
+--- BLOCK ---
+Una buena Lanza pistola
+de larga historia.
+La fabricó el Gremio.
+--- BLOCK ---
+Una Lanza pistola mejorada
+por un maestro, pero fácil
+de utilizar por cualquiera.
+--- BLOCK ---
+Una Lanza pistola mejorada
+por un maestro, pero fácil
+de utilizar por cualquiera.
+--- BLOCK ---
+Una Lanza pistola mejorada
+por un maestro, pero fácil
+de utilizar por cualquiera.
+--- BLOCK ---
+Una Lanza pistola de ébano.
+El cañón lo ocultan unas
+hojas de obsidiana.
+--- BLOCK ---
+Una Lanza pistola de ébano.
+El cañón lo ocultan unas
+hojas de obsidiana.
+--- BLOCK ---
+Una Lanza pistola de ébano.
+El cañón lo ocultan unas
+hojas de obsidiana.
+--- BLOCK ---
+Una Lanza pistola con tonos
+sobrenaturales. Sus usuarios
+se ocultan en las sombras.
+--- BLOCK ---
+La sexta de las Siete
+estrellas, encarnada. Emite
+luz estelar.
+--- BLOCK ---
+Una Lanza pistola verde que
+evoca la noche. Apaga luces
+y vidas con facilidad.
+--- BLOCK ---
+Una Lanza pistola verde que
+evoca la noche. Apaga luces
+y vidas con facilidad.
+--- BLOCK ---
+Una Lanza pistola que
+representa un Rathalos.
+Su melodía es letal.
+--- BLOCK ---
+Una Lanza pistola que
+representa un Rathalos.
+Su melodía es letal.
+--- BLOCK ---
+Una Lanza pistola que
+representa un Rathalos.
+Su melodía es letal.
+--- BLOCK ---
+Una Lanza pistola de trozos
+de Rathalos de plata. Sus
+escamas brillan nobles.
+--- BLOCK ---
+Una Lanza pistola de trozos
+de Rathalos de plata. Sus
+escamas brillan nobles.
+--- BLOCK ---
+Una Lanza pistola de trozos
+de Rathalos de plata. Sus
+escamas brillan nobles.
+--- BLOCK ---
+Una Lanza pistola creada
+excavando una antigua y
+reconstruyendo el disparo.
+--- BLOCK ---
+Una Lanza pistola creada
+excavando una antigua y
+reconstruyendo el disparo.
+--- BLOCK ---
+Una Lanza pistola creada
+excavando una antigua y
+reconstruyendo el disparo.
+--- BLOCK ---
+Una temible Lanza pistola
+creada con tecnología
+gremial. Contra wyverns.
+--- BLOCK ---
+Una Lanza pistola que
+penetra escamas de wyvern.
+Lo último contra wyverns.
+--- BLOCK ---
+Una Lanza pistola que
+penetra escamas de wyvern. 
+Lo último contra wyverns.
+--- BLOCK ---
+Una gran Lanza pistola que
+recuerda a un Volvidon. 
+Aplasta, más que apuñala.
+--- BLOCK ---
+Una gran Lanza pistola que
+recuerda a un Volvidon. 
+Aplasta, más que apuñala.
+--- BLOCK ---
+Una gran Lanza pistola que
+recuerda a un Volvidon. 
+Aplasta, más que apuñala.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un Lagiacrus. 
+Dispara rayos terribles.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un Lagiacrus. 
+Dispara rayos terribles.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un Lagiacrus. 
+Dispara rayos terribles.
+--- BLOCK ---
+Una Lanza pistola que
+convierte el poder de un
+Lagiacrus en rayos.
+--- BLOCK ---
+Una Lanza pistola que
+convierte el poder de
+un Lagiacrus en rayos.
+--- BLOCK ---
+Una Lanza pistola que
+convierte el poder de
+un Lagiacrus en rayos.
+--- BLOCK ---
+Una Lanza pistola azul que
+recuerda al mar. Otorga
+el gobierno de las aguas.
+--- BLOCK ---
+Una Lanza pistola azul que
+recuerda al mar. Otorga
+el gobierno de las aguas.
+--- BLOCK ---
+Una Lanza pistola con baba
+de Brachydios. Su poder es
+inconmensurable.
+--- BLOCK ---
+Una Lanza pistola con baba
+de Brachydios. Su poder es
+inconmensurable.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un Brachydios.
+No crea más que dolor.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un Brachydios. 
+No crea más que dolor.
+--- BLOCK ---
+Una Lanza pistola que une
+tecnología y exotismo. 
+Tiene propiedades gélidas.
+--- BLOCK ---
+Una Lanza pistola que une
+tecnología y exotismo. 
+Tiene propiedades gélidas.
+--- BLOCK ---
+Una Lanza pistola que une
+tecnología y exotismo. 
+Tiene propiedades gélidas.
+--- BLOCK ---
+Una Lanza pistola que imita
+el blindaje del Agnaktor. 
+Parece brillar, infernal.
+--- BLOCK ---
+Una Lanza pistola que imita
+el blindaje del Agnaktor. 
+Parece brillar, infernal.
+--- BLOCK ---
+Una Lanza pistola roja y
+reluciente. Reduce a
+los enemigos a cenizas.
+--- BLOCK ---
+Una Lanza pistola compuesta
+de trozos de Agnaktor. 
+Vaporiza cuanto toca.
+--- BLOCK ---
+Una Lanza pistola compuesta
+de trozos de Agnaktor. 
+Vaporiza cuanto toca.
+--- BLOCK ---
+Una Lanza pistola de hielo.
+Sus chorros de agua 
+atraviesan el acero macizo.
+--- BLOCK ---
+Una Lanza pistola basada
+en un Agnaktor glacial. 
+Invoca feroces trombas.
+--- BLOCK ---
+Una Lanza pistola basada
+en un Agnaktor glacial. 
+Invoca feroces trombas.
+--- BLOCK ---
+Lanza pistola para cazadores
+principiantes. Con diseño
+perfecto para practicar.
+--- BLOCK ---
+Una Lanza pistola para
+principiantes. Permite
+aprender los fundamentos. 
+--- BLOCK ---
+Una Lanza pistola para
+principiantes. Permite
+aprender los fundamentos. 
+--- BLOCK ---
+Una Lanza pistola de barro,
+creada de un Barroth. 
+Funciona en toda condición.
+--- BLOCK ---
+Una Lanza pistola de barro,
+creada de un Barroth.
+Funciona en toda condición.
+--- BLOCK ---
+Una Lanza pistola de barro,
+creada de un Barroth.
+Funciona en toda condición.
+--- BLOCK ---
+Una Lanza pistola muy dura,
+capaz de resistir los climas
+más duros.
+--- BLOCK ---
+Una Lanza pistola muy dura,
+capaz de resistir los climas
+más duros.
+--- BLOCK ---
+Una Lanza pistola de hielo,
+hecha de Barroth esmeralda. 
+Puede redirigir avalanchas.
+--- BLOCK ---
+Una Lanza pistola de hielo,
+hecha de Barroth esmeralda.
+Puede redirigir avalanchas.
+--- BLOCK ---
+Una Lanza pistola glacial. 
+Convierte a los enemigos
+en esculturas de hielo.
+--- BLOCK ---
+Una Lanza pistola glacial. 
+Convierte a los enemigos
+en esculturas de hielo.
+--- BLOCK ---
+Una Lanza pistola cubierta
+de pieles de gran Jaggi. Un
+diseño ortodoxo.
+--- BLOCK ---
+Una Lanza pistola cubierta
+de pieles de Gran Jaggi.
+Un diseño ortodoxo.
+--- BLOCK ---
+Una Lanza pistola cubierta
+de pieles de Gran Jaggi.
+Un diseño ortodoxo.
+--- BLOCK ---
+Una Lanza pistola con
+escamas de la reina. 
+Dispara veneno.
+--- BLOCK ---
+Una Lanza pistola con
+escamas de la reina. 
+Dispara veneno.
+--- BLOCK ---
+Una Lanza pistola con
+escamas de la reina. 
+Dispara veneno.
+--- BLOCK ---
+Una Lanza pistola de la
+reina. Lo último que ven
+los rivales es su belleza.
+--- BLOCK ---
+Una Lanza pistola de la
+reina. Lo último que ven
+los rivales es su belleza.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un monarca. Su
+rugido anuncia conquista.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un monarca. Su
+rugido anuncia conquista.
+--- BLOCK ---
+Una Lanza pistola con
+el poder de un monarca. Su
+rugido anuncia conquista.
+--- BLOCK ---
+Una Lanza pistola basada en
+un Zinogre estigio. Sus
+disparos son temibles.
+--- BLOCK ---
+Una Lanza pistola basada en
+un Zinogre estigio. Sus
+disparos son temibles.
+--- BLOCK ---
+Una Lanza pistola con
+plumas de Qurupeco. Su
+prendedor dispara fuego.
+--- BLOCK ---
+Una Lanza pistola con
+plumas de Qurupeco. Su
+prendedor dispara fuego.
+--- BLOCK ---
+Una Lanza pistola con
+ignición interna. Sus 
+llamas son aterradoras.
+--- BLOCK ---
+Una Lanza pistola con
+plumas de Qurupeco carmesí. 
+Produce ataques de trueno.
+--- BLOCK ---
+Una Lanza pistola con 
+plumas de Qurupeco carmesí. 
+Produce ataques de trueno.
+--- BLOCK ---
+Una Lanza pistola con 
+plumas de Qurupeco carmesí. 
+Produce ataques de trueno.
+--- BLOCK ---
+Una Lanza pistola de trozos
+de Plesioth. Puede efectuar
+varios disparos.
+--- BLOCK ---
+Una Lanza pistola de trozos
+de Plesioth. Puede efectuar
+varios disparos.
+--- BLOCK ---
+Una Lanza pistola que es
+un Plesioth personificado.
+Puede acallar un tsunami.
+--- BLOCK ---
+Una Lanza pistola que es
+un Plesioth personificado.
+Puede acallar un tsunami.
+--- BLOCK ---
+Una Lanza pistola que es
+un Plesioth personificado.
+Puede acallar un tsunami.
+--- BLOCK ---
+Lanza pistola con alma de
+Deviljho. La forma de
+la bestia es evidente.
+--- BLOCK ---
+Lanza pistola con alma de
+Deviljho. La forma de
+la bestia es evidente.
+--- BLOCK ---
+Lanza pistola con alma de
+Deviljho. La forma de
+la bestia es evidente.
+--- BLOCK ---
+Una Lanza pistola creada
+tallando un colmillo de
+Jhen Mohran.
+--- BLOCK ---
+Una Lanza pistola creada
+tallando un colmillo de
+Jhen Mohran.
+--- BLOCK ---
+Una Lanza pistola de
+colmillo de Jhen Mohran.
+Hay un arma por colmillo.
+--- BLOCK ---
+Una Lanza pistola ajada y
+con potencial. Quizá podría
+restaurarse...
+--- BLOCK ---
+Una Lanza pistola vieja con
+potencial ignorado. Quizá
+podría restaurarse...
+--- BLOCK ---
+Una Lanza pistola para
+honrar al dios solar.
+Ahora ha renacido.
+--- BLOCK ---
+Una Lanza pistola para
+honrar al dios solar.
+Ahora ha renacido.
+--- BLOCK ---
+Una Lanza pistola nacida
+de un señor infernal.
+El usuario puede arder.
+--- BLOCK ---
+Una Lanza pistola nacida
+de un señor infernal.
+El usuario puede arder.
+--- BLOCK ---
+Una Lanza pistola con forma
+de recuerdo Felyne. ¡Hay
+una muñeca dentro de otra!
+--- BLOCK ---
+Una Lanza pistola con forma
+de recuerdo Felyne. ¡Hay
+una muñeca dentro de otra!
+--- BLOCK ---
+Una Lanza pistola con forma
+de recuerdo Felyne. ¡Hay
+una muñeca dentro de otra!
+--- BLOCK ---
+Una Lanza pistola nacida de
+la agricultura. Pese a su
+aspecto, es potente.
+--- BLOCK ---
+Una Lanza pistola nacida de
+la agricultura. Pese a su
+aspecto, es potente.
+--- BLOCK ---
+Una Lanza pistola nacida de
+la agricultura. Pese a su
+aspecto, es potente.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Bonita Lanza pistola con una
+hoja de cobre. Valorada
+como pieza de exposición.
+--- BLOCK ---
+Lanza pistola noble que
+llama la atención, con una
+hoja con brillo plateado.
+--- BLOCK ---
+Lanza pistola espléndida con
+una hoja con brillo dorado.
+El portador ha de ser noble.
+--- BLOCK ---
+Como un rayo, abre el cielo
+con su luz. Se confunde con
+una llama blanca.
+--- BLOCK ---

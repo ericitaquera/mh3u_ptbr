@@ -1,0 +1,370 @@
+TMSG_HBG_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Arma formidável enorme.
+Perfeita para praticar
+técnicas de Balestra.
+--- BLOCK ---
+Arma formidável e enorme.
+Perfeita para praticar
+técnicas de Balestra.
+--- BLOCK ---
+Arma barata e confiável
+com bom desempenho. Base
+ideal para futuras melhorias.
+--- BLOCK ---
+Arma com partes resistentes
+ao fogo de Rathian.
+Valorizada por sua confiabilidade.
+--- BLOCK ---
+Arma com partes resistentes
+ao fogo de Rathian.
+Valorizada por sua confiabilidade.
+--- BLOCK ---
+Arma com partes resistentes
+ao fogo de Rathian.
+Valorizada por sua confiabilidade.
+--- BLOCK ---
+Balestra com partes rosa
+de Rathian. Seu longo
+canal melhora a precisão.
+--- BLOCK ---
+Balestra com partes rosa
+de Rathian. Seu longo
+canal melhora a precisão.
+--- BLOCK ---
+Balestra com partes rosa
+de Rathian. Seu longo
+canal melhora a precisão.
+--- BLOCK ---
+Arma elegante de balas
+de gelo. Sua delicadeza
+esconde um grande desempenho.
+--- BLOCK ---
+Arma elegante de balas
+de gelo. Sua delicadeza
+esconde um grande desempenho.
+--- BLOCK ---
+Balestra pesada chamada de
+deslizador. O inimigo é
+bombardeado com balas congeladas.
+--- BLOCK ---
+Balestra pesada chamada de
+deslizador. O inimigo é
+bombardeado com balas congeladas.
+--- BLOCK ---
+Arma para caçar bestas
+de montanha. Fácil de
+manter, favorece o fogo.
+--- BLOCK ---
+Arma para caçar bestas
+de montanha. Fácil de
+manter, favorece o fogo.
+--- BLOCK ---
+Balestra pesada de novos
+materiais aprovada pelo
+Gremio. Mata bestas.
+--- BLOCK ---
+Balestra pesada de novos
+materiais aprovada pelo
+Gremio. Mata bestas.
+--- BLOCK ---
+Balestra pesada usada por
+mercenários do deserto. Foi
+refinada após muitas batalhas.
+--- BLOCK ---
+Balestra pesada que os mercenários
+do deserto carregavam. Foi
+refinada após muitas batalhas.
+--- BLOCK ---
+Balestra pesada que os mercenários
+do deserto carregavam. Foi
+refinada após muitas batalhas.
+--- BLOCK ---
+Balestra pesada avermelhada que
+o mercenário Alfonso usou,
+lutando por seus ideais.
+--- BLOCK ---
+Balestra pesada avermelhada que
+o mercenário Alfonso usou,
+lutando por seus ideais.
+--- BLOCK ---
+Balestra pesada feita do corpo
+de um Plesioth. Dispara
+vários tipos de munição.
+--- BLOCK ---
+Balestra pesada feita do corpo
+de um Plesioth. Dispara
+vários tipos de munição.
+--- BLOCK ---
+Balestra pesada feita do corpo
+de um Plesioth verde. Com
+a potência de uma fera.
+--- BLOCK ---
+Balestra pesada feita do corpo
+de um Plesioth verde. Com
+a potência de uma fera.
+--- BLOCK ---
+Balestra pesada decorada com
+partes de Qurupeco. Boa
+para disparos de chama.
+--- BLOCK ---
+Balestra pesada decorada com
+partes de Qurupeco. Boa
+para disparos de chama.
+--- BLOCK ---
+Balestra pesada de
+tiros de chumbo.
+Alcança vários inimigos.
+--- BLOCK ---
+Balestra pesada que abraça o
+trovão. Domina a caça
+com chuvas de balas.
+--- BLOCK ---
+Balestra pesada que abraça o
+trovão. Domina a caça
+com chuvas de balas.
+--- BLOCK ---
+Balestra pesada que abraça o
+trovão. Domina a caça
+com chuvas de balas.
+--- BLOCK ---
+Balestra pesada com lodo
+explosivo de Brachydios. Possui
+uma força incrível.
+--- BLOCK ---
+Balestra pesada com lodo
+explosivo de Brachydios. Possui
+uma força incrível.
+--- BLOCK ---
+Balestra feita de partes
+de Brachydios. Seu lodo
+explosivo atravessa o aço.
+--- BLOCK ---
+Balestra feita de partes
+de Brachydios. Seu lodo
+explosivo atravessa o aço.
+--- BLOCK ---
+Arma que transforma vontade
+em poder. Um verdadeiro
+monarca a exaltará.
+--- BLOCK ---
+Arma que transforma vontade
+em poder. Um verdadeiro
+monarca a exaltará.
+--- BLOCK ---
+Arma que transforma vontade
+em poder. Um verdadeiro
+monarca a exaltará.
+--- BLOCK ---
+Balestra pesada que demanda muito
+de seu dono. Apenas para
+aqueles que desejam poder.
+--- BLOCK ---
+Balestra pesada de recarga
+muito rápida. Sua excelente
+mira melhora a afinidade.
+--- BLOCK ---
+Balestra pesada de um
+assassino que matava suas
+vítimas oculto na noite.
+--- BLOCK ---
+Balestra pesada pintada de um
+céu escuro. Rouba vidas e
+as devolve ao submundo.
+--- BLOCK ---
+Balestra pesada pintada de um
+céu escuro. Rouba vidas e
+as devolve ao submundo.
+--- BLOCK ---
+Balestra que brilha na
+noite. Tira a vida
+de uma vez.
+--- BLOCK ---
+Arma de duelo criada com dois
+grandes chifres. Tenha cuidado para
+não se cortar com ela.
+--- BLOCK ---
+Arma de duelo criada com dois
+grandes chifres. Tenha cuidado para
+não se cortar com ela.
+--- BLOCK ---
+Temível Balestra pesada para
+destruir inimigos. Possui
+uma potência suprema.
+--- BLOCK ---
+Balestra pesada feita por
+um homem obcecado
+com a vingança.
+--- BLOCK ---
+Balestra pesada feita por
+um homem obcecado
+com a vingança.
+--- BLOCK ---
+Arma feita com partes de Lagiacrus.
+O canhão eletrificado evita que
+as balas se tornem lentas.
+--- BLOCK ---
+Arma feita com partes de Lagiacrus.
+O canhão eletrificado evita que
+as balas se tornem lentas.
+--- BLOCK ---
+Arma feita com partes de Lagiacrus.
+O canhão eletrificado evita que
+as balas se tornem lentas.
+--- BLOCK ---
+Balestra pesada que se assemelha
+a um Lagiacrus marmóreo. O
+raio potencializa os disparos.
+--- BLOCK ---
+Balestra pesada que se assemelha
+a um Lagiacrus marmóreo. O
+raio potencializa os disparos.
+--- BLOCK ---
+Balestra pesada feita com partes
+de Lagiacrus do abismo. Rouba
+o futuro dos inimigos.
+--- BLOCK ---
+Balestra pesada carmesim feita
+com partes de Agnaktor.
+Orgulha-se do grande desempenho.
+--- BLOCK ---
+Balestra pesada carmesim feita
+com partes de Agnaktor.
+Orgulha-se do grande desempenho.
+--- BLOCK ---
+Arma feita da fúria
+de um Agnaktor. As
+chamas consomem tudo.
+--- BLOCK ---
+Balestra pesada que evoca o
+senhor do vulcão. Sua salva
+soa como uma erupção.
+--- BLOCK ---
+Balestra pesada que evoca o
+senhor do vulcão. Sua salva
+soa como uma erupção.
+--- BLOCK ---
+Arma que extrai vida
+do choro do Agnaktor
+glacial. Lança ondas destruidoras.
+--- BLOCK ---
+Arma glacial inspirada no
+senhor da tundra. Invoca
+avalanches do mesmo céu.
+--- BLOCK ---
+Arma glacial inspirada no
+senhor da tundra. Invoca
+avalanches do mesmo céu.
+--- BLOCK ---
+Balestra pesada feita com partes
+de Jhen Mohran. Difícil
+de empunhar, é formidável.
+--- BLOCK ---
+Balestra pesada feita com partes
+de Jhen Mohran. Difícil
+de empunhar, é formidável.
+--- BLOCK ---
+Balestra muito importante na história
+de uma nação. Anuncia
+o fim do inimigo.
+--- BLOCK ---
+Arma explosiva feita com partes
+de Uragaan. Ideal para
+tipos específicos de munição.
+--- BLOCK ---
+Arma explosiva feita com partes
+de Uragaan. Ideal para
+tipos específicos de munição.
+--- BLOCK ---
+Arma explosiva feita com partes
+de Uragaan. Ideal para
+tipos específicos de munição.
+--- BLOCK ---
+Balestra pesada para um
+gigante. Nasceu do desejo
+de poder eterno definitivo.
+--- BLOCK ---
+Balestra pesada para um
+gigante. Nasceu do desejo
+de poder eterno definitivo.
+--- BLOCK ---
+Balestra com a aparência e
+força de um Ceadeus.
+Faz tremer de medo.
+--- BLOCK ---
+Balestra com a aparência e
+força de um Ceadeus.
+Faz tremer de medo.
+--- BLOCK ---
+Balestra inspirada em um
+Ceadeus barba dourada. Agita
+o reino dos espíritos.
+--- BLOCK ---
+Balestra inspirada em um
+Ceadeus barba dourada. Agita
+o reino dos espíritos.
+--- BLOCK ---
+Balestra pesada de ônix da
+ira e do caos.
+Rodeada por energia desconhecida.
+--- BLOCK ---
+Balestra pesada de ônix da
+ira e do caos.
+Rodeada por energia desconhecida.
+--- BLOCK ---
+Arma inspirada em uma
+carruagem de conto de
+fadas. Capricho estranhamente popular.
+--- BLOCK ---
+Arma inspirada em uma
+carruagem de conto de
+fadas. Capricho estranhamente popular.
+--- BLOCK ---
+Era uma vez, uma Balestra
+pesada de uma garota. E
+viveram felizes para sempre.
+--- BLOCK ---
+Balestra pesada de cristais
+finos. Sua forma celestial
+lembra uma estrela cadente.
+--- BLOCK ---
+Balestra pesada de cristais
+finos. Sua forma celestial
+lembra uma estrela cadente.
+--- BLOCK ---
+Arma com a lembrança
+de estrelas distantes. Deixa
+rastro de poeira estelar.
+--- BLOCK ---
+Balestra pesada de terras
+desconhecidas. Apreciada pelos
+amantes da pólvora.
+--- BLOCK ---
+Balestra pesada de terras
+desconhecidas. Apreciada pelos
+amantes da pólvora.
+--- BLOCK ---
+Balestra pesada para destruição
+em massa. Seus
+disparos destroem tudo.
+--- BLOCK ---
+Balestra pesada forjada de metal
+raro. Com um design
+simples, possui grande poder.
+--- BLOCK ---
+Balestra pesada forjada de metal
+raro. Com um design
+simples, possui grande poder.
+--- BLOCK ---
+Balestra pesada forjada de metal
+raro. Com um design
+simples, possui grande poder.
+--- BLOCK ---
+Balestra pesada atroz. As chamas
+explodem e o solo
+se torna um inferno.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

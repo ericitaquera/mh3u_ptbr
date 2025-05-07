@@ -1,0 +1,384 @@
+﻿TMSG_SKILL_TYPE
+--- BLOCK ---
+TMSG_MUSIC_INF
+--- BLOCK ---
+TMSG_BOU_TYPE
+--- BLOCK ---
+TMSG_INFO_TYPE
+--- BLOCK ---
+Ninguno
+--- BLOCK ---
+Torso+
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Parálisis
+--- BLOCK ---
+Sueño
+--- BLOCK ---
+Aturdir
+--- BLOCK ---
+Barr/Nieve
+--- BLOCK ---
+Antisépt.
+--- BLOCK ---
+Piel de hierro
+--- BLOCK ---
+Boñiguero
+--- BLOCK ---
+Biólogo
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Defensa
+--- BLOCK ---
+Salud
+--- BLOCK ---
+Vel. recup
+--- BLOCK ---
+Protección
+--- BLOCK ---
+Vaina ráp.
+--- BLOCK ---
+Carga ráp.
+--- BLOCK ---
+Experto
+--- BLOCK ---
+Maza
+--- BLOCK ---
+Destructor
+--- BLOCK ---
+Boxeador
+--- BLOCK ---
+Robarresis
+--- BLOCK ---
+Constit.
+--- BLOCK ---
+Prot. oído
+--- BLOCK ---
+Res.viento
+--- BLOCK ---
+ResTemblor
+--- BLOCK ---
+Res. calor
+--- BLOCK ---
+Res. frío
+--- BLOCK ---
+Resist.
+--- BLOCK ---
+Resist.rec
+--- BLOCK ---
+Evasión
+--- BLOCK ---
+Dist evas.
+--- BLOCK ---
+Evasor
+--- BLOCK ---
+Sentido
+--- BLOCK ---
+Guardia
+--- BLOCK ---
+Guardia+
+--- BLOCK ---
+Autoguard.
+--- BLOCK ---
+Estado an.
+--- BLOCK ---
+Atq. fuego
+--- BLOCK ---
+Atq. agua
+--- BLOCK ---
+Atq trueno
+--- BLOCK ---
+Atq. hielo
+--- BLOCK ---
+Atq dragón
+--- BLOCK ---
+Elemental
+--- BLOCK ---
+Res. fuego
+--- BLOCK ---
+Res. agua
+--- BLOCK ---
+Res.trueno
+--- BLOCK ---
+Res. hielo
+--- BLOCK ---
+Res.dragón
+--- BLOCK ---
+Afilado
+--- BLOCK ---
+Artesano
+--- BLOCK ---
+Esgrima
+--- BLOCK ---
+Afilador
+--- BLOCK ---
+Dsnf. esp.
+--- BLOCK ---
+Pena inmed
+--- BLOCK ---
+Vel. recar
+--- BLOCK ---
+Carga+
+--- BLOCK ---
+Dis. bonus
+--- BLOCK ---
+Retroceso
+--- BLOCK ---
+Precisión
+--- BLOCK ---
+Disparo+
+--- BLOCK ---
+Perforar+
+--- BLOCK ---
+Perdigón+
+--- BLOCK ---
+Usa normal
+--- BLOCK ---
+Usa perf.
+--- BLOCK ---
+Usa perd.
+--- BLOCK ---
+Usa expl.
+--- BLOCK ---
+Usa grupo
+--- BLOCK ---
+Usa cort.
+--- BLOCK ---
+Usa baba
+--- BLOCK ---
++ veneno
+--- BLOCK ---
++ paraliz.
+--- BLOCK ---
++ sueño
+--- BLOCK ---
++ energía
+--- BLOCK ---
++ alcance
+--- BLOCK ---
++ fatiga
+--- BLOCK ---
++ baba
+--- BLOCK ---
+Flautista
+--- BLOCK ---
+Artillería
+--- BLOCK ---
+Bombardero
+--- BLOCK ---
+Recuperac.
+--- BLOCK ---
+EfectoÁrea
+--- BLOCK ---
+Duración
+--- BLOCK ---
+Hambre
+--- BLOCK ---
+Glotonería
+--- BLOCK ---
+Consumir
+--- BLOCK ---
+Carnívoro
+--- BLOCK ---
+Combinac.
+--- BLOCK ---
+Combin.+
+--- BLOCK ---
+Recogida
+--- BLOCK ---
+Vel. recog
+--- BLOCK ---
+Capricho
+--- BLOCK ---
+Cazamiel
+--- BLOCK ---
+Amuleto
+--- BLOCK ---
+Suerte
+--- BLOCK ---
+Cortador
+--- BLOCK ---
+Capturas
+--- BLOCK ---
+Percepción
+--- BLOCK ---
+Psíquica
+--- BLOCK ---
+Mochilero
+--- BLOCK ---
+Soldado
+--- BLOCK ---
+Antirrobo
+--- BLOCK ---
+Trampero
+--- BLOCK ---
+Aura llama
+--- BLOCK ---
+Oxígeno
+--- BLOCK ---
+Res. corr.
+--- BLOCK ---
+Nadar
+--- BLOCK ---
+Branquias
+--- BLOCK ---
+Potencial
+--- BLOCK ---
+Superviv.
+--- BLOCK ---
+Poder
+--- BLOCK ---
+Espíritu
+--- BLOCK ---
+Ileso
+--- BLOCK ---
+Despertar
+--- BLOCK ---
+Res. plaga
+--- BLOCK ---
+Bienestar
+--- BLOCK ---
+Invencible
+--- BLOCK ---
+Tripas
+--- BLOCK ---
+Punzante
+--- BLOCK ---
+Pulso fir.
+--- BLOCK ---
+Furia
+--- BLOCK ---
+En equipo
+--- BLOCK ---
+Liderazgo
+--- BLOCK ---
+Mapa
+--- BLOCK ---
+Pesca
+--- BLOCK ---
+Barbacoa
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Automejora
+--- BLOCK ---
+Potencia el Ataque (P)
+--- BLOCK ---
+Potencia el Ataque (G)
+--- BLOCK ---
+Potencia la Defensa (P)
+--- BLOCK ---
+Potencia la Defensa (G)
+--- BLOCK ---
+Potencia la Salud (P)
+--- BLOCK ---
+Potencia la Salud (M)
+--- BLOCK ---
+Potencia la Salud (G)
+--- BLOCK ---
+Reduce presión de viento
+--- BLOCK ---
+Anula presión del viento
+--- BLOCK ---
+Anula toda pres. viento
+--- BLOCK ---
+Anula uso de Resist. (P)
+--- BLOCK ---
+Anula uso de Resist. (G)
+--- BLOCK ---
+Psíquica
+--- BLOCK ---
+Recuperación Salud (P)
+--- BLOCK ---
+Recuperación Salud (M)
+--- BLOCK ---
+Recuperación Salud (G)
+--- BLOCK ---
+Rec. Salud (M)+Desodor.
+--- BLOCK ---
+Rec. Salud (P)+Antídoto
+--- BLOCK ---
+Rec. Salud (M)+Antídoto
+--- BLOCK ---
+Mejora vel. recuper. (P)
+--- BLOCK ---
+Mejora vel. recuper. (G)
+--- BLOCK ---
+Protección para bucear
+--- BLOCK ---
+Anula el frío
+--- BLOCK ---
+Anula el calor
+--- BLOCK ---
+Protección oídos (P)
+--- BLOCK ---
+Protección oídos (G)
+--- BLOCK ---
+Anula aturdimiento
+--- BLOCK ---
+Anula parálisis
+--- BLOCK ---
+Resistencia temblores
+--- BLOCK ---
+Mejora ataques element.
+--- BLOCK ---
+Mejora Resist. fuego (P)
+--- BLOCK ---
+Mejora Resist. fuego (G)
+--- BLOCK ---
+Mejora Resist. agua (P)
+--- BLOCK ---
+Mejora Resist. agua (G)
+--- BLOCK ---
+Mejora Resis. trueno (P)
+--- BLOCK ---
+Mejora Resis. trueno (G)
+--- BLOCK ---
+Mejora Resist. hielo (P)
+--- BLOCK ---
+Mejora Resist. hielo (G)
+--- BLOCK ---
+Mejora Resis. dragón (P)
+--- BLOCK ---
+Mejora Resis. dragón (G)
+--- BLOCK ---
+Ondas sónicas
+--- BLOCK ---
+Aumenta duración melodía
+--- BLOCK ---
+Protección anti-bloqueos
+--- BLOCK ---
+Mejora Ataque y Def. (P)
+--- BLOCK ---
+Pot.Afin.+Rec.Salud (P)
+--- BLOCK ---
+Mejora at. est. anormal
+--- BLOCK ---
+Anula estados anormales
+--- BLOCK ---
+Mejora resistencia plaga
+--- BLOCK ---
+Anula las plagas
+--- BLOCK ---
+Prot.oído (P)+Res.viento
+--- BLOCK ---
+Anula nieve y barro
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Amplio
+--- BLOCK ---
+Foco
+--- BLOCK ---
+Ráfaga
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Sin info
+--- BLOCK ---

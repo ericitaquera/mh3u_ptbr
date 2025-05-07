@@ -1,0 +1,1430 @@
+﻿MAIN
+--- BLOCK [001] ---
+SUB
+--- BLOCK [002] ---
+(Nada)
+--- BLOCK [003] ---
+Bisoño
+--- BLOCK [004] ---
+Inexperto
+--- BLOCK [005] ---
+Principiante
+--- BLOCK [006] ---
+Pipiolo
+--- BLOCK [007] ---
+Novato
+--- BLOCK [008] ---
+Cazador
+--- BLOCK [009] ---
+Pescador
+--- BLOCK [010] ---
+Luchador
+--- BLOCK [011] ---
+Sniper
+--- BLOCK [012] ---
+Arma
+--- BLOCK [013] ---
+Es. y Escudo
+--- BLOCK [014] ---
+Espada
+--- BLOCK [015] ---
+Gran Espada
+--- BLOCK [016] ---
+Lanza
+--- BLOCK [017] ---
+Venablo
+--- BLOCK [018] ---
+Martillo
+--- BLOCK [019] ---
+Porra
+--- BLOCK [020] ---
+Cuchillo
+--- BLOCK [021] ---
+Espada Doble
+--- BLOCK [022] ---
+Ball. Ligera
+--- BLOCK [023] ---
+Ballesta
+--- BLOCK [024] ---
+Ball. Pesada
+--- BLOCK [025] ---
+Lanzador
+--- BLOCK [026] ---
+Katana
+--- BLOCK [027] ---
+Espada Larga
+--- BLOCK [028] ---
+Flecha
+--- BLOCK [029] ---
+Arco
+--- BLOCK [030] ---
+Lanza Pist.
+--- BLOCK [031] ---
+Artillería
+--- BLOCK [032] ---
+Música
+--- BLOCK [033] ---
+Flauta
+--- BLOCK [034] ---
+Hacha
+--- BLOCK [035] ---
+Hacha Espada
+--- BLOCK [036] ---
+Buscador
+--- BLOCK [037] ---
+Reclutador
+--- BLOCK [038] ---
+Asistente
+--- BLOCK [039] ---
+Valeroso
+--- BLOCK [040] ---
+Señor
+--- BLOCK [041] ---
+Señora
+--- BLOCK [042] ---
+Pastor
+--- BLOCK [043] ---
+Soldado
+--- BLOCK [044] ---
+Hombre
+--- BLOCK [045] ---
+Mujer
+--- BLOCK [046] ---
+Hijo
+--- BLOCK [047] ---
+Hija
+--- BLOCK [048] ---
+Solitario
+--- BLOCK [049] ---
+Adorable
+--- BLOCK [050] ---
+Poogie
+--- BLOCK [051] ---
+Extraño
+--- BLOCK [052] ---
+Nervioso
+--- BLOCK [053] ---
+Emocionado
+--- BLOCK [054] ---
+Solo
+--- BLOCK [055] ---
+Doble
+--- BLOCK [056] ---
+Triple
+--- BLOCK [057] ---
+Fiesta
+--- BLOCK [058] ---
+Poción
+--- BLOCK [059] ---
+Miel
+--- BLOCK [060] ---
+Rojo
+--- BLOCK [061] ---
+Azul
+--- BLOCK [062] ---
+Verde
+--- BLOCK [063] ---
+Tanzia
+--- BLOCK [064] ---
+Prometedor
+--- BLOCK [065] ---
+Haragán
+--- BLOCK [066] ---
+Inferior
+--- BLOCK [067] ---
+Ofensivo
+--- BLOCK [068] ---
+Defensivo
+--- BLOCK [069] ---
+Tri
+--- BLOCK [070] ---
+Ganga
+--- BLOCK [071] ---
+Guerrero
+--- BLOCK [072] ---
+Arquero
+--- BLOCK [073] ---
+Atacante
+--- BLOCK [074] ---
+Cazabichos
+--- BLOCK [075] ---
+Granjero
+--- BLOCK [076] ---
+Buceador
+--- BLOCK [077] ---
+Estudioso
+--- BLOCK [078] ---
+Moderno
+--- BLOCK [079] ---
+Gruñón
+--- BLOCK [080] ---
+Dama
+--- BLOCK [081] ---
+Maternal
+--- BLOCK [082] ---
+Panadero
+--- BLOCK [083] ---
+Profesor
+--- BLOCK [084] ---
+Gran Tirador
+--- BLOCK [085] ---
+Bestia
+--- BLOCK [086] ---
+Libre
+--- BLOCK [087] ---
+Cobarde
+--- BLOCK [088] ---
+Mascota
+--- BLOCK [089] ---
+Bicho
+--- BLOCK [090] ---
+Ganador
+--- BLOCK [091] ---
+Perdedor
+--- BLOCK [092] ---
+Adicto
+--- BLOCK [093] ---
+Pelele
+--- BLOCK [094] ---
+Nómada
+--- BLOCK [095] ---
+Habilidoso
+--- BLOCK [096] ---
+Quemado
+--- BLOCK [097] ---
+Callado
+--- BLOCK [098] ---
+Presumido
+--- BLOCK [099] ---
+Shakalaka
+--- BLOCK [100] ---
+Cha-Cha
+--- BLOCK [101] ---
+Kayamba
+--- BLOCK [102] ---
+Secuaz
+--- BLOCK [103] ---
+Lacayo
+--- BLOCK [104] ---
+Amigo
+--- BLOCK [105] ---
+Líder
+--- BLOCK [106] ---
+Cha-Chi
+--- BLOCK [107] ---
+Élite
+--- BLOCK [108] ---
+Fanfarrón
+--- BLOCK [109] ---
+Tesoro
+--- BLOCK [110] ---
+Caminante
+--- BLOCK [111] ---
+Alquimista
+--- BLOCK [112] ---
+Ladrón
+--- BLOCK [113] ---
+Rehén
+--- BLOCK [114] ---
+Minero
+--- BLOCK [115] ---
+Porteador
+--- BLOCK [116] ---
+Guardián
+--- BLOCK [117] ---
+Gladiador
+--- BLOCK [118] ---
+Fénix
+--- BLOCK [119] ---
+Rodeo
+--- BLOCK [120] ---
+Amado
+--- BLOCK [121] ---
+Cliente
+--- BLOCK [122] ---
+Paseante
+--- BLOCK [123] ---
+Fenómeno
+--- BLOCK [124] ---
+Prodigio
+--- BLOCK [125] ---
+Apasionado
+--- BLOCK [126] ---
+Vanguardia
+--- BLOCK [127] ---
+Amnésico
+--- BLOCK [128] ---
+Guerra
+--- BLOCK [129] ---
+Escribano
+--- BLOCK [130] ---
+Seta
+--- BLOCK [131] ---
+Pez Dorado
+--- BLOCK [132] ---
+Confiado
+--- BLOCK [133] ---
+Desviado
+--- BLOCK [134] ---
+Mordaz
+--- BLOCK [135] ---
+Colega
+--- BLOCK [136] ---
+Deslumbrado
+--- BLOCK [137] ---
+Encaprichado
+--- BLOCK [138] ---
+Amor
+--- BLOCK [139] ---
+Errante
+--- BLOCK [140] ---
+Poco Hecho
+--- BLOCK [141] ---
+Al Punto
+--- BLOCK [142] ---
+De Segunda
+--- BLOCK [143] ---
+Trabajador
+--- BLOCK [144] ---
+Ruiseñor
+--- BLOCK [145] ---
+Entomólogo
+--- BLOCK [146] ---
+Flautista
+--- BLOCK [147] ---
+Pistolero
+--- BLOCK [148] ---
+Pesquero
+--- BLOCK [149] ---
+Berserker
+--- BLOCK [150] ---
+Mercenario
+--- BLOCK [151] ---
+Prototipo
+--- BLOCK [152] ---
+Veterano
+--- BLOCK [153] ---
+Explorador
+--- BLOCK [154] ---
+Asaltante
+--- BLOCK [155] ---
+Espeleólogo
+--- BLOCK [156] ---
+Novia
+--- BLOCK [157] ---
+Cabeza
+--- BLOCK [158] ---
+Cara
+--- BLOCK [159] ---
+Pecho
+--- BLOCK [160] ---
+Torso
+--- BLOCK [161] ---
+Brazos
+--- BLOCK [162] ---
+Manos
+--- BLOCK [163] ---
+Cintura
+--- BLOCK [164] ---
+Caderas
+--- BLOCK [165] ---
+Piernas
+--- BLOCK [166] ---
+Pies
+--- BLOCK [167] ---
+Armadura
+--- BLOCK [168] ---
+Asesino
+--- BLOCK [169] ---
+Espléndido
+--- BLOCK [170] ---
+Quebrador
+--- BLOCK [171] ---
+Montaraz
+--- BLOCK [172] ---
+Sable
+--- BLOCK [173] ---
+Homicida
+--- BLOCK [174] ---
+Valiente
+--- BLOCK [175] ---
+Pionero
+--- BLOCK [176] ---
+Reconocido
+--- BLOCK [177] ---
+Comando
+--- BLOCK [178] ---
+Separador
+--- BLOCK [179] ---
+Destello
+--- BLOCK [180] ---
+Melodía
+--- BLOCK [181] ---
+Cañón
+--- BLOCK [182] ---
+Mutación
+--- BLOCK [183] ---
+Giratorio
+--- BLOCK [184] ---
+Frenético
+--- BLOCK [185] ---
+Fiable
+--- BLOCK [186] ---
+Aventurero
+--- BLOCK [187] ---
+Meteoro
+--- BLOCK [188] ---
+Diestro
+--- BLOCK [189] ---
+Gobernante
+--- BLOCK [190] ---
+Ninja
+--- BLOCK [191] ---
+Libertad
+--- BLOCK [192] ---
+Sueño
+--- BLOCK [193] ---
+Altair
+--- BLOCK [194] ---
+Kunoichi
+--- BLOCK [195] ---
+Vega
+--- BLOCK [196] ---
+Vagabundo
+--- BLOCK [197] ---
+Hierro
+--- BLOCK [198] ---
+Rompedor
+--- BLOCK [199] ---
+Samurái
+--- BLOCK [200] ---
+Modelo
+--- BLOCK [201] ---
+Viajero
+--- BLOCK [202] ---
+Corte
+--- BLOCK [203] ---
+Ala
+--- BLOCK [204] ---
+Roto
+--- BLOCK [205] ---
+Todo
+--- BLOCK [206] ---
+Armado
+--- BLOCK [207] ---
+Anónimo
+--- BLOCK [208] ---
+Cola
+--- BLOCK [209] ---
+Cortador
+--- BLOCK [210] ---
+Agitador
+--- BLOCK [211] ---
+Enfundado
+--- BLOCK [212] ---
+Tirador
+--- BLOCK [213] ---
+Recolector
+--- BLOCK [214] ---
+Coordinado
+--- BLOCK [215] ---
+Real
+--- BLOCK [216] ---
+Maníaco
+--- BLOCK [217] ---
+Millonario
+--- BLOCK [218] ---
+Ídolo
+--- BLOCK [219] ---
+Dedicado
+--- BLOCK [220] ---
+Detallado
+--- BLOCK [221] ---
+Clemente
+--- BLOCK [222] ---
+Implacable
+--- BLOCK [223] ---
+Fogoso
+--- BLOCK [224] ---
+Completo
+--- BLOCK [225] ---
+Sabio
+--- BLOCK [226] ---
+Perfecto
+--- BLOCK [227] ---
+Soberano
+--- BLOCK [228] ---
+Artillero
+--- BLOCK [229] ---
+Espadachín
+--- BLOCK [230] ---
+Sanguinario
+--- BLOCK [231] ---
+Arriesgado
+--- BLOCK [232] ---
+Peso pesado
+--- BLOCK [233] ---
+Mecánico
+--- BLOCK [234] ---
+Verdugo
+--- BLOCK [235] ---
+Acaparador
+--- BLOCK [236] ---
+Leyenda
+--- BLOCK [237] ---
+Campeón
+--- BLOCK [238] ---
+Héroe
+--- BLOCK [239] ---
+Salvador
+--- BLOCK [240] ---
+Compuesto
+--- BLOCK [241] ---
+Voraz
+--- BLOCK [242] ---
+De primera
+--- BLOCK [243] ---
+Fortísimo
+--- BLOCK [244] ---
+Inigualable
+--- BLOCK [245] ---
+<COLO 2>Monstruo</COLO>
+--- BLOCK [246] ---
+Secreto
+--- BLOCK [247] ---
+Oculto
+--- BLOCK [248] ---
+Isla Desier.
+--- BLOCK [249] ---
+Llanos Aren.
+--- BLOCK [250] ---
+Bosque Inun.
+--- BLOCK [251] ---
+Tundra
+--- BLOCK [252] ---
+Volcán
+--- BLOCK [253] ---
+Cumbres Bor.
+--- BLOCK [254] ---
+Guía
+--- BLOCK [255] ---
+Investigador
+--- BLOCK [256] ---
+Protector
+--- BLOCK [257] ---
+Arcadia
+--- BLOCK [258] ---
+Mar
+--- BLOCK [259] ---
+Compañero
+--- BLOCK [260] ---
+Defensor
+--- BLOCK [261] ---
+Reconocedor
+--- BLOCK [262] ---
+Observador
+--- BLOCK [263] ---
+Maestro
+--- BLOCK [264] ---
+Portador
+--- BLOCK [265] ---
+Comandante
+--- BLOCK [266] ---
+Rescatador
+--- BLOCK [267] ---
+Gremio
+--- BLOCK [268] ---
+Caballeroso
+--- BLOCK [269] ---
+As
+--- BLOCK [270] ---
+Profesional
+--- BLOCK [271] ---
+General
+--- BLOCK [272] ---
+Imperial
+--- BLOCK [273] ---
+Desesperado
+--- BLOCK [274] ---
+Supremo
+--- BLOCK [275] ---
+Importante
+--- BLOCK [276] ---
+Gurú
+--- BLOCK [277] ---
+Curtido
+--- BLOCK [278] ---
+Forzudo
+--- BLOCK [279] ---
+Instructor
+--- BLOCK [280] ---
+Jaggi
+--- BLOCK [281] ---
+Superfluo
+--- BLOCK [282] ---
+Alfa
+--- BLOCK [283] ---
+Jefe
+--- BLOCK [284] ---
+Baggi
+--- BLOCK [285] ---
+Inteligente
+--- BLOCK [286] ---
+Crestado
+--- BLOCK [287] ---
+Soñoliento
+--- BLOCK [288] ---
+Wroggi
+--- BLOCK [289] ---
+Astuto
+--- BLOCK [290] ---
+Vaquero
+--- BLOCK [291] ---
+Neblinoso
+--- BLOCK [292] ---
+Arzuros
+--- BLOCK [293] ---
+Montaña
+--- BLOCK [294] ---
+Oso
+--- BLOCK [295] ---
+Carne
+--- BLOCK [296] ---
+Lagombi
+--- BLOCK [297] ---
+Hielo
+--- BLOCK [298] ---
+Planeador
+--- BLOCK [299] ---
+Conejo
+--- BLOCK [300] ---
+Volvidon
+--- BLOCK [301] ---
+Armadillo
+--- BLOCK [302] ---
+Ronda
+--- BLOCK [303] ---
+Lengua
+--- BLOCK [304] ---
+Qurupeco
+--- BLOCK [305] ---
+Colorido
+--- BLOCK [306] ---
+Imitador
+--- BLOCK [307] ---
+Exuberante
+--- BLOCK [308] ---
+Bailarín
+--- BLOCK [309] ---
+Carmesí
+--- BLOCK [310] ---
+Intenso
+--- BLOCK [311] ---
+Sacudidor
+--- BLOCK [312] ---
+Ludroth Real
+--- BLOCK [313] ---
+Lluvia
+--- BLOCK [314] ---
+Esponjoso
+--- BLOCK [315] ---
+Melena
+--- BLOCK [316] ---
+Púrpura
+--- BLOCK [317] ---
+Toxina
+--- BLOCK [318] ---
+Aura
+--- BLOCK [319] ---
+Humedad
+--- BLOCK [320] ---
+Barroth
+--- BLOCK [321] ---
+Corona
+--- BLOCK [322] ---
+Embarrado
+--- BLOCK [323] ---
+Fuerte
+--- BLOCK [324] ---
+Esmeralda
+--- BLOCK [325] ---
+Iceberg
+--- BLOCK [326] ---
+Helada
+--- BLOCK [327] ---
+Destrozado
+--- BLOCK [328] ---
+Gobul
+--- BLOCK [329] ---
+Bigote
+--- BLOCK [330] ---
+Encubierto
+--- BLOCK [331] ---
+Acechador
+--- BLOCK [332] ---
+Rathian
+--- BLOCK [333] ---
+Tierra
+--- BLOCK [334] ---
+Elegante
+--- BLOCK [335] ---
+Wyvernidad
+--- BLOCK [336] ---
+Rosa
+--- BLOCK [337] ---
+Venenoso
+--- BLOCK [338] ---
+Volador
+--- BLOCK [339] ---
+Reina
+--- BLOCK [340] ---
+Hembra
+--- BLOCK [341] ---
+Dorado
+--- BLOCK [342] ---
+Lúnula
+--- BLOCK [343] ---
+Corazón
+--- BLOCK [344] ---
+Plesioth
+--- BLOCK [345] ---
+Torrente
+--- BLOCK [346] ---
+De aletas
+--- BLOCK [347] ---
+Pez
+--- BLOCK [348] ---
+Verdoso
+--- BLOCK [349] ---
+Carga
+--- BLOCK [350] ---
+Acuático
+--- BLOCK [351] ---
+Piscine
+--- BLOCK [352] ---
+Gigginox
+--- BLOCK [353] ---
+Asombroso
+--- BLOCK [354] ---
+Vampiro
+--- BLOCK [355] ---
+Muerte
+--- BLOCK [356] ---
+Aterrador
+--- BLOCK [357] ---
+Espeluznante
+--- BLOCK [358] ---
+Maldito
+--- BLOCK [359] ---
+Eléctrico
+--- BLOCK [360] ---
+Barioth
+--- BLOCK [361] ---
+Ventisca
+--- BLOCK [362] ---
+Rápido
+--- BLOCK [363] ---
+Congelante
+--- BLOCK [364] ---
+Colmillo
+--- BLOCK [365] ---
+Arena
+--- BLOCK [366] ---
+Tornado
+--- BLOCK [367] ---
+Centinela
+--- BLOCK [368] ---
+Nibelsnarf
+--- BLOCK [369] ---
+Glotón
+--- BLOCK [370] ---
+Mandíbula
+--- BLOCK [371] ---
+Excavador
+--- BLOCK [372] ---
+Duramboros
+--- BLOCK [373] ---
+Azote
+--- BLOCK [374] ---
+Gigante
+--- BLOCK [375] ---
+Musgoso
+--- BLOCK [376] ---
+Tremendo
+--- BLOCK [377] ---
+Herrumbre
+--- BLOCK [378] ---
+Robusto
+--- BLOCK [379] ---
+Leñador
+--- BLOCK [380] ---
+Diablos
+--- BLOCK [381] ---
+Caótico
+--- BLOCK [382] ---
+Desierto
+--- BLOCK [383] ---
+Astado
+--- BLOCK [384] ---
+Territorial
+--- BLOCK [385] ---
+Tirano
+--- BLOCK [386] ---
+Retorcido
+--- BLOCK [387] ---
+Catástrofe
+--- BLOCK [388] ---
+Rathalos
+--- BLOCK [389] ---
+Cielos
+--- BLOCK [390] ---
+Bola de fuego
+--- BLOCK [391] ---
+Rey
+--- BLOCK [392] ---
+Celeste
+--- BLOCK [393] ---
+Aéreo
+--- BLOCK [394] ---
+Alma
+--- BLOCK [395] ---
+Llama
+--- BLOCK [396] ---
+Macho
+--- BLOCK [397] ---
+Plata
+--- BLOCK [398] ---
+Sol
+--- BLOCK [399] ---
+Heráldico
+--- BLOCK [400] ---
+Uragaan
+--- BLOCK [401] ---
+Lava
+--- BLOCK [402] ---
+Rodador
+--- BLOCK [403] ---
+Mineral
+--- BLOCK [404] ---
+Acero
+--- BLOCK [405] ---
+Cavador
+--- BLOCK [406] ---
+Bombardero
+--- BLOCK [407] ---
+Combustión
+--- BLOCK [408] ---
+Agnaktor
+--- BLOCK [409] ---
+Chispa
+--- BLOCK [410] ---
+Abrasado
+--- BLOCK [411] ---
+Magma
+--- BLOCK [412] ---
+Gélido
+--- BLOCK [413] ---
+Nieve
+--- BLOCK [414] ---
+Congelado
+--- BLOCK [415] ---
+Glacial
+--- BLOCK [416] ---
+Nargacuga
+--- BLOCK [417] ---
+Nocturno
+--- BLOCK [418] ---
+Medianoche
+--- BLOCK [419] ---
+Predador
+--- BLOCK [420] ---
+Camuflaje
+--- BLOCK [421] ---
+Bosque
+--- BLOCK [422] ---
+Espinoso
+--- BLOCK [423] ---
+Sombra
+--- BLOCK [424] ---
+Invisible
+--- BLOCK [425] ---
+Eclipse
+--- BLOCK [426] ---
+Golpe mortal
+--- BLOCK [427] ---
+Lunar
+--- BLOCK [428] ---
+Brachydios
+--- BLOCK [429] ---
+Baba
+--- BLOCK [430] ---
+Obsidiana
+--- BLOCK [431] ---
+Explosivo
+--- BLOCK [432] ---
+Lagiacrus
+--- BLOCK [433] ---
+Remolino
+--- BLOCK [434] ---
+Rival
+--- BLOCK [435] ---
+Lord
+--- BLOCK [436] ---
+Voltaje
+--- BLOCK [437] ---
+Condenado
+--- BLOCK [438] ---
+Marfil
+--- BLOCK [439] ---
+Electrochoque
+--- BLOCK [440] ---
+Tinieblas
+--- BLOCK [441] ---
+Abismal
+--- BLOCK [442] ---
+Destructor
+--- BLOCK [443] ---
+Omega
+--- BLOCK [444] ---
+Zinogre
+--- BLOCK [445] ---
+Incomparable
+--- BLOCK [446] ---
+Lobo
+--- BLOCK [447] ---
+Monarca
+--- BLOCK [448] ---
+Inframundo
+--- BLOCK [449] ---
+Estigio
+--- BLOCK [450] ---
+Rebelde
+--- BLOCK [451] ---
+Emperador
+--- BLOCK [452] ---
+Deviljho
+--- BLOCK [453] ---
+Demoníaco
+--- BLOCK [454] ---
+Salvaje
+--- BLOCK [455] ---
+Devorador
+--- BLOCK [456] ---
+Ceadeus
+--- BLOCK [457] ---
+Terremoto
+--- BLOCK [458] ---
+Abismos
+--- BLOCK [459] ---
+Brillante
+--- BLOCK [460] ---
+Legendario
+--- BLOCK [461] ---
+Sagrado
+--- BLOCK [462] ---
+Divino
+--- BLOCK [463] ---
+Barba dorada
+--- BLOCK [464] ---
+Ruinas
+--- BLOCK [465] ---
+Majestuoso
+--- BLOCK [466] ---
+Jhen Mohran
+--- BLOCK [467] ---
+Disputa
+--- BLOCK [468] ---
+Juggernaut
+--- BLOCK [469] ---
+Prosperidad
+--- BLOCK [470] ---
+Santificado
+--- BLOCK [471] ---
+Místico
+--- BLOCK [472] ---
+Roca
+--- BLOCK [473] ---
+Cristal
+--- BLOCK [474] ---
+Alatreon
+--- BLOCK [475] ---
+Malvado
+--- BLOCK [476] ---
+Oscuridad
+--- BLOCK [477] ---
+Final
+--- BLOCK [478] ---
+Funesto
+--- BLOCK [479] ---
+Averno
+--- BLOCK [480] ---
+Creación
+--- BLOCK [481] ---
+Aniquilación
+--- BLOCK [482] ---
+Precursor
+--- BLOCK [483] ---
+StreetPass
+--- BLOCK [484] ---
+Kokoto
+--- BLOCK [485] ---
+Jumbo
+--- BLOCK [486] ---
+Minegarde
+--- BLOCK [487] ---
+Dondruma
+--- BLOCK [488] ---
+Yukumo
+--- BLOCK [489] ---
+Pokke
+--- BLOCK [490] ---
+Moga
+--- BLOCK [491] ---
+Loc Lac
+--- BLOCK [492] ---
+Schrade
+--- BLOCK [493] ---
+Erudito
+--- BLOCK [494] ---
+Graduado
+--- BLOCK [495] ---
+Anciano
+--- BLOCK [496] ---
+Fan
+--- BLOCK [497] ---
+Unidad
+--- BLOCK [498] ---
+Apretado
+--- BLOCK [499] ---
+MonHan
+--- BLOCK [500] ---
+VIP
+--- BLOCK [501] ---
+Felyne
+--- BLOCK [502] ---
+Fuego
+--- BLOCK [503] ---
+Draco
+--- BLOCK [504] ---
+Escarlata
+--- BLOCK [505] ---
+Valeroso
+--- BLOCK [506] ---
+Bullfango
+--- BLOCK [507] ---
+Bruto
+--- BLOCK [508] ---
+Absoluto
+--- BLOCK [509] ---
+Feroz
+--- BLOCK [510] ---
+Músculo
+--- BLOCK [511] ---
+Conquistador
+--- BLOCK [512] ---
+Boleador
+--- BLOCK [513] ---
+Eterno
+--- BLOCK [514] ---
+Bebida
+--- BLOCK [515] ---
+Huevo
+--- BLOCK [516] ---
+Tarta
+--- BLOCK [517] ---
+Amigable
+--- BLOCK [518] ---
+Cuidador
+--- BLOCK [519] ---
+Miau
+--- BLOCK [520] ---
+Cofrade
+--- BLOCK [521] ---
+Extraviado
+--- BLOCK [522] ---
+DUMMY
+--- BLOCK [523] ---
+DUMMY
+--- BLOCK [524] ---
+DUMMY
+--- BLOCK [525] ---
+DUMMY
+--- BLOCK [526] ---
+DUMMY
+--- BLOCK [527] ---
+DUMMY
+--- BLOCK [528] ---
+DUMMY
+--- BLOCK [529] ---
+DUMMY
+--- BLOCK [530] ---
+DUMMY
+--- BLOCK [531] ---
+DUMMY
+--- BLOCK [532] ---
+DUMMY
+--- BLOCK [533] ---
+DUMMY
+--- BLOCK [534] ---
+DUMMY
+--- BLOCK [535] ---
+DUMMY
+--- BLOCK [536] ---
+DUMMY
+--- BLOCK [537] ---
+DUMMY
+--- BLOCK [538] ---
+DUMMY
+--- BLOCK [539] ---
+DUMMY
+--- BLOCK [540] ---
+DUMMY
+--- BLOCK [541] ---
+DUMMY
+--- BLOCK [542] ---
+DUMMY
+--- BLOCK [543] ---
+DUMMY
+--- BLOCK [544] ---
+DUMMY
+--- BLOCK [545] ---
+DUMMY
+--- BLOCK [546] ---
+DUMMY
+--- BLOCK [547] ---
+DUMMY
+--- BLOCK [548] ---
+DUMMY
+--- BLOCK [549] ---
+DUMMY
+--- BLOCK [550] ---
+DUMMY
+--- BLOCK [551] ---
+DUMMY
+--- BLOCK [552] ---
+DUMMY
+--- BLOCK [553] ---
+DUMMY
+--- BLOCK [554] ---
+DUMMY
+--- BLOCK [555] ---
+DUMMY
+--- BLOCK [556] ---
+DUMMY
+--- BLOCK [557] ---
+DUMMY
+--- BLOCK [558] ---
+DUMMY
+--- BLOCK [559] ---
+DUMMY
+--- BLOCK [560] ---
+DUMMY
+--- BLOCK [561] ---
+DUMMY
+--- BLOCK [562] ---
+DUMMY
+--- BLOCK [563] ---
+DUMMY
+--- BLOCK [564] ---
+DUMMY
+--- BLOCK [565] ---
+DUMMY
+--- BLOCK [566] ---
+DUMMY
+--- BLOCK [567] ---
+DUMMY
+--- BLOCK [568] ---
+DUMMY
+--- BLOCK [569] ---
+Soldado
+--- BLOCK [570] ---
+Pirata
+--- BLOCK [571] ---
+Bandido
+--- BLOCK [572] ---
+Asustador
+--- BLOCK [573] ---
+Herrero
+--- BLOCK [574] ---
+Perfecto
+--- BLOCK [575] ---
+Garras
+--- BLOCK [576] ---
+Ególatra
+--- BLOCK [577] ---
+Fuerte
+--- BLOCK [578] ---
+Suave
+--- BLOCK [579] ---
+Desconocido
+--- BLOCK [580] ---
+Ilimitado
+--- BLOCK [581] ---
+Sargento
+--- BLOCK [582] ---
+Cabo
+--- BLOCK [583] ---
+Privado
+--- BLOCK [584] ---
+Estratega
+--- BLOCK [585] ---
+Luchador
+--- BLOCK [586] ---
+Scherzando
+--- BLOCK [587] ---
+Molesto
+--- BLOCK [588] ---
+Luz estelar
+--- BLOCK [589] ---
+Barón
+--- BLOCK [590] ---
+Marginado
+--- BLOCK [591] ---
+Raro
+--- BLOCK [592] ---
+Dueño
+--- BLOCK [593] ---
+Perplejo
+--- BLOCK [594] ---
+Tonto
+--- BLOCK [595] ---
+Impresionante
+--- BLOCK [596] ---
+Genial
+--- BLOCK [597] ---
+Abrumado
+--- BLOCK [598] ---
+Pesadilla
+--- BLOCK [599] ---
+Pueblo
+--- BLOCK [600] ---
+Avanzado
+--- BLOCK [601] ---
+Coloso
+--- BLOCK [602] ---
+Entrenador
+--- BLOCK [603] ---
+Asedio
+--- BLOCK [604] ---
+Inspector
+--- BLOCK [605] ---
+Oficial
+--- BLOCK [606] ---
+Líder
+--- BLOCK [607] ---
+Atacante
+--- BLOCK [608] ---
+Combatiente
+--- BLOCK [609] ---
+Trampero
+--- BLOCK [610] ---
+Productor
+--- BLOCK [611] ---
+Humanitario
+--- BLOCK [612] ---
+Director
+--- BLOCK [613] ---
+Capcom
+--- BLOCK [614] ---
+(Nada)
+--- BLOCK [615] ---
+De
+--- BLOCK [616] ---
+Y
+--- BLOCK [617] ---
+Para
+--- BLOCK [618] ---
+Por
+--- BLOCK [619] ---
+O
+--- BLOCK [620] ---
+A
+--- BLOCK [621] ---
+De
+--- BLOCK [622] ---
+En
+--- BLOCK [623] ---
+Sale
+--- BLOCK [624] ---
+Va
+--- BLOCK [625] ---
+En
+--- BLOCK [626] ---
+Pero
+--- BLOCK [627] ---
+No
+--- BLOCK [628] ---
+Aún
+--- BLOCK [629] ---
+Mi
+--- BLOCK [630] ---
+Tu
+--- BLOCK [631] ---
+Casi
+--- BLOCK [632] ---
+Sube
+--- BLOCK [633] ---
+Hace
+--- BLOCK [634] ---
+Tras
+--- BLOCK [635] ---
+Buen
+--- BLOCK [636] ---
+Este
+--- BLOCK [637] ---
+Con
+--- BLOCK [638] ---
+Tope
+--- BLOCK [639] ---
+Bajo
+--- BLOCK [640] ---
+Vía
+--- BLOCK [641] ---
+A
+--- BLOCK [642] ---
+Más
+--- BLOCK [643] ---
+Para
+--- BLOCK [644] ---
+Como
+--- BLOCK [645] ---
+El
+--- BLOCK [646] ---
+Sabe
+--- BLOCK [647] ---
+Con
+--- BLOCK [648] ---
+Es
+--- BLOCK [649] ---
+Son
+--- BLOCK [650] ---
+Así
+--- BLOCK [651] ---
+Mega
+--- BLOCK [652] ---
+Maxi
+--- BLOCK [653] ---
+Fue
+--- BLOCK [654] ---
+Será
+--- BLOCK [655] ---
+Guía
+--- BLOCK [656] ---
+Saca
+--- BLOCK [657] ---
+Sé
+--- BLOCK [658] ---
+Solo
+--- BLOCK [659] ---
+Más
+--- BLOCK [660] ---
+Mini
+--- BLOCK [661] ---
+Khan
+--- BLOCK [662] ---
+Czar
+--- BLOCK [663] ---
+Miss
+--- BLOCK [664] ---
+Duke
+--- BLOCK [665] ---
+Earl
+--- BLOCK [666] ---
+Von
+--- BLOCK [667] ---
+Van
+--- BLOCK [668] ---
+Ser
+--- BLOCK [669] ---
+Sire
+--- BLOCK [670] ---
+&
+--- BLOCK [671] ---
++
+--- BLOCK [672] ---
+-
+--- BLOCK [673] ---
+×
+--- BLOCK [674] ---
+?
+--- BLOCK [675] ---
+!
+--- BLOCK [676] ---
+=
+--- BLOCK [677] ---
+～
+--- BLOCK [678] ---
+・
+--- BLOCK [679] ---
+/
+--- BLOCK [680] ---
+:
+--- BLOCK [681] ---
+,
+--- BLOCK [682] ---
+$
+--- BLOCK [683] ---
+\
+--- BLOCK [684] ---
+€
+--- BLOCK [685] ---
+α
+--- BLOCK [686] ---
+β
+--- BLOCK [687] ---
+γ
+--- BLOCK [688] ---
+★
+--- BLOCK [689] ---
+A
+--- BLOCK [690] ---
+B
+--- BLOCK [691] ---
+C
+--- BLOCK [692] ---
+D
+--- BLOCK [693] ---
+E
+--- BLOCK [694] ---
+F
+--- BLOCK [695] ---
+G
+--- BLOCK [696] ---
+H
+--- BLOCK [697] ---
+I
+--- BLOCK [698] ---
+J
+--- BLOCK [699] ---
+K
+--- BLOCK [700] ---
+L
+--- BLOCK [701] ---
+M
+--- BLOCK [702] ---
+N
+--- BLOCK [703] ---
+O
+--- BLOCK [704] ---
+P
+--- BLOCK [705] ---
+Q
+--- BLOCK [706] ---
+R
+--- BLOCK [707] ---
+S
+--- BLOCK [708] ---
+T
+--- BLOCK [709] ---
+U
+--- BLOCK [710] ---
+V
+--- BLOCK [711] ---
+W
+--- BLOCK [712] ---
+X
+--- BLOCK [713] ---
+Y
+--- BLOCK [714] ---
+Z
+--- BLOCK [715] ---

@@ -1,0 +1,210 @@
+TMSG_PIPE
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Gaita de metal
+--- BLOCK ---
+Gaita de metal+
+--- BLOCK ---
+Gran gaita
+--- BLOCK ---
+Gaita pesada
+--- BLOCK ---
+Gaita pesada+
+--- BLOCK ---
+Fortíssimo
+--- BLOCK ---
+Reforçado
+--- BLOCK ---
+Rosnado do Usurpador
+--- BLOCK ---
+Tapa do Ditador
+--- BLOCK ---
+Canção de Brimstren
+--- BLOCK ---
+Tristeza Estígia
+--- BLOCK ---
+Harmônico Oculto
+--- BLOCK ---
+Grito na Noite
+--- BLOCK ---
+Tom de Eclipse
+--- BLOCK ---
+Gaita de Qurupeco
+--- BLOCK ---
+Trombeta de Qurupeco
+--- BLOCK ---
+Corneta de Qurupeco
+--- BLOCK ---
+Trombeta Magnífica
+--- BLOCK ---
+Imperilúdio
+--- BLOCK ---
+Gaita Tipo 63
+--- BLOCK ---
+Snarfônix
+--- BLOCK ---
+Snarfônica Soldado
+--- BLOCK ---
+Gaita de arena
+--- BLOCK ---
+Grito de arena
+--- BLOCK ---
+Chirrido de arena
+--- BLOCK ---
+Cantor de arena
+--- BLOCK ---
+Calmador de arena
+--- BLOCK ---
+Gaita de gelo
+--- BLOCK ---
+Gaita glacial
+--- BLOCK ---
+Grunhidor de geada
+--- BLOCK ---
+General de geada
+--- BLOCK ---
+Agnakdión
+--- BLOCK ---
+Brandoneón
+--- BLOCK ---
+Scaldertina
+--- BLOCK ---
+Gaita de osso
+--- BLOCK ---
+Gaita de osso+
+--- BLOCK ---
+Gaita caçadora
+--- BLOCK ---
+Gaita caçadora+
+--- BLOCK ---
+Concha inflada
+--- BLOCK ---
+Concha de vértice
+--- BLOCK ---
+Concha turbante
+--- BLOCK ---
+Gaita Prima
+--- BLOCK ---
+Gaita Secunda
+--- BLOCK ---
+Gaita Tertia
+--- BLOCK ---
+Barigaita
+--- BLOCK ---
+Algigaita
+--- BLOCK ---
+Frigigaita
+--- BLOCK ---
+Gaita de bronze
+--- BLOCK ---
+Gaita gigante
+--- BLOCK ---
+Gaita mega gigante
+--- BLOCK ---
+Zángano Droth
+--- BLOCK ---
+Zángano Droth+
+--- BLOCK ---
+Rugido de Droth
+--- BLOCK ---
+Gaita sombria
+--- BLOCK ---
+Gaita das sombras
+--- BLOCK ---
+Gaita mais sombria
+--- BLOCK ---
+Gaita de sangue congelante
+--- BLOCK ---
+Gaita cortante
+--- BLOCK ---
+Gaita congelante
+--- BLOCK ---
+Gaita valquíria
+--- BLOCK ---
+Gaita valq.+
+--- BLOCK ---
+Gaita da rainha
+--- BLOCK ---
+Gaita de coral
+--- BLOCK ---
+Gaita coral+
+--- BLOCK ---
+Gaita de ouro
+--- BLOCK ---
+Gaita lunar
+--- BLOCK ---
+Gaita Nulo
+--- BLOCK ---
+Gaita Unu
+--- BLOCK ---
+Gaita Nulo (B)
+--- BLOCK ---
+Gaita Unu (B)
+--- BLOCK ---
+Gaita Du (B)
+--- BLOCK ---
+Gaita Nulo (A)
+--- BLOCK ---
+Gaita Unu (A)
+--- BLOCK ---
+Gaita Du (A)
+--- BLOCK ---
+Gaita Nulo (V)
+--- BLOCK ---
+Gaita Unu (V)
+--- BLOCK ---
+Gaita Du (V)
+--- BLOCK ---
+Gaita Tri (V)
+--- BLOCK ---
+Gaita Ascuavone
+--- BLOCK ---
+Gaita Brasavone
+--- BLOCK ---
+Gaita Fundevone
+--- BLOCK ---
+Amuleto mágico
+--- BLOCK ---
+Campana mágica
+--- BLOCK ---
+Aria Rhota
+--- BLOCK ---
+Gaita desgastada
+--- BLOCK ---
+Gaita antiga
+--- BLOCK ---
+Caixa de música Avenir
+--- BLOCK ---
+Caixa de música eterna
+--- BLOCK ---
+Trompa Brach
+--- BLOCK ---
+Trompa Brach+
+--- BLOCK ---
+Trompa de demolição
+--- BLOCK ---
+Destruidor tímbrico
+--- BLOCK ---
+Gaita de Lagia
+--- BLOCK ---
+Gaita de Lagia+
+--- BLOCK ---
+Lagia estrondoso
+--- BLOCK ---
+Flauta sombria
+--- BLOCK ---
+Sinfonia sombria
+--- BLOCK ---
+Modo de Megido
+--- BLOCK ---
+Apocalipse
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vigor de voltagem
+--- BLOCK ---
+Vigor de alta voltagem
+--- BLOCK ---

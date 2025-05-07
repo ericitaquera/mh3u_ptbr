@@ -1,0 +1,196 @@
+TMSG_LBG
+--- BLOCK ---
+(Nenhuma)
+--- BLOCK ---
+Balestra cruzada
+--- BLOCK ---
+Balestra cruzada+
+--- BLOCK ---
+Raio cruzado
+--- BLOCK ---
+Fuzil do caçador
+--- BLOCK ---
+Franco-atirador
+--- BLOCK ---
+Atirador de Ascensão
+--- BLOCK ---
+Canhão de lama
+--- BLOCK ---
+Canhão de lama+
+--- BLOCK ---
+Lança-magma
+--- BLOCK ---
+Bengalas aurorais
+--- BLOCK ---
+Avalanche
+--- BLOCK ---
+Glacialahti
+--- BLOCK ---
+Canhão ártico
+--- BLOCK ---
+Raio Brach
+--- BLOCK ---
+Raio Brach+
+--- BLOCK ---
+Pistola demolidora
+--- BLOCK ---
+Balista demolidora
+--- BLOCK ---
+Fogo Jaggi
+--- BLOCK ---
+Fogo Bandoleiro
+--- BLOCK ---
+Durião Bandoleiro
+--- BLOCK ---
+Fúria Despiedada
+--- BLOCK ---
+Lançador Real
+--- BLOCK ---
+Torrente Real
+--- BLOCK ---
+Inundação Real
+--- BLOCK ---
+Maelstrom
+--- BLOCK ---
+Maelstrom+
+--- BLOCK ---
+Rajada de Plesioth
+--- BLOCK ---
+Tempestade de Jade
+--- BLOCK ---
+Tormenta de Jade
+--- BLOCK ---
+Atirador de Gobul
+--- BLOCK ---
+Sapo-peixe Carmesim
+--- BLOCK ---
+Sapo-peixe Carmesim+
+--- BLOCK ---
+Sapo-peixe Zhen
+--- BLOCK ---
+Vencedor Gobul
+--- BLOCK ---
+Perfurante Venenosa
+--- BLOCK ---
+Veneno Demolidor
+--- BLOCK ---
+Grilhão Imortal
+--- BLOCK ---
+Cela Imortal
+--- BLOCK ---
+Prisão Imortal
+--- BLOCK ---
+Atador Sangrento
+--- BLOCK ---
+Buscador Carmesim
+--- BLOCK ---
+Acossador Letal
+--- BLOCK ---
+Espectro do Pesar
+--- BLOCK ---
+Canhão Ventisca
+--- BLOCK ---
+Salva de Ventisca
+--- BLOCK ---
+Tábula Blizzara
+--- BLOCK ---
+Geada de Diamante
+--- BLOCK ---
+Crista de Diamante
+--- BLOCK ---
+Fogo de valkiria
+--- BLOCK ---
+Labareda valkiria
+--- BLOCK ---
+Chama de valkiria
+--- BLOCK ---
+Coração de valkiria
+--- BLOCK ---
+Verdura
+--- BLOCK ---
+Caos floral
+--- BLOCK ---
+Olho oculto
+--- BLOCK ---
+Coruja noturna
+--- BLOCK ---
+Observador Virnar
+--- BLOCK ---
+Falcão uivante
+--- BLOCK ---
+Observador do eclipse
+--- BLOCK ---
+Trovãofúria
+--- BLOCK ---
+Trovãofúria+
+--- BLOCK ---
+Trovãofúria Rex
+--- BLOCK ---
+Trovãofúria novo
+--- BLOCK ---
+Raio Branc Eclair
+--- BLOCK ---
+Açoitamerrath
+--- BLOCK ---
+Condenamerrath
+--- BLOCK ---
+Fênixmerrath
+--- BLOCK ---
+Céu Azul Celeste
+--- BLOCK ---
+Abrasador celeste
+--- BLOCK ---
+Crime do usurpador
+--- BLOCK ---
+Chama do déspota
+--- BLOCK ---
+Fenda do opressor
+--- BLOCK ---
+Orcus Barqus
+--- BLOCK ---
+Phloxion tenebroso
+--- BLOCK ---
+Inveja estígia
+--- BLOCK ---
+Barril Dura
+--- BLOCK ---
+Barril Touro
+--- BLOCK ---
+Aldebaran Funéstrico
+--- BLOCK ---
+Chifre de Taurus
+--- BLOCK ---
+Coroa de Taurus
+--- BLOCK ---
+Sorriso do diabo
+--- BLOCK ---
+Loucura do diabo
+--- BLOCK ---
+Balestra Dementia
+--- BLOCK ---
+Balestra Dementia
+--- BLOCK ---
+Ilhéu do demônio
+--- BLOCK ---
+Ilha do demônio
+--- BLOCK ---
+Balestra
+--- BLOCK ---
+Balestra de luxo
+--- BLOCK ---
+Balestra mestra
+--- BLOCK ---
+Ilhota divina
+--- BLOCK ---
+Ilha divina
+--- BLOCK ---
+Arquipélago divino
+--- BLOCK ---
+Disparo de abóbora
+--- BLOCK ---
+Disparo de espinho
+--- BLOCK ---
+Disparo de abobrinha
+--- BLOCK ---
+Iluminador
+--- BLOCK ---

@@ -1,0 +1,236 @@
+﻿TMSG_BOW
+--- BLOCK ---
+(Ninguno)
+--- BLOCK ---
+Peco hambriento
+--- BLOCK ---
+Peco famélico
+--- BLOCK ---
+Rompecorazones
+--- BLOCK ---
+Corazón roto
+--- BLOCK ---
+Corazón fuerte
+--- BLOCK ---
+Revólver Wroggi I
+--- BLOCK ---
+Revólver Wroggi II
+--- BLOCK ---
+Revólver Wroggi III
+--- BLOCK ---
+Revólver sucio I
+--- BLOCK ---
+Revólver sucio II
+--- BLOCK ---
+Esputo ponzoñoso
+--- BLOCK ---
+Equipo esponja I
+--- BLOCK ---
+Equipo esponja II
+--- BLOCK ---
+Equipo esponja III
+--- BLOCK ---
+Equipo amatista I
+--- BLOCK ---
+Equipo amatista II
+--- BLOCK ---
+Amir al Bahr
+--- BLOCK ---
+Batal al Bahr
+--- BLOCK ---
+Arko Nulo
+--- BLOCK ---
+Arko Unu
+--- BLOCK ---
+Arko Nulo (R)
+--- BLOCK ---
+Arko Unu (R)
+--- BLOCK ---
+Arko Du (R)
+--- BLOCK ---
+Arko Tri (R)
+--- BLOCK ---
+Arko Nulo (B)
+--- BLOCK ---
+Arko Unu (B)
+--- BLOCK ---
+Arko Du (B)
+--- BLOCK ---
+Arko Tri (B)
+--- BLOCK ---
+Arko Nulo (A)
+--- BLOCK ---
+Arko Unu (A)
+--- BLOCK ---
+Arko Du (A)
+--- BLOCK ---
+Arko Tri (A)
+--- BLOCK ---
+Arco de cazador I
+--- BLOCK ---
+Arco de cazador II
+--- BLOCK ---
+Arco de cazador III
+--- BLOCK ---
+Arco recio cazador I
+--- BLOCK ---
+Arco recio cazad. II
+--- BLOCK ---
+Arco orgullo cazador
+--- BLOCK ---
+Volador Brach
+--- BLOCK ---
+Volador Brach+
+--- BLOCK ---
+Arco de demolición
+--- BLOCK ---
+Bengala demoledora
+--- BLOCK ---
+Multiarco I tipo 64
+--- BLOCK ---
+Multiarco II tipo 64
+--- BLOCK ---
+Aguja de Escorpio
+--- BLOCK ---
+Arpa caballito mar
+--- BLOCK ---
+Arpa caballo real
+--- BLOCK ---
+Arpa acuaballo
+--- BLOCK ---
+Arco de reina I
+--- BLOCK ---
+Arco de reina II
+--- BLOCK ---
+Arco de reina III
+--- BLOCK ---
+Arco tiro corazón I
+--- BLOCK ---
+Arco tiro corazón II
+--- BLOCK ---
+Arco tiro coraz. III
+--- BLOCK ---
+Selene Lunarrota
+--- BLOCK ---
+Retumbar usurpador
+--- BLOCK ---
+Prontirrayo déspota
+--- BLOCK ---
+Respuesta de opresor
+--- BLOCK ---
+Vista de Brimstren
+--- BLOCK ---
+Paciencia estigia
+--- BLOCK ---
+Cresta de hielo
+--- BLOCK ---
+Edelweiss
+--- BLOCK ---
+Arc Valanga de ámbar
+--- BLOCK ---
+Arcosable ligero
+--- BLOCK ---
+Fallenfriede
+--- BLOCK ---
+Jinete arena Rafalga
+--- BLOCK ---
+Cordel metálico
+--- BLOCK ---
+Gigáculos
+--- BLOCK ---
+Gigantomaquia
+--- BLOCK ---
+Cuerda cromada I
+--- BLOCK ---
+Cuerda cromada II
+--- BLOCK ---
+Dédalos de acero
+--- BLOCK ---
+Arco oculto I
+--- BLOCK ---
+Arco oculto II
+--- BLOCK ---
+Vuelo nocturno
+--- BLOCK ---
+Arco de eclipse
+--- BLOCK ---
+Arco Virnar
+--- BLOCK ---
+Vuelo de medianoche
+--- BLOCK ---
+Lanzarrayos I
+--- BLOCK ---
+Lanzarrayos II
+--- BLOCK ---
+Lanzarrayos masivo
+--- BLOCK ---
+Lanzarrayos novo
+--- BLOCK ---
+Rayiblanco Acrus
+--- BLOCK ---
+Arco batalla oscuro
+--- BLOCK ---
+Emprestador oscuro
+--- BLOCK ---
+Ar. cuer. Diablos I
+--- BLOCK ---
+Ar. cuer. Diablos II
+--- BLOCK ---
+Maestro de galernas
+--- BLOCK ---
+Cera enroscacola
+--- BLOCK ---
+Cera Cyclord
+--- BLOCK ---
+Ala Victoria I
+--- BLOCK ---
+Ala Victoria II
+--- BLOCK ---
+Victoria reverente
+--- BLOCK ---
+Diosa del Arca
+--- BLOCK ---
+Arken Victrine
+--- BLOCK ---
+Arco vidente mundo
+--- BLOCK ---
+Prueba vidente mundo
+--- BLOCK ---
+Botín vidente mundo
+--- BLOCK ---
+Arco de Alatreon
+--- BLOCK ---
+Mandato de Alatreon
+--- BLOCK ---
+Altheos Incanonis
+--- BLOCK ---
+Arca Raptora
+--- BLOCK ---
+Arca Chaotica
+--- BLOCK ---
+Arca Insantia
+--- BLOCK ---
+Fénix de Megido
+--- BLOCK ---
+Rysurrección
+--- BLOCK ---
+Arco de exquisitez
+--- BLOCK ---
+Arco copioso
+--- BLOCK ---
+Arco del festín
+--- BLOCK ---
+Agujón Kelbi
+--- BLOCK ---
+Disparo Kelbi
+--- BLOCK ---
+Bala gran Kelbi
+--- BLOCK ---
+Taketori de bambú
+--- BLOCK ---
+Okina de bambú
+--- BLOCK ---
+Kaguya de bambú
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

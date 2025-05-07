@@ -164,13 +164,13 @@ Flauta
 --- BLOCK ---
 Lança
 --- BLOCK ---
-Lança Pistola
+Lança-canhão
 --- BLOCK ---
 Espada Machado
 --- BLOCK ---
-Balista Rápida
+Balestra Rápida
 --- BLOCK ---
-Balista Pesada
+Balestra Pesada
 --- BLOCK ---
 Arco
 --- BLOCK ---
@@ -1097,7 +1097,7 @@ Espada longa
 --- BLOCK ---
 Arco
 --- BLOCK ---
-Lança pistola
+Lança-canhão
 --- BLOCK ---
 Espadas duplas
 --- BLOCK ---

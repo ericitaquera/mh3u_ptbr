@@ -1,0 +1,460 @@
+TMSG_AXE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Arma nova, criação do deserto.
+É preciso dominar o
+machado e a espada.
+--- BLOCK ---
+Arma novíssima, criação do deserto.
+É preciso dominar o
+machado e a espada.
+--- BLOCK ---
+Arma novíssima, criação do deserto.
+É preciso dominar o
+machado e a espada.
+--- BLOCK ---
+Versátil machado de caça.
+No modo Espada,
+lança agentes paralisantes.
+--- BLOCK ---
+Versátil machado de caça.
+No modo Espada,
+lança agentes paralisantes.
+--- BLOCK ---
+Versátil machado de caça.
+No modo Espada,
+lança agentes paralisantes.
+--- BLOCK ---
+Versátil machado de caça.
+No modo Espada,
+lança agentes paralisantes.
+--- BLOCK ---
+Símbolo da tenacidade
+do wyvern. Nenhuma
+presa pode escapar.
+--- BLOCK ---
+Machado espada de ébano, negra
+como a noite. Tão rápida
+que se torna invisível.
+--- BLOCK ---
+Machado espada de ébano, negra
+como a noite. Tão rápida
+que se torna invisível.
+--- BLOCK ---
+Última das quatro armas de
+um famoso assassino. Evita
+a agonia da vítima.
+--- BLOCK ---
+Machado espada com ponta rasgadora.
+O inimigo grita quando
+brilha sob a lua.
+--- BLOCK ---
+A quinta das Sete
+estrelas. É poesia silenciosa
+para a caça.
+--- BLOCK ---
+Machado espada que encarna
+um voraz Deviljho. Com
+marcas de antigas batalhas.
+--- BLOCK ---
+Machado espada que encarna
+um voraz Deviljho. Com
+marcas de antigas batalhas.
+--- BLOCK ---
+Machado espada forjada com
+sangue de um Deviljho
+feroz. Encabeará muitas matanças.
+--- BLOCK ---
+Machado espada forjada com
+sangue de um Deviljho
+feroz. Encabeará muitas matanças.
+--- BLOCK ---
+Machado que canaliza o poder
+do Lagiacrus. A cada
+golpe, explode luz azul.
+--- BLOCK ---
+Machado que canaliza o poder
+do Lagiacrus. A cada
+golpe explode luz azul.
+--- BLOCK ---
+Machado envolto em raio.
+Uma arma digna do
+senhor dos mares.
+--- BLOCK ---
+Machado envolto em raio.
+Uma arma digna do
+senhor dos mares.
+--- BLOCK ---
+Machado envolto em raio.
+Uma arma digna do
+senhor dos mares.
+--- BLOCK ---
+Machado espada de Lagiacrus
+marmóreo. Abrasa a
+terra com raios.
+--- BLOCK ---
+Machado espada de Lagiacrus
+marmóreo. Abrasa a
+terra com raios.
+--- BLOCK ---
+Machado espada de Lagiacrus do
+abismo. Tamanha fúria que pode
+fazer os mares ferverem.
+--- BLOCK ---
+Machado espada de Lagiacrus do
+abismo. Tamanha fúria que pode
+fazer os mares ferverem.
+--- BLOCK ---
+Machado espada com uma lâmina
+de ferro e placas de
+Arzuros. Melhora Afiação. Grande força.
+--- BLOCK ---
+Machado espada com uma lâmina
+de ferro e placas de
+Arzuros. Melhora Afiação e força.
+--- BLOCK ---
+Machado espada com uma lâmina
+de ferro e placas de
+Arzuros. Melhora Afiação. Grande força.
+--- BLOCK ---
+Machado espada com uma lâmina
+de ferro e placas de
+Arzuros. Melhora Afiação. Grande força.
+--- BLOCK ---
+Machado espada explosivo. A
+babosa interior vai para
+onde é necessário.
+--- BLOCK ---
+Machado espada explosivo. A
+babosa interior vai para
+onde é necessário.
+--- BLOCK ---
+Machado espada explosivo com
+poder de Brachydios. Os
+inimigos sofrem duas vezes.
+--- BLOCK ---
+Machado espada explosivo com
+poder de Brachydios. Os
+inimigos sofrem duas vezes.
+--- BLOCK ---
+Machado de caça feito
+do Barioth tricolor.
+Congela o sangue.
+--- BLOCK ---
+Machado de caça feito
+do Barioth tricolor.
+Congela o sangue.
+--- BLOCK ---
+Nascido no permafrost que invoca
+os ventos do norte
+e anuncia a morte.
+--- BLOCK ---
+Machado espada de presas de
+Barioth supremas. Faz sentir
+o frio do túmulo.
+--- BLOCK ---
+Machado espada de presas de
+Barioth supremas. Faz sentir
+o frio do túmulo.
+--- BLOCK ---
+Machado espada com presas
+de Barioth arenoso. Por
+ela flui líquido paralisante.
+--- BLOCK ---
+Machado espada com presas
+de Barioth arenoso. Por
+ela flui líquido paralisante.
+--- BLOCK ---
+Machado espada com presas
+de Barioth arenoso. Por
+ela flui líquido paralisante.
+--- BLOCK ---
+Machado espada de
+penas de Qurupeco
+endurecidas quimicamente.
+--- BLOCK ---
+Machado espada de escamas
+e penas de
+Qurupeco endurecidas quimicamente.
+--- BLOCK ---
+Machado espada de escamas
+e penas de
+Qurupeco endurecidas quimicamente.
+--- BLOCK ---
+Grande Machado espada que
+requer muita força. Lança
+inimigos pelos ares.
+--- BLOCK ---
+Grande Machado espada que
+requer muita força. Lança
+inimigos pelos ares.
+--- BLOCK ---
+Grande Machado espada que
+requer muita força. Lança
+inimigos pelos ares.
+--- BLOCK ---
+Machado Grande que requer
+muita força. Lança
+inimigos pelos ares.
+--- BLOCK ---
+Machado com eletricidade
+carmesim. Materiais elásticos
+aumentam seu alcance.
+--- BLOCK ---
+Machado com eletricidade
+carmesim. Materiais elásticos
+aumentam seu alcance.
+--- BLOCK ---
+Machado com eletricidade
+carmesim. Materiais elásticos
+aumentam seu alcance.
+--- BLOCK ---
+Machado rombo. Mais leve
+do que parece e
+fácil de manusear.
+--- BLOCK ---
+Machado rombo. Mais leve
+do que parece e
+fácil de manusear.
+--- BLOCK ---
+Machado rombo. Mais leve
+do que parece e
+fácil de manusear.
+--- BLOCK ---
+Machado que arranca a cabeça
+de wyverns voadores. Mais
+forte que o aço.
+--- BLOCK ---
+Machado que arranca a cabeça
+de wyverns voadores. Mais
+forte que o aço.
+--- BLOCK ---
+Machado estranho. Até a
+terra geme de dor
+por seus golpes tremendos.
+--- BLOCK ---
+Machado feito das partes duras
+de Duramboros. Abate wyverns voadores
+e faz tremer a terra.
+--- BLOCK ---
+Machado feito das partes duras
+de Duramboros. Abate wyverns voadores
+e faz tremer a terra.
+--- BLOCK ---
+Machado feito da armadura de espinhos
+de Diablos. Dilacera a carne
+e a separa do osso.
+--- BLOCK ---
+Machado feito da armadura de
+um tirano do deserto.
+Arma terrível e brutal.
+--- BLOCK ---
+Machado feito da armadura de
+um tirano do deserto.
+Arma terrível e brutal.
+--- BLOCK ---
+Machado com a alma de uma
+tirana negra. Consome a alma
+com sua sede de sangue.
+--- BLOCK ---
+Machado com a alma de uma
+tirana negra. Consome a alma
+com sua sede de sangue.
+--- BLOCK ---
+Machado com a alma de uma
+tirana negra. Consome a alma
+com sua sede de sangue.
+--- BLOCK ---
+Machado feito das
+garras de fogo
+de um Agnaktor.
+--- BLOCK ---
+Machado escarlate que aprisiona
+a alma de um
+Agnaktor. Reduz a cinzas.
+--- BLOCK ---
+Machado escarlate que aprisiona
+a alma de um
+Agnaktor. Reduz a cinzas.
+--- BLOCK ---
+Arma feita ao amolar o
+bico de uma besta gelada
+da tundra. Surpreendentemente afiada.
+--- BLOCK ---
+Arma feita ao amolar o
+bico de uma besta gelada
+da tundra. Surpreendentemente afiada.
+--- BLOCK ---
+Arma feita ao amolar o
+bico de uma besta gelada
+da tundra. Surpreendentemente afiada.
+--- BLOCK ---
+Machado feito da concha
+dura e elástica de
+Volvidon. Surpreendentemente flexível.
+--- BLOCK ---
+Machado feito da concha
+dura e elástica de
+Volvidon. Surpreendentemente flexível.
+--- BLOCK ---
+Machado feito da concha
+dura e elástica de
+Volvidon. Surpreendentemente flexível.
+--- BLOCK ---
+Machado feito da concha
+dura e elástica de
+Volvidon. Surpreendentemente flexível.
+--- BLOCK ---
+Machado do melhor caçador até
+hoje. Seu raio anuncia
+o retorno do rei.
+--- BLOCK ---
+Machado do melhor caçador até
+hoje. Seu raio anuncia
+o retorno do rei.
+--- BLOCK ---
+Machado com o poder
+de um Zinogre estígio.
+Faz wyverns voadores gritarem.
+--- BLOCK ---
+Machado com o poder
+de um Zinogre estígio.
+Faz wyverns voadores gritarem.
+--- BLOCK ---
+Machado feito das partes de
+Ludroth real. Muito fácil
+de mudar de modo.
+--- BLOCK ---
+Machado feito das partes de
+Ludroth real. Muito fácil
+de mudar de modo.
+--- BLOCK ---
+Machado feito das partes de
+Ludroth real. Muito fácil
+de mudar de modo.
+--- BLOCK ---
+Robusto machado de caça
+de design oriental. Fende
+as escamas de wyvern.
+--- BLOCK ---
+Robusto machado de caça
+de design oriental. Fende
+as escamas de wyvern.
+--- BLOCK ---
+Poderosa arma para guerreiros
+testados. Réplica do machado
+de um rei oriental.
+--- BLOCK ---
+Machado elegante feito de
+Plesioth. Suas brilhantes barbatanas
+cortam como tiras.
+--- BLOCK ---
+Machado elegante feito de
+Plesioth. Suas brilhantes barbatanas
+cortam como tiras.
+--- BLOCK ---
+Machado de lâmina de
+jade. Com afiação diamantina
+e efeito sonífero.
+--- BLOCK ---
+Machado apresentado à princesa
+da batalha. O sangue
+escorre por sua lâmina.
+--- BLOCK ---
+Machado apresentado à princesa
+da batalha. O sangue
+escorre por sua lâmina.
+--- BLOCK ---
+Machado apresentado à princesa
+da batalha. O sangue
+escorre por sua lâmina.
+--- BLOCK ---
+Machado de uma princesa
+da batalha. Sua beleza
+se destacava em combate.
+--- BLOCK ---
+Machado de Rathian rosa e
+Rathalos celeste. Para quem
+venceu as duas bestas.
+--- BLOCK ---
+Machado de Rathian rosa e
+Rathalos celeste. Para quem
+venceu as duas bestas.
+--- BLOCK ---
+Machado que traz um gato
+com sorriso inquietante. Mata
+sem parar de sorrir.
+--- BLOCK ---
+Machado que traz um gato
+com sorriso inquietante. Mata
+sem parar de sorrir.
+--- BLOCK ---
+Machado que traz um gato
+com sorriso inquietante. Mata
+sem parar de sorrir.
+--- BLOCK ---
+Machado de mineral antigo,
+e encarnação de um
+espírito humano inflexível.
+--- BLOCK ---
+Machado de mineral antigo,
+e encarnação de um
+espírito humano inflexível.
+--- BLOCK ---
+Arma de pedra que
+encerra uma alma antiga.
+O tempo a afiou.
+--- BLOCK ---
+Arma de pedra que
+encerra uma alma antiga.
+O tempo a afiou.
+--- BLOCK ---
+Arma de pedra que
+encerra uma alma antiga.
+O tempo a afiou.
+--- BLOCK ---
+Lendário Machado espada esculpido
+no chifre de um
+Ceadeus. Seu interior brilha.
+--- BLOCK ---
+Lendário Machado espada esculpido
+no chifre de um
+Ceadeus. Seu interior brilha.
+--- BLOCK ---
+Ira de Ceadeus em forma
+de arma. Pode partir o
+mar e agitar a terra.
+--- BLOCK ---
+Temível Machado espada, de
+osso de Alatreon, escuro
+como a aurora primordial.
+--- BLOCK ---
+Arma devora-almas. Anuncia o
+fim da humanidade e
+o advento do dragão.
+--- BLOCK ---
+Arma devora-almas. Anuncia o
+fim da humanidade e
+o advento do dragão.
+--- BLOCK ---
+Machado espada selvagem que
+pressagia o fim. As
+chamas consumirão tudo.
+--- BLOCK ---
+Machado espada selvagem que
+pressagia o fim. As
+chamas consumirão tudo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Lâmina que oscila entre a luz
+e as trevas. Pode fazer
+o bem ou o mal.
+--- BLOCK ---
+Após anos de pesquisa, uma
+arma que pode adotar a
+elegância de um dragão.
+--- BLOCK ---

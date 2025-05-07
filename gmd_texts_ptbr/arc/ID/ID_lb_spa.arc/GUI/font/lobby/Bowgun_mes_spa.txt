@@ -1,0 +1,218 @@
+TMSG_BOWGUN_MES
+--- BLOCK ---
+Mais lento
+--- BLOCK ---
+Extremamente lento
+--- BLOCK ---
+Muito lento
+--- BLOCK ---
+Lento
+--- BLOCK ---
+Um pouco lento
+--- BLOCK ---
+Médio
+--- BLOCK ---
+Um pouco rápido
+--- BLOCK ---
+Rápido
+--- BLOCK ---
+Muito rápido
+--- BLOCK ---
+Mais rápido
+--- BLOCK ---
+Lento
+--- BLOCK ---
+Um pouco lento
+--- BLOCK ---
+Médio
+--- BLOCK ---
+--
+--- BLOCK ---
+Potência pequena
+--- BLOCK ---
+Potência grande
+--- BLOCK ---
+Máximo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+Médio
+--- BLOCK ---
+Um pouco
+--- BLOCK ---
+Baixo
+--- BLOCK ---
+Muito baixo
+--- BLOCK ---
+Mínimo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+Médio
+--- BLOCK ---
+Um pouco
+--- BLOCK ---
+--
+--- BLOCK ---
+Reduzido
+--- BLOCK ---
+Reduzido+
+--- BLOCK ---
+Nenhum
+--- BLOCK ---
+Baixo
+--- BLOCK ---
+Alto
+--- BLOCK ---
+Nenhum
+--- BLOCK ---
+I
+--- BLOCK ---
+D
+--- BLOCK ---
+ID
+--- BLOCK ---
+Nenhum
+--- BLOCK ---
+Reduzido
+--- BLOCK ---
+Reduzido+
+--- BLOCK ---
+Aumentado
+--- BLOCK ---
+Aumentado+
+--- BLOCK ---
+Ataque
+--- BLOCK ---
+Afinidade
+--- BLOCK ---
+Espaços
+--- BLOCK ---
+Peso
+--- BLOCK ---
+Alcance
+--- BLOCK ---
+Recarga
+--- BLOCK ---
+Retrocesso
+--- BLOCK ---
+Desvio
+--- BLOCK ---
+Outros
+--- BLOCK ---
+Normal
+--- BLOCK ---
+Perfuração
+--- BLOCK ---
+Perdigão
+--- BLOCK ---
+Explosão
+--- BLOCK ---
+Grupo
+--- BLOCK ---
+Recuperação
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Paralisia
+--- BLOCK ---
+Sono
+--- BLOCK ---
+Fadiga
+--- BLOCK ---
+Subaquático
+--- BLOCK ---
+Chama
+--- BLOCK ---
+Água
+--- BLOCK ---
+Trovão
+--- BLOCK ---
+Congelamento
+--- BLOCK ---
+Dragão
+--- BLOCK ---
+Tranquilizante
+--- BLOCK ---
+Pintura
+--- BLOCK ---
+Demônio
+--- BLOCK ---
+Armadura
+--- BLOCK ---
+Cortante
+--- BLOCK ---
+Baba
+--- BLOCK ---
+F. Wyvern
+--- BLOCK ---
+Normal
+--- BLOCK ---
+Perfuração
+--- BLOCK ---
+Perdigão
+--- BLOCK ---
+Explosão
+--- BLOCK ---
+Grupo
+--- BLOCK ---
+F. Wyvern
+--- BLOCK ---
+Recuperação
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Paralisia
+--- BLOCK ---
+Sono
+--- BLOCK ---
+Subaquático
+--- BLOCK ---
+Demônio
+--- BLOCK ---
+Armadura
+--- BLOCK ---
+Fadiga
+--- BLOCK ---
+Chama
+--- BLOCK ---
+Água
+--- BLOCK ---
+Congelamento
+--- BLOCK ---
+Trovão
+--- BLOCK ---
+Dragão
+--- BLOCK ---
+Cortante
+--- BLOCK ---
+Tranquilizante
+--- BLOCK ---
+Pintura
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Poder
+--- BLOCK ---
+Elemento
+--- BLOCK ---
+Atordoado
+--- BLOCK ---
+Dragão
+--- BLOCK ---
+Fadiga
+--- BLOCK ---
+Veneno
+--- BLOCK ---
+Saliva
+--- BLOCK ---
+Sono
+--- BLOCK ---

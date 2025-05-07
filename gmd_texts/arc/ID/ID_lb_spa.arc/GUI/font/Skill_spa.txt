@@ -1,0 +1,678 @@
+﻿TMSG_SKILL
+--- BLOCK ---
+TMSG_SKILL_UNKNOWN
+--- BLOCK ---
+TMSG_CAT_SKILL_NAME
+--- BLOCK ---
+(Sin habilidad.)
+--- BLOCK ---
+Anula veneno
+--- BLOCK ---
+Doble veneno
+--- BLOCK ---
+Anula parálisis
+--- BLOCK ---
+Doble parálisis
+--- BLOCK ---
+Anula sueño
+--- BLOCK ---
+Doble sueño
+--- BLOCK ---
+Mitad aturdim.
+--- BLOCK ---
+Anula aturdim.
+--- BLOCK ---
+Doble aturdim.
+--- BLOCK ---
+Anula Barr/Nieve
+--- BLOCK ---
+Sigilo
+--- BLOCK ---
+Provocación
+--- BLOCK ---
+Salud +20
+--- BLOCK ---
+Salud +50
+--- BLOCK ---
+Salud -10
+--- BLOCK ---
+Salud -30
+--- BLOCK ---
+Vel. recup. +1
+--- BLOCK ---
+Vel. recup. +2
+--- BLOCK ---
+Vel. recup. -1
+--- BLOCK ---
+Vel. recup. -2
+--- BLOCK ---
+Filo de cuchilla
+--- BLOCK ---
+Filo romo
+--- BLOCK ---
+Afilado +1
+--- BLOCK ---
+Ojo preciso
+--- BLOCK ---
+Ojo crítico +1
+--- BLOCK ---
+Ojo crítico +2
+--- BLOCK ---
+Ojo crítico +3
+--- BLOCK ---
+Ojo crítico -1
+--- BLOCK ---
+Ojo crítico -2
+--- BLOCK ---
+Ojo crítico -3
+--- BLOCK ---
+Afilado rápido
+--- BLOCK ---
+Afilado lento
+--- BLOCK ---
+Guardia +1
+--- BLOCK ---
+Guardia +2
+--- BLOCK ---
+Guardia -1
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Guardia+
+--- BLOCK ---
+Autoguard.
+--- BLOCK ---
+Vel. recarga +1
+--- BLOCK ---
+Vel. recarga +2
+--- BLOCK ---
+Vel. recarga +3
+--- BLOCK ---
+Vel. recarga -1
+--- BLOCK ---
+Vel. recarga -2
+--- BLOCK ---
+Vel. recarga -3
+--- BLOCK ---
+Retroceso +1
+--- BLOCK ---
+Retroceso +2
+--- BLOCK ---
+Retroceso +3
+--- BLOCK ---
+Retroceso -1
+--- BLOCK ---
+Retroceso -2
+--- BLOCK ---
+Retroceso -3
+--- BLOCK ---
+Normal/rápida+
+--- BLOCK ---
+Perforación+
+--- BLOCK ---
+Perd./abanico+
+--- BLOCK ---
+Usa normal
+--- BLOCK ---
+Usa perfor. Nv1
+--- BLOCK ---
+Usa perforador
+--- BLOCK ---
+Usa perdigón Nv1
+--- BLOCK ---
+Usa perdigón
+--- BLOCK ---
+Usa explos. Nv1
+--- BLOCK ---
+Usa explosivo
+--- BLOCK ---
+Usa grupo Nv1
+--- BLOCK ---
+Usa grupo
+--- BLOCK ---
+Estado anorm. +1
+--- BLOCK ---
+Estado anorm. +2
+--- BLOCK ---
+Estado anorm. -1
+--- BLOCK ---
+Elemental +1
+--- BLOCK ---
+Elemental -1
+--- BLOCK ---
+Bombardero
+--- BLOCK ---
+Mitad Hambre
+--- BLOCK ---
+Anula Hambre
+--- BLOCK ---
+Aumenta Hambre
+--- BLOCK ---
+Doble Hambre
+--- BLOCK ---
+Glotón
+--- BLOCK ---
+Carroñero
+--- BLOCK ---
+Ataque +1
+--- BLOCK ---
+Ataque +2
+--- BLOCK ---
+Ataque +3
+--- BLOCK ---
+Ataque -1
+--- BLOCK ---
+Ataque -2
+--- BLOCK ---
+Ataque -3
+--- BLOCK ---
+Defensa +1
+--- BLOCK ---
+Defensa +2
+--- BLOCK ---
+Defensa +3
+--- BLOCK ---
+Defensa -1
+--- BLOCK ---
+Defensa -2
+--- BLOCK ---
+Defensa -3
+--- BLOCK ---
+Bendición divina
+--- BLOCK ---
+Bend. demoníaca
+--- BLOCK ---
+Tapones +1
+--- BLOCK ---
+Tapones +2
+--- BLOCK ---
+Antirrobo
+--- BLOCK ---
+Efecto área +1
+--- BLOCK ---
+Efecto área +2
+--- BLOCK ---
+Exp. mochilero
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. fuego +15
+--- BLOCK ---
+Res. fuego +20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. fuego -20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. agua +15
+--- BLOCK ---
+Res. agua +20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. agua -20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. trueno +15
+--- BLOCK ---
+Res. trueno +20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. trueno -20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. hielo +15
+--- BLOCK ---
+Res. hielo +20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. hielo -20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. dragón +15
+--- BLOCK ---
+Res. dragón +20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Res. dragón -20
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Anula el calor
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumentar calor
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Anula el frío
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Aumentar frío
+--- BLOCK ---
+Res. viento +1
+--- BLOCK ---
+Res. viento +2
+--- BLOCK ---
+Vista lejana
+--- BLOCK ---
+Vista cercana
+--- BLOCK ---
+Recogida +1
+--- BLOCK ---
+Recogida +2
+--- BLOCK ---
+Recogida -1
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Veloc. recogida
+--- BLOCK ---
+Capricho +1
+--- BLOCK ---
+Capricho +2
+--- BLOCK ---
+Capricho -1
+--- BLOCK ---
+Capricho -2
+--- BLOCK ---
+Suerte +1
+--- BLOCK ---
+Suerte +2
+--- BLOCK ---
+Suerte -1
+--- BLOCK ---
+Suerte -2
+--- BLOCK ---
+Experto en pesca
+--- BLOCK ---
+Detectar
+--- BLOCK ---
+Autorrastreador
+--- BLOCK ---
+Nvl recuperac. +1
+--- BLOCK ---
+Nvl recuperac. -1
+--- BLOCK ---
+Combinación +20%
+--- BLOCK ---
+Combinación +25%
+--- BLOCK ---
+Combinación +45%
+--- BLOCK ---
+Combinación -10%
+--- BLOCK ---
+Combinación -10%
+--- BLOCK ---
+Combinación -20%
+--- BLOCK ---
+Combinación+
+--- BLOCK ---
+Evasión +1
+--- BLOCK ---
+Evasión +2
+--- BLOCK ---
+Evasión -1
+--- BLOCK ---
+Adrenalina +1
+--- BLOCK ---
+Adrenalina +2
+--- BLOCK ---
+Agobiado
+--- BLOCK ---
+Duración +1
+--- BLOCK ---
+Duración -1
+--- BLOCK ---
+Corredor +1
+--- BLOCK ---
+Corredor -1
+--- BLOCK ---
+Carga+
+--- BLOCK ---
+Precisión +1
+--- BLOCK ---
+Precisión +2
+--- BLOCK ---
+Precisión -1
+--- BLOCK ---
+Precisión -2
+--- BLOCK ---
+Consumir +1
+--- BLOCK ---
+Consumir +2
+--- BLOCK ---
+Consumir -1
+--- BLOCK ---
+Experto cortador
+--- BLOCK ---
+Maestro cortador
+--- BLOCK ---
+Res. temblor
+--- BLOCK ---
+Experto barbacoa
+--- BLOCK ---
+Dist. evasión
+--- BLOCK ---
+Desenfund. esp.
+--- BLOCK ---
+Trampero
+--- BLOCK ---
+Constitución +1
+--- BLOCK ---
+Constitución +2
+--- BLOCK ---
+Constitución -1
+--- BLOCK ---
+Constitución -2
+--- BLOCK ---
+Maestro capturas
+--- BLOCK ---
+Gurú de captura
+--- BLOCK ---
+Foco
+--- BLOCK ---
+Distracción
+--- BLOCK ---
+Oxígeno eterno
+--- BLOCK ---
+Poco aliento
+--- BLOCK ---
+Res. corrien. +1
+--- BLOCK ---
+Res. corrien. +2
+--- BLOCK ---
+Nadador olímpico
+--- BLOCK ---
+Estilo perrito
+--- BLOCK ---
+Pena inmediata
+--- BLOCK ---
+Antiplagas
+--- BLOCK ---
+Despertar
+--- BLOCK ---
+Fortalecer
+--- BLOCK ---
+Disparo bonus
+--- BLOCK ---
+Boñiguero
+--- BLOCK ---
+Aura llama
+--- BLOCK ---
+Antiséptico
+--- BLOCK ---
++ veneno
+--- BLOCK ---
++ paraliz.
+--- BLOCK ---
++ sueño
+--- BLOCK ---
++ energía
+--- BLOCK ---
++ alcance
+--- BLOCK ---
+Flautista
+--- BLOCK ---
+Artillería +1
+--- BLOCK ---
+Artillería +2
+--- BLOCK ---
+Poder oculto +1
+--- BLOCK ---
+Poder oculto +2
+--- BLOCK ---
+Soldado
+--- BLOCK ---
+Piel de hierro
+--- BLOCK ---
+Ataque fuego +1
+--- BLOCK ---
+Ataque fuego +2
+--- BLOCK ---
+Ataque fuego -1
+--- BLOCK ---
+Ataque agua +1
+--- BLOCK ---
+Ataque agua +2
+--- BLOCK ---
+Ataque agua -1
+--- BLOCK ---
+Ataque trueno +1
+--- BLOCK ---
+Ataque trueno +2
+--- BLOCK ---
+Ataque trueno -1
+--- BLOCK ---
+Ataque hielo +1
+--- BLOCK ---
+Ataque hielo +2
+--- BLOCK ---
+Ataque hielo -1
+--- BLOCK ---
+Ataque dragón +1
+--- BLOCK ---
+Ataque dragón +2
+--- BLOCK ---
+Ataque dragón -1
+--- BLOCK ---
+Usa cortador
+--- BLOCK ---
++ fatiga
+--- BLOCK ---
+Maza
+--- BLOCK ---
+Destructor
+--- BLOCK ---
+Boxeador
+--- BLOCK ---
+Robarresistencia
+--- BLOCK ---
+Vaina rápida
+--- BLOCK ---
+Resis. recup. +1
+--- BLOCK ---
+Resis. recup. -1
+--- BLOCK ---
+Carnívoro
+--- BLOCK ---
+Evasor
+--- BLOCK ---
+Cazamiel
+--- BLOCK ---
+Biólogo
+--- BLOCK ---
+Espíritu +1
+--- BLOCK ---
+Espíritu +2
+--- BLOCK ---
+Ileso
+--- BLOCK ---
+Invencible
+--- BLOCK ---
+Branquias
+--- BLOCK ---
+Tripas
+--- BLOCK ---
+Punzante
+--- BLOCK ---
+Pulso firme
+--- BLOCK ---
+Bienestar
+--- BLOCK ---
+Furia
+--- BLOCK ---
+En equipo
+--- BLOCK ---
+Liderazgo
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Buscamuletos
+--- BLOCK ---
+Experto capturas
+--- BLOCK ---
+Usa baba
+--- BLOCK ---
++ baba
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+(?)
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+(Sin hab. Felyne)
+--- BLOCK ---
+Cortador Felyne +2
+--- BLOCK ---
+Cortador Felyne +1
+--- BLOCK ---
+Médico Felyne
+--- BLOCK ---
+Cinturón neg. Felyne
+--- BLOCK ---
+Piro Felyne
+--- BLOCK ---
+Especialista Felyne
+--- BLOCK ---
+Defensor Felyne +2
+--- BLOCK ---
+Defensor Felyne +1
+--- BLOCK ---
+Cuerno Felyne
+--- BLOCK ---
+Silvicultor Felyne
+--- BLOCK ---
+Carisma Felyne
+--- BLOCK ---
+Combinador Felyne +2
+--- BLOCK ---
+Combinador Felyne +1
+--- BLOCK ---
+Recogedor Felyne
+--- BLOCK ---
+Puntería Felyne
+--- BLOCK ---
+Gato ultra suerte
+--- BLOCK ---
+Gato afortunado
+--- BLOCK ---
+Heroicidad Felyne
+--- BLOCK ---
+Deflector Felyne
+--- BLOCK ---
+Huida Felyne
+--- BLOCK ---
+Lanzador Felyne
+--- BLOCK ---
+Coraje Felyne
+--- BLOCK ---
+Supergato Felyne
+--- BLOCK ---
+Gato fuerte Felyne
+--- BLOCK ---
+Debilitador Felyne
+--- BLOCK ---
+Explorador Felyne
+--- BLOCK ---
+Cambio Felyne
+--- BLOCK ---
+Elevador Felyne +2
+--- BLOCK ---
+Elevador Felyne +1
+--- BLOCK ---
+Temperamento Felyne
+--- BLOCK ---
+Kickboxer Felyne
+--- BLOCK ---
+Luchador Felyne
+--- BLOCK ---
+Escalador Felyne +2
+--- BLOCK ---
+Escalador Felyne +1
+--- BLOCK ---
+Supercortador Felyne
+--- BLOCK ---
+Aterrizador Felyne
+--- BLOCK ---
+Gato sofisticado
+--- BLOCK ---
+Excavador Felyne
+--- BLOCK ---
+Gourmet Felyne
+--- BLOCK ---
+Boxeador Felyne
+--- BLOCK ---
+Gato suerte
+--- BLOCK ---
+Explosión Felyne
+--- BLOCK ---
+Bombardero Felyne
+--- BLOCK ---
+Sangre fría Felyne
+--- BLOCK ---
+Boñiguero Felyne
+--- BLOCK ---
+Limpiador Felyne
+--- BLOCK ---
+Andafuegos Felyne
+--- BLOCK ---
+Deslizador Felyne
+--- BLOCK ---
+Oráculo Felyne
+--- BLOCK ---
+Pulidor Felyne
+--- BLOCK ---
+Acróbata Felyne
+--- BLOCK ---
+Cambio juego Felyne
+--- BLOCK ---
+Entrenador Felyne
+--- BLOCK ---
+Potenciador Felyne
+--- BLOCK ---
+Proveedor Felyne
+--- BLOCK ---
+Insomne Felyne
+--- BLOCK ---
+Equilibrador Felyne
+--- BLOCK ---
+Pescador Felyne
+--- BLOCK ---
+Encendedor Felyne
+--- BLOCK ---
+Aguador Felyne
+--- BLOCK ---
+Atrapatruenos Felyne
+--- BLOCK ---
+Rompehielo Felyne
+--- BLOCK ---
+Matadragones Felyne
+--- BLOCK ---
+Nadador Felyne
+--- BLOCK ---
+Gato desafortunado
+--- BLOCK ---

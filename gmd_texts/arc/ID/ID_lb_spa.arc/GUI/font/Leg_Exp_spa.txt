@@ -1,0 +1,1404 @@
+﻿TMSG_LEG_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Armadura de piernas. Parte
+del equipo básico de caza.
+Ligera y fácil de manejar.
+--- BLOCK ---
+Armadura de piernas hecha
+para nadar. Disminuye la
+resistencia al agua.
+--- BLOCK ---
+Robusta armadura de piernas 
+hecha con poco metal para
+mayor comodidad.
+--- BLOCK ---
+Botas para el desierto.
+Resistencia máxima al calor
+en un tamaño mínimo.
+--- BLOCK ---
+Armadura de piernas
+especial para cazadores.
+Sólida para maniobrabilidad.
+--- BLOCK ---
+Armadura de piernas
+para cazadores. Ligera,
+fuerte y equilibrada.
+--- BLOCK ---
+Armadura para piernas hecha
+de huesos de monstruos. Da
+una fuerte protección.
+--- BLOCK ---
+Armadura para piernas hecha 
+con huesos de monstruos. Su
+salvajismo es palpable.
+--- BLOCK ---
+Armadura para piernas hecha
+de Mineral machalita. Su
+diseño es muy práctico.
+--- BLOCK ---
+Armadura para piernas hecha
+de Mineral machalita.
+Diseñada para Artilleros.
+--- BLOCK ---
+Armadura para piernas de
+partes de Jaggi. Pensada
+para ser manejable.
+--- BLOCK ---
+Armadura para piernas de 
+partes de Jaggi. Hecha para
+enviar los golpes a tierra.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de insecto. Nueva,
+pero de excelente diseño.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de insecto. Rara
+y popular por su elegancia.
+--- BLOCK ---
+Armadura para piernas hecha
+de Rhenoplos. Usada a menudo
+en minería.
+--- BLOCK ---
+Armadura para piernas usada
+por mineros originalmente,
+pero útil para la caza.
+--- BLOCK ---
+Armadura de piernas con 
+un plumaje brillante y
+tan ligera como una pluma.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de Qurupeco.
+Robusta aunque ligera.
+--- BLOCK ---
+Armadura para piernas con un
+diseño vistoso. De material
+flexible que se ajusta bien.
+--- BLOCK ---
+Armadura para piernas de
+Ludroth, que destaca por su
+diseño práctico y a la moda.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de Baggi. No se
+helará en lugares muy fríos.
+--- BLOCK ---
+Armadura de piernas de 
+Baggi. El azul de la
+piel forma parte del diseño.
+--- BLOCK ---
+Armadura para piernas hecha 
+de pies de Barroth. Como si
+fuera un esqueleto exterior.
+--- BLOCK ---
+Armadura para piernas que
+ofrece una gran fuerza sin
+perder maniobrabilidad.
+--- BLOCK ---
+Grebas de combate concebidas
+en oriente. La historia
+ha demostrado su valor.
+--- BLOCK ---
+Armadura para piernas
+histórica que ha vivido la
+acción en numerosas guerras.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para piernas usada
+por caballeros extranjeros.
+Llena de honor caballeresco.
+--- BLOCK ---
+Armadura para piernas usada
+por caballeros extranjeros.
+Parte del uniforme oficial.
+--- BLOCK ---
+Prenda para las piernas
+usada por empleadas del
+Gremio. Correcta y formal.
+--- BLOCK ---
+Sandalias usadas mucho por
+empleadas del Gremio, que
+parecen tener muchos pares.
+--- BLOCK ---
+Grebas imbuidas del poder
+de la reina. Llévalas para
+hacer la tierra tu aliada.
+--- BLOCK ---
+Armadura real para piernas
+que conserva su elegancia
+incluso en el infierno.
+--- BLOCK ---
+Armadura para piernas que te
+hacen sentir que llevas un
+monstruo colgando. Negra.
+--- BLOCK ---
+Armadura para piernas hecha
+de Gigginox. Grotesca, pero
+a la vez... hermosa.
+--- BLOCK ---
+Armadura para piernas 
+dorada que usa lascivamente 
+el Mineral dragonita.
+--- BLOCK ---
+Armadura para piernas dorada
+de Mineral dragonita. Usada
+por cazadores nivel medio.
+--- BLOCK ---
+Armadura de piernas de 
+escamas duras de Lagiacrus.
+Saca habilidades latentes.
+--- BLOCK ---
+Armadura de piernas hecha de
+escamas duras de Lagiacrus.
+Aviva los sentidos.
+--- BLOCK ---
+Armadura de piernas de 
+Rathalos. Recuerda a un
+wyvern bailando en el cielo.
+--- BLOCK ---
+Armadura para piernas del 
+Rey de los Cielos. Ni todas
+las llamas la quemarían.
+--- BLOCK ---
+Armadura para piernas con 
+placas de Barioth. Permite
+andar sobre hielo resbaloso.
+--- BLOCK ---
+Calzas fortalecidas con 
+coraza de Barioth. Permite
+andar sobre el hielo.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos. Su
+dureza es asombrosa.
+--- BLOCK ---
+Armadura de pierna de
+Diablos. Su diseño señala
+al auténtico guerrero.
+--- BLOCK ---
+Armadura de piernas pesada
+de Uragaan. Pórtala para
+ser una fortaleza andante.
+--- BLOCK ---
+Armadura de piernas pesada 
+hecha de Uragaan. Precisa
+piernas musculosas.
+--- BLOCK ---
+Armadura de piernas de 
+Agnaktor. Un paso y quedarán
+restos de tierra quemada.
+--- BLOCK ---
+Armadura de piernas de 
+Agnaktor en la que reside el
+alma del caballero carmesí.
+--- BLOCK ---
+Armadura de piernas hecha de
+Ceadeus. Aguantaría hasta
+una misión de toda una vida.
+--- BLOCK ---
+Armadura de piernas hecha de
+Ceadeus. Su belleza blanca
+y pura es una obra de arte.
+--- BLOCK ---
+Armadura de piernas hecha de
+Ceadeus. Aguantaría hasta
+una misión de toda una vida.
+--- BLOCK ---
+Armadura de piernas hecha de
+Ceadeus. Su belleza blanca
+y pura es una obra de arte.
+--- BLOCK ---
+Peculiar armadura de pierna
+que se puso de moda. ¡Son
+tan buenas como parecen!
+--- BLOCK ---
+Armadura de pierna
+extranjera. A los herreros
+los asombra su diseño.
+--- BLOCK ---
+Armadura de pierna de
+partes de Arzuros. Para
+bosque y montaña.
+--- BLOCK ---
+Armadura de pierna de
+partes de Arzuros. Imita
+las patas delanteras.
+--- BLOCK ---
+Armadura de pierna forrada
+de piel de Lagombi. Su
+textura ayuda en el hielo.
+--- BLOCK ---
+Armadura de pierna cubierta
+de abrasivo. El diseño
+exótico es estupendo.
+--- BLOCK ---
+Armadura de pierna de
+concha de Volvidon. Encarna
+el espíritu de fuego.
+--- BLOCK ---
+Armadura de pierna carmesí
+para cazadores de una dura
+tierra de humo y llamas.
+--- BLOCK ---
+Armadura de pierna
+exoesquelética que puede
+despertar capacidades.
+--- BLOCK ---
+Armadura de pierna basada
+en el cuerpo humano.
+Mejora el rendimiento.
+--- BLOCK ---
+Armadura de pierna pesada.
+Una persona normal no
+podría caminar con ella.
+--- BLOCK ---
+Armadura de pierna de
+concha de Duramboros, una
+bestia que derriba árboles.
+--- BLOCK ---
+Armadura de pierna de la
+región de Yukumo. Se
+ajusta con el ceñidor.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para piernas con un
+diseño estándar, pero gran
+defensa. Ligera y cómoda.
+--- BLOCK ---
+Armadura para piernas de 
+diseño clásico pero con gran
+defensa. Ligera y flexible.
+--- BLOCK ---
+Armadura de piernas hecha
+para nadar. Disminuye la
+resistencia al agua.
+--- BLOCK ---
+Armadura de piernas hecha
+para nadar. Disminuye la
+resistencia al agua.
+--- BLOCK ---
+Robusta armadura de 
+piernas, con poco metal para
+que sea fácil de usar.
+--- BLOCK ---
+Armadura para piernas simple
+pero fuerte con mínimo metal
+para máxima usabilidad.
+--- BLOCK ---
+Armadura de piernas para el 
+desierto. Resistencia máxima
+al calor en paquete pequeño.
+--- BLOCK ---
+Armadura de piernas para el 
+desierto. Hace que las
+hogueras sean inocuas.
+--- BLOCK ---
+Armadura de piernas para
+cazadores de élite. Equipo
+sólido pero manejable.
+--- BLOCK ---
+Armadura de piernas para
+cazadores de élite. Ligera,
+fuerte y equilibrada.
+--- BLOCK ---
+Armadura para piernas hecha
+de huesos de monstruo. Da
+una espléndida protección.
+--- BLOCK ---
+Armadura para piernas hecha
+con huesos de calidad. Su
+salvajismo es palpable.
+--- BLOCK ---
+Armadura para piernas hecha 
+de un raro mineral. Diseñada
+para cazadores activos.
+--- BLOCK ---
+Armadura de piernas de 
+un raro mineral. Para un
+uso óptimo de Artilleros.
+--- BLOCK ---
+Armadura para piernas de
+partes de Jaggi. Pensada
+para ser manejable.
+--- BLOCK ---
+Armadura para piernas de 
+partes de Jaggi. Hecha para
+enviar los golpes a tierra.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de insecto. Nueva,
+pero de excelente diseño.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de insecto. Rara
+y popular por su elegancia.
+--- BLOCK ---
+Armadura para piernas hecha
+de Rhenoplos. Usada a menudo
+en minería.
+--- BLOCK ---
+Armadura para piernas usada
+por mineros originalmente,
+pero útil para la caza.
+--- BLOCK ---
+Armadura de piernas con 
+un plumaje brillante y
+tan ligera como una pluma.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de Qurupeco.
+Robusta aunque ligera.
+--- BLOCK ---
+Armadura de piernas con 
+un plumaje brillante y
+tan ligera como una pluma.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de Qurupeco.
+Robusta aunque ligera.
+--- BLOCK ---
+Armadura para piernas con un
+diseño vistoso. De material
+flexible que se ajusta bien.
+--- BLOCK ---
+Armadura para piernas de
+Ludroth, que destaca por su
+diseño práctico y a la moda.
+--- BLOCK ---
+Armadura para piernas con un
+diseño vistoso. De material
+flexible que se ajusta bien.
+--- BLOCK ---
+Armadura de pierna de
+material esponjoso. Gran
+estilo y rendimiento.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de Baggi. No se
+helará en lugares muy fríos.
+--- BLOCK ---
+Armadura de piernas de 
+Baggi. El azul de la
+piel forma parte del diseño.
+--- BLOCK ---
+Peculiar armadura de pierna
+que se puso de moda. ¡Son
+tan buenas como parecen!
+--- BLOCK ---
+Armadura de pierna
+extranjera. A los herreros
+les asombra su diseño.
+--- BLOCK ---
+Armadura de pierna de
+partes de Arzuros. Para
+bosque y montaña.
+--- BLOCK ---
+Armadura de pierna de
+partes de Arzuros. Imita
+las patas delanteras.
+--- BLOCK ---
+Armadura de pierna forrada
+de piel de Lagombi. Su
+textura ayuda en el hielo.
+--- BLOCK ---
+Armadura de pierna cubierta
+de abrasivo. El diseño
+exótico es estupendo.
+--- BLOCK ---
+Armadura de pierna de
+concha de Volvidon. Encarna
+el espíritu de fuego.
+--- BLOCK ---
+Armadura de pierna carmesí
+para cazadores de una dura
+tierra de humo y llamas.
+--- BLOCK ---
+Armadura para piernas hecha 
+de pies de Barroth. Como si
+fuera un esqueleto exterior.
+--- BLOCK ---
+Armadura para piernas que
+ofrece una gran fuerza sin
+perder maniobrabilidad.
+--- BLOCK ---
+Armadura para piernas hecha 
+de pies de Barroth. Como si
+fuera un esqueleto exterior.
+--- BLOCK ---
+Armadura para piernas que
+ofrece una gran fuerza sin
+perder maniobrabilidad.
+--- BLOCK ---
+Grebas de combate concebidas
+en oriente. La historia
+ha demostrado su valor.
+--- BLOCK ---
+Armadura para piernas
+histórica que ha vivido la
+acción en numerosas guerras.
+--- BLOCK ---
+Armadura para piernas usada
+por caballeros extranjeros.
+Llena de honor caballeresco.
+--- BLOCK ---
+Armadura para piernas usada
+por caballeros extranjeros.
+Parte del uniforme oficial.
+--- BLOCK ---
+Prenda para las piernas
+usada por empleadas del
+Gremio. Correcta y formal.
+--- BLOCK ---
+Sandalias usadas mucho por
+empleadas del Gremio, que
+parecen tener muchos pares.
+--- BLOCK ---
+Grebas imbuidas del poder
+de la reina. Llévalas para
+hacer la tierra tu aliada.
+--- BLOCK ---
+Real armadura para piernas,
+que conserva su elegancia
+incluso en el infierno.
+--- BLOCK ---
+Armadura de pierna de la
+wyvern rosa para moverse
+como llama en aceite.
+--- BLOCK ---
+Armadura de pierna rosa
+cuyo poder es digno de la
+reina de la tierra.
+--- BLOCK ---
+Armadura para piernas que te
+hacen sentir que llevas un
+monstruo colgando. Negra.
+--- BLOCK ---
+Armadura para piernas hecha
+de Gigginox. Grotesca, pero
+a la vez... hermosa.
+--- BLOCK ---
+Armadura de pierna que
+parece un monstruo
+aferrado color rojo sangre.
+--- BLOCK ---
+Armadura para piernas hecha
+de Gigginox. Grotesca, pero
+a la vez... hermosa.
+--- BLOCK ---
+Armadura para piernas 
+dorada que usa lascivamente
+el Mineral carbalita.
+--- BLOCK ---
+Armadura para piernas usada 
+por cazadores de élite. Caro
+aglomerado de mineral raro.
+--- BLOCK ---
+Armadura de piernas de 
+huesos negros desconocidos.
+Gran resistencia al trueno.
+--- BLOCK ---
+Armadura de piernas de 
+huesos negros desconocidos.
+Despiertan deseos de caza.
+--- BLOCK ---
+Armadura de pierna de la
+región de Yukumo. Se
+ajusta con el ceñidor.
+--- BLOCK ---
+Armadura de pierna de
+cazadores de Yukumo. Se
+ajusta con el ceñidor.
+--- BLOCK ---
+Armadura de pierna de
+partes de insecto. ¡De
+rodillas ante el campeón!
+--- BLOCK ---
+Armadura de pierna de
+insecto. Cada paso es un
+salto para los insectos.
+--- BLOCK ---
+Armadura de pierna de
+insectos. Flota cual
+mariposa, pica cual abeja.
+--- BLOCK ---
+Armadura de pierna de
+partes de insecto. Hasta
+la élite las venera.
+--- BLOCK ---
+Armadura de pierna de
+calabazas. ¡Cuidado, que
+nadie se la coma!
+--- BLOCK ---
+Armadura de pierna de
+calabazas. Permite
+presentir el peligro.
+--- BLOCK ---
+Armadura de pierna de restos
+de un artefacto desenterrado
+que contuvo engranajes.
+--- BLOCK ---
+Armadura de pierna de restos
+de un artefacto desenterrado
+que parece pierna mecánica.
+--- BLOCK ---
+Armadura de piernas de 
+escamas duras de Lagiacrus.
+Saca habilidades latentes.
+--- BLOCK ---
+Armadura de piernas hecha de
+escamas duras de Lagiacrus.
+Aviva los sentidos.
+--- BLOCK ---
+Armadura de pierna de hueso
+de Lagiacrus marmóreo.
+Brilla con un tono morado.
+--- BLOCK ---
+Armadura de pierna de hueso
+de Lagiacrus marmóreo. Para
+cazar bajo el agua.
+--- BLOCK ---
+Armadura de piernas de 
+Rathalos. Recuerda a un
+wyvern bailando en el cielo.
+--- BLOCK ---
+Armadura para piernas del 
+rey de los cielos. Ni todas
+las llamas la quemarían.
+--- BLOCK ---
+Armadura de pierna del
+wyvern volador celeste. Se
+confunde de noche.
+--- BLOCK ---
+Armadura de pierna que
+evoca al rey del cielo.
+Todos sueñan con ella.
+--- BLOCK ---
+Armadura para piernas con 
+placas de Barioth. Permite
+andar sobre hielo resbaloso.
+--- BLOCK ---
+Calzas fortalecidas con 
+coraza de Barioth. Permite
+andar sobre el hielo.
+--- BLOCK ---
+Armadura de pierna con
+concha de Barioth arenoso.
+Evoca un tornado de arena.
+--- BLOCK ---
+Armadura de pierna con
+concha de Barioth arenoso.
+El poder de un tornado.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos. Su
+dureza es asombrosa.
+--- BLOCK ---
+Armadura de pierna de
+Diablos. Su diseño señala
+al auténtico guerrero.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos. Su
+dureza es asombrosa.
+--- BLOCK ---
+Armadura de pierna de
+Diablos. Su diseño señala
+al auténtico guerrero.
+--- BLOCK ---
+Armadura de piernas pesada
+de Uragaan. Pórtala para
+ser una fortaleza andante.
+--- BLOCK ---
+Armadura de piernas pesada 
+hecha de Uragaan. Precisa
+piernas musculosas.
+--- BLOCK ---
+Armadura de pierna pesada
+con partes de Uragaan
+acerado. Impenetrable.
+--- BLOCK ---
+Armadura de pierna pesada
+con partes de Uragaan
+acerado. Cuesta moverla.
+--- BLOCK ---
+Armadura de piernas de 
+Agnaktor. Un paso y quedarán
+restos de tierra quemada.
+--- BLOCK ---
+Armadura de piernas de 
+Agnaktor en la que reside el
+alma del caballero carmesí.
+--- BLOCK ---
+Armadura de pierna de
+partes de Agnaktor glacial.
+Como una descarga de aire.
+--- BLOCK ---
+Armadura de pierna de
+partes de Agnaktor glacial.
+Refleja la luz del sol.
+--- BLOCK ---
+Grebas llenas del poder 
+de la pata de Deviljho. Cada
+paso dejará un cráter.
+--- BLOCK ---
+Armadura para piernas 
+dotada con la fuerza 
+muscular del Deviljho.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria. Emana victoria.
+--- BLOCK ---
+Armadura celeste famosa
+por dar gloria al portador.
+Emite una fuerza abrumadora.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura para piernas de 
+oriente. Más poderosa de lo
+que uno se imaginaría.
+--- BLOCK ---
+Armadura para piernas hecha 
+de materiales de primera.
+Defiende y absorbe impactos.
+--- BLOCK ---
+Armadura de piernas teñida 
+con un diseño azul. Ejemplo
+de la artesanía oriental.
+--- BLOCK ---
+Armadura de piernas teñida 
+con un diseño azul. Ejemplo
+de la artesanía oriental.
+--- BLOCK ---
+Armadura abismal atrapaluz.
+Permanece oscura incluso
+bajo el sol de mediodía.
+--- BLOCK ---
+Armadura abismal atrapaluz.
+Cuentan que trae consigo
+oscuras catástrofes.
+--- BLOCK ---
+Armadura de pierna sin
+igual. Es como un rayo
+encarnado devastador.
+--- BLOCK ---
+Armadura de pierna de
+concha de Zinogre. Para
+luchar sin miedo alguno.
+--- BLOCK ---
+Armadura de pierna
+exoesquelética que puede
+despertar capacidades.
+--- BLOCK ---
+Armadura de pierna basada
+en el cuerpo humano.
+Mejora el rendimiento.
+--- BLOCK ---
+Armadura de pierna pesada.
+Una persona normal no
+podría caminar con ella.
+--- BLOCK ---
+Armadura de pierna de
+concha de Duramboros, una
+bestia que derriba árboles.
+--- BLOCK ---
+Grebas negras que parecen
+piernas de Nargacuga.
+Emanan un poder oscuro.
+--- BLOCK ---
+Armadura de pierna oscura.
+Ver moverse a su dueño
+por las sombras inquieta.
+--- BLOCK ---
+Armadura de pierna ajustada
+hecha con escamas de
+Plesioth. Es muy cómoda.
+--- BLOCK ---
+Armadura de pierna con
+escamas de Plesioth y
+aletas. Muy impermeable.
+--- BLOCK ---
+Armadura de pierna con la
+fuerza del Brachydios.
+Cada paso raja el suelo.
+--- BLOCK ---
+Armadura de pierna con la
+fuerza del Brachydios. Es
+ligera pero resistente.
+--- BLOCK ---
+Armadura de pierna para
+empleadas. Su sencillo pero
+elegante diseño es clásico.
+--- BLOCK ---
+Armadura de pierna para
+empleadas. Su aire elegante
+fue moda en la corte.
+--- BLOCK ---
+Equipo para soldado Loc Lac 
+oficial. Fabricado para ser
+ligero además de manejable.
+--- BLOCK ---
+Equipo para arquero Loc Lac
+oficial. No cabe destacar
+ningún fallo.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de pierna dorada
+que aprovecha la Piedra de
+fuego.
+--- BLOCK ---
+Armadura para piernas usada 
+por cazadores de élite. Caro
+aglomerado de mineral raro.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de insecto. Nueva,
+pero de excelente diseño.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de insecto. Rara
+y popular por su elegancia.
+--- BLOCK ---
+Armadura para piernas hecha
+de Rhenoplos. Usada a menudo
+en minería.
+--- BLOCK ---
+Armadura para piernas usada
+por mineros originalmente,
+pero útil para la caza.
+--- BLOCK ---
+Armadura para piernas de
+partes de Jaggi. Pensada
+para ser manejable.
+--- BLOCK ---
+Armadura para piernas de 
+partes de Jaggi. Hecha para
+enviar los golpes a tierra.
+--- BLOCK ---
+Armadura para piernas hecha
+de partes de Baggi. No se
+helará en lugares muy fríos.
+--- BLOCK ---
+Armadura de piernas de
+Baggi. El azul de la piel
+forma parte del diseño.
+--- BLOCK ---
+Peculiar armadura de pierna
+que se puso de moda. ¡Son
+tan buenas como parecen!
+--- BLOCK ---
+Armadura de pierna
+extranjera. A los herreros
+los asombra su diseño.
+--- BLOCK ---
+Armadura de pierna de
+partes de Arzuros. Para
+bosque y montaña.
+--- BLOCK ---
+Armadura de pierna de
+partes de Arzuros. Imita
+las patas delanteras.
+--- BLOCK ---
+Armadura de pierna forrada
+de piel de Lagombi. Su
+textura ayuda en el hielo.
+--- BLOCK ---
+Armadura de pierna cubierta
+de abrasivo. El diseño
+exótico es estupendo.
+--- BLOCK ---
+Armadura de pierna de
+concha de Volvidon. Encarna
+el espíritu de fuego.
+--- BLOCK ---
+Armadura de pierna carmesí
+para cazadores de una dura
+tierra de humo y llamas.
+--- BLOCK ---
+Armadura de pierna de
+partes de Qurupeco. Usa
+las mejores plumas.
+--- BLOCK ---
+Armadura de pierna de
+partes de Qurupeco. Usa
+plumas muy livianas.
+--- BLOCK ---
+Armadura de pierna de
+partes de Qurupeco carmesí.
+Usa las mejores plumas.
+--- BLOCK ---
+Armadura de pierna de
+partes de Qurupeco carmesí.
+Usa plumas muy livianas.
+--- BLOCK ---
+Armadura de pierna de
+partes de Ludroth real.
+Increíblemente absorbente.
+--- BLOCK ---
+Armadura de pierna de
+partes de Ludroth real.
+Todos alaban su elegancia.
+--- BLOCK ---
+Armadura de pierna de
+partes de Ludroth purpúreo.
+Increíblemente absorbente.
+--- BLOCK ---
+Armadura de pierna de
+partes de Ludroth purpúreo.
+Todos alaban su elegancia.
+--- BLOCK ---
+Armadura de pierna de
+placa de Barroth. Puede
+aplastar una roca.
+--- BLOCK ---
+Armadura de pierna de
+placa de Barroth. Mejora
+la estabilidad al disparar.
+--- BLOCK ---
+Armadura de pierna de
+placa de Barroth esmeralda.
+Puede aplastar una roca.
+--- BLOCK ---
+Armadura de pierna de
+placa de Barroth esmeralda.
+Más estabilidad de disparo.
+--- BLOCK ---
+Armadura de pierna de piel
+de Gobul. Recorre nieve y
+barro como si fuera firme.
+--- BLOCK ---
+Armadura de pierna de piel
+de Gobul. Mejora el agarre,
+incluso luchando en barro.
+--- BLOCK ---
+Armadura de pierna de
+concha de Rathalos.
+Mejora la estabilidad.
+--- BLOCK ---
+Armadura de pierna de
+concha de Rathalos.
+Evoca a un regio wyvern.
+--- BLOCK ---
+Armadura de pierna de
+concha de Rathalos celeste.
+Mejora la estabilidad.
+--- BLOCK ---
+Armadura de pierna de
+concha de Rathalos celeste.
+Evoca a un gran wyvern.
+--- BLOCK ---
+Elegante armadura de pierna
+con un rastro plateado.
+Nunca pierde el lustre.
+--- BLOCK ---
+Armadura de pierna de
+concha de wyvern plateado.
+La llama la reverencia.
+--- BLOCK ---
+Armadura de pierna de
+partes de Rathian. Mantiene
+la potencia de salto.
+--- BLOCK ---
+Armadura de pierna de
+partes de Rathian. Evoca
+los pies de la reina.
+--- BLOCK ---
+Armadura de pierna de
+partes de Rathian rosa, con
+toda la potencia de salto.
+--- BLOCK ---
+Armadura de pierna de
+partes de Rathian rosa.
+Evoca los pies de la reina.
+--- BLOCK ---
+Armadura de pierna que
+brilla como si absorbiera
+de luna. Arrebatadora.
+--- BLOCK ---
+Armadura de pierna que
+parece hecha de luna. Su
+belleza no tiene igual.
+--- BLOCK ---
+Armadura de pierna de hueso
+de Lagiacrus. Brilla con un
+tono morado.
+--- BLOCK ---
+Armadura de pierna de hueso
+de Lagiacrus. Para cazar
+bajo el agua.
+--- BLOCK ---
+Armadura de pierna de hueso
+de Lagiacrus marmóreo.
+Brilla con un tono morado.
+--- BLOCK ---
+Armadura de pierna de hueso
+de Lagiacrus marmóreo. Para
+cazar bajo el agua.
+--- BLOCK ---
+Armadura de pierna de
+Lagiacrus del abismo.
+Permite nadar sin problema.
+--- BLOCK ---
+Armadura de pierna de
+Lagiacrus del abismo.
+Permite nadar muy rápido.
+--- BLOCK ---
+Armadura de pierna de
+Gigginox que concentra la
+conciencia en un ritual.
+--- BLOCK ---
+Armadura de pierna de
+Gigginox que preserva el
+calor en climas nevados.
+--- BLOCK ---
+Armadura de pierna de
+Gigginox aterrador, útil
+durante un ritual.
+--- BLOCK ---
+Armadura de pierna de
+Gigginox aterrador que
+preserva el calor corporal.
+--- BLOCK ---
+Armadura de pierna de
+partes de Barioth.
+Amplifica la potencia.
+--- BLOCK ---
+Armadura de pierna de
+partes de Barioth. Tiene
+un aura noble.
+--- BLOCK ---
+Armadura de pierna de
+partes de Barioth arenoso.
+Amplifica la potencia.
+--- BLOCK ---
+Armadura de pierna de
+partes de Barioth arenoso.
+Tiene un aura noble.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos. Mejora
+la estabilidad.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos. Más
+estabilidad en mal terreno.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos negra.
+Más estabilidad y potencia.
+--- BLOCK ---
+Armadura de pierna de
+concha de Diablos negra.
+Estabilidad en mal terreno.
+--- BLOCK ---
+Prenda para las piernas de
+concha rocosa de Uragaan.
+Mejor movimiento en volcán.
+--- BLOCK ---
+Prenda para las piernas de
+concha rocosa de Uragaan.
+Anda por terreno volcánico.
+--- BLOCK ---
+Prenda de piernas de concha
+rocosa de Uragaan acerado.
+Mejor movimiento en volcán.
+--- BLOCK ---
+Prenda para las piernas de
+concha rocosa de Uragaan
+acerado. Para volcán.
+--- BLOCK ---
+Armadura de pierna de
+Agnaktor de lava. Para dar
+un paseo por el volcán.
+--- BLOCK ---
+Armadura de pierna de
+Agnaktor de lava. Se usa
+a menudo en la Arena.
+--- BLOCK ---
+Armadura de pierna de
+Agnaktor de hielo. Para dar
+un paseo por la tundra.
+--- BLOCK ---
+Armadura de pierna de
+Agnaktor de hielo. Se usa
+a menudo en la Arena.
+--- BLOCK ---
+Armadura de pierna de
+partes de Ceadeus divino.
+Equilibrio bajo el agua.
+--- BLOCK ---
+Armadura de pierna de
+partes de Ceadeus divino.
+Protege y permite moverse.
+--- BLOCK ---
+Armadura de pierna de
+Ceadeus barba dorada.
+Nada como un dragón anciano.
+--- BLOCK ---
+Armadura de pierna de
+Ceadeus barba dorada.
+Resiste a un dragón anciano.
+--- BLOCK ---
+Armadura de pierna de concha
+de gigante de la profundidad.
+Protege rodillas y tobillos.
+--- BLOCK ---
+Armadura de pierna de concha
+de gigante de la profundidad.
+Reduce fuerza de corrientes.
+--- BLOCK ---
+Armadura de pierna de
+Ceadeus barba dorada.
+Nada como un dragón anciano.
+--- BLOCK ---
+Armadura de pierna de
+Ceadeus barba dorada.
+Resiste a un dragón anciano.
+--- BLOCK ---
+Armadura de pierna de
+partes de Jhen Mohran.
+Protege de dragón anciano.
+--- BLOCK ---
+Armadura de pierna de
+partes de Jhen Mohran.
+Aporta gran estabilidad.
+--- BLOCK ---
+Armadura de pierna de
+partes de Jhen Mohran.
+Cubre como seda suave.
+--- BLOCK ---
+Armadura de pierna de
+partes de Jhen Mohran.
+Cubre como seda suave.
+--- BLOCK ---
+Armadura de pierna de Jhen
+Mohran sagrado. Para
+tormentas de arena.
+--- BLOCK ---
+Armadura de pierna de Jhen
+Mohran sagrado. Más
+equilibrio en ventiscas.
+--- BLOCK ---
+Armadura de pierna de Jhen
+Mohran sagrado. Para
+tormentas de arena.
+--- BLOCK ---
+Armadura de pierna de Jhen
+Mohran sagrado. Más
+equilibrio en ventiscas.
+--- BLOCK ---
+Armadura de pierna imbuida
+con la furia de un Deviljho.
+De noche se ensangrienta.
+--- BLOCK ---
+Armadura de pierna imbuida
+con voracidad de Deviljho.
+Artillería sin retroceso.
+--- BLOCK ---
+Armadura de pierna de
+partes de Alatreon. Más
+capacidad de salto.
+--- BLOCK ---
+Armadura de pierna de
+partes de Alatreon. Las
+escamas protegen bien.
+--- BLOCK ---
+Armadura de pierna de concha
+eléctrica de Zinogre. Corre
+como el rayo.
+--- BLOCK ---
+Armadura de pierna de concha
+eléctrica de Zinogre. Corre
+como el rayo.
+--- BLOCK ---
+Armadura de pierna de
+Zinogre estigio. Concede
+el salto de la bestia.
+--- BLOCK ---
+Armadura de pierna de
+Zinogre estigio. Fuerza de
+wyvern en las piernas.
+--- BLOCK ---
+Armadura de pierna
+exoesquelética mejorada
+que aumenta el sigilo.
+--- BLOCK ---
+Armadura de pierna
+exoesquelética mejorada
+que protege del calor.
+--- BLOCK ---
+Armadura de pierna hecha
+de partes de Duramboros.
+Resiste ataques feroces.
+--- BLOCK ---
+Armadura de pierna hecha
+de partes de Duramboros.
+Estabiliza para disparar.
+--- BLOCK ---
+Armadura de pierna de
+Duramboros herrumbroso.
+Ancla los pies en el suelo.
+--- BLOCK ---
+Armadura de pierna de
+Duramboros herrumbroso.
+Pisada siempre estable.
+--- BLOCK ---
+Grebas negras que parecen
+piernas de Nargacuga.
+Emanan un poder atrayente.
+--- BLOCK ---
+Armadura de pierna oscura.
+Ver moverse a su dueño
+por las sombras inquieta.
+--- BLOCK ---
+Grebas que parecen piernas
+de Nargacuga verdoso. Emanan
+un poder oscuro.
+--- BLOCK ---
+Armadura de pierna oscura.
+Ver moverse a su dueño
+por las sombras inquieta.
+--- BLOCK ---
+Armadura de pierna de
+Nargacuga lunar. Silencia
+los pasos del dueño.
+--- BLOCK ---
+Armadura de pierna de
+Nargacuga lunar. Surca
+praderas en silencio.
+--- BLOCK ---
+Armadura de pierna ajustada
+hecha con escamas de
+Plesioth. Es muy cómoda.
+--- BLOCK ---
+Armadura de pierna con
+escamas de Plesioth y
+aletas. Muy impermeable.
+--- BLOCK ---
+Armadura de pierna ajustada
+hecha con escamas de
+Plesioth. Es muy cómoda.
+--- BLOCK ---
+Armadura de pierna con
+escamas de Plesioth y
+aletas. Muy impermeable.
+--- BLOCK ---
+Armadura de pierna con la
+fuerza del Brachydios. Cada
+paso resquebraja el suelo.
+--- BLOCK ---
+Armadura de pierna con la
+fuerza del Brachydios.
+Es ligera pero resistente.
+--- BLOCK ---
+Armadura de pierna de
+asesino de Miralis funesto,
+señor del averno.
+--- BLOCK ---
+Armadura de pierna de
+asesino de Miralis funesto,
+señor del averno.
+--- BLOCK ---
+Armadura celeste famosa por 
+llevar a su portador a la
+gloria. Emana victoria.
+--- BLOCK ---
+Armadura celeste famosa
+por dar gloria al portador.
+Emite una fuerza abrumadora.
+--- BLOCK ---
+Armadura de pierna de
+huesos negros, con una gran
+resistencia a dragón.
+--- BLOCK ---
+Armadura de piernas de 
+huesos negros desconocidos.
+Despiertan deseos de caza.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Armadura de pierna de
+insecto. ¡De rodillas ante
+el campeón!
+--- BLOCK ---
+Armadura de pierna de
+insecto. Cada paso es un
+salto para los insectos.
+--- BLOCK ---
+Armadura de pierna de
+insectos. Flota cual
+mariposa, pica cual abeja.
+--- BLOCK ---
+Armadura de pierna de
+partes de insecto. Hasta
+la élite las venera.
+--- BLOCK ---
+Armadura de pierna de
+calabazas. ¡Cuidado, que
+nadie se la coma!
+--- BLOCK ---
+Armadura de pierna de
+calabazas. Permite
+presentir el peligro.
+--- BLOCK ---
+Armadura de pierna de restos
+de un artefacto desenterrado
+que contuvo engranajes.
+--- BLOCK ---
+Armadura de pierna de restos
+de un artefacto desenterrado
+que parece pierna mecánica.
+--- BLOCK ---
+Armadura de pierna para
+empleadas. Su sencillo pero
+elegante diseño es clásico.
+--- BLOCK ---
+Armadura de pierna para
+empleadas. Su aire elegante
+fue moda en la corte.
+--- BLOCK ---
+Equipo oficial de montaraz
+Loc Lac. Ligera y
+maniobrable.
+--- BLOCK ---
+Equipo oficial de tirador
+Loc Lac. Sin defectos
+reseñables.
+--- BLOCK ---
+Armadura para piernas usada
+por caballeros extranjeros.
+Llena de honor caballeresco.
+--- BLOCK ---
+Armadura para piernas usada
+por caballeros extranjeros.
+Parte del uniforme oficial.
+--- BLOCK ---
+Prenda para las piernas
+usada por empleadas del
+Gremio. Correcta y formal.
+--- BLOCK ---
+Sandalias usadas mucho por
+empleadas del Gremio, que
+parecen tener muchos pares.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Prenda resistente al agua de
+piernas usada por empleadas
+del Gremio de Tanzia.
+--- BLOCK ---
+Sandalias de empleada
+del Gremio de Tanzia.
+¡Sorprendentemente cómodas!
+--- BLOCK ---
+Tobillera perteneciente a 
+sabio con poderes. Capaz de
+adaptarse a cualquier poder.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Perneras salvajes de alma 
+rockera. Buenas para mostrar
+unas piernas curtidas.
+--- BLOCK ---
+Pantalones salvajes de alma 
+rockera. Buenas para mostrar
+unas piernas curtidas.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

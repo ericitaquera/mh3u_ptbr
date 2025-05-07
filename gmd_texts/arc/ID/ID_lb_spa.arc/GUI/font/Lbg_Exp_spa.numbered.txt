@@ -1,0 +1,388 @@
+﻿TMSG_LBG_EXP
+--- BLOCK [001] ---
+(Nada equipado.)
+--- BLOCK [002] ---
+Ballesta ligera para presas
+pequeñas. Gran capacidad de
+disparos de perdigón Nv1.
+--- BLOCK [003] ---
+Arma de disparos de perdigón
+Nv1 rápidos, eficaz contra
+monstruos pequeños.
+--- BLOCK [004] ---
+Arma de disparos de perdigón
+Nv1 rápidos, eficaz contra
+monstruos pequeños.
+--- BLOCK [005] ---
+Ballesta ligera de cazadores
+expertos. Sencilla, pero
+potente.
+--- BLOCK [006] ---
+Ballesta ligera de cazadores
+expertos. Sencilla, pero
+potente.
+--- BLOCK [007] ---
+Ballesta ligera de cazadores
+expertos. Sencilla, pero
+potente.
+--- BLOCK [008] ---
+Ballesta ligera de concha de
+Barroth. Disparos potentes,
+pero con poca puntería.
+--- BLOCK [009] ---
+Ballesta ligera de concha de
+Barroth. Disparos potentes,
+pero con poca puntería.
+--- BLOCK [010] ---
+Ballesta ligera de concha de
+Barroth. Disparos potentes,
+pero con poca puntería.
+--- BLOCK [011] ---
+Ballesta ligera como Barroth
+esmeralda. Un refrigerador
+permite mayor potencia.
+--- BLOCK [012] ---
+Ballesta ligera como Barroth
+esmeralda. Un refrigerador
+permite mayor potencia.
+--- BLOCK [013] ---
+Ballesta ligera como Barroth
+esmeralda. El cuerpo de
+hielo le da fuerza extrema.
+--- BLOCK [014] ---
+Ballesta ligera como Barroth
+esmeralda. El cuerpo de
+hielo le da fuerza extrema.
+--- BLOCK [015] ---
+Ballesta ligera de armadura
+de Brachydios. La baba tiene
+un brillo inquietante.
+--- BLOCK [016] ---
+Ballesta ligera de armadura
+de Brachydios. La baba tiene
+un brillo inquietante.
+--- BLOCK [017] ---
+Arma con el carácter
+explosivo de un Brachydios.
+Su luz insinúa gran poder.
+--- BLOCK [018] ---
+Arma con el carácter
+explosivo de un Brachydios.
+Su luz insinúa gran poder.
+--- BLOCK [019] ---
+Ballesta ligera de partes de
+Gran Jaggi. Diseñada contra
+monstruos grandes.
+--- BLOCK [020] ---
+Ballesta ligera de partes de
+Gran Jaggi. Diseñada contra
+monstruos grandes.
+--- BLOCK [021] ---
+Ballesta ligera de partes
+de Gran Jaggi. Calma a
+las presas hasta dormirlas.
+--- BLOCK [022] ---
+Arma de las mejores partes
+de un Gran Jaggi. Como
+la bestia, aporrea enemigos.
+--- BLOCK [023] ---
+Ballesta ligera de material
+esponjoso. Combina con
+disparos de agua.
+--- BLOCK [024] ---
+Ballesta ligera de material
+esponjoso. Combina con
+disparos de agua.
+--- BLOCK [025] ---
+Ballesta ligera de material
+esponjoso. Combina con
+disparos de agua.
+--- BLOCK [026] ---
+Ballesta ligera para muchos
+tipos de munición. También
+realiza disparos de agua.
+--- BLOCK [027] ---
+Ballesta ligera para muchos
+tipos de munición. También
+realiza disparos de agua.
+--- BLOCK [028] ---
+Ballesta ligera para muchos
+tipos de munición. También
+realiza disparos de agua.
+--- BLOCK [029] ---
+Ballesta versátil para
+varios tipos de munición.
+Útil en cualquier situación.
+--- BLOCK [030] ---
+Ballesta ligera poderosa y 
+versátil. Tiene la fuerza
+de una fiera tormenta.
+--- BLOCK [031] ---
+Ballesta ligera de partes de
+Gobul. El farol ayuda a
+apuntar con precisión.
+--- BLOCK [032] ---
+Ballesta ligera de partes de
+Gobul. El farol ayuda a
+apuntar con precisión.
+--- BLOCK [033] ---
+Ballesta ligera de partes de
+Gobul. El farol ayuda a
+apuntar con precisión.
+--- BLOCK [034] ---
+Ballesta ligera de bestias
+de río. Con disparos
+paralizantes que aturden.
+--- BLOCK [035] ---
+Ballesta ligera de bestias
+de río. Con disparos
+paralizantes que aturden.
+--- BLOCK [036] ---
+Misteriosa arma explosiva de
+partes extrañas. Produce un
+raro chasquido al cargarla.
+--- BLOCK [037] ---
+Misteriosa arma explosiva de
+partes extrañas. Produce un
+raro chasquido al cargarla.
+--- BLOCK [038] ---
+Ballesta siniestra de partes
+de Gigginox. Saborea el
+cuerpo y alma de enemigos.
+--- BLOCK [039] ---
+Ballesta ligera poseída por
+almas de muertos vivientes.
+Se lleva a los vivos.
+--- BLOCK [040] ---
+Ballesta ligera poseída por
+almas de muertos vivientes.
+Se lleva a los vivos.
+--- BLOCK [041] ---
+Arma de Gigginox aterrador
+con almas de muertos. Sus
+disparos son paralizantes.
+--- BLOCK [042] ---
+Arma de Gigginox aterrador
+con almas de muertos. Sus
+disparos son paralizantes.
+--- BLOCK [043] ---
+Arma de Gigginox aterrador
+con furia de muertos. Amargo
+final para los enemigos.
+--- BLOCK [044] ---
+Arma de Gigginox aterrador
+con furia de muertos. Amargo
+final para los enemigos.
+--- BLOCK [045] ---
+Ballesta blanca de partes de
+Barioth. Realiza rápidos
+disparos congelantes.
+--- BLOCK [046] ---
+Ballesta blanca de partes de
+Barioth. Realiza rápidos
+disparos congelantes.
+--- BLOCK [047] ---
+Ballesta con el poder de
+un Barioth. Sus balas de
+hielo producen ventiscas.
+--- BLOCK [048] ---
+Ballesta ligera con el poder
+de una tormenta de arena.
+Inicia una era de hielo.
+--- BLOCK [049] ---
+Ballesta ligera con el poder
+de una tormenta de arena.
+Inicia una era de hielo.
+--- BLOCK [050] ---
+Ballesta ligera elegante de
+Rathian. Sus perdigones
+matan en nombre de la reina.
+--- BLOCK [051] ---
+Ballesta ligera elegante de
+Rathian. Sus perdigones
+matan en nombre de la reina.
+--- BLOCK [052] ---
+Ballesta ligera elegante de
+Rathian. Sus perdigones
+matan en nombre de la reina.
+--- BLOCK [053] ---
+Ballesta ligera que
+concentra fuego en un solo
+punto. Pequeña, pero fuerte.
+--- BLOCK [054] ---
+Ballesta ligera que
+concentra fuego en un solo
+punto. Pequeña, pero fuerte.
+--- BLOCK [055] ---
+Ballesta brillante de wyvern
+rey. Los enemigos no tienen
+dónde esconderse.
+--- BLOCK [056] ---
+Ballesta de ébano, negra
+como la noche. Dos cañones
+acechan en la oscuridad.
+--- BLOCK [057] ---
+Ballesta doble que se pierde
+en la noche. Quien la ve
+encontrará la muerte.
+--- BLOCK [058] ---
+Ballesta fuerte que rige
+el ocaso. Oye susurrar
+a los enemigos.
+--- BLOCK [059] ---
+Ballesta fuerte que rige
+el ocaso. Oye susurrar
+a los enemigos.
+--- BLOCK [060] ---
+Ballesta que alumbra con
+sus disparos. Roba la vida
+de caminantes nocturnos.
+--- BLOCK [061] ---
+Ballesta ligera de partes de
+Lagiacrus. Con electricidad
+de alto voltaje.
+--- BLOCK [062] ---
+Ballesta ligera de partes de
+Lagiacrus. Con electricidad
+de alto voltaje.
+--- BLOCK [063] ---
+Ballesta ligera de partes de
+Lagiacrus. Con electricidad
+de alto voltaje.
+--- BLOCK [064] ---
+Ballesta de un Lagiacrus
+marmóreo. Con disparos
+de trueno abrasadores.
+--- BLOCK [065] ---
+Ballesta de un Lagiacrus
+marmóreo. Con disparos
+de trueno abrasadores.
+--- BLOCK [066] ---
+Ballesta con disparos de
+llama que queman en
+nombre del rey del cielo.
+--- BLOCK [067] ---
+Ballesta con disparos de
+llama que queman en
+nombre del rey del cielo.
+--- BLOCK [068] ---
+Ballesta ligera con el poder
+de un Rathalos. Su cólera
+consume con un fuego atroz.
+--- BLOCK [069] ---
+Ballesta con el alma de un
+Rathalos celeste. Hasta los
+dioses se postran ante ella.
+--- BLOCK [070] ---
+Ballesta con el alma de un
+Rathalos celeste. Hasta los
+dioses se postran ante ella.
+--- BLOCK [071] ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK [072] ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK [073] ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK [074] ---
+Ballesta con instintos de un
+monarca. Los disparos marcan
+el inicio de la caza real.
+--- BLOCK [075] ---
+Arma con furia de Lagiacrus
+del abismo. Sus disparos de
+trueno impactan cual rayo.
+--- BLOCK [076] ---
+Ballesta que lanza rayos
+rojos. Su rugido invoca
+el infierno.
+--- BLOCK [077] ---
+Ballesta de Duramboros.
+Sus disparos de fatiga Nv1
+debilitan la Resistencia.
+--- BLOCK [078] ---
+Ballesta de Duramboros.
+Sus disparos de fatiga Nv1
+debilitan la Resistencia.
+--- BLOCK [079] ---
+Ballesta que recuerda a un
+Duramboros. Lanza ataques
+fuertes como la bestia.
+--- BLOCK [080] ---
+Ballesta con el poder de un
+Duramboros herrumbroso.
+Destruye cielo y tierra.
+--- BLOCK [081] ---
+Ballesta con el poder de un
+Duramboros herrumbroso.
+Destruye cielo y tierra.
+--- BLOCK [082] ---
+Ballesta aterradora que
+según cuentan fue creada
+en un oscuro taller.
+--- BLOCK [083] ---
+Ballesta aterradora que
+según cuentan fue creada
+en un oscuro taller.
+--- BLOCK [084] ---
+Ballesta ligera pulida con
+sangre de Deviljho. Te
+persigue hasta la tumba.
+--- BLOCK [085] ---
+Ballesta ligera pulida con
+sangre de Deviljho. Te
+persigue hasta la tumba.
+--- BLOCK [086] ---
+Ballesta ligera de diseño
+diferente al del Gremio.
+Excepcional rendimiento.
+--- BLOCK [087] ---
+Ballesta ligera de diseño
+diferente al del Gremio.
+Excepcional rendimiento.
+--- BLOCK [088] ---
+Ballesta de una tetera que
+contiene un Felyne. El Fuego
+rápido lo hace salir.
+--- BLOCK [089] ---
+¿Ballesta o bastión de
+un Felyne? Deja Vid Felyne
+en el Gremio para pagarle.
+--- BLOCK [090] ---
+¿Ballesta o bastión de
+un Felyne? Deja Vid Felyne
+en el Gremio para pagarle.
+--- BLOCK [091] ---
+Ballesta misteriosa de
+la antigüedad. Diferente
+a todo lo del Gremio.
+--- BLOCK [092] ---
+Ballesta misteriosa de
+la antigüedad. Diferente
+a todo lo del Gremio.
+--- BLOCK [093] ---
+Ballesta misteriosa de
+la antigüedad. Diferente
+a todo lo del Gremio.
+--- BLOCK [094] ---
+Ballesta de un souvenir de
+una aldea cercana a las
+Cumbres borrascosas.
+--- BLOCK [095] ---
+Ballesta de un souvenir de
+una aldea cercana a las
+Cumbres borrascosas.
+--- BLOCK [096] ---
+Ballesta ligera mejorada muy
+demandada. Increíble que se
+vendiera como baratija.
+--- BLOCK [097] ---
+Arma que juzga a hombres y
+dioses. Un disparo lo sume
+todo en llamas y tinieblas.
+--- BLOCK [098] ---
