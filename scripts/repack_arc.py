@@ -99,7 +99,7 @@ def validate_properties_entries(entries, file_set):
         sys.exit(1)
 
 def write_binary_files(base_name, entries, dir_path):
-    output_dir = "C:\\temp"
+    output_dir = "$env:BASE_DIR"
     header_path = os.path.join(output_dir, f"{base_name}.header.bin")
     data_path = os.path.join(output_dir, f"{base_name}.data.bin")
     final_path = os.path.join(output_dir, f"{base_name}")
