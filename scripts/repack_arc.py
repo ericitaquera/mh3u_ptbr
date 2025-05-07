@@ -76,7 +76,7 @@ def validate_properties_entries(entries, file_set):
 
     for entry in entries:
         basename = os.path.basename(entry['fullpath'])
-        print(entry)
+        #print(entry)
         expected_basenames.add(basename)
         match = next((p for p in file_set if os.path.basename(p) == basename), None)
         if match:
@@ -157,14 +157,14 @@ def write_binary_files(base_name, entries, dir_path):
                 data_file.write(comp_data)
                 data_offset += len(comp_data)
                 expected = entry['comp_size']
-                if comp_size != expected:
-                    print(f"⚠️  COMP size mismatch for {entry['fullpath']}: expected {expected}, got {comp_size}")
+                #if comp_size != expected:
+                    #print(f"⚠️  COMP size mismatch for {entry['fullpath']}: expected {expected}, got {comp_size}")
                 header_file.write(struct.pack('<I', entry['comp_size']))
                 raw_field = len(raw_data)
                 header_file.write(struct.pack('<I', raw_field | 0x40000000))
                 header_file.write(struct.pack('<I', current_offset))
 
-                print(f"[{index+1:04}/{len(entries):04}] {entry['fullpath'].replace('/', '\\')} | RAW: {len(raw_data)} | COMP: {comp_size} | OFFSET: 0x{data_offset:08X}")
+                #print(f"[{index+1:04}/{len(entries):04}] {entry['fullpath'].replace('/', '\\')} | RAW: {len(raw_data)} | COMP: {comp_size} | OFFSET: 0x{data_offset:08X}")
 
             # Pad header to reach offset 0x8000
             current_pos = header_file.tell()

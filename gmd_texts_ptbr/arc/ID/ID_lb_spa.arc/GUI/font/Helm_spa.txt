@@ -2,11 +2,11 @@ TMSG_HELM
 --- BLOCK ---
 (Nada)
 --- BLOCK ---
-Capuz de couro
+Elmo de couro
 --- BLOCK ---
 Máscara de piscina
 --- BLOCK ---
-Capuz de malha
+Elmo de malha
 --- BLOCK ---
 Capacete de caçador
 --- BLOCK ---
@@ -386,7 +386,7 @@ Capuz floral
 --- BLOCK ---
 Capuz sino
 --- BLOCK ---
-Cobertura de Cabeça Soldado
+Elmo Soldado
 --- BLOCK ---
 Turbante de Arqueiro
 --- BLOCK ---
@@ -428,7 +428,7 @@ Touca Rhenoplos X
 --- BLOCK ---
 Capuz Slagtoth X
 --- BLOCK ---
-Capuz Slagtoth X
+Elmo Slagtoth X
 --- BLOCK ---
 Capacete Jaggi X
 --- BLOCK ---
@@ -670,11 +670,11 @@ Visera de Mosgharl X
 --- BLOCK ---
 Ala de Mosgharl X
 --- BLOCK ---
-Capuchón floral
+Touca floral
 --- BLOCK ---
-Capuchón campanilla
+Touca campanilla
 --- BLOCK ---
-Cubrecabeza montaraz
+Elmo montaraz
 --- BLOCK ---
 Turbante de tirador
 --- BLOCK ---

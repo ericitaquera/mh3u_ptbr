@@ -58,7 +58,7 @@ def main():
     search_string = sys.argv[1]
     directory = get_target_directory()
 
-    if not directory or not os.path.isdir(directory):
+    if not "directory" or not os.path.isdir(directory):
         print(f"❌ Invalid directory: {directory}")
         sys.exit(1)
 

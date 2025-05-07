@@ -2539,7 +2539,7 @@ Conexão perdida.
 --- BLOCK ---
 Pressione o botão A.
 --- BLOCK ---
-Passando pela porta multiplayer.
+Passando pela porto multijogador.
 Se o console for
 fechado, você será desconectado.
 --- BLOCK ---

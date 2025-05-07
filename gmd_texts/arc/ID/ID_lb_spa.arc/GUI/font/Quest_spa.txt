@@ -1,0 +1,433 @@
+﻿TMSG_QUESTINFO
+--- BLOCK ---
+TMSG_RETURN
+--- BLOCK ---
+TMSG_QUESTSPCONDITION
+--- BLOCK ---
+TMSG_CAMPMENU
+--- BLOCK ---
+TMSG_PIPEHAMMER
+--- BLOCK ---
+TMSG_PIPENOTE
+--- BLOCK ---
+TMSG_DANCE
+--- BLOCK ---
+TMSG_PROVIDE
+--- BLOCK ---
+TMSG_REWARD
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Vuelves al puerto en 20 segundos.
+--- BLOCK ---
+Vuelves a la aldea en 20 segundos.
+--- BLOCK ---
+Vuelves al puerto en 1 minuto.
+--- BLOCK ---
+Vuelves a la aldea en 1 minuto.
+--- BLOCK ---
+Tiempo restante: %d min
+--- BLOCK ---
+Tiempo límite: %d min
+--- BLOCK ---
+¡Se acabó el tiempo!
+--- BLOCK ---
+Recompensa reducida en %d z.
+--- BLOCK ---
+Recompensa reducida a 0 z.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Misión completada!
+--- BLOCK ---
+Misión fallida...
+--- BLOCK ---
+Misión abandonada.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Te has desmayado.
+--- BLOCK ---
+Regresando al campamento...
+--- BLOCK ---
+No se puede restaurar más.
+--- BLOCK ---
+Suministros entregados.
+--- BLOCK ---
+Devolviendo suministros.
+--- BLOCK ---
+Has entregado: "%s"
+--- BLOCK ---
+¡Objetivo completado!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+%2d/%2d
+--- BLOCK ---
+--/--
+--- BLOCK ---
+Objetos enviados a la Caja evaluación para tasación.
+--- BLOCK ---
+Objetos de cuenta convertidos a %d puntos de Recursos.
+--- BLOCK ---
+¡Cazadragones destruido!
+--- BLOCK ---
+Monstruos rechazados.
+--- BLOCK ---
+El dragón anciano se marchó herido.
+--- BLOCK ---
+¡No has derrotado al dragón anciano!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+%s ha abandonado la partida.
+--- BLOCK ---
+¡%d monstruo(s) restante(s)!
+--- BLOCK ---
+¡%d monstruo(s) restante(s)!
+--- BLOCK ---
+Retirándote temporalmente...
+--- BLOCK ---
+Volver a la aldea
+--- BLOCK ---
+A la granja
+--- BLOCK ---
+Ninguna.
+--- BLOCK ---
+Debes ser RC 1 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 2 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 3 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 4 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 5 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 6 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 7 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 8 o superior
+para iniciarla/unirte.
+--- BLOCK ---
+Debes ser RC 3 o superior
+para unirte. Part. máx.: 1
+--- BLOCK ---
+Debes ser RC 6 o superior
+para unirte. Part. máx.: 1
+--- BLOCK ---
+Debes ser RC 8 o superior
+para unirte. Part. máx.: 1
+--- BLOCK ---
+Debes ser RC 3 o superior
+para unirte. Part. máx.: 2
+--- BLOCK ---
+Debes ser RC 6 o superior
+para unirte. Part. máx.: 2
+--- BLOCK ---
+Debes ser RC 8 o superior
+para unirte. Part. máx.: 2
+--- BLOCK ---
+Debes ser RC 3 o superior
+para unirte. Part. máx.: 4
+--- BLOCK ---
+Debes ser RC 6 o superior
+para unirte. Part. máx.: 4
+--- BLOCK ---
+Debes ser RC 8 o superior
+para unirte. Part. máx.: 4
+--- BLOCK ---
+Sin talismanes ni armadura
+para iniciarla o unirte.
+--- BLOCK ---
+Debes ser RC 3 o más para
+unirte. Sin armad./talism.
+--- BLOCK ---
+Debes ser RC 6 o más para
+unirte. Sin armad./talism.
+--- BLOCK ---
+Debes llevar a Cha-Cha y
+Kayamba.
+--- BLOCK ---
+Debes llevar a Cha-Cha y
+Kayamba.
+--- BLOCK ---
+Con Kayamba con Máscara
+funesta y con Cha-Cha.
+--- BLOCK ---
+Con Kayamba con Máscara
+funesta y con Cha-Cha.
+--- BLOCK ---
+Sin restricciones de RC.
+Participantes máx.: 1
+--- BLOCK ---
+Sin restricciones de RC.
+Participantes máx.: 2
+--- BLOCK ---
+Sin restricciones de RC.
+Participantes máx.: 4
+--- BLOCK ---
+Recom. Totales
+--- BLOCK ---
+Dinero dispon.
+--- BLOCK ---
+Entrega obj. cuenta
+--- BLOCK ---
+<COLO 00>: Acelera el movimiento
+--- BLOCK ---
+<COLO 00>: Evita que rechacen tus ataques
+--- BLOCK ---
+<COLO 00>: Potencia el Ataque (P)
+--- BLOCK ---
+<COLO 00>: Bonificación de potencia de Ataque
+--- BLOCK ---
+<COLO 00>: Potencia el Ataque (G)
+--- BLOCK ---
+<COLO 00>: Potencia la Defensa (P)
+--- BLOCK ---
+<COLO 00>: Bonificación de potencia de Defensa
+--- BLOCK ---
+<COLO 00>: Potencia la Defensa (G)
+--- BLOCK ---
+<COLO 00>: Potencia la Salud (P)
+--- BLOCK ---
+<COLO 00>: Potencia la Salud (M)
+--- BLOCK ---
+<COLO 00>: Potencia la Salud (G)
+--- BLOCK ---
+<COLO 00>: Reduce la presión del viento
+--- BLOCK ---
+<COLO 00>: Anula la presión del viento
+--- BLOCK ---
+<COLO 00>: Anula toda la presión del viento
+--- BLOCK ---
+<COLO 00>: Anula el uso de Resistencia (P)
+--- BLOCK ---
+<COLO 00>: Anula el uso de Resistencia (G)
+--- BLOCK ---
+<COLO 00>: Bonificación tiempo anulación Resistencia
+--- BLOCK ---
+<COLO 00>: Psíquica
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (SP)
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (P)
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (M)
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (G)
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (P) + Desodorante
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (M) + Desodorante
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (SP) + Antídoto
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (P) + Antídoto
+--- BLOCK ---
+<COLO 00>: Recuperación de Salud (M) + Antídoto
+--- BLOCK ---
+<COLO 00>: Mejora velocidad de recuperación (P)
+--- BLOCK ---
+<COLO 00>: Mejora velocidad de recuperación (G)
+--- BLOCK ---
+<COLO 00>: Protección para bucear
+--- BLOCK ---
+<COLO 00>: Anula el frío
+--- BLOCK ---
+<COLO 00>: Anula el calor
+--- BLOCK ---
+<COLO 00>: Protección para los oídos (P)
+--- BLOCK ---
+<COLO 00>: Protección para los oídos (G)
+--- BLOCK ---
+<COLO 00>: Anula aturdimiento
+--- BLOCK ---
+<COLO 00>: Anula parálisis
+--- BLOCK ---
+<COLO 00>: Resistencia ante temblores
+--- BLOCK ---
+<COLO 00>: Mejora los ataques elementales
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al fuego (P)
+--- BLOCK ---
+<COLO 00>: Bonificación mejora Resistencia al fuego
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al fuego (G)
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al agua (P)
+--- BLOCK ---
+<COLO 00>: Bonificación mejora Resistencia al agua
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al agua (G)
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al trueno (P)
+--- BLOCK ---
+<COLO 00>: Bonificación mejora Resistencia al trueno
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al trueno (G)
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al hielo (P)
+--- BLOCK ---
+<COLO 00>: Bonificación mejora Resistencia al hielo
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al hielo (G)
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al dragón (P)
+--- BLOCK ---
+<COLO 00>: Bonificación mejora Resistencia al dragón
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia al dragón (G)
+--- BLOCK ---
+<COLO 00>: Ondas sónicas
+--- BLOCK ---
+<COLO 00>: Bonificación mejora de ataques elementales
+--- BLOCK ---
+<COLO 00>: Aumenta la duración de la melodía
+--- BLOCK ---
+<COLO 00>: Protección anti bloqueo de ataques
+--- BLOCK ---
+<COLO 00>: Potencia Afinidad + recuperación Salud (SP)
+--- BLOCK ---
+<COLO 00>: Potencia Afinidad + recuperación Salud (P)
+--- BLOCK ---
+<COLO 00>: Bon. potencia Afinidad + recuper. Salud (SP)
+--- BLOCK ---
+<COLO 00>: Bon. potencia Afinidad + recuper. Salud (P)
+--- BLOCK ---
+<COLO 00>: Mejora los ataques de estados anormales
+--- BLOCK ---
+<COLO 00>: Bonific. mejora ataques estados anormales
+--- BLOCK ---
+<COLO 00>: Anula estados anormales
+--- BLOCK ---
+<COLO 00>: Mejora la Resistencia a la plaga
+--- BLOCK ---
+<COLO 00>: Bonificación mejora Resistencia a la plaga
+--- BLOCK ---
+<COLO 00>: Anula las plagas
+--- BLOCK ---
+<COLO 00>: Anula la nieve y el barro
+--- BLOCK ---
+<COLO 22>♪
+--- BLOCK ---
+<COLO 23>♪
+--- BLOCK ---
+<COLO 24>♪
+--- BLOCK ---
+<COLO 25>♪
+--- BLOCK ---
+<COLO 26>♪
+--- BLOCK ---
+<COLO 27>♪
+--- BLOCK ---
+<COLO 28>♪
+--- BLOCK ---
+<COLO 29>♪
+--- BLOCK ---
+<COLO 30>♪
+--- BLOCK ---
+: Potencia el Ataque (P)
+--- BLOCK ---
+: Potencia el Ataque (G)
+--- BLOCK ---
+: Bonificación de potencia de Ataque
+--- BLOCK ---
+: Potencia la Defensa (P)
+--- BLOCK ---
+: Potencia la Defensa (G)
+--- BLOCK ---
+: Bonificación de potencia de Defensa
+--- BLOCK ---
+: Antídoto
+--- BLOCK ---
+: Antídoto + recuperación de Salud
+--- BLOCK ---
+: Recuperación de Salud (P)
+--- BLOCK ---
+: Bonificación de recuperación de Salud
+--- BLOCK ---
+: Recuperación de Salud (G)
+--- BLOCK ---
+: Bonificación de recuperación de Salud
+--- BLOCK ---
+: Anula calor y frío
+--- BLOCK ---
+: Prolonga el efecto
+--- BLOCK ---
+: Anula el uso de Resistencia (P)
+--- BLOCK ---
+: Anula el uso de Resistencia (G)
+--- BLOCK ---
+: Anula la presión del viento y las corrientes (P)
+--- BLOCK ---
+: Anula la presión del viento y las corrientes (G)
+--- BLOCK ---
+: Mejora la Resistencia a la plaga
+--- BLOCK ---
+: Bonificación potencia de Resistencia a la plaga
+--- BLOCK ---
+: Mejora velocidad de recuperación (P)
+--- BLOCK ---
+: Mejora velocidad de recuperación (G)
+--- BLOCK ---
+: Protección para los oídos (P)
+--- BLOCK ---
+: Protección para los oídos (G)
+--- BLOCK ---
+: Prolonga el efecto de un objeto (P)
+--- BLOCK ---
+: Prolonga el efecto de un objeto (G)
+--- BLOCK ---
+: Mejora los ataques elementales
+--- BLOCK ---
+: Bonificación de potencia de ataques elementales
+--- BLOCK ---
+    
+--- BLOCK ---
+    
+--- BLOCK ---
+Caja sumin.
+--- BLOCK ---
+Tu bolsa está llena.
+--- BLOCK ---
+No puedes llevar
+más de ese objeto.
+--- BLOCK ---
+Selecciona los objetos que
+quieras recoger.
+--- BLOCK ---
+Caja de recompensa
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

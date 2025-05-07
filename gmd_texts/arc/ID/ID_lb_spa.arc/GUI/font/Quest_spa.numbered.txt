@@ -1,0 +1,433 @@
+﻿TMSG_QUESTINFO
+--- BLOCK [001] ---
+TMSG_RETURN
+--- BLOCK [002] ---
+TMSG_QUESTSPCONDITION
+--- BLOCK [003] ---
+TMSG_CAMPMENU
+--- BLOCK [004] ---
+TMSG_PIPEHAMMER
+--- BLOCK [005] ---
+TMSG_PIPENOTE
+--- BLOCK [006] ---
+TMSG_DANCE
+--- BLOCK [007] ---
+TMSG_PROVIDE
+--- BLOCK [008] ---
+TMSG_REWARD
+--- BLOCK [009] ---
+DUMMY
+--- BLOCK [010] ---
+DUMMY
+--- BLOCK [011] ---
+Vuelves al puerto en 20 segundos.
+--- BLOCK [012] ---
+Vuelves a la aldea en 20 segundos.
+--- BLOCK [013] ---
+Vuelves al puerto en 1 minuto.
+--- BLOCK [014] ---
+Vuelves a la aldea en 1 minuto.
+--- BLOCK [015] ---
+Tiempo restante: %d min
+--- BLOCK [016] ---
+Tiempo límite: %d min
+--- BLOCK [017] ---
+¡Se acabó el tiempo!
+--- BLOCK [018] ---
+Recompensa reducida en %d z.
+--- BLOCK [019] ---
+Recompensa reducida a 0 z.
+--- BLOCK [020] ---
+DUMMY
+--- BLOCK [021] ---
+DUMMY
+--- BLOCK [022] ---
+¡Misión completada!
+--- BLOCK [023] ---
+Misión fallida...
+--- BLOCK [024] ---
+Misión abandonada.
+--- BLOCK [025] ---
+DUMMY
+--- BLOCK [026] ---
+Te has desmayado.
+--- BLOCK [027] ---
+Regresando al campamento...
+--- BLOCK [028] ---
+No se puede restaurar más.
+--- BLOCK [029] ---
+Suministros entregados.
+--- BLOCK [030] ---
+Devolviendo suministros.
+--- BLOCK [031] ---
+Has entregado: "%s"
+--- BLOCK [032] ---
+¡Objetivo completado!
+--- BLOCK [033] ---
+DUMMY
+--- BLOCK [034] ---
+DUMMY
+--- BLOCK [035] ---
+%2d/%2d
+--- BLOCK [036] ---
+--/--
+--- BLOCK [037] ---
+Objetos enviados a la Caja evaluación para tasación.
+--- BLOCK [038] ---
+Objetos de cuenta convertidos a %d puntos de Recursos.
+--- BLOCK [039] ---
+¡Cazadragones destruido!
+--- BLOCK [040] ---
+Monstruos rechazados.
+--- BLOCK [041] ---
+El dragón anciano se marchó herido.
+--- BLOCK [042] ---
+¡No has derrotado al dragón anciano!
+--- BLOCK [043] ---
+DUMMY
+--- BLOCK [044] ---
+DUMMY
+--- BLOCK [045] ---
+%s ha abandonado la partida.
+--- BLOCK [046] ---
+¡%d monstruo(s) restante(s)!
+--- BLOCK [047] ---
+¡%d monstruo(s) restante(s)!
+--- BLOCK [048] ---
+Retirándote temporalmente...
+--- BLOCK [049] ---
+Volver a la aldea
+--- BLOCK [050] ---
+A la granja
+--- BLOCK [051] ---
+Ninguna.
+--- BLOCK [052] ---
+Debes ser RC 1 o superior
+para iniciarla/unirte.
+--- BLOCK [053] ---
+Debes ser RC 2 o superior
+para iniciarla/unirte.
+--- BLOCK [054] ---
+Debes ser RC 3 o superior
+para iniciarla/unirte.
+--- BLOCK [055] ---
+Debes ser RC 4 o superior
+para iniciarla/unirte.
+--- BLOCK [056] ---
+Debes ser RC 5 o superior
+para iniciarla/unirte.
+--- BLOCK [057] ---
+Debes ser RC 6 o superior
+para iniciarla/unirte.
+--- BLOCK [058] ---
+Debes ser RC 7 o superior
+para iniciarla/unirte.
+--- BLOCK [059] ---
+Debes ser RC 8 o superior
+para iniciarla/unirte.
+--- BLOCK [060] ---
+Debes ser RC 3 o superior
+para unirte. Part. máx.: 1
+--- BLOCK [061] ---
+Debes ser RC 6 o superior
+para unirte. Part. máx.: 1
+--- BLOCK [062] ---
+Debes ser RC 8 o superior
+para unirte. Part. máx.: 1
+--- BLOCK [063] ---
+Debes ser RC 3 o superior
+para unirte. Part. máx.: 2
+--- BLOCK [064] ---
+Debes ser RC 6 o superior
+para unirte. Part. máx.: 2
+--- BLOCK [065] ---
+Debes ser RC 8 o superior
+para unirte. Part. máx.: 2
+--- BLOCK [066] ---
+Debes ser RC 3 o superior
+para unirte. Part. máx.: 4
+--- BLOCK [067] ---
+Debes ser RC 6 o superior
+para unirte. Part. máx.: 4
+--- BLOCK [068] ---
+Debes ser RC 8 o superior
+para unirte. Part. máx.: 4
+--- BLOCK [069] ---
+Sin talismanes ni armadura
+para iniciarla o unirte.
+--- BLOCK [070] ---
+Debes ser RC 3 o más para
+unirte. Sin armad./talism.
+--- BLOCK [071] ---
+Debes ser RC 6 o más para
+unirte. Sin armad./talism.
+--- BLOCK [072] ---
+Debes llevar a Cha-Cha y
+Kayamba.
+--- BLOCK [073] ---
+Debes llevar a Cha-Cha y
+Kayamba.
+--- BLOCK [074] ---
+Con Kayamba con Máscara
+funesta y con Cha-Cha.
+--- BLOCK [075] ---
+Con Kayamba con Máscara
+funesta y con Cha-Cha.
+--- BLOCK [076] ---
+Sin restricciones de RC.
+Participantes máx.: 1
+--- BLOCK [077] ---
+Sin restricciones de RC.
+Participantes máx.: 2
+--- BLOCK [078] ---
+Sin restricciones de RC.
+Participantes máx.: 4
+--- BLOCK [079] ---
+Recom. Totales
+--- BLOCK [080] ---
+Dinero dispon.
+--- BLOCK [081] ---
+Entrega obj. cuenta
+--- BLOCK [082] ---
+<COLO 00>: Acelera el movimiento
+--- BLOCK [083] ---
+<COLO 00>: Evita que rechacen tus ataques
+--- BLOCK [084] ---
+<COLO 00>: Potencia el Ataque (P)
+--- BLOCK [085] ---
+<COLO 00>: Bonificación de potencia de Ataque
+--- BLOCK [086] ---
+<COLO 00>: Potencia el Ataque (G)
+--- BLOCK [087] ---
+<COLO 00>: Potencia la Defensa (P)
+--- BLOCK [088] ---
+<COLO 00>: Bonificación de potencia de Defensa
+--- BLOCK [089] ---
+<COLO 00>: Potencia la Defensa (G)
+--- BLOCK [090] ---
+<COLO 00>: Potencia la Salud (P)
+--- BLOCK [091] ---
+<COLO 00>: Potencia la Salud (M)
+--- BLOCK [092] ---
+<COLO 00>: Potencia la Salud (G)
+--- BLOCK [093] ---
+<COLO 00>: Reduce la presión del viento
+--- BLOCK [094] ---
+<COLO 00>: Anula la presión del viento
+--- BLOCK [095] ---
+<COLO 00>: Anula toda la presión del viento
+--- BLOCK [096] ---
+<COLO 00>: Anula el uso de Resistencia (P)
+--- BLOCK [097] ---
+<COLO 00>: Anula el uso de Resistencia (G)
+--- BLOCK [098] ---
+<COLO 00>: Bonificación tiempo anulación Resistencia
+--- BLOCK [099] ---
+<COLO 00>: Psíquica
+--- BLOCK [100] ---
+<COLO 00>: Recuperación de Salud (SP)
+--- BLOCK [101] ---
+<COLO 00>: Recuperación de Salud (P)
+--- BLOCK [102] ---
+<COLO 00>: Recuperación de Salud (M)
+--- BLOCK [103] ---
+<COLO 00>: Recuperación de Salud (G)
+--- BLOCK [104] ---
+<COLO 00>: Recuperación de Salud (P) + Desodorante
+--- BLOCK [105] ---
+<COLO 00>: Recuperación de Salud (M) + Desodorante
+--- BLOCK [106] ---
+<COLO 00>: Recuperación de Salud (SP) + Antídoto
+--- BLOCK [107] ---
+<COLO 00>: Recuperación de Salud (P) + Antídoto
+--- BLOCK [108] ---
+<COLO 00>: Recuperación de Salud (M) + Antídoto
+--- BLOCK [109] ---
+<COLO 00>: Mejora velocidad de recuperación (P)
+--- BLOCK [110] ---
+<COLO 00>: Mejora velocidad de recuperación (G)
+--- BLOCK [111] ---
+<COLO 00>: Protección para bucear
+--- BLOCK [112] ---
+<COLO 00>: Anula el frío
+--- BLOCK [113] ---
+<COLO 00>: Anula el calor
+--- BLOCK [114] ---
+<COLO 00>: Protección para los oídos (P)
+--- BLOCK [115] ---
+<COLO 00>: Protección para los oídos (G)
+--- BLOCK [116] ---
+<COLO 00>: Anula aturdimiento
+--- BLOCK [117] ---
+<COLO 00>: Anula parálisis
+--- BLOCK [118] ---
+<COLO 00>: Resistencia ante temblores
+--- BLOCK [119] ---
+<COLO 00>: Mejora los ataques elementales
+--- BLOCK [120] ---
+<COLO 00>: Mejora la Resistencia al fuego (P)
+--- BLOCK [121] ---
+<COLO 00>: Bonificación mejora Resistencia al fuego
+--- BLOCK [122] ---
+<COLO 00>: Mejora la Resistencia al fuego (G)
+--- BLOCK [123] ---
+<COLO 00>: Mejora la Resistencia al agua (P)
+--- BLOCK [124] ---
+<COLO 00>: Bonificación mejora Resistencia al agua
+--- BLOCK [125] ---
+<COLO 00>: Mejora la Resistencia al agua (G)
+--- BLOCK [126] ---
+<COLO 00>: Mejora la Resistencia al trueno (P)
+--- BLOCK [127] ---
+<COLO 00>: Bonificación mejora Resistencia al trueno
+--- BLOCK [128] ---
+<COLO 00>: Mejora la Resistencia al trueno (G)
+--- BLOCK [129] ---
+<COLO 00>: Mejora la Resistencia al hielo (P)
+--- BLOCK [130] ---
+<COLO 00>: Bonificación mejora Resistencia al hielo
+--- BLOCK [131] ---
+<COLO 00>: Mejora la Resistencia al hielo (G)
+--- BLOCK [132] ---
+<COLO 00>: Mejora la Resistencia al dragón (P)
+--- BLOCK [133] ---
+<COLO 00>: Bonificación mejora Resistencia al dragón
+--- BLOCK [134] ---
+<COLO 00>: Mejora la Resistencia al dragón (G)
+--- BLOCK [135] ---
+<COLO 00>: Ondas sónicas
+--- BLOCK [136] ---
+<COLO 00>: Bonificación mejora de ataques elementales
+--- BLOCK [137] ---
+<COLO 00>: Aumenta la duración de la melodía
+--- BLOCK [138] ---
+<COLO 00>: Protección anti bloqueo de ataques
+--- BLOCK [139] ---
+<COLO 00>: Potencia Afinidad + recuperación Salud (SP)
+--- BLOCK [140] ---
+<COLO 00>: Potencia Afinidad + recuperación Salud (P)
+--- BLOCK [141] ---
+<COLO 00>: Bon. potencia Afinidad + recuper. Salud (SP)
+--- BLOCK [142] ---
+<COLO 00>: Bon. potencia Afinidad + recuper. Salud (P)
+--- BLOCK [143] ---
+<COLO 00>: Mejora los ataques de estados anormales
+--- BLOCK [144] ---
+<COLO 00>: Bonific. mejora ataques estados anormales
+--- BLOCK [145] ---
+<COLO 00>: Anula estados anormales
+--- BLOCK [146] ---
+<COLO 00>: Mejora la Resistencia a la plaga
+--- BLOCK [147] ---
+<COLO 00>: Bonificación mejora Resistencia a la plaga
+--- BLOCK [148] ---
+<COLO 00>: Anula las plagas
+--- BLOCK [149] ---
+<COLO 00>: Anula la nieve y el barro
+--- BLOCK [150] ---
+<COLO 22>♪
+--- BLOCK [151] ---
+<COLO 23>♪
+--- BLOCK [152] ---
+<COLO 24>♪
+--- BLOCK [153] ---
+<COLO 25>♪
+--- BLOCK [154] ---
+<COLO 26>♪
+--- BLOCK [155] ---
+<COLO 27>♪
+--- BLOCK [156] ---
+<COLO 28>♪
+--- BLOCK [157] ---
+<COLO 29>♪
+--- BLOCK [158] ---
+<COLO 30>♪
+--- BLOCK [159] ---
+: Potencia el Ataque (P)
+--- BLOCK [160] ---
+: Potencia el Ataque (G)
+--- BLOCK [161] ---
+: Bonificación de potencia de Ataque
+--- BLOCK [162] ---
+: Potencia la Defensa (P)
+--- BLOCK [163] ---
+: Potencia la Defensa (G)
+--- BLOCK [164] ---
+: Bonificación de potencia de Defensa
+--- BLOCK [165] ---
+: Antídoto
+--- BLOCK [166] ---
+: Antídoto + recuperación de Salud
+--- BLOCK [167] ---
+: Recuperación de Salud (P)
+--- BLOCK [168] ---
+: Bonificación de recuperación de Salud
+--- BLOCK [169] ---
+: Recuperación de Salud (G)
+--- BLOCK [170] ---
+: Bonificación de recuperación de Salud
+--- BLOCK [171] ---
+: Anula calor y frío
+--- BLOCK [172] ---
+: Prolonga el efecto
+--- BLOCK [173] ---
+: Anula el uso de Resistencia (P)
+--- BLOCK [174] ---
+: Anula el uso de Resistencia (G)
+--- BLOCK [175] ---
+: Anula la presión del viento y las corrientes (P)
+--- BLOCK [176] ---
+: Anula la presión del viento y las corrientes (G)
+--- BLOCK [177] ---
+: Mejora la Resistencia a la plaga
+--- BLOCK [178] ---
+: Bonificación potencia de Resistencia a la plaga
+--- BLOCK [179] ---
+: Mejora velocidad de recuperación (P)
+--- BLOCK [180] ---
+: Mejora velocidad de recuperación (G)
+--- BLOCK [181] ---
+: Protección para los oídos (P)
+--- BLOCK [182] ---
+: Protección para los oídos (G)
+--- BLOCK [183] ---
+: Prolonga el efecto de un objeto (P)
+--- BLOCK [184] ---
+: Prolonga el efecto de un objeto (G)
+--- BLOCK [185] ---
+: Mejora los ataques elementales
+--- BLOCK [186] ---
+: Bonificación de potencia de ataques elementales
+--- BLOCK [187] ---
+    
+--- BLOCK [188] ---
+    
+--- BLOCK [189] ---
+Caja sumin.
+--- BLOCK [190] ---
+Tu bolsa está llena.
+--- BLOCK [191] ---
+No puedes llevar
+más de ese objeto.
+--- BLOCK [192] ---
+Selecciona los objetos que
+quieras recoger.
+--- BLOCK [193] ---
+Caja de recompensa
+--- BLOCK [194] ---
+DUMMY
+--- BLOCK [195] ---
+DUMMY
+--- BLOCK [196] ---
+DUMMY
+--- BLOCK [197] ---
+DUMMY
+--- BLOCK [198] ---
+DUMMY
+--- BLOCK [199] ---
+DUMMY
+--- BLOCK [200] ---
+DUMMY
+--- BLOCK [201] ---
+DUMMY
+--- BLOCK [202] ---

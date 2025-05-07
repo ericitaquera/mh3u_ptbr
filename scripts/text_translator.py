@@ -124,7 +124,7 @@ def process_batch_output(batch, out_f, log_f):
 
         if len(translated_texts) != len(text_contents):
             log_output_stdout(f"Enviados: {len(text_contents)}", 3, log_f)
-            log_output_stdout(f"Enviados: {len(translated_texts)}", 3, log_f)
+            log_output_stdout(f"Recebidos: {len(translated_texts)}", 3, log_f)
             log_output_stdout("[ERROR] GPT response count mismatch.", 3, log_f)
             return
 

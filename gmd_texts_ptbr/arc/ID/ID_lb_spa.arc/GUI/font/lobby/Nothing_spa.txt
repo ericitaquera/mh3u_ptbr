@@ -1,0 +1,34 @@
+TMSG_NOTHING
+--- BLOCK ---
+Nada
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Sem pontos de hab.
+--- BLOCK ---
+Sem espaços.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Mensagem inválida.
+--- BLOCK ---
