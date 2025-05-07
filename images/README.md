@@ -31,7 +31,7 @@ Used for rendering **icon-style text labels** within the interface.
 * **Outline**: +2px, `#723f00` (brown)
 
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
-  <img src="td_icon_ID_spa.preview.png" alt="td_icon_ID_spa preview">
+  <img src="td_icon_ID_spa.preview.jpg" alt="td_icon_ID_spa preview">
 </div>
 
 ---
