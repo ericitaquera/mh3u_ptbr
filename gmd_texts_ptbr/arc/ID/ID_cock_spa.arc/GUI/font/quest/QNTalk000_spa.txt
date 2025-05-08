@@ -71,6 +71,6 @@ querer ficar doente, então terei que assar.
 --- BLOCK ---
 Vai lá, você volte para a vila.
 --- BLOCK ---
-Continuaremos falando do acampamento
-na vila, quando o churrasco acabar.
+Continuaremos falando do acampamento na
+vila, quando o churrasco acabar
 --- BLOCK ---

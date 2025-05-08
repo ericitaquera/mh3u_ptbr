@@ -45,8 +45,8 @@ def search_gmd_files(search_bytes, directory, search_string):
                             if txt_file:
                                 print(f"   → Translation found: {txt_file}")
                                 preview_txt_match(txt_file, search_string)
-                            else:
-                                print("   ⚠️  No Translation found.")
+                            #else:
+                                #print("   ⚠️  No Translation found.")
                 except Exception as e:
                     print(f"⚠️  Error reading {filepath}: {e}")
 
@@ -63,8 +63,9 @@ def main():
         sys.exit(1)
 
     search_bytes = get_search_bytes(search_string)
+    print(search_bytes)
+    #search_bytes=b'S\x47\x72\x61\x6E\x6A\x61\x00'
     #print(search_bytes)
-    #search_bytes=b'S\xc3\xad\x00'
     #input()
     print(f"🔍 Searching for UTF-8 bytes: {search_bytes.hex(' ').upper()}")
     search_gmd_files(search_bytes, directory, search_string)

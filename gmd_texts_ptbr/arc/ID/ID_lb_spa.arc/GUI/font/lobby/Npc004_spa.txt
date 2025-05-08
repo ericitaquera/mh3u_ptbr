@@ -68,46 +68,46 @@ longe enquanto trabalhamos!
 Ótimo. Vamos sair assim
 que tudo estiver preparado!
 --- BLOCK ---
-<SUBS 0> Quem me dera
-poder te mostrar o
+<SUBS 0>
+Quem me dera poder te mostrar o
 Clima de Moga, caçador.
 --- BLOCK ---
 Mas não consigo obter essa informação até
 que a floresta se acalme um pouco.
 --- BLOCK ---
-<SUBS 0> Quando vir um ícone
-com ? sobre sua cabeça, você
-está em uma área de coleta.
+<SUBS 0>
+Quando vir um ícone com ? sobre sua cabeça,
+você está em uma área de coleta.
 --- BLOCK ---
 Pressione o botão e coletará materiais.
 Use-os para fabricar equipamentos, combinar
 objetos... O que você quiser!
 --- BLOCK ---
-<SUBS 0> Os Jaggi temem
-o fogo. Os aldeões sempre
+<SUBS 0>
+Os Jaggi temem o fogo. Os aldeões sempre
 levam tochas para a floresta.
 --- BLOCK ---
 Se quiser fazer os Jaggi correrem,
 pegue uma Tocha debaixo do braseiro
 logo ao sair da vila.
 --- BLOCK ---
-As tochas que estão debaixo
-do braseiro lá fora são
-para os aldeões, mas...
+<SUBS 0>
+As tochas que estão debaixo do braseiro lá
+fora são para os aldeões, mas...
 --- BLOCK ---
 É muito perigoso trazê-las para a
 vila. Você quer colocar fogo nela?
 Só precisa lembrar onde as deixou.
 --- BLOCK ---
-Esses Bnahabra zumbidores
-são irritantes.
+<SUBS 0>
+Esses Bnahabra zumbidores são irritantes.
 --- BLOCK ---
-Sabia que eles são atraídos
-pelas chamas? Acenda uma Tocha
-e poderá esmagá-los facilmente.
+Sabia que eles são atraídos pelas chamas?
+Acenda uma Tocha e poderá
+esmagá-los facilmente.
 --- BLOCK ---
-Às vezes, é bom
-apenas dar uma volta
+<SUBS 0>
+Às vezes, é bom apenas dar uma volta
 pela floresta, sabe?
 --- BLOCK ---
 A Floresta de Moga é linda e o ar é muito
@@ -122,24 +122,24 @@ Não pode sair e voltar diretamente.
 Deve caçar por pelo menos dois
 minutos para que o tempo passe.
 --- BLOCK ---
-Já viu alguma
-vez um ponto
+<SUBS 0>
+Já viu alguma vez um ponto
 brilhante na floresta?
 --- BLOCK ---
 É um sinal certo de que há
 um item valioso sob o solo. Cave
 para extrair e traga para a cidade!
 --- BLOCK ---
-Os monstros se comportam
-de maneiras muito diferentes.
-Por exemplo, o Aptonoth...
+<SUBS 0>
+ Os monstros se comportam de maneiras
+ muito diferentes. Por exemplo, o Aptonoth...
 --- BLOCK ---
 Alguns fogem ao serem atacados.
 Outros protegem seus filhotes. Eles
 têm personalidades distintas. É fascinante.
 --- BLOCK ---
-Você encontrará os objetos
-que os monstros comem
+<SUBS 0> 
+Você encontrará os objetos que os monstros comem
 espalhados pelos campos.
 --- BLOCK ---
 Como carniça ou restos de
@@ -150,8 +150,8 @@ Os monstros grandes procuram comida para
 recuperar sua Resistência quando estão
 exaustos. Dica: evite que comam.
 --- BLOCK ---
-Se tiver sorte,
-poderá encontrar itens
+<SUBS 0>
+Se tiver sorte, poderá encontrar itens
 na floresta.
 --- BLOCK ---
 Como Peças de osso de
@@ -162,9 +162,9 @@ São difíceis de encontrar, mas
 valem muitos Recursos. Quando estiver
 na cidade, selecione Gerar recursos.
 --- BLOCK ---
-Se pensar bem, a
-floresta é como uma
-criatura gigante viva...
+<SUBS 0>
+Se pensar bem, a floresta é como
+uma criatura gigante viva...
 --- BLOCK ---
 Às vezes está calma e outras vezes está
 irritadiça. A floresta tem muitos estados.
@@ -174,9 +174,9 @@ A previsão do tempo serve para caçadas
 que não são do Gremio. As missões
 do Gremio têm seus horários e ambientes.
 --- BLOCK ---
-Uma vez me deparei com
-um Lagiacrus, quando estava em
-um barco no mar...
+<SUBS 0>
+Uma vez me deparei com um Lagiacrus,
+quando estava em um barco no mar...
 --- BLOCK ---
 Você é especial, caçador, por ir atrás
 dessa coisa. Você é incrivelmente
@@ -232,9 +232,9 @@ próxima vez que estiver na floresta.
 Ah, e vá levar um relatório para
 o meu pai, beleza? Ele adora relatórios.
 --- BLOCK ---
-<SUBS 0> Como está indo o
-jogo de coletar Recursos? Venha me
-ver quando tiver o suficiente.
+<SUBS 0>
+Como está indo o jogo de coletar Recursos?
+Venha me ver quando tiver o suficiente.
 --- BLOCK ---
 É assim que se entregam.
 Primeiro, transforme suas presas em
@@ -248,17 +248,17 @@ Os aldeões podem fazer outras
 solicitações no futuro. Você também
 usará Pedidos pob. para consultá-las.
 --- BLOCK ---
-O Artesão wyverniano estava
-te procurando. Disse algo
-sobre melhorias de armas...
+<SUBS 0>
+O Artesão wyverniano estava te procurando.
+Disse algo sobre melhorias de armas...
 --- BLOCK ---
 Vá vê-lo em sua bigorna, ok?
 Os artesãos mais velhos como ele
 merecem seu respeito. Obrigado, caçador.
 --- BLOCK ---
-Quer mineral? Que legal! Eu
-quase me machuquei procurando mineral
-para ele um dia.
+<SUBS 0>
+Quer mineral? Que legal! Eu quase me
+machuquei procurando mineral para ele um dia.
 --- BLOCK ---
 Siga os conselhos de Juni... digo, meus
 conselhos. Primeiro, sempre leve um Pico,
@@ -306,9 +306,9 @@ baixar, procure fornecimento de ar.
 Lembre-se dessas três coisas e
 nunca dormirá com os peixes.
 --- BLOCK ---
-Ouvi dizer que está indo para
-o mar. Que tal se antes
-tivermos algumas aulas de natação?
+<SUBS 0>
+Ouvi dizer que está indo para o mar. Que tal
+se antes tivermos algumas aulas de natação?
 --- BLOCK ---
 Nade na mesma direção para a qual está
 olhando e, quando seu indicador de oxigênio
@@ -327,9 +327,9 @@ tem uma mensagem para você.
 --- BLOCK ---
 É melhor você ir vê-la.
 --- BLOCK ---
-A reparação da base do
-acampamento está indo muito bem,
-graças a você, é claro.
+<SUBS 0>
+A reparação da base do acampamento está
+indo muito bem, graças a você, é claro.
 --- BLOCK ---
 Me disseram que a Guilda tem uma
 missão para você. Se apresse e
@@ -339,8 +339,8 @@ Não se esqueça: você pode entrar na
 floresta independentemente das missões.
 Vá caçar, eu cuidarei dos Recursos.
 --- BLOCK ---
-Você sabe algo
-sobre os Epioth?
+<SUBS 0>
+Você sabe algo sobre os Epioth?
 São herbívoros aquáticos...
 --- BLOCK ---
 Suas entranhas são macias e suculentas.
@@ -409,9 +409,9 @@ Conheço essa floresta melhor que ninguém.
 Não esqueça de verificar o Clima de
 Moga antes de sair da vila.
 --- BLOCK ---
-<SUBS 0> Pronto para uma
-missão de captura? Você tem
-coragem, caçador. Gosto de você.
+<SUBS 0>
+Pronto para uma missão de captura? Você
+tem coragem, caçador. Gosto de você.
 --- BLOCK ---
 É preciso enfraquecer os monstros para
 capturá-los. Saber quando estão fracos
@@ -470,9 +470,9 @@ Ah, aliás, as crianças insistem em pedir
 à Guilda que procure essa coisa que
 viram. Vá até o posto de missão.
 --- BLOCK ---
-Ha, ha, ha, ha! E
-eu aqui pensando que todos
-os Shakalaka eram brutamontes sanguinários!
+Ha, ha, ha, ha! E eu aqui pensando
+que todos os Shakalaka eram brutamontes
+sanguinários!
 --- BLOCK ---
 Realmente, eu estava enganado. Ele parece
 mais um pequeno desmiolado *cof cof*
@@ -540,8 +540,8 @@ Posso construí-la desde que me traga
 os materiais. Mãos à obra!
 Veja as solicitações da população!
 --- BLOCK ---
-Uma vez, quando
-estava no mar,
+<SUBS 0>
+Uma vez, quando estava no mar,
 encontrei um Lagiacrus...
 --- BLOCK ---
 Tentamos combatê-lo com o equipamento que
@@ -588,8 +588,8 @@ Bom, não quero te pressionar, mas
 o destino desta vila depende de
 suas habilidades. Espero que não vacile!
 --- BLOCK ---
-<SUBS 0> Uma vez, quando
-estava no mar, me
+<SUBS 0>
+Uma vez, quando estava no mar, me
 deparei com um Lagiacrus...
 --- BLOCK ---
 Tentamos combatê-lo com o equipamento que
@@ -657,7 +657,7 @@ Hmm... Neste ponto, nossa única
 opção talvez seja a estátua.
 --- BLOCK ---
 Hein? Quer saber qual estátua? Bem,
-o velho da Forja me contou
+o velho da Ferraria me contou
 algo fascinante há algum tempo.
 --- BLOCK ---
 Conhece a caverna que fica atrás da
@@ -692,8 +692,8 @@ Meu pai talvez não concorde muito
 com esse plano, ficará entre você
 e eu... e o Artesão Wyveriano.
 --- BLOCK ---
-<SUBS 0> Talvez consigas
-chegar até aquela caverna
+<SUBS 0>
+Talvez consigas chegar até aquela caverna
 se consertarmos a máscara.
 --- BLOCK ---
 Vale a pena tentar. Precisamos de partes
@@ -891,8 +891,8 @@ Esta parece bem interessante. Vou criá-la
 se me trouxer os materiais! Dê
 uma olhada nas solicitações da população.
 --- BLOCK ---
-Hahaha! O valente
-herói voltou inteiro!
+Hahaha!
+O valente herói voltou inteiro!
 --- BLOCK ---
 Você é de outro planeta, caçador!
 Conseguiste o que meu pai nunca
@@ -1214,8 +1214,8 @@ As pessoas começaram a avistar Rathian rosa
 à noite na Floresta de Moga.
 Aposto que têm um ninho lá.
 --- BLOCK ---
-Não se esqueça de sempre
-consultar o Clima de Moga!
+Não esqueça de sempre consultar o
+Clima de Moga!
 --- BLOCK ---
 Ah, na hora certa.
 Quero te dizer algo.
@@ -1316,8 +1316,8 @@ agora você encontrará Duramboros
 Consultar regularmente o Clima de Moga.
 Ir preparado vai te ajudar!
 --- BLOCK ---
-Ei! Tem algo que
-preciso te dizer.
+Ei!
+Tem algo que preciso te dizer.
 --- BLOCK ---
 Estava fazendo minha ronda noturna pela
 Floresta de Moga quando avistei um Diablos.
@@ -1333,8 +1333,8 @@ Me deparei com um Uragaan em uma das minhas
 excursões noturnas. Cuidado com eles se 
 estiver indo pela floresta ao anoitecer.
 --- BLOCK ---
-Não deixe de conferir
-o Clima de Moga!
+Não deixe de conferir o Clima
+de Moga!
 --- BLOCK ---
 Ah, caçador! Vimos um novo
 monstro vagando à noite
@@ -1347,8 +1347,8 @@ dá charme ao lugar.
 Cace de forma segura! Consulte sempre o
 Clima de Moga quando for à floresta.
 --- BLOCK ---
-Oi! Estava
-te esperando.
+Oi!
+Estava te esperando.
 --- BLOCK ---
 Já perseguiste um Zinogre outras vezes,
 não é? Pois começamos a vê-los
@@ -1382,8 +1382,8 @@ Verifique a Previsão do Clima de
 Moga e tome todas as precauções
 antes de se aventurar na floresta.
 --- BLOCK ---
-Oi! Podemos conversar
-um momento?
+Oi!
+Podemos conversar um momento?
 --- BLOCK ---
 Estava passeando pela Floresta de Moga à
 noite quando vi uma sombra passar sobre
@@ -1397,9 +1397,9 @@ Você deveria sempre verificar a
 Previsão do Clima de Moga
 se pretende ir caçar lá.
 --- BLOCK ---
-Ei, caçador! Apareceu outro monstro à
-noite na Floresta de Moga.
-Até quando isso vai durar?
+Ei, caçador!
+Apareceu outro monstro à noite na
+Floresta de Moga. Até quando isso?
 --- BLOCK ---
 Estava procurando Recursos à noite na
 floresta, quando vi um Uragaan de aço.
@@ -1481,8 +1481,8 @@ o resto com a gente, caçador!
 Muito bom. Muito bom.
 Agradecemos, como sempre!
 --- BLOCK ---
-Ei, você é um
-verdadeiro profissional. Muito obrigado!
+Ei, você é um verdadeiro profissional.
+Muito obrigado!
 --- BLOCK ---
 Ah, bem feito! Talvez eu te
 deixe me chamar de Junior...

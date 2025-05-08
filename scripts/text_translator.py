@@ -85,6 +85,7 @@ def translate_batch(batch_text, log_f):
 
         Traduzir "Aldeia de" sempre para "Vila"
         Traduzir "Bosque de" sempra para "Floresta"
+        Traduzir "Granja" sempra para "Fazenda"
 
         ---
         TEXTS TO TRANSLATE:

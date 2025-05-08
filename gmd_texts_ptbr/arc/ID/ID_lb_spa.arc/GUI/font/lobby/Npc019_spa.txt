@@ -1,0 +1,392 @@
+TMSG_NPC019_0
+--- BLOCK ---
+TMSG_NPC019_1
+--- BLOCK ---
+TMSG_NPC019_2
+--- BLOCK ---
+TMSG_NPC019_3
+--- BLOCK ---
+TMSG_NPC019_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+Vila Moga é um lugar tranquilo para relaxar depois de caçar monstros.
+--- BLOCK ---
+Havia algo que queria te
+dizer, mas esqueci completamente.
+Era algo tão importante...
+--- BLOCK ---
+<SUBS 0>No menu do jogo,
+você encontrará uma opção
+de Vila de Moga.
+--- BLOCK ---
+Que prático! Você pode ver tudo relacionado ao
+estado da vila. Muito conveniente, não é?
+--- BLOCK ---
+<SUBS 0>Após os campos, há
+um caminho em direção
+à Floresta de Moga.
+--- BLOCK ---
+Use quando quiser!
+--- BLOCK ---
+<SUBS 0>Dê uma olhada na
+cachoeira à direita. Há
+algo mais, não é?
+--- BLOCK ---
+Há uma caverna atrás, com uma estátua
+antiga. Acho que tem algo a ver
+com as ruínas da Floresta de Moga.
+--- BLOCK ---
+<SUBS 0>No tempo que você
+leva para completar uma missão,
+fazemos uma rodada de cultivo.
+--- BLOCK ---
+Isso é mais ou menos um dia inteiro
+aqui na Fazenda, então planeje suas viagens
+para a Floresta de Moga de acordo.
+--- BLOCK ---
+<SUBS 0>Colhemos a safra
+todos os dias.
+--- BLOCK ---
+Vamos guardar algumas colheitas para você,
+se estiver ocupado demais para vir
+buscar. Colha antes que estraguem!
+--- BLOCK ---
+<SUBS 0>Para aumentar a
+colheita, nos dê algo
+para usarmos como fertilizante.
+--- BLOCK ---
+Solte junto com as ervas ou
+sementes. Hum... Agora não me lembro
+do que funciona como fertilizante...
+--- BLOCK ---
+<SUBS 0>Sabe? Existe um
+tipo especial de fertilizante.
+E se você usá-lo...
+--- BLOCK ---
+(...)
+--- BLOCK ---
+Aconteceu... algo bom. Eu esqueci o
+que era, mas é algo.
+Estou ficando velho para isso.
+--- BLOCK ---
+<SUBS 0>Você pode conseguir
+verdadeiras raridades negociando
+fora da vila.
+--- BLOCK ---
+Se conseguir algo que possamos
+cultivar, não deixe de trazer.
+Colheitas exóticas são muito interessantes.
+--- BLOCK ---
+<SUBS 0>Você pode usar nossa
+Caixa de Insetos para
+criar criaturas se quiser.
+--- BLOCK ---
+Mas nem todos os insetos podem ser
+criados em uma caixa. Se encontrar um
+inseto exigente, não podemos fazer nada.
+--- BLOCK ---
+Oh, se não é o
+caçador do qual todo
+mundo fala. Que honra!
+--- BLOCK ---
+Você vê esta Fazenda, caçador? Ela alimenta
+toda a Vila de Moga. Bem,
+não está faltando nada, não é?
+--- BLOCK ---
+Isso mesmo: mão de obra! Este lugar
+costuma estar cheio de Felyne agricultores,
+miando para cá e para lá.
+--- BLOCK ---
+Mas o terremoto os assustou
+tanto que saíram daqui correndo.
+Os gatos medrosos me abandonaram.
+--- BLOCK ---
+Por isso os campos estão um
+verdadeiro chiqueiro... oh, desculpe, Sr. Porco.
+Agora tenho que trabalhar sozinho!
+--- BLOCK ---
+Isso aqui é o que resta da
+antiga colheita. Vê esse brilho azul? Significa
+que é um cogumelo de alta qualidade.
+--- BLOCK ---
+Você pode comê-lo sozinho. Eu
+recomendaria combiná-lo com algo. Vamos,
+pegue e faça algo bom.
+--- BLOCK ---
+Olhe só!
+--- BLOCK ---
+Um dos meus Felyne agricultores tomou
+coragem e voltou ao trabalho!
+Agora podemos retomar o cultivo.
+--- BLOCK ---
+A fazenda pertence à vila, mas posso
+te ceder um pedaço de terra, já
+que está nos protegendo e tudo mais.
+--- BLOCK ---
+Se quiser que cultivemos cogumelos ou
+algo assim, traga-os e nós cuidaremos
+enquanto você estiver em suas missões.
+--- BLOCK ---
+É muito fácil. Basta escolher a planta
+que quer que cuidemos para você.
+--- BLOCK ---
+Se estiver no porto e não puder
+voltar à Fazenda, faça suas solicitações
+ao Neko e ele nos passará.
+--- BLOCK ---
+Sabe de uma coisa? Como está
+ocupado, pode até pedir para
+cultivarmos várias plantas iguais seguidas.
+--- BLOCK ---
+Enquanto estiver na floresta ou em missão, podemos
+cuidar de uma planta. Faça mais pedidos
+e não precisará vir com tanta frequência!
+--- BLOCK ---
+Continue trazendo plantas úteis, como ervas
+ou cogumelos azuis, e cuidaremos delas.
+É o mínimo que podemos fazer.
+--- BLOCK ---
+Ah, e vá saudar o Felyne que
+acabou de voltar. É melhor não ser
+mal-educado com quem vai te ajudar.
+--- BLOCK ---
+E se conseguir encorajar mais Felyne
+a voltarem ao trabalho, poderemos cultivar
+mais colheitas ao mesmo tempo.
+--- BLOCK ---
+Isso nos ajudaria a ambos, caçador.
+Manter este lugar funcionando com tão
+pouca ajuda está piorando minha bursite.
+--- BLOCK ---
+Você tem um minuto, caçador?
+--- BLOCK ---
+Estou em apuros. Uns Jaggi
+teimosos têm entrado em meus
+campos e acabado com tudo.
+--- BLOCK ---
+Eles destroem as colheitas mais rápido
+do que conseguimos consertar! A comida
+é muito importante para ser desperdiçada.
+--- BLOCK ---
+Acho que é seu trabalho
+lidar com essa matilha. Já
+fiz a solicitação ao Gremio.
+--- BLOCK ---
+Ah, e não se preocupe. Você
+receberá uma boa recompensa. Já sei
+como os jovens caçadores são...
+--- BLOCK ---
+Espero que acabe com essa praga
+rapidamente. Tenho certeza de que os
+Felyne também ficarão felizes com isso!
+--- BLOCK ---
+Você está aqui. Estou muito agradecido!
+--- BLOCK ---
+O Gremio me informou que você
+cuidou da matilha de Jaggi.
+--- BLOCK ---
+Está tudo bem que façam tudo
+de maneira formal, mas eu preferiria
+uma visita da bela recepcionista.
+--- BLOCK ---
+Bem, queria te dar este Material
+bomba que fiz como agradecimento.
+--- BLOCK ---
+Um Material bomba sozinho causa menos dano
+do que um Felyne sem garras, mas
+pode ser combinado para fazer bombas.
+--- BLOCK ---
+Para começar, tente combiná-lo com um
+Inseto luminoso. Parece divertido, não é?
+Sabe, caçador? Gosto de você...
+--- BLOCK ---
+Olha só!
+--- BLOCK ---
+Outro dos meus Felyne voltou
+à Fazenda discretamente! Agora poderemos
+cultivar ainda mais colheitas.
+--- BLOCK ---
+Acredito que, ao ver o Argosy
+fazendo negócios na vila, os Felyne
+ganharam confiança. Estão começando a voltar.
+--- BLOCK ---
+Basta trazer a erva ou semente
+que deseja cultivar, e os Felyne
+cuidarão delas enquanto estiver em missão.
+--- BLOCK ---
+Certifique-se de saudar o Felyne que
+acabou de retornar. É melhor ser
+gentil com os trabalhadores, sempre digo...
+--- BLOCK ---
+Se puder convencer o Felyne que
+falta a voltar, poderemos plantar muitas
+mais coisas ao mesmo tempo.
+--- BLOCK ---
+Até lá, faremos o melhor
+possível com o que temos.
+--- BLOCK ---
+Olha só!
+--- BLOCK ---
+O último dos Felyne voltou para
+casa! Agora a Fazenda poderá voltar
+a funcionar em sua capacidade máxima!
+--- BLOCK ---
+Os Felyne parecem gostar do retorno
+da caça e do comércio ao
+normal. Espero que não se assustem!
+--- BLOCK ---
+Traga a erva ou semente que
+deseja cultivar, e os Felyne cuidarão
+delas enquanto estiver em suas missões.
+--- BLOCK ---
+Agora vá saudar o Felyne que acabou
+de voltar! É melhor cumprimentar a
+pata que cuidará de sua colheita.
+--- BLOCK ---
+Agora que a Fazenda tem
+todos os funcionários e está
+funcionando novamente, poderei descansar... Ufa!
+--- BLOCK ---
+Olha só!
+--- BLOCK ---
+Há um tempo atrás, o Cozinheiro
+ambulante pediu para cultivar Cebordelletas,
+um vegetal. Nossa primeira colheita!
+--- BLOCK ---
+Já estou salivando só de pensar nos
+pratos que ele fará com elas.
+--- BLOCK ---
+Agora você poderá saborear pratos preparados
+com Cebordelletas sempre que visitar a
+Cantina. Por que não passa lá?
+--- BLOCK ---
+Olha só!
+--- BLOCK ---
+Enquanto estávamos arando a terra,
+encontramos algo muito estranho.
+--- BLOCK ---
+É um recipiente que cheira muito
+esquisito. Acho que tem o tamanho
+certo para colocar a cabeça.
+--- BLOCK ---
+Claro, quem seria tão bobo a ponto
+de usá-lo como máscara? Talvez uma criança
+idiota ou alguém não muito são.
+--- BLOCK ---
+Mmm? Você quer? Não consigo
+imaginar para que, mas tome.
+--- BLOCK ---
+Olha só!
+--- BLOCK ---
+Apesar do terremoto recente, todos
+os meus Felyne agricultores
+voltaram. Nenhum saiu correndo!
+--- BLOCK ---
+Gostaria de pensar que é graças à minha
+gestão proativa, mas sei que é porque
+os gatos se sentem seguros com você.
+--- BLOCK ---
+Então, obrigado por me livrar de ter
+que trabalhar novamente na Fazenda sozinho.
+--- BLOCK ---
+Prefiro o sistema de gestão limpa:
+os Felyne fazem o trabalho, e
+eu mantenho as mãos limpas.
+--- BLOCK ---
+Ei! Adivinha só?
+--- BLOCK ---
+O Cozinheiro ambulante me pediu
+para cultivar Tomates gordos...
+--- BLOCK ---
+E temos nossa primeira colheita!
+Imagine os elegantes banquetes que
+ele fará com esses vegetais!
+--- BLOCK ---
+O que estou dizendo? Deveria passar
+pela Cantina sempre que quiser um
+prato preparado com Tomates gordos!
+--- BLOCK ---
+Caçador! Ouvi falar de
+suas últimas proezas!
+--- BLOCK ---
+Dizem que você caçou o
+dragão ancião que estava
+causando todos os terremotos!
+--- BLOCK ---
+Esses tremores estavam deixando meus Felyne
+nervosos. Eles são muito sensíveis a
+esse tipo de coisa, sabe?
+--- BLOCK ---
+Tive que dizer algo aos Felyne
+para que não fossem embora. Até
+prometi enfrentar o Ceadeus sozinho!
+--- BLOCK ---
+Imaginei que você lidaria com a besta mais
+cedo ou mais tarde. Você se importaria de
+falar com os Felyne já que está aqui?
+--- BLOCK ---
+Agora que a Fazenda tem
+todos os funcionários e está
+funcionando novamente, poderei descansar... Ufa!
+--- BLOCK ---
+Ei, você! Escute isso...
+--- BLOCK ---
+Temos nossa primeira colheita de Trufas
+rei! O Cozinheiro ambulante pediu
+há um tempo para cultivá-las.
+--- BLOCK ---
+Estou com fome só de pensar nas
+novas receitas que ele criará com elas!
+--- BLOCK ---
+Além disso, você poderá saborear pratos preparados
+com Trufas rei sempre que visitar a
+Cantina. Por que não passa lá?
+--- BLOCK ---
+Caçador! Ouvi a grande notícia!
+--- BLOCK ---
+Não consigo acreditar que derrotou
+aquele Lagiacrus marmóreo! Era o
+inimigo do chefe, sabia?
+--- BLOCK ---
+Deveria ter visto o sorriso
+dele. Era como se ele
+mesmo tivesse caçado o monstro!
+--- BLOCK ---
+O chefe e eu somos amigos desde
+que éramos crianças. Muito obrigado por
+tirar esse peso de cima dele!
+--- BLOCK ---
+Olha quem decidiu aparecer por aqui.
+--- BLOCK ---
+Olá, tudo bem?
+--- BLOCK ---
+Bem-vindo à Fazenda!
+--- BLOCK ---
+Venha descansar um pouco.
+--- BLOCK ---
+Se precisar de algo, é só pedir.
+--- BLOCK ---
+Volte logo, certo?
+--- BLOCK ---
+A Fazenda é divertida se você
+não tiver que trabalhar. Até logo.
+--- BLOCK ---
+Hehehe. Até logo.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+O que vai ser hoje?
+--- BLOCK ---
+Muito bem. Você veio para
+cultivar algo? Ou colher algo?
+--- BLOCK ---
+Qualquer coisa que você precise cultivar,
+vou garantir que cresça bem.
+--- BLOCK ---
+Bom, vamos cultivar coisas!
+--- BLOCK ---

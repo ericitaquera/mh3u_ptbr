@@ -633,7 +633,7 @@ Olha só, é o grande caçador!
 --- BLOCK ---
 Em que posso te ajudar?
 --- BLOCK ---
-Seja bem-vindo à Forja!
+Seja bem-vindo à Ferraria!
 --- BLOCK ---
 Ei! Venha tomar um chá!
 --- BLOCK ---
