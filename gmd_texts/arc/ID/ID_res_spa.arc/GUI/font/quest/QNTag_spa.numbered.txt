@@ -1,0 +1,56 @@
+﻿TMSG_QNTAG
+--- BLOCK [001] ---
+Hijo del Jefe
+--- BLOCK [002] ---
+Anciano Vegetal
+--- BLOCK [003] ---
+Cha-Cha
+--- BLOCK [004] ---
+Cha-Cha
+--- BLOCK [005] ---
+Cha-Cha
+--- BLOCK [006] ---
+Cha-Cha
+--- BLOCK [007] ---
+Cha-Cha
+--- BLOCK [008] ---
+Cha-Cha
+--- BLOCK [009] ---
+Cha-Cha
+--- BLOCK [010] ---
+Shakalaka
+--- BLOCK [011] ---
+Cha-Cha
+--- BLOCK [012] ---
+Kayamba
+--- BLOCK [013] ---
+Cha-Cha
+--- BLOCK [014] ---
+Cha-Cha
+--- BLOCK [015] ---
+Cha-Cha
+--- BLOCK [016] ---
+Cha-Cha
+--- BLOCK [017] ---
+Cha-Cha
+--- BLOCK [018] ---
+Cha-Cha
+--- BLOCK [019] ---
+Cha-Cha
+--- BLOCK [020] ---
+Cha-Cha
+--- BLOCK [021] ---
+Cha-Cha
+--- BLOCK [022] ---
+Cha-Cha
+--- BLOCK [023] ---
+Cha-Cha
+--- BLOCK [024] ---
+Cha-Cha
+--- BLOCK [025] ---
+Cha-Cha
+--- BLOCK [026] ---
+Cha-Cha
+--- BLOCK [027] ---
+Cha-Cha
+--- BLOCK [028] ---

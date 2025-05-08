@@ -72,7 +72,7 @@ Centro
 --- BLOCK ---
 Casa
 --- BLOCK ---
-Granja
+Fazenda
 --- BLOCK ---
 Viagem rápida
 --- BLOCK ---

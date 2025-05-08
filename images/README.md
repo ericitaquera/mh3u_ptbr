@@ -113,3 +113,35 @@ Two layers, Antialiasing=ON
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
   <img src="./td_com_ID_spa.preview.jpg" alt="td_com_ID_spa preview">
 </div>
+
+---
+
+## 🎨 `td_M_v_c8_00_ID_spa.tex`
+
+Used for rendering lots of **text labels** and some icons.
+
+### ✏️ Font Settings
+
+#### Fazenda / Pescaria / Cantina / Balcão de Missões / Armazém / Ferraria 
+#### Arsenal / Argosy / Posto de Trocas / Mercado / Loja da Guilda / Arena
+#### Balsa / Mensageiro / Quadro de Missões
+
+
+* **Font**: MingLiU\_HKSCS-ExtB Bold 16
+Two layers, Antialiasing=ON
+* **Layer 1 Font Color**: `#ffffff` (brown)
+* **Layer 2 Font**: `#000000` (black)
+
+#### All Paths
+```
+.\arc\ID\ID_arena_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_dl_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_gallerydm_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_gallery_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_lb_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_stmenu_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+```
+
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="./td_M_v_c8_00_ID_spa.preview.jpg" alt="td_M_v_c8_00_ID_spa preview">
+</div>

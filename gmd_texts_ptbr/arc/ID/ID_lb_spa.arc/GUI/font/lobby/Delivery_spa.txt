@@ -1,0 +1,256 @@
+TMSG_CLIENT
+--- BLOCK ---
+TMSG_TITLE
+--- BLOCK ---
+TMSG_DETAILS
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Artesão
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Filho Chefe
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Cha-Cha
+--- BLOCK ---
+Suprimento
+--- BLOCK ---
+Artesanato
+--- BLOCK ---
+Nova Caixa de Cogum.
+--- BLOCK ---
+Nova Caixa de Inset.
+--- BLOCK ---
+Orgulho de Inseto?
+--- BLOCK ---
+Uma Excursão?
+--- BLOCK ---
+Nova Caixa de Mel
+--- BLOCK ---
+M. Pelúcia
+--- BLOCK ---
+M. Grelha
+--- BLOCK ---
+Supercaixa de Cogum.
+--- BLOCK ---
+Campo dos Sonhos
+--- BLOCK ---
+Mel em Abundância
+--- BLOCK ---
+M. Lâmpada
+--- BLOCK ---
+Insetos Atacando
+--- BLOCK ---
+A Abelha Rainha
+--- BLOCK ---
+M. Antiga
+--- BLOCK ---
+Uma Oportunidade
+--- BLOCK ---
+Bom Clima
+--- BLOCK ---
+Corrida de Leite
+--- BLOCK ---
+Máscara Curibaya
+--- BLOCK ---
+Levando
+--- BLOCK ---
+Gag Gargwa
+--- BLOCK ---
+Coisa de CaçaDragões
+--- BLOCK ---
+Melynx Falso
+--- BLOCK ---
+Máscara Atiradora
+--- BLOCK ---
+Máscara de Rocha
+--- BLOCK ---
+Máscara de Rathalos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Máscara Astral
+--- BLOCK ---
+Picadinho
+--- BLOCK ---
+A Guilda não permitirá que você tente
+uma missão sem consertar o acampamento. Vá
+para a floresta e colete Recursos!
+--- BLOCK ---
+Tem talento para forjar equipamentos? Então
+traga Minério de Ferro para mim! E
+não se esqueça da Picareta, entendeu?
+--- BLOCK ---
+Queremos construir uma Caixa de Cogumelos
+na Fazenda. Você se importa de
+reunir os Recursos que precisamos?
+--- BLOCK ---
+Queremos criar insetos úteis para você
+em uma Caixa de Insetos na
+Fazenda. Traga os Recursos para nós!
+--- BLOCK ---
+A Caixa de Insetos foi útil?
+Vá coletar esses Recursos, faremos
+com que seja ainda melhor!
+--- BLOCK ---
+Vamos fertilizar! Leve nossa Fazenda para
+o próximo nível! Se você trouxer
+os Recursos, eu mesmo vou cultivá-la!
+--- BLOCK ---
+"Tomara que fosse fácil encontrar Mel".
+Todo mundo pensa assim, mas não é
+um sonho se conseguir os Recursos.
+--- BLOCK ---
+Cha-Cha tem planos para uma nova
+máscara incrível! Talvez eu possa
+encontrar um monstro com ela.
+--- BLOCK ---
+Cha-Cha está pensando em uma nova ideia
+para uma máscara que você vai gostar!
+Eu posso assar carne com ela. Cha-Cha-assar!
+--- BLOCK ---
+O fazendeiro chefe tem um plano
+para expandir a Caixa de Cogumelos.
+Nos ajude a reunir os Recursos!
+--- BLOCK ---
+A Fazenda está indo muito bem,
+mas queremos trazer de volta sua
+era de glória! Reúna esses Recursos!
+--- BLOCK ---
+Ouvi dizer que há uma maneira de
+tornar as abelhas da Caixa de
+Mel mais ativas. Reúna os Recursos!
+--- BLOCK ---
+Cha-Cha tem uma ideia bonita para
+uma máscara! Tem uma lâmpada
+para assustar monstros com fogo-fogo.
+--- BLOCK ---
+E se melhorarmos a Caixa de
+Insetos para criar ainda mais?
+Só precisamos de mais Recursos!
+--- BLOCK ---
+O capitão do Argosy fez isso!
+Com esta Caixa de Mel, Moga
+será o paraíso do mel.
+--- BLOCK ---
+Talvez se consertarmos a máscara
+atrás da Fazenda, você consiga
+respirar debaixo d'água. Reúna Recursos!
+--- BLOCK ---
+Vamos construir um acampamento sobre a
+guarda do grande dragão. Todos
+os moradores contam com você!
+--- BLOCK ---
+Só com sorte não pescaremos o peixe
+assassino. Precisamos da melhor vara de
+pesca! Busque Recursos e vamos pescar!
+--- BLOCK ---
+O Cozinheiro Ambulante busca leite
+de primeira classe. Ele precisa
+do melhor. Consiga esses Recursos!
+--- BLOCK ---
+Cha-Cha tem conselho de Curibaya
+para máscara! Para eliminar efeitos
+de estado como pragas elementais!
+--- BLOCK ---
+Precisamos melhorar a fazenda de onde
+comemos. Com boa levedura, fazemos
+bom pão. Consiga esses Recursos!
+--- BLOCK ---
+Cha-Cha tem uma boa ideia para uma
+máscara! Veja? Se estiver com problemas,
+Cha-Cha ajuda jogando um ovo especial!
+--- BLOCK ---
+Precisamos de um caçador de dragões forte
+para o "festival" de Jhen Mohran. Vá
+atrás de Recursos e missões de nv★7!
+--- BLOCK ---
+Cha-Cha está se sentindo travesso. Sonha com
+uma bela máscara que ataca e rouba
+ao mesmo tempo. Os monstros amaldiçoam!
+--- BLOCK ---
+Cha-Cha projeta uma máscara de bum-bum!
+Lança companheiro como um canhão! Mas
+não bala humana: bala Shakalaka!
+--- BLOCK ---
+Cha-Cha pensa em uma máscara armadilha! Converte
+em Armadilha de Rocha que pega!
+Monstro não pode com tanta engenhosidade!
+--- BLOCK ---
+Cha-Cha inventa uma máscara como o
+grande Rathalos! Rugido grande que
+congela monstros. Pena, sem asas...
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Cha-Cha sonha com uma
+máscara para raka-laka dinheiro.
+Como um astronauta louco!
+--- BLOCK ---
+Carne suculenta dá a Cha-Cha uma
+ideia para uma máscara. O
+cheiro faz o monstro waka-laka.
+--- BLOCK ---

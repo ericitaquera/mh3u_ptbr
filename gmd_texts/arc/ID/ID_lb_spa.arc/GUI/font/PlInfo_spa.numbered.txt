@@ -1,0 +1,104 @@
+﻿TMSG_PLINFO
+--- BLOCK [001] ---
+Você não pode carregar mais nada.
+--- BLOCK [002] ---
+DUMMY
+--- BLOCK [003] ---
+Você desmaiou.
+--- BLOCK [004] ---
+Não pode mais ser restaurado.
+--- BLOCK [005] ---
+O poder da arma diminuiu!
+--- BLOCK [006] ---
+O poder da arma aumentou!
+--- BLOCK [007] ---
+A nitidez está no máximo!
+--- BLOCK [008] ---
+Sua bolsa de itens está cheia.
+--- BLOCK [009] ---
+Obtido: %s.
+--- BLOCK [010] ---
+Nada encontrado.
+--- BLOCK [011] ---
+Caçado: %s.
+--- BLOCK [012] ---
+Você perdeu sua isca...
+--- BLOCK [013] ---
+Retornando ao acampamento...
+--- BLOCK [014] ---
+Ainda está cru.
+--- BLOCK [015] ---
+Você não pode carregar mais itens.
+--- BLOCK [016] ---
+Você não pegou nada.
+--- BLOCK [017] ---
+DUMMY
+--- BLOCK [018] ---
+%s no máximo.
+--- BLOCK [019] ---
+%s quebrou.
+--- BLOCK [020] ---
+Você fez: %s.
+--- BLOCK [021] ---
+DUMMY
+--- BLOCK [022] ---
+Você jogou: %s.
+--- BLOCK [023] ---
+%s quebrou.
+--- BLOCK [024] ---
+A Resistência não está mais diminuindo!
+--- BLOCK [025] ---
+Os gastos da resistência foram retomados.
+--- BLOCK [026] ---
+DUMMY
+--- BLOCK [027] ---
+Será que tem alguma coisa por aqui...
+--- BLOCK [028] ---
+Roubaram: %s.
+--- BLOCK [029] ---
+Resgatado: %s.
+--- BLOCK [030] ---
+Recebido: %s.
+--- BLOCK [031] ---
+Não cabe mais: %s.
+--- BLOCK [032] ---
+Recuperação natural se normalizando!
+--- BLOCK [033] ---
+Recuperação natural aumentada!
+--- BLOCK [034] ---
+A resistência ao calor aumentou!
+--- BLOCK [035] ---
+A resistência ao frio aumentou!
+--- BLOCK [036] ---
+O efeito frio acabou!
+--- BLOCK [037] ---
+¡Se acabó el efecto de calor!
+--- BLOCK [038] ---
+%s desmaiou.
+--- BLOCK [039] ---
+DUMMY
+--- BLOCK [040] ---
+Entregue: %s.
+--- BLOCK [041] ---
+Você entregou Carne Crua.
+--- BLOCK [042] ---
+Entrando na batalha final.
+--- BLOCK [043] ---
+O Mata Dragões está disponível para uso.
+--- BLOCK [044] ---
+O Gongo de Caça  está pronto para uso.
+--- BLOCK [045] ---
+O Arpão de Amarração está disponível.
+--- BLOCK [046] ---
+DUMMY
+--- BLOCK [047] ---
+¡%s queima muito!
+--- BLOCK [048] ---
+Enviado para a caixa de itens: %s.
+--- BLOCK [049] ---
+%s saiu do jogo.
+--- BLOCK [050] ---
+¡Gato desafortunado activado!
+--- BLOCK [051] ---
+Você perdeu...
+--- BLOCK [052] ---

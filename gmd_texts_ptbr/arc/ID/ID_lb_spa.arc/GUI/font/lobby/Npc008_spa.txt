@@ -12,7 +12,7 @@ TMSG_NPC008_4
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-¡Guau! ¡Olha este Minério de ferro!
+Guau! Olha este Minério de ferro!
 É... é de ótima qualidade!
 --- BLOCK ---
 Bem, pode não ser da MELHOR qualidade,
@@ -645,9 +645,9 @@ Ah, que tempo maravilhoso!
 --- BLOCK ---
 Volte por aqui, combinado?
 --- BLOCK ---
-¡Muito bem! Volte quando quiser!
+Muito bem! Volte quando quiser!
 --- BLOCK ---
-¡Ótimo! Até logo, camarada!
+Ótimo! Até logo, camarada!
 --- BLOCK ---
 Você tem minha promessa! Minha
 bigorna estará pronta quando precisar.

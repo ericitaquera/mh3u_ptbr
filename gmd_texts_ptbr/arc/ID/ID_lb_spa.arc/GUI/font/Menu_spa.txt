@@ -892,7 +892,7 @@ Est. vila
 --- BLOCK ---
 Est. frota
 --- BLOCK ---
-Est. Granja
+Est. Fazenda
 --- BLOCK ---
 Res
 --- BLOCK ---

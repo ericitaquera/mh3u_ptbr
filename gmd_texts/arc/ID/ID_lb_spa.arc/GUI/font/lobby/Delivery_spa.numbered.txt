@@ -1,0 +1,256 @@
+﻿TMSG_CLIENT
+--- BLOCK [001] ---
+TMSG_TITLE
+--- BLOCK [002] ---
+TMSG_DETAILS
+--- BLOCK [003] ---
+Hijo Jefe
+--- BLOCK [004] ---
+Artesano
+--- BLOCK [005] ---
+Hijo Jefe
+--- BLOCK [006] ---
+Hijo Jefe
+--- BLOCK [007] ---
+Hijo Jefe
+--- BLOCK [008] ---
+Hijo Jefe
+--- BLOCK [009] ---
+Hijo Jefe
+--- BLOCK [010] ---
+Cha-Cha
+--- BLOCK [011] ---
+Cha-Cha
+--- BLOCK [012] ---
+Hijo Jefe
+--- BLOCK [013] ---
+Hijo Jefe
+--- BLOCK [014] ---
+Hijo Jefe
+--- BLOCK [015] ---
+Cha-Cha
+--- BLOCK [016] ---
+Hijo Jefe
+--- BLOCK [017] ---
+Hijo Jefe
+--- BLOCK [018] ---
+Hijo Jefe
+--- BLOCK [019] ---
+Hijo Jefe
+--- BLOCK [020] ---
+Hijo Jefe
+--- BLOCK [021] ---
+Hijo Jefe
+--- BLOCK [022] ---
+Cha-Cha
+--- BLOCK [023] ---
+Hijo Jefe
+--- BLOCK [024] ---
+Cha-Cha
+--- BLOCK [025] ---
+Hijo Jefe
+--- BLOCK [026] ---
+Cha-Cha
+--- BLOCK [027] ---
+Cha-Cha
+--- BLOCK [028] ---
+Cha-Cha
+--- BLOCK [029] ---
+Cha-Cha
+--- BLOCK [030] ---
+DUMMY
+--- BLOCK [031] ---
+DUMMY
+--- BLOCK [032] ---
+DUMMY
+--- BLOCK [033] ---
+Cha-Cha
+--- BLOCK [034] ---
+Cha-Cha
+--- BLOCK [035] ---
+Abastecimiento
+--- BLOCK [036] ---
+Artesanías
+--- BLOCK [037] ---
+Caja de setas nueva
+--- BLOCK [038] ---
+Caja de insectos nueva
+--- BLOCK [039] ---
+¿Insect-orgullo?
+--- BLOCK [040] ---
+¿Una excursión?
+--- BLOCK [041] ---
+Caja de miel nueva
+--- BLOCK [042] ---
+M. peluche
+--- BLOCK [043] ---
+M. grill
+--- BLOCK [044] ---
+Supercaja de setas
+--- BLOCK [045] ---
+Campo de sueños
+--- BLOCK [046] ---
+Miel a tope
+--- BLOCK [047] ---
+M. lámpara
+--- BLOCK [048] ---
+Bichos al ataque
+--- BLOCK [049] ---
+La abeja reina
+--- BLOCK [050] ---
+M. antigua
+--- BLOCK [051] ---
+Una oportunidad
+--- BLOCK [052] ---
+Buen rollo
+--- BLOCK [053] ---
+Carrera de leche
+--- BLOCK [054] ---
+Máscara curibaya
+--- BLOCK [055] ---
+Levando
+--- BLOCK [056] ---
+Gag Gargwa
+--- BLOCK [057] ---
+Cosa de cazadragones
+--- BLOCK [058] ---
+Melynx falso
+--- BLOCK [059] ---
+Máscara artillera
+--- BLOCK [060] ---
+Máscara escollo
+--- BLOCK [061] ---
+Máscara Rathalos
+--- BLOCK [062] ---
+DUMMY
+--- BLOCK [063] ---
+DUMMY
+--- BLOCK [064] ---
+DUMMY
+--- BLOCK [065] ---
+Máscara astral
+--- BLOCK [066] ---
+Picadillooo
+--- BLOCK [067] ---
+El Gremio no te dejará probar una
+misión si no arreglas el campamento.
+¡Ve al bosque y recoge Recursos!
+--- BLOCK [068] ---
+¿Tienes talento para forjar equipo?
+¡Pues tráeme Mineral de hierro!
+Y no olvides el Pico, ¿me oyes?
+--- BLOCK [069] ---
+Queremos construirte una Caja de
+setas en la Granja. ¿Te importa
+reunir los Recursos que necesitamos?
+--- BLOCK [070] ---
+Queremos criar bichos útiles
+para ti en una Caja de insectos en
+la Granja. ¡Tráenos los Recursos!
+--- BLOCK [071] ---
+¿Ha sido útil la Caja de insectos?
+Ve a reunir esos Recursos,
+¡haremos que sea aún mejor!
+--- BLOCK [072] ---
+¡Vamos a fertilizar! ¡Lleva nuestra
+Granja al siguiente nivel! Si traes
+los Recursos, ¡yo mismo la labraré!
+--- BLOCK [073] ---
+"Ojalá fuera fácil encontrar Miel".
+Eso piensa todo el mundo, pero no es
+un sueño si consigues los Recursos.
+--- BLOCK [074] ---
+¡Cha-Cha tener planes para estupenda
+máscara nueva! A lo mejor yo
+poder encontrar monstruo con ella.
+--- BLOCK [075] ---
+¡Cha-Cha pensar en nueva idea para
+máscara que te gustará! Yo poder
+asar carne con ella. ¡Cha-cha-sar!
+--- BLOCK [076] ---
+El granjero jefe tiene un plan para
+aumentar la Caja de setas.
+¡Ayúdanos a reunir los Recursos!
+--- BLOCK [077] ---
+La Granja está funcionando muy bien,
+¡pero queremos recuperar su época
+de esplendor! ¡Reúne esos Recursos!
+--- BLOCK [078] ---
+He oído que hay un modo de hacer que
+las abejas de la Caja de miel estén
+más activas. ¡Reúne los Recursos!
+--- BLOCK [079] ---
+¡Cha-Cha piensa bonita idea de
+máscara! Tiene lámpara para asustar
+a monstruos con fuego-fuego.
+--- BLOCK [080] ---
+¿Y si mejoramos la Caja de insectos
+para criar todavía más? ¡Solo
+necesitamos más Recursos!
+--- BLOCK [081] ---
+¡El capitán del Argosy lo ha
+hecho! Con esta Caja de miel,
+Moga será el cielo de la miel.
+--- BLOCK [082] ---
+Quizá si arreglamos la máscara de
+detrás de la Granja, puedas respirar
+bajo el agua. ¡Reúne Recursos!
+--- BLOCK [083] ---
+Vamos a construir un campamento
+sobre la guardia del gran dragón.
+¡Todos los aldeanos cuentan contigo!
+--- BLOCK [084] ---
+Solo con suerte no pescaremos al pez
+asesino. ¡Necesitamos la mejor caña!
+¡Busca Recursos y vamos de pesca!
+--- BLOCK [085] ---
+El Cocinero ambulante busca leche de
+primera clase. Necesita la mejor.
+¡Consigue esos Recursos!
+--- BLOCK [086] ---
+¡Cha-Cha tiene consejo de Curibaya
+para máscara! ¡Que sacuda efectos
+de estado como plagas elementales!
+--- BLOCK [087] ---
+Hay que mejorar el rancho que
+comemos. Con buena levadura se hace
+buen pan. ¡Consigue esos Recursos!
+--- BLOCK [088] ---
+¡Cha-Cha piensa buena máscara! ¿Ves?
+¡Si hay apuros, Cha-Cha ayuda al
+secuaz tirando huevo especial!
+--- BLOCK [089] ---
+Necesitamos un cazadragones fuerte
+para el "festival" de Jhen Mohran.
+¡Ve por Recursos y misiones de nv★7!
+--- BLOCK [090] ---
+Cha-Cha se siente travieso. Sueña
+con bonita máscara que ataca y roba
+a la vez. ¡Los monstruos maldicen!
+--- BLOCK [091] ---
+¡Cha-Cha diseña máscara de bum-bum!
+¡Lanza compañero como cañón! Pero no
+bala humana: ¡bala Shakalaka!
+--- BLOCK [092] ---
+¡Cha-Cha piensa máscara trampa!
+¡Convierte en Trampa escollo atrapa!
+¡Monstruo no puede con ingenio!
+--- BLOCK [093] ---
+¡Cha-Cha inventa máscara como gran
+Rathalos! Rugido grande que congela
+monstruos. Lástima, sin alas...
+--- BLOCK [094] ---
+DUMMY
+--- BLOCK [095] ---
+DUMMY
+--- BLOCK [096] ---
+DUMMY
+--- BLOCK [097] ---
+Cha-Cha soñar máscara
+para raka-laka dinero.
+¡Como astronauta loco!
+--- BLOCK [098] ---
+Carne jugosa dar Cha-Cha
+idea para máscara. Olor
+hace monstruo waka-laka.
+--- BLOCK [099] ---
