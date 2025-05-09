@@ -1,0 +1,203 @@
+﻿TMSG_NPC091_0
+--- BLOCK ---
+TMSG_NPC091_1
+--- BLOCK ---
+TMSG_NPC091_2
+--- BLOCK ---
+TMSG_NPC091_3
+--- BLOCK ---
+TMSG_NPC091_4
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Soy el camarero! Llevo la comida más
+rápido que un gato engrasado cuesta
+abajo. ¡Si no los platos llegan fríos!
+--- BLOCK ---
+El camarero es el enlace entre el chef
+y el cliente. ¡Y una actitud fría es
+tan mala como un plato frío!
+--- BLOCK ---
+Por eso trabajo rápido y sonriente.
+¡Se llama atención al cliente, miau!
+--- BLOCK ---
+¿Has visto quizá nuestra amplia gama
+de ingredientes raros? Tanzia siempre
+tiene los más frescos y exquisitos.
+--- BLOCK ---
+Por supuesto, ¡aquí en el asador Tanzyne
+solo usamos lo mejor de lo mejor! Por
+eso es un restaurante de tres estrellas.
+--- BLOCK ---
+Nuestro Maestro asador también es el
+mejor. ¡El chef toro de la barbacoa! 
+Aunque a veces se queme la cola, miau.
+--- BLOCK ---
+Muchos cazadores visitan este lugar para
+llenarse la barriga antes de cazar o brindar
+por su éxito después. ¿Por qué no?
+--- BLOCK ---
+¡A veces te apetece ir donde todos
+saben cómo te llamas!
+--- BLOCK ---
+¡Eh! ¡Tú! ¡Se nota que tienes hambre! 
+¡Eso es perfecto! ¡Llenar barrigas
+hambrientas es mi maravilloso trabajo! 
+--- BLOCK ---
+Pero con calma, miau. No querría
+que te convirtieras en un gato
+gordo. ¡No, no! ¡No estaría bien!
+--- BLOCK ---
+¿Conoces al Maestro asador?
+Es aquel alegre gato que está asando
+ese gran trozo de carne.
+--- BLOCK ---
+Normalmente es amable y hablador,
+pero cuando enciende las brasas, ¡sale
+su verdadero fuego interior!
+--- BLOCK ---
+Supongo que el camino al genio
+culinario es largo y peligroso, miau.
+--- BLOCK ---
+¡Eh! ¡Tú! ¿Has probado la Sopa de
+pescado de Tanzia? ¡Es el plato que puso
+al asador Tanzyne en el mapa culinario!
+--- BLOCK ---
+¡Tiene muchísimo sabor! ¡Y es tan
+picante! ¡Y también altamente nutritiva
+y rejuvenecedora!
+--- BLOCK ---
+Solo se permite a nuestros mejores chefs
+Felyne conocer la receta. ¡Qué misterio!
+--- BLOCK ---
+<SUBS 0>
+Como su nombre indica, el Atún peludo
+tiene una hermosa y gruesa melena. 
+--- BLOCK ---
+Dicen que está mejor crudo. Pero
+a veces viene gente a quejarse porque
+hay un pelo en la comida. ¡Miauch!
+--- BLOCK ---
+<SUBS 0>
+El Caviar rosa es una hueva rosada. 
+¡Pero pone negros a algunos clientes!
+--- BLOCK ---
+¡El sabor es fascinante! Tanto que
+algunos no pueden soportar tragarlo...
+--- BLOCK ---
+<SUBS 0>
+Lengua de Popo es... la lengua de un
+Popo. Es un herbívoro de clima frío.
+--- BLOCK ---
+¿Eh? ¿Lo sabías? Ya. Por supuesto.
+¡Nadie te bate! ¡Ja, ja! ¿Entiendes?
+Suena gracioso, batir, bate...
+--- BLOCK ---
+<SUBS 0>
+Pavo rey: ¡por mucho que
+lo sea, no se pavonea!
+--- BLOCK ---
+A la mayoría le gusta ir directa a la
+carne. A mí no. ¡Me gusta el cartílago!
+--- BLOCK ---
+<SUBS 0>
+¡Dime un ingrediente más deliciosamente
+macabro que la Cabeza de Dragón!
+--- BLOCK ---
+Puedes usarla para recordar batallas
+épicas. O para jugar a un serio.
+¡Al menos no muerde! ¡Miau!
+--- BLOCK ---
+<SUBS 0>
+La Manteca de búfalo se hace con su
+dulce leche. Y con grasa de hocico.
+--- BLOCK ---
+La gente pregunta si es necesario.
+¿Sabes qué les digo? "¿De dónde
+preferís que venga la grasa?"
+--- BLOCK ---
+<SUBS 0>
+¡El Mosto de Tanzia es una Master Cola
+especial que se vende solo en Tanzia!
+--- BLOCK ---
+La Master Cola es la cumbre de las
+mejores bebidas carbonatadas. ¡Nos
+encanta! ¡La hicieron solo para nosotros!
+--- BLOCK ---
+¡La Master Cola es la bebida definitiva!
+La inventó un instructor de caza
+que viajaba por el mundo.
+--- BLOCK ---
+¿El secreto de su sabor? ¡Nadie lo sabe!
+Bueno, su creador sí, pero lo último que
+sé es que se ha retirado a una ciudad...
+--- BLOCK ---
+<SUBS 0>
+El Orujo es una bebida extranjera
+con un sabor distintivo.
+--- BLOCK ---
+Parece que triunfa entre los más jóvenes. 
+¡Sobre todo entre ellas! 
+--- BLOCK ---
+<SUBS 0>
+Vino bendito... ¡El culmen
+de la fermentación!
+--- BLOCK ---
+Los ricos lo adoran. ¡Colocan copas
+formando una pirámide y vierten
+sus fortunas por el desagüe!
+--- BLOCK ---
+<SUBS 0>
+El Caldo de Pez dorado es una bebida
+hecha con la rara Patata de Pez dorado. 
+--- BLOCK ---
+Solo crece una cada siglo. ¡Así que
+solo obtenemos una o dos botellas por
+milenio! ¡No lo derrames! ¡Ag!
+--- BLOCK ---
+¡Eh! ¡Tú! ¡Hola! ¡Bienvenido al asador
+Tanzyne, el único restaurante de tres
+estrellas de Tanzia con aval del Gremio!
+--- BLOCK ---
+Soy el nuevo camarero, ¡y tú eres mi
+primer cliente! Por eso, toma un
+regalito. ¡Como una propina! Al revés.
+--- BLOCK ---
+¡Bienvenido al asador Tanzyne!
+--- BLOCK ---
+¿Lo sabías, miau?
+--- BLOCK ---
+¡Hablemos de comida, miau!
+--- BLOCK ---
+Ah, sí. Mira esto, miau.
+--- BLOCK ---
+Escucha esto, miau.
+--- BLOCK ---
+¿Quieres conocer ingredientes?
+--- BLOCK ---
+¡Vuelve pronto!
+--- BLOCK ---
+¡Gracias por venir!
+--- BLOCK ---
+¡Nos encantaría servirte de nuevo!
+--- BLOCK ---
+¡Hasta pronto, miau!
+--- BLOCK ---
+¡Vuelve siempre que tengas hambre!
+--- BLOCK ---
+¡Hasta otra, miau! ¡Adieu!
+--- BLOCK ---
+¡Bienvenido!
+¡Espero que te guste!
+--- BLOCK ---
+¡Bienvenido!
+¡Toma asiento, por favor!
+--- BLOCK ---
+¡Nuestro especial de hoy es Mosto de
+Tanzia helado! Bueno, ¡ese es nuestro
+especial TODOS los días! ¡Mau, ja, ja!
+--- BLOCK ---
+(!)
+--- BLOCK ---

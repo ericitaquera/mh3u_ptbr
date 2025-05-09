@@ -1,0 +1,297 @@
+﻿TMSG_NPC078_0
+--- BLOCK ---
+TMSG_NPC078_1
+--- BLOCK ---
+TMSG_NPC078_2
+--- BLOCK ---
+TMSG_NPC078_3
+--- BLOCK ---
+TMSG_NPC078_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+No tiene sentido tener Adornos
+si no los colocas en tu equipo.
+--- BLOCK ---
+<SUBS 0>
+Ordena tus armaduras por tipos. No mezcles
+equipos de Espadachín y de Artillero.
+--- BLOCK ---
+<SUBS 0>
+Las Esferas de armaduras te las mejoran.
+Una mayor Defensa te mantiene a salvo.
+--- BLOCK ---
+<SUBS 0>
+Cada parte del equipo es diferente en
+cuanto a sus propiedades elementales.
+--- BLOCK ---
+<SUBS 0>
+Nadie puede fabricar una buena arma
+con materiales malos. ¿Me entiendes?
+--- BLOCK ---
+<SUBS 0>
+Los Adornos son unas cosillas muy
+útiles que te suman Puntos de habilidad.
+--- BLOCK ---
+<SUBS 0>
+Puedes colocar Adornos en tu equipo
+siempre que tengas espacios libres.
+--- BLOCK ---
+<SUBS 0>
+El mineral varía según la región. Si no
+encuentras uno, prueba en otra región.
+--- BLOCK ---
+<SUBS 0>
+Consigues Esferas de armaduras de las
+minas, Recompensas de misión o el Argosy.
+--- BLOCK ---
+<SUBS 0>
+Si hay Habilidades sin activar, aumenta
+sus Puntos de habilidad con Adornos.
+--- BLOCK ---
+<SUBS 0>
+La Resistencia a la plaga de un equipo
+depende de sus materiales de monstruo.
+--- BLOCK ---
+<SUBS 0>
+La Resistencia de tu armadura debe ser
+alta. A no ser que te gusten las plagas.
+--- BLOCK ---
+<SUBS 0>
+Cuanto más suba el nivel de tu armadura,
+necesitarás mejores Esferas de armadura.
+--- BLOCK ---
+<SUBS 0>
+¿Te gusta desatar ataques poderosos?
+Entonces usa armas con alta Afinidad.
+--- BLOCK ---
+<SUBS 0>
+Puedes ordenar la Lista de adornos por
+su nombre o sus Habilidades asociadas.
+--- BLOCK ---
+<SUBS 0>
+También puedes jugar con los Adornos
+en la Caja de objetos de tu casa.
+--- BLOCK ---
+Algunos Adornos ocupan varios espacios.
+Cuenta los espacios que tienes antes de
+hacer cualquier cambio.
+--- BLOCK ---
+<SUBS 0>
+¿Tienes talismanes? Son divertidos. 
+Afectan a tus Puntos de habilidad.
+--- BLOCK ---
+<SUBS 0>
+A veces encontrarás talismanes con
+espacios. Es genial, ¿no?
+--- BLOCK ---
+<SUBS 0>
+Las Esferas de armadura mejoran tu
+Defensa. Pero no mejoran nada más.
+--- BLOCK ---
+<SUBS 0>
+Las subespecies dejan materiales y armas
+distintos a los monstruos "normales".
+--- BLOCK ---
+¿Has extraído una Piedra oxidada en una
+mina? Dicen que si pules una de esas
+a veces se convierte en una buena arma.
+--- BLOCK ---
+Y no hablemos de las Piedras antiguas.
+La gente dice que puedes conseguir
+armas increíbles con esas pequeñas.
+--- BLOCK ---
+Sí, puedes bloquear con una Gran espada,
+pero no te acostumbres mucho porque 
+cada vez que bloqueas pierdes Afilado.
+--- BLOCK ---
+El Ataque de escudo de la Espada y
+el Escudo es un potente ataque romo. Si
+golpeas en la cabeza puedes aturdir.
+--- BLOCK ---
+Los ataques romos de un Martillo pueden
+debilitar la Resistencia de un monstruo.
+Vienen bien para cansar a esos malditos.
+--- BLOCK ---
+Las lanzas pintan bien, pero sus golpes
+no son tan duros. El truco está
+en darle a las cosas una y otra vez.
+--- BLOCK ---
+Si tu indicador de Afilado se pone rojo,
+no podrás disparar conchas con una Lanza
+pistola. No olvides tu Piedra de afilar.
+--- BLOCK ---
+Los frascos para las Hachas espada son
+una gran ventaja para los cazadores. 
+Averigua cuál es el mejor para tu presa.
+--- BLOCK ---
+Con la Espada larga no pares de moverte.
+¡Raja y golpea sin pausa, y aumenta
+ese Indicador de espíritu!
+--- BLOCK ---
+¿Te gustan las Hojas dobles? ¡Pues bebe
+Zumo de poder! Es más fácil usar el
+modo Demoníaco si tu Resistencia no cae.
+--- BLOCK ---
+Si tienes una Flauta necesitas la
+habilidad Maestro flauta. Hará que
+su sonido sea más eficaz.
+--- BLOCK ---
+Cada tipo de munición de Ballesta tiene
+un alcance ideal en la que funciona
+mejor. Alcance al objetivo, vamos.
+--- BLOCK ---
+Si usas el Arco, puedes cargar y cambiar
+Revestimientos en marcha. ¡No hay
+razón para quedarse ahí parado!
+--- BLOCK ---
+Puedes quitar los limitadores a las
+Ballestas de Rareza +6 o superior. Así 
+aumentas la munición que puedes llevar.
+--- BLOCK ---
+Si usas una Ballesta ligera y le quitas
+el limitador, la munición sigue cargada
+aunque cambies el tipo de munición.
+--- BLOCK ---
+Ah, y si pulsas el botón X y el botón A,
+recargarás todos tus tipos de munición
+de una vez. Qué pasada, ¿no?
+--- BLOCK ---
+Si le quitas el limitador a una Ballesta
+ligera, aumenta su Ataque. Además,
+puedes cargar Fuego de wyvern, si te va.
+--- BLOCK ---
+Y si también llevas Escudo, 
+funcionará aún mejor. 
+--- BLOCK ---
+No te había visto nunca por aquí.
+... Tienes un aire frío.
+--- BLOCK ---
+Soy el herrero de esta forja.
+Estás en tu casa.
+--- BLOCK ---
+Los cazadores se reúnen en esta ciudad.
+Tenía sentido poner una tienda en ella.
+--- BLOCK ---
+Oye, no te olvides de mí. Trae los
+materiales adecuados y fabricaré
+cualquier cosa que necesites.
+--- BLOCK ---
+He oído que ahora eres un Cazador 
+de élite. 
+¡Vaya sorpresa!
+--- BLOCK ---
+No hay muchos Cazadores de élite,
+así que déjame darte algo.
+--- BLOCK ---
+¡Una Esfera de armadura avanzada!
+Es un tipo de Esfera de armadura
+poco frecuente, ¿sabes?
+--- BLOCK ---
+Ah, y ahora que te has ganado los
+galones, te haré una Armadura de rango
+alto. Es mejor que la basura que usas. 
+--- BLOCK ---
+Pero tienes que traerme partes de
+monstruos de calidad para que pueda
+hacerla. Así que, ¡ponte en marcha!
+--- BLOCK ---
+Te he estado esperando, cazador. 
+Anoche tuve una revelación sobre cómo
+crear un nuevo tipo de arma.
+--- BLOCK ---
+Pero antes de que pueda hacerla, debes
+traerme muchos materiales de sharq.
+--- BLOCK ---
+Puse una de esas solicitudes de misión
+en el Gremio. Échale un vistazo.
+--- BLOCK ---
+No puedo pensar en nadie mejor que tú
+para hacer realidad mi visión.
+¡Te estaré esperando!
+--- BLOCK ---
+¿Sabes que algunas armas tienen
+un elemento de Baba?
+--- BLOCK ---
+Cuanto más golpeas a un monstruo,
+más Baba se acumula en su cuerpo.
+--- BLOCK ---
+Una vez que cubres a la criatura con
+suficiente Baba... ¡BUM! Explota
+y produce un montón de daño.
+--- BLOCK ---
+¡La mejor parte es que el daño también
+afecta a las partes frágiles del cuerpo!
+--- BLOCK ---
+Así es muchísimo más fácil herir
+a un monstruo, te lo aseguro.
+--- BLOCK ---
+La verdad es que me muero por intentar
+hacer una. Así que date prisa
+y ponte en marcha, ¿vale?
+--- BLOCK ---
+¡Bueno! Parece que alguien se ha convertido
+en Maestro cazador, ¿eh? 
+Vaya, lo que hay que oír.
+--- BLOCK ---
+Ahora que eres Maestro cazador, te haré
+una Armadura de rango G. ¡Es mucho
+mejor que esa basura de rango alto!
+--- BLOCK ---
+Claro que para eso tienes que traerme
+materiales de monstruos de rango G.
+--- BLOCK ---
+Ah, sí. Se me olvidaba. Ahora que
+eres Maestro cazador, puedo eliminar
+los limitadores de tus Ballestas.
+--- BLOCK ---
+La opción Sin limitador te abre una
+nueva gama de propiedades de Ballesta.
+--- BLOCK ---
+Te he escrito todo esto en tus Notas
+de cazador... por si te olvidas de algo.
+--- BLOCK ---
+¡Sigue así!
+--- BLOCK ---
+Oye. ¿Cómo va la caza?
+--- BLOCK ---
+Pero mira quién es.
+--- BLOCK ---
+¿Quieres forjar algo?
+--- BLOCK ---
+¡Te doy la bienvenida!
+--- BLOCK ---
+¿Qué tienes hoy para mí?
+--- BLOCK ---
+Qué buen día, ¿no, cazador?
+--- BLOCK ---
+¡Que la suerte te acompañe!
+--- BLOCK ---
+Muchas gracias.
+--- BLOCK ---
+Cuida de ese equipo, ¿eh?
+--- BLOCK ---
+Pásate si encuentras buenos materiales.
+--- BLOCK ---
+Buena suerte. ¡La vas a necesitar!
+--- BLOCK ---
+Vuelve pronto.
+--- BLOCK ---
+Ya sabes dónde estoy.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+No olvides descansar de vez en cuando.
+--- BLOCK ---
+Vamos a hacerte algo especial hoy.
+--- BLOCK ---
+Veamos qué necesitas, cazador.
+--- BLOCK ---
+¿Tienes algo digno de mi forja?
+--- BLOCK ---
+Escúchame aquí y ahora.
+¿Qué puedo hacer por ti?
+--- BLOCK ---

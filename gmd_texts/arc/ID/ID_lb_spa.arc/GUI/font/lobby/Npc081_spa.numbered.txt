@@ -1,0 +1,382 @@
+﻿TMSG_NPC081_0
+--- BLOCK [001] ---
+TMSG_NPC081_1
+--- BLOCK [002] ---
+TMSG_NPC081_2
+--- BLOCK [003] ---
+TMSG_NPC081_3
+--- BLOCK [004] ---
+TMSG_NPC081_4
+--- BLOCK [005] ---
+(!)
+--- BLOCK [006] ---
+(!)
+--- BLOCK [007] ---
+<SUBS 0>
+¡Maravilloso! ¡Debo de ser el mejor 
+empresario del mundo!
+--- BLOCK [008] ---
+He encontrado un proveedor para mis
+bebidas que me ofrece una auténtica
+ganga. ¡Todo parece perfecto!
+--- BLOCK [009] ---
+Para hacer dinero hace falta dinero, y
+yo estoy a punto de forrarme.
+--- BLOCK [010] ---
+<SUBS 1>
+--- BLOCK [011] ---
+<SUBS 0>
+Lo creas o no, una vez llevé una pequeña
+sala de entrenamiento. Fue muy duro.
+--- BLOCK [012] ---
+Pero estaba destinado a algo más, y
+llegó el día en que me libré de aquel
+trabajo tan mal pagado.
+--- BLOCK [013] ---
+<SUBS 1>
+--- BLOCK [014] ---
+<SUBS 0>
+Mira mi piel hermosamente bronceada.
+Estoy más moreno que un Filete al punto.
+--- BLOCK [015] ---
+Harías bien poniéndote gafas de sol
+cuando sonrío, o te deslumbrarán
+mis dientes de oro.
+--- BLOCK [016] ---
+<SUBS 1>
+--- BLOCK [017] ---
+<SUBS 0>
+¿Aún te pasas la vida haciendo cosas
+peligrosas como cazar? ¡Ja, ja, ja!
+--- BLOCK [018] ---
+El dinero es mi amigo más querido,
+después de los amigos que aparecen
+mágicamente cuando saco unos fajos.
+--- BLOCK [019] ---
+Aah... ¡Qué hay mejor que beber algo
+tras un duro día de no hacer nada! Mi
+consejo: ¡hazte rico cuanto antes!
+--- BLOCK [020] ---
+<SUBS 1>
+--- BLOCK [021] ---
+<SUBS 0>
+Qué vida miserable, qué mundo cruel...
+Me cala hasta los huesos...
+--- BLOCK [022] ---
+Ah, me recuerdas a mis viejos tiempos,
+antes de ser rico. No hay como pasarlo
+mal para poner los pies en la tierra.
+--- BLOCK [023] ---
+<SUBS 1>
+--- BLOCK [024] ---
+<SUBS 0>
+Un momento...
+--- BLOCK [025] ---
+Mmm... Son 20 zenis por las bebidas.
+Espera, pedí filetes de Kelbi también,
+así que son otros 5 zenis...
+--- BLOCK [026] ---
+Lo siento. Hace mucho tiempo que no
+tengo presupuesto. ¡Tampoco es
+tan absoluta y totalmente terrible!
+--- BLOCK [027] ---
+<SUBS 1>
+--- BLOCK [028] ---
+<SUBS 0>
+Umm... Hace años que no cazo.
+¡Estoy tan oxidado como mi arma!
+--- BLOCK [029] ---
+Anduve acechando por todas las zonas de
+caza, pero me quedé sin tiempo antes de
+encontrar el monstruo que buscaba.
+--- BLOCK [030] ---
+Pero cazar es como montar en
+botearena: ¡nunca te olvidas!
+--- BLOCK [031] ---
+<SUBS 1>
+--- BLOCK [032] ---
+<SUBS 0>
+Estaba acechando un Lagiacrus, ¡cuando
+supe que la caza acuática es lo mío!
+--- BLOCK [033] ---
+La electricidad, el indicador de oxígeno
+bajando, la comodidad de que los Felyne
+te lleven de vuelta al campamento.
+--- BLOCK [034] ---
+Ahh... ¡Estoy tan feliz de volver
+a cazar! ¡Me siento tan vivo!
+--- BLOCK [035] ---
+<SUBS 1>
+--- BLOCK [036] ---
+<SUBS 0>
+¡Siente esa brisa marina! 
+¡No tiene ni un grano de arena!
+--- BLOCK [037] ---
+Verás, antes trabajaba en una ciudad
+en el desierto. La arena se te metía
+por todas partes. Por TODAS partes.
+--- BLOCK [038] ---
+Me sentía arenoso aun lavándome horas.
+Llegó un punto en que lavarse era una
+pérdida de tiempo. Añoro saltarme baños.
+--- BLOCK [039] ---
+<SUBS 1>
+--- BLOCK [040] ---
+¡Ja! ¡Acabas de encontrar al mejor 
+instructor de caza errante del mundo!
+¡Debe de ser tu día de suerte!
+--- BLOCK [041] ---
+Yo también fui un pobre diablo como tú.
+Me ganaba la vida de pueblo en pueblo
+instruyendo a los aprendices de cazador.
+--- BLOCK [042] ---
+Cada día me busco las castañas... Dicen 
+que el dinero no da la felicidad, ¡pero
+la pobreza compra mucha infelicidad!
+--- BLOCK [043] ---
+¡Entonces fue cuando oí hablar de esta
+oportunidad única! La gente dice que en
+este puerto venden caldos baratísimos.
+--- BLOCK [044] ---
+Si las negociaciones van bien, mi nueva
+dirección será calle Fácil. ¡Quizá le
+ponga tu nombre a un ala de mi mansión!
+--- BLOCK [045] ---
+¡Ja! Acabas de conocer al mejor
+empresario del mundo. El placer
+es todo tuyo, estoy seguro.
+--- BLOCK [046] ---
+Antes era un orgulloso cazador; acechaba
+temibles bestias y hacía el combo
+uno-dos una y otra vez para sobrevivir.
+--- BLOCK [047] ---
+Es cierto: ser pobre apesta,
+¡y nadie apestaba más que yo!
+--- BLOCK [048] ---
+¡Pero esos tristes días de caza (mucho
+peligro por poco dinero) se acabaron!
+¡Basta de beber la vida hasta los posos!
+--- BLOCK [049] ---
+¡Tras años tanteando la destilería, mi
+obra maestra, la Master Cola, triunfó!
+¡Y la versión local, Mosto de Tanzia!
+--- BLOCK [050] ---
+¡Arrasó en Tanzia y ahora es la bebida
+más de moda en la industria!
+¡Los cazadores se beben litros!
+--- BLOCK [051] ---
+Toma, os daré algo para probar.
+¿A qué sabe? Sabe a ÉXITO.
+¡Y hay más de donde vino esto! ¡Jua, ja!
+--- BLOCK [052] ---
+¡Jua, ja, ja! Ah, hola, no te había
+visto. ¿Por qué me miras así? ¿Quieres
+saber por qué me río como un loco?
+--- BLOCK [053] ---
+Me han hablado de una forma aún más
+barata de comprar caldos. Casi lo siento
+por mi competencia. ¡Casi!
+--- BLOCK [054] ---
+¿Otra vez esa mirada? ¡Eh, no juzgues a
+alguien hasta que te hayas puesto en sus
+zapatos enjoyados de piel de Lagiacrus!
+--- BLOCK [055] ---
+Estoy demasiado ocupado para molestarme
+en cazar nada. ¡El tiempo es oro! Tic,
+tac. Tic, tac. ¡Hablando pierdo zenis!
+--- BLOCK [056] ---
+Todo me va como la seda, cazador.
+Cava en mi filón y quizá encuentres una
+moneda. ¡Úsala para comprar una pista!
+--- BLOCK [057] ---
+*Sorbo* *Sorbo*
+*Sorbeteo*
+--- BLOCK [058] ---
+*Sollozo* *Sollozo*
+Estoy... Estoy arruinado...
+*Sorbeteo*
+--- BLOCK [059] ---
+Ah, tú... ¿Por qué me miras así?
+Tú... ¿De verdad te preocupas por mí?
+Guau. Nunca pensé que fueras de esos.
+--- BLOCK [060] ---
+Bueno, ya me conoces. Siempre buscando
+formas de expandir mi negocio. ¿Y por 
+qué no? La codicia es buena, ¿no?
+--- BLOCK [061] ---
+Conocí a un mercader que casi regalaba
+caldos. Y piqué el anzuelo, el sedal y
+la caña. ¡Le di hasta mi último zeni!
+--- BLOCK [062] ---
+¡Resultó ser una estafa! Supongo
+que mi suerte se acabó...
+--- BLOCK [063] ---
+Ese mercader era en realidad un pirata,
+¡con pata de palo, loro y todo! ¡Caí
+en el truco más viejo del manual!
+--- BLOCK [064] ---
+¡Jua, ja, ja! ¡De lo más alto a lo más
+bajo en un momento! ¿Tan crédulo soy?
+Es una pregunta retórica.
+--- BLOCK [065] ---
+¡Ay de mí! ¡Ay de mí! De vuelta a comer
+carne barata y judías en lata. Podría ser
+peor, ¿no? ¿¡No!? ¡Jua, ja! *Sollozo*
+--- BLOCK [066] ---
+¡Toma esta miseria, ladrón!
+Compadécete de mí... ¡soy el
+empresario más arruinado del mundo!
+--- BLOCK [067] ---
+¡Toma esa! Estaba buscando por el
+Gremio algunas migajas de carne cuando
+oí a unos tipos hablar...
+--- BLOCK [068] ---
+¡Decían que una flota de naves del
+Gremio había desaparecido cerca
+del Mar contaminado!
+--- BLOCK [069] ---
+Lo llaman el Mar contaminado, pero esa
+parte del océano siempre fue tranquila.
+Los barcos del Gremio navegaban bien.
+--- BLOCK [070] ---
+Pero ahora... ¡Toda una flota, perdida!
+¡Es como la pesadilla de un marinero!
+--- BLOCK [071] ---
+¡Y esa no es la peor parte! Esos tipos
+culpaban de la desaparición a un
+monstruo desconocido, ¡algo extrañísimo!
+--- BLOCK [072] ---
+Están reuniendo a un equipo para matar
+a la bestia. ¡Eh, conozco esa mirada!
+¡No me digas que estás pensando en ir!
+--- BLOCK [073] ---
+¡Jua, ja, ja, ja! ¿En serio crees que
+tienes alguna posibilidad? Tienes
+agallas, cazador. ¡Eso te lo concedo!
+--- BLOCK [074] ---
+¿Sabes qué? Empiezo a creer
+en lo imposible... incluso más que
+durante mis días de ensalada.
+--- BLOCK [075] ---
+Quizá tu actitud sobrada se me está
+pegando. Podrías dar grandes discursos
+de motivación. Bueno, si hablaras...
+--- BLOCK [076] ---
+Además, estoy harto de tener miedo. Sé
+que tú también lo estás. Ahora, ¡corre
+y enfréntate a la bestia! ¡Jua, ja, ja!
+--- BLOCK [077] ---
+¡Bua, ja, ja, jaa!
+¡Ja, ja, ja!
+--- BLOCK [078] ---
+He oído que cazaste a ese dragón
+anciano, el Miralis funesto.
+--- BLOCK [079] ---
+¡Jua, ja, ja, ja, ja, ja!
+--- BLOCK [080] ---
+¡Me has puesto en marcha, cazador!
+Me muero por cazar un gran monstruo,
+¡o por morir en el intento!
+--- BLOCK [081] ---
+No puedo dejar que acapares toda la
+gloria, después de todo. Es hora de
+volver al juego de... ya sabes, cazar.
+--- BLOCK [082] ---
+Cazar no es solo un trabajo; es una
+aventura. Ya me ha picado el gusanillo.
+--- BLOCK [083] ---
+En otras palabras, ¡se abre la veda!
+¡Jua, ja, ja, ja!
+--- BLOCK [084] ---
+¡No más planes de hacerse rico!
+¡A partir de ahora solo capital humano!
+--- BLOCK [085] ---
+¡Mi futuro es tan brillante, que tengo
+que ponerme gafas de sol!
+--- BLOCK [086] ---
+¡Bebida! ¡Bebida! ¡Dadme bebida!
+--- BLOCK [087] ---
+¡Ja! ¡Tengo más dinero que el Gremio!
+--- BLOCK [088] ---
+¡No puedo parar de reír! ¡Jua, ja, ja!
+--- BLOCK [089] ---
+¡Estoy montado en el zeni y sin frenos!
+--- BLOCK [090] ---
+¡Tráeme lo más caro del menú!
+--- BLOCK [091] ---
+¡¿Qué?! ¡¿Por qué está el vaso vacío?!
+--- BLOCK [092] ---
+Mi dinero habla, y dice: "¡Gástame!".
+--- BLOCK [093] ---
+¡Compra, compra, compra, bua, ja, jaa!
+--- BLOCK [094] ---
+¡El dinero es lo que mueve el mundo!
+--- BLOCK [095] ---
+¡Jua, ja, ja, ja! ¿Quieres un préstamo?
+--- BLOCK [096] ---
+¡Tengo mogollón de zenis!
+--- BLOCK [097] ---
+Colega, ¿te sobra un zeni?
+--- BLOCK [098] ---
+El mundo es muy frío...
+--- BLOCK [099] ---
+*Sorbiendo* ¡No estoy llorando!
+--- BLOCK [100] ---
+El dinero NO lo es todo... ¿verdad?
+--- BLOCK [101] ---
+¡Ja, ja, ja! ¡Vuelvo a ser instructor!
+--- BLOCK [102] ---
+¡Con pobreza se puede comprar felicidad!
+--- BLOCK [103] ---
+¡Tengo poco dinero pero mucho corazón!
+--- BLOCK [104] ---
+¡Bua, ja, ja, jaa!
+--- BLOCK [105] ---
+¡Cazar es la leche!
+--- BLOCK [106] ---
+¡Es un buen día para ser cazador!
+--- BLOCK [107] ---
+¡La vida del cazador es lo mío!
+--- BLOCK [108] ---
+¡Ja, ja, ja! ¡Hasta luego, currito!
+--- BLOCK [109] ---
+¡Bua, ja, jaa! ¡No puedo parar de reír!
+--- BLOCK [110] ---
+¡Ja, ja, ja! ¡Debería comprar
+mi propio país!
+--- BLOCK [111] ---
+Je. Mejor subcontratar que cazar.
+--- BLOCK [112] ---
+¿He dicho ya que tengo dinero?
+--- BLOCK [113] ---
+Je. Mi economía va de perlas.
+--- BLOCK [114] ---
+Dinero: ¡el único amigo que necesitas!
+--- BLOCK [115] ---
+¿Quién necesita reglas teniendo dinero?
+--- BLOCK [116] ---
+¡Te quiero, dinero!
+--- BLOCK [117] ---
+Adiós, puede que no volvamos a vernos...
+--- BLOCK [118] ---
+¿Por qué yo? ¿Por qué yo?
+--- BLOCK [119] ---
+El dinero habla. El mío dice: "¡Adiós!".
+--- BLOCK [120] ---
+¡A la porra las reglas!
+¡Estoy sin blanca!
+--- BLOCK [121] ---
+¡Cazo, luego existo!
+--- BLOCK [122] ---
+¡A ver si cazamos juntos algún día!
+--- BLOCK [123] ---
+¡En cierto modo estoy en deuda contigo!
+--- BLOCK [124] ---
+Aah... ¡Feliz caza! ¡Sí!
+--- BLOCK [125] ---
+¡Bua, ja, ja, jaaaaaaa! *Ejem* Ja.
+--- BLOCK [126] ---
+(!)
+--- BLOCK [127] ---
+(!)
+--- BLOCK [128] ---

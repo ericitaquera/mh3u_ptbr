@@ -1,0 +1,101 @@
+﻿TMSG_NPC017_0
+--- BLOCK ---
+TMSG_NPC017_1
+--- BLOCK ---
+TMSG_NPC017_2
+--- BLOCK ---
+TMSG_NPC017_3
+--- BLOCK ---
+TMSG_NPC017_4
+--- BLOCK ---
+¿Necesitas mi ayuda con algo?
+--- BLOCK ---
+Buena caza, colega.
+--- BLOCK ---
+<SUBS 0>
+Aldea de Moga muy especial, siempre
+primer sitio que visito.
+--- BLOCK ---
+Me gusta su comida sabrosa, la gente
+amable, el frondoso bosque. La gente
+sonríe. Es como... un segundo hogar.
+--- BLOCK ---
+Muy relajante tras semanas en el mar.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Travesía de Argosy con mucho peligro.
+Monstruo ataca una vez o más cada viaje.
+--- BLOCK ---
+Pero no dejaré la vida marinera.
+El agua me llama, y puedo ver
+tierras distintas.
+--- BLOCK ---
+Los monstruos no tan malos con capitán.
+¿Ves qué bien comercia? Pues
+igual de bueno con la espada.
+--- BLOCK ---
+Él enseñarme vuestro idioma y salvar
+mi vida muchas veces.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Argosy suele quedar en puerto varios días
+cuando viene.
+--- BLOCK ---
+Así tienes tiempo de ir al bosque y
+buscar Bienes que necesitas antes
+de nosotros volver a zarpar, ¿eh?
+--- BLOCK ---
+No agobiar si no tienes objetos para
+canjear. ¡Tienes tiempo, si corres!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Qué? ¿Te preguntas por qué capitán
+hablar tan bien tu idioma?
+--- BLOCK ---
+No lo sé claro, pero si viajas por
+el mundo, aprendes esas cosas,
+¿no?
+--- BLOCK ---
+Es muy importante... ¿cómo se dice?,
+¿amplificar tus horizontes?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Conoces Neko, ¿no? Comercia en Puerto
+Tanzia. Él es otro marinero de capitán.
+--- BLOCK ---
+Dicen que capitán encuentra Neko
+ahogando en mar y salva su vida.
+--- BLOCK ---
+Neko quiere agradecer y sigue a capitán,
+hasta que capitán por fin cede y deja
+que Neko convierta en tripulante.
+--- BLOCK ---
+Neko estudiar mucho las normas de canje.
+Ahora llevar todos negocios con Tanzia.
+<SUBS 1>
+--- BLOCK ---
+Hola otra vez, cazador.
+--- BLOCK ---
+Hola, hola. ¿Me recuerdas, amigo?
+--- BLOCK ---
+Buena caza trae buen canje, ¿verdad?
+--- BLOCK ---
+¿Quieres canjear? Habla con el capitán.
+--- BLOCK ---
+Me gusta volver a estar en tierra.
+--- BLOCK ---
+Disculpa, me tengo que ir.
+--- BLOCK ---
+Volveremos a hablar cuando vuelva, ¿eh?
+--- BLOCK ---
+Buena caza, colega.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

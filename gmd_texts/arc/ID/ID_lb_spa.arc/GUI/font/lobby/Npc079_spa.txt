@@ -1,0 +1,185 @@
+﻿TMSG_NPC079_0
+--- BLOCK ---
+TMSG_NPC079_1
+--- BLOCK ---
+TMSG_NPC079_2
+--- BLOCK ---
+TMSG_NPC079_3
+--- BLOCK ---
+TMSG_NPC079_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¿Has usado una Gran espada antes? Son
+armas poderosas. ¡Hacen volar
+a los enemigos con un solo golpe!
+--- BLOCK ---
+Una Gran espada hace mucho daño, pero
+su peso te ralentiza. ¡Intenta evadirte
+justo después de asestar un golpe!
+--- BLOCK ---
+Los cazadores suelen llevar Espada y
+Escudo. Supone un delicado equilibrio de
+ataque, defensa y movilidad. ¡Como yo!  
+--- BLOCK ---
+¿Sabes lo que me gusta de la Espada y el
+Escudo? Que puedes usar objetos sin
+soltar tu arma. ¡Doble amenaza!
+--- BLOCK ---
+¿Has usado un Martillo? Puede que
+parezcan pesados y poco manejables pero,
+en realidad, ¡puedes ser bastante ágil!
+--- BLOCK ---
+¡Me encantan los Martillos! Si le das
+en el coco a un monstruo y lo aturdes,
+¡puedes ir a la ciudad montado en él!
+--- BLOCK ---
+Lanzas. ¡Te encantarán! Con ellas
+puedes bloquear con un escudo y esperar
+a que el enemigo baje la guardia.
+--- BLOCK ---
+A los cazadores les encantan las lanzas.
+¡El contralanzazo que puedes hacer tras
+un bloqueo es el ataque más popular!
+--- BLOCK ---
+¿Has usado una Lanza pistola?
+Está muy de moda. ¡Ese ataque
+de Fuego de wyvern es brutal!
+--- BLOCK ---
+La Lanza pistola prende fuego a todo
+lo que hay delante con el ataque Fuego
+reventón. ¡Te hace sentir vivo! ¡Ja, ja!
+--- BLOCK ---
+El Hacha espada. ¡Vaya arma!
+Tiene modos Hacha y Espada, ¡lo que te
+ofrece una gran variedad de ataques!
+--- BLOCK ---
+¡Hasta el nombre Hacha espada es genial!
+Puede ser difícil de usar pero, una
+vez que le coges el truco, ¡eres lo más!
+--- BLOCK ---
+Las Espadas largas son las mejores. Con
+su largo filo podrás atacar de forma
+agresiva con movimientos fluidos.
+--- BLOCK ---
+Si quieres reírte, ¡carga el Indicador
+espiritual de una Espada larga y ve a la
+ciudad con ataques de Espada espiritual!
+--- BLOCK ---
+Las Hojas duales son muy elegantes.
+Es más un baile que una pelea, aunque
+el resultado es el mismo. ¡Ja!
+--- BLOCK ---
+Con el modo Demoníaco de las Hojas
+duales, te conviertes en una máquina de
+matar... ¡mientras dure tu resistencia!
+--- BLOCK ---
+Algunos cazadores confían ciegamente en
+sus Flautas. Son extrañas armas que
+te fortalecen a ti y a tus aliados.
+--- BLOCK ---
+Si repites la misma melodía con una
+Flauta, el efecto y la duración se ven
+aumentadas en gran manera.
+--- BLOCK ---
+Si quieres un combate a distancia,
+piensa en una Ballesta ligera. Con ellas
+te moverás rápido y sembrarás el caos.
+--- BLOCK ---
+La Ballesta ligera tiene un modo Fuego
+rápido. Las balas no hacen tanto daño,
+¡pero así disparas un montón de ellas!
+--- BLOCK ---
+La Ballesta pesada es poco manejable
+pero tiene una gran potencia de fuego.
+No encontrarás mejor calidad-precio.
+--- BLOCK ---
+Si usas el modo Disparo agachado de una
+Ballesta pesada, podrás disparar algunos
+tipos de munición sin recargar. ¡Guau!
+--- BLOCK ---
+Lo sé. Los Arcos están muy vistos.
+Pero entre los Ataques de carga y los
+Revestimientos de flechas, ¡son ideales!
+--- BLOCK ---
+Si usas un Arco, debes dominar el arte
+de los Disparos con arco cargados. Así
+podrás golpear partes del cuerpo.
+--- BLOCK ---
+¡Eh, hola! ¿Tu primera vez aquí?
+--- BLOCK ---
+No te preocupes. No muerdo...
+¡DEMASIADO! ¡Ja, ja, ja, ja!
+--- BLOCK ---
+Soy el Vendedor de armas de este puerto.
+Si necesitas armas o armaduras,
+¡yo soy tu hombre!
+--- BLOCK ---
+¡Esta tienda es para todo el mundo,
+desde los novatos más verdes hasta
+los veteranos más experimentados!
+--- BLOCK ---
+Sé que algunos cazadores prefieren
+al herrero, ¡pero a veces puedo
+ofrecerte muy buenas ofertas!
+--- BLOCK ---
+Puede que no fabrique mis mercancías
+pero son de una calidad inigualable.
+¡Te lo garantizo!
+--- BLOCK ---
+Claro que, al ser mi tienda, suelo tener
+artículos que me gustan. Pero estoy
+seguro de que encontrarás lo que buscas.
+--- BLOCK ---
+¡Si tienes la guita, yo tengo lo que
+necesitas! Ese es mi lema. Me lo
+he inventado yo. ¡Ja, ja, ja!
+--- BLOCK ---
+Bueno, se acabó el rollo comercial.
+Pégame un grito si se te antoja
+alguna cosa.
+--- BLOCK ---
+Pero mira quién acaba de entrar.
+¡El Cazador de élite! ¡No está mal!
+No está nada mal.
+--- BLOCK ---
+Claro que, ahora que te has unido a las
+filas de los Cazadores de élite, querrás
+vestir el cargo. ¿Me equivoco?
+--- BLOCK ---
+Por suerte para ti, tengo mercancías
+nuevas. ¡Echa un vistazo!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+¡Vuelve cuando quieras!
+--- BLOCK ---
+Siempre es un placer ayudar
+a un cazador necesitado.
+--- BLOCK ---
+Hoy hace más calor que en una
+cocina de Rathian. ¡Cuídate!
+--- BLOCK ---
+Suerte con la caza. ¡Cuanto mejor lo
+hagas, más podrás gastar aquí! ¡Ja, ja!
+--- BLOCK ---
+¿Ya has acabado? ¡Si acabas de llegar!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Bueno, basta de charla. ¡A trabajar!
+--- BLOCK ---
+Está bien, vayamos al grano.
+--- BLOCK ---
+¡Echa un vistazo!
+--- BLOCK ---
+Tengo algo justo para ti.
+--- BLOCK ---
+¿Qué deseas, cazador?
+--- BLOCK ---
+Bueno, ¿qué puedo hacer por ti?
+--- BLOCK ---

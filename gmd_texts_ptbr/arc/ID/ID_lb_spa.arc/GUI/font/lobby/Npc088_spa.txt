@@ -1,0 +1,467 @@
+TMSG_NPC088_0
+--- BLOCK ---
+TMSG_NPC088_1
+--- BLOCK ---
+TMSG_NPC088_2
+--- BLOCK ---
+TMSG_NPC088_3
+--- BLOCK ---
+TMSG_NPC088_4
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Essas são as missões que
+você pode começar atualmente...
+--- BLOCK ---
+Não há taxa para essa missão. Entendo
+que isso é bom para você.
+--- BLOCK ---
+Você terá que desembolsar $ z
+para aceitar essa missão. Negócio feito?
+--- BLOCK ---
+Espera, você não tem dinheiro suficiente
+para aceitar essa missão. Que pena.
+--- BLOCK ---
+Parece que você não atende
+aos critérios para aceitar essa
+missão. Quer escolher outra?
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+Hein? Quer cancelar a missão? Se
+você a iniciou, o grupo se
+dissolverá. Está bem para você?
+--- BLOCK ---
+Você que manda. A missão
+foi cancelada. Volte em breve.
+--- BLOCK ---
+A missão foi cancelada, então
+suponho que é isso.
+--- BLOCK ---
+Então está desistindo? Se insiste...
+--- BLOCK ---
+<SUBS 0>
+Aqui você precisa derrotar monstros usando
+apenas os itens e equipamentos que fornecemos.
+--- BLOCK ---
+Interessado em uma missão de Arena?
+Venha me ver primeiro! Vou
+te preparar para o espetáculo.
+--- BLOCK ---
+<SUBS 0>
+Todo o dinheiro que fazemos aqui
+vai direto para a Guilda.
+--- BLOCK ---
+Isso não é um negócio barato,
+sabe? Nossa prevenção de riscos
+para caçadores custa uma fortuna!
+--- BLOCK ---
+<SUBS 0>
+Aqui também é onde você pode conferir
+a classificação da Arena.
+--- BLOCK ---
+E, se você ativou o StreetPass,
+também verá as marcas das
+pessoas com quem trocou dados.
+--- BLOCK ---
+<SUBS 0>
+Você sabia que criamos muitos
+monstros ferozes aqui na Arena?
+--- BLOCK ---
+A maioria das pessoas nunca vê um
+monstro real em liberdade. Visitar a
+Arena é o mais próximo disso.
+--- BLOCK ---
+<SUBS 0>
+Já comeu no restaurante Tanzyne?
+É certificado pela Guilda.
+--- BLOCK ---
+É uma pena que os efeitos da
+comida desapareçam ao entrar na Arena. Você
+tem que confiar em seus próprios recursos.
+--- BLOCK ---
+<SUBS 0>
+O quê? Se alguma vez eu te espiei
+quando está em missões na Arena?
+--- BLOCK ---
+Bem, para ser sincero...
+--- BLOCK ---
+Talvez eu dê uma olhada em sua
+habilidade de caça às vezes. Não se
+engane, estou apenas fazendo meu trabalho.
+--- BLOCK ---
+<SUBS 0>
+Você quer conferir suas marcas e
+as de caçadores de outros portos?
+--- BLOCK ---
+Nesse caso, dê uma olhada na
+Classificação. É só me dizer
+quando quiser dar uma olhada.
+--- BLOCK ---
+Se você registrar seus dados do StreetPass,
+a Classificação será atualizada com as
+marcas das pessoas do seu StreetPass.
+--- BLOCK ---
+<SUBS 0>
+Você sabe? É bem conhecido que os monstros
+vêm em todas as formas e espécies...
+--- BLOCK ---
+Consegue imaginar todas as feras
+esperando para serem descobertas?
+Dá arrepios, não é?
+--- BLOCK ---
+Você reconhece a garota que
+trabalha no balcão de missões?
+--- BLOCK ---
+Deveria... é minha irmãzinha. Deveria
+passar lá e cumprimentá-la. Ela
+sempre fala de você, sabe?
+--- BLOCK ---
+<SUBS 0>
+Já aprendeu na prática como
+desviar de um ataque?
+--- BLOCK ---
+Chamamos isso de universidade dos golpes. Mas
+nada afia os reflexos como um pouco
+de dor. A Arena te ajuda!
+--- BLOCK ---
+<SUBS 0>
+Você está de olho na Classificação,
+não está? Sim? Ótimo.
+--- BLOCK ---
+Use para ver em quais portos estão
+os caçadores realmente bons. Fico curioso
+se SUAS marcas são tão boas.
+--- BLOCK ---
+Por que essa cara entediada? Se tem
+tempo para conversar, também tem para caçar.
+Agora se apresse e entre na Arena!
+--- BLOCK ---
+Ah, desculpe. Minha irmã sempre me repreende
+por ser mandona. Acho que devo
+relaxar um pouco. Não? Não mesmo?
+--- BLOCK ---
+<SUBS 0>
+Já pegou o jeito da Arena? Talvez tenha
+dedicado tempo a novas armas?
+--- BLOCK ---
+Percebo... Você pegou a febre da Arena!
+A única cura é fazer TODAS as
+missões de Arena. Será sua terapia!
+--- BLOCK ---
+<SUBS 0>
+Minha irmã diz que você é como
+um peixe... tem coragem!
+--- BLOCK ---
+Ei, por que não ri? É uma
+piada! E minha irmã diz que
+EU tenho que me animar. Então...
+--- BLOCK ---
+<SUBS 0>
+Ultimamente você tem deixado o
+público em suspense... inclusive eu!
+--- BLOCK ---
+Continue com o teatro. No final,
+precisamos encher as arquibancadas. É
+assim que o Gremio sobrevive!
+--- BLOCK ---
+Ótimo! Agora você precisa tentar
+o melhor tempo. Sabe
+o que isso significa...
+--- BLOCK ---
+Deve vir à Arena ainda
+mais frequentemente. Até logo, caçador!
+--- BLOCK ---
+O quê? Não há espaço para sua
+equipe na sua Caixa de objetos.
+--- BLOCK ---
+Um bom caçador está sempre organizado.
+Volte quando tiver organizado sua caixa.
+--- BLOCK ---
+Este balcão oferece todos
+os serviços da Arena.
+--- BLOCK ---
+Você também pode ver as classificações que
+mostram suas marcas e as de outros
+caçadores. Dê uma olhada se quiser.
+--- BLOCK ---
+Olá. Isso é a Arena...
+--- BLOCK ---
+Ah, um rosto novo!
+Acabou de desembarcar.
+--- BLOCK ---
+Este é o balcão da Arena. Você sabe
+disso, não é? Mesmo assim, é um novato.
+--- BLOCK ---
+A Arena patrocina uma caçada como
+nenhuma outra. Enfrentamos caçadores e monstros
+diante de um público entusiasmado!
+--- BLOCK ---
+Nosso público quer ver uma batalha de inteligência!
+Eles exigem uma caçada real que não
+dependa de uma equipe cara e sofisticada.
+--- BLOCK ---
+Efeitos de comida? Não funcionam aqui!
+Superarmadura? Não na Arena! Use apenas
+o equipamento que NÓS te damos.
+--- BLOCK ---
+Um caçador experiente pode lidar com
+qualquer situação. E você? Parece
+que precisa de mais experiência.
+--- BLOCK ---
+Mas não vou te deter. Se quiser
+experimentar uma missão de Arena, avise-me.
+--- BLOCK ---
+Ah, e também registraremos seus tempos
+nas Classificações. Será um prazer mostrar
+a você quando conversar comigo.
+--- BLOCK ---
+Pegue cartões do Gremio de caçadores
+para que eles também apareçam. Talvez
+encontre um rival à sua altura!
+--- BLOCK ---
+Isso é basicamente um resumo. Não hesite
+em pedir para repetir o que
+for. Acredite ou não, adoro ajudar.
+--- BLOCK ---
+Faça o seu melhor!
+--- BLOCK ---
+Ah, bem-vindo ao balcão da Arena.
+Ah, é você. Estava te esperando.
+--- BLOCK ---
+Hein? Não, não é uma chamada
+pessoal. Tenho uma mensagem para você.
+--- BLOCK ---
+Na verdade são boas notícias: Você
+foi autorizado a caçar monstros mais
+poderosos nas missões da Arena.
+--- BLOCK ---
+Parece que o Gremio viu
+algo em você, não é?
+--- BLOCK ---
+Acho que devo me desculpar.
+Em... Ah... Desculpe por
+te chamar de novato.
+--- BLOCK ---
+Ufa! No final não foi tão
+difícil. Olha como estou relaxada, irmã!
+--- BLOCK ---
+Agora você tentará missões de
+Arena de níveis mais altos,
+certo? Vamos lá, vamos lá!
+--- BLOCK ---
+Seja bem-vindo ao balcão da
+Arena. Ah, é você! O
+caçador que eu estava esperando.
+--- BLOCK ---
+Você é o assunto do Gremio nos
+dias de hoje. Todo mundo ouviu falar
+de suas façanhas únicas, e querem mais!
+--- BLOCK ---
+Você foi autorizado a caçar
+monstros ainda mais fortes em
+missões de Arena. Excelente, caçador!
+--- BLOCK ---
+Feito. Agora você é definitivamente
+um caçador de verdade.
+--- BLOCK ---
+Viu? Sei como elogiar
+alguém quando merece.
+--- BLOCK ---
+Claro que, agora que é um
+caçador de verdade, espero ainda mais
+de você. Não me decepcione!
+--- BLOCK ---
+Incrível! Completou todas as
+missões da Arena!
+--- BLOCK ---
+Tivemos um público recorde na Arena,
+tudo graças a você. Todos estão
+com a febre da Arena!
+--- BLOCK ---
+E... Bem... Na verdade tenho uma recompensa
+para você. Tome, e não diga que
+nunca te dei nada! *Cof* Por favor...
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Olá. Este é o balcão da Arena.
+--- BLOCK ---
+Olá. Este é o balcão da Arena.
+--- BLOCK ---
+Olá. Você está no balcão da Arena.
+--- BLOCK ---
+*Bocejo* Oh, desculpe. Esqueça isso!
+--- BLOCK ---
+Ah, olá.
+--- BLOCK ---
+Quer uma briga na Arena?
+--- BLOCK ---
+Quer uma briga na Arena?
+--- BLOCK ---
+Olá. Você está no balcão da Arena.
+--- BLOCK ---
+*Bocejo* Oh, desculpe. Esqueça isso!
+--- BLOCK ---
+Ah, olá.
+--- BLOCK ---
+Imaginei que voltaria.
+--- BLOCK ---
+Imaginei que voltaria.
+--- BLOCK ---
+Olá. Você está com uma boa aparência hoje.
+--- BLOCK ---
+Olá. Você está com uma boa aparência hoje.
+--- BLOCK ---
+Olá. Já pegou o jeito da caça?
+--- BLOCK ---
+Olá. Já pegou o jeito de caçar?
+--- BLOCK ---
+Ah, parece que você está pronto para agitar as coisas.
+--- BLOCK ---
+Ah, parece que você está pronto para agitar as coisas.
+--- BLOCK ---
+Ei, eu te conheço. Vai para a Arena, né?
+--- BLOCK ---
+Ei, eu te conheço. Vai para a Arena, né?
+--- BLOCK ---
+Você vai voltar. Eu sei que vai.
+--- BLOCK ---
+Ótimo. Até mais.
+--- BLOCK ---
+Muito bem. Até logo.
+--- BLOCK ---
+Você vai entrar na próxima. Eu sei que vai.
+--- BLOCK ---
+Você vai voltar. Eu sei que vai.
+--- BLOCK ---
+Ótimo. Até mais.
+--- BLOCK ---
+Muito bem. Até logo.
+--- BLOCK ---
+Você vai entrar na próxima. Eu sei que vai.
+--- BLOCK ---
+Cuide-se no caminho de volta.
+--- BLOCK ---
+Cuide-se no caminho de volta.
+--- BLOCK ---
+Na próxima, vai nos dar um show?
+--- BLOCK ---
+Na próxima, vai nos dar um show?
+--- BLOCK ---
+Muito bem. Até logo.
+--- BLOCK ---
+Já está indo? Muito bem.
+--- BLOCK ---
+Já está indo? Muito bem.
+--- BLOCK ---
+Alguns fãs perguntaram por
+você. Querem saber quando
+voltará para a Arena.
+--- BLOCK ---
+Alguns fãs perguntaram por
+você. Querem saber quando
+voltará para a Arena.
+--- BLOCK ---
+Não custa aparecer de vez
+em quando por aqui, sabe?
+--- BLOCK ---
+Não custa aparecer de vez
+em quando por aqui, sabe?
+--- BLOCK ---
+Hum. No momento, há
+poucas missões disponíveis. Qual
+é o plano?
+--- BLOCK ---
+Hum. No momento, há
+poucas missões disponíveis. Qual
+é o plano?
+--- BLOCK ---
+Hum, acredito que se a Guilda achar
+que você é forte o suficiente, vão
+te dar mais opções de missões.
+--- BLOCK ---
+Hum, acredito que se a Guilda achar
+que você é forte o suficiente, vão
+te dar mais opções de missões.
+--- BLOCK ---
+E então, novato? Vai
+aceitar uma missão?
+--- BLOCK ---
+Qual é o plano, caçador? Pode
+atrair público se voltar a entrar.
+--- BLOCK ---
+Qual é o plano, caçador? Pode
+atrair público se voltar a entrar.
+--- BLOCK ---
+Ótimo. Missões de Arena. Eu sei.
+--- BLOCK ---
+Espero que o público esteja animado hoje.
+--- BLOCK ---
+Tem muitas missões em aberto
+agora. Qual é o plano?
+--- BLOCK ---
+O que vai fazer? O público vai
+ficar louco se voltar a aparecer.
+--- BLOCK ---
+Agora é a hora de brilhar.
+--- BLOCK ---
+É hora do espetáculo!
+--- BLOCK ---
+Ótimo, missões de Arena. O que precisa?
+--- BLOCK ---
+Ah, sim, o posto da Arena. Sim?
+--- BLOCK ---
+O que será hoje?
+--- BLOCK ---
+Mostre-me o que tem!
+--- BLOCK ---
+Vai entrar, né? Eu sei que vai.
+--- BLOCK ---
+Então, qual é o plano?
+--- BLOCK ---
+Tente não se machucar... A menos
+que o público queira sangue.
+--- BLOCK ---
+Tente não derramar muito sangue.
+Pode ter crianças na plateia.
+--- BLOCK ---
+Isso é um espetáculo
+esportivo. Não se segure!
+--- BLOCK ---
+Talvez eu compre um
+ingresso para isso!
+--- BLOCK ---
+Darei uma olhada durante minha pausa.
+--- BLOCK ---
+Não precisa me narrar.
+--- BLOCK ---
+Lembre-se, tem direito a bandagens
+gratuitas se apanhar muito.
+--- BLOCK ---
+Faça o pessoal se divertir!
+--- BLOCK ---
+Sim! Vamos lá!
+--- BLOCK ---
+Siga até a porta de saída.
+--- BLOCK ---
+É hora de brilhar.
+--- BLOCK ---
+Os monstros são bem resistentes. Mas
+vão dar uma boa briga!
+--- BLOCK ---
+É a hora. Só precisa vencer!
+--- BLOCK ---
+Vai conquistar o público
+ou fazê-los dormir?
+--- BLOCK ---
+Ok, vou comprar um ingresso e
+assistir. Normalmente não faço isso!
+--- BLOCK ---
+Ok! Vou comprar um ingresso e
+assistir. Espero que valha a pena!
+--- BLOCK ---

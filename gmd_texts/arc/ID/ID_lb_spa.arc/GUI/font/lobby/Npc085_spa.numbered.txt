@@ -1,0 +1,734 @@
+﻿TMSG_NPC085_0
+--- BLOCK [001] ---
+TMSG_NPC085_1
+--- BLOCK [002] ---
+TMSG_NPC085_2
+--- BLOCK [003] ---
+TMSG_NPC085_3
+--- BLOCK [004] ---
+TMSG_NPC085_4
+--- BLOCK [005] ---
+<SUBS 3>
+--- BLOCK [006] ---
+<SUBS 1>
+--- BLOCK [007] ---
+<SUBS 2>
+--- BLOCK [008] ---
+*Trago, trago* Aah, ¿ya tienes sed de
+caza, joven? Siempre puedes unirte a
+otros hasta que ganes experiencia.
+--- BLOCK [009] ---
+¿Ves el Tablón de misiones de
+ahí? Examínalo y úsalo para aceptar
+las mismas misiones que tus amigos.
+--- BLOCK [010] ---
+Ah, y nada supera a un buen diario.
+Empezaré con la entrada de hoy:
+"Un amigo no te dejará cazar solo".
+--- BLOCK [011] ---
+*Trago, trago* *Eructo* Por cierto,
+espero que sepas que tienes que pagar
+una Tarifa cuando aceptas una misión.
+--- BLOCK [012] ---
+Pero no te preocupes, chavalín. Te
+devolvemos el dinero si la completas.
+--- BLOCK [013] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "No seas tacaño. 
+¡Una Tarifa es una buena inversión!"
+--- BLOCK [014] ---
+<SUBS 0>
+Hoy te voy a hablar de las
+misiones urgentes. 
+--- BLOCK [015] ---
+Piensa que son como pruebas para pillar
+un buen ascenso. Las misiones urgentes
+tienes que aceptarlas tú mismo. 
+--- BLOCK [016] ---
+Aun así puedes invitar a otros amigos,
+así que avísalos y tráete tantos como
+puedas. ¡Cuantos más, mejor!
+--- BLOCK [017] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "Elige misiones urgentes
+para conseguir el ascenso. ¡Atento!"
+--- BLOCK [018] ---
+<SUBS 0>
+Por cierto, esas misiones de rango alto
+tienen una pequeña trampa.
+--- BLOCK [019] ---
+Esa trampa se llama Deviljho. Y es una
+bestia engañosa. Nunca sabes cuándo ni
+dónde aparecerá. ¡Quizá detrás de ti! 
+--- BLOCK [020] ---
+*Trago* Quizá pienses que estás listo
+para las misiones de rango alto, ¡pero
+subestimar a ese Deviljho es peligroso!
+--- BLOCK [021] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "El Deviljho aparece en
+las misiones de rango alto. ¡Cuidado!"
+--- BLOCK [022] ---
+<SUBS 0>
+Eh, ¿sabías que otros cazadores
+te pueden dar objetos?
+--- BLOCK [023] ---
+Es más fácil que beber un trago. *Trago*
+Simplemente presiona el botón frente al
+objeto que te entregan para aceptarlo.
+--- BLOCK [024] ---
+¿Tienes a un inexperto en tu grupo con
+pocos materiales? Dale objetos de
+recuperación. ¡Te lo agradecerá!
+--- BLOCK [025] ---
+Lo curioso de dar objetos: si el
+artículo es una parte de monstruo cara
+o es muy raro, no podrás venderlo.
+--- BLOCK [026] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "Es mejor dar que
+recibir, aunque recibir tampoco apesta".
+--- BLOCK [027] ---
+<SUBS 0>
+Ya es hora de que aprendas acerca de las
+tarjetas y títulos del Gremio, ¿sí? Sí.
+--- BLOCK [028] ---
+Las tarjetas del Gremio cuentan tu vida
+en pocas palabras. Te presentan a otros
+y les dicen tu historial de caza.
+--- BLOCK [029] ---
+¿Quieres ver cómo te ve el mundo? 
+Selecciona Tarjeta del Gremio en el 
+Menú del juego y elige Examinar.
+--- BLOCK [030] ---
+Desde ahí, podrás elegir el contenido
+para la tarjeta y crear tu propio título
+a partir de las que hayas conseguido.
+--- BLOCK [031] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "Juega bien tus tarjetas
+de Gremio y no volverás a cazar solo".
+--- BLOCK [032] ---
+*Trago, trago* ¡Ah, bienvenido, novato!
+Estás aquí para registrarte como cazador.
+Has venido al lugar adecua... *Eructo*
+--- BLOCK [033] ---
+Uf. Perdóname, ser el jefe de este
+Gremio de cazadores me da sed. Se
+necesita cafeína para reunirlos.
+--- BLOCK [034] ---
+Puerto Tanzia es muy atractivo para
+mercaderes, pero los cazadores lo han 
+tomado hace poco. ¡Es su base operativa!
+--- BLOCK [035] ---
+Esta ciudad se construyó sobre el lomo
+de jóvenes como tú. Cuanto más cazas,
+más prospera Tanzia. ¡Y también come!
+--- BLOCK [036] ---
+Los del Gremio estamos aquí para lo que
+necesites. Tú solo preocúpate de mejorar
+tus habilidades y completar cacerías.
+--- BLOCK [037] ---
+*Trago, trago* Bueno, aún no tienes que
+echar la gota gorda. Por ahora, curiosea
+por aquí y familiarízate con todo.
+--- BLOCK [038] ---
+Ah, una cosa más. ¿Ves ese gong
+detrás de mí? Es el orgullo del Gremio.
+--- BLOCK [039] ---
+Si golpeas el gong, convocarás a todos
+los cazadores de la región hasta
+este mismo puerto.
+--- BLOCK [040] ---
+Nada mejor que cazar con unos amigos.
+¡Es una experiencia trascendental!
+--- BLOCK [041] ---
+Si estás en tu propio Puerto Multi,
+podrás golpear el gong cuando quieras.
+¡Música para mis oídos!
+--- BLOCK [042] ---
+Hay muchas otras reglas y rituales
+y eso. Mira tus Notas de cazador si
+tienes ganas de ir al grano. 
+--- BLOCK [043] ---
+*Ejem* Aquí y ahora te declaro cazador
+oficial de esta ciudad. No manches
+ahora nuestro buen nombre, ¿eh? *Eructo* 
+--- BLOCK [044] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "Todo gran viaje
+empieza con un paso. ¡No tropieces!"
+--- BLOCK [045] ---
+... *Eructo* ¡Qué cabeza! ¡Casi
+se me olvida un detalle crucial!
+--- BLOCK [046] ---
+¿Ya has conocido al Mensajero Felyne
+en los muelles?
+--- BLOCK [047] ---
+Él te puede ayudar con la configuración
+de tu StreetPass. Si aún no has
+hablado con él, ¿por qué no lo visitas?
+--- BLOCK [048] ---
+Activa StreetPass y podrás intercambiar
+tarjetas del Gremio con un montón de
+cazadores que aún no conoces.
+--- BLOCK [049] ---
+Por supuesto, también puedes cambiar
+tarjetas del Gremio con cazadores que
+conozcas en persona.
+--- BLOCK [050] ---
+¡Y escucha! Los cazadores con los 
+que hayas cambiado tarjetas del Gremio
+vendrán de vez en cuando a esta Taberna.
+--- BLOCK [051] ---
+Los llamamos Cazadores a sueldo.
+No querrás olvidarte de eso, chavalín.
+--- BLOCK [052] ---
+¿Podrías imaginar qué hacemos con
+estos Cazadores a sueldo?
+--- BLOCK [053] ---
+¡Les damos misiones, claro!
+--- BLOCK [054] ---
+Cada cazador escoge una misión
+diferente. Elige con cuidado cuando
+decidas quién va a ir a cada misión.
+--- BLOCK [055] ---
+Por supuesto, tienes que pagar cada vez
+que envíes a un cazador a una misión. Al
+fin y al cabo son Cazadores a sueldo.
+--- BLOCK [056] ---
+¡Recuerda, no te encontrarás con ningún
+Cazador a sueldo si no cambias tarjetas!
+--- BLOCK [057] ---
+¡Espero que te cruces con un variopinto
+grupo de guerreros y héroes y qué se yo!
+--- BLOCK [058] ---
+*Trago, trago* ¡Ah, acabas de llegar
+y ya estás poniendo en evidencia a
+los demás cazadores!
+--- BLOCK [059] ---
+Gracias a tu valentía, acaba de llegar
+una misión urgente que lleva tu nombre.
+--- BLOCK [060] ---
+Vas a cazar al infame Lagiacrus.
+Es una bestia marina, así que
+prepárate para mojarte.
+--- BLOCK [061] ---
+Pero hay un problema. Solo tú
+puedes aceptar está misión urgente.
+--- BLOCK [062] ---
+Dicho esto, también puedes llevarte
+a unos amigos. ¡Trae tantos como
+puedas! ¡Monta un grupo!
+--- BLOCK [063] ---
+Tu Rango cazador (RC) subirá si terminas
+esta misión, ¡así que no te ahogues!
+*Trago, trago*
+--- BLOCK [064] ---
+La entrada de hoy de tu Diario de
+Cazador novato: "Pasa la prueba de la
+misión urgente, ¡y triunfarás seguro!"
+--- BLOCK [065] ---
+*Trago* *Tos* *Balbuceo*
+¡Vaya, completaste la misión urgente!
+--- BLOCK [066] ---
+¡Estás en racha, joven! Tendré
+que ofrecerte misiones más difíciles
+a partir de ahora.
+--- BLOCK [067] ---
+Ah, quería preguntarte... ¿Te has
+encontrado ya con Cazadores a sueldo?
+--- BLOCK [068] ---
+Si tienes alguna misión en mente para
+los Cazadores a sueldo, ven a verme.
+--- BLOCK [069] ---
+Basándome en tus preferencias, puedo
+reducir los tipos de misiones que
+ofrecen cuando se pasan por la Taberna.
+--- BLOCK [070] ---
+*Trago, trago* Ahora te estarás muriendo
+por probar las misiones de rango alto.
+--- BLOCK [071] ---
+¡Joven con suerte! Justo tengo una
+petición de matar una Rathian y un
+Rathalos. ¿Pensabas en algo así?
+--- BLOCK [072] ---
+Puede que antes te hayas enfrentado a
+ellos uno por uno, pero espera a
+probar sus fuerzas combinadas. *Eructo*
+--- BLOCK [073] ---
+Se me repite solo de pensarlo.
+Acorralando a uno solo consigues poner
+al otro aún más furioso e inmanejable.
+--- BLOCK [074] ---
+Ah, ¿he dicho que es la época de celo?
+Esas bestias calientes atacarán a todo
+lo que se les ponga por delante.
+--- BLOCK [075] ---
+Pero imagino que aun así podrás
+manejarlo, chavalín.
+--- BLOCK [076] ---
+Tu siguiente entrada del Diario de
+Cazador novato es: "¡Cielo y tierra! 
+¡Rathian y Rathalos! ¿Triunfo o muerte?"
+--- BLOCK [077] ---
+¿Eso te da ganas de cazar,
+chavalín? ¡Demuéstralo! 
+--- BLOCK [078] ---
+Y si necesitas un poco de motivación,
+¡tu Rango cazador subirá en cuanto
+completes la misión! *Trago, trago*
+--- BLOCK [079] ---
+¡Me han dicho que has cazado a la
+Rathian y el Rathalos! ¿Qué tal un
+brindis por tu éxito? *Trago* *Eructo*
+--- BLOCK [080] ---
+Siempre creí que tenías potencial,
+joven, ¡pero no TANTO! ¡Eres un
+cazador prolijo! ¿O era prodigio?
+--- BLOCK [081] ---
+*Ejem* ¡Sea como sea, el Gremio te
+reconoce como Cazador de élite!
+--- BLOCK [082] ---
+¡Un ascenso oficial requiere un brindis!
+¡Que se abra el grifo! *Trago, trago*
+--- BLOCK [083] ---
+Bueno, ¡basta de festejos! Ahora tienes
+misiones de rango alto que pelear.
+¡Las anteriores eran juegos de Felyne!
+--- BLOCK [084] ---
+¡Pero qué recompensas! Vas a pillar
+unas partes de monstruo de calidad en
+esas misiones, joven. ¡Recuérdalo!
+--- BLOCK [085] ---
+No dejes que los peligros te abatan.
+¡Estas misiones son un billete de ida
+a la fama y la fortuna!
+--- BLOCK [086] ---
+La entrada de hoy de tu Diario de
+Cazador experto: "La fortuna favorece
+al osado. ¡Sé osado y amasa fortunas!"
+--- BLOCK [087] ---
+Quería preguntarte una cosa. ¿Has
+conocido ya al Instructor ufano?
+--- BLOCK [088] ---
+He oído que vive a lo grande desde que
+vende cola de elaboración propia.
+--- BLOCK [089] ---
+*Trago, trago* ¿Por qué me hago el
+tonto? ¡Estoy bebiéndola ahora mismo!
+--- BLOCK [090] ---
+¿Por qué no lo visitas? Es un tipo
+listo, ¡quizá hasta te da algo gratis!
+¡A mí me dio! *Trago, trago* *Eructo*
+--- BLOCK [091] ---
+*Eructo* ¡Me han puesto al día de tus
+hazañas, joven! Son un buen
+acompañamiento para beber cola.
+--- BLOCK [092] ---
+Hablando de hazañas, nos ha llegado
+una misión urgente para ti. Esta vez
+cazarás un Brachydios.
+--- BLOCK [093] ---
+Ese monstruo sigue siendo un misterio
+hasta entre los más antiguos del Gremio.
+--- BLOCK [094] ---
+Sabemos una cosa: sería
+prudente llevar desodorante.
+--- BLOCK [095] ---
+La entrada de hoy de tu Diario de
+Cazador experto: "Resuelve el misterio
+de Brachydios y harás historia".
+--- BLOCK [096] ---
+*Trago, trago* ¡Brindo por tu éxito!
+Te ha llegado una nueva misión urgente.
+--- BLOCK [097] ---
+Tu objetivo es... Eh, ¿un Lagiacrus
+marmóreo? Ese es duro de roer.
+--- BLOCK [098] ---
+Conquistador de Tierra y Mar, lo llaman.
+Desmembrador de brazos y piernas,
+lo llamo yo.
+--- BLOCK [099] ---
+Sus ataques normales son muy duros.
+¡Sus Ataques de trueno empujan a un
+hombre a la bebida! *Trago, trago*
+--- BLOCK [100] ---
+El Gremio debe de creer que eres la
+leche si piensa que estás preparado para
+esa temible bestia. ¿Enhorabuena?
+--- BLOCK [101] ---
+La entrada de hoy de tu Diario de
+Cazador experto: "Si el Gremio cree que
+puedes hacerlo, ¿por qué discutirlo?"
+--- BLOCK [102] ---
+*Trago, trago* *Balbuceo* Para de beber
+y ponte a pensar. Acabamos de recibir
+otra misión urgente para ti.
+--- BLOCK [103] ---
+¿Has oído hablar del gigante brillante
+de las profundidades, joven? Tiene
+una subespecie, el Ceadeus barba dorada.
+--- BLOCK [104] ---
+Algunos culpan a este dragón anciano
+de todo tipo de desastres. Ahora
+navega las aguas locales. 
+--- BLOCK [105] ---
+Por supuesto, el Gremio no puede sino
+actuar. Ya sabes lo que eso significa... 
+--- BLOCK [106] ---
+Eso es. Queremos que le des una buena
+a ese Ceadeus barba dorada, joven.
+--- BLOCK [107] ---
+Es un encargo peligroso, pero alguien
+tiene que hacerlo. El Gremio cree que
+ese alguien deberías ser tú.
+--- BLOCK [108] ---
+Pero no lucharás a ciegas. ¡El
+Gremio estará detrás de ti, apoyándote!
+--- BLOCK [109] ---
+Sé que es mucho pedir, ¡pero piensa en
+la recompensa! No solo te conocerán en
+Tanzia. ¡Tendrás fama mundial!
+--- BLOCK [110] ---
+Tu mirada me dice que lo harás, joven.
+¡Sabía que lo harías! ¡Vamos a brindar
+por tu éxito! *Trago, trago* *Eructo*
+--- BLOCK [111] ---
+La entrada de tu Diario del Cazador
+experto: "Desciende para alcanzar la
+cima. En el fondo marino hay un dragón".
+--- BLOCK [112] ---
+*Trago, trago* ¡Joven! *Balbuceo*
+¡No puedo creer que le dieras una buena
+al legendario Ceadeus barba dorada!
+--- BLOCK [113] ---
+Vaya... Recuerdo cuando eras solo un
+novato. ¡Mírate ahora! ¡Reconozco que
+tendré que empezar a llamarte chavalón!
+--- BLOCK [114] ---
+*Ejem* ¡Escucha! ¡Escucha! Por el
+poder que me ha otorgado el Gremio,
+¡te declaro Maestro cazador!
+--- BLOCK [115] ---
+De todas las misiones que llegan a la
+mesa del Gremio, las misiones de
+rango G son las más peliagudas.
+--- BLOCK [116] ---
+El avistamiento de nuevos monstruos
+está aumentando últimamente, además. 
+--- BLOCK [117] ---
+Apostaría una caja de cola a que estas
+nuevas bestias acaban como misiones
+de rango G.
+--- BLOCK [118] ---
+Pero no dejes que tu nivel de Maestro se
+te suba a la cabeza... ¡o la perderás! 
+Ten mucho cuidado con estas misiones.
+--- BLOCK [119] ---
+Claro que la recompensa hace que el
+peligro merezca la pena. Pronto
+lo sabrás muy bien.
+--- BLOCK [120] ---
+Disfruta de este nuevo capítulo en tu
+carrera, chavalón. ¡Estas cacerías
+serán duras, pero no te vas a aburrir!
+--- BLOCK [121] ---
+La entrada de hoy del Diario del Cazador
+orgulloso: "Un cazador se levanta con
+buen pie y el Gremio, con cazadores".
+--- BLOCK [122] ---
+*Trago, trago* Ah, ¿ya has probado
+las misiones de rango G?
+--- BLOCK [123] ---
+Bueno, pues he oído historias
+recientes de Brachydios furiosos.
+--- BLOCK [124] ---
+Cazar a un Brachydios seguramente sea
+pan comido para ti, ¡pero esta vez
+te enfrentarás a dos!
+--- BLOCK [125] ---
+Si ya es dura una de esas bestias...
+¿dos? *Escalofrío* Deja que me
+fortalezca. *Trago, trago* *Eructo*
+--- BLOCK [126] ---
+Ahh, esta cacería será dura, ¡pero esto
+es lo que hay para un Maestro cazador!
+--- BLOCK [127] ---
+Tú cobras el dinero, tú te arriesgas.
+¡Hora de mostrar tu habilidad, chavalón!
+--- BLOCK [128] ---
+La entrada del Diario del Cazador
+orgulloso: "Una enorme tarea conlleva
+una recompensa... ¿enormísima?"
+--- BLOCK [129] ---
+*Eructo* ¡Ese es mi chavalón! Nadie
+sabe una porquería de Brachydios... ¡y
+tú has domado a dos de ellos!
+--- BLOCK [130] ---
+Todos en Tanzia... no, ¡todo el mundo
+sabe que eres un auténtico Maestro
+cazador! ¡Brindo por eso! *Trago, trago*
+--- BLOCK [131] ---
+Pero tengo que decir... Últimamente
+he visto unas nubes desalentadoras
+formándose en el horizonte...
+--- BLOCK [132] ---
+Bah, no quiero aguarte la fiesta. Ya
+volveremos a ese tema cuando toque.
+Esperemos que nunca lo haga...
+--- BLOCK [133] ---
+Tú sigue completando misiones de
+rango G y acumulando experiencia.
+--- BLOCK [134] ---
+La entrada de hoy del Diario del Cazador
+orgulloso: "Formar el carácter da sed:
+no olvides saborear el triunfo".
+--- BLOCK [135] ---
+Bueno, aunque esperaba que no lo
+hiciese, el momento finalmente ha
+llegado...
+--- BLOCK [136] ---
+Han estado llegando informes crípticos
+al Gremio durante los últimos días.
+--- BLOCK [137] ---
+Todo empezó cuando perdimos el contacto
+con una nave de observación enviada al
+Mar contaminado para estudiar seísmos.
+--- BLOCK [138] ---
+Después el Gremio envió una flota de
+barcos con un barco de guerra al mando
+para encontrar la nave desaparecida...
+--- BLOCK [139] ---
+En lugar de la nave, encontraron
+la peor cosa imaginable...
+--- BLOCK [140] ---
+La flota se encontró con el mismo dragón
+anciano que aterrorizó Tanzia en la
+antigüedad: el aciago Miralis funesto.
+--- BLOCK [141] ---
+Es un monstruo legendario, su mero
+nombre hiela la sangre. Ahora se
+acerca a Tanzia, lento pero seguro.
+--- BLOCK [142] ---
+La flota del Gremio consiguió informar
+del avistamiento, pero se ha perdido el
+contacto. Como tragada por el mar.
+--- BLOCK [143] ---
+No solo Tanzia está en peligro por esta
+bestia. ¡Toda la región lo está!
+--- BLOCK [144] ---
+Al menos hay una buena noticia.
+El Gremio tiene un almacén en la zona
+lleno de armas, munición y combustible.
+--- BLOCK [145] ---
+Queremos que uses ese lugar como
+campamento base cuando vayas con todo
+a por el Miralis funesto.
+--- BLOCK [146] ---
+¿Qué? Seguro que no te sorprende
+nuestra petición. Eres el único cazador
+que puede enfrentarse a esa bestia.
+--- BLOCK [147] ---
+Sería una misión suicida para cualquier
+otro. ¡Eres nuestra única esperanza!
+--- BLOCK [148] ---
+La entrada de hoy del Diario del Cazador
+orgulloso: "Vence y salvarás el mundo.
+Fracasa... y nadie se enterará".
+--- BLOCK [149] ---
+*Balbuceo* ¡Chavalón! ¡Lo conseguiste!
+--- BLOCK [150] ---
+¡Mataste al Miralis funesto!
+--- BLOCK [151] ---
+Tuviste que ponerle mucha fuerza y maña,
+¡pero venciste a esa bestia aciaga!
+--- BLOCK [152] ---
+Este puerto lo significa todo para mí.
+He ayudado a muchos cazadores aquí,
+más de los que puedo contar.
+--- BLOCK [153] ---
+No puedo agradecerte lo suficiente por
+salvar este sitio. Es todo mi mundo.
+¡Vamos a recuperarnos, ya lo verás!
+--- BLOCK [154] ---
+Ah, casi lo olvido. Recibí una carta
+del Gremio que expresaba su
+agradecimiento y reconocía tus logros.
+--- BLOCK [155] ---
+Veamos... *Ejem*
+"En reconocimiento por tus esfuerzos,
+te concedemos este Premio".
+--- BLOCK [156] ---
+Bueno, eso debería animarte, chavalón.
+Con eso bajo el cinturón, ¡seguro que
+consigues aún más fortuna y gloria!
+--- BLOCK [157] ---
+La entrada de hoy del Diario del Cazador
+orgulloso: "Un gran cazador merece un
+gran Premio. ¡Un hurra por el chavalón!"
+--- BLOCK [158] ---
+... Ah, ah, ah. Olvidé
+decirte una cosa más.
+--- BLOCK [159] ---
+¡Toma esa! ¡El límite de Rango cazador
+se elimina cuando recibes este Premio!
+--- BLOCK [160] ---
+A partir de ahora, tu Rango cazador
+dependerá de los puntos de Rango
+cazador que recibes tras las misiones.
+--- BLOCK [161] ---
+¡Ahora el Gremio incluso te deja abordar
+misiones que se creían imposibles!
+--- BLOCK [162] ---
+¿Sabes? Siempre pensé que eran los
+gases los que me provocaban esta
+sensación en el pecho cuando venías...
+--- BLOCK [163] ---
+Pero quizá siempre supe que este día
+llegaría. *Eructo* O, je, quizá no.
+--- BLOCK [164] ---
+La entrada de hoy del Diario del Cazador
+orgulloso: "La caza nunca termina.
+¡Y tampoco la leyenda!"
+--- BLOCK [165] ---
+*Trago trago* *Balbuceo* ¡Por fin
+llegaste al Rango cazador 15, ¿eh?!
+--- BLOCK [166] ---
+¡Eso se merece más que una copa!
+Un logro así exige algo muy especial.
+--- BLOCK [167] ---
+¿Qué tal si te dejo levantar el Martillo
+que usa la Chica del gong?
+--- BLOCK [168] ---
+¡Eh, no pongas cara de aburrido! ¡Ese
+Martillo tiene historia! Ha pasado
+de una Chica del gong a otra.
+--- BLOCK [169] ---
+¡Y ahora pasa a ti! Haz buen uso
+de ese regalo cuando caces.
+--- BLOCK [170] ---
+Si quieres blandir el Martillo de la
+Chica del gong, pide que te lo forjen.
+--- BLOCK [171] ---
+La entrada de hoy del Diario del Cazador
+orgulloso: "¡Baja el Martillo!
+¡El gong da comienzo a la cacería!"
+--- BLOCK [172] ---
+*Eructo* ¡Perdón! ¡Ah, estoy seguro
+de que has cazado mucho últimamente!
+--- BLOCK [173] ---
+¡No podemos quejarnos! Tus hazañas
+han animado a una nueva generación
+de cazadores a sumarse al juego.
+--- BLOCK [174] ---
+Acepta este regalo del Gremio. Tómalo
+como un agradecimiento por lo que has
+hecho y todo lo que seguirás haciendo.
+--- BLOCK [175] ---
+¡Ahora deja de gandulear y ponte con
+las proezas inspiradoras y eso!
+--- BLOCK [176] ---
+*Trago, trago*
+Ah, veo que has estado cazando con
+muchos amigos últimamente.
+--- BLOCK [177] ---
+¡Eso es lo que nos gusta oír en el
+Gremio! Cazar en grupo aumenta la
+probabilidad de éxito de tu misión.
+--- BLOCK [178] ---
+Siempre animo a los jóvenes a que cacéis
+con más gente. ¡Los que cazan unidos,
+permanecen unidos!
+--- BLOCK [179] ---
+Considera esto un regalo de
+agradecimiento por tu sociabilidad.
+¡Ahora sal y haz nuevos amigos!
+--- BLOCK [180] ---
+HARDUMMY
+--- BLOCK [181] ---
+HARDUMMY
+--- BLOCK [182] ---
+HARDUMMY
+--- BLOCK [183] ---
+*Trago, trago* Ah, me alegro de verte.
+--- BLOCK [184] ---
+¡Buenos días!
+--- BLOCK [185] ---
+Un tiempo estupendo, ¿eh?
+--- BLOCK [186] ---
+Un día perfecto para una cola.
+--- BLOCK [187] ---
+*Eructo* ¡Perdón!
+--- BLOCK [188] ---
+¡Bienvenido, joven!
+--- BLOCK [189] ---
+¡Oh! ¡Hoy estás muy cafeinizado!
+--- BLOCK [190] ---
+Sí, soy el Maestro del gremio. *Eructo*
+--- BLOCK [191] ---
+¿Has venido para escucharme?
+--- BLOCK [192] ---
+¡Vale, hasta otra!
+--- BLOCK [193] ---
+Vuelve cuando quieras para ajustar tus
+preferencias de Cazadores a sueldo.
+--- BLOCK [194] ---
+*Trago, trago* ¡Hasta otra! *Eructo*
+--- BLOCK [195] ---
+¡Sal y relaciónate!
+--- BLOCK [196] ---
+¡La que está detrás de mí se muere
+por hacer sonar ese gong!
+--- BLOCK [197] ---
+Quizá conozcas a alguien nuevo.
+Quizá encuentres a un viejo amigo.
+--- BLOCK [198] ---
+¡Siempre que quieras escuchar ese
+gong, pásate por aquí!
+--- BLOCK [199] ---
+¡Nunca conocerás a nadie más
+si no te relacionas!
+--- BLOCK [200] ---
+¡Espero que conozcas a algún
+buen Cazador a sueldo!
+--- BLOCK [201] ---
+*Trago, trago* *Balbuceo* ¡El gong
+suena hoy súper fuerte!
+--- BLOCK [202] ---
+*Trago, trago* ¡Un brindis por tu éxito!
+--- BLOCK [203] ---
+*Eructo* Ahora solo queda esperar.
+--- BLOCK [204] ---
+*Eructo* ¡El gong me tiene molido!
+--- BLOCK [205] ---
+La entrada del Diario de Cazadores a
+sueldo dice: "¡El martillo provoca un
+estruendo al que nadie se resiste!"
+--- BLOCK [206] ---
+No te avergüences por conocer a gente
+solo por StreetPass. ¡El mundo es así!
+--- BLOCK [207] ---
+HARDUMMY
+--- BLOCK [208] ---
+Estás aquí para cambiar tus preferencias
+de Cazadores a sueldo, ¿no?
+--- BLOCK [209] ---
+¿Qué tipo de Cazadores a sueldo te
+gustaría que se dejaran caer por aquí?
+--- BLOCK [210] ---
+¿Qué va a ser?
+--- BLOCK [211] ---
+Me pregunto cómo sonará el gong hoy.
+--- BLOCK [212] ---
+¿Has venido a jugar con tus preferencias
+de Cazadores a sueldo?
+--- BLOCK [213] ---
+¡Ah, casi lo olvido! Quieres cambiar
+tus preferencias de Cazadores a sueldo.
+--- BLOCK [214] ---
+¿Qué tipo de Cazadores a sueldo
+quieres conocer?
+--- BLOCK [215] ---
+HARDUMMY
+--- BLOCK [216] ---

@@ -1,0 +1,243 @@
+﻿TMSG_NPC076_0
+--- BLOCK [001] ---
+TMSG_NPC076_1
+--- BLOCK [002] ---
+TMSG_NPC076_2
+--- BLOCK [003] ---
+TMSG_NPC076_3
+--- BLOCK [004] ---
+TMSG_NPC076_4
+--- BLOCK [005] ---
+<SUBS 0>
+--- BLOCK [006] ---
+<SUBS 1>
+--- BLOCK [007] ---
+¡Oye, tú! ¡He venido con mi padre desde
+la Aldea de Moga para vender pescado!
+--- BLOCK [008] ---
+Mi padre está ocupado trabajando, ¡pero
+me ha dicho que podía explorar la Marina
+y pescar y eso hasta que volviera! ¡Uuh!
+--- BLOCK [009] ---
+Aquí hay un montón de artículos
+y bienes extranjeros que no encontrarás
+en Moga. ¡Es muy emocionante!
+--- BLOCK [010] ---
+Pero hay una especie de ley o norma
+o algo que dice que sólo los mercaderes
+pueden comprarlos. ¡Lo siento por ti!
+--- BLOCK [011] ---
+¡También lo siento por mi padre! Él es
+solo un pescadero, así que tampoco
+puede comprar estas cosas. ¡Rollo!
+--- BLOCK [012] ---
+Bueno, mi padre dijo que se siente solo
+cuando se va de viaje y eso, ¡así que
+he decidido acompañarlo!
+--- BLOCK [013] ---
+¡He pensado que podría pillar unos
+recuerdos o caramelos o espadas o algo! 
+Pero no se lo digas, ¿vale?
+--- BLOCK [014] ---
+Por cierto, ¿¡dónde está!? ¡Estoy
+deseando contarle todo lo que he hecho!
+¡Vamos, vamos, vamos, vamooos!
+--- BLOCK [015] ---
+¡Eh! ¿Sabías que hay un Aptonoth cerca
+de ese sharq colgado? ¿Eh? ¿Lo sabías?
+--- BLOCK [016] ---
+Deberías mirar debajo de sus pies.
+¡Seguro que te ha dejado un gran regalo!
+¡Buaja, ja, ja, ja!
+--- BLOCK [017] ---
+¡Y cuando digo grande, quiero decir
+ENORME! ¡No sabía que fuera
+posible un tamaño así!
+--- BLOCK [018] ---
+Bueno, yo soy el que encontró primero
+el regalo, así que no lo estropees ni
+nada, ¿vale? ¡Es un secreto!
+--- BLOCK [019] ---
+¡Eh! ¿Alguna vez has visto a la dama
+del gong? La que se pone detrás
+del maestro del Gremio.
+--- BLOCK [020] ---
+¡Es SÚPER maja! Bueno, no es que
+hable demasiado, pero siempre me da
+zumo y esas cosas.
+--- BLOCK [021] ---
+Una vez estaba yo allí y el maestro del
+Gremio se puso fresco con ella, ¿vale?
+--- BLOCK [022] ---
+Pues ella cogió su cosa de Portomarca
+y ¡PAM! ¡Pegó al viejo y lo echó
+al agua! ¡En serio!
+--- BLOCK [023] ---
+¡Pega a los frescos mejor que mi MADRE!
+¡Ja, ja, ja! No... espera. Un momento.
+Olvida lo que he dicho.
+--- BLOCK [024] ---
+¡Oye, tú! ¿Has visto a ese tío pescando
+cerca del sharq colgado?
+--- BLOCK [025] ---
+Sé que parece un tipo normal y
+corriente, ¡pero en realidad es un
+EXPERTO en pesca! ¡De verdad!
+--- BLOCK [026] ---
+Dice que el truco está en los tiempos,
+y yo le dije que eso molaba, y él solo
+asintió. ¡Los expertos MOLAN!
+--- BLOCK [027] ---
+¡Ah! ¡Y también sabe un montón sobre
+el mar! ¡Seguro que te puede decir
+todo lo que quieres saber!
+--- BLOCK [028] ---
+¿Sabías que fue uno de los que cazó a
+ese enorme sharq? ¡En serio! ¡Solo
+usó una caña normal y corriente!
+--- BLOCK [029] ---
+Solo esta vez, estaba corriendo por ahí
+cuando este monstruo salió todo enfadado
+de los arbustos así que salí corriendo.
+--- BLOCK [030] ---
+Pero me metí en un callejón sin salida,
+así que cogí cosas del suelo, ¡y empecé
+a tirárselas al monstruo!
+--- BLOCK [031] ---
+Y luego, ¿sabes qué? ¡Le di
+en toda la cara y SE LA ROMPÍ! ... Vale,
+no toda. ¡Pero sí una parte!
+--- BLOCK [032] ---
+Cuando se lo conté al maestro del
+Gremio, no le extrañó nada. Dijo que
+los cazadores lo hacen constantemente.
+--- BLOCK [033] ---
+No recuerdo cómo lo llamó... ¿Freír a un
+monstruo? ¿Hervir a un monstruo? Ah, no,
+¡ya me acuerdo! ¡HERIR a un monstruo!
+--- BLOCK [034] ---
+¡Bueno, seguro que también hay muchas
+otras formas de herir monstruos!
+¡Deberías intentar probarlas todas!
+--- BLOCK [035] ---
+¡El maestro del Gremio dice que hace
+tanto calor en el volcán que podrías
+estallar en llamas solo por ESTAR ahí!
+--- BLOCK [036] ---
+¡Qué locura! Si alguna vez
+tengo que ir al volcán, ¡me llevaré
+algo fresquito! ¡Como un helado!
+--- BLOCK [037] ---
+¡Oye, tú! ¡Parece que te has perdido!
+--- BLOCK [038] ---
+¿Es tu primera vez aquí? ¿Estás
+buscando el Gremio?
+--- BLOCK [039] ---
+En ese caso, ¡es por este
+puente de aquí!
+--- BLOCK [040] ---
+¡Deberías acercarte! ¡"Aceptar
+misiones es el primer paso en el camino
+para iluminar tu menta"! ... O algo.
+--- BLOCK [041] ---
+... Sí, en realidad no sé lo que
+significa. Oí al maestro del Gremio
+decirlo, ¡y creo que suena muy guay!
+--- BLOCK [042] ---
+¡Eh! ¿Te gusta ese faro? ¡Porque yo
+creo es GENIAL! Es súper chulo, 
+¡y además guía a los barcos!
+--- BLOCK [043] ---
+Todos los adultos de por aquí
+están hablando siempre de
+lo importante que es esa cosa. 
+--- BLOCK [044] ---
+Dicen que el faro se construyó durante
+el "turbulento pasado" de este sitio. 
+No sé qué es eso, pero sigue molando.
+--- BLOCK [045] ---
+¡Eh! ¡Eh! ¡Me han dicho que te has
+convertido en Cazador de élite! ¡Es tan
+genial que no lo soporto!
+--- BLOCK [046] ---
+No sé qué significa élite, pero supongo
+que es muy guay, ¿no? Suena
+muy guay, de todas formas.
+--- BLOCK [047] ---
+¿Crees que algún día seré élite?
+¿Si cazo a un súper pez 
+gigante o algo así?
+--- BLOCK [048] ---
+¡Eh! ¡El maestro del Gremio me dijo
+que ahora eres un Maestro cazador! ¡Eso
+significa que has llegado a rango G!
+--- BLOCK [049] ---
+Me dijo que los monstruos de rango G
+son todos súper duros, y que si no estás
+listo, ¡te aplastan como a un plátano!
+--- BLOCK [050] ---
+... Guau. Un Maestro cazador. Seguro
+que eres más fuerte que mi madre, ¡y eso
+que ella es la más fuerte del MUNDO!
+--- BLOCK [051] ---
+¡Oye! ¿Oíste lo del barco de observación
+en el Mar contaminado? ¡Vieron
+un lagarto gigante que escupe FUEGO!
+--- BLOCK [052] ---
+Todo el mundo estaba hablando sobre eso
+cuando jugaba por el Gremio.
+--- BLOCK [053] ---
+¿Y sabes esa cara arrugada que pone la
+gente cuando está preocupada? Pues
+la estaban poniendo todos.
+--- BLOCK [054] ---
+No le cuentes esto a mi madre, pero si
+esa cosa aparece por aquí, ¡iré a por
+ella y le patearé su culo de lagarto!
+--- BLOCK [055] ---
+¡Oye, tú! ¡He oído que fuiste tú quien
+pateó ese enorme culo de lagarto!
+¡Es INCREÍBLE!
+--- BLOCK [056] ---
+¡Hasta el maestro del Gremio cree
+que es increíble!
+¡Ha vuelto a sonreír y todo!
+--- BLOCK [057] ---
+¡Algún día seré como tú!
+¡Voy a proteger a todos y seré
+un hombre de mar y todo eso!
+--- BLOCK [058] ---
+¡Ja, ja, ja!
+--- BLOCK [059] ---
+¡Yijaaa!
+--- BLOCK [060] ---
+¡Eh! ¡Oye, tú!
+--- BLOCK [061] ---
+¡Hoy me siento genial!
+--- BLOCK [062] ---
+Ojalá tuviera caramelos...
+--- BLOCK [063] ---
+¡Eh! ¿Sabes qué?
+--- BLOCK [064] ---
+Hoy los peces no pican...
+--- BLOCK [065] ---
+¡Oye, qué calor hace hoy!
+--- BLOCK [066] ---
+¡Yujuu!
+--- BLOCK [067] ---
+¡Nos vemos!
+--- BLOCK [068] ---
+¡Eso es todo por ahora!
+--- BLOCK [069] ---
+¡Vuelve pronto!
+--- BLOCK [070] ---
+¡Hasta luego!
+--- BLOCK [071] ---
+¡Adiós!
+--- BLOCK [072] ---
+¡Hasta otra!
+--- BLOCK [073] ---
+(!)
+--- BLOCK [074] ---
+(!)
+--- BLOCK [075] ---

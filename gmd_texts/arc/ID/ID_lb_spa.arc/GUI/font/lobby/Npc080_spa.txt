@@ -1,0 +1,230 @@
+﻿TMSG_NPC080_0
+--- BLOCK ---
+TMSG_NPC080_1
+--- BLOCK ---
+TMSG_NPC080_2
+--- BLOCK ---
+TMSG_NPC080_3
+--- BLOCK ---
+TMSG_NPC080_4
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¡Arr, vaya puerto tenemos aquí!
+La mar lisa significa que los barcos
+pueden entrar y salir como les plazca.
+--- BLOCK ---
+¡Claro que nuestra famosa Sopa de
+pescado de Tanzia tampoco hace daño, ja!
+<SUBS 1>
+--- BLOCK ---
+Si planeas ir de caza, quizá quieras
+tener compañeros. ¡Sé amable!
+Unos buenos modales te llevarán lejos.
+--- BLOCK ---
+¡Espero que encuentres buenos
+amigos durante la caza, colega!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Arr, ¿conoces las tarjetas del Gremio?
+Son tarjetas de visita para cazadores.
+--- BLOCK ---
+Dicen cuántos monstruos has cazado,
+qué armas son las que más usas y
+otros datos útiles.
+--- BLOCK ---
+¡Al parecer, el Gremio entrega Premios
+a los cazadores que logran hazañas!
+Arr, me muero de envidia...
+--- BLOCK ---
+<SUBS 0>
+Por cierto, ¿has oído hablar de
+las Bombas boñiga?
+--- BLOCK ---
+Están hechas de excrementos de monstruo
+y su hedor es tan fuerte que ahuyentan
+hasta a las bestias más grandes.
+--- BLOCK ---
+¡Es peor que los calcetines sudados
+de mi madre! ¡Ba, ja, ja, ja!
+--- BLOCK ---
+Si te encuentras con una temible bestia
+contra la que no puedes luchar, ¡tira
+una Bomba boñiga y mándala a paseo!
+--- BLOCK ---
+¡Ni siquiera a los monstruos les merece
+la pena pasar esa peste por una comida!
+--- BLOCK ---
+<SUBS 0>
+¿Te suenan las Flautas atrayentes? Son
+peligrosas armas que atraen monstruos.
+--- BLOCK ---
+¿Por qué usarlas? Arr, te sorprendería
+lo prácticas que son cuando
+cazas con un compañero.
+--- BLOCK ---
+Si un amigo está en peligro, puedes 
+soplar la flauta para atraer la atención
+de la bestia.
+--- BLOCK ---
+¡Claro que luego tendrás que lidiar
+con ella! ¡Ba, ja, ja, ja, ja!
+--- BLOCK ---
+<SUBS 0>
+¿Ves ese edificio tan alto
+a lo lejos? Es el faro.
+--- BLOCK ---
+Permite que los barcos comerciales
+y del Gremio entren y salgan del puerto.
+Sí, es el símbolo de toda Tanzia.
+--- BLOCK ---
+La Guardia del faro vigila el fuego en
+lo alto y garantiza que nunca se apague. 
+--- BLOCK ---
+Yo sería miembro de la guardia pero no
+es un trabajo que me guste. Las alturas
+me ponen nervioso, ¿sabes?
+--- BLOCK ---
+<SUBS 0>
+¿Has visto el enorme sharq colgado
+allá? ¿Quién crees que lo cazó?
+--- BLOCK ---
+He oído que fue el viejo herrero de la
+Tienda de equipos, pero estas cosas
+tienen poco parecido con la realidad.
+--- BLOCK ---
+¿Por qué a un marinero de agua dulce
+como él le va a importar un pez si no es
+para forjarlo como arma? ¡Ja, qué idea!
+--- BLOCK ---
+¡Hasta un grumete se avergonzaría de
+blandir un sharq en una batalla!
+¡Ba, ja, ja, ja!
+--- BLOCK ---
+Recientemente adquirí un bien llamado
+Estrella de mar. ¡Venía de Moga!
+--- BLOCK ---
+¡Pero sabe a rata de cloaca!
+He probado guisándola, asándola,
+salteándola... ¡Nada funciona!
+--- BLOCK ---
+Tú eres de Moga, ¿no? Pues dime,
+cazador: ¿Cómo se comen esas cosas?
+--- BLOCK ---
+¡Maldita tu estirpe! ¿No es comida?
+--- BLOCK ---
+¡Arr! Veo por el corte de tus velas
+que no vienes de estos lares.
+--- BLOCK ---
+Entonces, ¡bienvenido a Tanzia! Somos
+un puerto en una gran ruta marítima
+con gente y bienes de todo el mundo.
+--- BLOCK ---
+También está el Gremio, por lo que
+muchos cazadores reservan un pasaje en
+naves comerciales para venir hasta aquí.
+--- BLOCK ---
+¡Pero eres el primero que he visto
+llegar en un barco Felyne! ¡Ja, ja!
+--- BLOCK ---
+Bueno, si buscas el Gremio, cruza
+el puente al final de los muelles.
+--- BLOCK ---
+¡Hasta otra, cazador! 
+--- BLOCK ---
+Arr, ¿cazador? ¿Quieres saber más
+acerca del faro?
+--- BLOCK ---
+Bueno, ilumina el mar, claro, ¡pero
+también tiene un sentido más profundo!
+--- BLOCK ---
+Ese faro representa la esperanza de que
+algún día todos podamos vivir en paz.
+El pasado de Tanzia es turbulento.
+--- BLOCK ---
+¡Arr, toma! ¡Coge esto! ¡Rezo
+porque esto te guarde en la caza!
+--- BLOCK ---
+¡No puedo esperar a ver qué será lo
+próximo que hagas! ¡Ba, ja, ja!
+--- BLOCK ---
+¡Mira quién es! ¡El Cazador de élite!
+--- BLOCK ---
+Raro ejemplar el que llega tan lejos.
+Ciertamente eres un cazador habilidoso.
+--- BLOCK ---
+¡Déjame darte un regalito para
+celebrarlo!
+--- BLOCK ---
+¡No puedo esperar a ver qué más haces!
+¡Ba, ja, ja, ja!
+--- BLOCK ---
+¡Arr, cazador! ¡Eres la comidilla de la
+ciudad! ¡Todos hablan de que 
+te has convertido en Maestro cazador!
+--- BLOCK ---
+Siempre supe que estabas hecho de otra
+pasta. Lo supe en cuanto te bajaste
+de ese absurdo barco de gatos.
+--- BLOCK ---
+Ahora, ya sabrás que los Maestros
+cazadores realizan las misiones más
+difíciles, ¡pero sé que estarás bien!
+--- BLOCK ---
+Nada puede pararte, cazador. ¡Que me
+tiren a los tiburones si miento!
+--- BLOCK ---
+¡Cazador! ¡Aguas turbulentas
+en el Mar contaminado!
+--- BLOCK ---
+¡Los barcos cercanos desaparecen!
+--- BLOCK ---
+No hemos visto un accidente peor desde
+que se erigió el faro Azote del dragón.
+¡Arr, ¿qué estará pasando allí?!
+--- BLOCK ---
+¡Vaya historia, cazador!
+¡Parece que uno de los Guardias del faro
+perdidos ha vuelto por fin con nosotros!
+--- BLOCK ---
+Vio una sombra oscura y aterradora, y
+por eso huyó al sótano del faro.
+Es un milagro que siga viva...
+--- BLOCK ---
+¡Ya que esa sombra gigante no era nada
+menos que un dragón anciano!
+--- BLOCK ---
+Y pensar que algún incauto cazador se
+atrevería a salir en busca de una bestia
+más grande que el propio faro...
+--- BLOCK ---
+Ahora respóndeme y sé sincero:
+¿fuiste tú quien mató a la bestia?
+--- BLOCK ---
+¿Fuiste tú? ¡Cielos, lo sabía! 
+¡Me da escalofríos! ¡Bueno, bueno!
+--- BLOCK ---
+Bueno, como tú salvaste a mi amiga,
+te lo compensaré. Esto es de parte
+de todos los de la Guardia del Faro.
+--- BLOCK ---
+No puedo esperar a ver en qué nueva
+aventura te metes. ¡Ba, ja, ja!
+--- BLOCK ---
+¡Arr, joven!
+--- BLOCK ---
+¡Hola, cazador!
+--- BLOCK ---
+¡Buen día, cazador!
+--- BLOCK ---
+Nos vemos, cazador.
+--- BLOCK ---
+Relájate, cazador.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

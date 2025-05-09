@@ -1,0 +1,467 @@
+﻿TMSG_NPC088_0
+--- BLOCK [001] ---
+TMSG_NPC088_1
+--- BLOCK [002] ---
+TMSG_NPC088_2
+--- BLOCK [003] ---
+TMSG_NPC088_3
+--- BLOCK [004] ---
+TMSG_NPC088_4
+--- BLOCK [005] ---
+<SUBS 2>
+--- BLOCK [006] ---
+<SUBS 1>
+--- BLOCK [007] ---
+Estas son las misiones que puedes
+empezar actualmente...
+--- BLOCK [008] ---
+No hay tarifa para esta misión.
+Entiendo que eso te va bien.
+--- BLOCK [009] ---
+Tendrás que apoquinar $ z para aceptar
+esta misión. ¿Trato hecho?
+--- BLOCK [010] ---
+Espera, no tienes suficiente dinero
+para aceptar esta misión. Qué pena.
+--- BLOCK [011] ---
+Parece que no cumples los criterios
+para aceptar esta misión. ¿Quieres
+escoger una diferente?
+--- BLOCK [012] ---
+<SUBS 3>
+--- BLOCK [013] ---
+<SUBS 3>
+--- BLOCK [014] ---
+¿Eh? ¿Quieres cancelar la misión? Si la
+iniciaste tú, el grupo se
+disolverá. ¿Te parece bien?
+--- BLOCK [015] ---
+Tú mandas. La misión ha sido
+cancelada. Vuelve pronto.
+--- BLOCK [016] ---
+La misión ha sido cancelada, así que
+supongo que eso es todo. 
+--- BLOCK [017] ---
+¿Entonces abandonas? Si insistes...
+--- BLOCK [018] ---
+<SUBS 0>
+Aquí tienes que matar monstruos usando
+solo los objetos y equipos que te damos.
+--- BLOCK [019] ---
+¿Te interesa una misión de Arena? ¡Ven
+a verme primero!
+Te prepararé para el show.
+--- BLOCK [020] ---
+<SUBS 0>
+Todo el dinero que hacemos aquí va
+directo al Gremio.
+--- BLOCK [021] ---
+Esto no es ningún apaño baratucho,
+¿sabes? ¡Nuestra prevención de riesgos
+de cazadores cuesta una fortuna!
+--- BLOCK [022] ---
+<SUBS 0>
+Aquí también puedes ver la clasificación
+de la Arena.
+--- BLOCK [023] ---
+Y, si has activado StreetPass, también
+aparecerán las marcas de la gente
+con quien intercambiaste datos.
+--- BLOCK [024] ---
+<SUBS 0>
+¿Sabes que criamos a un montón de
+fieros monstruos aquí en la Arena?
+--- BLOCK [025] ---
+La mayoría de la gente nunca llega a ver
+un monstruo real en libertad. Visitar
+la Arena es lo más parecido. 
+--- BLOCK [026] ---
+<SUBS 0>
+¿Has comido ya en el asador Tanzyne?
+Está certificado por el Gremio.
+--- BLOCK [027] ---
+Es una pena que los efectos de la comida
+desaparezcan al entrar en la Arena. Has
+de confiar en tus propios recursos.
+--- BLOCK [028] ---
+<SUBS 0>
+¿Eh? ¿Que si alguna vez te espío
+cuando estás en misiones de Arena?
+--- BLOCK [029] ---
+Bueno, a decir verdad...
+--- BLOCK [030] ---
+Puede que a veces me pase a ver tu
+capacidad cazadora. Que no se te meta
+en la cabeza, solo hago mi trabajo.
+--- BLOCK [031] ---
+<SUBS 0>
+¿Dices que quieres ver tus marcas y las
+de cazadores de otros puertos?
+--- BLOCK [032] ---
+En ese caso, echa un vistazo a la
+Clasificación. Solo dímelo
+cuando quieras ojearla.
+--- BLOCK [033] ---
+Si registras tus datos de StreetPass, la
+Clasificación se actualizará con las
+marcas de la gente de tu StreetPass.
+--- BLOCK [034] ---
+<SUBS 0>
+¿Sabes? Es bien sabido que los monstruos
+vienen en todas las formas y especies...
+--- BLOCK [035] ---
+¿Puedes imaginar todas las bestias que
+hay esperando ser descubiertas?
+Da escalofríos, ¿verdad?
+--- BLOCK [036] ---
+¿Te es familiar esa chica que trabaja
+en el puesto de misión?
+--- BLOCK [037] ---
+Debería... es mi hermanita. Deberías
+pasarte y saludarla. Ella siempre está
+hablando de ti, ¿sabes?
+--- BLOCK [038] ---
+<SUBS 0>
+¿Has aprendido a las malas cómo puedes
+esquivar un ataque?
+--- BLOCK [039] ---
+Se llama la universidad de los golpes.
+Pero nada afila los reflejos como un
+poco de dolor. ¡La Arena te ayuda!
+--- BLOCK [040] ---
+ <SUBS 0>
+Tienes los ojos puestos en la
+Clasificación, ¿no? ¿Sí? Bien.
+--- BLOCK [041] ---
+Úsala para ver en qué puertos están los
+cazadores realmente buenos. Me
+pregunto si TUS marcas son tan buenas.
+--- BLOCK [042] ---
+¿Por qué esa cara aburrida? Si tienes
+tiempo para hablar, también para cazar.
+¡Ahora date prisa y entra a la Arena!
+--- BLOCK [043] ---
+Ah, eh, perdón. Mi hermana siempre me
+grita por ser tan mandona. Supongo que
+debería relajarme un poco. ¿No? ¿¡NO!?
+--- BLOCK [044] ---
+<SUBS 0>
+¿Ya le has cogido el truco a la Arena?
+¿Quizá dedicaste tiempo a nuevas armas?
+--- BLOCK [045] ---
+Te lo noto... ¡Tienes la fiebre de la
+Arena! La única cura es hacer TODAS
+las misiones de Arena. ¡Será tu terapia!
+--- BLOCK [046] ---
+<SUBS 0>
+Mi hermana dice que eres como un pez...
+¡tienes agallas! 
+--- BLOCK [047] ---
+Eh, ¿por qué no te ríes? ¡Es un chiste!
+Y mi hermana dice que YO tengo que
+espabilarme. Pues anda, que...
+--- BLOCK [048] ---
+<SUBS 0>
+Últimamente has estado dejando al
+público en ascuas... ¡incluyéndome a mí!
+--- BLOCK [049] ---
+Sigue con el teatro. Al fin y al cabo
+tenemos que poner traseros en las
+tribunas. ¡De eso vive el Gremio!
+--- BLOCK [050] ---
+¡Bien hecho! Ahora tienes que intentar
+el mejor tiempo. Ya sabes lo que
+eso significa...
+--- BLOCK [051] ---
+Tienes que venir a la Arena aún más a
+menudo. ¡Hasta pronto, cazador!
+--- BLOCK [052] ---
+¿Qué? No hay sitio para tu equipo
+en tu Caja de objetos.
+--- BLOCK [053] ---
+Un buen cazador siempre está pendiente.
+Vuelve cuando hayas organizado tu caja.
+--- BLOCK [054] ---
+Este puesto te ofrece todos los
+servicios de la Arena.
+--- BLOCK [055] ---
+También puedes ver las clasificaciones
+que muestran tus marcas y las de otros
+cazadores. Echa un vistazo si quieres.
+--- BLOCK [056] ---
+Hola. Esto es la Arena...
+--- BLOCK [057] ---
+¡Ah, una nueva cara! Acabarás
+de desembarcar.
+--- BLOCK [058] ---
+Esto es el puesto de la Arena. Eso lo
+sabes, ¿no? Aun con todo eres un novato. 
+--- BLOCK [059] ---
+La Arena auspicia una caza como ninguna
+otra. ¡Enfrentamos a cazadores y
+monstruos ante un público entregado!
+--- BLOCK [060] ---
+¡Nuestro público quiere ver una batalla
+de ingenio! Exigen una caza real que no
+dependa de un equipo caro y sofisticado.
+--- BLOCK [061] ---
+¿Efectos de comida? ¡No funcionan aquí!
+¿Superarmadura? ¡No en la Arena! Usa
+solo el equipo que NOSOTROS te damos.
+--- BLOCK [062] ---
+Un cazador experto puede manejar
+cualquier situación. ¿Y tú? Parece
+que te vendría bien algo de experiencia.
+--- BLOCK [063] ---
+Pero no te voy a detener. Si quieres
+probar una misión de Arena, avísame.
+--- BLOCK [064] ---
+Ah, y también registraremos tus tiempos
+en las Clasificaciones. Me encantará
+enseñártelas cuando hables conmigo.
+--- BLOCK [065] ---
+Pilla tarjetas del Gremio de cazadores
+para que estos también aparezcan.
+¡Quizá encuentres a un rival para ti!
+--- BLOCK [066] ---
+Eso es básicamente el resumen. No
+te cortes y pídeme que te repita lo que
+sea. Lo creas o no, me encanta ayudar.
+--- BLOCK [067] ---
+¡Bueno, hazlo lo mejor posible!
+--- BLOCK [068] ---
+Eh, bienvenido al puesto de la Arena.
+Ah, eres tú. Te estaba esperando.
+--- BLOCK [069] ---
+¿Eh? No, no es una llamada personal.
+Tengo un mensaje para ti.
+--- BLOCK [070] ---
+En realidad son buenas noticias: Te han
+autorizado a cazar monstruos más
+fuertes en las misiones de Arena.
+--- BLOCK [071] ---
+Parece que el Gremio ha visto algo
+en ti, ¿eh?
+--- BLOCK [072] ---
+Supongo que te debo una disculpa. Em... 
+Eh...
+Siento haberte llamado novato.
+--- BLOCK [073] ---
+¡Uf! Al final no me ha costado tanto.
+¡Mira cómo me relajo, hermana!
+--- BLOCK [074] ---
+Bueno, ahora intentarás misiones de
+Arena de más nivel, ¿no?
+¡Hazlo, hazlo!
+--- BLOCK [075] ---
+Te doy la bienvenida al puesto de
+la Arena. ¡Ah, eres tú!
+Justo el cazador que esperaba.
+--- BLOCK [076] ---
+Eres la comidilla del Gremio estos días.
+¡Todo el mundo ha oído de tus singulares
+hazañas, y tienen hambre de más!
+--- BLOCK [077] ---
+Te han autorizado a cazar monstruos
+aún más fuertes en misiones de Arena. 
+¡Excelente, cazador!
+--- BLOCK [078] ---
+Está hecho. Ya eres definitivamente
+un cazador hecho y derecho.
+--- BLOCK [079] ---
+¿Ves? Sé cómo alabar a alguien
+cuando se lo merece.
+--- BLOCK [080] ---
+Claro que, ahora que eres un cazador
+hecho y derecho, voy a esperar de ti
+cosas aún mejores. ¡No me defraudes!
+--- BLOCK [081] ---
+¡Increíble! ¡Has completado todas
+las misiones de Arena! 
+--- BLOCK [082] ---
+Hemos tenido una audiencia récord
+en la Arena, y todo gracias a ti.
+¡Todos tienen la fiebre de la Arena!
+--- BLOCK [083] ---
+Y... Bueno... En realidad tengo una
+recompensa para ti. Toma, ¡y no digas
+que nunca te di nada! *Ejem* Porfa...
+--- BLOCK [084] ---
+HARDUMMY
+--- BLOCK [085] ---
+Hola. Este es el puesto de la Arena.
+--- BLOCK [086] ---
+Hola. Este es el puesto de la Arena.
+--- BLOCK [087] ---
+Hola. Estás en el puesto de la Arena.
+--- BLOCK [088] ---
+*Bostezo* Oh, perdona. ¡Olvida eso!
+--- BLOCK [089] ---
+Ah, hola.
+--- BLOCK [090] ---
+¿Ganas de una pelea en la Arena?
+--- BLOCK [091] ---
+¿Ganas de una pelea en la Arena?
+--- BLOCK [092] ---
+Hola. Estás en el puesto de la Arena.
+--- BLOCK [093] ---
+*Bostezo* Oh, perdona. ¡Olvida eso!
+--- BLOCK [094] ---
+Ah, hola.
+--- BLOCK [095] ---
+Supuse que volverías.
+--- BLOCK [096] ---
+Supuse que volverías.
+--- BLOCK [097] ---
+Hola. Hoy tienes buen aspecto.
+--- BLOCK [098] ---
+Hola. Hoy tienes buen aspecto.
+--- BLOCK [099] ---
+Hola. ¿Ya le pillaste el truco a cazar?
+--- BLOCK [100] ---
+Hola. ¿Ya le pillaste el truco a cazar?
+--- BLOCK [101] ---
+Ah, se nota que tienes ganas de liarla.
+--- BLOCK [102] ---
+Ah, se nota que tienes ganas de liarla.
+--- BLOCK [103] ---
+Eh, yo te conozco. Vas a la Arena, ¿eh?
+--- BLOCK [104] ---
+Eh, yo te conozco. Vas a la Arena, ¿eh?
+--- BLOCK [105] ---
+Volverás. Sé que lo harás.
+--- BLOCK [106] ---
+Bien. Hasta otra.
+--- BLOCK [107] ---
+Muy bien. Hasta luego.
+--- BLOCK [108] ---
+Entrarás a la próxima. Sé que lo harás.
+--- BLOCK [109] ---
+Volverás. Sé que lo harás.
+--- BLOCK [110] ---
+Bien. Hasta otra.
+--- BLOCK [111] ---
+Muy bien. Hasta luego.
+--- BLOCK [112] ---
+Entrarás a la próxima. Sé que lo harás.
+--- BLOCK [113] ---
+Cuídate en el camino de vuelta.
+--- BLOCK [114] ---
+Cuídate en el camino de vuelta.
+--- BLOCK [115] ---
+¿La próxima nos darás un espectáculo?
+--- BLOCK [116] ---
+¿La próxima nos darás un espectáculo?
+--- BLOCK [117] ---
+Muy bien. Hasta luego.
+--- BLOCK [118] ---
+¿Ya te vas? Muy bien.
+--- BLOCK [119] ---
+¿Ya te vas? Muy bien.
+--- BLOCK [120] ---
+Algunos seguidores del público han
+preguntado por ti. Quieren saber
+cuándo volverás a la Arena.
+--- BLOCK [121] ---
+Algunos seguidores del público han
+preguntado por ti. Quieren saber
+cuándo volverás a la Arena.
+--- BLOCK [122] ---
+No pasaría nada porque te dejaras caer
+por aquí de vez en cuando, ¿sabes?
+--- BLOCK [123] ---
+No pasaría nada porque te dejaras caer
+por aquí de vez en cuando, ¿sabes?
+--- BLOCK [124] ---
+Umm. Ahora mismo hay poca oferta de
+misiones que puedes aceptar. ¿Qué
+plan tienes?
+--- BLOCK [125] ---
+Umm. Ahora mismo hay poca oferta de
+misiones que puedes aceptar. ¿Qué
+plan tienes?
+--- BLOCK [126] ---
+Umm, supongo que si el Gremio decide
+que eres lo bastante fuerte, te darán
+más opciones de misiones.
+--- BLOCK [127] ---
+Umm, supongo que si el Gremio decide
+que eres lo bastante fuerte, te darán
+más opciones de misiones.
+--- BLOCK [128] ---
+¿Entonces, novato? ¿Vas a aceptar
+una misión?
+--- BLOCK [129] ---
+¿Cuál es el plan, cazador? Puede
+que venga público si vuelves a entrar.
+--- BLOCK [130] ---
+¿Cuál es el plan, cazador? Puede
+que venga público si vuelves a entrar.
+--- BLOCK [131] ---
+Bien. Misiones de Arena. Lo sé.
+--- BLOCK [132] ---
+Espero que hoy el público esté animado.
+--- BLOCK [133] ---
+Tienes muchas misiones abiertas ahora.
+¿Cuál es el plan?
+--- BLOCK [134] ---
+¿Qué vas a hacer? El público 
+se volverá loco si vuelves a aparecer.
+--- BLOCK [135] ---
+Ahora monta una buena. 
+--- BLOCK [136] ---
+¡Hora del espectáculo!
+--- BLOCK [137] ---
+Bien, misiones de Arena. ¿Qué necesitas?
+--- BLOCK [138] ---
+Ah, sí, el puesto de la Arena. ¿Sí?
+--- BLOCK [139] ---
+¿Qué será hoy?
+--- BLOCK [140] ---
+¡Bueno, enséñame lo que tienes!
+--- BLOCK [141] ---
+Vas a entrar, ¿no? Sé que lo harás.
+--- BLOCK [142] ---
+Bueno, ¿qué plan hay?
+--- BLOCK [143] ---
+Intenta que no te hieran... A no ser que
+el público tenga sed de sangre.
+--- BLOCK [144] ---
+Intenta que no haya mucha sangre.
+Podría haber niños en las gradas.
+--- BLOCK [145] ---
+Este es un deporte espectáculo.
+¡No te cortes!
+--- BLOCK [146] ---
+¡Puede que compre una entrada
+para esta!
+--- BLOCK [147] ---
+Me pasaré a mirar durante mi pausa.
+--- BLOCK [148] ---
+No hará falta que me lo retransmitas. 
+--- BLOCK [149] ---
+Recuerda, tienes derecho a vendas gratis
+si te dan caña.
+--- BLOCK [150] ---
+¡Haz que la gente se entretenga!
+--- BLOCK [151] ---
+¡Sí! ¡En marcha!
+--- BLOCK [152] ---
+Sigue hasta la puerta de salida.
+--- BLOCK [153] ---
+Bueno, monta una buena.
+--- BLOCK [154] ---
+Los monstruos son bastante duros.
+¡Pero darán mucho juego!
+--- BLOCK [155] ---
+Es la hora. ¡Solo tienes que ganar!
+--- BLOCK [156] ---
+¿Harás que el público se eche a tus
+pies o harás que se queden dormidos?
+--- BLOCK [157] ---
+Vale, compraré una entrada y entraré
+a mirar. ¡Normalmente no hago esto!
+--- BLOCK [158] ---
+¡Vale! Compraré una entrada y entraré a
+mirar. ¡Será mejor que merezca la pena!
+--- BLOCK [159] ---

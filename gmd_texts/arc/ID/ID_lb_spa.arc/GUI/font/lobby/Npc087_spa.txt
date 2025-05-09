@@ -1,0 +1,521 @@
+﻿TMSG_NPC087_0
+--- BLOCK ---
+TMSG_NPC087_1
+--- BLOCK ---
+TMSG_NPC087_2
+--- BLOCK ---
+TMSG_NPC087_3
+--- BLOCK ---
+TMSG_NPC087_4
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Echa un vistazo a las misiones
+disponibles que cumplen esos criterios.
+--- BLOCK ---
+No hay tarifa para esta misión.
+Te parece bien, ¿no?
+--- BLOCK ---
+Lo tengo. La tarifa es $ z.
+¿Suena bien?
+--- BLOCK ---
+¡Ah, ups! Parece que no tienes dinero
+suficiente para cubrir la tarifa.
+--- BLOCK ---
+Parece que no cumples los requisitos
+para emprender esta misión. No pasa
+nada, simplemente escoge otra distinta.
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+Ah, ¿quieres cancelar tu misión actual?
+Si la iniciaste tú, el grupo se
+disolverá. ¿Te parece bien?
+--- BLOCK ---
+La misión está kaput. Gracias
+por usar nuestros servicios.
+--- BLOCK ---
+La misión ha sido cancelada.
+Gracias. Vuelve pronto.
+--- BLOCK ---
+¿Entonces abandonas? Ya veo.
+--- BLOCK ---
+<SUBS 0>
+¡Registro de cazadores abierto a todos!
+--- BLOCK ---
+¿Hay más como tú en casa? ¡Diles que
+vengan! ¡Acepté este trabajo para dar
+la bienvenida a los nuevos cazadores!
+--- BLOCK ---
+<SUBS 0>
+¡La cobertura sanitaria del Gremio es
+excelente! Aunque tienes que pagarla...
+--- BLOCK ---
+¡Pero nuestras instalaciones médicas son
+de primera categoría y tengo mucho tacto
+con los pacientes! ¡Todos me adoran!
+--- BLOCK ---
+<SUBS 0>
+¿Qué te parece el tiempo que hace?
+¡A mí me da ganas de hacer picnic!
+--- BLOCK ---
+¿Y si comemos una cesta de los famosos
+sándwiches Giggi-gut del Chef de la
+Cantina? ¿No? Ya, no gustan a todos.
+--- BLOCK ---
+<SUBS 0>
+Por cierto, he oído que no malvives en
+el alojamiento del Gremio como otros.
+--- BLOCK ---
+Dicen que vives bien en el barco de
+Neko. Será agradable dormir en esa cama
+mullida. ¡Ojalá yo tuviera tanta clase!
+--- BLOCK ---
+<SUBS 0>
+¿Sabes que tienes que pagar una Tarifa
+fijada por el Gremio para empezar, no?
+--- BLOCK ---
+El dinero cubre los gastos de transporte
+y suministro, así como el salario de los
+Felyne que te salvan si te derrotan.
+--- BLOCK ---
+<SUBS 0>
+¿Has comido en el asador Tanzyne? 
+Es el restaurante oficial del Gremio.
+--- BLOCK ---
+El salón que tiene vistas al mar es un
+sitio perfecto para una cita. ¡Vas por
+la vista, pero te quedas por la comida!
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que el Gremio tiene una flota
+para llevar a los cazadores a cazar?
+--- BLOCK ---
+Son tan lujosos que los turistas los
+usan y ahora es demasiado peligroso
+acercarse mucho al punto de destino.
+--- BLOCK ---
+Sírvete de los materiales que recoges
+durante una cacería. Hasta lo más
+pequeño puede ayudarte.
+--- BLOCK ---
+Por cierto, ¿no odias cuando tienes
+Pociones pero no Miel? Te falta
+un pelo para hacer Megapociones.
+--- BLOCK ---
+<SUBS 0>
+El Gremio está haciendo un gran esfuerzo
+para obtener datos de los monstruos.
+--- BLOCK ---
+Revisa la Lista de monstruos en tus
+Notas de cazador para ver los que hemos
+recogido hasta ahora. ¡Queremos todos!
+--- BLOCK ---
+<SUBS 0>
+Ah, ¿alguna vez has usado ese gran
+gong que está detrás de mí?
+--- BLOCK ---
+Su sonido se escucha en todo el mundo y
+así puedes conocer a cazadores de todo
+tipo. ¡Pregunta al maestro del Gremio!
+--- BLOCK ---
+<SUBS 0>
+¿Sabes que esos chefs Felyne están
+siempre asando carne en el Tanzyne?
+--- BLOCK ---
+El aroma me hace marearme y delirar...
+Ah, perdón. Quería decirlo, no babearlo.
+--- BLOCK ---
+<SUBS 0>
+El restaurante reparte folletos para
+reclutar nuevos chefs Felyne. A ver...
+--- BLOCK ---
+"Buscamos Felyne con buen paladar. Los
+chefs reciben tres platos al día". ¡No
+es justo, los humanos también cocinamos!
+--- BLOCK ---
+<SUBS 0>
+¿Sabes? A veces doy al Mensajero cartas
+para mis amigos por correspondencia.
+--- BLOCK ---
+Es como si pudiera viajar por el mundo
+y conocer lugares nuevos sin salir de
+casa. ¡Espero que les gusten las mías!
+--- BLOCK ---
+<SUBS 0>
+El Gremio se encuentra inmerso en una
+campaña por la Seguridad en la caza.
+--- BLOCK ---
+¿Llevas suficientes Bebidas? ¿Has
+traído lo necesario para combinar lo que
+quieres? ¡La prevención es tu aliada!
+--- BLOCK ---
+<SUBS 0>
+Sabes que el Gremio otorga ★ a las
+misiones según su dificultad, ¿no?
+--- BLOCK ---
+Esas estrellas serán bonitas pero 
+significan peligro. ¡Cuantas más, peor!
+--- BLOCK ---
+<SUBS 0>
+Por cierto, ¿sabías que la empleada de
+la Arena a mi lado es mi hermana mayor?
+--- BLOCK ---
+No lo dirías por su actitud mandona pero
+es muy femenina. ¡Hasta me trenza
+el pelo por las mañanas!
+--- BLOCK ---
+Le he dicho que tiene que relajarse.
+Hasta que siga mi consejo, tendrás que
+creerme si te digo que es muy amable.
+--- BLOCK ---
+<SUBS 0>
+La brisa marina relaja mucho. A veces
+me cuesta la vida dejar de dormitar.
+--- BLOCK ---
+Y siempre acabo mi turno calada de
+sal. Mira, prueba mi brazo. 
+¿No? ¿Entonces simplemente te lo crees?
+--- BLOCK ---
+<SUBS 0>
+¿Has comido, cazador? Si pones un poco
+de Queso real en una Megarrosquilla...
+--- BLOCK ---
+O le echas un Tomate gordo a un poco de
+Cerdo de musgo, ¡tendrás una hamburguesa
+especial! De precio *ejem* "especial"...
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que los uniformes del Gremio
+varían según la región?
+--- BLOCK ---
+El Gremio usa tejidos adecuados a cada
+clima para que siempre sean cómodos.
+¡Otra razón para amar mi trabajo!
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que ser la Chica del gong es un
+puesto muy importante entre empleadas?
+--- BLOCK ---
+Espero que algún día se oiga mi gong en
+todo el puerto. Mi objetivo es ser una
+súper empleada del Gremio, ¿sabes?
+--- BLOCK ---
+<SUBS 0>
+Y ahora, unas palabras de nuestros
+patrocinadores del Gremio...
+--- BLOCK ---
+¡Bébelo, trágalo, pásalo!
+¡Miau! ¡Viva el Mosto de Tanzia! 
+--- BLOCK ---
+¡Refréscate en la taberna de la ciudad!
+¡Miau! ¡Viva el Mosto de Tanzia!
+--- BLOCK ---
+*Trago* *Trago* *Trago*
+¡Miau! ¡Refrescante!
+--- BLOCK ---
+Tómate una o tres en el asador Tanzyne,
+nuestro patrocinador. Y ahora, sigue
+con tus cacerías programadas...
+--- BLOCK ---
+Un montón de nubarrones está estropeando
+el horizonte últimamente.
+Es bastante inquietante.
+--- BLOCK ---
+Bueno, no hay por qué preocuparse de
+eso ahora. Creo que iré al asador
+Tanzyne para consolarme un poco.
+--- BLOCK ---
+Todo el puerto está en vilo desde que
+supimos que el Miralis funesto
+viene hacia aquí.
+--- BLOCK ---
+El Gremio incluso emitió una citación
+para cazadores con excelentes
+historiales de caza.
+--- BLOCK ---
+Aun así puedes aceptar misiones
+normales. De hecho, ¡hazlas todas para
+prepararte para la batalla final!
+--- BLOCK ---
+Hola. ¿Eh? ¿Has venido para
+registrarte como cazador?
+--- BLOCK ---
+Entonces... 
+*Ejem* Gracias por tu interés en el
+Gremio de cazadores.
+--- BLOCK ---
+Si deseas empezar a aceptar misiones,
+primero debes registrarte como
+cazador en este Gremio.
+--- BLOCK ---
+Cuando completes el registro, podrás
+llamar hogar a esta ciudad. Es el
+auténtico cuartel general de cazadores.
+--- BLOCK ---
+Este puerto comercial está repleto de
+suministros. Nunca tendrás problemas
+para recopilar los básicos para cazar.
+--- BLOCK ---
+Y el Gremio es más que un apoyo a los
+cazadores durante las cacerías. También
+ofrecemos cama, alimento y ropa.
+--- BLOCK ---
+Eh, creo que eso es todo. Si te ha
+gustado la idea, habla con el maestro
+del Gremio, que está justo ahí.
+--- BLOCK ---
+¡Vale, vamos a hacerlo oficial!
+Te doy la bienvenida al puesto de
+misión. Tu registro fue como la seda.
+--- BLOCK ---
+Este puesto es adonde van los cazadores
+a por misiones. En el Gremio recibimos
+toda clase de peticiones de cacería.
+--- BLOCK ---
+Solemos trabajar con misiones dirigidas
+a grupos de caza, así que procura
+llevarte bien con otros cazadores.
+--- BLOCK ---
+A todas las misiones se les asigna un
+nivel de dificultad. El número de ★
+que tiene una misión indica su nivel.
+--- BLOCK ---
+En pocas palabras, las misiones con una
+o dos ★ son misiones de rango bajo.
+--- BLOCK ---
+Las misiones de tres a cinco ★ son
+misiones de rango alto. Son más duras
+que las de rango bajo. Es lógico, ¿no?
+--- BLOCK ---
+Ahora, algunas misiones son AÚN más
+difíciles, aunque según el maestro del
+Gremio no hemos tenido ninguna en años.
+--- BLOCK ---
+Cualquiera puede unirse a una misión de
+una o dos ★. Están dirigidas a novatos,
+con "monstruos" que apenas lo son.
+--- BLOCK ---
+Pero tienes que tener un Rango cazador
+(RC) igual o superior al número de ★
+de la misión para aceptarla.
+--- BLOCK ---
+O sea, los cazadores de RC 1 solo pueden
+aceptar misiones de una ★, ¡pero los de
+RC 2 pueden aceptarlas de una y dos ★!
+--- BLOCK ---
+Aunque aumentar tu RC es más fácil de
+lo que parece. Primero, completa varias
+misiones importantes de tu RC actual.
+--- BLOCK ---
+Después, tras completar esas misiones,
+el Gremio te pedirá que completes
+una misión urgente.
+--- BLOCK ---
+Entonces, completa esa misión urgente,
+¡y tu RC subirá de nivel por fin!
+--- BLOCK ---
+¿Ves? Solo frota, aclara, y repite. 
+¡Serás un Cazador de élite antes de
+que te des cuenta!
+--- BLOCK ---
+Como te acabas de registrar, empezarás
+como RC 1. ¡Ohh, los cazadores novatos
+rebosáis tanta energía y entusiasmo!
+--- BLOCK ---
+La verdad es que yo también soy
+nueva por aquí. ¡Pero haré lo que
+pueda para darte las mejores misiones!
+--- BLOCK ---
+¡Buena suerte por ahí, y feliz caza!
+--- BLOCK ---
+¡Qué bien! ¡Ahora tienes permiso para
+aceptar misiones de rango alto!
+--- BLOCK ---
+¿No te alegras? ¡Buah, yo sí!
+¡Esto es lo que más me gusta
+de mi trabajo!
+--- BLOCK ---
+A partir de ahora, podrás aceptar en
+este puesto misiones más duras que las
+que has llevado a cabo hasta ahora.
+--- BLOCK ---
+Pero tendrás que recordar algunas cosas
+cuando aceptes misiones de rango alto,
+así que presta atención, por favor...
+--- BLOCK ---
+Los terrenos de caza de rango alto están
+poblados por bestias muy peligrosas, por
+lo que es arriesgado llevar provisiones.
+--- BLOCK ---
+Eso significa que quizá no podamos
+entregarte tus suministros al comienzo
+de la misión.
+--- BLOCK ---
+Haremos todos los esfuerzos para hacer
+que te lleguen las provisiones cuanto
+antes, pero no te hagas ilusiones.
+--- BLOCK ---
+Otro problema es que casi siempre te
+enviaremos a una ubicación distinta
+al campamento base.
+--- BLOCK ---
+¡Puede que te separes de los demás
+cazadores, o que acabes justo enfrente
+del gran monstruo! Es un fastidio.
+--- BLOCK ---
+Así que pedimos a los cazadores que no
+salgan a misiones de rango alto hasta
+que no estén completamente preparados.
+--- BLOCK ---
+Y con eso concluyo el aspecto formal...
+Guau, casi he sonado como mi hermana
+ahí. ¡Espero haberme hecho entender!
+--- BLOCK ---
+¡Hala! ¡Tienes permiso para aceptar
+misiones de rango G! ¡Enhorabuena!
+--- BLOCK ---
+Buah. Recuerdo cuando eras un recién
+llegado. ¡Ahora eres todo un veterano!
+--- BLOCK ---
+No cambia demasiado entre las misiones
+de rango alto y las de rango G, así que
+no tengo mucho que explicarte.
+--- BLOCK ---
+Solo recuerda que los monstruos serán
+mucho más temibles y formidables,
+aunque seguramente ya sabías eso.
+--- BLOCK ---
+Ten mucho cuidado. ¡Y sobre todo, 
+prepárate! No te dejes las Pociones y
+las bebidas solo porque seas un experto.
+--- BLOCK ---
+¡Buena suerte y feliz caza, cazador!
+--- BLOCK ---
+Cazador... Me temo que tengo una
+alarmante noticia que darte.
+--- BLOCK ---
+El Gremio ha declarado el estado de
+emergencia. Este gran puerto afronta
+un peligro desconocido hasta ahora.
+--- BLOCK ---
+Hemos confirmado que un dragón anciano
+conocido como el Miralis funesto se
+acerca a Puerto Tanzia.
+--- BLOCK ---
+Esta criatura es un completo misterio.
+Hasta las mentes más brillantes del
+Gremio lo conocen solo por leyendas.
+--- BLOCK ---
+Esta misión es literalmente un viaje a
+lo desconocido, así que solo se la
+ofrecemos a los mejores.
+--- BLOCK ---
+El destino de toda la ciudad (y más)
+pende de un hilo. Y, sin embargo, sé
+que vas a aceptarla, ¿verdad?
+--- BLOCK ---
+Lo sabía... No te diré que no vayas,
+pero esto es lo que menos me gusta
+de mi trabajo...
+--- BLOCK ---
+En el Gremio te animamos a que vuelvas
+de una pieza. No hagas ninguna tontería,
+como morir... ¡o evacuar la ciudad!
+--- BLOCK ---
+Pero no tengo miedo. No creo que haya
+ningún monstruo, real o legendario,
+que pueda vencerte.
+--- BLOCK ---
+Te he visto crecer como cazador desde
+el principio y sé de qué pasta estás
+hecho. ¡Una pasta muy dura, cazador!
+--- BLOCK ---
+Aun así, puedes confiar en que cumpliré
+mis funciones hasta el final.
+--- BLOCK ---
+¡Buen cazador! 
+¡Te doy la bienvenida de nuevo!
+--- BLOCK ---
+Sabía que estarías bien. Lo sabía...
+Pero aun así me alivia ver que estás
+bien. Uf... Respira hondo...
+--- BLOCK ---
+*Jadeo* *Sorbo* Estoy bien, estoy
+bien... La paz ha regresado al puerto,
+así que puedes volver a cazar.
+--- BLOCK ---
+¡Yo tampoco me voy a jubilar! Tengo
+muchas misiones que ofrecerte,
+¡así que agárrate! 
+--- BLOCK ---
+¡Ah, esto es lo que más me gusta
+de mi trabajo!
+--- BLOCK ---
+¡Buenos días!
+--- BLOCK ---
+Buen día para cazar, ¿eh?
+--- BLOCK ---
+Zzzz... *Bostezo* ¡¿Qué?! ¡Oh!
+--- BLOCK ---
+¡Te estábamos esperando!
+--- BLOCK ---
+¡Te doy la bienvenida!
+--- BLOCK ---
+¡Bienvenido al Gremio de cazadores!
+--- BLOCK ---
+¡Oh, buenos días!
+--- BLOCK ---
+¡Gracias por romperte los cuernos!
+--- BLOCK ---
+¡Puesto de misión a tu servicio!
+--- BLOCK ---
+¡Te doy la bienvenida!
+--- BLOCK ---
+Este es el puesto de misión.
+--- BLOCK ---
+Me vendría bien una pausa de aseo...
+--- BLOCK ---
+*Uf* ¡Hoy ha sido una locura!
+--- BLOCK ---
+¡Hasta luego!
+--- BLOCK ---
+¡Adióooos!
+--- BLOCK ---
+Ya veo. ¡Bueno, vuelve pronto!
+--- BLOCK ---
+Entiendo. Vuelve cuando quieras
+para ver las últimas misiones.
+--- BLOCK ---
+¡Espero verte pronto!
+--- BLOCK ---
+¿Deseas examinar misiones?
+--- BLOCK ---
+¿Vas a salir de caza?
+--- BLOCK ---
+¿Necesitas algo? ¡Yo me encargo!
+--- BLOCK ---
+¡Infórmate sobre misiones aquí!
+--- BLOCK ---
+¿Hoy quieres ver misiones?
+--- BLOCK ---
+Ah, sí, las misiones. ¡Claro!
+--- BLOCK ---
+Feliz caza, ¡y cuídate!
+--- BLOCK ---
+¡Por una buena caza!
+--- BLOCK ---
+¡Felices rastros!
+--- BLOCK ---
+Vuelve de una pieza, ¿vale?
+--- BLOCK ---
+Ve hasta la puerta de salida.
+--- BLOCK ---
+Cuéntamelo todo cuando vuelvas.
+--- BLOCK ---
+¡Bon voyage!
+--- BLOCK ---

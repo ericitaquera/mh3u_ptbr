@@ -1,0 +1,734 @@
+TMSG_NPC085_0
+--- BLOCK ---
+TMSG_NPC085_1
+--- BLOCK ---
+TMSG_NPC085_2
+--- BLOCK ---
+TMSG_NPC085_3
+--- BLOCK ---
+TMSG_NPC085_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+*Cá, cá* Aah, já sentindo a sede
+de caça, jovem? Sempre pode se
+juntar a outros até ganhar experiência.
+--- BLOCK ---
+Vê o Quadro de missões ali?
+Examine e use para aceitar as
+mesmas missões que seus amigos.
+--- BLOCK ---
+Ah, e nada supera um bom diário.
+Começarei com a entrada de hoje: "Um
+amigo não te deixará caçar sozinho".
+--- BLOCK ---
+*Cá, cá* *Arroto* A propósito, espero
+que saiba que tem que pagar
+uma Taxa ao aceitar uma missão.
+--- BLOCK ---
+Mas não se preocupe, garoto. Te
+devolvemos o dinheiro se completar.
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador novato: "Não seja mesquinho.
+Uma Taxa é um bom investimento!"
+--- BLOCK ---
+<SUBS 0>
+Hoje vou falar sobre as
+missões urgentes.
+--- BLOCK ---
+Pense neles como testes para conquistar
+uma boa promoção. As missões urgentes
+tem que aceitar você mesmo.
+--- BLOCK ---
+Ainda assim, pode convidar outros amigos,
+então avise-os e traga tantos
+quanto puder. Quanto mais, melhor!
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador novato: "Escolha missões urgentes
+para conseguir a promoção. Fique atento!"
+--- BLOCK ---
+<SUBS 0>
+A propósito, essas missões de alto escalão
+possuem uma pequena armadilha.
+--- BLOCK ---
+Essa armadilha é chamada Deviljho. E é
+uma besta astuta. Nunca sabe quando ou
+onde aparecerá. Talvez atrás de você!
+--- BLOCK ---
+*Cá* Talvez pense que está pronto
+para as missões de alto escalão,
+mas subestimar esse Deviljho é perigoso!
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador novato: "O Deviljho aparece
+nas missões de alto escalão. Cuidado!"
+--- BLOCK ---
+<SUBS 0>
+Ah, sabia que outros caçadores
+podem lhe fornecer objetos?
+--- BLOCK ---
+É mais fácil que tomar um gole.
+*Cá* Simplesmente pressione o botão em frente
+ao objeto que lhe entregam para aceitar.
+--- BLOCK ---
+Tem um inexperiente em seu grupo
+com poucos materiais? Dê itens
+de recuperação. Ele vai agradecer!
+--- BLOCK ---
+Curioso sobre dar itens: se o item
+for uma parte de monstro cara
+ou muito rara, não poderá vendê-lo.
+--- BLOCK ---
+A entrada de hoje do seu Diário de
+Caçador novato: "É melhor dar do que
+receber, embora receber também não seja ruim".
+--- BLOCK ---
+<SUBS 0>
+ Chegou a hora de você aprender sobre os
+cartões e títulos da Guilda, não é verdade? Sim.
+--- BLOCK ---
+Os cartões do Gremio contam sua vida
+em poucas palavras. Apresentam você aos outros
+e contam seu histórico de caça.
+--- BLOCK ---
+Quer ver como o mundo te
+vê? Selecione Cartão do Gremio no
+Menu do jogo e escolha Examinar.
+--- BLOCK ---
+A partir daí, pode escolher o conteúdo
+do cartão e criar seu próprio título
+a partir dos que tiver conseguido.
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador novato: "Jogue bem seus cartões
+de Gremio e não caçará sozinho novamente".
+--- BLOCK ---
+*Cá, cá* Ah, bem-vindo, novato! Está
+aqui para se registrar como caçador.
+Veio ao lugar certo... *Arroto*
+--- BLOCK ---
+Ufa. Desculpe, ser o chefe deste
+Gremio de caçadores me dá sede.
+Precisa de cafeína para reuní-los.
+--- BLOCK ---
+Porto Tanzia é muito atraente para
+mercadores, mas os caçadores o tomaram
+recentemente. É sua base operacional!
+--- BLOCK ---
+Esta cidade foi construída sobre os ombros
+de jovens como você. Quanto mais caça,
+mais prospera Tanzia. E também come!
+--- BLOCK ---
+Nós do Gremio estamos aqui para o
+que precisar. Só se preocupe em
+melhorar suas habilidades e completar caçadas.
+--- BLOCK ---
+*Cá, cá* Bem, ainda não precisa
+exagerar. Por enquanto, explore por aqui
+e se familiarize com tudo.
+--- BLOCK ---
+Ah, mais uma coisa. Vê esse gongo atrás
+de mim? É o orgulho do Gremio.
+--- BLOCK ---
+Se bater no gongo, convocará
+todos os caçadores da
+região até este porto.
+--- BLOCK ---
+Nada melhor do que caçar com
+amigos. É uma experiência transcendental!
+--- BLOCK ---
+Se estiver em seu próprio Porto
+Multi, pode bater no gongo quando
+quiser. Música para meus ouvidos!
+--- BLOCK ---
+Há muitas outras regras e rituais e
+tal. Olhe suas Notas de caçador
+se quiser ir direto ao ponto.
+--- BLOCK ---
+*Ehm* Aqui e agora te declaro
+caçador oficial desta cidade. Não manche
+agora nosso bom nome, hein? *Arroto*
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador novato: "Toda grande jornada
+começa com um passo. Não tropece!"
+--- BLOCK ---
+... *Arroto* Que cabeça! Quase
+esqueci de um detalhe crucial!
+--- BLOCK ---
+Já conheceu o Mensageiro
+Felyne nos cais?
+--- BLOCK ---
+Ele pode ajudar na configuração de seu
+StreetPass. Se ainda não falou com
+ele, por que não o visita?
+--- BLOCK ---
+Ative o StreetPass e poderá trocar
+cartões do Gremio com um monte
+de caçadores que ainda não conhece.
+--- BLOCK ---
+Claro, também pode trocar
+cartões do Gremio com
+caçadores que conhece pessoalmente.
+--- BLOCK ---
+E escute! Caçadores com os quais
+trocou cartões do Gremio virão de
+vez em quando a esta Taverna.
+--- BLOCK ---
+Chamamos de Caçadores a contrato.
+Não quer esquecer disso, garoto.
+--- BLOCK ---
+Pode imaginar o que fazemos
+com esses Caçadores a contrato?
+--- BLOCK ---
+Damos missões, claro!
+--- BLOCK ---
+Cada caçador escolhe uma missão
+diferente. Escolha com cuidado quem
+vai para cada missão.
+--- BLOCK ---
+Claro, tem que pagar toda vez
+que enviar um caçador para uma
+missão. Afinal, são Caçadores a contrato.
+--- BLOCK ---
+Lembre-se, não encontrará nenhum Caçador a
+contrato se não trocar cartões!
+--- BLOCK ---
+Espero que se depare com um grupo variado de
+guerreiros e heróis e o que sei lá!
+--- BLOCK ---
+*Cá, cá* Ah, acabou de
+chegar e já está
+destacando os outros caçadores!
+--- BLOCK ---
+Graças à sua coragem, chegou uma
+missão urgente com seu nome.
+--- BLOCK ---
+Vai caçar o infame Lagiacrus.
+É uma besta marinha, então
+prepare-se para se molhar.
+--- BLOCK ---
+Mas há um problema. Só você
+pode aceitar esta missão urgente.
+--- BLOCK ---
+Dito isso, também pode levar
+alguns amigos. Traga tantos quanto
+puder! Monte um grupo!
+--- BLOCK ---
+Seu Rank de caçador (RC) subirá
+se completar esta missão, então
+não se afogue! *Cá, cá*
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador novato: "Supere o teste da
+missão urgente e triunfará com certeza!"
+--- BLOCK ---
+*Cá* *Tosse* *Balbucio* Uau,
+completou a missão urgente!
+--- BLOCK ---
+Está em boa fase, jovem!
+Terei que lhe oferecer missões
+mais difíceis daqui para frente.
+--- BLOCK ---
+Ah, queria perguntar... Já
+encontrou Caçadores a contrato?
+--- BLOCK ---
+Se tiver alguma missão em mente para
+os Caçadores a contrato, venha me ver.
+--- BLOCK ---
+Baseado em suas preferências, posso reduzir
+os tipos de missões que
+oferecem quando passam pela Taverna.
+--- BLOCK ---
+*Cá, cá* Agora deve estar ansioso para
+experimentar as missões de alto escalão.
+--- BLOCK ---
+Sortudo! Justo tenho um pedido para
+matar um Rathian e um
+Rathalos. Estava pensando algo assim?
+--- BLOCK ---
+Talvez já tenha enfrentado um de
+cada vez, mas espere até
+testar suas forças combinadas. *Arroto*
+--- BLOCK ---
+Me dá arrepios só de pensar.
+Encurralando um só faz o outro
+ficar ainda mais furioso e incontrolável.
+--- BLOCK ---
+Ah, disse que é época de
+acasalamento? Essas feras quentes atacarão
+tudo que estiver pela frente.
+--- BLOCK ---
+Mas imagino que ainda possa
+lidar com isso, garoto.
+--- BLOCK ---
+Sua próxima entrada no Diário de
+Caçador novato é: "Céu e terra!
+Rathian e Rathalos! Triunfo ou morte?"
+--- BLOCK ---
+Isso te dá vontade
+de caçar, garoto? Mostre!
+--- BLOCK ---
+E se precisar de um pouco de
+motivação, seu Rank de caçador subirá assim
+que completar a missão! *Cá, cá*
+--- BLOCK ---
+Dizem que caçou o Rathian e
+o Rathalos! Que tal um brinde
+pelo seu sucesso? *Cá* *Arroto*
+--- BLOCK ---
+Sempre acreditei que tinha potencial, jovem,
+mas não TANTO! É um
+caçador habilidoso! Ou era prodígio?
+--- BLOCK ---
+*Ehm* Seja como for, o Gremio
+te reconhece como Caçador de elite!
+--- BLOCK ---
+Uma promoção oficial pede um brinde! Que
+a torneira seja aberta! *Cá, cá*
+--- BLOCK ---
+Bem, chega de festas! Agora tem
+missões de alto escalão para enfrentar.
+As anteriores eram brincadeira de Felyne!
+--- BLOCK ---
+Mas que recompensas! Vai conseguir
+partes de monstro de qualidade
+nessas missões, jovem. Lembre-se disso!
+--- BLOCK ---
+Não deixe os perigos te derrubarem.
+Essas missões são um bilhete só
+de ida para fama e fortuna!
+--- BLOCK ---
+A entrada de hoje do seu Diário
+de Caçador experiente: "A sorte favorece o
+audacioso. Seja audacioso e acumule fortunas!"
+--- BLOCK ---
+Queria lhe perguntar uma coisa.
+Já conheceu o Instrutor ufanado?
+--- BLOCK ---
+Ouvi que está vivendo bem desde
+que vende caudas de fabricação própria.
+--- BLOCK ---
+*Cá, cá* Por que finjo ser
+tolo? Estou bebendo agora mesmo!
+--- BLOCK ---
+Por que não o visita? É um
+sujeito esperto, talvez até lhe dê algo
+de graça! Me deu! *Cá, cá* *Arroto*
+--- BLOCK ---
+*Arroto* Fiquei sabendo de suas
+proezas, jovem! São um bom
+acompanhamento para beber cola.
+--- BLOCK ---
+Falando em proezas, chegou uma
+missão urgente para você. Desta
+vez vai caçar um Brachydios.
+--- BLOCK ---
+Esse monstro ainda é um mistério até
+para os mais antigos do Gremio.
+--- BLOCK ---
+Sabemos uma coisa: seria
+prudente levar desodorante.
+--- BLOCK ---
+A entrada de hoje do seu
+Diário de Caçador experiente: "Desvende o
+mistério do Brachydios e fará história".
+--- BLOCK ---
+*Cá, cá* Brindo pelo seu sucesso!
+Chegou uma nova missão urgente.
+--- BLOCK ---
+Seu objetivo é... Ei, um Lagiacrus de
+mármore? Esse é osso duro de roer.
+--- BLOCK ---
+Conquistador da Terra e do Mar,
+o chamam. Desmembrador de braços
+e pernas, eu o chamo.
+--- BLOCK ---
+Seus ataques normais são bem pesados.
+Seus Ataques de trovão levam um
+homem à bebida! *Cá, cá*
+--- BLOCK ---
+O Gremio deve acreditar em sua
+competência se considera que está preparado
+para essa temível besta. Parabéns?
+--- BLOCK ---
+A entrada de hoje em seu Diário
+de Caçador experiente: "Se o Gremio acredita
+que você pode, por que discutir?"
+--- BLOCK ---
+*Gole, gole* *Balbuciando* Pare de beber
+e comece a pensar. Acabamos de
+receber outra missão urgente para você.
+--- BLOCK ---
+Já ouviu falar do gigante brilhante
+das profundezas, jovem? Ele tem uma
+subespécie, o Ceadeus barba dourada.
+--- BLOCK ---
+Alguns culpam esse dragão ancião por
+todo tipo de desastres. Agora
+ele navega nas águas locais.
+--- BLOCK ---
+Certamente, o Gremio não pode deixar de
+agir. Você sabe o que isso significa...
+--- BLOCK ---
+Exatamente. Queremos que dê uma lição
+nesse Ceadeus barba dourada, jovem.
+--- BLOCK ---
+É uma missão perigosa, mas alguém
+tem que fazê-la. O Gremio acredita
+que esse alguém deve ser você.
+--- BLOCK ---
+Mas não lutará às cegas. O
+Gremio estará atrás de você, apoiando-o!
+--- BLOCK ---
+Sei que é uma grande exigência, mas
+pense na recompensa! Você não será conhecido
+apenas em Tanzia. Terá fama mundial!
+--- BLOCK ---
+Seu olhar me diz que você irá
+conseguir, jovem. Sabia que sim! Vamos brindar
+pelo seu sucesso! *Gole, gole* *Arroto*
+--- BLOCK ---
+A entrada no seu Diário de Caçador
+experiente: "Desça para alcançar o topo. Nas
+profundezas do mar, há um dragão."
+--- BLOCK ---
+*Gole, gole* Jovem! *Balbuciando* Não
+posso acreditar que tenha derrotado
+o lendário Ceadeus barba dourada!
+--- BLOCK ---
+Vixe... Lembro-me quando você era apenas um
+novato. Olhe para você agora! Reconheço que
+terei que começar a chamá-lo de chavalão!
+--- BLOCK ---
+*Ahem* Escute! Escute! Pelo
+poder concedido pelo Gremio,
+declaro você Mestre caçador!
+--- BLOCK ---
+Das missões que chegam à mesa
+do Gremio, as missões de Rank
+G são as mais desafiadoras.
+--- BLOCK ---
+O avistamento de novos monstros
+tem aumentado ultimamente, também.
+--- BLOCK ---
+Apostaria uma caixa de cola
+que essas novas bestas se
+tornarão missões de Rank G.
+--- BLOCK ---
+Mas não deixe seu nível de Mestre
+subir à cabeça... ou o perderá!
+Tenha bastante cuidado com essas missões.
+--- BLOCK ---
+Claro que a recompensa torna
+o perigo digno. Em breve,
+você saberá muito bem.
+--- BLOCK ---
+Aproveite este novo capítulo em sua
+carreira, chavalão. Estas caçadas serão difíceis,
+mas você não ficará entediado!
+--- BLOCK ---
+A entrada de hoje no Diário do Caçador
+orgulhoso: "Um caçador se levanta com o
+pé certo e o Gremio, com caçadores."
+--- BLOCK ---
+*Gole, gole* Ah, já experimentou
+as missões de Rank G?
+--- BLOCK ---
+Bem, tenho ouvido histórias
+recentes sobre Brachydios furiosos.
+--- BLOCK ---
+Caçar um Brachydios certamente será
+moleza para você, mas desta
+vez terá que enfrentar dois!
+--- BLOCK ---
+Se já é difícil enfrentar
+uma dessas bestas... duas? *Arrepio*
+Deixe-me fortalecer. *Gole, gole* *Arroto*
+--- BLOCK ---
+Ahh, esta caçada será árdua, mas isso é
+o que se espera de um Mestre caçador!
+--- BLOCK ---
+Você coloca o dinheiro, você se arrisca.
+Hora de mostrar sua habilidade, chavalão!
+--- BLOCK ---
+A entrada no Diário do
+Caçador orgulhoso: "Uma tarefa gigantesca
+traz uma recompensa... gigantesca?"
+--- BLOCK ---
+*Arroto* Esse é meu chavalão!
+Ninguém sabe nada sobre Brachydios...
+e você domou dois deles!
+--- BLOCK ---
+Todos em Tanzia... não, todo o mundo
+sabe que você é um autêntico Mestre
+caçador! Brindo a isso! *Gole, gole*
+--- BLOCK ---
+Mas devo dizer... Ultimamente
+tenho visto nuvens desanimadoras
+se formando no horizonte...
+--- BLOCK ---
+Bah, não quero estragar a festa.
+Voltaremos a esse assunto quando
+necessário. Esperemos que nunca seja...
+--- BLOCK ---
+Continue completando missões de Rank
+G e acumulando experiência.
+--- BLOCK ---
+A entrada de hoje no Diário do
+Caçador orgulhoso: "Forjar o caráter dá sede:
+não esqueça de saborear a vitória."
+--- BLOCK ---
+Bem, embora esperasse que
+não acontecesse, o
+momento finalmente chegou...
+--- BLOCK ---
+Relatórios enigmáticos têm chegado ao
+Gremio nos últimos dias.
+--- BLOCK ---
+Tudo começou quando perdemos o contato com
+um navio de observação enviado ao
+Mar contaminado para estudar os terremotos.
+--- BLOCK ---
+Depois, o Gremio enviou uma frota de
+navios com um navio de guerra
+liderando para encontrar o navio desaparecido...
+--- BLOCK ---
+Em vez do navio, encontraram
+a pior coisa imaginável...
+--- BLOCK ---
+A frota se deparou com o
+mesmo dragão ancião que aterrorizou Tanzia
+na antiguidade: o sinistro Miralis funesto.
+--- BLOCK ---
+É um monstro lendário, só o
+nome já arrepia. Agora ele se
+aproxima de Tanzia, lento mas certo.
+--- BLOCK ---
+A frota do Gremio conseguiu relatar o
+avistamento, mas o contato se perdeu.
+Como se fosse engolida pelo mar.
+--- BLOCK ---
+Não é apenas Tanzia que está em perigo
+por essa besta. Toda a região está!
+--- BLOCK ---
+Pelo menos há uma boa notícia. O
+Gremio tem um depósito na área
+cheio de armas, munição e combustível.
+--- BLOCK ---
+Queremos que use esse local
+como acampamento base quando partir
+para enfrentar o Miralis funesto.
+--- BLOCK ---
+O quê? Certamente não deve surpreender
+nossa solicitação. Você é o único
+caçador que pode enfrentar essa besta.
+--- BLOCK ---
+Seria uma missão suicida para qualquer
+outro. Você é nossa única esperança!
+--- BLOCK ---
+A entrada de hoje no Diário do
+Caçador orgulhoso: "Vença e salvará o
+mundo. Fracasse... e ninguém ficará sabendo."
+--- BLOCK ---
+*Balbuciando* Chavalão! Você conseguiu!
+--- BLOCK ---
+Matou o Miralis funesto!
+--- BLOCK ---
+Teve que mostrar muita força e
+habilidade, mas venceu essa besta sinistra!
+--- BLOCK ---
+Este porto significa tudo para
+mim. Ajudei muitos caçadores aqui,
+mais do que posso contar.
+--- BLOCK ---
+Não consigo agradecer o suficiente por
+salvar este local. É todo o
+meu mundo. Vamos nos recuperar, verá!
+--- BLOCK ---
+Ah, quase esqueci. Recebi uma
+carta do Gremio expressando agradecimento
+e reconhecimento por suas conquistas.
+--- BLOCK ---
+Vamos ver... *Ahem* "Em
+reconhecimento por seus esforços,
+concedemos este Prêmio".
+--- BLOCK ---
+Bem, isso deve animá-lo, chavalão. Com
+isso em mãos, certamente conquistará
+ainda mais fortuna e glória!
+--- BLOCK ---
+A entrada de hoje no Diário do
+Caçador orgulhoso: "Um grande caçador merece um
+grande Prêmio. Três vivas ao chavalão!"
+--- BLOCK ---
+... Ah, ah, ah. Esqueci de
+te dizer mais uma coisa.
+--- BLOCK ---
+Tome isso! O limite de Rank caçador
+é removido quando recebe este Prêmio!
+--- BLOCK ---
+Daqui em diante, seu Rank caçador
+dependerá dos pontos de Rank caçador
+que receber após as missões.
+--- BLOCK ---
+Agora o Gremio até permite
+que aceite missões consideradas impossíveis!
+--- BLOCK ---
+Sabe, sempre pensei que eram os
+gases que me causavam essa sensação
+no peito quando você chegava...
+--- BLOCK ---
+Mas talvez sempre soube que esse dia
+chegaria. *Arroto* Ou, heh, talvez não.
+--- BLOCK ---
+A entrada de hoje no Diário
+do Caçador orgulhoso: "A caçada nunca
+termina. E a lenda também não!"
+--- BLOCK ---
+*Gole gole* *Balbuciando* Finalmente alcançou o
+Rank caçador 15, não é?!
+--- BLOCK ---
+Isso merece mais do que uma taça!
+Uma conquista assim exige algo muito especial.
+--- BLOCK ---
+Que tal permitir que empunhe o
+Martelo usado pela Garota do gongo?
+--- BLOCK ---
+Ei, não faça cara de entediado!
+Esse Martelo tem história! Passou de
+uma Garota do gongo para outra.
+--- BLOCK ---
+E agora passa para você! Faça
+bom uso desse presente nas caçadas.
+--- BLOCK ---
+Se deseja empunhar o Martelo da Garota
+do gongo, peça para forjarem para você.
+--- BLOCK ---
+A entrada de hoje no Diário
+do Caçador orgulhoso: "Abata o Martelo!
+O gongo dá início à caçada!"
+--- BLOCK ---
+*Arroto* Desculpe! Ah, tenho certeza de
+que tem caçado muito ultimamente!
+--- BLOCK ---
+Não podemos reclamar! Suas proezas
+inspiraram uma nova geração de
+caçadores a entrar no jogo.
+--- BLOCK ---
+Aceite este presente do Gremio. Considere
+como um agradecimento pelo que fez
+e tudo o que continuará fazendo.
+--- BLOCK ---
+Agora pare de enrolar e vá
+realizar feitos inspiradores e tal!
+--- BLOCK ---
+*Gole, gole* Ah, vejo
+que tem caçado com
+muitos amigos ultimamente.
+--- BLOCK ---
+Isso é o que gostamos de ouvir
+no Gremio! Caçar em grupo aumenta a
+probabilidade de sucesso em suas missões.
+--- BLOCK ---
+Sempre encorajo os jovens a
+caçarem com mais pessoas. Quem
+caça junto, permanece junto!
+--- BLOCK ---
+Considere isso como um presente de
+agradecimento por sua sociabilidade. Agora
+saia e faça novas amizades!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+*Gole, gole* Ah, fico feliz em vê-lo.
+--- BLOCK ---
+Bom dia!
+--- BLOCK ---
+Um tempo maravilhoso, não é?
+--- BLOCK ---
+Um dia perfeito para uma caçada.
+--- BLOCK ---
+*Arroto* Desculpe!
+--- BLOCK ---
+Bem-vindo, jovem!
+--- BLOCK ---
+Oh! Hoje está bem animado!
+--- BLOCK ---
+Sim, sou o Mestre do gremio. *Arroto*
+--- BLOCK ---
+Veio para me ouvir?
+--- BLOCK ---
+Ok, até mais!
+--- BLOCK ---
+Volte sempre para ajustar suas
+preferências como Caçador contratado.
+--- BLOCK ---
+*Gole, gole* Até mais! *Arroto*
+--- BLOCK ---
+Saia e faça conexões!
+--- BLOCK ---
+A pessoa atrás de mim mal
+pode esperar para tocar aquele gongo!
+--- BLOCK ---
+Talvez conheça alguém novo. Talvez
+encontre um velho amigo.
+--- BLOCK ---
+Sempre que quiser ouvir aquele
+gongo, passe por aqui!
+--- BLOCK ---
+Nunca conhecerá ninguém se
+não se relacionar!
+--- BLOCK ---
+Espero que conheça alguns
+bons Caçadores contratados!
+--- BLOCK ---
+*Gole, gole* *Balbucio* O gongo
+soou bem forte hoje!
+--- BLOCK ---
+*Gole, gole* Um brinde ao seu sucesso!
+--- BLOCK ---
+*Arroto* Agora só nos resta esperar.
+--- BLOCK ---
+*Arroto* O gongo está me deixando exausto!
+--- BLOCK ---
+A entrada no Diário dos
+Caçadores contratados diz: "O martelo
+provoca um estrondo irresistível!"
+--- BLOCK ---
+Não se envergonhe de conhecer pessoas apenas
+pelo StreetPass. O mundo é assim!
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Você está aqui para alterar suas
+preferências de Caçadores contratados, não está?
+--- BLOCK ---
+Que tipo de Caçadores contratados
+gostaria de ver por aqui?
+--- BLOCK ---
+O que vai ser?
+--- BLOCK ---
+Fico imaginando como o gongo soará hoje.
+--- BLOCK ---
+Veio brincar com suas
+preferências de Caçadores contratados?
+--- BLOCK ---
+Ah, quase esqueci! Quer mudar
+suas preferências de Caçadores contratados.
+--- BLOCK ---
+Que tipo de Caçadores
+contratados gostaria de conhecer?
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

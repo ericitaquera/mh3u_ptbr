@@ -1,0 +1,664 @@
+﻿TMSG_NPC018_0
+--- BLOCK [001] ---
+TMSG_NPC018_1
+--- BLOCK [002] ---
+TMSG_NPC018_2
+--- BLOCK [003] ---
+TMSG_NPC018_3
+--- BLOCK [004] ---
+TMSG_NPC018_4
+--- BLOCK [005] ---
+<SUBS 0>
+¿Quieres Kayamba unirse a ti
+en gran aventura?
+--- BLOCK [006] ---
+¡Yam-ba!
+¡Aplastamos monstruos como uvas!
+--- BLOCK [007] ---
+Kayamba no tiene ganas de aventuras.
+<SUBS 1>
+--- BLOCK [008] ---
+<SUBS 0>
+¿Quieres que Kayamba quede en aldea?
+¿Aunque Kayamba siente solo?
+--- BLOCK [009] ---
+Vale. Kayamba aprovecha su
+oportunidad de relax.
+<SUBS 1>
+--- BLOCK [010] ---
+¡Yam-ba! Tú más listo que pareces.
+--- BLOCK [011] ---
+<SUBS 0>
+¿Quieres Kayamba unirse a ti
+en aventura multijugador?
+--- BLOCK [012] ---
+¡Yam-ba!
+¡Kayamba pone tus amigos
+verdes de envidia!
+--- BLOCK [013] ---
+Kayamba no ganas de fiesta igualmente.
+<SUBS 1>
+--- BLOCK [014] ---
+<SUBS 0>
+¿Eh? ¿Dejas atrás Kayamba mientras
+disfrutas de socialización?
+--- BLOCK [015] ---
+Vale. Kayamba no tenía ganas hoy
+de pinchar monstruos.
+<SUBS 1>
+--- BLOCK [016] ---
+¡Yam-ba! ¡Kayamba gusta mucho esto!
+--- BLOCK [017] ---
+<SUBS 0>
+--- BLOCK [018] ---
+¿Gente de esta aldea confunde Kayamba
+con ESE? ¡Bah! ¡Necesitan
+ir al oculista!
+--- BLOCK [019] ---
+Eso igual que daga en corazón
+puro e inocente de Kayamba...
+--- BLOCK [020] ---
+<SUBS 0>
+--- BLOCK [021] ---
+Gente de aldea trata a Kayamba como a
+amigo recobrado... Da un poco de miedo.
+--- BLOCK [022] ---
+Pero Kayamba sigue el juego. Actúa como
+amigo. Mejor que antes, cuando sufría
+insoportable soled... Em...
+--- BLOCK [023] ---
+Ejem, ¡la cosa es que Kayamba amigo de
+gente porque Kayamba muy generoso!
+--- BLOCK [024] ---
+<SUBS 0>
+Gente de aldea sabe mucho de Shakalaka.
+¿Cómo saben tanto?
+--- BLOCK [025] ---
+¿Ahora Shakalaka tiene fama mundial?
+Kayamba supone que era inevitable.
+--- BLOCK [026] ---
+Kayamba nueva estrella... Debe practicar
+firma de autógrafos y comer niños.
+¿Cómo? Ah. ¡BESAR niños!
+--- BLOCK [027] ---
+<SUBS 0>
+¡Cuando Kayamba viene, probabilidad
+de éxito en misión es 99,9%!
+--- BLOCK [028] ---
+Sé qué dices. 99,9% es número tonto.
+¿Por qué no redondear a 100?
+--- BLOCK [029] ---
+¡Porque Kayamba riguroso con datos!
+¿Y si número revisado por pares?
+--- BLOCK [030] ---
+<SUBS 0>
+Los Shakalaka siempre llevar máscara.
+A todas horas, todos los días.
+--- BLOCK [031] ---
+¿Mmm? ¿Tú preguntarte sobre aspecto
+de Kayamba? ¡Intenta echar vistazo
+próxima vez que Kayamba cambia máscara!
+--- BLOCK [032] ---
+Pero Kayamba avisa: ¡Kayamba cambiador
+más rápido de historia Shakalaka!
+¡Nadie ha visto cara real de Kayamba!
+--- BLOCK [033] ---
+<SUBS 0>
+Kayamba es cazador honrado. Kayamba
+nunca ataca monstruo que duerme.
+--- BLOCK [034] ---
+¡Kayamba juega limpio como verdadero
+caballero Shakalaka! Generalmente.
+--- BLOCK [035] ---
+<SUBS 0>
+Kayamba puede cortar y recoger hasta
+ocho clases de objetos durante caza.
+--- BLOCK [036] ---
+¡Kayamba trae suficiente botín para
+montar mercadillo propio!
+--- BLOCK [037] ---
+Shakalaka joven debe pasar tradicional
+rito de madurez. Parte en largo viaje
+y no vuelve sin un gran tesoro.
+--- BLOCK [038] ---
+Kayamba gira mal... ejem, BIEN, y acaba
+en costa. ¡Tropieza con mejor tesoro del
+mundo! ¡Kayamba encuentra Máscara total!
+--- BLOCK [039] ---
+¡Máscara total da habilidad total!
+¡Kayamba es Shakalaka total!
+--- BLOCK [040] ---
+<SUBS 0>
+¡Cha-Cha muy inmaduro! Necesita crecer
+y hacerse responsable.
+--- BLOCK [041] ---
+Kayamba recuerda un día, mientras dormía
+en aldea Shakalaka...
+--- BLOCK [042] ---
+Y Cha-Cha roba Máscara tenaza de Kayamba
+y la embadurna de miel por dentro.
+--- BLOCK [043] ---
+Cuando Kayamba pone máscara al otro día,
+Kayamba embadurna la cara de miel.
+Sabe bien, pero es asqueroso. ¡No gusta!
+--- BLOCK [044] ---
+<SUBS 0>
+¿Te preguntas quién es mejor Shakalaka,
+si Cha-Cha o Kayamba?
+--- BLOCK [045] ---
+Esa es pregunta poco seria, ¿no?
+¡Kayamba MUCHO mejor! ¡Y más listo!
+Además, Kayamba más sexy.
+--- BLOCK [046] ---
+<SUBS 0>
+¡Cha-Cha no amigo! Cha-Cha, conocido.
+Cruzábamos juntos la calle de niños.
+--- BLOCK [047] ---
+De hecho, Kayamba no reconoce Cha-Cha
+entre gente si hay más de dos personas.
+¡No confundas con amigo!
+--- BLOCK [048] ---
+<SUBS 0>
+¡Grr! Cuando Kayamba viaja con Cha-Cha,
+siempre causa muchos problemas.
+--- BLOCK [049] ---
+¡Cha-Cha se pierde! ¡Cha-Cha canta
+canción idiota! ¡Cha-Cha quiere pipí!
+--- BLOCK [050] ---
+<SUBS 0>
+Máscara tenaza de Kayamba hecha de coco
+y pinza de cangrejo. Huele a brisa marina.
+--- BLOCK [051] ---
+No tiene poder especial, pero está bien.
+A veces Kayamba quiere llevar máscara
+que mejor sienta. ¡La Máscara tenaza!
+--- BLOCK [052] ---
+<SUBS 0>
+Máscara tenaza es máscara más
+querida y antigua de Kayamba.
+--- BLOCK [053] ---
+¡Si Kayamba espía monstruos llevándola,
+Kayamba realiza ataque cuerpo a cuerpo! 
+--- BLOCK [054] ---
+<SUBS 0>
+¡El refrán es cierto! Es mejor cazar
+con buen amigo.
+--- BLOCK [055] ---
+Cazar siempre es mejor con alguien
+que conoce cómo piensas.
+--- BLOCK [056] ---
+Igual con Shakalaka: ¡cuanto más
+cazamos juntos, mejor la caza!
+--- BLOCK [057] ---
+<SUBS 0>
+Shakalaka baila mejor en grupo
+que en solitario.
+--- BLOCK [058] ---
+¡Bailar con amigo es alegre y divertido!
+Bailar solo da bastante vergüenza.
+--- BLOCK [059] ---
+<SUBS 0>
+Shakalaka sabe muchas historias de
+Máscara total. Es famosa entre nosotros.
+--- BLOCK [060] ---
+Leyenda dice que tiene poder defensivo
+más que muro con pinchos pinchudos.
+--- BLOCK [061] ---
+¡Ataque de monstruo pequeño casi siempre
+rebota! ¡Yam-ba!
+--- BLOCK [062] ---
+<SUBS 0>
+Verás, el portador de Máscara total
+nunca cosecha. Al parecer, se le olvida.
+--- BLOCK [063] ---
+¡Pero su fuerza y defensa suben!
+¡Portado de Máscara total no conoce
+miedo! ¡Casi nunca se retira!
+--- BLOCK [064] ---
+¡Ese tipo! ¡Ese mismo tipo!
+--- BLOCK [065] ---
+¡Ese tipo fastidia planes de Kayamba
+para cazar monstruo gigante!
+--- BLOCK [066] ---
+¿Eh? ¿Pensabas que Kayamba era Cha-Cha?
+--- BLOCK [067] ---
+¡Yam-ba! ¡Eso ofende a Kayamba!
+¡Nada que ver Kayamba con Cha-Cha!
+--- BLOCK [068] ---
+¡Kayamba guerrero élite de Shakalaka!
+¡Kayamba destruye enemigos con mirada!
+¡Kayamba fuerte como diez Bullfango!
+--- BLOCK [069] ---
+¡Kayamba no pierde! Kayamba participa
+en importante viaje sagrado ritual.
+--- BLOCK [070] ---
+Para pasar rito de madurez, Shakalaka
+debe viajar y encontrar su máscara.
+Eso lo sabe todo el mundo.
+--- BLOCK [071] ---
+¿Eh? Si Kayamba en viaje sagrado ritual,
+¿qué hacía Kayamba merodeando
+por un sitio tan peligroso?
+--- BLOCK [072] ---
+Cuando Kayamba deja aldea Shakalaka,
+Kayamba gira cuando tenía que ir recto
+y luego distrae con enorme...
+--- BLOCK [073] ---
+¿Sabes qué? Da igual.
+Kayamba no ha dicho nada.
+--- BLOCK [074] ---
+Lo que importa es que poderoso Kayamba
+viajaba para buscar Máscara total.
+--- BLOCK [075] ---
+Pero idiota de Cha-Cha mete narices en
+asuntos de Kayamba y wyvern con aliento
+de fuego roba máscara.
+--- BLOCK [076] ---
+¡Pero Kayamba piensa! Sabe que wyvern
+y máscara están cerca de esta aldea.
+--- BLOCK [077] ---
+Y hasta que Kayamba encuentre camino de
+vuel... Em, hasta que encuentre máscara,
+Kayamba decide quedarse por aquí.
+--- BLOCK [078] ---
+Como has robado presa de Kayamba, ahora
+le debes favor. ¡Tú harás de secuaz
+mientras Kayamba busca máscara!
+--- BLOCK [079] ---
+Kayamba da apoyo con danza.
+Tú te encargas de diversión y proezas
+de caza. Un buen equipo de dos.
+--- BLOCK [080] ---
+Di a Kayamba si tienes preguntas.
+Kayamba siempre de guardia.
+Siempre con tiempo para secuaz.
+--- BLOCK [081] ---
+<SUBS 0>
+Si hablas con Kayamba, puedes elegir
+llevar a Kayamba de caza.
+--- BLOCK [082] ---
+¡Pero no olvides que tú eres secuaz
+de Kayamba! Nada de pavonearse.
+--- BLOCK [083] ---
+Si secuaz quiere objeto que Kayamba
+encuentra, solo tiene que pedirlo.
+Con educación.
+--- BLOCK [084] ---
+Tarea de secuaz es acompañar Kayamba.
+¡Mientras Kayamba no se sienta solo en
+gran viaje, todo va bien!
+--- BLOCK [085] ---
+<SUBS 1>
+--- BLOCK [086] ---
+¿Yam-ba?
+¿Qué hace Cha-Cha aquí?
+--- BLOCK [087] ---
+Cha-Cha y Kayamba crían en misma aldea
+Shakalaka. Comparten mismo rito sagrado
+de madurez.
+--- BLOCK [088] ---
+Cuando Shakalaka quiere ser adulto,
+sale de viaje en busca de su máscara.
+¡A Kayamba hace mucha ilusión!
+--- BLOCK [089] ---
+Pero como Cha-Cha y Kayamba tienen misma
+edad, aldea recorta gastos y manda a los
+dos juntos en mismo viaje sagrado.
+--- BLOCK [090] ---
+Eso es mala idea, ¡sobre todo porque
+Cha-Cha es INÚTIL! ¡El muy bellotero
+mete en medio y lo complica todo!
+--- BLOCK [091] ---
+Kayamba no olvidará ese fatídico día...
+--- BLOCK [092] ---
+Tras largos días y noches, poderoso
+Kayamba encuentra al fin Máscara total.
+--- BLOCK [093] ---
+Pero entonces...
+--- BLOCK [094] ---
+Cha-Cha lo fastidia todo ¡y monstruo
+roba Máscara total de Kayamba!
+--- BLOCK [095] ---
+Por eso Kayamba decide perseguir
+Máscara total en solitario.
+--- BLOCK [096] ---
+Kayamba no vuelve a viajar con Cha-Cha.
+¡Kayamba no cae dos veces mismo error!
+--- BLOCK [097] ---
+Si secuaz decide llevar a Cha-Cha, es
+su responsabilidad exclusiva. ¡Kayamba
+no quiere saber nada del asunto!
+--- BLOCK [098] ---
+Kayamba sigue pensando que máscara
+en cueva bajo Granja...
+--- BLOCK [099] ---
+Una máscara tan chula, y mira. Kayamba
+cree que merece la pena inspeccionar.
+--- BLOCK [100] ---
+¡Ahora empieza gran batalla! Alejamos a
+Ceadeus y volvemos a aldea, lugar de
+paz, amor y ritmo.
+--- BLOCK [101] ---
+¡Luego, Kayamba convierte en mayor héroe
+de Moga y vive como estrella! ¡Yam-ba!
+--- BLOCK [102] ---
+Bueno... ¡Vamos! Kayamba te deja
+acompañarle en desafío final.
+Es gran honor, ¿sabes?
+--- BLOCK [103] ---
+¡Pero recuerda llevar Máscara antigua!
+--- BLOCK [104] ---
+¡Yam-baaaaaaaa!
+--- BLOCK [105] ---
+¡Ganamos! ¡Ganamos! ¡Amor y paz
+ya pueden volver a Aldea de Moga! ¡Y
+todo gracias a gran esfuerzo de Kayamba!
+--- BLOCK [106] ---
+Ah, sí. Kayamba imagina que secuaz
+también merece agradecimiento. ¡Vale!
+¡Kayamba feliz de compartir éxito!
+--- BLOCK [107] ---
+¡Kayamba muy contento por amigo héroe!
+¡Secuaz por fin puede destacar!
+--- BLOCK [108] ---
+Kayamba muy excitado con final perfecto.
+¡Es como guinda de pastel!
+¡Como bocata de Jaggi crujiente!
+--- BLOCK [109] ---
+Y, aunque no lo creas, ¡Kayamba tiene
+gran puente de piedra para venderte!
+--- BLOCK [110] ---
+¡No hemos acabado! ¡A buscar Máscara
+total! Luego, el bocata de Jaggi.
+--- BLOCK [111] ---
+Aldea fuera de peligro. Secuaz ya no
+tiene más tarea que ayudar a Kayamba
+a encontrar Máscara total.
+--- BLOCK [112] ---
+Por suerte, Kayamba satisfecho con
+trabajo de secuaz. Encantado de
+tenerte cerca un poco más.
+--- BLOCK [113] ---
+Volvamos al viaje.
+¡Máscara total no se buscará sola!
+--- BLOCK [114] ---
+¡Yam-ba!
+Antes de llegar a aldea, Kayamba usa
+habilidades para buscar Máscara total.
+--- BLOCK [115] ---
+Pero wyvern de fuego roba máscara
+y huye...
+--- BLOCK [116] ---
+Kayamba lucha como tejón salvaje,
+pero sin suerte. Adiós, máscara.
+--- BLOCK [117] ---
+Si no fuera por estúpido Cha-Cha,
+Kayamba ya tendría máscara.
+--- BLOCK [118] ---
+Pero pasado es historia. Kayamba olvida
+y dirige su mirada a nuevo futuro.
+¡Así dará ejemplo a todos Shakalaka!
+--- BLOCK [119] ---
+¡Ahora, a cazar wyverns escupefuego
+y a recuperar Máscara total!
+--- BLOCK [120] ---
+¡Mayor descubrimiento de todos tiempos!
+--- BLOCK [121] ---
+¡Kayamba encuentra Rathalos que roban
+Máscara total! ¡Se acabó cosa estúpida
+de Isla desierta!
+--- BLOCK [122] ---
+¿Eh? ¿Quieres saber cómo
+Kayamba encuentra?
+--- BLOCK [123] ---
+Eh... Quizá Kayamba se perdió un poco
+al volver de cacería...
+--- BLOCK [124] ---
+No, Kayamba dice eso de otro modo.
+--- BLOCK [125] ---
+Al volver de cazar, Kayamba decidió
+ir en dirección equivocada a buscar
+Rathalos. ¡Esta vez aparece!
+--- BLOCK [126] ---
+¡Aún mejor, ladrones Rathalos aún tienen
+Máscara total!... Kayamba no la ve
+personalmente, pero sabe que está ahí.
+--- BLOCK [127] ---
+Kayamba ya fue a hermosa dama de Gremio
+a registrar misión.
+--- BLOCK [128] ---
+¡Vamos! No te quedes de brazos
+cruzados. ¡Vamos a por máscara!
+--- BLOCK [129] ---
+Yam... ba...
+--- BLOCK [130] ---
+Es terrible. Máscara total no como
+antes. ¡No tiene nada de total!
+--- BLOCK [131] ---
+Pero máscara parece extraña. Kayamba
+nota leve reacción a electricidad...
+--- BLOCK [132] ---
+Umm... Kayamba se pregunta...
+Quizá esta máscara necesita...
+--- BLOCK [133] ---
+¡Más choque!
+--- BLOCK [134] ---
+¡Quizá terapia de choque sea clave
+para descubrir secreto de máscara!
+--- BLOCK [135] ---
+Kayamba debe desentrañar misterio.
+Por eso Kayamba cuidará
+de máscara hasta entonces.
+--- BLOCK [136] ---
+¡Yam-ba!
+¡Máscara que Kayamba robó de Rathalos
+está emitiendo extraña reacción!
+--- BLOCK [137] ---
+¡Kayamba siente potencia de choque!
+--- BLOCK [138] ---
+¿Dices que malvado y rápido monstruo
+está cerca?  
+--- BLOCK [139] ---
+¡Yam-ba! Hora de ponerse Máscara gaf...,
+eh... total, ¡y buscar choque!
+--- BLOCK [140] ---
+¡Eh! ¡Secuaz!
+--- BLOCK [141] ---
+¿Viste máscara? ¡Tuvo gran reacción
+durante caza de Zinogre! ¡Brillaba!
+--- BLOCK [142] ---
+¡Kayamba deduce que esta malvada energía
+de choque puede cambiar máscara!
+--- BLOCK [143] ---
+Qué pena que parase... ¿Quizá no recibió
+suficiente energía de choque?
+--- BLOCK [144] ---
+Si Kayamba tuviera choque más fuerte,
+¡quizá podría dejar máscara como estaba!
+--- BLOCK [145] ---
+Pero ahora está calmada, Kayamba deduce
+que no hay monstruos de choque cerca.
+Debemos encontrar uno más poderoso aún.
+--- BLOCK [146] ---
+¡Máscara reacciona a choque! Quizá no
+tengamos tan mala suerte... Solo
+debemos encontrar choque más fuerte.
+--- BLOCK [147] ---
+Si pudiéramos encontrar megachoque
+superpoderoso, ¡quizá así podríamos
+convertirla de nuevo en Máscara total!
+--- BLOCK [148] ---
+¡Vamos! ¡Kayamba empieza a buscar ahora
+mismo fuente de energía definitiva!
+--- BLOCK [149] ---
+<SUBS 0>
+Máscara que cogimos de Rathalos mucho 
+mejor de lo que Kayamba creía.
+--- BLOCK [150] ---
+Máscara tiene impacto de choque.
+¡Cuerpo de Kayamba es
+enorme conductor de corriente!
+--- BLOCK [151] ---
+Esta máscara es destino de Kayamba. ¡Ahora
+Kayamba usa superchoque para liberar su
+potencial y cambiarla a Máscara total!
+--- BLOCK [152] ---
+<SUBS 0>
+¡Máscara gafe reacciona a choque!
+--- BLOCK [153] ---
+¡Kayamba muy listo! ¡Kayamba genio!
+¡¿Por qué gente de aldea nunca me cree?!
+--- BLOCK [154] ---
+Solo leal secuaz cree a Kayamba.
+¡Leal secuaz ayuda a Kayamba
+a encontrar superchoque!
+--- BLOCK [155] ---
+<SUBS 0>
+¡Gran choque transforma máscara tonta en
+Máscara total! O eso cree Kayamba...
+--- BLOCK [156] ---
+Pero gente de aldea solo se ríe
+de Kayamba. Dicen que
+Kayamba les hace perder tiempo.
+--- BLOCK [157] ---
+Ser un genio significa estar solo.
+Y Kayamba odia estar solo.
+--- BLOCK [158] ---
+¡Bah! ¡Basta de autocompasión!
+¡Un verdadero Shakalaka no se compadece!
+--- BLOCK [159] ---
+¡Vamos, secuaz! ¡Encontremos energía
+de choque y restauremos Máscara total!
+--- BLOCK [160] ---
+¡Yam-ba! ¡Máscara ha tenido gran reacción!
+Mayor que con estúpido Zinogre.
+--- BLOCK [161] ---
+Ahora que Kayamba piensa, hermosa
+dama de Gremio dijo que Lagi-algo
+marmóreo iba a venir por aquí.
+--- BLOCK [162] ---
+¿Lagicrudo? ¿Latitudinoso? Como sea.
+A Kayamba no importa nombre. ¡A Kayamba
+solo importa fuente de energía!
+--- BLOCK [163] ---
+Kayamba tiene un buen presentimiento.
+Con nueva energía de monstruo, Kayamba
+puede cambiar máscara a como era antes.
+--- BLOCK [164] ---
+¡Kayamba ve luz fuerte y rápida a final
+de túnel! ¡Viaje por Máscara total
+está a punto de acabar! ¡Vamos, secuaz!
+--- BLOCK [165] ---
+Yaaaaaaaam--
+--- BLOCK [166] ---
+¡BAAAAAAAAAAAAAAAAAAA!
+--- BLOCK [167] ---
+¡Yam-ba! ¡Yam-ba-ba!
+¡Yam-ba! ¡Yam-ba-ba!
+--- BLOCK [168] ---
+¡Mira, secuaz! ¡MIRA!
+¡Máscara total ha vuelto y
+mejor que nunca!
+--- BLOCK [169] ---
+Eso significa... ¡Eso significa que
+Kayamba por fin adulto!
+--- BLOCK [170] ---
+¡Yam-ba!
+Por supuesto, Kayamba reconoce
+esfuerzos de secuaz en esta empresa.
+--- BLOCK [171] ---
+Ahora que Máscara total ha vuelto
+por fin a su sitio, Kayamba está listo
+para retirarse a vida de lujos.
+--- BLOCK [172] ---
+Tu labor de secuaz ha terminado, secuaz.
+Pero Kayamba te ofrece privilegio
+de seguir sirviéndolo si quieres.
+--- BLOCK [173] ---
+Lo más importante es que Kayamba
+recupera máscara y se hace adulto.
+¡Esta vez un auténtico final feliz!
+--- BLOCK [174] ---
+... Mmm.
+--- BLOCK [175] ---
+Kayamba da cuenta de que Cha-Cha observa
+Máscara total como preciado artefacto.
+--- BLOCK [176] ---
+Kayamba decide que acepta prestar
+máscara a Cha-Cha de vez en cuando.
+A Kayamba parece bien. Es muy generoso.
+--- BLOCK [177] ---
+¡Corazón de Kayamba diez veces
+más grande que cabeza de Jhen Mohran!
+Es impresionante si piensas en ello.
+--- BLOCK [178] ---
+Estúpido Cha-Cha lo estropeó todo
+cuando viajamos juntos por última vez.
+--- BLOCK [179] ---
+Pero ahora Kayamba piensa que Cha-Cha
+no es tan terrible como antes.
+Empieza a aprender de Kayamba.
+--- BLOCK [180] ---
+Está bien, porque Kayamba
+caza mejor cuando se lleva
+bien con esa cabeza bellota.
+--- BLOCK [181] ---
+... Para que conste, eso no significa
+que Kayamba gusta Cha-Cha
+ni nada parecido.
+--- BLOCK [182] ---
+Debemos ser muy claros en este punto.
+--- BLOCK [183] ---
+¡Yam-ba! Ahora cuando Kayamba caza con
+Cha-Cha, es como nuestras almas unidas.
+Cabeza bellota al final buen compañero.
+--- BLOCK [184] ---
+... ¿Quieres oír secreto, secuaz?
+--- BLOCK [185] ---
+Kayamba te dice...
+Acércate...
+--- BLOCK [186] ---
+¡A Kayamba sí gusta Cha-Cha! ¡Un tipo
+genial! Por qué siempre nos peleamos
+es uno de grandes misterios de vida.
+--- BLOCK [187] ---
+¡Pero eso información clasificada!
+¡Top secret! Si cuentas a alguien,
+pasarán cosas malas a secuaz.
+--- BLOCK [188] ---
+¡Yam-ba!
+--- BLOCK [189] ---
+¡Yam-ba-ba!
+--- BLOCK [190] ---
+¡Ka-yam-ba-baa!
+--- BLOCK [191] ---
+¿Cómo vas, amigo?
+--- BLOCK [192] ---
+¡Kayamba hoy con pilas cargadas!
+--- BLOCK [193] ---
+¡Oh! Kayamba no te ve ahí...
+--- BLOCK [194] ---
+Kayamba te da buenos días.
+--- BLOCK [195] ---
+¿Qué necesitas de Shakalaka?
+--- BLOCK [196] ---
+¡Yam-ba!
+--- BLOCK [197] ---
+Oh. Tú otra vez...
+--- BLOCK [198] ---
+¡Yam-ba! ¡Yam-ba!
+--- BLOCK [199] ---
+¡Buenas, secuaz!
+--- BLOCK [200] ---
+¡Ya-sta luego!
+--- BLOCK [201] ---
+¡Hasta pronto!
+--- BLOCK [202] ---
+¡Yam-badiós!
+--- BLOCK [203] ---
+¡Adiós!
+--- BLOCK [204] ---
+(!)
+--- BLOCK [205] ---
+(!)
+--- BLOCK [206] ---

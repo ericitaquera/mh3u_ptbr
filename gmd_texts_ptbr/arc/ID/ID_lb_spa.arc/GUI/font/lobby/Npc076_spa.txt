@@ -1,0 +1,243 @@
+TMSG_NPC076_0
+--- BLOCK ---
+TMSG_NPC076_1
+--- BLOCK ---
+TMSG_NPC076_2
+--- BLOCK ---
+TMSG_NPC076_3
+--- BLOCK ---
+TMSG_NPC076_4
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Menino Nervoso: Ei, você! Vim com meu pai
+da Vila de Moga para vender peixe!
+--- BLOCK ---
+Menino Nervoso: Meu pai está ocupado trabalhando,
+mas disse que eu poderia explorar a
+Marina e pescar até ele voltar! Uuh!
+--- BLOCK ---
+Menino Nervoso: Aqui tem muitos itens
+e mercadorias estrangeiras que você não
+encontrará em Moga. É muito emocionante!
+--- BLOCK ---
+Menino Nervoso: Mas há uma espécie de lei ou
+norma ou algo assim que diz que apenas os
+comerciantes podem comprá-los. Desculpe!
+--- BLOCK ---
+Menino Nervoso: Sinto muito também pelo meu
+pai! Ele é apenas um pescador, então
+também não pode comprar essas coisas. Rolo!
+--- BLOCK ---
+Menino Nervoso: Meu pai disse
+que se sente sozinho quando
+viaja, então decidi acompanhá-lo!
+--- BLOCK ---
+Menino Nervoso: Pensei em pegar lembrancinhas,
+doces, espadas ou algo assim! Mas
+não conte para ele, ok?
+--- BLOCK ---
+Menino Nervoso: Aliás, onde ele está!?
+Mal posso esperar para contar tudo
+que fiz! Vamos, vamos, vamos, vamos!
+--- BLOCK ---
+Menino Nervoso: Ei! Sabia que tem um
+Aptonoth perto daquele sharq pendurado? Sabia?
+--- BLOCK ---
+Menino Nervoso: Deve olhar embaixo dos
+pés dele. Com certeza deixou um
+grande presente! Buaja, ja, ja, ja!
+--- BLOCK ---
+Menino Nervoso: E quando digo grande,
+quero dizer ENORME! Não sabia que
+era possível um tamanho assim!
+--- BLOCK ---
+Menino Nervoso: Bem, fui eu quem encontrou
+primeiro o presente, então não estrague
+nem nada, ok? É um segredo!
+--- BLOCK ---
+Menino Nervoso: Ei! Já viu a
+dama do gongo? Aquela que fica
+atrás do mestre do Gremio.
+--- BLOCK ---
+Menino Nervoso: Ela é SUPER legal! Bem,
+não é que fale muito, mas sempre
+me dá suco e essas coisas.
+--- BLOCK ---
+Menino Nervoso: Uma vez estava lá e o mestre
+do Gremio estava sendo abusado com ela, entende?
+--- BLOCK ---
+Menino Nervoso: Aí ela pegou a coisa
+de Portomarca e PAM! Bateu no velho
+e o jogou na água! Sério!
+--- BLOCK ---
+Menino Nervoso: Bate nos abusados melhor que
+minha MÃE! Ja, ja, ja! Não... espera.
+Um momento. Esqueça o que eu disse.
+--- BLOCK ---
+Menino Nervoso: Ei, você! Viu aquele
+cara pescando perto do sharq pendurado?
+--- BLOCK ---
+Menino Nervoso: Parece um cara normal,
+mas na verdade é um
+EXPERT em pesca! De verdade!
+--- BLOCK ---
+Menino Nervoso: Diz que o truque está nos
+tempos, e eu falei que isso era legal,
+e ele só assentiu. Os experts SÃO LEGAIS!
+--- BLOCK ---
+Menino Nervoso: Ah! E ele também sabe
+muito sobre o mar! Com certeza pode
+te contar tudo que quer saber!
+--- BLOCK ---
+Menino Nervoso: Sabia que ele foi um
+dos que pegaram aquele enorme sharq?
+Sério! Só usou uma vara normal!
+--- BLOCK ---
+Menino Nervoso: Só que dessa vez, estava
+correndo por aí quando esse monstro saiu
+furioso dos arbustos, então saí correndo.
+--- BLOCK ---
+Menino Nervoso: Mas acabei num beco
+sem saída, então peguei coisas do
+chão e comecei a jogar nele!
+--- BLOCK ---
+Menino Nervoso: E aí, sabe o que aconteceu?
+Acertei ele em cheio no rosto e QUEBREI!
+... Ok, não todo. Mas uma parte!
+--- BLOCK ---
+Menino Nervoso: Quando contei para o mestre do
+Gremio, ele nem se surpreendeu. Disse que
+os caçadores fazem isso o tempo todo.
+--- BLOCK ---
+Menino Nervoso: Não lembro como ele
+chamou... Fritar um monstro? Cozinhar um
+monstro? Ah, lembrei! FERIR um monstro!
+--- BLOCK ---
+Menino Nervoso: Bem, com certeza
+há muitas outras formas de
+ferir monstros! Deveria tentar todas!
+--- BLOCK ---
+Menino Nervoso: O mestre do Gremio diz que
+faz tanto calor no vulcão que você
+poderia pegar fogo só por ESTAR lá!
+--- BLOCK ---
+Menino Nervoso: Que loucura! Se um
+dia tiver que ir ao vulcão,
+levarei algo gelado! Como um sorvete!
+--- BLOCK ---
+Menino Nervoso: Ei! Parece que está perdido!
+--- BLOCK ---
+Menino Nervoso: É sua primeira
+vez aqui? Procurando o Gremio?
+--- BLOCK ---
+Menino Nervoso: Nesse caso, é
+por esta ponte aqui!
+--- BLOCK ---
+Menino Nervoso: Deveria se aproximar! "Aceitar missões
+é o primeiro passo para iluminar
+sua mente"! ... Ou algo assim.
+--- BLOCK ---
+Menino Nervoso: ... Sim, na verdade não sei
+o que significa. Ouvi o mestre do Gremio
+dizendo, e acho que soa muito legal!
+--- BLOCK ---
+Menino Nervoso: Ei! Gosta desse farol? Porque
+eu acho que é INCRÍVEL! É super
+legal e ainda guia os barcos!
+--- BLOCK ---
+Menino Nervoso: Todos os adultos por
+aqui estão sempre falando sobre
+como essa coisa é importante.
+--- BLOCK ---
+Menino Nervoso: Dizem que o farol foi construído
+durante o "turbulento passado" deste lugar. Não sei
+o que é isso, mas continua sendo legal.
+--- BLOCK ---
+Menino Nervoso: Ei! Ei! Me disseram que
+você se tornou um Caçador de elite!
+É tão legal que não consigo aguentar!
+--- BLOCK ---
+Menino Nervoso: Não sei o que significa elite,
+mas suponho que é muito legal, não
+é? Parece muito legal de qualquer forma.
+--- BLOCK ---
+Menino Nervoso: Acha que um dia
+serei elite? Se pegar um super
+peixe gigante ou algo assim?
+--- BLOCK ---
+Menino Nervoso: Ei! O mestre do Gremio me
+disse que agora você é um Mestre
+caçador! Significa que chegou ao rank G!
+--- BLOCK ---
+Menino Nervoso: Ele disse que os monstros de rank
+G são todos muito difíceis, e se não
+estiver preparado, vão te esmagar como uma banana!
+--- BLOCK ---
+Menino Nervoso: ... Uau. Um Mestre caçador. Com
+certeza é mais forte que minha mãe, e
+ela é a mais forte do MUNDO!
+--- BLOCK ---
+Menino Nervoso: Ei! Ouviu sobre o
+barco de observação no Mar contaminado?
+Viram um lagarto gigante cuspindo FOGO!
+--- BLOCK ---
+Menino Nervoso: Todo mundo estava comentando
+sobre isso quando estava no Gremio.
+--- BLOCK ---
+Menino Nervoso: E sabe aquela cara
+enrugada que as pessoas fazem quando
+estão preocupadas? Todos estavam fazendo.
+--- BLOCK ---
+Menino Nervoso: Não conte isso para minha mãe, mas
+se essa coisa aparecer por aqui, irei atrás
+e darei um chute no traseiro do lagarto!
+--- BLOCK ---
+Menino Nervoso: Ei, você! Ouvi dizer que
+foi você quem deu um chute naquele
+enorme traseiro de lagarto! É INCRÍVEL!
+--- BLOCK ---
+Menino Nervoso: Até o mestre do
+Gremio acha que é incrível! Voltou
+a sorrir e tudo mais!
+--- BLOCK ---
+Menino Nervoso: Um dia serei como você!
+Vou proteger a todos e serei um
+homem do mar e tudo mais!
+--- BLOCK ---
+Menino Nervoso: Ja, ja, ja!
+--- BLOCK ---
+Menino Nervoso: Yijaaa!
+--- BLOCK ---
+Menino Nervoso: Ei! Você!
+--- BLOCK ---
+Menino Nervoso: Hoje estou me sentindo ótimo!
+--- BLOCK ---
+Menino Nervoso: Quem me dera ter doces...
+--- BLOCK ---
+Menino Nervoso: Ei! Sabe o quê?
+--- BLOCK ---
+Menino Nervoso: Hoje os peixes não estão mordendo...
+--- BLOCK ---
+Menino Nervoso: Que calor está fazendo hoje!
+--- BLOCK ---
+Menino Nervoso: Yujuu!
+--- BLOCK ---
+Menino Nervoso: Até mais!
+--- BLOCK ---
+Menino Nervoso: Por enquanto é só!
+--- BLOCK ---
+Menino Nervoso: Volte logo!
+--- BLOCK ---
+Menino Nervoso: Até logo!
+--- BLOCK ---
+Menino Nervoso: Adeus!
+--- BLOCK ---
+Menino Nervoso: Até outra hora!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

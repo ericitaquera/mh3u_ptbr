@@ -1,0 +1,501 @@
+﻿TMSG_NPC009_0
+--- BLOCK ---
+TMSG_NPC009_1
+--- BLOCK ---
+TMSG_NPC009_2
+--- BLOCK ---
+TMSG_NPC009_3
+--- BLOCK ---
+TMSG_NPC009_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que canjear ayuda a cazar?
+--- BLOCK ---
+¡Ja, buena pregunta! La Aldea de Moga es
+famosa por sus objetos raros; los Bienes
+alcanzan un buen precio en ultramar.
+--- BLOCK ---
+<SUBS 0>
+Jefe de aldea y capitán de Argosy viejos
+nakama. ¡"Nakama" significa amigos!
+--- BLOCK ---
+En tiempos hicimos muchas diabluras.
+*Suspiro* Qué tiempos, aquellos...
+--- BLOCK ---
+<SUBS 0>
+¿Tienes confianza en tu kenjutsu?
+¡"Kenjutsu" significa arte de espada!
+--- BLOCK ---
+Yo también manejo la espada. Estudié
+y dominé la Baja esgrima. Se llevaba
+mucho por aquel entonces, ¿sabes?
+--- BLOCK ---
+Moga está lejos de la ciudad. Ponerse
+en contacto con el Gremio no es pasear
+por el koen, ¡es decir, el parque!
+--- BLOCK ---
+Creo que la chica del puesto de misión
+trabaja más de lo que le reconocen.
+Se merece un aumento... tabun.
+--- BLOCK ---
+¿Quieres canjear algo? Primero, elige
+los Artículos que quieres. Su valor
+aparece en un indicador junto a "Cap.".
+--- BLOCK ---
+Luego, ofrece Bienes por un valor igual
+o mayor, selecciona "¡Trato!" y haremos
+el trato. ¡Es coser y cantar!
+--- BLOCK ---
+El valor de tus Bienes y el valor de
+mis Artículos aparecen en unos
+indicadores llamados "Tú" y "Cap.".
+--- BLOCK ---
+El valor de tus Bienes debe ser igual o
+superior al de los Artículos; si no,
+no hay trato. ¡Kyakka!
+--- BLOCK ---
+<SUBS 0>
+Artículos venir de otras tierras, por
+eso el Argosy viaja por muchos sitios.
+--- BLOCK ---
+Cada destino tiene Artículos distintos.
+Si quieres los Artículos de una tierra,
+dile al Argosy dónde debe ir. ¿Yoroshi?
+--- BLOCK ---
+<SUBS 0>
+Neko (significa "gato") mi mejor marino.
+Comercia con Puerto Tanzia. ¿Conoces?
+--- BLOCK ---
+Mukashi mukashi, salvé Neko de ahogar
+en heladas aguas de mar. Gato agradecido
+pronto ser buen marinero, honto.
+--- BLOCK ---
+Bien, cazador, ¿buscas al capitán del
+Argosy? Puesss... No busques más,
+¡porque soy yo!
+--- BLOCK ---
+¿Te preguntas por qué un hombre conocido
+como el Gigante de Oriente trae su
+nave mercante a esta diminuta aldea?
+--- BLOCK ---
+¡Ja, buena pregunta! La Aldea de Moga es
+famosa por sus objetos raros; los Bienes
+alcanzan un buen precio en ultramar.
+--- BLOCK ---
+Si me traes esos Bienes, te ofrezco
+Artículos de todo el mundo a koukan.
+¡"Koukan" quiere decir "cambio"!
+--- BLOCK ---
+¿Quieres una explicación de cómo
+funciona el canje?
+--- BLOCK ---
+¡Sokonakucha! Funciona así:
+cuando quieras usar tus Bienes para
+canjearlos por Artículos, elige "Canje".
+--- BLOCK ---
+Naturalmente, no todos los Bienes o
+los Artículos valen lo mismo.
+¡Debes encontrar el equilibrio!
+--- BLOCK ---
+El valor de tus Bienes debe ser igual o
+superior al valor de mis Artículos.
+Si no, no hay trato. ¡Kyakka!
+--- BLOCK ---
+Cada valor se muestra en un indicador
+distinto. ¡Es fácil compararlos!
+--- BLOCK ---
+Ofreciendo suficientes Bienes de poco
+valor, puedes lograr canjearlos por
+Artículos de gran valor. Piénsalo, ¿eh?
+--- BLOCK ---
+Venga, cazador, vamos a practicar
+el canje. Toma este purezento.
+¡"Purezento" quiere decir "regalo"!
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+Puesss... Muy bien. Has comprendido
+el proceso de canje sin mi ayuda.
+No ha sido tan difícil.
+--- BLOCK ---
+Venga, cazador, vamos a practicar
+el canje. Toma este purezento.
+¡"Purezento" quiere decir "regalo"!
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+¿Tú y Neko ya buenos naka?
+--- BLOCK ---
+Neko (significa "gato") mi mejor marino.
+El jefe de aldea pidió a Gigante de
+Oriente (yo) comerciar en Puerto Tanzia.
+--- BLOCK ---
+Hice a Neko el tanto. ¡Él manda!
+¡Si tú querer ir Tanzia, hablar con
+Felyne que huele a aventura!
+--- BLOCK ---
+Él llevarte a Tanzia porque ayudar es
+shugyo importante. ¡"Shugyo" significa
+entrenamiento! Tú entrenar, ¿verdad?
+--- BLOCK ---
+¡Adelante!
+¡La brisa marina llama!
+--- BLOCK ---
+Cazador, ¿hablaste con ese Felyne?
+Puesss... Es Cocinero ambulante, recorre
+muchas tierras para aprender recetas.
+--- BLOCK ---
+Pero se sigue mareando al navegar.
+Aprende la receta, la prueba y
+la vomita. Una historia muy triste.
+--- BLOCK ---
+Parece que le ha gustado la cocina de
+Moga, así que se quedará un tiempo.
+¡Puede que se quede para siempre!
+--- BLOCK ---
+No te preocupes, ya tengo el shonin
+del Jefe de la aldea.
+¡"Shonin" quiere decir "bendición"!
+--- BLOCK ---
+Tienes que visitar la Cantina del Felyne
+cocinero. Trabajó en un restaurante de
+primera, ¡llenaba muchas barrigas!
+--- BLOCK ---
+Ten, toma este Vale. Es de su
+antiguo restaurante.
+--- BLOCK ---
+Dáselo y te preparará un festín digno
+de un rey. ¡Ni siquiera tendrás que
+pensar en los ingredientes! ¡Anshin!
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+<SUBS 0>
+El Argosy echar anclas en esta aldea
+con mucha frecuencia.
+--- BLOCK ---
+No dejes de mirar mi menú. Te dirá
+cuánto tiempo falta para que
+el Argosy vuelva a zarpar.
+--- BLOCK ---
+Pero lo mejor es que tengas los Bienes
+preparados antes de que llegue. ¡Así
+no tendrás que apresurarte!
+--- BLOCK ---
+<SUBS 0>
+Entonces... ¿Joven chibi viajar
+en busca de máscara?
+--- BLOCK ---
+¡Sokonakucha! Estaré atento
+a las máscaras y las traeré
+para canjear, ¿eh?
+--- BLOCK ---
+Si quieres conseguir una máscara, ten
+Bienes preparados antes de que llegue
+el Argosy. ¡Es lo mejor!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+Con buena caza, hay buen canje, ¿eh?
+--- BLOCK ---
+Justo a tiempo. La paloma mensajera
+trajo buenas noticias. ¡Hay más tierras
+que quieren canjear tus Bienes de Moga!
+--- BLOCK ---
+Por ejemplo, el Reino caza. Sus
+Artículos te vendrán bien en tus
+cacerías, ¡kakujitsu!
+--- BLOCK ---
+Un detalle: ahora que otras tierras
+van a comerciar contigo, hay que hacer
+un "keikaku", ¡es decir, un plan!
+--- BLOCK ---
+¿Quieres que te explique cómo elegir
+el destino y la duración
+de los viajes?
+--- BLOCK ---
+¡Sokonakucha! Escucha atentamente.
+--- BLOCK ---
+¡Regla número uno! Los Artículos son
+distintos en cada puerto.
+--- BLOCK ---
+Presta atención a la lista de Artículos
+cuando elijas la tierra que visitaremos.
+Es tu "sekinin". ¡Tu responsabilidad!
+--- BLOCK ---
+¡Regla número dos! Atracar en más
+de un puerto hará que la travesía
+del Argosy sea más larga.
+--- BLOCK ---
+Puedes elegir: viaje largo y acopio de
+Artículos... o excursión rápida para
+conseguir solo lo que necesitas.
+--- BLOCK ---
+Elige sabiamente, colega.
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+Puesss... Muy bien. Lo has comprendido
+sin mi ayuda, ¿eh?
+No ha sido tan difícil.
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+Con buena caza, hay buen canje, ¿eh?
+--- BLOCK ---
+Justo a tiempo. ¡Otra paloma mensajera
+nos avisó de que hay otras tierras
+que quieren canjear tus Bienes de Moga!
+--- BLOCK ---
+Esta vez es el reino wyvern. Tiene
+Artículos muy especiales, difíciles de
+conseguir en otro sitio. ¡Tokubetsu!
+--- BLOCK ---
+¿Quieres que te cuente un secretillo
+sobre el reino wyvern?
+--- BLOCK ---
+¡Sokonakucha! Escucha bien.
+--- BLOCK ---
+Yo también soy wyveriano. ¿Te sorprende?
+En el Reino Wyvern, mi familia aguarda
+mi triunfal regreso.
+--- BLOCK ---
+El capitán del Argosy se alegrará mucho
+si me mandas a casa. ¡Traeré cosas que
+maximizarán la Flota de caza!
+--- BLOCK ---
+Pero, de momento, enséñame Bienes, ¿eh?
+¡Esto son negocios!
+--- BLOCK ---
+Puesss... Muy bien... Hay secretos que
+están mejor ocultos. El misterio es
+la sal de la vida, ¿eh?
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Taihen! ¡Si la vista no me engaña,
+la situación de la aldea se ha vuelto
+desastrosa!
+--- BLOCK ---
+En tiempos de peligro, las tierras deben
+apoyarse... ¡si el dinero cuadra!
+El amor y el canje salvan al mundo, ¿eh?
+--- BLOCK ---
+Te ofrezco objetos que te ayudarán a
+combatir al monstruo marino. Consulta
+la lista de Artículos del reino wyvern.
+--- BLOCK ---
+Puede que no necesites ayuda. Pero más
+vale prevenir que curar. ¡Anshin!
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Goran! ¡Atención!
+¡Disfruta contemplando esta belleza!
+--- BLOCK ---
+Te doy esta magnífica Espada larga para
+ayudarte en la batoru con el Ceadeus.
+¡"Batoru" quiere decir "batalla"!
+--- BLOCK ---
+Que tus dioses te favorezcan, cazador.
+--- BLOCK ---
+¿Cómo?
+--- BLOCK ---
+¿Ya terminó tu batoru? ¿Nani?
+¿Has salido victorioso?
+--- BLOCK ---
+Puesss...
+--- BLOCK ---
+¡Ja, no importa!
+Puedes quedarte la Espada larga.
+--- BLOCK ---
+Enhorabuena por ahuyentar al gran dragón
+marino. ¡Contaremos la historia de
+tu kamiwaza allá donde atraquemos!
+--- BLOCK ---
+Ten charla sabrosa mientras el capitán
+del Argosy comercia. Haz buenos naka.
+Así, más objetos raros a cambio, ¿wakaru?
+--- BLOCK ---
+¡En fin, tú cazador no densetsu!
+¡Cazador de leyenda! Todos conocerán
+tus hazañas.
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+Con aldea ya anzen, segura, quizás
+te aburras mucho, ¿no?
+--- BLOCK ---
+Debes visitar Puerto Tanzia.
+Misiones de puerto mucho más bestiales
+que misiones de aldea. ¡Taihen!
+--- BLOCK ---
+Por si te olvidas, Neko está allí
+y te lleva al puerto. ¡"Neko" significa
+gato! ¡Neko ES un gato!
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+Según Uwasa, nuevo monstruo muy
+poderoso anda suelto.
+--- BLOCK ---
+"Uwasa" nombre de mi red de servicio
+secreto. Me cuenta todo lo que ocurre
+en mundo: mejores restaurantes,...
+--- BLOCK ---
+¿Nani? ¿Ve al grano, dices?
+Puesss...
+--- BLOCK ---
+Muy bien. Uwasa dice que nuevo monstruo
+es muy violento, capaz de hacer grandes
+explosiones. ¡DOKAAAAAAN!
+--- BLOCK ---
+Eso ser todo lo que Uwasa decir ahora.
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+¡Por fin Uwasa dar información fiable
+sobre nuevo monstruo!
+--- BLOCK ---
+¿Nani? ¿Cómo se llama monstruo, dices?
+Se llama "sariyu".
+--- BLOCK ---
+¡"Sariyu" significa Brachydios!
+--- BLOCK ---
+Mi red de servicio secreto, Uwasa,
+dice que Brachydios crea problemas
+por todas partes, ¡y pronto, aquí!
+--- BLOCK ---
+Por eso busco al monstruo. ¡Y goran!
+¡Mira por donde! Encuentro Brachydios
+en kazan. ¡"Kazan" significa volcán! 
+--- BLOCK ---
+Muy extraño ese monstruo...
+Puede crear explosión espontánea
+por razones desconocidas.
+--- BLOCK ---
+Y en piel de monstruo, hongo parásito
+baboso... ¡Mucho nazo! ¡Darake misterio!
+--- BLOCK ---
+¡En fin! Gigante de Oriente sabe que tú
+resolver misterio, ¿no?  Pide a Chica
+del gremio una misión solo para ti.
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Ja, ja, ja!
+"Ja, ja, ja" significa risa.
+¡Y eso no es cosa de risa!
+--- BLOCK ---
+¿Lo has oído? Monstruo muy raro
+anda por costa de la aldea.
+Parece ser un Lagiacrus...
+--- BLOCK ---
+Amigo mercader de capitán del Argosy
+intentó navegar por esa zona...
+¡DOKAAAAAAN!
+--- BLOCK ---
+¡Monstruo hizo añicos barco de amigo!
+Por suerte, amigo buen nadador, pero
+la carga no sabe nadar. Todo perdido.
+--- BLOCK ---
+Uwasa dice que monstruo color mármol
+y muy violento. Tal vez no pueda con él
+ni siquiera mi Baja esgrima.
+--- BLOCK ---
+Yo incluso muy preocupado por si Argosy
+siguiente en caer. ¡DOKAAAAAAN!
+--- BLOCK ---
+¡Daga shikashi! Tú gran cazador.
+Tú quizás derrotes esa amenaza.
+Solo quizás...
+--- BLOCK ---
+¡Kita kita!
+¡Lagiacrus marmóreo kitaaa!
+--- BLOCK ---
+Monstruo venir y Gigante de
+Oriente conoce ya su terrible poder.
+¡Tú ahora juegas con chikara!
+--- BLOCK ---
+Pero eso no detendrá.
+Yo veo manazashi en tus ojos...
+¡"Manazashi" significa mirar!
+--- BLOCK ---
+Tú ve a cazar ese monstruo.
+Prueba habilidades de cazador, ¿no?
+--- BLOCK ---
+Muy bien. Recuerda que Gigante de
+Oriente te anima desde lugar seguro.
+Kuwabara, kuwabara...
+--- BLOCK ---
+¡Adelante!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Hola, cazador! ¡Yoku kita!
+¡Yoku yoku yoku kita! ¡Cuatro "yokus"!
+--- BLOCK ---
+¡Uwasa dice que has cazado terrible
+Lagiacrus marmóreo! Gigante de
+Oriente muy impresionado. ¡Kangeki!
+--- BLOCK ---
+Yo hago muchos viajes, conozco muchos
+cazadores. Pero dare hitori, ninguno
+como tú... ¡Tú mejor de todos!
+--- BLOCK ---
+¡Adelante!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Ja, ja! ¡El mundo entero a mis pies!
+--- BLOCK ---
+¡Ja, ja, ja, domo, domo!
+--- BLOCK ---
+¡Ha vuelto el Gigante de Oriente!
+--- BLOCK ---
+¡Yoku kita! ¡Bienvenido seas, cazador!
+--- BLOCK ---
+¡Aldea de Moga, he vuelto!
+--- BLOCK ---
+¡Hasta que volvamos a encontrarnos!
+--- BLOCK ---
+¡De wa!
+¡La brisa marina me llama!
+--- BLOCK ---
+¡Los hombres pasan, el canje permanece!
+--- BLOCK ---
+¡Adiós, y buena caza!
+--- BLOCK ---
+¡De wa, hasta la vista!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+De wa, ¿cuál es tu youken?
+¿En qué puedo ayudarte?
+--- BLOCK ---
+Bueno, dime lo que quieres, ¿eh?
+--- BLOCK ---
+¿Qué será hoy, cazador?
+--- BLOCK ---
+Hagamos canjes. ¡Que se mueva el mundo!
+--- BLOCK ---
+Venga, cazador. Date prisa.
+El Argosy zarpará pronto, ¿eh?
+--- BLOCK ---

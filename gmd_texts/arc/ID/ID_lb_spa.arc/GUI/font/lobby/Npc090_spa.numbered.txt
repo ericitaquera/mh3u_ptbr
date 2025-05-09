@@ -1,0 +1,306 @@
+﻿TMSG_NPC090_0
+--- BLOCK [001] ---
+TMSG_NPC090_1
+--- BLOCK [002] ---
+TMSG_NPC090_2
+--- BLOCK [003] ---
+TMSG_NPC090_3
+--- BLOCK [004] ---
+TMSG_NPC090_4
+--- BLOCK [005] ---
+<SUBS 2>
+--- BLOCK [006] ---
+<SUBS 1>
+--- BLOCK [007] ---
+<SUBS 0>
+¡Miaaa-huuu! ¡Me llaman el chef toro
+de la barbacoa por estos lares!
+--- BLOCK [008] ---
+¿Cómo va, tigre? ¿Quieres ver por
+qué estoy tan cómodo cerca
+de estas llamas salvajes?
+--- BLOCK [009] ---
+¡Ma, ja, ja! Cualquier chef que lo valga
+puede aguantar un poco de calor. ¡Hasta
+me chamusco la cola de vez en cuando!
+--- BLOCK [010] ---
+Reconozco que lo único que me preocupa
+es quemarme la lengua. ¡Supongo que
+soy un gato miedica! ¡Ma, ja, ja!
+--- BLOCK [011] ---
+Por eso, a veces ni siquiera pruebo mis
+propias vituallas. Espero que puedas
+perdonar a este Felyne por eso.
+--- BLOCK [012] ---
+Tanzia es sagrada para los chefs. Hay
+gente que viene de todos lados a
+comerciar, ¡y eso son provisiones raras!
+--- BLOCK [013] ---
+Eso es lo que me trajo a este rodeo,
+tigre. Un chef es tan bueno como su
+peor ingrediente, ¿miau?
+--- BLOCK [014] ---
+¡Así que deberías probar los platos
+más sabrosos de Tanzia antes de que
+partas a una cacería!
+--- BLOCK [015] ---
+¡Miaaa-hu! Me ENCANTA hablar de
+comida, tigre. ¡Me enciendo enseguida!
+¡Es un tema ARDIENTE!
+--- BLOCK [016] ---
+*Sniff* Hablando de ardiente, ¿hueles
+eso? Huele a quemado... ¡MIIIAAAAAUUUU! 
+¡Me he chamuscado la cola!
+--- BLOCK [017] ---
+Bueno, admito que a eso lo
+llaman riesgos laborales.
+--- BLOCK [018] ---
+Hola, tigre. Los platos que servimos
+aquí tienen un algo especial, ¿sabes?
+Sacan el talento latente de un cazador.
+--- BLOCK [019] ---
+Los efectos dependen de los ingredientes
+que pidas, ¡así que no te cortes y
+prueba muchas combinaciones! 
+--- BLOCK [020] ---
+Pero tampoco te pases.
+Algunas combinaciones pueden
+ser un poco peligrosas para la salud.
+--- BLOCK [021] ---
+Cuando tú y tus colegas volváis de
+cazar, ¡nada mejor para contar historias
+que una taza de frío Mosto de Tanzia!
+--- BLOCK [022] ---
+¡Intercambiar historias! Vender basura.
+Compartir tus mejores consejos. 
+¡Ah, ESA es la vida de un cazador!
+--- BLOCK [023] ---
+¡Y deja que te traigamos comida recién
+hecha! ¡Nada nos gusta más! ¡Miaaa-hu!
+--- BLOCK [024] ---
+¡Miaaa-hu, tigre! Eh, ¿te has preguntado
+por qué el Gremio nos dejó abrir este
+gran establecimiento hostelero?
+--- BLOCK [025] ---
+¡Porque al Gremio le gusta que nuestra
+comida saque lo mejor de sus cazadores!
+--- BLOCK [026] ---
+Claro que hacemos más que potenciar
+vuestras aptitudes. ¡Aquí los locales
+se relajan y comen junto al fuego!
+--- BLOCK [027] ---
+Déjate caer y toma un bocado antes de
+partir. ¡Te pondré en el mejor sitio!
+--- BLOCK [028] ---
+Bueno, mira lo que han traído los
+Felyne. ¡Bienvenido al asador Tanzyne!
+--- BLOCK [029] ---
+Sabes nuestro lema, ¿no?
+"Hacemos nuestras colas al punto, ¡pero
+nuestra carne siempre está en su punto!"
+--- BLOCK [030] ---
+Ahora relájate y deja que el maestro de
+la barbacoa haga su magia. ¡Miaaa-hu!
+--- BLOCK [031] ---
+Miaau mia-miau, miau miau miau ♪
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [032] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [033] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [034] ---
+...
+--- BLOCK [035] ---
+¡Rrrico rrrico!
+--- BLOCK [036] ---
+Sabes que la carne está hecha cuando
+adquiere ese hermoso tono dorado.
+--- BLOCK [037] ---
+¡Cuando avives el fuego de tu parrilla,
+no pierdas de vista el color!
+--- BLOCK [038] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [039] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [040] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [041] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [042] ---
+...
+--- BLOCK [043] ---
+¡Rrrico rrrico!
+--- BLOCK [044] ---
+¿Sabes? Hasta el mejor chef de barbacoa
+tiene días malos. Leches, antes
+hacía Filetes poco hechos por accidente.
+--- BLOCK [045] ---
+¡Pero entonces combinaba el Filete poco
+hecho con un Catalizador para hacer el
+sabroso Zumo de poder! ¡Mmmmmiau!
+--- BLOCK [046] ---
+Oh, pero ahora no te preocupes por
+eso. ¡Asaré tu carne a la perfección,
+como siempre!
+--- BLOCK [047] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [048] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [049] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [050] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [051] ---
+...
+--- BLOCK [052] ---
+¡Rrrico rrrico!
+--- BLOCK [053] ---
+¡Miaaa-hu! ¡Estoy asando como
+un loco hoy, tigre!
+--- BLOCK [054] ---
+¡El truco es dar con un ritmo
+mientras cocinas!
+--- BLOCK [055] ---
+Bueno, ahora que se me ha escapado,
+¡puede que te cocine a ti también algo
+rrrealmente delicioso! 
+--- BLOCK [056] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [057] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [058] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [059] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [060] ---
+...
+--- BLOCK [061] ---
+¡Rrrico rrrico!
+--- BLOCK [062] ---
+¡Miaaa-hu! ¡Siempre serás bienvenido
+por estos lares, tigre!
+--- BLOCK [063] ---
+Llevo toda mi vida asando carne.
+No puedes superar una experiencia así.
+--- BLOCK [064] ---
+¡Y hoy voy a asar como un gato caminando
+sobre brasas! ¡No te lo pierdas!
+--- BLOCK [065] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [066] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [067] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [068] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [069] ---
+...
+--- BLOCK [070] ---
+¡Rrrico rrrico!
+--- BLOCK [071] ---
+¡Aso luego existo, miau!
+--- BLOCK [072] ---
+Cuando asas no puedes perder de vista
+a tu presa, miau. ¡Espera el momento
+en que la carne se dora! Aquí llega...
+--- BLOCK [073] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [074] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [075] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [076] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [077] ---
+...
+--- BLOCK [078] ---
+¡Rrrico rrrico!
+--- BLOCK [079] ---
+Esperaba que te pasearas por mi
+establecimiento, tigre.
+--- BLOCK [080] ---
+Ahora escucha: la técnica es importante
+cuando asas, ¡pero también el alma!
+--- BLOCK [081] ---
+Por suerte yo tengo de las dos, ¡así
+que vamos a cocinar! ¡Miaaa-hu!
+--- BLOCK [082] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [083] ---
+Miaau mia-miau, miau miau miau ♪
+--- BLOCK [084] ---
+Mia-mia-miau, mia-mia-miau ♪
+Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [085] ---
+¡Miau miau miua mia-miau! ♪
+--- BLOCK [086] ---
+...
+--- BLOCK [087] ---
+¡Rrrico rrrico!
+--- BLOCK [088] ---
+¡Oh! ¡Espera un momento!
+--- BLOCK [089] ---
+¡Tengo que centrarme, tigre! ¡Voy a
+dejar que mi chef interior ruja como un
+león! El tiempo lo es todo, ¿sabes?
+--- BLOCK [090] ---
+¡Necesito tu ayuda, tigre! ¡Tienes
+que cantar esta solitaria tonadilla
+junto a mí! ¿Listo? ¡Allá va!
+--- BLOCK [091] ---
+♪ Miaau mia-miau, miau miau miau ♪
+--- BLOCK [092] ---
+♪ Miaau mia-miau, miau miau miau ♪
+--- BLOCK [093] ---
+♪ Mia-mia-miau, mia-mia-miau ♪
+♪ Mia-mia-miau, mia-mia-miau ♪
+--- BLOCK [094] ---
+♪ Miau miau miau ¡mia-MIAU! ♪
+--- BLOCK [095] ---
+...
+--- BLOCK [096] ---
+¡Rrrico rrrico!
+--- BLOCK [097] ---
+¡Bienvenido, tigre!
+--- BLOCK [098] ---
+¡Bueno, vaya sorpresa!
+--- BLOCK [099] ---
+¡Tengo unos ingredientes excelentes hoy!
+--- BLOCK [100] ---
+¡La mejor comida, en el asador Tanzyne!
+--- BLOCK [101] ---
+¡Bienvenido al asador Tanzyne!
+--- BLOCK [102] ---
+¡Espero que traigas hambre!
+--- BLOCK [103] ---
+¡Vuelve pronto, miau!
+--- BLOCK [104] ---
+Tú cuídate, ¿oyes?
+--- BLOCK [105] ---
+Te sigo la pista.
+--- BLOCK [106] ---
+¡Siempre listos para servirte!
+--- BLOCK [107] ---
+¡Muchas gracias, tigre!
+--- BLOCK [108] ---
+¡Vuelve pronto al asador Tanzyne!
+--- BLOCK [109] ---
+¡Estoy deseando verte otra vez!
+--- BLOCK [110] ---
+¡Te doy la bienvenida!
+¡Reconozco que he hecho esto para ti!
+--- BLOCK [111] ---
+¡Te doy la bienvenida!
+¿Qué va a ser, tigre?
+--- BLOCK [112] ---
+¡Toma! ¡Prueba esta obra maestra
+culinaria, tigre!
+--- BLOCK [113] ---
+(!)
+--- BLOCK [114] ---

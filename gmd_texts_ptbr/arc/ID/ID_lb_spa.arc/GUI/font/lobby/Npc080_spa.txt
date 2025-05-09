@@ -1,0 +1,230 @@
+TMSG_NPC080_0
+--- BLOCK ---
+TMSG_NPC080_1
+--- BLOCK ---
+TMSG_NPC080_2
+--- BLOCK ---
+TMSG_NPC080_3
+--- BLOCK ---
+TMSG_NPC080_4
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Que belo porto temos aqui! O
+mar calmo significa que os barcos
+podem entrar e sair à vontade.
+--- BLOCK ---
+Claro que nossa famosa Sopa de peixe de
+Tanzia também não faz mal, hein!
+<SUBS 1>
+--- BLOCK ---
+Se planeja caçar, talvez queira
+ter companheiros. Seja gentil! Boas
+maneiras te levarão longe.
+--- BLOCK ---
+Espero que encontres bons amigos durante
+a caça, colega!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Ah, você conhece os cartões da Guilda?
+São cartões de visita para caçadores.
+--- BLOCK ---
+Dizem quantos monstros você caçou,
+quais armas mais usa
+e outros dados úteis.
+--- BLOCK ---
+Parece que a Guilda dá
+prêmios aos caçadores que realizam
+feitos! Ai, morro de inveja...
+--- BLOCK ---
+<SUBS 0>
+A propósito, você já ouviu
+falar das Bombas esterco?
+--- BLOCK ---
+São feitas de excremento de monstro
+e o cheiro é tão forte
+que até afugenta as bestas maiores.
+--- BLOCK ---
+Pior que as meias suadas da
+minha mãe! Ba, ha, ha, ha!
+--- BLOCK ---
+Se encontrar uma fera temível contra a
+qual não pode lutar, jogue uma
+Bomba de esterco e mande-a embora!
+--- BLOCK ---
+Nem mesmo os monstros acham que vale a
+pena passar por esse fedor por uma refeição!
+--- BLOCK ---
+<SUBS 0>
+Você conhece as Flautas Atrativas? São
+armas perigosas que atraem monstros.
+--- BLOCK ---
+Por que usá-las? Ai, você se
+surpreenderia com o quão práticas são
+quando caça com um companheiro.
+--- BLOCK ---
+Se um amigo estiver em perigo,
+pode tocar a flauta para
+chamar a atenção da besta.
+--- BLOCK ---
+Claro que depois terá que lidar
+com ela! Ba, ha, ha, ha!
+--- BLOCK ---
+<SUBS 0>
+Você vê aquele prédio alto
+ao longe? É o farol.
+--- BLOCK ---
+Permite a entrada e saída de navios
+comerciais e da Guilda no porto. Sim,
+é o símbolo de toda Tanzia.
+--- BLOCK ---
+A Guarda do farol vigia o fogo lá
+em cima e garante que nunca se apague.
+--- BLOCK ---
+Eu seria membro da guarda, mas não
+é um trabalho que me agrada.
+As alturas me deixam nervoso, sabe?
+--- BLOCK ---
+<SUBS 0>
+Você viu o enorme sharq pendurado ali?
+Quem você acha que o caçou?
+--- BLOCK ---
+Ouvi dizer que foi o velho ferreiro
+da Loja de equipamentos, mas essas coisas
+têm pouca semelhança com a realidade.
+--- BLOCK ---
+Por que um marinheiro de água doce como
+ele se importaria com um peixe se não
+fosse para forjar como arma? Ha, que ideia!
+--- BLOCK ---
+Até um novato se envergonharia
+de empunhar um sharq numa
+batalha! Ba, ha, ha, ha!
+--- BLOCK ---
+Recentemente adquiri um chamado Estrela
+do mar. Veio de Moga!
+--- BLOCK ---
+Mas tem gosto de rato
+de esgoto! Já tentei cozinhando,
+assando, refogando... Nada funciona!
+--- BLOCK ---
+Você é de Moga, não é? Então me
+diga, caçador: Como se come essas coisas?
+--- BLOCK ---
+Maldita sua linhagem! Não é comida?
+--- BLOCK ---
+Ah, vejo pelo corte de suas
+velas que não é destas terras.
+--- BLOCK ---
+Então, bem-vindo a Tanzia! Somos um porto
+numa grande rota marítima com pessoas
+e bens de todo o mundo.
+--- BLOCK ---
+Também tem a Guilda, por isso
+muitos caçadores reservam passagem em navios
+comerciais para vir até aqui.
+--- BLOCK ---
+Mas você é o primeiro que vejo
+chegar num barco Felyne! Ha, ha!
+--- BLOCK ---
+Se procura a Guilda, atravesse a
+ponte no final dos cais.
+--- BLOCK ---
+Até mais, caçador!
+--- BLOCK ---
+Ai, caçador! Quer saber
+mais sobre o farol?
+--- BLOCK ---
+Bem, ele ilumina o mar, claro, mas
+também tem um significado mais profundo!
+--- BLOCK ---
+Esse farol representa a esperança de que
+um dia todos possamos viver em paz.
+O passado de Tanzia é turbulento.
+--- BLOCK ---
+Ai, tome! Pegue isso! Rezo para
+que isso te proteja na caçada!
+--- BLOCK ---
+Mal posso esperar para ver o que
+fará a seguir! Ba, ha, ha!
+--- BLOCK ---
+Olha só quem está aqui! O Caçador de elite!
+--- BLOCK ---
+Raro espécime que chegou tão longe.
+Certamente é um caçador habilidoso.
+--- BLOCK ---
+Deixe-me te dar um
+mimo para comemorar!
+--- BLOCK ---
+Mal posso esperar para ver o que
+mais fará! Ba, ha, ha, ha!
+--- BLOCK ---
+Ai, caçador! Você é o assunto
+da cidade! Todos falam que
+se tornou um Mestre caçador!
+--- BLOCK ---
+Sempre soube que era feito de
+outra massa. Soube assim que desembarcou
+daquele absurdo barco de gatos.
+--- BLOCK ---
+Agora, saberá que os Mestres caçadores
+realizam as missões mais difíceis, mas
+sei que se sairá bem!
+--- BLOCK ---
+Nada pode te deter, caçador. Que me
+joguem aos tubarões se estou mentindo!
+--- BLOCK ---
+Caçador! Águas turbulentas
+no Mar contaminado!
+--- BLOCK ---
+Os barcos próximos estão desaparecendo!
+--- BLOCK ---
+Não vemos um acidente pior desde que
+o farol Flagelo do dragão foi erguido.
+Ai, o que estará acontecendo lá?!
+--- BLOCK ---
+Que história, caçador! Parece que
+um dos Guardas do farol
+perdidos finalmente voltou para nós!
+--- BLOCK ---
+Viu uma sombra escura e aterradora, e por
+isso fugiu para o porão do farol.
+É um milagre que ainda esteja viva...
+--- BLOCK ---
+Já que aquela sombra gigante não era
+nada menos que um dragão ancião!
+--- BLOCK ---
+E pensar que algum caçador descuidado se
+atreveria a sair em busca de uma
+fera maior que o próprio farol...
+--- BLOCK ---
+Agora me responda e seja sincero:
+foi você quem matou a fera?
+--- BLOCK ---
+Foi você? Céus, eu sabia!
+Me dá calafrios! Bom, bom!
+--- BLOCK ---
+Já que salvou minha amiga,
+te compensarei. Isso é de
+todos da Guarda do Farol.
+--- BLOCK ---
+Mal posso esperar para ver em que
+nova aventura se envolverá. Ba, ha, ha!
+--- BLOCK ---
+Ai, jovem!
+--- BLOCK ---
+Olá, caçador!
+--- BLOCK ---
+Bom dia, caçador!
+--- BLOCK ---
+Até logo, caçador.
+--- BLOCK ---
+Relaxe, caçador.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

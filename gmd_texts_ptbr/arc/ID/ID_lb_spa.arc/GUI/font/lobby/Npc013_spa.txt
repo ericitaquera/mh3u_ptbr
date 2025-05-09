@@ -1,0 +1,314 @@
+TMSG_NPC013_0
+--- BLOCK ---
+TMSG_NPC013_1
+--- BLOCK ---
+TMSG_NPC013_2
+--- BLOCK ---
+TMSG_NPC013_3
+--- BLOCK ---
+TMSG_NPC013_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Quer jantar, miau?
+--- BLOCK ---
+<SUBS 0>
+A língua do Felyne é muito sensível aos
+sabores, e a minha, mais ainda!
+--- BLOCK ---
+Então, minha cozinha é realmente saborosa. Pode
+ser que outros te enganem, mas
+este gato... rouba sua língua, haha!
+--- BLOCK ---
+<SUBS 0>
+Mesmo vestindo roupas do Extremo Oriente,
+me orgulho de ser multilíngue!
+--- BLOCK ---
+Entre meus ataques de lançar o jantar
+durante a travessia do Argosy, aprendi
+sua língua com o capitão, miau.
+--- BLOCK ---
+<SUBS 0>
+O Porco de musgo é uma delícia! As patinhas
+são divinas, e ainda mais com feijões!
+--- BLOCK ---
+Mas tem que lavar bem,
+senão acaba comendo mais musgo
+do que carne, certo?
+--- BLOCK ---
+<SUBS 0>
+A Carne espinhosa tem espinhos de verdade.
+Comê-la é muito emocionante!
+--- BLOCK ---
+Diria que isso afastaria as pessoas,
+mas não! Para alguns, os espetos
+são a melhor parte... abençoados sejam!
+--- BLOCK ---
+<SUBS 0>
+O Peixe Escama é um peixe preto com a
+forma de uma nota musical.
+--- BLOCK ---
+Até os cozinheiros experientes
+acham difícil distinguir de
+um girino. É verdade.
+--- BLOCK ---
+<SUBS 0>
+A Alga Medusa, é uma espécie de alga
+ou uma espécie de medusa?
+--- BLOCK ---
+Esse enigma continua gerando debates
+intensos entre os melhores estudiosos...
+--- BLOCK ---
+<SUBS 0>
+Dizem que o Gambón era o hors d'oeuvre
+favorito de certa dama da realeza.
+--- BLOCK ---
+Seus criados faziam todo o trabalho de
+descascar e limpar frutos do mar
+enquanto ela se empanturrava! Que vida!
+--- BLOCK ---
+Muita gente prefere pão sem
+casca. Mas o Pãocasca é
+feito só dela! Incrível!
+--- BLOCK ---
+É uma obra-prima de pão.
+E, no entanto, parece que
+não tem muitos seguidores...
+--- BLOCK ---
+<SUBS 0>
+As sacolas de Arroz da Vila Kokoto têm o
+rosto de um caçador lendário.
+--- BLOCK ---
+Conseguiram permissão para usar seu rosto, mas não
+cometa o erro de pensar que ele
+mesmo come aquela coisa, não não não.
+--- BLOCK ---
+<SUBS 0>
+O Pão Gigante vem da Vila Gigante.
+Sim, é verdade.
+--- BLOCK ---
+Esse delicioso pão atraiu multidões de
+turistas famintos para suas portas e
+agora o lugar está um caos.
+--- BLOCK ---
+O Pão celestial é muito
+popular. Já ouviu o slogan?
+"Morda os pãezinhos do paraíso".
+--- BLOCK ---
+Destruíram a concorrência. Os consumidores
+não engoliam aquela de "Mastigue
+as chamas da prisão eterna".
+--- BLOCK ---
+<SUBS 0>
+As papilas gustativas de um nobre
+descobriram a Megarrosquinha.
+--- BLOCK ---
+Muitos doces menores ficaram pelo caminho
+antes que o nobre encontrasse a
+obra de um humilde padeiro.
+--- BLOCK ---
+A Abóboraciru é uma planta
+resistente que cresce e engorda
+nos terrenos mais duros.
+--- BLOCK ---
+Produtos fofinhos me agradam tanto
+quanto pessoas fofinhas. Os bons
+comedores merecem meu respeito, miau!
+--- BLOCK ---
+<SUBS 0>
+O Alho-poró para caçar é um vegetal
+grande e duro como um porrete.
+--- BLOCK ---
+Dizem que, há muito tempo, as pessoas
+usavam o Alho-poró para caçar... Que
+forma incrível de temperar a carne!
+--- BLOCK ---
+<SUBS 0>
+As Cebordelletas parecem uma pata com,
+como diríamos, o dedo do meio levantado.
+--- BLOCK ---
+O nome se deve a sua
+forma comum e pontiaguda. Algum idiota
+pensaria que era algo muito engenhoso...
+--- BLOCK ---
+<SUBS 0>
+Muitos dizem que o Tomate Gordo é o
+vegetal mais suculento do mundo...
+--- BLOCK ---
+Outros dizem que não, que é uma fruta!
+Aí começa a guerra e quem sofre
+é o Tomate gordo entre dois fogos.
+--- BLOCK ---
+<SUBS 0>
+O Rei Trufa é um cogumelo lendário que
+antigamente só era comido pelos reis.
+--- BLOCK ---
+Até a fatia mais fina alcança
+um preço assustador no mercado!
+--- BLOCK ---
+<SUBS 0>
+O Queijo Enferrujado é um queijo ambíguo
+que usa musgo em vez de fermento.
+--- BLOCK ---
+Tiro o chapéu para a criatividade
+de seu criador! Pena que
+o sabor deixa a desejar.
+--- BLOCK ---
+<SUBS 0>
+A Salada de Leche surgiu quando um
+mordomo cometeu um erro simples.
+--- BLOCK ---
+Colocou sal em vez de açúcar e
+acabou surpreendentemente saborosa! Ou é o que
+dizem. A mim não agrada muito.
+--- BLOCK ---
+<SUBS 0>
+Como você poderia esperar, o Queijo real
+transborda de sabor aristocrático.
+--- BLOCK ---
+Eu poderia viver disso e de Vinho
+abençoado por um mês inteiro... ou, pelo
+menos, estaria feliz em tentar. *Rrrr*
+--- BLOCK ---
+<SUBS 0>
+A Manteiga Kirin é famosa pelo seu
+visual... se você conseguir vê-la!
+--- BLOCK ---
+Olha, é totalmente invisível à primeira
+vista. E cuidado com as manchas,
+miau? Limpar seria bem chato!
+--- BLOCK ---
+RRRP. Oh lá lá, estou muito
+mal do estômago... Desculpe enquanto me
+purgo do almoço de hoje. BLURRRG!
+--- BLOCK ---
+Ah, essas patas, esse gênio... não são
+feitos para o mar! Eu sonhava em
+imaginar as melhores receitas do mundo.
+--- BLOCK ---
+Não em regurgitá-las. *Ehem,
+puagh* Não, não!
+--- BLOCK ---
+Nada de mais viagens por mar!
+Um chef da minha categoria merece
+uma cozinha que fique quieta.
+--- BLOCK ---
+Por sorte, seu Chefe teve a
+gentileza de me deixar ficar aqui.
+Em troca, ofereço meus serviços, miau.
+--- BLOCK ---
+Ofereço o ápice da culinária miaugica!
+Prove meus pratos e verá que
+ganha Saúde, Ataque e outras coisas.
+--- BLOCK ---
+Antes de cozinhar, você deve
+escolher duas coisas: os ingredientes
+e o método de preparo!
+--- BLOCK ---
+Se sua escolha não for de
+boa qualidade, o resultado final ficará
+sem aquele je ne sais miau.
+--- BLOCK ---
+De qualquer forma, tenho uma política
+rigorosa de lamber o prato. Se
+eu cozinho, você come. Oui, oui?
+--- BLOCK ---
+Ah, cuidado! Os efeitos das
+minhas delícias duram apenas uma
+caçada. Quando volta, acabou!
+--- BLOCK ---
+Então, tenho que preparar a Cantina para
+servir à boa gente da Vila
+de Moga. Tenha paciência, por favor.
+--- BLOCK ---
+Mon Dieu! O Bistrô está
+funcionando perfeitamente! E tudo graças
+à sua gestão, miau!
+--- BLOCK ---
+Por isso, vou oferecer ingredientes
+de alto nível aos meus
+clientes. Uma boa oferta, oui?
+--- BLOCK ---
+Com ingredientes de alto nível, os
+pratos aumentam ainda mais sua Saúde.
+A alegria de viver gastronômica!
+--- BLOCK ---
+O futuro da vila parece mais
+promissor agora, oui? Très bien!
+--- BLOCK ---
+Na verdade, agora posso armazenar mais
+ingredientes magníficos do que nunca.
+--- BLOCK ---
+Uhu! Já estou oferecendo aos
+meus clientes ingredientes de alto
+nível. É o último miado!
+--- BLOCK ---
+Com ingredientes de alto nível, os
+pratos aumentam ainda mais sua Saúde.
+É o máximo na alta gastronomia!
+--- BLOCK ---
+Oh lá lá... Parece que o
+famoso leite da Vila de Moga
+vai estragar... Estamos perdidos, miau...
+--- BLOCK ---
+Mas não! Em momentos difíceis como
+este, os talentosos para a cozinha
+têm o dever de fornecer comida!
+--- BLOCK ---
+Prepare-se para jantar, bom caçador.
+Meus pratos estão prestes a
+alcançar a perfeição, miau!
+--- BLOCK ---
+Que notícias chegam aos meus ouvidos!
+Você conseguiu derrotar o Lagiacrus
+marmóreo! Très bien! Magnífico, caçador!
+--- BLOCK ---
+A comida é mais saborosa quando
+se está de bom humor, oui?
+--- BLOCK ---
+Toda a vila está maravilhada contigo,
+até o chefe e o capitão!
+Hoje minhas delícias serão divinas!
+--- BLOCK ---
+Um bom caçador é como um ajudante.
+E você é o melhor de
+todos os ajudantes! Muito bem, miau!
+--- BLOCK ---
+Bem-vindo ao meu Bistrô!
+--- BLOCK ---
+Bem-vindo, miau-vindo!
+--- BLOCK ---
+Sim, sim, muito bem!
+--- BLOCK ---
+Os ingredientes estão ainda melhores hoje!
+--- BLOCK ---
+Bom dia, bom caçador!
+--- BLOCK ---
+Com fome? É hora do almoço.
+--- BLOCK ---
+Au revoir, bom caçador!
+--- BLOCK ---
+Bom dia, bom caçador!
+--- BLOCK ---
+Volte logo! Meu bistrô te espera!
+--- BLOCK ---
+Muito obrigado!
+--- BLOCK ---
+Espero que esteja, como dizem, no ponto!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Coma à vontade! Preparei um
+menu especial só para você.
+--- BLOCK ---
+Posso te falar mais sobre os ingredientes
+se conversar comigo sem se sentar.
+--- BLOCK ---
+Bem-vindo, miau! O
+que vai querer?
+--- BLOCK ---
+Avance e desfrute das muitas
+delícias gastronômicas da Cantina!
+--- BLOCK ---

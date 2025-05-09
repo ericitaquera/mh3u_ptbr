@@ -1,0 +1,185 @@
+TMSG_NPC079_0
+--- BLOCK ---
+TMSG_NPC079_1
+--- BLOCK ---
+TMSG_NPC079_2
+--- BLOCK ---
+TMSG_NPC079_3
+--- BLOCK ---
+TMSG_NPC079_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Já experimentou uma Grande espada antes?
+São armas poderosas. Fazem os inimigos
+voarem com um único golpe!
+--- BLOCK ---
+Uma Grande espada causa muito dano, mas
+seu peso te deixa mais lento. Tente
+esquivar logo após desferir um golpe!
+--- BLOCK ---
+Os caçadores costumam usar Espada e
+Escudo. É um delicado equilíbrio entre
+ataque, defesa e mobilidade. Como eu!
+--- BLOCK ---
+Sabe o que eu gosto da Espada
+e do Escudo? Que você pode usar
+itens sem soltar sua arma. Dupla ameaça!
+--- BLOCK ---
+Já experimentou um Martelo? Eles podem
+parecer pesados e difíceis de manejar, mas
+na verdade, você pode ser bastante ágil!
+--- BLOCK ---
+Adoro os Martelos! Se acertar a cabeça
+de um monstro e atordoá-lo, você pode
+até voltar à cidade montado nele!
+--- BLOCK ---
+Lanças. Você vai adorar! Com elas,
+pode bloquear com um escudo e
+esperar o inimigo baixar a guarda.
+--- BLOCK ---
+Os caçadores adoram lanças. O
+contra-ataque que você pode realizar
+após um bloqueio é o mais popular!
+--- BLOCK ---
+Já usou uma Lança de disparo?
+Está super na moda. O ataque
+de Fogo de wyvern é brutal!
+--- BLOCK ---
+A Lança de disparo queima tudo à
+frente com o ataque Fogo explosivo. Faz
+você se sentir vivo! Ha, ha!
+--- BLOCK ---
+O Machado espada. Que arma! Com
+modos de Machado e Espada, oferece
+uma grande variedade de ataques!
+--- BLOCK ---
+Até o nome Machado espada é incrível!
+Pode ser difícil de usar, mas uma
+vez que pega o jeito, é imbatível!
+--- BLOCK ---
+As Espadas longas são as melhores. Com
+suas lâminas longas, você pode atacar
+de forma agressiva com movimentos fluídos.
+--- BLOCK ---
+Se quer se divertir, carregue o Indicador
+espiritual de uma Espada longa e vá
+à cidade com ataques de Espada espiritual!
+--- BLOCK ---
+As Lâminas duplas são muito elegantes. É
+mais uma dança do que uma luta,
+mas o resultado é o mesmo. Ha!
+--- BLOCK ---
+Com o modo Demoníaco das Lâminas duplas,
+você se torna uma máquina de matar...
+enquanto durar sua resistência!
+--- BLOCK ---
+Alguns caçadores confiam cegamente em
+suas Flautas. São armas estranhas que
+fortalecem você e seus aliados.
+--- BLOCK ---
+Se repetir a mesma melodia com
+uma Flauta, o efeito e
+a duração são muito aumentados.
+--- BLOCK ---
+Se quer combate à distância, pense
+em uma Besta leve. Com elas,
+se moverá rápido e causará caos.
+--- BLOCK ---
+A Besta leve tem um modo de
+Disparo rápido. As balas não causam
+tanto dano, mas você dispara várias!
+--- BLOCK ---
+A Besta pesada é um pouco difícil de manejar,
+mas tem uma grande potência de fogo.
+Não encontrará melhor qualidade-preço.
+--- BLOCK ---
+Usando o modo Tiro agachado de
+uma Besta pesada, pode disparar alguns
+tipos de munição sem recarregar. Uau!
+--- BLOCK ---
+Sei que os Arcos estão muito vistos.
+Mas entre os Ataques carregados e
+os Revestimentos de flechas, são ideais!
+--- BLOCK ---
+Se usar um Arco, deve dominar a
+arte dos Disparos com arco carregados.
+Assim poderá atingir partes do corpo.
+--- BLOCK ---
+Ei, olá! Sua primeira vez aqui?
+--- BLOCK ---
+Não se preocupe. Não mordo...
+DEMAIS! Ha, ha, ha, ha!
+--- BLOCK ---
+Sou o Vendedor de armas deste
+porto. Se precisar de armas
+ou armaduras, estou à disposição!
+--- BLOCK ---
+Esta loja é para
+todos, desde novatos
+até veteranos experientes!
+--- BLOCK ---
+Sei que alguns caçadores preferem
+o ferreiro, mas às vezes
+posso oferecer ótimas ofertas!
+--- BLOCK ---
+Não fabrico minhas mercadorias,
+mas a qualidade
+é incomparável. Garanto!
+--- BLOCK ---
+Claro, como é minha loja, costumo
+ter artigos que gosto. Mas
+certamente encontrará o que procura.
+--- BLOCK ---
+Se tem o dinheiro, tenho o
+que precisa! Esse é meu lema.
+Criei ele mesmo. Ha, ha, ha!
+--- BLOCK ---
+Bem, chega de conversa
+comercial. Me chame
+se quiser algo.
+--- BLOCK ---
+Olha só quem entrou. O
+Caçador de elite! Não está
+mal! Não está nada mal.
+--- BLOCK ---
+Agora que faz parte dos
+Caçadores de elite, deve querer
+vestir a posição, certo?
+--- BLOCK ---
+Felizmente, tenho novas mercadorias.
+Dê uma olhada!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Volte quando quiser!
+--- BLOCK ---
+Sempre é um prazer ajudar
+um caçador necessitado.
+--- BLOCK ---
+Hoje está mais quente que na
+cozinha de Rathian. Cuide-se!
+--- BLOCK ---
+Boa sorte na caçada. Quanto melhor se
+sair, mais poderá gastar aqui! Ha, ha!
+--- BLOCK ---
+Já terminou? Acabou de chegar!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Bem, chega de papo. Vamos trabalhar!
+--- BLOCK ---
+Ok, vamos ao que interessa.
+--- BLOCK ---
+Dê uma olhada!
+--- BLOCK ---
+Tenho algo perfeito para você.
+--- BLOCK ---
+O que deseja, caçador?
+--- BLOCK ---
+E então, no que posso ajudar?
+--- BLOCK ---

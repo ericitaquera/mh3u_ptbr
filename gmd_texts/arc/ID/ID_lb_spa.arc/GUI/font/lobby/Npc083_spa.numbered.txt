@@ -1,0 +1,275 @@
+﻿TMSG_NPC083_0
+--- BLOCK [001] ---
+TMSG_NPC083_1
+--- BLOCK [002] ---
+TMSG_NPC083_2
+--- BLOCK [003] ---
+TMSG_NPC083_3
+--- BLOCK [004] ---
+TMSG_NPC083_4
+--- BLOCK [005] ---
+(!)
+--- BLOCK [006] ---
+(!)
+--- BLOCK [007] ---
+¡Oye! ¡Deberías probar el buceo!
+Hay un montón de peces y Recursos
+acuáticos esperándote ahí abajo.
+--- BLOCK [008] ---
+Cuando era niño, buceaba armado solo con
+un arpón. Pensaba que era una buena
+manera de impresionar a las damas. ¡Ja!
+--- BLOCK [009] ---
+¡Pero bucear no es solo divertirte e
+impresionar damas! Si te sumerges
+demasiado tiempo te quedarás sin aire.
+--- BLOCK [010] ---
+Pero tiene fácil arreglo. Solo vuelve
+a subir y toma unas bocanadas
+del dulce, dulce oxígeno.
+--- BLOCK [011] ---
+Quizá también verás burbujitas de aire
+salir del fondo del mar. Esa es
+otra buena manera de seguir vivo.
+--- BLOCK [012] ---
+En todo caso, ve con cuidado y no
+tientes a la suerte. ¿Ok, colega? ¡No me
+gustaría sacarte del agua de los pelos!
+--- BLOCK [013] ---
+<SUBS 0>
+¡Oye, colega! ¿No odias cuando
+un pez se te escapa? ¡Es lo peor!
+--- BLOCK [014] ---
+Bueno, hoy es tu día de suerte, ¡porque
+te voy a enseñar todos los secretos
+para convertirte en un maestro pescador!
+--- BLOCK [015] ---
+Lo primero, los tiempos. Debes sentarte
+como una piedra hasta que muerdan, ¡y
+después tirar con todas tus fuerzas!
+--- BLOCK [016] ---
+El cebo también es importante porque
+los peces tienen sus gustos. Igual que
+las damas, ¿me equivoco? ¡Ja, ja!
+--- BLOCK [017] ---
+Sí, pues eso, escoge tu cebo dependiendo
+del tipo de pez que esperes pescar.
+--- BLOCK [018] ---
+Si recuerdas estas dos cosas, estarás
+sacando toneladas de peces en poco
+tiempo. ¡Confía en mí! ¡No falla!
+--- BLOCK [019] ---
+<SUBS 1>
+--- BLOCK [020] ---
+Es un poco raro pensar que los peces
+se pasan la vida bajo el agua, ¿no?
+--- BLOCK [021] ---
+A veces me siento aquí y pienso que yo
+también me pasaría la vida allá abajo.
+--- BLOCK [022] ---
+Es que, ¡venga ya! Los peces saben
+bien, son chulos y sirven para crear
+buen equipo. ¿Qué más quieres?
+--- BLOCK [023] ---
+¿Eh? ¿Quieres saber por qué trabajo
+de marinero y no de pescador?
+--- BLOCK [024] ---
+Porque tengo mujer e hijos, colega. Y si
+no llevo el pan a casa, ¡termino
+durmiendo en el sofá! ¡Ja, ja!
+--- BLOCK [025] ---
+¡Ah, Puerto Tanzia! ¡El Oasis del mar!
+Es una tierra sagrada para mercaderes.
+No hay nada que no puedas encontrar ahí.
+--- BLOCK [026] ---
+Solo soy un marino mercante pero poder
+visitar este lugar... *Sorbo*
+¡Ah, mírame! ¡Me estoy emocionando!
+--- BLOCK [027] ---
+<SUBS 1>
+--- BLOCK [028] ---
+Cuando era niño encontré unas enormes
+ruinas en el mar, cerca de Moga. Muchas
+estructuras raras todas alineadas.
+--- BLOCK [029] ---
+Bueno, quería acercarme para verlas
+mejor pero después vi pasar una enorme
+forma blanca. ¡Casi me muero del susto!
+--- BLOCK [030] ---
+De verdad, no quiero saber lo que vi
+ese día. Es mejor dejar solos a los
+dioses del océano, ¿verdad?
+--- BLOCK [031] ---
+<SUBS 1>
+--- BLOCK [032] ---
+A todo el mundo le gusta el agua, ¿no?
+¡Y eso también incluye a los monstruos!
+--- BLOCK [033] ---
+Siempre que veas una fuente de agua
+limpia, puedes apostar el trasero a que
+hay un monstruo o dos muy cerca.
+--- BLOCK [034] ---
+Nada les gusta más que atacar a los
+imprudentes que acaban en su territorio,
+así que no bajes la guardia, ¿vale?
+--- BLOCK [035] ---
+Hay criaturas antiguas viviendo en el 
+océano, colega. Te lo aseguro.
+--- BLOCK [036] ---
+Si los humanos empezaran a interferir
+en su hábitat o a contaminar su hogar,
+¡sería un desastre de primer orden!
+--- BLOCK [037] ---
+La protección del mar depende de
+nosotros. ¡Si no, puede que decida 
+desahogarse con nosotros! ¡Ja, ja!
+--- BLOCK [038] ---
+Me encantan los peces. Me encantan.
+No digo que los quiera, ¡ya sabes
+lo que quiero decir!
+--- BLOCK [039] ---
+Por ejemplo, la Caballa cuchillo. Su
+aleta dorsal es tan dura que se usa
+en armas y armaduras.
+--- BLOCK [040] ---
+¿Y el Pez sushi? Está riquísimo.
+Sobre todo los que tienen más grasa. ¡Y
+además te ayudan a recuperar Salud!
+--- BLOCK [041] ---
+Es bueno saberlo si se te acaban las
+Pociones durante la caza. ¡Simplemente
+echa la caña y pesca tu salvación!
+--- BLOCK [042] ---
+Así que la próxima vez que comas un
+Pez sushi, no olvides darle las gracias
+por sacrificarse en tu nombre.
+--- BLOCK [043] ---
+¡Oye! Escúchame, que tengo un
+consejo de la leche para ti.
+--- BLOCK [044] ---
+Tienes que usar el cebo adecuado. Cebo
+de Caballa cuchillo para Caballa
+cuchillo, Cebo de atún para Atún... ¿sí?
+--- BLOCK [045] ---
+¡Échalo al agua y los peces vendrán
+corriendo! ... Bueno, nadando. 
+--- BLOCK [046] ---
+Pero no encontrarás cebos en las
+tiendas. Tienes que hacerlos tú.
+--- BLOCK [047] ---
+Personalmente, creo que hacer cebos
+es lo más divertido que hay. ¡Excepto
+quizá una noche de ligue! ¡Ja, ja!
+--- BLOCK [048] ---
+Sí, los cebos son importantes. No hay
+nada como elaborar tu propio cebo
+y ver cómo los peces se acercan.
+--- BLOCK [049] ---
+Ah, quizá ya lo sepas, pero debes elegir
+con cuidado tu zona de pesca. No tiene
+sentido pescar un pez donde no hay.
+--- BLOCK [050] ---
+¡Oye! Tú no eres de por aquí, 
+¿no? Siempre me doy cuenta.
+¿Es tu primera vez en Tanzia?
+--- BLOCK [051] ---
+¿Quién, yo? Ah, solo soy un marinero.
+Mi barco viaja por el mundo cargado de
+Artículos y Bienes.
+--- BLOCK [052] ---
+Ahora estamos en Tanzia descargando
+un gran cargamento, pero pronto
+estaremos de vuelta en el mar.
+--- BLOCK [053] ---
+Ah, el mar es impresionante.
+La brisa fresca, las olas constantes...
+Podría estar aquí toda la vida.
+--- BLOCK [054] ---
+Ah, basta ya de ensimismarme.
+Toma, colega. Coge esto.
+¡Considéralo un regalo del mar!
+--- BLOCK [055] ---
+¡Oye! ¡Te vi antes echar
+un vistazo al faro!
+--- BLOCK [056] ---
+Ese faro es el símbolo de Tanzia.
+Guía los barcos a casa como a peces que
+remontan la corriente. Es tan hermoso...
+--- BLOCK [057] ---
+Bueno, toma. Considéralo un regalo
+entre admiradores del faro.
+--- BLOCK [058] ---
+¡Eh! ¡He oído que eres Cazador de élite!
+Me alegro un porrón por ti, colega.
+Lo digo en serio.
+--- BLOCK [059] ---
+Verte triunfar me da ganas de triunfar
+también, ¡para que mi familia pueda
+estar orgullosa de mí! ¡Ja, ja!
+--- BLOCK [060] ---
+Oye, ¿por qué no coges esto? 
+Como muestra de mi aprecio
+por todo tu esfuerzo.
+--- BLOCK [061] ---
+¡Oooye! ¡Mírate, colega! ¡Ahora
+eres todo un Cazador maestro!
+--- BLOCK [062] ---
+Verte pavoneándote me recuerda al día
+que partí en mi primer viaje...
+--- BLOCK [063] ---
+Estaba más verde que nunca.
+¡Y me refiero a mareado!
+¡Ja, ja, ja!
+--- BLOCK [064] ---
+Ah, los buenos tiempos. Oye, ¿por qué
+no coges esto? Así te agradezco este
+paseo por mis recuerdos. 
+--- BLOCK [065] ---
+¿Has oído, colega? ¡Una noticia
+sorprendente! ¡Impactante!
+¡Impresionante!
+--- BLOCK [066] ---
+¡Un dragón anciano ha atacado a la
+flota del Gremio en el Mar contaminado!
+--- BLOCK [067] ---
+Pero el Gremio no se va a quedar
+callado. ¡Están reclutando a cazadores
+para que les ayuden a matar a la bestia!
+--- BLOCK [068] ---
+Imagino que te unirás a ellos, así que
+quiero que tengas esto. Ten cuidado
+ahí fuera, ¿vale, colega?
+--- BLOCK [069] ---
+¡Cielo santo! ¿¡De verdad mataste
+al Miralis funesto!? ¡Es increíble!
+--- BLOCK [070] ---
+Todos en Tanzia hablan de ello.
+Estamos muy agradecidos.
+--- BLOCK [071] ---
+No puedo esperar a volver a zarpar.
+¡Voy a contar tus hazañas en todos
+los puertos del mundo! ¡Ja, ja!
+--- BLOCK [072] ---
+Ah, casi se me olvida. Quiero que
+tengas esto. Es mi mayor tesoro.
+¡Sin contar a mi mujer y mis hijos! ¡Ja!
+--- BLOCK [073] ---
+Bueno, que me haría muy feliz que lo
+aceptaras, colega. ¡Y gracias de nuevo!
+--- BLOCK [074] ---
+¡Eh! ¡Mira quién está ahí!
+--- BLOCK [075] ---
+¡Bueno, mira lo que ha traído el Felyne!
+--- BLOCK [076] ---
+¡Mira el mar! Increíble...
+--- BLOCK [077] ---
+Nos volveremos a ver, ¿no? ¡Ja, ja!
+--- BLOCK [078] ---
+¡Buen viaje!
+--- BLOCK [079] ---
+Ahora ten cuidado, ¿eh? ¡Ja, ja!
+--- BLOCK [080] ---
+(!)
+--- BLOCK [081] ---
+(!)
+--- BLOCK [082] ---

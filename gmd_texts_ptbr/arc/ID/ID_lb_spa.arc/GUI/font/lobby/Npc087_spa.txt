@@ -1,0 +1,521 @@
+TMSG_NPC087_0
+--- BLOCK ---
+TMSG_NPC087_1
+--- BLOCK ---
+TMSG_NPC087_2
+--- BLOCK ---
+TMSG_NPC087_3
+--- BLOCK ---
+TMSG_NPC087_4
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Dê uma olhada nas missões disponíveis
+que atendem a esses critérios.
+--- BLOCK ---
+Não há taxa para esta missão.
+Tudo bem para você, certo?
+--- BLOCK ---
+Entendi. A taxa é de
+$ z. Isso soa bem?
+--- BLOCK ---
+Ah, parece que você não tem
+dinheiro suficiente para cobrir a taxa.
+--- BLOCK ---
+Parece que você não atende
+aos requisitos para realizar esta
+missão. Sem problemas, escolha outra.
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+Ah, você quer cancelar sua missão
+atual? Se você a iniciou, o
+grupo se dissolverá. Está de acordo?
+--- BLOCK ---
+A missão foi cancelada. Obrigado
+por usar nossos serviços.
+--- BLOCK ---
+A missão foi cancelada.
+Obrigado. Volte em breve.
+--- BLOCK ---
+Então você está desistindo? Entendi.
+--- BLOCK ---
+<SUBS 0>
+Registro de caçadores aberto a todos!
+--- BLOCK ---
+Há mais pessoas como você em casa? Diga
+a eles para virem! Aceitei este trabalho
+para dar as boas-vindas aos novos caçadores!
+--- BLOCK ---
+<SUBS 0>
+A cobertura de saúde da Guilda é excelente!
+Embora você tenha que pagar por ela...
+--- BLOCK ---
+Mas nossas instalações médicas são de
+primeira linha e tenho muito jeito
+com os pacientes! Todos me adoram!
+--- BLOCK ---
+<SUBS 0>
+O que acha do tempo lá fora? Me dá
+vontade de fazer um piquenique!
+--- BLOCK ---
+E se comermos uma cesta dos famosos sanduíches
+de intestino de Giggi do Chef da
+Cantina? Não? Tudo bem, nem todos gostam.
+--- BLOCK ---
+<SUBS 0>
+A propósito, ouvi dizer que não reside no
+alojamento da Guilda como outros.
+--- BLOCK ---
+Dizem que se vive bem no navio de
+Neko. Deve ser ótimo dormir naquela cama
+macia. Quem me dera ter tanto estilo!
+--- BLOCK ---
+<SUBS 0>
+Você sabe que precisa pagar uma taxa estipulada
+pela Guilda para começar, certo?
+--- BLOCK ---
+O dinheiro cobre despesas de transporte e
+suprimentos, bem como o salário dos Felyne
+que te resgatam se você for derrotado.
+--- BLOCK ---
+<SUBS 0>
+Já comeu no restaurante Tanzyne Grill?
+É o restaurante oficial da Guilda.
+--- BLOCK ---
+O salão com vista para o mar é
+o lugar perfeito para um encontro. Você
+vai pela vista, mas fica pela comida!
+--- BLOCK ---
+<SUBS 0>
+Você sabia que a Guilda possui uma frota
+para levar os caçadores para caçar?
+--- BLOCK ---
+São tão luxuosos que até turistas os
+usam, e agora é muito perigoso se
+aproximar muito do ponto de destino.
+--- BLOCK ---
+Use os materiais que coletar
+durante uma caçada. Até o
+menor pode ser útil.
+--- BLOCK ---
+Aliás, não é frustrante quando você
+tem Poções, mas falta Mel? Fica
+faltando um fio para fazer Megapoções.
+--- BLOCK ---
+<SUBS 0>
+A Guilda está se esforçando muito
+para obter dados dos monstros.
+--- BLOCK ---
+Consulte a Lista de monstros em
+suas Notas de caçador para ver
+os que já coletamos. Queremos todos!
+--- BLOCK ---
+<SUBS 0>
+Ah, você já usou aquele grande gongo
+que está atrás de mim?
+--- BLOCK ---
+Seu som é ouvido em todo o mundo
+e assim você pode conhecer caçadores de todos
+os tipos. Pergunte ao mestre da Guilda!
+--- BLOCK ---
+<SUBS 0>
+Você sabe que esses chefs Felyne estão
+sempre assando carne no Tanzyne?
+--- BLOCK ---
+O cheiro me deixa tonta e delirante...
+Ah, desculpe. Quis dizer, não babar.
+--- BLOCK ---
+<SUBS 0>
+O restaurante distribui folhetos para
+recrutar novos chefs Felyne. Vamos ver...
+--- BLOCK ---
+"Procuramos Felyne com bom paladar. Os chefs
+recebem três pratos por dia". Não
+é justo, os humanos também cozinham!
+--- BLOCK ---
+<SUBS 0>
+Sabe? Às vezes entrego ao Mensageiro cartas
+para meus amigos por correspondência.
+--- BLOCK ---
+É como se eu pudesse viajar pelo
+mundo e conhecer novos lugares sem sair
+de casa. Espero que gostem dos meus!
+--- BLOCK ---
+<SUBS 0>
+A Guilda está envolvida em uma
+campanha pela Segurança na caça.
+--- BLOCK ---
+Você tem Bebidas suficientes? Trouxe o
+necessário para combinar o que você
+quer? A prevenção é sua aliada!
+--- BLOCK ---
+<SUBS 0>
+Você sabe que a Guilda atribui ★ às missões
+de acordo com sua dificuldade, não é mesmo?
+--- BLOCK ---
+Aquelas estrelas podem ser bonitas, mas
+significam perigo. Quanto mais, pior!
+--- BLOCK ---
+<SUBS 0>
+A propósito, você sabia que a funcionária
+da Arena ao meu lado é minha irmã mais velha?
+--- BLOCK ---
+Você não diria pela atitude mandona,
+mas ela é muito feminina. Até
+me faz tranças de manhã!
+--- BLOCK ---
+Disse a ela para relaxar. Até que siga
+meu conselho, você terá que acreditar em mim
+quando digo que ela é muito gentil.
+--- BLOCK ---
+<SUBS 0>
+A brisa do mar é muito relaxante. Às
+vezes é difícil para mim não cochilar.
+--- BLOCK ---
+E sempre termino meu turno salgada.
+Olha, aperte meu braço. Não?
+Então você só vai acreditar?
+--- BLOCK ---
+<SUBS 0>
+Você comeu, caçador? Se você colocar um
+pouco de Queijo real em um Megabolinho...
+--- BLOCK ---
+Ou joga um Tomate gordo com um
+pouco de Porco de musgo, terá um
+hambúrguer especial! De preço *ahem* "especial"...
+--- BLOCK ---
+<SUBS 0>
+Você sabia que os uniformes da Guilda
+variam de acordo com a região?
+--- BLOCK ---
+A Guilda usa tecidos adequados para cada
+clima para sempre serem confortáveis. Mais
+um motivo para amar meu trabalho!
+--- BLOCK ---
+<SUBS 0>
+Sabia que ser a Garota do gongo é um cargo
+muito importante entre as funcionárias?
+--- BLOCK ---
+Espero que um dia meu gongo seja ouvido
+em todo o porto. Meu objetivo é
+ser uma super funcionária da Guilda, sabe?
+--- BLOCK ---
+<SUBS 0>
+E agora, algumas palavras dos nossos
+patrocinadores da Guilda...
+--- BLOCK ---
+Beba, engula, aproveite! Miau! Viva
+o Mosto de Tanzia!
+--- BLOCK ---
+Refresque-se na taverna da cidade! Miau!
+Viva o Mosto de Tanzia!
+--- BLOCK ---
+*Gole* *Gole* *Gole*
+Miau! Refrescante!
+--- BLOCK ---
+Tome uma ou três no assador
+Tanzyne, nosso patrocinador. E agora,
+siga com suas caçadas programadas...
+--- BLOCK ---
+Um monte de nuvens escuras
+está estragando o horizonte
+ultimamente. É bem inquietante.
+--- BLOCK ---
+Bem, não há motivo para se preocupar
+com isso agora. Acho que vou ao
+assador Tanzyne para me consolar um pouco.
+--- BLOCK ---
+Todo o porto está agitado desde
+que soubemos que o Miralis
+funesto está vindo para cá.
+--- BLOCK ---
+A Guilda até emitiu uma
+convocação para caçadores com
+excelentes históricos de caça.
+--- BLOCK ---
+Mesmo assim, você pode aceitar missões
+normais. Aliás, faça todas para se
+preparar para a batalha final!
+--- BLOCK ---
+Olá. Ham? Veio se
+registrar como caçador?
+--- BLOCK ---
+Então... *Ahem* Obrigada pelo
+seu interesse na
+Guilda de caçadores.
+--- BLOCK ---
+Se deseja começar a aceitar
+missões, primeiro deve se registrar
+como caçador nesta Guilda.
+--- BLOCK ---
+Após o registro, poderá considerar
+esta cidade como lar. É
+a verdadeira sede dos caçadores.
+--- BLOCK ---
+Este porto comercial está repleto de
+suprimentos. Nunca terá problemas para
+reunir o básico para caçar.
+--- BLOCK ---
+E a Guilda é mais do que
+um suporte aos caçadores durante as caçadas.
+Também oferecemos cama, alimento e roupa.
+--- BLOCK ---
+Então, acho que é isso. Se gostou
+da ideia, converse com o mestre
+da Guilda, que está bem ali.
+--- BLOCK ---
+Perfeito, vamos oficializar! Dou-lhe as
+boas-vindas ao posto de missão.
+Seu registro foi impecável.
+--- BLOCK ---
+Este posto é onde os caçadores vão
+para pegar missões. Na Guilda, recebemos
+todo tipo de pedidos de caça.
+--- BLOCK ---
+Geralmente trabalhamos com missões em
+grupo, então procure se dar
+bem com os outros caçadores.
+--- BLOCK ---
+Todas as missões têm um nível de
+dificuldade. O número de ★ que
+uma missão tem indica seu nível.
+--- BLOCK ---
+Resumindo, as missões com uma ou
+duas ★ são de nível baixo.
+--- BLOCK ---
+As missões de três a cinco ★ são
+de nível alto. São mais difíceis que as
+de nível baixo. Faz sentido, não é?
+--- BLOCK ---
+Agora, algumas missões são AINDA mais difíceis,
+embora, de acordo com o mestre da
+Guilda, não tenhamos tido nenhuma em anos.
+--- BLOCK ---
+Qualquer um pode participar de uma missão
+de uma ou duas ★. São para
+novatos, com "monstros" que mal são monstros.
+--- BLOCK ---
+Mas você precisa ter um Nível de
+caçador (NC) igual ou superior ao número
+de ★ da missão para aceitá-la.
+--- BLOCK ---
+Ou seja, caçadores de NC 1 só podem aceitar
+missões de uma ★, mas os de NC
+2 podem aceitar de uma e duas ★!
+--- BLOCK ---
+Aumentar seu NC é mais fácil
+do que parece. Primeiro, complete várias
+missões importantes de seu NC atual.
+--- BLOCK ---
+Depois, ao completar essas missões,
+a Guilda pedirá que você
+complete uma missão urgente.
+--- BLOCK ---
+Então, complete essa missão urgente, e
+seu NC finalmente subirá de nível!
+--- BLOCK ---
+Viu? Basta esfregar, enxaguar e
+repetir. Você será um Caçador
+de elite antes que perceba!
+--- BLOCK ---
+Como acabou de se registrar, começará
+como NC 1. Oh, os caçadores
+novatos transbordam tanta energia e entusiasmo!
+--- BLOCK ---
+Na verdade, também sou nova por
+aqui. Farei o possível para
+lhe proporcionar as melhores missões!
+--- BLOCK ---
+Boa sorte por aí, e boa caçada!
+--- BLOCK ---
+Ótimo! Agora tem permissão para
+aceitar missões de nível alto!
+--- BLOCK ---
+Não está feliz? Eu estou!
+É o que mais
+gosto no meu trabalho!
+--- BLOCK ---
+Daqui em diante, poderá aceitar neste
+posto missões mais difíceis do que
+as que fez até agora.
+--- BLOCK ---
+Mas terá que lembrar de algumas
+coisas ao aceitar missões de nível
+alto, então preste atenção, por favor...
+--- BLOCK ---
+Os terrenos de caça de nível
+alto são habitados por bestas muito
+perigosas, então é arriscado levar provisões.
+--- BLOCK ---
+Isso significa que talvez não
+possamos entregar seus suprimentos
+no início da missão.
+--- BLOCK ---
+Faremos todos os esforços para que
+seus suprimentos cheguem o mais rápido
+possível, mas não crie muitas expectativas.
+--- BLOCK ---
+Outro problema é que quase sempre
+os enviaremos para uma localização
+diferente da base do acampamento.
+--- BLOCK ---
+Pode ser que você se separe dos
+outros caçadores, ou que acabe bem em
+frente ao grande monstro! É irritante.
+--- BLOCK ---
+Por isso pedimos aos caçadores que
+não saiam em missões de alto
+escalão até estarem completamente preparados.
+--- BLOCK ---
+E com isso encerro o aspecto formal...
+Uau, quase soei como minha irmã
+ali. Espero ter me feito entender!
+--- BLOCK ---
+Uau! Você tem permissão para aceitar
+missões de escalão G! Parabéns!
+--- BLOCK ---
+Nossa. Lembro-me quando você era um novato.
+Agora você é um veterano completo!
+--- BLOCK ---
+Não muda muito entre as missões de
+alto escalão e as de escalão G,
+então não tenho muito o que explicar.
+--- BLOCK ---
+Apenas lembre-se de que os monstros
+serão muito mais temíveis e formidáveis,
+embora provavelmente você já soubesse disso.
+--- BLOCK ---
+Tenha muito cuidado. E acima de tudo,
+prepare-se! Não deixe de levar Poções e
+bebidas só porque é um especialista.
+--- BLOCK ---
+Boa sorte e feliz caça, caçador!
+--- BLOCK ---
+Caçador... Receio que tenho uma
+notícia alarmante para lhe dar.
+--- BLOCK ---
+A Guilda declarou estado de emergência.
+Este grande porto enfrenta um
+perigo desconhecido até o momento.
+--- BLOCK ---
+Confirmamos que um dragão ancião
+conhecido como Miralis Sinistro está
+se aproximando de Porto Tanzia.
+--- BLOCK ---
+Esta criatura é um completo mistério.
+Até as mentes mais brilhantes da
+Guilda o conhecem apenas por lendas.
+--- BLOCK ---
+Esta missão é literalmente uma
+jornada ao desconhecido, então a
+oferecemos apenas aos melhores.
+--- BLOCK ---
+O destino de toda a cidade (e mais)
+está por um fio. E, no entanto, sei
+que você vai aceitá-la, não é mesmo?
+--- BLOCK ---
+Eu sabia... Não vou dizer para
+não ir, mas isso é o
+que menos gosto no meu trabalho...
+--- BLOCK ---
+Na Guilda, incentivamos que retorne inteiro.
+Não faça nenhuma besteira, como
+morrer... ou evacuar a cidade!
+--- BLOCK ---
+Mas não tenho medo. Não acredito
+que haja algum monstro, real ou
+lendário, que possa te vencer.
+--- BLOCK ---
+Vi você crescer como caçador desde o
+início e sei do que é
+feito. Uma massa muito resistente, caçador!
+--- BLOCK ---
+Mesmo assim, pode confiar que cumprirei
+minhas funções até o final.
+--- BLOCK ---
+Excelente caçador! Bem-vindo
+de volta!
+--- BLOCK ---
+Sabia que ficaria bem. Eu sabia...
+Mas ainda assim me alivia ver
+que está bem. Uf... Respire fundo...
+--- BLOCK ---
+*Ofegante* *Gole* Estou bem, estou bem...
+A paz retornou ao porto,
+então pode voltar a caçar.
+--- BLOCK ---
+Eu também não vou me
+aposentar! Tenho muitas missões para
+te oferecer, então se segure!
+--- BLOCK ---
+Ah, isso é o que
+mais gosto no meu trabalho!
+--- BLOCK ---
+Bom dia!
+--- BLOCK ---
+Bom dia para caçar, não é mesmo?
+--- BLOCK ---
+Zzzz... *Bocejo* O quê?! Oh!
+--- BLOCK ---
+Estávamos te esperando!
+--- BLOCK ---
+Bem-vindo!
+--- BLOCK ---
+Bem-vindo à Guilda de caçadores!
+--- BLOCK ---
+Oh, bom dia!
+--- BLOCK ---
+Obrigada por se esforçar tanto!
+--- BLOCK ---
+Posto de missão à sua disposição!
+--- BLOCK ---
+Bem-vindo!
+--- BLOCK ---
+Este é o posto de missão.
+--- BLOCK ---
+Seria bom fazer uma pausa para a higiene...
+--- BLOCK ---
+*Ufa* Hoje foi uma loucura!
+--- BLOCK ---
+Até logo!
+--- BLOCK ---
+Adeus!
+--- BLOCK ---
+Entendi. Bem, volte logo!
+--- BLOCK ---
+Compreendo. Volte quando quiser para
+ver as últimas missões.
+--- BLOCK ---
+Espero te ver em breve!
+--- BLOCK ---
+Deseja examinar missões?
+--- BLOCK ---
+Vai sair para caçar?
+--- BLOCK ---
+Precisa de algo? Eu cuido!
+--- BLOCK ---
+Informe-se sobre missões aqui!
+--- BLOCK ---
+Hoje quer ver missões?
+--- BLOCK ---
+Ah, sim, as missões. Claro!
+--- BLOCK ---
+Boa caçada, e cuide-se!
+--- BLOCK ---
+Por uma caçada proveitosa!
+--- BLOCK ---
+Rastreios felizes!
+--- BLOCK ---
+Volte inteiro, certo?
+--- BLOCK ---
+Vá até a porta de saída.
+--- BLOCK ---
+Conte tudo quando voltar.
+--- BLOCK ---
+Boa viagem!
+--- BLOCK ---

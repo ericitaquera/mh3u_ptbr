@@ -1,0 +1,161 @@
+﻿TMSG_NPC075_0
+--- BLOCK [001] ---
+TMSG_NPC075_1
+--- BLOCK [002] ---
+TMSG_NPC075_2
+--- BLOCK [003] ---
+TMSG_NPC075_3
+--- BLOCK [004] ---
+TMSG_NPC075_4
+--- BLOCK [005] ---
+<SUBS 3>
+--- BLOCK [006] ---
+<SUBS 1>
+--- BLOCK [007] ---
+Te he estado esperando, cazador.
+--- BLOCK [008] ---
+Los días tranquilos como hoy me dan
+ganas de vid Felyne...
+--- BLOCK [009] ---
+¿Qué puedo hacer por ti?
+--- BLOCK [010] ---
+<SUBS 0>
+Parece que tengo algunas tarjetas
+del Gremio para ti, cazador.
+--- BLOCK [011] ---
+<SUBS 0>
+¿Te importaría echar un vistazo
+a la bolsa, cazador?
+--- BLOCK [012] ---
+<SUBS 0>
+Parece que te he conseguido una entrega
+especial con tu nombre, cazador.
+--- BLOCK [013] ---
+<SUBS 0>
+¡Hoy tengo excelentes noticias para ti,
+cazador! ¡Tienes correo!
+--- BLOCK [014] ---
+<SUBS 0>
+Tienes más cartas que vidas tiene
+un Felyne, cazador.
+--- BLOCK [015] ---
+<SUBS 0>
+¡Madre míau! ¡Hoy tienes un montón
+de tarjetas del Gremio aquí, cazador!
+--- BLOCK [016] ---
+<SUBS 0>
+¡Es sencillamente impresionante la
+cantidad de correo que tienes, cazador!
+--- BLOCK [017] ---
+<SUBS 0>
+¡Cazador, esta bolsa pesa tanto que
+apenas puedo moverla!
+--- BLOCK [018] ---
+<SUBS 0>
+Parece que tienes muchos amigos.
+¡Solo mira todo el correo que recibes!
+--- BLOCK [019] ---
+¡Cazador! Acepta este regalo como
+muestra de mi aprecio. ¡Gracias por
+usar el Servicio de mensajería, miau!
+--- BLOCK [020] ---
+Mi labor es entregar tarjetas del
+Gremio a cazadores de todo el mundo.
+--- BLOCK [021] ---
+El Servicio de mensajería es importante.
+¡Porque unimos a los cazadores, miau!
+--- BLOCK [022] ---
+Dejaré estas tarjetas del Gremio en
+tu Buzón de tarjetas del Gremio, miau.
+--- BLOCK [023] ---
+Saludos, cazador.
+¡Te doy la bienvenida
+al Servicio de mensajería!
+--- BLOCK [024] ---
+Te doy la bienvenida al Servicio
+de mensajería. ¡Es un placer verte!
+--- BLOCK [025] ---
+¡Un placer conocerte! Soy el cartero que
+lleva el Servicio de mensajería. Unimos
+a cazadores de todo el miaundo.
+--- BLOCK [026] ---
+Hay montones de puertos en el mar
+y diversos cazadores trabajan en
+todos y cada uno de ellos.
+--- BLOCK [027] ---
+Claro está, la mayoría de los cazadores
+están demasiado ocupados cazando 
+para viajar o conocer gente nueva...
+--- BLOCK [028] ---
+¡Pero ahí es donde entra el Servicio
+de mensajería! Con StreetPass, ¡cambias
+tarjetas del Gremio con desconocidos!
+--- BLOCK [029] ---
+Registra tus datos de StreetPass y
+empieza a enviar tu tarjeta del Gremio
+a otros puertos de cazadores. Guay, ¿eh?
+--- BLOCK [030] ---
+Ah, cuando lleguen tarjetas del Gremio
+de otros cazadores, las dejaré guardadas
+en tu Buzón de tarjetas del Gremio.
+--- BLOCK [031] ---
+¿Qué me dices? ¿Quieres registrar tus
+datos de StreetPata, digo... StreetPass
+para Monster Hunter 3 Ultimate?
+--- BLOCK [032] ---
+HARDUMMY
+--- BLOCK [033] ---
+HARDUMMY
+--- BLOCK [034] ---
+HARDUMMY
+--- BLOCK [035] ---
+HARDUMMY
+--- BLOCK [036] ---
+¡Bueeeeenos días!
+--- BLOCK [037] ---
+Hoy hace un día perfecto.
+--- BLOCK [038] ---
+Es una hermosa mañana, ¿verdad?
+--- BLOCK [039] ---
+¡Miauola!
+--- BLOCK [040] ---
+¡Buenas! Aquí el Servicio de mensajería.
+--- BLOCK [041] ---
+Miau... qué de correo.
+--- BLOCK [042] ---
+Vuelve pronto, miau.
+--- BLOCK [043] ---
+¡Espero tener pronto más correo!
+--- BLOCK [044] ---
+Buena caza, cazador.
+--- BLOCK [045] ---
+Te estaré esperando.
+--- BLOCK [046] ---
+Ofrecemos todos los servicios postales.
+--- BLOCK [047] ---
+Parece que acabas de llegar...
+--- BLOCK [048] ---
+Podría ir a por un poco de vid Felyne.
+--- BLOCK [049] ---
+Certificado del Gremio 100%.
+--- BLOCK [050] ---
+Si hay correo, hay felicidad.
+--- BLOCK [051] ---
+Hacemos entregas a todo el mundo.
+--- BLOCK [052] ---
+¡Entrega en el mismo día, garantizado!
+--- BLOCK [053] ---
+¡Te ayudaremos a hacer nuevos amigos!
+--- BLOCK [054] ---
+¿Quieres ver tus tarjetas?
+--- BLOCK [055] ---
+El negocio postal es muy exigente.
+--- BLOCK [056] ---
+¡Poder Peco, miau!
+--- BLOCK [057] ---
+¿Tienes sueño? Yo no. Acabo de dormir.
+--- BLOCK [058] ---
+Sin prisa, cazador. Tengo todo el día.
+--- BLOCK [059] ---
+¿Cómo es que nadie me escribe?
+--- BLOCK [060] ---

@@ -6,7 +6,7 @@ Menino Shak perdido
 --- BLOCK ---
 Chefe da Vila
 --- BLOCK ---
-Menina da Guilda
+Garota da Guilda
 --- BLOCK ---
 Filho do Chefe
 --- BLOCK ---
@@ -22,9 +22,9 @@ Capitão do Argosy
 --- BLOCK ---
 Capitão de frota
 --- BLOCK ---
-Caçador lanzarroja
+Caçador lançarubra
 --- BLOCK ---
-Caçador lanzanegra
+Caçador lançanegra
 --- BLOCK ---
 Cozinheiro ambulante
 --- BLOCK ---
@@ -68,13 +68,13 @@ Frequentador da Arena
 --- BLOCK ---
 Caçadora novata
 --- BLOCK ---
-Cidadã amável
+Cidadão amável
 --- BLOCK ---
 Nativa Estilosa
 --- BLOCK ---
-Marinheiro Caça-dragão
+Marinheiro caçadragão
 --- BLOCK ---
-Marinheiro Caça-dragão
+Marinheiro caçadragão
 --- BLOCK ---
 Dama do comércio
 --- BLOCK ---
@@ -84,7 +84,7 @@ O Combinador
 --- BLOCK ---
 Capitão Útil
 --- BLOCK ---
-Adivino interior
+Adivinho interior
 --- BLOCK ---
 Guia de Loc Lac
 --- BLOCK ---
@@ -92,9 +92,9 @@ Sabia ambiciosa
 --- BLOCK ---
 DUMMY045
 --- BLOCK ---
-Marinheiro Caça-dragão
+Marinheiro caçadragão
 --- BLOCK ---
-Marinheiro Caça-dragão
+Marinheiro caçadragão
 --- BLOCK ---
 Mestre da Guilda
 --- BLOCK ---
@@ -106,13 +106,13 @@ Empregada da Arena
 --- BLOCK ---
 Marinheiro Caça-dragão
 --- BLOCK ---
-Instrutor orgulhoso
+Instrutor vaidoso
 --- BLOCK ---
 Caçador incrível
 --- BLOCK ---
-Marino cazadragones
+Marinheiro caçadragões
 --- BLOCK ---
-Mestre herrero
+Mestre ferreiro
 --- BLOCK ---
 Vendedor de armas
 --- BLOCK ---
@@ -138,7 +138,7 @@ DUMMY067
 --- BLOCK ---
 Caçador intrépido
 --- BLOCK ---
-Caçadora gruñona
+Caçadora rabugenta
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -154,7 +154,7 @@ Mensageiro Felyne
 --- BLOCK ---
 Menino nervoso
 --- BLOCK ---
-Abuela para todo
+Vovó vendedora
 --- BLOCK ---
 Mestre Ferreiro
 --- BLOCK ---
@@ -162,17 +162,17 @@ Vendedor de armas
 --- BLOCK ---
 Cidadã amável
 --- BLOCK ---
-Instructor ufano
+Instructor vaidoso
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Marinheiro amigable
+Marinheiro amigável
 --- BLOCK ---
 Gata sagaz
 --- BLOCK ---
-Mestre del Gremio
+Mestre da Guilda
 --- BLOCK ---
-Chica del gong
+Garota do gongo
 --- BLOCK ---
 Recepcionista
 --- BLOCK ---

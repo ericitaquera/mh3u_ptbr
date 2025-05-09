@@ -1,0 +1,275 @@
+﻿TMSG_NPC083_0
+--- BLOCK ---
+TMSG_NPC083_1
+--- BLOCK ---
+TMSG_NPC083_2
+--- BLOCK ---
+TMSG_NPC083_3
+--- BLOCK ---
+TMSG_NPC083_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+¡Oye! ¡Deberías probar el buceo!
+Hay un montón de peces y Recursos
+acuáticos esperándote ahí abajo.
+--- BLOCK ---
+Cuando era niño, buceaba armado solo con
+un arpón. Pensaba que era una buena
+manera de impresionar a las damas. ¡Ja!
+--- BLOCK ---
+¡Pero bucear no es solo divertirte e
+impresionar damas! Si te sumerges
+demasiado tiempo te quedarás sin aire.
+--- BLOCK ---
+Pero tiene fácil arreglo. Solo vuelve
+a subir y toma unas bocanadas
+del dulce, dulce oxígeno.
+--- BLOCK ---
+Quizá también verás burbujitas de aire
+salir del fondo del mar. Esa es
+otra buena manera de seguir vivo.
+--- BLOCK ---
+En todo caso, ve con cuidado y no
+tientes a la suerte. ¿Ok, colega? ¡No me
+gustaría sacarte del agua de los pelos!
+--- BLOCK ---
+<SUBS 0>
+¡Oye, colega! ¿No odias cuando
+un pez se te escapa? ¡Es lo peor!
+--- BLOCK ---
+Bueno, hoy es tu día de suerte, ¡porque
+te voy a enseñar todos los secretos
+para convertirte en un maestro pescador!
+--- BLOCK ---
+Lo primero, los tiempos. Debes sentarte
+como una piedra hasta que muerdan, ¡y
+después tirar con todas tus fuerzas!
+--- BLOCK ---
+El cebo también es importante porque
+los peces tienen sus gustos. Igual que
+las damas, ¿me equivoco? ¡Ja, ja!
+--- BLOCK ---
+Sí, pues eso, escoge tu cebo dependiendo
+del tipo de pez que esperes pescar.
+--- BLOCK ---
+Si recuerdas estas dos cosas, estarás
+sacando toneladas de peces en poco
+tiempo. ¡Confía en mí! ¡No falla!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Es un poco raro pensar que los peces
+se pasan la vida bajo el agua, ¿no?
+--- BLOCK ---
+A veces me siento aquí y pienso que yo
+también me pasaría la vida allá abajo.
+--- BLOCK ---
+Es que, ¡venga ya! Los peces saben
+bien, son chulos y sirven para crear
+buen equipo. ¿Qué más quieres?
+--- BLOCK ---
+¿Eh? ¿Quieres saber por qué trabajo
+de marinero y no de pescador?
+--- BLOCK ---
+Porque tengo mujer e hijos, colega. Y si
+no llevo el pan a casa, ¡termino
+durmiendo en el sofá! ¡Ja, ja!
+--- BLOCK ---
+¡Ah, Puerto Tanzia! ¡El Oasis del mar!
+Es una tierra sagrada para mercaderes.
+No hay nada que no puedas encontrar ahí.
+--- BLOCK ---
+Solo soy un marino mercante pero poder
+visitar este lugar... *Sorbo*
+¡Ah, mírame! ¡Me estoy emocionando!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Cuando era niño encontré unas enormes
+ruinas en el mar, cerca de Moga. Muchas
+estructuras raras todas alineadas.
+--- BLOCK ---
+Bueno, quería acercarme para verlas
+mejor pero después vi pasar una enorme
+forma blanca. ¡Casi me muero del susto!
+--- BLOCK ---
+De verdad, no quiero saber lo que vi
+ese día. Es mejor dejar solos a los
+dioses del océano, ¿verdad?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+A todo el mundo le gusta el agua, ¿no?
+¡Y eso también incluye a los monstruos!
+--- BLOCK ---
+Siempre que veas una fuente de agua
+limpia, puedes apostar el trasero a que
+hay un monstruo o dos muy cerca.
+--- BLOCK ---
+Nada les gusta más que atacar a los
+imprudentes que acaban en su territorio,
+así que no bajes la guardia, ¿vale?
+--- BLOCK ---
+Hay criaturas antiguas viviendo en el 
+océano, colega. Te lo aseguro.
+--- BLOCK ---
+Si los humanos empezaran a interferir
+en su hábitat o a contaminar su hogar,
+¡sería un desastre de primer orden!
+--- BLOCK ---
+La protección del mar depende de
+nosotros. ¡Si no, puede que decida 
+desahogarse con nosotros! ¡Ja, ja!
+--- BLOCK ---
+Me encantan los peces. Me encantan.
+No digo que los quiera, ¡ya sabes
+lo que quiero decir!
+--- BLOCK ---
+Por ejemplo, la Caballa cuchillo. Su
+aleta dorsal es tan dura que se usa
+en armas y armaduras.
+--- BLOCK ---
+¿Y el Pez sushi? Está riquísimo.
+Sobre todo los que tienen más grasa. ¡Y
+además te ayudan a recuperar Salud!
+--- BLOCK ---
+Es bueno saberlo si se te acaban las
+Pociones durante la caza. ¡Simplemente
+echa la caña y pesca tu salvación!
+--- BLOCK ---
+Así que la próxima vez que comas un
+Pez sushi, no olvides darle las gracias
+por sacrificarse en tu nombre.
+--- BLOCK ---
+¡Oye! Escúchame, que tengo un
+consejo de la leche para ti.
+--- BLOCK ---
+Tienes que usar el cebo adecuado. Cebo
+de Caballa cuchillo para Caballa
+cuchillo, Cebo de atún para Atún... ¿sí?
+--- BLOCK ---
+¡Échalo al agua y los peces vendrán
+corriendo! ... Bueno, nadando. 
+--- BLOCK ---
+Pero no encontrarás cebos en las
+tiendas. Tienes que hacerlos tú.
+--- BLOCK ---
+Personalmente, creo que hacer cebos
+es lo más divertido que hay. ¡Excepto
+quizá una noche de ligue! ¡Ja, ja!
+--- BLOCK ---
+Sí, los cebos son importantes. No hay
+nada como elaborar tu propio cebo
+y ver cómo los peces se acercan.
+--- BLOCK ---
+Ah, quizá ya lo sepas, pero debes elegir
+con cuidado tu zona de pesca. No tiene
+sentido pescar un pez donde no hay.
+--- BLOCK ---
+¡Oye! Tú no eres de por aquí, 
+¿no? Siempre me doy cuenta.
+¿Es tu primera vez en Tanzia?
+--- BLOCK ---
+¿Quién, yo? Ah, solo soy un marinero.
+Mi barco viaja por el mundo cargado de
+Artículos y Bienes.
+--- BLOCK ---
+Ahora estamos en Tanzia descargando
+un gran cargamento, pero pronto
+estaremos de vuelta en el mar.
+--- BLOCK ---
+Ah, el mar es impresionante.
+La brisa fresca, las olas constantes...
+Podría estar aquí toda la vida.
+--- BLOCK ---
+Ah, basta ya de ensimismarme.
+Toma, colega. Coge esto.
+¡Considéralo un regalo del mar!
+--- BLOCK ---
+¡Oye! ¡Te vi antes echar
+un vistazo al faro!
+--- BLOCK ---
+Ese faro es el símbolo de Tanzia.
+Guía los barcos a casa como a peces que
+remontan la corriente. Es tan hermoso...
+--- BLOCK ---
+Bueno, toma. Considéralo un regalo
+entre admiradores del faro.
+--- BLOCK ---
+¡Eh! ¡He oído que eres Cazador de élite!
+Me alegro un porrón por ti, colega.
+Lo digo en serio.
+--- BLOCK ---
+Verte triunfar me da ganas de triunfar
+también, ¡para que mi familia pueda
+estar orgullosa de mí! ¡Ja, ja!
+--- BLOCK ---
+Oye, ¿por qué no coges esto? 
+Como muestra de mi aprecio
+por todo tu esfuerzo.
+--- BLOCK ---
+¡Oooye! ¡Mírate, colega! ¡Ahora
+eres todo un Cazador maestro!
+--- BLOCK ---
+Verte pavoneándote me recuerda al día
+que partí en mi primer viaje...
+--- BLOCK ---
+Estaba más verde que nunca.
+¡Y me refiero a mareado!
+¡Ja, ja, ja!
+--- BLOCK ---
+Ah, los buenos tiempos. Oye, ¿por qué
+no coges esto? Así te agradezco este
+paseo por mis recuerdos. 
+--- BLOCK ---
+¿Has oído, colega? ¡Una noticia
+sorprendente! ¡Impactante!
+¡Impresionante!
+--- BLOCK ---
+¡Un dragón anciano ha atacado a la
+flota del Gremio en el Mar contaminado!
+--- BLOCK ---
+Pero el Gremio no se va a quedar
+callado. ¡Están reclutando a cazadores
+para que les ayuden a matar a la bestia!
+--- BLOCK ---
+Imagino que te unirás a ellos, así que
+quiero que tengas esto. Ten cuidado
+ahí fuera, ¿vale, colega?
+--- BLOCK ---
+¡Cielo santo! ¿¡De verdad mataste
+al Miralis funesto!? ¡Es increíble!
+--- BLOCK ---
+Todos en Tanzia hablan de ello.
+Estamos muy agradecidos.
+--- BLOCK ---
+No puedo esperar a volver a zarpar.
+¡Voy a contar tus hazañas en todos
+los puertos del mundo! ¡Ja, ja!
+--- BLOCK ---
+Ah, casi se me olvida. Quiero que
+tengas esto. Es mi mayor tesoro.
+¡Sin contar a mi mujer y mis hijos! ¡Ja!
+--- BLOCK ---
+Bueno, que me haría muy feliz que lo
+aceptaras, colega. ¡Y gracias de nuevo!
+--- BLOCK ---
+¡Eh! ¡Mira quién está ahí!
+--- BLOCK ---
+¡Bueno, mira lo que ha traído el Felyne!
+--- BLOCK ---
+¡Mira el mar! Increíble...
+--- BLOCK ---
+Nos volveremos a ver, ¿no? ¡Ja, ja!
+--- BLOCK ---
+¡Buen viaje!
+--- BLOCK ---
+Ahora ten cuidado, ¿eh? ¡Ja, ja!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

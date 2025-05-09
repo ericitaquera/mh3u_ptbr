@@ -1,0 +1,236 @@
+TMSG_NPC011_0
+--- BLOCK ---
+TMSG_NPC011_1
+--- BLOCK ---
+TMSG_NPC011_2
+--- BLOCK ---
+TMSG_NPC011_3
+--- BLOCK ---
+TMSG_NPC011_4
+--- BLOCK ---
+Beleza... O que posso
+fazer por você?
+--- BLOCK ---
+Não se acanhe, parceiro!
+--- BLOCK ---
+Não consigo pescar, o capitão da
+frota ainda está de bobeira e
+a tripulação do Lanzanegra está cantando.
+--- BLOCK ---
+Agora que penso nisso, ele sempre
+disse que queria ser um bardo...
+Mas eu, eu quero pescar!
+--- BLOCK ---
+Vamos lá... mantenha a calma. Alguém da
+frota tem que manter a cabeça fria.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+O capitão da frota aprovou o
+conserto do meu barco!
+--- BLOCK ---
+Mas precisamos de um monte de
+materiais de monstro para começar...
+Conto com você nisso, parceiro!
+--- BLOCK ---
+Valeu antecipado!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Ei! Ter um barco capaz de navegar é
+a melhor sensação do mundo!
+--- BLOCK ---
+A Frota de caça voltou à ação. Finalmente!
+Pescar é minha vida inteira!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Com o Lançarubra já consertado, a
+frota voltou ao normal!
+--- BLOCK ---
+Sim, três embarcações são o número
+mágico para essa Frota de caça.
+--- BLOCK ---
+Beleza! Fica na tua e vamos pescar.
+Se precisar de ajuda, só chamar, parceiro!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+No oceano, moram tantos monstros quanto na
+terra, ou talvez até mais.
+--- BLOCK ---
+Então a Frota de caça está
+sempre na mira dos ataques dos
+monstros. É uma profissão perigosa.
+--- BLOCK ---
+Claro que poderíamos caçar monstros, mas
+não é nossa especialidade. Para isso
+precisaríamos de um barco maior!
+--- BLOCK ---
+Mas pescar é nossa praia.
+Deixa com a gente!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+Ah, não... Justo quando pensei
+que o Lagiacrus tinha ido
+embora, sofremos outro terremoto...
+--- BLOCK ---
+Acho que agora era para
+eu ser corajoso e durão...
+Mas esquece, estou com medo!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Incrível... simplesmente... incrível.
+--- BLOCK ---
+Você não vai acreditar, parceiro!
+Nos deparamos com um Lagiacrus!
+--- BLOCK ---
+Estávamos preparando nossas redes quando
+a fera saiu da água!
+--- BLOCK ---
+Afundou quase toda a frota. Tudo
+aconteceu em apenas um segundo... Tivemos
+sorte de escapar com vida!
+--- BLOCK ---
+Só resta um dos barcos da
+frota à tona. Acho que a
+temporada de pesca acabou... para sempre.
+--- BLOCK ---
+E sabe qual é a pior parte? O
+capitão da frota não parava de fazer piadas,
+como se nada de errado estivesse acontecendo...
+--- BLOCK ---
+Beleza... preciso manter a calma. A
+quem estou tentando enganar? A
+pesca é minha vida! *Choro*
+--- BLOCK ---
+<SUBS 0>
+Ah... Tão perto...
+Tô tão perto...
+--- BLOCK ---
+Mais um pouco de trabalho nas
+cordas e o Lanzarroja estará pronto
+de novo. Peixes, lá vou eu!
+--- BLOCK ---
+E tudo graças a você, parceiro.
+Os materiais de Ludroth que você
+conseguiu foram muito úteis na reparação!
+--- BLOCK ---
+Vou zarpar antes do Lança Negra, sem dúvidas!
+Azar o dele!
+<SUBS 1>
+--- BLOCK ---
+Ei, você é o caçador de
+Moga, né? Sabe o quê?
+--- BLOCK ---
+Meu barco está consertado e
+em perfeitas condições! Finalmente posso
+voltar à missão de pesca!
+--- BLOCK ---
+E tudo graças a você
+ter caçado aqueles Ludroth reais.
+Te devo uma, parceiro!
+--- BLOCK ---
+Estou preocupado com o palhaço do
+capitão da frota. Se algo der
+errado, ele vai piorar as coisas!
+--- BLOCK ---
+A força da frota está em seu
+tamanho. Estou pronto para pescar! Mal
+posso esperar para trabalhar com você!
+--- BLOCK ---
+O capitão e eu não precisamos ir
+para o mesmo lugar. Vamos cuidar das
+suas necessidades de pesca! Como costumam dizer:
+--- BLOCK ---
+Cala a boca e pesca!
+--- BLOCK ---
+Pense bem, camarada. Sabe no
+que está se metendo? Coisas
+ruins, parceiro, muito ruins...
+--- BLOCK ---
+Meu barco quase
+virou submarino. Sério!
+--- BLOCK ---
+O Lagiacrus é forte demais. Ninguém
+consegue vencê-lo, nem você, parceiro!
+--- BLOCK ---
+Não vale a pena arriscar a vida
+na caçada! Peça desculpas ao Chefe e
+caia fora... enquanto ainda tem cabeça!
+--- BLOCK ---
+Irei com você para te dar apoio
+moral. Afinal, ainda te devo uma por
+me ajudar a reconstruir meu barco.
+--- BLOCK ---
+Finalmente vai matar esse Lagiacrus de
+uma vez por todas, né, parceiro?
+--- BLOCK ---
+Você o afugentou uma vez, então
+talvez tenha o que é preciso
+para ir até o fim...
+--- BLOCK ---
+Preste atenção: o ataque especial do
+Lagiacrus são as descargas elétricas.
+--- BLOCK ---
+Sofrer os ataques do elemento Trovão causa
+a Praga de trovão, que te
+deixa mais propenso a ficar atordoado!
+--- BLOCK ---
+Mas ao comer uma curibaya você se
+cura da Praga de trovão! Se
+tiver alguma, não demore a engolir!
+--- BLOCK ---
+Uhuuuu, aaaaah!
+--- BLOCK ---
+Não acredito que afugentou o Ceadeus,
+parceiro! É o rei dos
+caçadores ou algo do tipo?
+--- BLOCK ---
+Isso significa que podemos continuar pescando
+aqui para sempre, né? A temporada
+de pesca nunca vai acabar!
+--- BLOCK ---
+Você me animou muito, parceiro!
+Sei que minha única habilidade
+é pescar todo santo dia...
+--- BLOCK ---
+Mas a partir de agora, vou pescar o
+dobro do que antes. Você nos deu
+uma segunda chance e não vou desperdiçar!
+--- BLOCK ---
+Parceiro, parceiro, parceiro!
+--- BLOCK ---
+Você se livrou de um Lagiacrus
+de mármore! Não consigo acreditar! Ok,
+consigo, mas, de qualquer forma...
+--- BLOCK ---
+Acho que nada é impossível quando
+você se esforça o suficiente...
+--- BLOCK ---
+Você me ensinou uma lição importante,
+parceiro! Se antes só me
+via pescando, vai ver agora!
+--- BLOCK ---
+E aí, parceiro!
+--- BLOCK ---
+Oi!
+--- BLOCK ---
+Ei, parceiro!
+--- BLOCK ---
+Estou ansioso para pescar!
+--- BLOCK ---
+Até mais, camarada.
+--- BLOCK ---
+A pesca é minha missão, tá ligado?
+--- BLOCK ---
+Se cuida, parceiro!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

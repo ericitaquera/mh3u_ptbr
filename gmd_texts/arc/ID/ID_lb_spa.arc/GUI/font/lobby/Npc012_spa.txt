@@ -1,0 +1,285 @@
+﻿TMSG_NPC012_0
+--- BLOCK ---
+TMSG_NPC012_1
+--- BLOCK ---
+TMSG_NPC012_2
+--- BLOCK ---
+TMSG_NPC012_3
+--- BLOCK ---
+TMSG_NPC012_4
+--- BLOCK ---
+¿Por dónde iba? Ah, sí.
+¡Ohé, compañero!
+--- BLOCK ---
+¡Vuelve pronto por aquí, camarada!
+--- BLOCK ---
+¡Ohé, camarada! Soy Lanzanegra,
+el hombre con ritmo.
+--- BLOCK ---
+La tonada de hoy es en honor de
+mis compañeros de la gloriosa Flota
+de caza. ¿La has oído antes?
+--- BLOCK ---
+Es una melodía enérgica, llena de todo
+el peligro y las aventuras de los mares
+lejanos: ¡"Fantasma a estribor"!
+--- BLOCK ---
+"Se acercó por el mar la bestia marina.
+ ¡Tronó el rayo! ¡Oh, dioses!
+ Quedamos sin aliento".
+--- BLOCK ---
+(Capitán de la flota: hablado)
+¡Así te quedes tú, Lanzanegra! ¡Calla
+y rema! ¡Es el Lagiacrus! ¡REMA!
+--- BLOCK ---
+"Oh, no. ¿Qué hacemos? Se nos acerca.
+El Lagiacrus está *glub, glub, glub*".
+<SUBS 1>
+--- BLOCK ---
+¡Soy Lanzanegra, el hombre con ritmo!
+Hoy tengo una canción más
+para ti.
+--- BLOCK ---
+Es una melodía triste que habla de una
+abismal tragedia. Sí, puede que incluso
+soltemos unas lágrimas... Avisado queda.
+--- BLOCK ---
+Saca el pañuelo, camarada, que voy
+a cantarte "Un golpe de gloria".
+--- BLOCK ---
+"Un golpe de gloria.
+ Un golpe... rompió el mástil
+ Gloria... El Lagiacrus es ágil".
+--- BLOCK ---
+"¡Vuela la salmuera!
+ ¡Y mi barco no podrá aguantar!"
+--- BLOCK ---
+"Vuela la salmuera (pero mis huesos
+ por suerte no van al fondo del mar)".
+--- BLOCK ---
+*Sorbo* Adiós, barco que llevabas mi
+nombre. Un día volveremos a navegar.
+<SUBS 1>
+--- BLOCK ---
+¡Soy Lanzanegra, el hombre con ritmo!
+Quisiera deleitarte con una canción,
+dedicada a un compañero querido.
+--- BLOCK ---
+Verás, Lanzarroja se ha hecho a la mar
+por culpa de un monstruo muy especial.
+Te presento... "Parte de tu esponja".
+--- BLOCK ---
+"Mira qué piel, hecha para navegar,
+ Qué decir de esas garras, imposibles
+ de afilar".
+--- BLOCK ---
+(Estribillo)
+"Acá en tierra o allá en la mar
+ el Ludroth real es una bestia sin par".
+--- BLOCK ---
+"En un cascarón navegamos al son.
+ Dame esa esponja".
+--- BLOCK ---
+¡Bon voyage, Lanzarroja! ¡Sigue sin mí!
+¡No te lo reprocho! Qué más da que yo
+me quede aquí... tirado en tierra...
+--- BLOCK ---
+¡Soy Lanzanegra, el hombre con ritmo!
+¡Y un calavera feliz, ahora que voy a
+volver a la mar con mis camaradas!
+--- BLOCK ---
+Tan contento estoy que voy a hacer una
+canción. ¡Una tonada alegre que llamo
+"La flota de élite de Puerto Demonio"!
+--- BLOCK ---
+"¡Lagiacrus! ¡Muere, cabezota!
+ ¡Te mató el cazador! (Jo, jo, jo)".
+--- BLOCK ---
+"¡Ahora que te fuiste, la flota
+ ha vuelto sin temor! (Jo, jo, jo, jo)".
+--- BLOCK ---
+"El capitán, Lanzarroja, Lanzanegra,
+ ¡qué gran tripulación! (Jo, jo, jo)".
+--- BLOCK ---
+"¡Expertos en la pesca
+ sin ningún parangón! (¡Y chimpón!)"
+<SUBS 1>
+--- BLOCK ---
+¡Ohé, camarada cazador! Tengo
+la madre de las canciones en honor de
+tus hazañas: ¡"El señor del terremoto"!
+--- BLOCK ---
+"Señor del terremoto, zurró al Ceadeus
+ salvó a la aldea, sí, y... eh...".
+¿Qué rima con "deus"?
+--- BLOCK ---
+¡Agh! ¡No hay manera! ¡Eres el héroe
+más grande que ha pisado estas orillas,
+y yo no soy capaz de armar una letra!
+--- BLOCK ---
+Vuelta a empezar, no le queda más
+remedio al viejo Lanzanegra...
+--- BLOCK ---
+Mis canciones se conocen del uno al otro
+confín, pero ninguna hace justicia a
+una figura como la tuya.
+--- BLOCK ---
+Seguiré en ello, camarada. ¡TU canción
+será de las que conmueven al mundo
+más que cualquier dragón!
+--- BLOCK ---
+¡Alto! ¡Veo DOS mocosos! ¡Un dúo!
+Si pueden llevar la melodía, ¡seremos
+la revolución de las tonadillas!
+--- BLOCK ---
+¡Primero, un ensayo! Colega, canta
+las letras que más rabia te den.
+¡Yo te hago el acompañamiento!
+--- BLOCK ---
+"Super-baggi-qurupeco-giggi-lagiacrus
+¡Si lo dices de una vez, resulta
+espantoso!"
+--- BLOCK ---
+"Pero es lo mejor para un lenguaje
+monstruoso. Super-baggi-qurupeco-giggi-
+lagiaaaaaaAAAAAAH". *Tos* *resuello*
+--- BLOCK ---
+¡Aj! Disculpa, colega. Me dejo llevar
+tanto por la nostalgia, que se me
+olvida respirar...
+--- BLOCK ---
+¡Hola, héroe de la aldea! ¡En tu honor,
+he compuesto mi mejor canción! ¡Llamo
+a mi obra "Lagiacrus Superstar"!
+--- BLOCK ---
+"Por más que lo intentan, no consiguen
+huir,/ en tu Bolsa de objetos los
+logras embutir".
+--- BLOCK ---
+"Moga está a salvo, pero sus monstruos
+no,/ ¡cuando Ceadeus sacudió la isla,
+cuánto le hiciste sufrir!"
+--- BLOCK ---
+"Lagiacrus... marmóreo... Un cazador
+te fileteó./ Lagiacrus... marmóreo...
+En el equipo te incrusto yo".
+--- BLOCK ---
+¡Bueno, me he superado! ¡Claro, que
+tú también! ¡Nunca dejes de ser el
+mejor, colega cazador!
+--- BLOCK ---
+¡Soy Lanzanegra, el hombre con ritmo!
+Estoy en deuda contigo, compañero.
+¡Por fin puedo volver a mar abierto!
+--- BLOCK ---
+Tan contento estoy que voy a hacer una
+canción. ¡Una tonada alegre que llamo
+"La flota de élite de Puerto Demonio"!
+--- BLOCK ---
+"¡Lagiacrus! ¡Muere, cabezota!
+ ¡Te mató el cazador! (Jo, jo, jo)".
+--- BLOCK ---
+"¡Ahora que te fuiste, la flota
+ ha vuelto sin temor! (Jo, jo, jo, jo)".
+--- BLOCK ---
+"El capitán, Lanzarroja, Lanzanegra,
+ ¡qué gran tripulación! (Jo, jo, jo)".
+--- BLOCK ---
+"¡Expertos en la pesca
+ sin ningún parangón! (¡Y chimpón!)"
+--- BLOCK ---
+¿Qué te parece? Esa letra tan
+tierna me sale del corazón.
+¡Tienes mi gratitud, valiente cazador!
+--- BLOCK ---
+¡Hola! El mocoso ha estado rarito
+últimamente. ¡Pero creo que sé lo que
+le pasa a ese percebillo!
+--- BLOCK ---
+¡Se ha enamorado! Sí, está tan claro
+como un mar de coral. He escrito una
+canción: "Es la noche de la máscara".
+--- BLOCK ---
+"Un rival pequeñito con un gran corazón,
+y una malvada arpía que se lo robó
+se lo robó porque..." *Ejem*
+--- BLOCK ---
+"Es la noche de la máscara,
+un llanto y un pesar./ Se ha enamorado
+y fluyen/ hormonas sin cesar".
+--- BLOCK ---
+¿Dos mocosos? ¡Tienes un dúo! Si tienen
+oído musical, ¡seremos la revolución
+de las tonadillas!
+--- BLOCK ---
+¡Primero, un ensayo! Colega, canta
+las letras que más rabia te den.
+¡Yo te hago el acompañamiento!
+--- BLOCK ---
+"Super-baggi-qurupeco-giggi-lagiacrus
+¡Si lo dices de una vez, resulta
+espantoso!"
+--- BLOCK ---
+"Pero es lo mejor para un lenguaje
+monstruoso. Super-baggi-qurupeco-giggi-
+lagiaaaaaaAAAAAAH". *Tos* *resuello*
+--- BLOCK ---
+¡Aj! Disculpa, colega. Me dejo llevar
+tanto por la nostalgia, que se me
+olvida respirar...
+--- BLOCK ---
+¡Ohé, camarada cazador! Tengo
+la madre de las canciones en honor de
+tus hazañas: ¡"El señor del terremoto"!
+--- BLOCK ---
+"Señor del terremoto, zurró al Ceadeus
+ salvó a la aldea, sí, y... eh...".
+¿Qué rima con "deus"?
+--- BLOCK ---
+¡Agh! ¡No hay manera! ¡Eres el héroe
+más grande que ha pisado estas orillas,
+y yo no soy capaz de armar una letra!
+--- BLOCK ---
+Vuelta a empezar, no le queda más
+remedio al viejo Lanzanegra...
+--- BLOCK ---
+Mis canciones se conocen del uno al otro
+confín, pero ninguna hace justicia a
+una figura como la tuya.
+--- BLOCK ---
+Seguiré en ello, camarada. ¡TU canción
+será de las que conmueven al mundo
+más que cualquier dragón!
+--- BLOCK ---
+¡Hola, héroe de la aldea! ¡En tu honor,
+he compuesto mi mejor canción! ¡Llamo
+a mi obra "Lagiacrus Superstar"!
+--- BLOCK ---
+"Por más que lo intentan, no consiguen
+huir,/ en tu Bolsa de objetos los
+logras embutir".
+--- BLOCK ---
+"Moga está a salvo, pero sus monstruos
+no,/ ¡cuando Ceadeus sacudió la isla,
+cuánto le hiciste sufrir!".
+--- BLOCK ---
+"Lagiacrus... marmóreo... Un cazador
+te fileteó./ Lagiacrus... marmóreo...
+En el equipo te incrusto yo".
+--- BLOCK ---
+¡Bueno, me he superado! ¡Claro, que
+tú también! ¡Nunca dejes de ser el
+mejor, colega cazador!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+¡Suerte a la Flota de caza, camarada!
+--- BLOCK ---
+¡Hasta más ver, cazador!
+--- BLOCK ---
+¡Esta canción te la dedica... un pez!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

@@ -1,0 +1,314 @@
+﻿TMSG_NPC013_0
+--- BLOCK [001] ---
+TMSG_NPC013_1
+--- BLOCK [002] ---
+TMSG_NPC013_2
+--- BLOCK [003] ---
+TMSG_NPC013_3
+--- BLOCK [004] ---
+TMSG_NPC013_4
+--- BLOCK [005] ---
+<SUBS 3>
+--- BLOCK [006] ---
+<SUBS 1>
+--- BLOCK [007] ---
+¿Quieres cenar, miau?
+--- BLOCK [008] ---
+<SUBS 0>
+La lengua del Felyne es muy sensible a
+los sabores, ¡y la mía, más!
+--- BLOCK [009] ---
+Alors, mi cocina es sabrosa de verdad.
+Puede que otros te tomen el pelo, pero
+este gato... ¡te roba la lengua, jo, jo!
+--- BLOCK [010] ---
+<SUBS 0>
+¡Aunque lleve ropa del Lejano Oriente,
+me enorgullezco de ser miaultilingüe!
+--- BLOCK [011] ---
+Entrrre mis ataques de arrojar la cena
+durante la travesía del Argosy, aprendí
+vuestro idioma con el capitán, miau.
+--- BLOCK [012] ---
+<SUBS 0>
+¡El Cerdo de musgo es delicioso! Las
+manitas son divinas, ¡y más con judías!
+--- BLOCK [013] ---
+Pero hay que lavarlo bien, o acabas
+comiendo más musgo que carne,
+¿oui?
+--- BLOCK [014] ---
+<SUBS 0>
+La Carne espinosa tiene espinas reales.
+¡Comerla es muy emocionante!
+--- BLOCK [015] ---
+Se diría que eso disuadiría a la gente,
+¡mais non! Para algunos, los pinchos son
+la mejor parte... ¡benditos sean!
+--- BLOCK [016] ---
+<SUBS 0>
+El Pez escama es un pez negro con la
+forma de una nota musical.
+--- BLOCK [017] ---
+Hasta los cocineros expertos encuentran
+difícil distinguirlo de un renacuajo.
+C'est vrai.
+--- BLOCK [018] ---
+<SUBS 0>
+La Medusa alga, ¿es una especie de alga,
+o una especie de medusa?
+--- BLOCK [019] ---
+Este enigmiau sigue provocando intensos
+debates entre los mejores estudiosos...
+--- BLOCK [020] ---
+<SUBS 0>
+Dicen que el Gambón era el hors d'oeuvre
+favorito de cierta dama de la realeza.
+--- BLOCK [021] ---
+¡Sus criados le hacían todo el trabajo
+de pelar y limpiar el marisco mientras
+ella se atiborraba! ¡Menuda vida!
+--- BLOCK [022] ---
+Mucha gente prrrefiere el pan sin
+corteza. ¡Pero el Pancorteza está hecho
+solo de ella! ¡Incroyable!
+--- BLOCK [023] ---
+Es una obrrra miauestra de pan. Y,
+sin embargo, no parece que tenga
+muchos seguidores...
+--- BLOCK [024] ---
+<SUBS 0>
+Las bolsas de Arroz Kokoto llevan la
+cara de un cazador legendario.
+--- BLOCK [025] ---
+Consiguieron permiso para usar su cara,
+pero no cometas el error de pensar que
+él mismo se come esa cosa, non non non.
+--- BLOCK [026] ---
+<SUBS 0>
+El Pan Jumbo viene de la aldea de
+Jumbo. Oui, es cierto.
+--- BLOCK [027] ---
+Este delicioso pan condujo a multitudes
+de turistas hambrientos a sus puertas y
+ahora el lugar está hecho una piltrafa.
+--- BLOCK [028] ---
+El Pan de cielo es muy popular.
+¿Has oído el eslogan? "Muerde
+los bollos del paraíso".
+--- BLOCK [029] ---
+Destruyeron a la competencia.
+Los consumidores no se tragaban lo de
+"Masca las llamas de la prisión eterna".
+--- BLOCK [030] ---
+<SUBS 0>
+Las papilas gustativas de un noble
+descubrrrieron la Megarrosquilla.
+--- BLOCK [031] ---
+Muchas rosquillas menores se quedaron en
+el camino antes de que el noble diera
+con la obra de un humilde panadero.
+--- BLOCK [032] ---
+La Cirulabaza es una planta resistente
+que crece y engorda en los terrenos
+más duros.
+--- BLOCK [033] ---
+Los productos gorditos me gustan tanto
+como la gente gordita. ¡Los buenos
+comedores merecen mi respeto, miau!
+--- BLOCK [034] ---
+<SUBS 0>
+El Puerro para cazar es una verdura
+grande y dura como una cachiporra.
+--- BLOCK [035] ---
+Dicen que, hace mucho tiempo, la gente
+usaba el Puerro para cazar... ¡Qué gran
+manera de prealiñar la carne!
+--- BLOCK [036] ---
+<SUBS 0>
+Las Cebordelletas parecen una zarpa con,
+¿cómo diríamos?, el dedo medio alzado.
+--- BLOCK [037] ---
+El nombre se debe a su forma ordinaria
+y borde. Algún idiota pensaría
+que era algo muy ingenioso...
+--- BLOCK [038] ---
+<SUBS 0>
+Muchos dicen que el Tomate gordo es el
+vegetal más jugoso del mundo...
+--- BLOCK [039] ---
+¡Otros dicen que no, que es una fruta!
+Entonces estalla la guerra y quien sufre
+es el Tomate gordo entre dos fuegos.
+--- BLOCK [040] ---
+<SUBS 0>
+La Trufa rey es un hongo legendario
+que antaño solo comían los reyes.
+--- BLOCK [041] ---
+¡Hasta la más fina rodaja alcanza
+un precio de susto en el mercado!
+--- BLOCK [042] ---
+<SUBS 0>
+El Queso musgoso es un fromage ambiguo
+que usa musgo en vez de levaduras.
+--- BLOCK [043] ---
+¡Me quito el sombrero ante el ingenio
+de su creador! Lástima que el sabor
+deje tanto que desear.
+--- BLOCK [044] ---
+<SUBS 0>
+La Leche salada surgió cuando un
+mayordomo cometió un simple error.
+--- BLOCK [045] ---
+Le puso sal en vez de azúcar ¡y resultó
+sorprendentemente sabrosa! O eso dicen.
+A miau no me gusta mucho.
+--- BLOCK [046] ---
+<SUBS 0>
+Como podrrrías esperar, el Queso real
+rebosa de sabor aristocrático.
+--- BLOCK [047] ---
+Yo podría vivir de eso y de Vino bendito
+durante un miaues entero... o, al menos,
+estaría encantado de intentarlo. *Rrrr*
+--- BLOCK [048] ---
+<SUBS 0>
+La Manteca Kirin es famosa por su
+aspecto... ¡si consigues verla!
+--- BLOCK [049] ---
+Fíjate, es totalmente invisible a simple
+vista. Y cuidado con las manchas, ¿miau?
+¡Limpiarlas sería bastante fastidioso!
+--- BLOCK [050] ---
+URRRP. Oh la la, qué mal estoy del
+estómago... Discúlpame mientras me purgo
+del almuerrrzo de hoy. ¡BLURRRG!
+--- BLOCK [051] ---
+Ah, estas zarpas, este genio... ¡no
+están hechos pour la mer! Yo soñaba con
+imaginar las mejores recetas del mundo.
+--- BLOCK [052] ---
+No con regurgitarlas. *Ejem, puagh*
+¡Non, non!
+--- BLOCK [053] ---
+¡No más voyages por mar! Un chef de
+mi categoría merece una cocina que
+se esté quieta.
+--- BLOCK [054] ---
+Por suerte, tu Jefe tuvo la amabilidad
+de permitir que me quedara aquí. A
+cambio, le ofrezco mis servicios, miau.
+--- BLOCK [055] ---
+¡Ofrrrezco lo último en miaugia
+culinaria! Prrrueba mis platos y verás
+que ganas Salud, Ataque y otrrras cosas.
+--- BLOCK [056] ---
+Antes de que cocine, debes elegir
+dos cosas: ¡los ingrrredientes y
+el método de prrreparación!
+--- BLOCK [057] ---
+Si tu elección no es de buena calidad,
+al rrresultado final le faltará cierto
+je ne sais miau.
+--- BLOCK [058] ---
+En cualquier caso, tengo una estrrricta
+política de lamer el plato. Si yo lo
+cocino, tú te lo comes. ¿Oui, oui?
+--- BLOCK [059] ---
+¡Ah, ten cuidado! Los efectos de mis
+delicatessen solo duran una caza.
+¡Cuando vuelves, se acabó!
+--- BLOCK [060] ---
+Alors, tengo que preparar la Cantina
+para servir a la buena gente de la Aldea
+de Moga. Ten paciencia, por favorrr.
+--- BLOCK [061] ---
+¡Mon Dieu! ¡El Bistró funciona
+a la perrrfección! ¡Y todo, gracias
+a tu gestión, miau!
+--- BLOCK [062] ---
+Por eso, voy a ofrrrecer ingredientes
+de grano de alto nivel a mis clientes.
+Una buena oferta, ¿oui?
+--- BLOCK [063] ---
+Con ingredientes de alto nivel, los
+platos aumentan aún más tu Salud.
+¡La joie de vivre gastronómica!
+--- BLOCK [064] ---
+El futurrro de la aldea se ve ahora más
+prrrometedor, ¿oui? ¡Très bien!
+--- BLOCK [065] ---
+De hecho, ahora puedo almacenar más
+ingredientes miaugníficos que nunca.
+--- BLOCK [066] ---
+¡Yuju! Ya estoy ofreciendo a mis
+clientes ingredientes de grano de alto
+nivel. ¡Es el último maullido!
+--- BLOCK [067] ---
+Con ingredientes de alto nivel, los
+platos aumentan aún más tu Salud.
+¡Es lo más en la haute cuisine!
+--- BLOCK [068] ---
+Oh la la... Parece que la famosa leche
+de la Aldea de Moga se va a estropear...
+Estamos perrrrdidos, miau...
+--- BLOCK [069] ---
+¡Mais non! ¡En momentos difíciles como
+este, los dotados para la cocina tienen
+el deber de prrroporcionar comida!
+--- BLOCK [070] ---
+Disponte a cenar, buen cazador.
+Mis platos están a punto de alcanzar
+la perrrfección, ¡miau!
+--- BLOCK [071] ---
+¡Qué noticias llegan a mis oídos! ¡Has
+podido con el Lagiacrus marmóreo! ¡Très
+bien! ¡Magnifique, cazador!
+--- BLOCK [072] ---
+La comida sabe mejor cuando tienes
+el ánimo ligero, ¿oui?
+--- BLOCK [073] ---
+Toda la aldea está asombrrrada contigo,
+¡incluso el jefe y el capitán!
+¡Hoy mis delicatessen serán divinas!
+--- BLOCK [074] ---
+Un buen cazador es como un pinche.
+¡Y tú eres el pinche mejor de
+todos los pinches! ¡Muy bien, miau!
+--- BLOCK [075] ---
+¡Bienvenido a mi Bistró!
+--- BLOCK [076] ---
+¡Bienvenu, miauvenido!
+--- BLOCK [077] ---
+¡Oui, oui, très bien!
+--- BLOCK [078] ---
+¡Los ingrrredientes son hoy aún mejores!
+--- BLOCK [079] ---
+¡Bonjour, buen cazador!
+--- BLOCK [080] ---
+¿Hay hambre? Es la hora del almiaurzo.
+--- BLOCK [081] ---
+¡Au revoir, buen cazador!
+--- BLOCK [082] ---
+¡Bonne journée, buen cazador!
+--- BLOCK [083] ---
+¡Vuelve pronto! ¡Mi bistró te espera!
+--- BLOCK [084] ---
+¡Miaurci beaucoup!
+--- BLOCK [085] ---
+¡Espero que esté, como decís, al punto!
+--- BLOCK [086] ---
+(!)
+--- BLOCK [087] ---
+¡Come a placer! He prrreparado
+un menú especial solo para ti.
+--- BLOCK [088] ---
+Puedo hablarte más de los ingrrredientes
+si hablas conmigo sin tomar asiento.
+--- BLOCK [089] ---
+¡Bienvenido, miau!
+¿Qué vas a tomar?
+--- BLOCK [090] ---
+¡Avanza y disfrrruta de las muchas
+delicias gastrrronómicas de la Cantina!
+--- BLOCK [091] ---

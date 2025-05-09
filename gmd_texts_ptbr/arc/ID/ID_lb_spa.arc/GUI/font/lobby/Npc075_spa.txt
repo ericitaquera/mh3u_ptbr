@@ -1,0 +1,161 @@
+TMSG_NPC075_0
+--- BLOCK ---
+TMSG_NPC075_1
+--- BLOCK ---
+TMSG_NPC075_2
+--- BLOCK ---
+TMSG_NPC075_3
+--- BLOCK ---
+TMSG_NPC075_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Eu estive esperando por você, caçador.
+--- BLOCK ---
+Dias tranquilos como hoje me dão
+vontade de viver como um Felyne...
+--- BLOCK ---
+O que posso fazer por você?
+--- BLOCK ---
+<SUBS 0>
+Parece que tenho alguns cartões da
+Guilda para você, caçador.
+--- BLOCK ---
+<SUBS 0>
+Você se importaria de dar uma
+olhada na bolsa, caçador?
+--- BLOCK ---
+<SUBS 0>
+Parece que consegui uma entrega
+especial com seu nome, caçador.
+--- BLOCK ---
+<SUBS 0>
+Hoje tenho ótimas notícias para
+você, caçador! Tem correio!
+--- BLOCK ---
+<SUBS 0>
+Você tem mais cartas do que
+vidas de um Felyne, caçador.
+--- BLOCK ---
+<SUBS 0>
+Mãe miau! Hoje tem um montão de
+cartões da Guilda aqui, caçador!
+--- BLOCK ---
+<SUBS 0>
+É muito impressionante a quantidade
+de correio que você tem, caçador!
+--- BLOCK ---
+<SUBS 0>
+Caçador, essa bolsa está tão pesada
+que mal consigo movê-la!
+--- BLOCK ---
+<SUBS 0>
+Parece que você tem muitos amigos. Só
+olhe toda a correspondência que você recebe!
+--- BLOCK ---
+Caçador! Aceite este presente como uma
+mostra do meu apreço. Obrigado por
+utilizar o Serviço de mensageria, miau!
+--- BLOCK ---
+Meu trabalho é entregar cartões da
+Guilda para caçadores do mundo inteiro.
+--- BLOCK ---
+O Serviço de mensageria é importante.
+Porque unimos os caçadores, miau!
+--- BLOCK ---
+Vou deixar esses cartões da Guilda na
+sua Caixa de cartões da Guilda, miau.
+--- BLOCK ---
+Saudações, caçador. Bem-vindo
+ao Serviço
+de mensageria!
+--- BLOCK ---
+Bem-vindo ao Serviço de mensageria.
+É um prazer vê-lo!
+--- BLOCK ---
+É um prazer conhecê-lo! Sou o carteiro
+que leva o Serviço de mensageria. Unimos
+caçadores de todo o mundo, miau.
+--- BLOCK ---
+Existem muitos portos no mar
+e diversos caçadores trabalham
+em cada um deles.
+--- BLOCK ---
+Claro, a maioria dos caçadores
+está ocupada demais caçando para
+viajar ou conhecer novas pessoas...
+--- BLOCK ---
+Mas é aí que entra o Serviço
+de mensageria! Com o StreetPass, você
+troca cartões da Guilda com desconhecidos!
+--- BLOCK ---
+Registre seus dados do StreetPass e comece
+a enviar seu cartão da Guilda para
+outros portos de caçadores. Legal, né?
+--- BLOCK ---
+Ah, quando os cartões da Guilda de
+outros caçadores chegarem, eu os guardarei na
+sua Caixa de cartões da Guilda.
+--- BLOCK ---
+O que me diz? Quer registrar
+seus dados do StreetPass para
+o Monster Hunter 3 Ultimate?
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Boooom dia!
+--- BLOCK ---
+Hoje está um dia perfeito.
+--- BLOCK ---
+É uma linda manhã, não acha?
+--- BLOCK ---
+Miaulá!
+--- BLOCK ---
+Olá! Aqui é o Serviço de mensageria.
+--- BLOCK ---
+Miau... quanta correspondência.
+--- BLOCK ---
+Volte logo, miau.
+--- BLOCK ---
+Espero ter mais correspondências em breve!
+--- BLOCK ---
+Boa caçada, caçador.
+--- BLOCK ---
+Estarei esperando por você.
+--- BLOCK ---
+Oferecemos todos os serviços postais.
+--- BLOCK ---
+Parece que acabou de chegar...
+--- BLOCK ---
+Talvez eu vá pegar um pouco de vida de Felyne.
+--- BLOCK ---
+Certificado da Guilda 100%.
+--- BLOCK ---
+Onde há correio, há felicidade.
+--- BLOCK ---
+Fazemos entregas para o mundo inteiro.
+--- BLOCK ---
+Entrega no mesmo dia, garantida!
+--- BLOCK ---
+Vamos te ajudar a fazer novos amigos!
+--- BLOCK ---
+Quer ver seus cartões?
+--- BLOCK ---
+O negócio postal é bem exigente.
+--- BLOCK ---
+Poder Peco, miau!
+--- BLOCK ---
+Com sono? Eu não. Acabei de dormir.
+--- BLOCK ---
+Sem pressa, caçador. Tenho o dia todo.
+--- BLOCK ---
+Como é que ninguém me escreve?
+--- BLOCK ---

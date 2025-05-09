@@ -1,0 +1,222 @@
+﻿TMSG_NPC084_0
+--- BLOCK ---
+TMSG_NPC084_1
+--- BLOCK ---
+TMSG_NPC084_2
+--- BLOCK ---
+TMSG_NPC084_3
+--- BLOCK ---
+TMSG_NPC084_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+Ah, ¿has oído? Ese molino
+aprovecha la brisa del océano para
+alimentar la forja. ¡Es muy ingenioso!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+¿Has oído? Ese molino que gira
+alimenta todo el equipamiento
+de las forjas aquí. 
+--- BLOCK ---
+Se le habrá ocurrido a algún tacaño
+porque el viento es gratis, ¿miau? ¡Pero
+ahora toda Tanzia se beneficia de eso!
+--- BLOCK ---
+¿Has oído la historia detrás del bonito
+faro allá en la distancia?
+--- BLOCK ---
+Bueno, hace mucho, mucho, muuuucho
+tiempo, ¡apareció un enorme dragón
+anciano y se llevó todo por delante!
+--- BLOCK ---
+Corría desbocado por la tierra, y hasta
+provocó que algunas islas se hundieran
+hasta el fondo del mar...
+--- BLOCK ---
+Entonces nuestros ancestros reunieron su
+sabiduría y recursos para desafiar a la
+bestia, y al final se logró la victoria.
+--- BLOCK ---
+Los pocos supervivientes se juntaron
+para construir una aldea, ¡y ese pequeño
+pueblo se convirtió en Puerto Tanzia!
+--- BLOCK ---
+Ah, sí. El faro. Sí, bueno, construyeron
+el faro como altar para los dioses.
+Para ahuyentar el mal y eso.
+--- BLOCK ---
+¡Ahora se le conoce en todo el mundo
+como el símbolo de Puerto Tanzia!
+Es la leche, ¿no?
+--- BLOCK ---
+Hay una zona del océano aquí cerca
+llamada el Mar contaminado. Vaya nombre,
+¿eh? No sé por qué lo llaman así.
+--- BLOCK ---
+Bueno, es que es un punto del océano
+completamente normal. Los barcos
+mercantes lo cruzan mucho sin problemas.
+--- BLOCK ---
+¡Y está repleto de sabrosos peces!
+Me entra hambre solo de pensarlo...
+Mmmrrraaaauuuuu...
+--- BLOCK ---
+¿Has oído? Si estás buscando el
+Gremio, deberías mirar en esas
+grandes tiendas de allí.
+--- BLOCK ---
+Los cazadores tienen una relación
+simbiótica con el Gremio. ¡Uno les
+da misiones y los otros las terminan!
+--- BLOCK ---
+Deberías acercarte tú mismo al
+Gremio. ¡Seguro que les encanta
+ayudar a un gran cazador como tú!
+--- BLOCK ---
+¿Has oído? ¡Hay un famoso
+restaurante Felyne dentro del Gremio!
+--- BLOCK ---
+Es el único restaurante de Puerto Tanzia
+que tiene tres estrellas: ¡El asador
+Tanzyne! ¡Solo busca el caldero gigante!
+--- BLOCK ---
+¡Sirven una versión estupenda de la Sopa
+de pescado de Tanzia! Es el plato
+tradicional de esta zona.
+--- BLOCK ---
+¡Te doy la bienvenida a Puerto Tanzia,
+el Oasis del mar! Parece que llegas
+de un largo viaje, ¿miau?
+--- BLOCK ---
+Tanzia es un importante eje del comercio
+global. Nuestro símbolo es el faro
+que ves en la distancia.
+--- BLOCK ---
+Si te pierdes, pregunta a un
+lugareño. ¡Siempre estamos
+dispuestos a ayudar!
+--- BLOCK ---
+¡He oído que eres Cazador de élite!
+¡Es fantástico!
+--- BLOCK ---
+¡La gente clama tus hazañas
+por toda Tanzia!
+--- BLOCK ---
+*Sniff* Mmm... ¡Hasta HUELES como
+un cazador famoso! Deben de ser esos
+sabrosos monstruos que cazas...
+--- BLOCK ---
+Bueno, no puedo esperar a ver qué haces
+con todas las misiones de rango alto.
+¡Saca las uñas, miau!
+--- BLOCK ---
+¡He oído que eres Maestro cazador!
+¡Es magnífico!
+--- BLOCK ---
+¡Eres lo más grande que ha pasado por
+Tanzia después del pescado!
+--- BLOCK ---
+Pero ahora tendrás que enfrentarte a
+misiones de rango G. ¡Y esas
+hacen que hasta un Felyne adulto aúlle!
+--- BLOCK ---
+¡Necesitarás toda tu habilidad! ¡Todos
+tus sentidos! ¡Todos los cientos
+de horas de experiencia cazando!
+--- BLOCK ---
+Pero sé que puedes hacerlo. ¡Hueles
+a victoria! Y también a pescado.
+Pero sobre todo a victoria.
+--- BLOCK ---
+¡AUUUU! ¡He oído la peor de
+las noticias en el Gremio!
+--- BLOCK ---
+¡Alguien vio un dragón anciano cerca
+del Mar contaminado! ¡Dicen que
+parece un enorme volcán!
+--- BLOCK ---
+Hasta le sale lava del cuerpo y todo
+eso. ¡Está tiñendo el océano de rojo
+sangre! ¡Ay, la humanidad!
+--- BLOCK ---
+Para rematarlo, no tenemos noticias
+del valiente barco de observación que
+avistó a la bestia por primera vez...
+--- BLOCK ---
+¿Un dragón anciano tan cerca de Tanzia?
+¡Es el apocalipsis!
+--- BLOCK ---
+¡Fantástico! ¡Maravilloso!
+¡El último maullido Felyne!
+--- BLOCK ---
+¡Has vencido al Miralis funesto y nos
+has salvado de nuestro horrible sino!
+--- BLOCK ---
+¡El Gremio se ha vuelto loco! ¡He
+oído que el maestro del Gremio está
+invitando a bebidas y a vid Felyne!
+--- BLOCK ---
+Por fin podemos volver a nuestra vida
+normal. ¡Todos en Tanzia son felices!
+--- BLOCK ---
+Yo personalmente me voy a dar un
+atracón de pescado y leche. ¡Puede que
+moje el pescado en la leche! ¡Ja, ja!
+--- BLOCK ---
+¿Sabes? Sabía que ibas a ser un gran
+cazador en cuanto te vi. Lo supe
+por tu aroma.
+--- BLOCK ---
+Toma, miau. Quiero darte
+esto como muestra de mi aprecio.
+--- BLOCK ---
+¡Justo a tiempo, miau! ¡Tengo
+un regalito para ti!
+--- BLOCK ---
+Uno de tus amigos me dijo que te
+diera esto. No recuerdo quién,
+pero acéptalo, por favor.
+--- BLOCK ---
+¿Ya vas conociendo esto?
+--- BLOCK ---
+¡Hola, Cazador de élite!
+--- BLOCK ---
+¡El faro está tan claro hoy!
+--- BLOCK ---
+¡Me encanta esta brisa marina!
+--- BLOCK ---
+¿Vas a dar un paseo, cazador?
+--- BLOCK ---
+¡Cuídate, miau!
+--- BLOCK ---
+¡Vuelve pronto!
+--- BLOCK ---
+¡Buen viaje, miau!
+--- BLOCK ---
+¡Cuidado ahí fuera!
+--- BLOCK ---
+¡Nos vemos!
+--- BLOCK ---
+¡Vuelve cuando quieras!
+--- BLOCK ---
+¿Te interesan las condiciones
+de Puerto Tanzia?
+--- BLOCK ---
+Tanzia hoy tiene este aspecto.
+--- BLOCK ---
+¡Miau! ¡Tengo una escama de bagre
+en los bigotes! ¿Eh? ¿Estás aquí
+para hablar sobre el puerto?
+--- BLOCK ---
+¡Miau, miau, miau, miarramiamiauuuu!
+¿Eh? Ah, perdón. Me he distraído.
+Las condiciones de hoy, ¿sí? ¡Sí!
+--- BLOCK ---
+(!)
+--- BLOCK ---

@@ -1,0 +1,53 @@
+﻿TMSG_NPC077_0
+--- BLOCK ---
+TMSG_NPC077_1
+--- BLOCK ---
+TMSG_NPC077_2
+--- BLOCK ---
+TMSG_NPC077_3
+--- BLOCK ---
+TMSG_NPC077_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Hola, encanto. Hoy tengo
+un montón de artículos raros para ti.
+--- BLOCK ---
+Hola, cariño. Hoy tengo este viejo
+saco lleno de artículos rebajados.
+¡Todo a mitad de precio!
+--- BLOCK ---
+Hola, encanto. Hoy ha sido uno de mis
+mejores días: ¡tengo a la venta
+unos artículos especialmente raros!
+--- BLOCK ---
+¿Te gustaría examinar mi colección?
+--- BLOCK ---
+¡Saludos! Seguro que no te lo esperas
+de alguien como yo, pero he vendido
+mis mercancías por todo el mundo.
+--- BLOCK ---
+Tengo un saco lleno de artículos que no
+encontrarás fácilmente por aquí; pégame
+un grito si ves algo que te gusta.
+--- BLOCK ---
+A veces yo también me topo con buenas
+ofertas en mis viajes, así que vuelve a
+menudo. ¡Tú también ahorrarás!
+--- BLOCK ---
+Ahora hazme un favor y 
+echa un vistazo a mis mercancías.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Gracias por venir, cariño. Pégame
+un grito si necesitas algo más.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Avísame si necesitas algo, cariño.
+--- BLOCK ---
+No te cortes, ¿eh? ¡Je, je!
+--- BLOCK ---

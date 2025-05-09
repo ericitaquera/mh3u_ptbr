@@ -1,0 +1,236 @@
+﻿TMSG_NPC011_0
+--- BLOCK [001] ---
+TMSG_NPC011_1
+--- BLOCK [002] ---
+TMSG_NPC011_2
+--- BLOCK [003] ---
+TMSG_NPC011_3
+--- BLOCK [004] ---
+TMSG_NPC011_4
+--- BLOCK [005] ---
+Bueno...
+¿Qué puedo hacer por ti?
+--- BLOCK [006] ---
+¡No te cortes, colega!
+--- BLOCK [007] ---
+No puedo pescar, el capitán de la flota
+sigue haciendo el ganso y la tripulación
+del Lanzanegra escribiendo salomas.
+--- BLOCK [008] ---
+Ahora que lo pienso, siempre dijo que
+quería ser bardo... Pero yo,
+¡yo quiero pescar!
+--- BLOCK [009] ---
+Venga... mantén la calma. Alguien
+de la flota tiene que pensar en frío.
+--- BLOCK [010] ---
+<SUBS 1>
+--- BLOCK [011] ---
+<SUBS 0>
+¡El capitán de la flota ha aprobado
+el arreglo de mi barco!
+--- BLOCK [012] ---
+Pero necesitamos un montón de materiales
+de monstruo para empezar... ¡Cuento
+contigo para eso, coleguilla!
+--- BLOCK [013] ---
+¡Gracias anticipadas!
+<SUBS 1>
+--- BLOCK [014] ---
+<SUBS 0>
+¡Tío! ¡Tener un barco capaz de navegar
+es la mejor sensación del mundo!
+--- BLOCK [015] ---
+La Flota de caza ha vuelto a la acción.
+¡Ya era hora! ¡Pescar es toda mi vida!
+<SUBS 1>
+--- BLOCK [016] ---
+<SUBS 0>
+¡Con el Lanzanegra ya reparado, la flota
+ha vuelto a la normalidad!
+--- BLOCK [017] ---
+Si, tres barcos son el número mágico
+para esta Flota de caza.
+--- BLOCK [018] ---
+¡Muy bien! A callar y a pescar. ¡Dinos
+si necesitas ayuda, grumete!
+<SUBS 1>
+--- BLOCK [019] ---
+<SUBS 0>
+En el océano viven tantos monstruos
+como en tierra, o tal vez más.
+--- BLOCK [020] ---
+Así que la Flota de caza siempre está en
+la línea de fuego de los ataques de
+monstruo. Es una profesión peligrosa.
+--- BLOCK [021] ---
+Claro que podríamos cazar monstruos,
+pero no es nuestra especialidad. ¡Para
+eso necesitaríamos un barco más grande!
+--- BLOCK [022] ---
+Pero cazar peces es lo nuestro. ¡Tú
+deja que los cojamos!
+<SUBS 1>
+--- BLOCK [023] ---
+<SUBS 0>
+--- BLOCK [024] ---
+Oh, no...
+Justo cuando creía que el Lagiacrus se
+había ido, sufrimos otro terremoto...
+--- BLOCK [025] ---
+Supongo que ahora es cuando debería
+hacerme el valiente y el duro...
+Pero olvídalo, ¡estoy aterrorizado!
+--- BLOCK [026] ---
+<SUBS 1>
+--- BLOCK [027] ---
+Increíble... simplemente... increíble.
+--- BLOCK [028] ---
+¡No te lo vas a creer, colega!
+¡Nos hemos topado con un Lagiacrus!
+--- BLOCK [029] ---
+¡Estábamos preparando nuestras redes
+cuando la bestia salió del agua!
+--- BLOCK [030] ---
+Hundió casi toda la flota. Todo
+ocurrió en apenas un segundo... ¡Tuvimos
+suerte de escapar con vida!
+--- BLOCK [031] ---
+Solo queda a flote uno de los barcos de
+toda la flota. Supongo que la temporada
+de pesca se ha acabado... para siempre.
+--- BLOCK [032] ---
+¿Y sabes qué es lo peor? El capitán
+de flota no paraba de hacer chistes,
+como si no pasara nada malo...
+--- BLOCK [033] ---
+Bueno... tengo que mantener la calma.
+¿A quién pretendo engañar? ¡La pesca
+es mi vida! *Sollozo*
+--- BLOCK [034] ---
+<SUBS 0>
+Arrgh...
+Tan cerca... Estoy tan cerca...
+--- BLOCK [035] ---
+Un poco más de trabajo en las jarcias
+y el Lanzarroja volverá a estar en
+condiciones. ¡Peces, allá voy!
+--- BLOCK [036] ---
+Y todo gracias a ti, colega.
+¡El material de Ludroth que conseguiste
+ha resultado muy útil en la reparación!
+--- BLOCK [037] ---
+Está claro que me haré a la mar antes
+que el Lanzanegra. ¡Peor para él!
+<SUBS 1>
+--- BLOCK [038] ---
+Eh, tú eres el cazador de Moga, ¿no?
+¿Sabes qué?
+--- BLOCK [039] ---
+¡Mi barco está arreglado y en perfectas
+condiciones! ¡Por fin puedo volver
+a la misión de pesca!
+--- BLOCK [040] ---
+Y todo gracias a que cazaste
+esos Ludroth reales. ¡Te debo
+una, coleguilla!
+--- BLOCK [041] ---
+Me preocupa el payaso del capitán
+de la flota. Si ocurriera algo
+malo, ¡él empeoraría las cosas!
+--- BLOCK [042] ---
+La fuerza de la flota reside en
+su tamaño. ¡Ya estoy listo para pescar!
+¡Tengo ganas de trabajar contigo!
+--- BLOCK [043] ---
+El capitán y yo no tenemos por qué ir
+al mismo sitio. ¡Nos ocuparemos de tus
+necesidades de pesca! Como suelen decir:
+--- BLOCK [044] ---
+¡A callar y pescar!
+--- BLOCK [045] ---
+Piénsatelo, coleguita. ¿Tienes idea de
+a lo que te enfrentas? Cosas malas,
+colega, muy malas...
+--- BLOCK [046] ---
+Mi barco ha estado a un golpe de
+convertirse en submarino. ¡En serio!
+--- BLOCK [047] ---
+El Lagiacrus es demasiado fuerte. Nadie
+puede con él, ¡ni siquiera tú, colega!
+--- BLOCK [048] ---
+¡No merece arriesgar la vida en la caza!
+Pide disculpas al Jefe y abandona...
+¡ahora que aún conservas la cabeza!
+--- BLOCK [049] ---
+Iré contigo para darte apoyo moral.
+Después de todo, aún te debo una por
+ayudarme a reconstruir mi barco.
+--- BLOCK [050] ---
+Por fin vas a matar a ese Lagiacrus
+de una vez por todas, ¿eh, colega?
+--- BLOCK [051] ---
+Conseguiste ahuyentarlo una vez, así
+que a lo mejor tienes lo que hace falta
+para llegar hasta el final...
+--- BLOCK [052] ---
+Presta atención: el golpe especial del
+Lagiacrus son las descargas eléctricas.
+--- BLOCK [053] ---
+Sufrir los ataques del elemento Trueno
+provoca Plaga de trueno, ¡que te hace
+más propenso a quedar aturdido!
+--- BLOCK [054] ---
+¡Pero comiendo una curibaya se cura la
+Plaga de trueno! ¡Si tienes alguna,
+no tardes en echártela al gaznate!
+--- BLOCK [055] ---
+¡Uuuuuuh, aaaaah!
+--- BLOCK [056] ---
+¡No me puedo creer que ahuyentaras
+al Ceadeus, colega! ¿Eres el rey
+de los cazadores, o algo así?
+--- BLOCK [057] ---
+Eso significa que podemos seguir
+pescando aquí siempre, ¿verdad?
+¡La temporada de pesca nunca acabará!
+--- BLOCK [058] ---
+¡Me has animado mucho, colega! Sé que
+lo único que se me da bien es pescar
+un día sí y otro también...
+--- BLOCK [059] ---
+Pero desde ahora, voy a pescar el doble
+que antes. ¡Nos has dado una segunda
+oportunidad y no la desperdiciaré!
+--- BLOCK [060] ---
+¡Colega, colega, colega!
+--- BLOCK [061] ---
+¡Te has quitado de en medio un Lagiacrus
+marmóreo! ¡No puedo creerlo! Vale, me lo
+creo, ¡pero, de todas formas,...!
+--- BLOCK [062] ---
+Supongo que nada se te resiste cuando
+te esfuerzas lo suficiente...
+--- BLOCK [063] ---
+¡Me has enseñado una lección importante,
+colega! Si antes me veías entregado a
+la pesca, ¡verás ahora!
+--- BLOCK [064] ---
+¡Hola, colega!
+--- BLOCK [065] ---
+¡Hola!
+--- BLOCK [066] ---
+¡Eh, colega!
+--- BLOCK [067] ---
+¡Estoy deseando pescar!
+--- BLOCK [068] ---
+Hasta luego, coleguilla.
+--- BLOCK [069] ---
+La pesca es mi misión, ¿sabes?
+--- BLOCK [070] ---
+¡Cuídate, colega!
+--- BLOCK [071] ---
+(!)
+--- BLOCK [072] ---
+(!)
+--- BLOCK [073] ---

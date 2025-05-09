@@ -1,0 +1,382 @@
+TMSG_NPC081_0
+--- BLOCK ---
+TMSG_NPC081_1
+--- BLOCK ---
+TMSG_NPC081_2
+--- BLOCK ---
+TMSG_NPC081_3
+--- BLOCK ---
+TMSG_NPC081_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+<SUBS 0>
+Maravilhoso! Devo ser o melhor
+instrutor do mundo!
+--- BLOCK ---
+Encontrei um fornecedor para as minhas
+bebidas que me oferece um
+negócio autêntico! Tudo parece perfeito!
+--- BLOCK ---
+Para fazer dinheiro é preciso dinheiro, e
+eu estou prestes a encher os bolsos!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Acredite se quiser, certa vez conduzi uma pequena sala
+de treinamento! Foi incrivelmente desafiador!
+--- BLOCK ---
+Mas estava destinado a algo maior, e
+chegou o dia em que me
+libertei daquele trabalho tão mal remunerado!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Olhe para minha pele lindamente bronzeada. Estou
+mais moreno do que um bife ao ponto!
+--- BLOCK ---
+Ficarias bem em colocar óculos de
+sol quando sorrio, ou serás deslumbrado
+pelos meus dentes de ouro!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Ainda passa a vida fazendo coisas perigosas
+como caçar? Ha, ha, ha!
+--- BLOCK ---
+O dinheiro é meu amigo mais
+querido, depois dos amigos que aparecem
+magicamente quando tiro umas notas!
+--- BLOCK ---
+Ah... O que há de melhor do que beber
+algo após um dia duro de não fazer
+nada! Meu conselho: enriqueça o mais rápido possível!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Que vida miserável, que mundo cruel...
+Isso me cala até os ossos...
+--- BLOCK ---
+Ah, tu me lembras os meus velhos tempos, antes
+de ser rico. Não há nada como passar por
+maus bocados para manter os pés no chão!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Um instante...
+--- BLOCK ---
+Mmm... São 20 zenis pelas bebidas.
+Espera, pedi filés de Kelbi também,
+então são mais 5 zenis...
+--- BLOCK ---
+Desculpa. Já faz muito tempo que
+não tenho orçamento. Não é assim
+tão terrível e absolutamente terrível!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Uau... Faz anos que não caço. Estou tão
+enferrujado quanto minha arma!
+--- BLOCK ---
+Vasculhei todas as áreas de caça,
+mas acabei ficando sem tempo antes
+de encontrar o monstro que procurava.
+--- BLOCK ---
+Mas caçar é como andar de
+barco na areia: nunca se esquece!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Estava perseguindo um Lagiacrus, quando
+percebi que a caça aquática é a minha praia!
+--- BLOCK ---
+A eletricidade, o indicador de oxigênio
+baixando, a comodidade de os Felyne
+te levarem de volta ao acampamento.
+--- BLOCK ---
+Ahh... Estou tão feliz por voltar
+a caçar! Sinto-me tão vivo!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Sinta essa brisa marinha! Nem um
+grãozinho de areia!
+--- BLOCK ---
+Sabes, antes trabalhava numa cidade no
+deserto. A areia entrava em
+todo lugar. Em TODO lugar.
+--- BLOCK ---
+Sentia-me arenoso mesmo depois de horas a lavar. Chegou
+um ponto em que tomar banho era uma
+perda de tempo. Sinto falta de pular banhos.
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Ha! Acabaste de encontrar o melhor instrutor
+de caça errante do mundo! Deve
+ser o teu dia de sorte!
+--- BLOCK ---
+Também já fui um pobre diabo como
+tu. Ganhei a vida de vila
+em vila instruindo aprendizes de caçador.
+--- BLOCK ---
+Todos os dias me viro... Dizem
+que o dinheiro não traz felicidade,
+mas a pobreza compra muita infelicidade!
+--- BLOCK ---
+Foi então que ouvi falar
+desta oportunidade única! Dizem que
+neste porto vendem caldos baratíssimos.
+--- BLOCK ---
+Se as negociações correrem bem, a minha nova
+morada será na Rua Fácil. Talvez nomeie uma
+ala da minha mansão com o teu nome!
+--- BLOCK ---
+Ha! Acabaste de conhecer o melhor
+empresário do mundo. O prazer é
+todo teu, tenho a certeza.
+--- BLOCK ---
+Antes era um orgulhoso caçador; perseguia bestas
+temíveis e fazia a dança do um-dois
+uma e outra vez para sobreviver.
+--- BLOCK ---
+É verdade: ser pobre é terrível, e
+ninguém era mais terrível do que eu!
+--- BLOCK ---
+Mas acabaram-se aqueles tristes dias de caça
+(muito perigo por pouco dinheiro)! Chega de
+espremer a vida até o fim!
+--- BLOCK ---
+Após anos a aperfeiçoar a destilaria, a
+minha obra-prima, a Master Cola, triunfou! E
+a versão local, Mosto de Tanzia!
+--- BLOCK ---
+Fez sucesso em Tanzia e agora é
+a bebida mais na moda na
+indústria! Os caçadores bebem litros dela!
+--- BLOCK ---
+Toma, vou te dar algo para provar. Como
+é o sabor? Sabe a SUCESSO. E há
+mais de onde veio isso! Ha, ha!
+--- BLOCK ---
+Ha, ha, ha! Ah, olá, não te
+tinha visto. Porque me olhas assim? Queres
+saber por que rio como um louco?
+--- BLOCK ---
+Falaram-me de uma forma ainda mais
+barata de comprar caldos. Quase que
+sinto pena da minha concorrência. Quase!
+--- BLOCK ---
+Outra vez esse olhar? Ei, não julgues
+alguém até teres andado com os sapatos
+de pele de Lagiacrus enfeitados com joias!
+--- BLOCK ---
+Estou tão ocupado que nem me dou ao
+luxo de caçar. O tempo é dinheiro! Tic,
+tac. Tic, tac. Perco zenis a falar!
+--- BLOCK ---
+Tudo está a correr às mil maravilhas,
+caçador. Escava em mim e talvez encontres
+uma moeda. Usa-a para comprar uma pista!
+--- BLOCK ---
+*Golada* *Golada*
+*Gole*
+--- BLOCK ---
+*Soluço* *Soluço*
+Estou... Estou
+arruinado... *Gole*
+--- BLOCK ---
+Ah, tu... Porque me olhas assim?
+Tu... Realmente te importas comigo? Uau.
+Nunca pensei que fosses desse tipo.
+--- BLOCK ---
+Bem, já me conheces. Sempre à procura de
+formas de expandir o meu negócio. E porque
+não? A ganância é boa, não é?
+--- BLOCK ---
+Conheci um mercador que quase dava caldos. E
+mordi a isca, a linha e o anzol.
+Até lhe dei o meu último zeni!
+--- BLOCK ---
+Acabou por ser uma fraude! Acho
+que a minha sorte acabou...
+--- BLOCK ---
+Esse mercador era na verdade um pirata,
+com perna de pau, papagaio e tudo!
+Caí na mais antiga das artimanhas!
+--- BLOCK ---
+Ha, ha, ha! Do mais alto
+ao mais baixo num instante! Sou
+tão crédulo? É uma pergunta retórica.
+--- BLOCK ---
+Ai de mim! Ai de mim! De volta
+a comer carne barata e feijão enlatado. Poderia
+ser pior, não é? Não!? Ha, ha! *Soluço*
+--- BLOCK ---
+Toma esta miséria, ladrão! Tem
+piedade de mim... sou o
+empresário mais arruinado do mundo!
+--- BLOCK ---
+Toma isso! Estava à procura de
+algumas migalhas de carne no Gremio
+quando ouvi uns tipos a falar...
+--- BLOCK ---
+Diziam que uma frota de
+navios do Gremio desapareceu
+perto do Mar contaminado!
+--- BLOCK ---
+Chamam-lhe o Mar contaminado, mas aquela
+parte do oceano sempre foi calma.
+Os navios do Gremio navegavam bem.
+--- BLOCK ---
+Mas agora... Toda uma frota, perdida! É
+como o pesadelo de um marinheiro!
+--- BLOCK ---
+E essa não é a pior parte!
+Esses tipos culpavam o desaparecimento de
+um monstro desconhecido, algo muito estranho!
+--- BLOCK ---
+Estão a formar uma equipa para matar a
+besta. Ei, conheço esse olhar! Não me
+digas que estás a pensar em ir!
+--- BLOCK ---
+Ha, ha, ha, ha! Achas
+realmente que tens alguma hipótese?
+Tens coragem, caçador. Isso dou-te!
+--- BLOCK ---
+Sabes o quê? Começo a acreditar
+no impossível... ainda mais do que
+nos meus dias de salada.
+--- BLOCK ---
+Talvez a tua atitude confiante esteja
+a contagiar-me. Poderias dar grandes discursos
+de motivação. Bem, se falasses...
+--- BLOCK ---
+Além disso, estou farto de ter medo.
+Sei que também estás. Agora, corre e
+enfrenta a besta! Ha, ha, ha!
+--- BLOCK ---
+Bua, ha, ha, haa!
+Ha, ha, ha!
+--- BLOCK ---
+Ouvi dizer que caçaste aquele
+dragão ancião, o Miralis funesto.
+--- BLOCK ---
+Ha, ha, ha, ha, ha, ha!
+--- BLOCK ---
+Fizeste-me despertar, caçador! Estou ansioso
+por caçar um grande monstro,
+ou por morrer na tentativa!
+--- BLOCK ---
+Não posso deixar que fiques com toda
+a glória, afinal. É hora de
+voltar ao jogo de... sabes, caçar.
+--- BLOCK ---
+Caçar não é apenas um trabalho; é uma
+aventura. O bichinho da caça já me picou.
+--- BLOCK ---
+Em outras palavras, está aberta a
+temporada! Ha, ha, ha, ha!
+--- BLOCK ---
+Não mais planos para ficar rico! A
+partir de agora, apenas capital humano!
+--- BLOCK ---
+Meu futuro é tão brilhante que
+tenho de usar óculos de sol!
+--- BLOCK ---
+Bebida! Bebida! Dai-me bebida!
+--- BLOCK ---
+Ha! Tenho mais dinheiro do que o Gremio!
+--- BLOCK ---
+Não consigo parar de rir! Ha, ha, ha!
+--- BLOCK ---
+Estou montado nos zenis e sem travões!
+--- BLOCK ---
+Tragam-me o mais caro do cardápio!
+--- BLOCK ---
+O quê?! Porque está o copo vazio?!
+--- BLOCK ---
+O meu dinheiro fala, e diz: "Gasta-me!".
+--- BLOCK ---
+Compra, compra, compra, bua, ha, haa!
+--- BLOCK ---
+O dinheiro é o que move o mundo!
+--- BLOCK ---
+Ha, ha, ha, ha! Queres um empréstimo?
+--- BLOCK ---
+Tenho montes de zenis!
+--- BLOCK ---
+Companheiro, tens um zeni a mais?
+--- BLOCK ---
+O mundo é muito frio...
+--- BLOCK ---
+*Sorvendo* Não estou a chorar!
+--- BLOCK ---
+O dinheiro NÃO é tudo... certo?!
+--- BLOCK ---
+Ha, ha, ha! Estou de volta como instrutor!
+--- BLOCK ---
+Com pobreza também se pode comprar felicidade!
+--- BLOCK ---
+Tenho pouco dinheiro, mas muito coração!
+--- BLOCK ---
+Bua, ha, ha, haaaa!
+--- BLOCK ---
+Caçar é demais!
+--- BLOCK ---
+É um grande dia para ser caçador!
+--- BLOCK ---
+A vida de caçador é o que há!
+--- BLOCK ---
+Ha, ha, ha! Até logo, curral!
+--- BLOCK ---
+Bua, ha, haaaa! Não consigo parar de rir!
+--- BLOCK ---
+Ha, ha, ha! Deveria
+comprar meu próprio país!
+--- BLOCK ---
+Heh. É melhor subcontratar do que caçar.
+--- BLOCK ---
+Já mencionei que tenho dinheiro?
+--- BLOCK ---
+Heh. Minha economia está uma beleza.
+--- BLOCK ---
+Dinheiro: o único amigo que você precisa!
+--- BLOCK ---
+Quem precisa de regras quando se tem dinheiro?
+--- BLOCK ---
+Te amo, dinheiro!
+--- BLOCK ---
+Adeus, talvez não nos vejamos novamente...
+--- BLOCK ---
+Por que eu? Por que eu?
+--- BLOCK ---
+O dinheiro fala. O meu diz: "Adeus!".
+--- BLOCK ---
+Que se dane as regras!
+Estou sem um tostão!
+--- BLOCK ---
+Caco, logo existo!
+--- BLOCK ---
+Vamos ver se caçamos juntos algum dia!
+--- BLOCK ---
+De certa forma, estou em dívida contigo!
+--- BLOCK ---
+Ah... Feliz caça! Sim!
+--- BLOCK ---
+Bua, ha, ha, haaaaaaa! *Cof* Ha.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

@@ -1,0 +1,53 @@
+TMSG_NPC077_0
+--- BLOCK ---
+TMSG_NPC077_1
+--- BLOCK ---
+TMSG_NPC077_2
+--- BLOCK ---
+TMSG_NPC077_3
+--- BLOCK ---
+TMSG_NPC077_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Olá, querida. Hoje tenho uma tonelada
+de itens raros para você.
+--- BLOCK ---
+Olá, querido. Hoje tenho este velho
+saco cheio de itens com desconto.
+Tudo pela metade do preço!
+--- BLOCK ---
+Olá, querida. Hoje foi um dos
+meus melhores dias: tenho à
+venda alguns itens especialmente raros!
+--- BLOCK ---
+Gostaria de examinar minha coleção?
+--- BLOCK ---
+Saudações! Tenho certeza de que não esperas
+isso de alguém como eu, mas vendi
+minhas mercadorias por todo o mundo.
+--- BLOCK ---
+Tenho um saco cheio de itens que
+não vais encontrar facilmente por aqui; me
+chama se ver algo que gostar.
+--- BLOCK ---
+Às vezes também encontro boas ofertas
+em minhas viagens, então volta
+sempre. Tu também vais economizar!
+--- BLOCK ---
+Agora faz-me um favor e dá
+uma olhada nas minhas mercadorias.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Obrigada por vir, querido. Me chama
+se precisar de mais alguma coisa.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Avise-me se precisar de algo, querido.
+--- BLOCK ---
+Não te preocupes, tá? Hehe!
+--- BLOCK ---

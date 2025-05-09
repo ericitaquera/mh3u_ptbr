@@ -1,0 +1,101 @@
+TMSG_NPC017_0
+--- BLOCK ---
+TMSG_NPC017_1
+--- BLOCK ---
+TMSG_NPC017_2
+--- BLOCK ---
+TMSG_NPC017_3
+--- BLOCK ---
+TMSG_NPC017_4
+--- BLOCK ---
+Precisa de minha ajuda com algo?
+--- BLOCK ---
+Boa caçada, colega.
+--- BLOCK ---
+<SUBS 0>
+Vila de Moga muito especial, sempre
+primeiro lugar que visito.
+--- BLOCK ---
+Gosto da comida saborosa deles, da gente
+amável, da floresta exuberante. As pessoas
+sorriem. É como... um segundo lar.
+--- BLOCK ---
+Bem tranquilo depois de
+semanas no mar.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Viagens com o Argosy são cheias de perigos.
+Monstros atacam uma vez ou mais a cada viagem.
+--- BLOCK ---
+Mas não deixarei a vida de
+marinheiro. A água me chama,
+e consigo ver terras diferentes.
+--- BLOCK ---
+Os monstros não são tão ruins com o capitão.
+Você viu como ele negocia bem, né? Pois
+ele é tão bom com a espada quanto.
+--- BLOCK ---
+Ele me ensinar a língua de vocês e salvar
+minha vida várias vezes.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+O Argosy costuma ficar no porto por
+vários dias quando chega.
+--- BLOCK ---
+Assim, você tem tempo para ir à
+floresta e procurar os Itens que precisa
+antes de partirmos de novo, certo?
+--- BLOCK ---
+Não se preocupe se não tiver itens
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+O quê? Você está se perguntando por que
+o capitão fala tão bem a sua língua?
+--- BLOCK ---
+Não sei ao certo, mas se
+você viaja pelo mundo, acaba
+aprendendo essas coisas, não é?
+--- BLOCK ---
+É muito importante... como se
+diz mesmo?, expandir seus horizontes?
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Conhece o Neko, né? Negocia no Porto Tanzia.
+Ele é outro marujo do capitão.
+--- BLOCK ---
+Dizem que o capitão encontrou o Neko se
+afogando no mar e salvou sua vida.
+--- BLOCK ---
+O Neko quis agradecer e seguiu o
+capitão, até que o capitão finalmente cedeu
+e deixou o Neko se tornar tripulante.
+--- BLOCK ---
+Neko estudou muito as regras de troca. Agora
+cuida de todos os negócios em Tanzia.
+<SUBS 1>
+--- BLOCK ---
+Olá de novo, caçador.
+--- BLOCK ---
+Oi, oi. Lembra de mim, amigo?
+--- BLOCK ---
+Boa caçada traz uma boa troca, não é?
+--- BLOCK ---
+Quer trocar? Fala com o capitão.
+--- BLOCK ---
+Gosto de estar em terra firme de novo.
+--- BLOCK ---
+Desculpa, preciso ir.
+--- BLOCK ---
+Conversamos mais quando eu voltar, certo?
+--- BLOCK ---
+Boa caçada, colega.
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

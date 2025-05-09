@@ -1,0 +1,306 @@
+TMSG_NPC090_0
+--- BLOCK ---
+TMSG_NPC090_1
+--- BLOCK ---
+TMSG_NPC090_2
+--- BLOCK ---
+TMSG_NPC090_3
+--- BLOCK ---
+TMSG_NPC090_4
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Miaaa-huuu! Me chamam de mestre
+churrasqueiro nesta vila!
+--- BLOCK ---
+Como vai, tigre? Quer ver
+por que estou tão confortável
+perto dessas chamas selvagens?
+--- BLOCK ---
+Ha, ha, ha! Qualquer chef que se preze
+pode aguentar um pouco de calor. Até eu
+me queimo o rabo de vez em quando!
+--- BLOCK ---
+Reconheço que a única coisa que me
+preocupa é queimar a língua. Acho que
+sou um gato medroso! Ha, ha, ha!
+--- BLOCK ---
+Por isso, às vezes nem mesmo
+provo minhas próprias iguarias. Espero que
+possa perdoar este Felyne por isso.
+--- BLOCK ---
+Tanzia é sagrada para os chefs. Há
+pessoas que vêm de todos os cantos
+para negociar, e isso são provisões raras!
+--- BLOCK ---
+Foi isso que me trouxe a este
+rodeio, tigre. Um chef é tão
+bom quanto seu pior ingrediente, miau?
+--- BLOCK ---
+Então você deveria experimentar os pratos
+mais saborosos de Tanzia antes
+de sair para uma caçada!
+--- BLOCK ---
+Miauu! Eu AMO falar de
+comida, tigre. Fico empolgado rapidinho!
+É um assunto PICANTE!
+--- BLOCK ---
+*Cheira* Falando em picante, você
+sente esse cheiro? Cheira a
+queimado... MIAAAAU! Queimei o rabo!
+--- BLOCK ---
+Bom, admito que isso é
+chamado de riscos do trabalho.
+--- BLOCK ---
+Olá, tigre. Os pratos que servimos aqui
+têm algo especial, sabe? Eles liberam
+o talento latente de um caçador.
+--- BLOCK ---
+Os efeitos dependem dos ingredientes que
+você escolher, então não se
+acanhe e experimente várias combinações!
+--- BLOCK ---
+Mas também não exagere. Algumas
+combinações podem ser um pouco
+perigosas para a saúde.
+--- BLOCK ---
+Quando você e seus colegas voltarem da caçada,
+nada melhor do que uma caneca gelada
+de Mosto de Tanzia para contar histórias!
+--- BLOCK ---
+Trocar histórias! Vender lixo. Compartilhar suas
+melhores dicas. Ah, ISSO é
+a vida de um caçador!
+--- BLOCK ---
+E deixe-nos trazer comida fresquinha para
+você! Nada nos agrada mais! Miauu!
+--- BLOCK ---
+Miauu, tigre! Ei, já se perguntou
+por que a Guilda nos permitiu
+abrir este grande estabelecimento culinário?
+--- BLOCK ---
+Porque a Guilda gosta que nossa comida
+traga o melhor dos seus caçadores!
+--- BLOCK ---
+Claro que fazemos mais do que
+aprimorar suas habilidades. Aqui os moradores
+relaxam e comem junto à fogueira!
+--- BLOCK ---
+Dê uma passada e pegue um petisco antes
+de partir. Vou te colocar no melhor lugar!
+--- BLOCK ---
+Bem, veja só o que os
+Felyne trouxeram. Bem-vindo ao churrasco Tanzyne!
+--- BLOCK ---
+Conhece nosso lema, não é? "Preparamos
+nossos rabos no ponto, mas nossa
+carne está sempre no ponto!"
+--- BLOCK ---
+Agora relaxe e deixe o mestre
+da churrasqueira fazer sua mágica. Miauu!
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Sabe que a carne está pronta
+quando adquire aquele lindo tom dourado.
+--- BLOCK ---
+Quando avivar o fogo da sua grelha,
+não perca de vista a cor!
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Sabe? Até o melhor chef de churrasco
+tem dias ruins. Céus, antes eu
+fazia bifes mal passados por acidente.
+--- BLOCK ---
+Mas então combinava o bife mal
+passado com um Catalisador para fazer
+o saboroso Suco de poder! Mmmmmiau!
+--- BLOCK ---
+Oh, mas agora não se preocupe
+com isso. Vou assar sua
+carne à perfeição, como sempre!
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Miauu! Estou assando
+loucamente hoje, tigre!
+--- BLOCK ---
+O truque é encontrar
+um ritmo enquanto cozinha!
+--- BLOCK ---
+Bem, agora que falei demais,
+talvez eu cozinhe algo
+delicioso para você também!
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Miauu! Você sempre será
+bem-vindo por aqui, tigre!
+--- BLOCK ---
+Passei toda a minha vida assando carne.
+Você não pode superar uma experiência assim.
+--- BLOCK ---
+E hoje vou assar como um
+gato andando sobre brasas! Não perca!
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Asar luego existo, miau!
+--- BLOCK ---
+Quando você assa, não pode perder de
+vista sua presa, miau. Espere o momento
+em que a carne doura! Aqui vem...
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Esperava que desse uma passada
+no meu estabelecimento, tigre.
+--- BLOCK ---
+Agora escute: a técnica é importante
+ao assar, mas também a alma!
+--- BLOCK ---
+Felizmente, tenho as duas,
+então vamos cozinhar! Miauu!
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+Miau miau miau, miau
+miau miau ♪
+--- BLOCK ---
+Miau miau miau! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Ah! Espere um momento!
+--- BLOCK ---
+Tenho que me concentrar, tigre! Vou deixar
+meu chef interior rugir como um
+leão! O tempo é tudo, sabe?
+--- BLOCK ---
+Preciso da sua ajuda, tigre! Você
+tem que cantar esta solitária
+canção comigo! Pronto? Lá vai!
+--- BLOCK ---
+♪ Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+♪ Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+♪ Miau miau miau, miau miau miau ♪
+♪ Miau miau miau, miau miau miau ♪
+--- BLOCK ---
+♪ Miau miau miau, mia-MIAU! ♪
+--- BLOCK ---
+...
+--- BLOCK ---
+Delicioso, delicioso!
+--- BLOCK ---
+Bem-vindo, tigre!
+--- BLOCK ---
+Ah, que surpresa!
+--- BLOCK ---
+Tenho ingredientes excelentes hoje!
+--- BLOCK ---
+A melhor comida, na grelha Tanzyne!
+--- BLOCK ---
+Bem-vindo à grelha Tanzyne!
+--- BLOCK ---
+Espero que tragas fome!
+--- BLOCK ---
+Volte logo, miau!
+--- BLOCK ---
+Cuide-se bem, entendeu?
+--- BLOCK ---
+Estou de olho em você.
+--- BLOCK ---
+Sempre prontos para te servir!
+--- BLOCK ---
+Muito obrigado, tigre!
+--- BLOCK ---
+Volte logo à grelha Tanzyne!
+--- BLOCK ---
+Mal posso esperar para te ver de novo!
+--- BLOCK ---
+Dou-te as boas-vindas! Reconheço que
+fiz isso para ti!
+--- BLOCK ---
+Dou-te as boas-vindas! O
+que vai ser, tigre?
+--- BLOCK ---
+Tome! Prove esta
+obra-prima culinária, tigre!
+--- BLOCK ---
+(!)
+--- BLOCK ---

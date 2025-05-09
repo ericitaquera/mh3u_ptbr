@@ -1,0 +1,222 @@
+TMSG_NPC084_0
+--- BLOCK ---
+TMSG_NPC084_1
+--- BLOCK ---
+TMSG_NPC084_2
+--- BLOCK ---
+TMSG_NPC084_3
+--- BLOCK ---
+TMSG_NPC084_4
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+Ah, ¿ouviu? Aquele moinho aproveita a
+brisa do oceano para alimentar
+a forja. É muito engenhoso!
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Ouviu? Aquele moinho giratório
+alimenta todo o equipamento
+das forjas aqui.
+--- BLOCK ---
+Algum pão-duro deve ter tido a ideia,
+porque o vento é de graça, nhá?
+Mas agora toda Tanzia se beneficia disso!
+--- BLOCK ---
+Ouviu a história por trás daquela
+bela torre lá ao longe?
+--- BLOCK ---
+Bem, há muito, muito, muuuuito
+tempo atrás, apareceu um enorme
+dragão ancião e arrasou tudo!
+--- BLOCK ---
+Ele corria desenfreado pela terra e
+até fez algumas ilhas afundarem
+até o fundo do mar...
+--- BLOCK ---
+Então nossos antepassados reuniram sua sabedoria
+e recursos para desafiar a besta,
+e no final conseguiram a vitória.
+--- BLOCK ---
+Os poucos sobreviventes se uniram para
+construir uma vila, e essa pequena
+vila se tornou Porto Tanzia!
+--- BLOCK ---
+Ah, sim. A torre. Sim, bem, construíram
+a torre como altar para os deuses.
+Para afastar o mal e tal.
+--- BLOCK ---
+Agora é conhecida em todo o
+mundo como o símbolo de Porto
+Tanzia! É o máximo, nhá?
+--- BLOCK ---
+Existe uma área do oceano aqui perto
+chamada Mar contaminado. Que nome, né? Não
+sei por que o chamam assim.
+--- BLOCK ---
+Bem, é que é uma parte
+normal do oceano. Os navios
+mercantes passam por lá tranquilamente.
+--- BLOCK ---
+E está cheio de peixes
+saborosos! Já me dá fome
+só de pensar... Mmmrrraaaauuuuu...
+--- BLOCK ---
+Ouviu? Se está procurando
+a Guilda, deveria olhar
+nas grandes lojas ali.
+--- BLOCK ---
+Os caçadores têm uma relação simbiótica
+com a Guilda. Um dá missões
+e os outros as completam!
+--- BLOCK ---
+Deveria ir pessoalmente até a Guilda.
+Com certeza vão adorar ajudar
+um grande caçador como você!
+--- BLOCK ---
+Ouviu? Há um famoso restaurante
+Felyne dentro da Guilda!
+--- BLOCK ---
+É o único restaurante de Porto
+Tanzia com três estrelas: O assador
+Tanzyne! Procure pelo caldeirão gigante!
+--- BLOCK ---
+Servem uma versão incrível da Sopa
+de peixe de Tanzia! É
+o prato tradicional desta região.
+--- BLOCK ---
+Dou as boas-vindas a Porto Tanzia,
+o Oásis do mar! Parece que
+chegou de uma longa viagem, nhá?
+--- BLOCK ---
+Tanzia é um importante eixo do
+comércio global. Nosso símbolo é a
+torre que vê ao longe.
+--- BLOCK ---
+Se se perder, pergunte
+a um local. Estamos
+sempre dispostos a ajudar!
+--- BLOCK ---
+Ouvi dizer que é um
+Caçador de elite! É fantástico!
+--- BLOCK ---
+As pessoas comentam suas
+proezas por toda Tanzia!
+--- BLOCK ---
+*Cheira* Mmm... Até CHEIRA como
+um caçador famoso! Deve ser
+desses monstros saborosos que caça...
+--- BLOCK ---
+Bem, mal posso esperar para ver o
+que fará com todas as missões de
+alto escalão. Mostre suas garras, nhá!
+--- BLOCK ---
+Ouvi dizer que é um
+Mestre caçador! É magnífico!
+--- BLOCK ---
+Você é o maior acontecimento
+em Tanzia depois do peixe!
+--- BLOCK ---
+Mas agora terá que encarar missões
+de escalão G. E essas fazem
+até um Felyne adulto uivar!
+--- BLOCK ---
+Vai precisar de toda sua habilidade!
+Todos os seus sentidos! Todas as
+centenas de horas de experiência caçando!
+--- BLOCK ---
+Mas sei que pode fazer. Cheira
+a vitória! E também a
+peixe. Mas principalmente a vitória.
+--- BLOCK ---
+AUUUU! Ouvi a pior
+das notícias na Guilda!
+--- BLOCK ---
+Alguém viu um dragão ancião
+perto do Mar contaminado! Dizem
+que parece um enorme vulcão!
+--- BLOCK ---
+Até lava sai de seu corpo
+e tudo mais. Está tingindo o
+oceano de vermelho sangue! Ai, humanidade!
+--- BLOCK ---
+Para piorar, não temos notícias do
+corajoso navio de observação que avistou
+a besta pela primeira vez...
+--- BLOCK ---
+Um dragão ancião tão perto
+de Tanzia? É o apocalipse!
+--- BLOCK ---
+Fantástico! Maravilhoso! O
+último miado Felyne!
+--- BLOCK ---
+Derrotou o Miralis funesto e nos
+salvou de nosso destino horrível!
+--- BLOCK ---
+A Guilda enlouqueceu! Ouvi dizer que
+o mestre da Guilda está convidando
+para bebidas e vinho Felyne!
+--- BLOCK ---
+Finalmente podemos voltar à nossa vida
+normal. Todos em Tanzia estão felizes!
+--- BLOCK ---
+Eu pessoalmente vou me esbaldar com
+peixe e leite. Talvez até molhe
+o peixe no leite! Ha, ha!
+--- BLOCK ---
+Sabia? Sabia que ia ser um
+grande caçador assim que te
+vi. Soube pelo seu aroma.
+--- BLOCK ---
+Tome, nhá. Quero lhe dar isso
+como mostra de meu apreço.
+--- BLOCK ---
+Bem na hora, nhá! Tenho
+um mimo para você!
+--- BLOCK ---
+Um de seus amigos pediu para
+te entregar isso. Não me lembro
+quem, mas aceite, por favor.
+--- BLOCK ---
+Já está se familiarizando com isso?
+--- BLOCK ---
+Olá, Caçador de elite!
+--- BLOCK ---
+A torre está tão clara hoje!
+--- BLOCK ---
+Adoro essa brisa marinha!
+--- BLOCK ---
+Vai dar um passeio, caçador?
+--- BLOCK ---
+Cuide-se, nhá!
+--- BLOCK ---
+Volte logo!
+--- BLOCK ---
+Boa viagem, nhá!
+--- BLOCK ---
+Cuidado por aí!
+--- BLOCK ---
+Até mais!
+--- BLOCK ---
+Volte quando quiser!
+--- BLOCK ---
+Interessado nas condições
+de Porto Tanzia?
+--- BLOCK ---
+Tanzia hoje está assim.
+--- BLOCK ---
+Nhá! Tenho uma escama de bagre
+nos bigodes! Ah? Está aqui
+para falar sobre o porto?
+--- BLOCK ---
+Nhá, nhá, nhá, nhárramiauuuu! Ah,
+desculpe. Me distraí. As condições
+de hoje, certo? Certo!
+--- BLOCK ---
+(!)
+--- BLOCK ---
