@@ -535,16 +535,16 @@ capturar peixes valiosos.
 Não muito distante.
 --- BLOCK ---
 (Pesca) Local de difícil acesso,
-mas que vale a pena
-pela variedade de peixes incomuns.
+mas que vale a pena pela
+variedade de peixes incomuns.
 --- BLOCK ---
 (Pesca) Dizem que um
 pescador lendário pescou aqui.
 Paraíso dos peixes.
 --- BLOCK ---
-(Tesouro) Local perigoso. Possibilidade
-de recuperar objetos
-de navios naufragados.
+(Tesouro) Local perigoso.
+Possibilidade de recuperar
+objetos de navios naufragados.
 --- BLOCK ---
 (Tesouro) Estreito com marés
 especiais. Tesouros incomuns
@@ -684,11 +684,11 @@ Classificações
 --- BLOCK ---
 Temporadas classif.
 --- BLOCK ---
-Rango S
+Ranking S
 --- BLOCK ---
-Rango A
+Ranking A
 --- BLOCK ---
-Rango B
+Ranking B
 --- BLOCK ---
 Melhor
 --- BLOCK ---

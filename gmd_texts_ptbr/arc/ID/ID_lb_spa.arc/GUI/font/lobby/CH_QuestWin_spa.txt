@@ -1,0 +1,246 @@
+DATA
+--- BLOCK ---
+Entrega Poções
+--- BLOCK ---
+Entrega Carne crua
+--- BLOCK ---
+Entrega Flechas especiais
+--- BLOCK ---
+Mate um grupo de Jaggi
+--- BLOCK ---
+Entrega Peixes dourados
+--- BLOCK ---
+Cace um Grande Jaggi
+--- BLOCK ---
+Mate um grupo de Ludroth
+--- BLOCK ---
+Mate um grupo de Altaroth
+--- BLOCK ---
+Cace um Arzuros
+--- BLOCK ---
+Cace um Qurupeco
+--- BLOCK ---
+Cace um Ludroth real
+--- BLOCK ---
+Mate um grupo de Wroggi
+--- BLOCK ---
+Cace um Wroggi magnífico
+--- BLOCK ---
+Cace um Barroth
+--- BLOCK ---
+Mate um grupo de Rhenoplos
+--- BLOCK ---
+Cace um Gobul
+--- BLOCK ---
+Cace um Grande Baggi
+--- BLOCK ---
+Cace um Lagombi
+--- BLOCK ---
+Mate um grupo de Baggi
+--- BLOCK ---
+Cace uma Rathian
+--- BLOCK ---
+Cace um Gigginox
+--- BLOCK ---
+Cace um Lagiacrus
+--- BLOCK ---
+Cace um Volvidon
+--- BLOCK ---
+Mate um grupo de Uroktor
+--- BLOCK ---
+Cace um Duramboros
+--- BLOCK ---
+Cace um Nibelsnarf
+--- BLOCK ---
+Cace um Diablos
+--- BLOCK ---
+Cace um Uragaan
+--- BLOCK ---
+Cace um Agnaktor
+--- BLOCK ---
+Cace um Rathalos
+--- BLOCK ---
+Cace um Barioth
+--- BLOCK ---
+Mate um grupo de Bullfango
+--- BLOCK ---
+Mate um grupo de Wroggi
+--- BLOCK ---
+Cace um Wroggi magnífico
+--- BLOCK ---
+Mate um grupo de Jaggi
+--- BLOCK ---
+Cace um Grande Jaggi
+--- BLOCK ---
+Entrega Mel
+--- BLOCK ---
+Cace um Arzuros
+--- BLOCK ---
+Mate um grupo de Altaroth
+--- BLOCK ---
+Cace um Qurupeco
+--- BLOCK ---
+Cace um Qurupeco carmesim
+--- BLOCK ---
+Mate um grupo de Bnahabra
+--- BLOCK ---
+Cace um Ludroth real
+--- BLOCK ---
+Cace um Ludroth púrpura
+--- BLOCK ---
+Mate um grupo de Rhenoplos
+--- BLOCK ---
+Cace um Barroth
+--- BLOCK ---
+Cace uma Rathian
+--- BLOCK ---
+Cace uma Rathian rosa
+--- BLOCK ---
+Cace um Lagombi
+--- BLOCK ---
+Cace um Gobul
+--- BLOCK ---
+Cace um Plesioth
+--- BLOCK ---
+Mate um grupo de Baggi
+--- BLOCK ---
+Cace um Grande Baggi
+--- BLOCK ---
+Cace um Volvidon
+--- BLOCK ---
+Cace um Gigginox
+--- BLOCK ---
+Cace um Barroth esmeralda
+--- BLOCK ---
+Cace um Gigginox aterrorizante
+--- BLOCK ---
+Cace um Rathalos
+--- BLOCK ---
+Cace um Duramboros
+--- BLOCK ---
+Cace um Nibelsnarf
+--- BLOCK ---
+Cace um Lagiacrus
+--- BLOCK ---
+Cace um Diablos
+--- BLOCK ---
+Cace um Barioth
+--- BLOCK ---
+Cace um Uragaan
+--- BLOCK ---
+Cace um Brachydios
+--- BLOCK ---
+Cace um Agnaktor
+--- BLOCK ---
+Mate um grupo de Uroktor
+--- BLOCK ---
+Cace um Rathalos celeste
+--- BLOCK ---
+Cace um Zinogre
+--- BLOCK ---
+Cace uma Diablos negra
+--- BLOCK ---
+Cace um Nargacuga
+--- BLOCK ---
+Cace um Barioth arenoso
+--- BLOCK ---
+Cace um Uragaan acerado
+--- BLOCK ---
+Cace um Agnaktor glacial
+--- BLOCK ---
+Cace um Lagiacrus marmóreo
+--- BLOCK ---
+Cace um Deviljho
+--- BLOCK ---
+Mate um grupo de Jaggi
+--- BLOCK ---
+Cace um Grande Jaggi
+--- BLOCK ---
+Cace um Wroggi magnífico
+--- BLOCK ---
+Mate um grupo de Altaroth
+--- BLOCK ---
+Cace um Arzuros
+--- BLOCK ---
+Cace um Lagombi
+--- BLOCK ---
+Cace um Qurupeco
+--- BLOCK ---
+Mate um grupo de Rhenoplos
+--- BLOCK ---
+Cace um Qurupeco carmesim
+--- BLOCK ---
+Cace um Ludroth real
+--- BLOCK ---
+Cace um Ludroth púrpura
+--- BLOCK ---
+Cace um Barroth
+--- BLOCK ---
+Cace um Barroth esmeralda
+--- BLOCK ---
+Mate um grupo de Bnahabra
+--- BLOCK ---
+Cace uma Rathian
+--- BLOCK ---
+Cace uma Rathian rosa
+--- BLOCK ---
+Cace um Plesioth
+--- BLOCK ---
+Cace um Volvidon
+--- BLOCK ---
+Cace um Nibelsnarf
+--- BLOCK ---
+Cace um Plesioth verde
+--- BLOCK ---
+Cace um Grande Baggi
+--- BLOCK ---
+Cace um Gobul
+--- BLOCK ---
+Cace um Gigginox
+--- BLOCK ---
+Cace um Gigginox aterrorizante
+--- BLOCK ---
+Cace um Barioth
+--- BLOCK ---
+Cace um Duramboros
+--- BLOCK ---
+Cace um Duramboros ferruginoso
+--- BLOCK ---
+Cace um Diablos
+--- BLOCK ---
+Cace uma Diablos negra
+--- BLOCK ---
+Cace um Rathalos
+--- BLOCK ---
+Cace um Rathalos celeste
+--- BLOCK ---
+Cace um Uragaan
+--- BLOCK ---
+Cace um Uragaan acerado
+--- BLOCK ---
+Mate um grupo de Uroktor
+--- BLOCK ---
+Cace um Agnaktor
+--- BLOCK ---
+Cace um Barioth arenoso
+--- BLOCK ---
+Cace um Nargacuga
+--- BLOCK ---
+Cace um Nargacuga verde
+--- BLOCK ---
+Entrega Pedras de pólvora
+--- BLOCK ---
+Cace um Agnaktor glacial
+--- BLOCK ---
+Cace um Deviljho
+--- BLOCK ---
+Cace um Zinogre
+--- BLOCK ---
+Cace um Zinogre estigio
+--- BLOCK ---
+Cace um Lagiacrus
+--- BLOCK ---
+Cace um Lagiacrus marmóreo
+--- BLOCK ---
+Cace um Brachydios
+--- BLOCK ---

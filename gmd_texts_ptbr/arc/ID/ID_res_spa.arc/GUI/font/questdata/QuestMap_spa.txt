@@ -1,0 +1,40 @@
+﻿map_name_msg
+--- BLOCK ---
+map_name_time_msg
+--- BLOCK ---
+-----
+--- BLOCK ---
+IlhDes
+--- BLOCK ---
+ChaAre
+--- BLOCK ---
+BosInu
+--- BLOCK ---
+Tundra
+--- BLOCK ---
+Vulcão
+--- BLOCK ---
+GraDes
+--- BLOCK ---
+Ruinas
+--- BLOCK ---
+ArenaTerra
+--- BLOCK ---
+ArenaTerra
+--- BLOCK ---
+Arena Agua
+--- BLOCK ---
+TerraSagra
+--- BLOCK ---
+Arena Agua
+--- BLOCK ---
+CumBor
+--- BLOCK ---
+Torre
+--- BLOCK ---
+MarCon
+--- BLOCK ---
+ ( D )
+--- BLOCK ---
+ ( N )
+--- BLOCK ---

@@ -1,0 +1,184 @@
+﻿﻿TMSG_OTHER_COCKPIT_00
+--- BLOCK [001] ---
+TMSG_OTHER_COCKPIT_01
+--- BLOCK [002] ---
+TMSG_OTHER_COCKPIT_02
+--- BLOCK [003] ---
+TMSG_OTHER_COCKPIT_03
+--- BLOCK [004] ---
+TMSG_OTHER_COCKPIT_04
+--- BLOCK [005] ---
+TMSG_OTHER_COCKPIT_05
+--- BLOCK [006] ---
+TMSG_OTHER_COCKPIT_06
+--- BLOCK [007] ---
+TMSG_OTHER_COCKPIT_07
+--- BLOCK [008] ---
+TMSG_OTHER_COCKPIT_08
+--- BLOCK [009] ---
+TMSG_OTHER_COCKPIT_09
+--- BLOCK [010] ---
+TMSG_OTHER_COCKPIT_10
+--- BLOCK [011] ---
+TMSG_OTHER_COCKPIT_11
+--- BLOCK [012] ---
+TMSG_OTHER_COCKPIT_12
+--- BLOCK [013] ---
+TMSG_OTHER_COCKPIT_13
+--- BLOCK [014] ---
+TMSG_OTHER_COCKPIT_14
+--- BLOCK [015] ---
+TMSG_OTHER_COCKPIT_15
+--- BLOCK [016] ---
+TMSG_OTHER_COCKPIT_16
+--- BLOCK [017] ---
+TMSG_OTHER_MODULE_00
+--- BLOCK [018] ---
+TMSG_OTHER_MODULE_01
+--- BLOCK [019] ---
+TMSG_OTHER_MODULE_02
+--- BLOCK [020] ---
+TMSG_OTHER_MODULE_03
+--- BLOCK [021] ---
+TMSG_OTHER_MODULE_04
+--- BLOCK [022] ---
+TMSG_OTHER_MODULE_05
+--- BLOCK [023] ---
+TMSG_OTHER_MODULE_06
+--- BLOCK [024] ---
+TMSG_OTHER_MODULE_07
+--- BLOCK [025] ---
+TMSG_OTHER_MODULE_08
+--- BLOCK [026] ---
+TMSG_OTHER_MODULE_09
+--- BLOCK [027] ---
+TMSG_OTHER_MODULE_10
+--- BLOCK [028] ---
+TMSG_OTHER_MODULE_11
+--- BLOCK [029] ---
+TMSG_OTHER_MODULE_12
+--- BLOCK [030] ---
+TMSG_OTHER_MODULE_13
+--- BLOCK [031] ---
+TMSG_OTHER_MODULE_14
+--- BLOCK [032] ---
+TMSG_OTHER_MODULE_15
+--- BLOCK [033] ---
+TMSG_OTHER_MODULE_16
+--- BLOCK [034] ---
+TMSG_OTHER_MODULE_17
+--- BLOCK [035] ---
+TMSG_OTHER_MODULE_18
+--- BLOCK [036] ---
+TMSG_OTHER_MODULE_19
+--- BLOCK [037] ---
+TMSG_OTHER_SHAREBOX_00
+--- BLOCK [038] ---
+TMSG_OTHER_SHAREBOX_01
+--- BLOCK [039] ---
+TMSG_OTHER_SHAREBOX_02
+--- BLOCK [040] ---
+TMSG_OTHER_SHAREBOX_03
+--- BLOCK [041] ---
+TMSG_OTHER_SHAREBOX_04
+--- BLOCK [042] ---
+TMSG_OTHER_PIPEHAMMER_00
+--- BLOCK [043] ---
+TMSG_OTHER_PIPEHAMMER_01
+--- BLOCK [044] ---
+TMSG_OTHER_PIPEHAMMER_02
+--- BLOCK [045] ---
+TMSG_OTHER_PIPEHAMMER_03
+--- BLOCK [046] ---
+Y
+--- BLOCK [047] ---
+A
+--- BLOCK [048] ---
+L
+--- BLOCK [049] ---
+X
+--- BLOCK [050] ---
+B
+--- BLOCK [051] ---
+%d
+--- BLOCK [052] ---
+x%d
+--- BLOCK [053] ---
+%02d
+--- BLOCK [054] ---
+p
+--- BLOCK [055] ---
+%5d
+--- BLOCK [056] ---
+%s
+--- BLOCK [057] ---
+%s%3d
+--- BLOCK [058] ---
+%s
+--- BLOCK [059] ---
+%s
+--- BLOCK [060] ---
+%s
+--- BLOCK [061] ---
+%s
+--- BLOCK [062] ---
+%s
+--- BLOCK [063] ---
+%d%%
+--- BLOCK [064] ---
+???%%
+--- BLOCK [065] ---
+???
+--- BLOCK [066] ---
+????
+--- BLOCK [067] ---
+%d/%d
+--- BLOCK [068] ---
+%d/%d
+--- BLOCK [069] ---
+%d/%d
+--- BLOCK [070] ---
+<COLO 02>%s
+--- BLOCK [071] ---
+<COLO 02>%s
+--- BLOCK [072] ---
+<COLO 02>%s
+--- BLOCK [073] ---
+<COLO 02>%s
+--- BLOCK [074] ---
+%d
+--- BLOCK [075] ---
+%d
+--- BLOCK [076] ---
+%s
+--- BLOCK [077] ---
+%s
+--- BLOCK [078] ---
+%d
+--- BLOCK [079] ---
+%02d/%02d
+--- BLOCK [080] ---
+%02d/%02d
+--- BLOCK [081] ---
+x%d
+--- BLOCK [082] ---
+ %s
+--- BLOCK [083] ---
+%dz
+--- BLOCK [084] ---
+X%d
+--- BLOCK [085] ---
+%dz
+--- BLOCK [086] ---
+%dz
+--- BLOCK [087] ---
+<COLO 2>%s</COLO>
+--- BLOCK [088] ---
+%s
+--- BLOCK [089] ---
+%s
+--- BLOCK [090] ---
+%s%s
+--- BLOCK [091] ---
+%s%s
+--- BLOCK [092] ---

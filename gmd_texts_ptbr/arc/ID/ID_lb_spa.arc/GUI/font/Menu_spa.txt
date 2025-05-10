@@ -389,9 +389,9 @@ Mín.
 --- BLOCK ---
 Máx.
 --- BLOCK ---
-Ativar
+Ativ.
 --- BLOCK ---
-Desativar
+Desat.
 --- BLOCK ---
 Normal
 --- BLOCK ---
@@ -429,15 +429,15 @@ ao começar as missões.
 Define os controles da câmera.
 --- BLOCK ---
 Ajusta os controles da câmera
-para a mira da Besta.
+para a mira da Balestra.
 --- BLOCK ---
 Configura os controles da câmera ao
 usar a mira rápida com vista
-externa do Arco ou da Besta.
+externa do Arco ou da Balestra.
 --- BLOCK ---
 Configura o comportamento da câmera ao
 usar a mira rápida com vista
-externa do Arco ou da Besta.
+externa do Arco ou da Balestra.
 --- BLOCK ---
 Configura o controle da orientação
 para ações direcionais como
@@ -527,15 +527,15 @@ controles de esquerda/direita invertidos.
 --- BLOCK ---
 Todos os controles são invertidos.
 --- BLOCK ---
-Move a câmera atrás de você
-(mas não verticalmente quando estiver debaixo
-d'água ou com uma Besta).
+Move a câmera atrás de você (mas
+não verticalmente quando estiver
+debaixo d'água ou com uma Balestra).
 --- BLOCK ---
 A câmera não se move atrás de você.
 --- BLOCK ---
 Move a câmera atrás e redefine a
 visão (mas não verticalmente ao estar
-debaixo d'água ou com uma Besta).
+debaixo d'água ou com uma Balestra).
 --- BLOCK ---
 Mover o controle analógico para cima
 corresponde à direção para a
@@ -575,16 +575,16 @@ esquivar após um ataque.
 A câmera não girará ao
 esquivar após um ataque.
 --- BLOCK ---
-Os botões ZL e ZR
-realizarão as mesmas funções que
+Os botões ZL e ZR realizarão
+as mesmas funções que
 os botões L e R.
 --- BLOCK ---
-Os botões ZL e ZR farão
-o mesmo que pressionar o
-direcional para esquerda e direita.
+Os botões ZL e ZR farão o mesmo
+que pressionar o direcional
+para esquerda e direita.
 --- BLOCK ---
-Os botões ZL e ZR farão
-o mesmo que pressionar o direcional
+Os botões ZL e ZR farão o mesmo
+que pressionar o direcional
 para cima e para baixo.
 --- BLOCK ---
 Todas as opções serão
@@ -621,7 +621,7 @@ DUMMY
 --- BLOCK ---
 Quer sair da partida? <COLO 2>Não
 esqueça de salvar o seu progresso
-ou ele será perdido! </COLO>
+ou ele será perdido!</COLO>
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -668,15 +668,15 @@ Vila de Moga
 --- BLOCK ---
 Chamberlyne
 --- BLOCK ---
-Informações da missão
+Info. missão
 --- BLOCK ---
-Conjunto de Equipamento
+Conj. de Equip.
 --- BLOCK ---
-Lista de monstros
+Lista monstr.
 --- BLOCK ---
-Informações do caçador
+Infor. caçador
 --- BLOCK ---
-Nome
+Nom.
 --- BLOCK ---
 Arma
 --- BLOCK ---
@@ -698,7 +698,7 @@ Oxigênio
 --- BLOCK ---
 Ataque
 --- BLOCK ---
-Elemento
+Elem
 --- BLOCK ---
 Defesa
 --- BLOCK ---
@@ -720,11 +720,11 @@ Martelo
 --- BLOCK ---
 Lança
 --- BLOCK ---
-Besta Pesada
+Balestra Pesada
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Besta Leve
+Balestra Leve
 --- BLOCK ---
 Espada Longa
 --- BLOCK ---
@@ -758,7 +758,7 @@ SÑ
 --- BLOCK ---
 BA
 --- BLOCK ---
-Habilidade de Comida
+Hab. de Comida
 --- BLOCK ---
 (Nenhuma)
 --- BLOCK ---
@@ -790,7 +790,7 @@ DUMMY
 --- BLOCK ---
 Saudação
 --- BLOCK ---
-Reverência
+Reverên.
 --- BLOCK ---
 Aceno
 --- BLOCK ---
@@ -808,7 +808,7 @@ Chorar
 --- BLOCK ---
 Maldizer
 --- BLOCK ---
-Descansar
+Descans.
 --- BLOCK ---
 Boxear
 --- BLOCK ---
@@ -854,7 +854,7 @@ Usar
 dinheiro
 --- BLOCK ---
 Usar
-recurso
+recur.
 --- BLOCK ---
 Negócio
 --- BLOCK ---
@@ -880,7 +880,7 @@ DUMMY
 DUMMY
 --- BLOCK ---
 Orden.
-inicial
+inic.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -898,9 +898,9 @@ Res
 --- BLOCK ---
 Argosy
 --- BLOCK ---
-Capitão
+Capit.
 --- BLOCK ---
-Vermelho
+Verm.
 --- BLOCK ---
 Preto
 --- BLOCK ---
@@ -928,9 +928,9 @@ Costa de Moga
 --- BLOCK ---
 Recife de Moga
 --- BLOCK ---
-Águas profundas de Moga
+Águas prof. Moga
 --- BLOCK ---
-Marés lendárias
+Marés lendár.
 --- BLOCK ---
 Águas escuras
 --- BLOCK ---
@@ -970,7 +970,7 @@ Materiais insuficientes
 --- BLOCK ---
 Sua bolsa está cheia.
 --- BLOCK ---
-Não é possível carregar mais.
+Impossível carregar mais.
 --- BLOCK ---
 Sua Caixa está cheia.
 --- BLOCK ---
@@ -982,7 +982,7 @@ Concluído:
 --- BLOCK ---
 Produção:
 --- BLOCK ---
- <COLO 02>(Você não pode desviar enquanto estiver carregando).
+<COLO 02>(Não combina ao fugir).
 --- BLOCK ---
 Material
 --- BLOCK ---
@@ -1073,13 +1073,13 @@ Fixo
 --- BLOCK ---
 Variável
 --- BLOCK ---
-Habilidade ativada
+Hab. ativada
 --- BLOCK ---
-Árvore de habilidades / Pontos de habilidade
+Árvore de hab. / Pontos hab.
 --- BLOCK ---
-Ef. melhoria 1
+Ef. melh. 1
 --- BLOCK ---
-Ef. melhoria 2
+Ef. melh. 2
 --- BLOCK ---
 Capac.
 --- BLOCK ---
@@ -1103,7 +1103,7 @@ Hab. natural 1
 --- BLOCK ---
 Hab. natural 2
 --- BLOCK ---
-Tipo de caçador:
+Tipo caçador:
 --- BLOCK ---
 Anotações
 --- BLOCK ---
@@ -1121,13 +1121,13 @@ Fase
 --- BLOCK ---
 (Nenhum)
 --- BLOCK ---
-Curto
+Curt
 --- BLOCK ---
-Médio
+Méd
 --- BLOCK ---
-Largo
+Compr
 --- BLOCK ---
-Muito largo
+Comprido+
 --- BLOCK ---
 (Nada)
 --- BLOCK ---
@@ -1151,7 +1151,7 @@ Silenciador
 --- BLOCK ---
 (Longo)
 --- BLOCK ---
-Nível de disparo
+Nvl de disparo
 --- BLOCK ---
 Rajada
 --- BLOCK ---
@@ -1161,19 +1161,19 @@ Amplo
 --- BLOCK ---
 Habilidade
 --- BLOCK ---
-Árvore de habilidades
+Árvore hab.
 --- BLOCK ---
 Hab. ativa
 --- BLOCK ---
-Missão de coleta
+Miss. coleta
 --- BLOCK ---
-Missão de captura
+Miss, captura
 --- BLOCK ---
-Missão de abate
+Miss. abate
 --- BLOCK ---
-Missão de caça
+Miss. caça
 --- BLOCK ---
-Missão especial
+Miss. espec.
 --- BLOCK ---
 Local
 --- BLOCK ---
@@ -1185,11 +1185,11 @@ Taxa
 --- BLOCK ---
 Ambiente
 --- BLOCK ---
-Monst. principal
+Monst. princ.
 --- BLOCK ---
 Requisitos
 --- BLOCK ---
-Nv. de missão
+Nvl de missão
 --- BLOCK ---
 Sucesso
 --- BLOCK ---
@@ -1201,9 +1201,9 @@ Detalhes
 --- BLOCK ---
 Termos
 --- BLOCK ---
-Estabelecimento
+Estab.
 --- BLOCK ---
-Instável
+Instáv.
 --- BLOCK ---
 Objetivos
 --- BLOCK ---
@@ -1211,15 +1211,15 @@ Compl.
 --- BLOCK ---
 Classificação da Arena
 --- BLOCK ---
-Rango S
+Ranking S
 --- BLOCK ---
-Rango A
+Ranking A
 --- BLOCK ---
-Rango B
+Ranking B
 --- BLOCK ---
 Derrotas
 --- BLOCK ---
-Recompensa
+Recomp.
 --- BLOCK ---
 Tempo
 --- BLOCK ---
@@ -1269,7 +1269,7 @@ Sono
 --- BLOCK ---
 Alcance C
 --- BLOCK ---
-Tinta
+Pintura
 --- BLOCK ---
 Fadiga
 --- BLOCK ---
@@ -1291,7 +1291,7 @@ Sono
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Slime
+Baba
 --- BLOCK ---
 Nome
 --- BLOCK ---
@@ -1341,7 +1341,7 @@ Confirmar saída
 --- BLOCK ---
 Uma vez confirmado, a missão começará.
 --- BLOCK ---
-Está tudo pronto para partir?
+Tudo pronto para partir?
 --- BLOCK ---
 Sim
 --- BLOCK ---
@@ -1395,9 +1395,9 @@ Mostrar menu
 --- BLOCK ---
 Mudar lista
 --- BLOCK ---
-Nomes habilidades
+Nomes habil.
 --- BLOCK ---
-Nome Adornado
+Nome Adorn.
 --- BLOCK ---
 Habilidades
 --- BLOCK ---

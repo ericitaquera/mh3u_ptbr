@@ -1,0 +1,530 @@
+﻿MENU
+--- BLOCK [001] ---
+HELP
+--- BLOCK [002] ---
+MAPICON_VILLAGE
+--- BLOCK [003] ---
+MAPICON_HARBOR
+--- BLOCK [004] ---
+MAPICON_GUILD
+--- BLOCK [005] ---
+CARDLIST
+--- BLOCK [006] ---
+CARDLISTHELP
+--- BLOCK [007] ---
+TRADE_HELP
+--- BLOCK [008] ---
+CANTEEN_HELP
+--- BLOCK [009] ---
+FISHERY_HELP
+--- BLOCK [010] ---
+FARM_HELP
+--- BLOCK [011] ---
+HUNTER_HELP
+--- BLOCK [012] ---
+GMASTER_HELP
+--- BLOCK [013] ---
+DUMMY
+--- BLOCK [014] ---
+DUMMY
+--- BLOCK [015] ---
+DUMMY
+--- BLOCK [016] ---
+Aldeia Moga
+--- BLOCK [017] ---
+Clima Moga
+--- BLOCK [018] ---
+Cart. Guilda
+--- BLOCK [019] ---
+Ítem
+--- BLOCK [020] ---
+Gestos
+--- BLOCK [021] ---
+Jogadores
+--- BLOCK [022] ---
+Caçadores
+de aluguel
+--- BLOCK [023] ---
+Mapa
+--- BLOCK [024] ---
+Caçadores de aluguel
+--- BLOCK [025] ---
+Lugar
+--- BLOCK [026] ---
+Tarifa
+--- BLOCK [027] ---
+À Taverna
+--- BLOCK [028] ---
+Examinar
+--- BLOCK [029] ---
+Editar
+--- BLOCK [030] ---
+Lista cartões
+--- BLOCK [031] ---
+Enviar a todos
+--- BLOCK [032] ---
+Enviar a alguns
+--- BLOCK [033] ---
+Abrir bolsa
+--- BLOCK [034] ---
+Receber ítem
+--- BLOCK [035] ---
+Combinar
+--- BLOCK [036] ---
+Lista Combo
+--- BLOCK [037] ---
+Jogadores
+--- BLOCK [038] ---
+Caçador
+--- BLOCK [039] ---
+NC %3d
+--- BLOCK [040] ---
+Jogadores
+--- BLOCK [041] ---
+DUMMY
+--- BLOCK [042] ---
+Balcão de Missões
+--- BLOCK [043] ---
+Pescaria
+--- BLOCK [044] ---
+Argosy
+--- BLOCK [045] ---
+Estoque
+--- BLOCK [046] ---
+Cantina
+--- BLOCK [047] ---
+Mercado
+--- BLOCK [048] ---
+Armeiro/Ferreiro
+--- BLOCK [049] ---
+Ferry (Neko)
+--- BLOCK [050] ---
+Sua casa
+--- BLOCK [051] ---
+Fazenda
+--- BLOCK [052] ---
+Mercado
+--- BLOCK [053] ---
+Armeiro/Ferreiro
+--- BLOCK [054] ---
+Ferry (Neko)
+--- BLOCK [055] ---
+Mensageiro
+--- BLOCK [056] ---
+Pensão
+--- BLOCK [057] ---
+DUMMY
+--- BLOCK [058] ---
+Taverna
+--- BLOCK [059] ---
+Balcão de Missões
+--- BLOCK [060] ---
+Cantina
+--- BLOCK [061] ---
+Loja da Guilda
+--- BLOCK [062] ---
+Caixa de ítens
+--- BLOCK [063] ---
+Queda de braço
+--- BLOCK [064] ---
+Mirante
+--- BLOCK [065] ---
+Tabela Missões
+--- BLOCK [066] ---
+Altera tipo
+--- BLOCK [067] ---
+Ordenar
+--- BLOCK [068] ---
+Apagar
+--- BLOCK [069] ---
+Comentar
+--- BLOCK [070] ---
+Mover cartão
+--- BLOCK [071] ---
+Tipo
+--- BLOCK [072] ---
+Nv. unidade
+--- BLOCK [073] ---
+Número
+--- BLOCK [074] ---
+Nome
+--- BLOCK [075] ---
+Tipo
+--- BLOCK [076] ---
+Nível unidade
+--- BLOCK [077] ---
+Data
+--- BLOCK [078] ---
+Compaheiro
+--- BLOCK [079] ---
+Amigo
+--- BLOCK [080] ---
+Colega classe
+--- BLOCK [081] ---
+Colega equipe
+--- BLOCK [082] ---
+Colega grupo
+--- BLOCK [083] ---
+Colega quarto
+--- BLOCK [084] ---
+Familia
+--- BLOCK [085] ---
+Especial
+--- BLOCK [086] ---
+Col. trabalho
+--- BLOCK [087] ---
+Colega
+--- BLOCK [088] ---
+VIP
+--- BLOCK [089] ---
+Rival
+--- BLOCK [090] ---
+Elite
+--- BLOCK [091] ---
+Conhecido
+--- BLOCK [092] ---
+Sem conexão
+--- BLOCK [093] ---
+Online
+--- BLOCK [094] ---
+Guilda
+--- BLOCK [095] ---
+Mascote
+--- BLOCK [096] ---
+Aluno
+--- BLOCK [097] ---
+Equipe 1
+--- BLOCK [098] ---
+Equipe 2
+--- BLOCK [099] ---
+Equipe 3
+--- BLOCK [100] ---
+Transeunte
+--- BLOCK [101] ---
+Amorzinho
+--- BLOCK [102] ---
+StreetPass
+--- BLOCK [103] ---
+HARDUMMY
+--- BLOCK [104] ---
+HARDUMMY
+--- BLOCK [105] ---
+HARDUMMY
+--- BLOCK [106] ---
+HARDUMMY
+--- BLOCK [107] ---
+HARDUMMY
+--- BLOCK [108] ---
+HARDUMMY
+--- BLOCK [109] ---
+HARDUMMY
+--- BLOCK [110] ---
+(Tipo do StreetPass não pode ser alterado)
+--- BLOCK [111] ---
+Controle. digital: Posição. A: Confirma
+--- BLOCK [112] ---
+(Não pode mover cartão sob espaços vazios)
+--- BLOCK [113] ---
+O Argosy
+--- BLOCK [114] ---
+Sobre o Argosy
+--- BLOCK [115] ---
+Trocas
+--- BLOCK [116] ---
+Trocas raras
+--- BLOCK [117] ---
+Bens raros
+--- BLOCK [118] ---
+Pedir encomendas
+--- BLOCK [119] ---
+Fale com o capitão do Argosy para trocar
+bens por exóticos artigos estrangeiros.
+Você encontrará mercadorias
+na Floresta Moga e outros lugares.
+--- BLOCK [120] ---
+O Argosy viaja constantemente, e por isto
+ele só fica na aldeia por alguns dias.
+Enquanto estiver atracado você pode
+trocar itens ou solicitar encomendas.
+--- BLOCK [121] ---
+Trocar é fácil! Selecione os produtos
+o que você oferece e os ítens que deseja
+em troca. A troca será feita se os bens
+tiverem valor igual ou superior.
+--- BLOCK [122] ---
+As trocas não se limitam a uma unidade.
+Se você quer um item caro, você pode
+entregar vários produtos baratos
+em vez de um de maior valor.
+--- BLOCK [123] ---
+Se você quiser itens raros, você precisa
+entregar produtos raros. Esses objetos
+são marcados com ☆. Tenha em mente que
+Você só pode usar um bem raro por vez.
+--- BLOCK [124] ---
+Os bens raros oferecidos devem ser de
+valor igual ou maior que o objeto
+desejado.
+--- BLOCK [125] ---
+Muitos dos bens raros são obtidos
+caçando monstros na Floresta Moga.
+--- BLOCK [126] ---
+Se quiser obter os bens mais raros,
+cace monstros grandes na Floresta Moga
+e então faça um relatório de caça
+para o filho do chefe.
+--- BLOCK [127] ---
+Selecione a opção Pedir encomendas
+para informar ao capitão do Argosy de
+quais terras estrangeiras ele devem
+visitar em seguida.
+--- BLOCK [128] ---
+Escolha Ajuda de Viagem para reduzir
+o tempo que leva para o Argosy retornar
+para Moga.
+--- BLOCK [129] ---
+A Cantina
+--- BLOCK [130] ---
+Sobre a Cantina
+--- BLOCK [131] ---
+Como pagar pela comida
+--- BLOCK [132] ---
+Como usar vouchers
+--- BLOCK [133] ---
+Ingredientes e seus níveis
+--- BLOCK [134] ---
+Ingredientes frescos
+--- BLOCK [135] ---
+Habilidades de comida
+--- BLOCK [136] ---
+Métodos de preparação
+--- BLOCK [137] ---
+A Cantina é o lugar para desfrutar
+de uma boa refeição antes de ir caçar.
+Para pedir uma, basta escolher os
+ingredientes e o modo de preparo.
+--- BLOCK [138] ---
+As comidas dão aumento de status
+variados e outros benefícios. Também
+podem ativar Habilidades de comida que
+ajudam os caçadores em missões.
+--- BLOCK [139] ---
+Para pedir uma refeição, escolha dois
+ingredientes e um método de preparação.
+Claro: elas não são grátis. Terá que pagar
+com dinheiro ou com pontos de Recursos.
+--- BLOCK [140] ---
+Você também pode usar vouchers para fazer
+o pedido sem gastar dinheiro ou Recursos.
+Refeições pagas com vouchers sempre
+levam os ingredientes mais frescos.
+--- BLOCK [141] ---
+Se um jogador usar um voucher durante
+um jogo multijogador, os efeitos
+dos mesmos são compartilhados com outros
+jogadores presentes.
+--- BLOCK [142] ---
+Novos ingredientes podem ser obtidos ao
+completar certas missões, por exemplo.
+<COLO 4>Ao adquirir um novo ingrediente, sobe
+o <COLO 5>nível de ingrediente<COLO 4> correspondente.<COLO 0>
+--- BLOCK [143] ---
+À medida que o nível de ingredientes
+aumenta, se adiciona uma ☆ aos seus nomes.
+<COLO 4>Refeições com ingredientes de qualidade
+alta aumentam a <COLO 5>Saúde<COLO 4>.<COLO 0>
+--- BLOCK [144] ---
+<COLO 4>Peça comida com ingredientes frescos
+e você ganhará um aumento <COLO 5>Resistência<COLO 4>.<COLO 0>
+Além disso, você terá mais probabilidade de
+ativar Habilidades de comida.
+--- BLOCK [145] ---
+As habilidades de comida são divididas
+em duas categorias: fixa e diária.
+--- BLOCK [146] ---
+As habilidades que são produzidas através
+da combinação de alguns ingredientes
+específicos aparecem na lista 
+Habilidades fixas.
+--- BLOCK [147] ---
+Habilidades que variam diariamente
+são exibidos na lista de Habilidades
+do dia.
+--- BLOCK [148] ---
+Você tem quatro métodos de preparação
+ao pedir uma refeição: refogar, ensopar,
+cozinhar no vapor e fritar.
+--- BLOCK [149] ---
+Os mesmos ingredientes podem produzir
+diferentes efeitos e habilidades dependendo
+o método de preparação escolhido.
+--- BLOCK [150] ---
+As habilidades do dia são escolhidas pelo
+método de preparação, não pelos
+ingredientes, e seu número varia
+dependendo dos ingredientes combinados.
+--- BLOCK [151] ---
+A Pesca
+--- BLOCK [152] ---
+Sobre a Pesca
+--- BLOCK [153] ---
+Enviar barcos
+--- BLOCK [154] ---
+Destinos
+--- BLOCK [155] ---
+Provisões
+--- BLOCK [156] ---
+A Pesca
+--- BLOCK [157] ---
+Ver estado da frota
+--- BLOCK [158] ---
+Na Pescaria da Vila você pode fazer
+pedidos aos navios da Frota caçar.
+Então eles partirão para o mar em busca
+de seu desejado saque.
+--- BLOCK [159] ---
+A tela Enviar Navios permite que você
+selecione uma região, escolha provisões
+e gaste recursos para enviar a frota.
+--- BLOCK [160] ---
+A frota pode ir para várias regiões,
+cada um com seu próprio tempo de viagem e
+uma previsão de desempenho. Mantenha-se
+no jogo para acessar mais.
+--- BLOCK [161] ---
+As provisões são usadas ​​para melhorar
+a travessia reduzindo o tempo de
+viajem ou aumentar a possibilidade
+da aparição de ítens.
+--- BLOCK [162] ---
+Assim que a frota retornar, você poderá
+coletar o saque na Caixa de Pesca. Você
+não poderá enviar a frota novamente até
+que você não recolha os ítens.
+--- BLOCK [163] ---
+Toque no painel da Aldeia Moga para
+visualizar o estado de cada navio, no
+qual se indica o destino atual e o tempo
+até o seu retorno.
+--- BLOCK [164] ---
+A Fazenda
+--- BLOCK [165] ---
+Sobre a Fazenda
+--- BLOCK [166] ---
+Como solicitar cultivos
+--- BLOCK [167] ---
+Fertilizante
+--- BLOCK [168] ---
+Como fazer a colheita
+--- BLOCK [169] ---
+O Estado da Fazenda
+--- BLOCK [170] ---
+Fale com o chefe dos fazendeiros para que
+seus fazendeiros Felyne comecem a trabalhar
+cultivar ervas, cogumelos e insetos.
+--- BLOCK [171] ---
+Você pode aumentar as capacidades
+da Fazenda atendendo as solicitações
+da população.
+--- BLOCK [172] ---
+Na tela de Cultivo você pode escolher
+o item que você deseja cultivar, adicionar
+fertilizante e definir a quantidade.
+--- BLOCK [173] ---
+Os itens serão cultivados depois que você
+completar uma missão ou passar um certo
+tempo na Floresta Moga. Depois,
+venha buscá-los quando quiser.
+--- BLOCK [174] ---
+Se você aumentar a quantidade, o mesmo
+o item será cultivado quantas vezes
+você indicar.
+--- BLOCK [175] ---
+O uso de fertilizantes permitirá que você
+colha mais itens. Experimente
+e você verá!
+--- BLOCK [176] ---
+Assim que o cultivo estiver concluído,
+verifique a Caixa de Colheita para
+colher. Você não será capaz de crescer
+novos objetos até esvaziá-la.
+--- BLOCK [177] ---
+Toque no painel Aldeia Moga para visualizar
+o estado de cada Felyne, como quais
+itens (e quantos) estão cultivando
+no momento.
+--- BLOCK [178] ---
+Caçadores de aluguel
+--- BLOCK [179] ---
+Sobre Caçadores de aluguel
+--- BLOCK [180] ---
+Como contratar caçadores
+--- BLOCK [181] ---
+Sucesso e fracasso
+--- BLOCK [182] ---
+Segredos do sucesso
+--- BLOCK [183] ---
+Os caçadores com quem você negocia os
+cartões da guilda estão na Taverna do
+porto. Envie-os em missões e ganhe
+recompensas com base nos seus resultados.
+--- BLOCK [184] ---
+Fale com um caçador contratado e
+escolha contratá-lo para uma missão
+e você acessará uma tela de
+contratação.
+--- BLOCK [185] ---
+Na tela de contratação, você verá
+a probabilidade de sucesso da missão e
+mudará a tarifa levando em consideração
+o número de caçadores contratados.
+--- BLOCK [186] ---
+A probabilidade de sucesso de uma missão
+indica até que ponto eles são treinados
+realizá-la. Quanto mais velhos eles forem,
+mais opções terão.
+--- BLOCK [187] ---
+A tarifa da missão dependerá da
+número de caçadores contratados.
+Mais caçadores significam valores
+maiores, mas aumentam a probabilidade.
+--- BLOCK [188] ---
+Basta pressionar Confirmar na tela
+para de contratação, caçadores de aluguel
+participantes realizarão a missão.
+--- BLOCK [189] ---
+Os caçadores de aluguel nem sempre
+completam as missões, mas pelo menos as
+missões fracassadas fornecem algumas
+pequenas recompensas.
+--- BLOCK [190] ---
+A probabilidade de sucesso de uma missão
+depende em grande parte de quão eficaz
+seja o time dos caçadores de aluguel
+para o objetivo.
+--- BLOCK [191] ---
+Se um monstro for vulnerável ao fogo,
+por exemplo, valerá a pena enviar
+um caçador com uma arma de fogo.
+Confira a equipe antes de contratar.
+--- BLOCK [192] ---
+HARDUMMY
+--- BLOCK [193] ---
+O Mestre da Guilda
+--- BLOCK [194] ---
+Preferências Caçadores de Aluguel
+--- BLOCK [195] ---
+Como definir preferências
+--- BLOCK [196] ---
+Fale com o Mestre da Guilda para
+definir preferências para tipos de
+missão às quais você quer enviar
+caçadores de aluguel.
+--- BLOCK [197] ---
+Pode especificar três critérios:
+alcance, localização e objetivo.
+--- BLOCK [198] ---
+Você ganhará mais opções para os critérios
+Alcance e localização da missão conforme
+você avança no jogo.
+--- BLOCK [199] ---

@@ -102,64 +102,64 @@ Para a fazenda
 --- BLOCK ---
 Nenhum.
 --- BLOCK ---
-Precisa ser RC 1
+Precisa ser NC 1
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 2
+Precisa ser NC 2
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 3
+Precisa ser NC 3
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 4
+Precisa ser NC 4
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 5
+Precisa ser NC 5
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 6
+Precisa ser NC 6
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 7
+Precisa ser NC 7
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 8
+Precisa ser NC 8
 ou superior para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 3 ou superior
+Precisa ser NC 3 ou superior
 para juntar-se. Máx. de participantes: 1
 --- BLOCK ---
-Precisa ser RC 6 ou superior
+Precisa ser NC 6 ou superior
 para juntar-se. Máx. de participantes: 1
 --- BLOCK ---
-Precisa ser RC 8 ou superior
+Precisa ser NC 8 ou superior
 para juntar-se. Máx. de participantes: 1
 --- BLOCK ---
-Precisa ser RC 3 ou superior
+Precisa ser NC 3 ou superior
 para juntar-se. Máx. de participantes: 2
 --- BLOCK ---
-Precisa ser RC 6 ou superior
+Precisa ser NC 6 ou superior
 para juntar-se. Máx. de participantes: 2
 --- BLOCK ---
-Precisa ser RC 8 ou superior
+Precisa ser NC 8 ou superior
 para juntar-se. Máx. de participantes: 2
 --- BLOCK ---
-Precisa ser RC 3 ou superior
+Precisa ser NC 3 ou superior
 para juntar-se. Máx. de participantes: 4
 --- BLOCK ---
-Precisa ser RC 6 ou superior
+Precisa ser NC 6 ou superior
 para juntar-se. Máx. de participantes: 4
 --- BLOCK ---
-Precisa ser RC 8 ou superior
+Precisa ser NC 8 ou superior
 para juntar-se. Máx. de participantes: 4
 --- BLOCK ---
 Sem talismãs ou
 armadura para iniciar/juntar-se.
 --- BLOCK ---
-Precisa ser RC 3 ou
+Precisa ser NC 3 ou
 mais para juntar-se. Sem armad./talism.
 --- BLOCK ---
-Precisa ser RC 6 ou
+Precisa ser NC 6 ou
 mais para juntar-se. Sem armad./talism.
 --- BLOCK ---
 Deve levar Cha-Cha
@@ -174,13 +174,13 @@ Macabra e com Cha-Cha.
 Com Kayamba com Máscara
 Macabra e com Cha-Cha.
 --- BLOCK ---
-Sem restrições de RC.
+Sem restrições de NC.
 Participantes máx.: 1
 --- BLOCK ---
-Sem restrições de RC.
+Sem restrições de NC.
 Participantes máx.: 2
 --- BLOCK ---
-Sem restrições de RC.
+Sem restrições de NC.
 Participantes máx.: 4
 --- BLOCK ---
 Recom. Totais

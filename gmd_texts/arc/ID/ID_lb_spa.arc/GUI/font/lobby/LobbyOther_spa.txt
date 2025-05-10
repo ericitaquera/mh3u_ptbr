@@ -1,0 +1,828 @@
+﻿TMSG_OTHER_QC_00
+--- BLOCK ---
+TMSG_OTHER_QC_01
+--- BLOCK ---
+TMSG_OTHER_QC_02
+--- BLOCK ---
+TMSG_OTHER_QC_03
+--- BLOCK ---
+TMSG_OTHER_QC_04
+--- BLOCK ---
+TMSG_OTHER_QC_05
+--- BLOCK ---
+TMSG_OTHER_QC_06
+--- BLOCK ---
+TMSG_OTHER_QC_07
+--- BLOCK ---
+TMSG_OTHER_QC_08
+--- BLOCK ---
+TMSG_OTHER_QC_09
+--- BLOCK ---
+TMSG_OTHER_QC_10
+--- BLOCK ---
+TMSG_OTHER_QC_11
+--- BLOCK ---
+TMSG_OTHER_QC_12
+--- BLOCK ---
+TMSG_OTHER_QC_13
+--- BLOCK ---
+TMSG_OTHER_QB_00
+--- BLOCK ---
+TMSG_OTHER_QB_01
+--- BLOCK ---
+TMSG_OTHER_QB_02
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_00
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_01
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_02
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_03
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_04
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_05
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_06
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_07
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_08
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_09
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_10
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_11
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_12
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_13
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_14
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_15
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_16
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_17
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_18
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_19
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_20
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_21
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_22
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_23
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_24
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_25
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_26
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_27
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_28
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_29
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_30
+--- BLOCK ---
+TMSG_OTHER_GCVIEW_31
+--- BLOCK ---
+TMSG_OTHER_GCMENU_00
+--- BLOCK ---
+TMSG_OTHER_GCMENU_01
+--- BLOCK ---
+TMSG_OTHER_GCMENU_02
+--- BLOCK ---
+TMSG_OTHER_GCMENU_03
+--- BLOCK ---
+TMSG_OTHER_GCMENU_04
+--- BLOCK ---
+TMSG_OTHER_GCMENU_05
+--- BLOCK ---
+TMSG_OTHER_GCMENU_06
+--- BLOCK ---
+TMSG_OTHER_GCMENU_07
+--- BLOCK ---
+TMSG_OTHER_GCMENU_08
+--- BLOCK ---
+TMSG_OTHER_GCMENU_09
+--- BLOCK ---
+TMSG_OTHER_GCMENU_10
+--- BLOCK ---
+TMSG_OTHER_GCMENU_11
+--- BLOCK ---
+TMSG_OTHER_GCMENU_12
+--- BLOCK ---
+TMSG_OTHER_GCMENU_13
+--- BLOCK ---
+TMSG_OTHER_GCMENU_14
+--- BLOCK ---
+TMSG_OTHER_GCMENU_15
+--- BLOCK ---
+TMSG_OTHER_CARDLIST_00
+--- BLOCK ---
+TMSG_OTHER_CARDLIST_01
+--- BLOCK ---
+TMSG_OTHER_CARDLIST_02
+--- BLOCK ---
+TMSG_OTHER_CARDLIST_03
+--- BLOCK ---
+TMSG_OTHER_GHUNTER_00
+--- BLOCK ---
+TMSG_OTHER_GHUNTER_01
+--- BLOCK ---
+TMSG_OTHER_GHUNTER_02
+--- BLOCK ---
+TMSG_OTHER_GHUNTER_03
+--- BLOCK ---
+TMSG_OTHER_GHUNTER_04
+--- BLOCK ---
+TMSG_OTHER_GHUNTER_05
+--- BLOCK ---
+TMSG_OTHER_RANKING_00
+--- BLOCK ---
+TMSG_OTHER_RANKING_01
+--- BLOCK ---
+TMSG_OTHER_RANKING_02
+--- BLOCK ---
+TMSG_OTHER_RANKING_03
+--- BLOCK ---
+TMSG_OTHER_RANKING_04
+--- BLOCK ---
+TMSG_OTHER_RANKING_05
+--- BLOCK ---
+TMSG_OTHER_RANKING_06
+--- BLOCK ---
+TMSG_OTHER_MYSET_00
+--- BLOCK ---
+TMSG_OTHER_MYSET_01
+--- BLOCK ---
+TMSG_OTHER_MYSET_02
+--- BLOCK ---
+TMSG_OTHER_MYSET_03
+--- BLOCK ---
+TMSG_OTHER_MYSET_04
+--- BLOCK ---
+TMSG_OTHER_MYSET_05
+--- BLOCK ---
+TMSG_OTHER_MYSET_06
+--- BLOCK ---
+TMSG_OTHER_MYSET_07
+--- BLOCK ---
+TMSG_OTHER_MYSET_08
+--- BLOCK ---
+TMSG_OTHER_MYSET_09
+--- BLOCK ---
+TMSG_OTHER_MYSET_10
+--- BLOCK ---
+TMSG_OTHER_MYSET_11
+--- BLOCK ---
+TMSG_OTHER_MYSET_12
+--- BLOCK ---
+TMSG_OTHER_MYSET_13
+--- BLOCK ---
+TMSG_OTHER_MYSET_14
+--- BLOCK ---
+TMSG_OTHER_MYSET_15
+--- BLOCK ---
+TMSG_OTHER_MYSET_16
+--- BLOCK ---
+TMSG_OTHER_MYSET_17
+--- BLOCK ---
+TMSG_OTHER_MYSET_18
+--- BLOCK ---
+TMSG_OTHER_MYSET_19
+--- BLOCK ---
+TMSG_OTHER_MYSET_20
+--- BLOCK ---
+TMSG_OTHER_MYSET_21
+--- BLOCK ---
+TMSG_OTHER_MYSET_22
+--- BLOCK ---
+TMSG_OTHER_MYSET_23
+--- BLOCK ---
+TMSG_OTHER_MYSET_24
+--- BLOCK ---
+TMSG_OTHER_MYSET_25
+--- BLOCK ---
+TMSG_OTHER_MYSET_26
+--- BLOCK ---
+TMSG_OTHER_MYSET_27
+--- BLOCK ---
+TMSG_OTHER_MYBOX_00
+--- BLOCK ---
+TMSG_OTHER_MYBOX_01
+--- BLOCK ---
+TMSG_OTHER_MYBOX_02
+--- BLOCK ---
+TMSG_OTHER_MYBOX_03
+--- BLOCK ---
+TMSG_OTHER_MYBOX_04
+--- BLOCK ---
+TMSG_OTHER_MYBOX_05
+--- BLOCK ---
+TMSG_OTHER_MYBOX_06
+--- BLOCK ---
+TMSG_OTHER_MYBOX_07
+--- BLOCK ---
+TMSG_OTHER_MYBOX_08
+--- BLOCK ---
+TMSG_OTHER_MYBOX_09
+--- BLOCK ---
+TMSG_OTHER_MYBOX_10
+--- BLOCK ---
+TMSG_OTHER_FARM_00
+--- BLOCK ---
+TMSG_OTHER_FARM_01
+--- BLOCK ---
+TMSG_OTHER_FARM_02
+--- BLOCK ---
+TMSG_OTHER_FARM_03
+--- BLOCK ---
+TMSG_OTHER_FARM_04
+--- BLOCK ---
+TMSG_OTHER_FARM_05
+--- BLOCK ---
+TMSG_OTHER_FISH_00
+--- BLOCK ---
+TMSG_OTHER_FISH_01
+--- BLOCK ---
+TMSG_OTHER_FISH_02
+--- BLOCK ---
+TMSG_OTHER_FISH_03
+--- BLOCK ---
+TMSG_OTHER_TRADE_00
+--- BLOCK ---
+TMSG_OTHER_TRADE_01
+--- BLOCK ---
+TMSG_OTHER_TRADE_02
+--- BLOCK ---
+TMSG_OTHER_TRADE_03
+--- BLOCK ---
+TMSG_OTHER_TRADE_04
+--- BLOCK ---
+TMSG_OTHER_TRADE_05
+--- BLOCK ---
+TMSG_OTHER_TRADE_06
+--- BLOCK ---
+TMSG_OTHER_TRADE_07
+--- BLOCK ---
+TMSG_OTHER_TRADE_08
+--- BLOCK ---
+TMSG_OTHER_TRADE_09
+--- BLOCK ---
+TMSG_OTHER_TRADE_10
+--- BLOCK ---
+TMSG_OTHER_KAKO_00
+--- BLOCK ---
+TMSG_OTHER_KAKO_01
+--- BLOCK ---
+TMSG_OTHER_KAKO_02
+--- BLOCK ---
+TMSG_OTHER_KAKO_03
+--- BLOCK ---
+TMSG_OTHER_KAKO_04
+--- BLOCK ---
+TMSG_OTHER_KAKO_05
+--- BLOCK ---
+TMSG_OTHER_KAKO_06
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_00
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_01
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_02
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_03
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_04
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_05
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_06
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_07
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_08
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_09
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_10
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_11
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_12
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_13
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_14
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_15
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_16
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_17
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_18
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_19
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_20
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_21
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_22
+--- BLOCK ---
+TMSG_OTHER_EXCHANGE_23
+--- BLOCK ---
+TMSG_OTHER_FOOD_00
+--- BLOCK ---
+TMSG_OTHER_FOOD_01
+--- BLOCK ---
+TMSG_OTHER_FOOD_02
+--- BLOCK ---
+TMSG_OTHER_FOOD_03
+--- BLOCK ---
+TMSG_OTHER_FOOD_04
+--- BLOCK ---
+TMSG_OTHER_FOOD_05
+--- BLOCK ---
+TMSG_OTHER_ROOMCAT_00
+--- BLOCK ---
+TMSG_OTHER_GMASTER_00
+--- BLOCK ---
+TMSG_OTHER_GMASTER_01
+--- BLOCK ---
+TMSG_OTHER_GMASTER_02
+--- BLOCK ---
+TMSG_OTHER_GMASTER_03
+--- BLOCK ---
+TMSG_OTHER_GMASTER_04
+--- BLOCK ---
+TMSG_OTHER_GMASTER_05
+--- BLOCK ---
+TMSG_OTHER_AINPC_00
+--- BLOCK ---
+TMSG_OTHER_AINPC_01
+--- BLOCK ---
+TMSG_OTHER_AINPC_02
+--- BLOCK ---
+TMSG_OTHER_AINPC_03
+--- BLOCK ---
+TMSG_OTHER_AINPC_04
+--- BLOCK ---
+TMSG_OTHER_AINPC_05
+--- BLOCK ---
+TMSG_OTHER_AINPC_06
+--- BLOCK ---
+TMSG_OTHER_AINPC_07
+--- BLOCK ---
+TMSG_OTHER_AINPC_08
+--- BLOCK ---
+TMSG_OTHER_AINPC_09
+--- BLOCK ---
+TMSG_OTHER_AINPC_10
+--- BLOCK ---
+TMSG_OTHER_NPC_00
+--- BLOCK ---
+TMSG_OTHER_NPC_01
+--- BLOCK ---
+TMSG_OTHER_POST_00
+--- BLOCK ---
+TMSG_OTHER_POST_01
+--- BLOCK ---
+TMSG_OTHER_POST_02
+--- BLOCK ---
+TMSG_OTHER_MAKI_00
+--- BLOCK ---
+TMSG_OTHER_FACILITY_00
+--- BLOCK ---
+TMSG_OTHER_FACILITY_01
+--- BLOCK ---
+TMSG_OTHER_VILLAGE_00
+--- BLOCK ---
+Lugar
+--- BLOCK ---
+Límite
+--- BLOCK ---
+Recom.
+--- BLOCK ---
+Tarifa
+--- BLOCK ---
+Mons. ppales.
+--- BLOCK ---
+Nv. misión
+--- BLOCK ---
+Éxito
+--- BLOCK ---
+Fracaso
+--- BLOCK ---
+Términos
+--- BLOCK ---
+Clnte.
+--- BLOCK ---
+Detalles
+--- BLOCK ---
+%02d:%02d
+--- BLOCK ---
+--"--
+--- BLOCK ---
+%02d:%02d
+--- BLOCK ---
+(SinMis)
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d/6
+--- BLOCK ---
+RC
+--- BLOCK ---
+%3d
+--- BLOCK ---
+%4d
+--- BLOCK ---
+100
+--- BLOCK ---
+500
+--- BLOCK ---
+1000
+--- BLOCK ---
+5000
+--- BLOCK ---
+%4d:%02d
+--- BLOCK ---
+%02d.%02d.%02d
+--- BLOCK ---
+ <ICON %02d><COLO 34>%s
+--- BLOCK ---
+ <COLO 39><ICON C><COLO 34>
+--- BLOCK ---
+ <COLO 40><ICON K><COLO 34>
+--- BLOCK ---
+ <ICON %02d><COLO 38>%s
+--- BLOCK ---
+ <COLO 39><ICON C><COLO 38>
+--- BLOCK ---
+ <COLO 40><ICON K><COLO 38>
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%4.2f %s
+--- BLOCK ---
+%4.2f
+--- BLOCK ---
+%s.%s%s
+--- BLOCK ---
+%s.%s
+--- BLOCK ---
+%s%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d/%d
+--- BLOCK ---
+%02d'%02d"%02d
+--- BLOCK ---
+--'--"--
+--- BLOCK ---
+A
+--- BLOCK ---
+Y
+--- BLOCK ---
+B
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+<COLO 02>
+--- BLOCK ---
+%s
+--- BLOCK ---
+<COLO 02>%s
+<COLO 00>%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%02d
+--- BLOCK ---
+%04d.%02d.%02d
+--- BLOCK ---
+%3d.%02d
+--- BLOCK ---
+<COL 646464FF>%s
+</COL>
+--- BLOCK ---
+%s%s%s
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+---
+--- BLOCK ---
+%02d:%02d
+--- BLOCK ---
+%03d
+--- BLOCK ---
+%03d
+--- BLOCK ---
+ %s
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%02d
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+E
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%dp
+--- BLOCK ---
+%d/%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%dp
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s%d%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%2d
+--- BLOCK ---
+%-2d/%-2d
+--- BLOCK ---
+%2d
+--- BLOCK ---
+%-1d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+<COL 505050>%s</COL>
+--- BLOCK ---
+<COL 505050>%s</COL>
+--- BLOCK ---
+<COL 505050>%d%s</COL>
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+<COL 505050>%d%s</COL>
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+<COL 505050>%d</COL>
+--- BLOCK ---
+%d
+--- BLOCK ---
+<COL 505050>%d</COL>
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+<COLO 02>(%s)
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+<ICON %02d>%s
+--- BLOCK ---
+<ICON %02d>%s
+--- BLOCK ---
+%4d.%02d.%02d
+--- BLOCK ---
+%02d
+--- BLOCK ---
+%s%s%d
+--- BLOCK ---
+%6d z
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---

@@ -10,6 +10,7 @@
 romfs.bin
 *.header
 /aaa/
+/blog/
 
 # Optional: ignore if working dirs are rebuilt each time
 #/gmd_texts/

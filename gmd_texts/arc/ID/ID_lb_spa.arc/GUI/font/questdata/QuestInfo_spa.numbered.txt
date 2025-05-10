@@ -1,0 +1,24 @@
+﻿qinfo_msg_OTHER
+--- BLOCK [001] ---
+qinfo_msg_DragonShip
+--- BLOCK [002] ---
+%d m
+--- BLOCK [003] ---
+%d z
+--- BLOCK [004] ---
+%2d:%02d
+--- BLOCK [005] ---
+%d/%d
+--- BLOCK [006] ---
+--
+--- BLOCK [007] ---
+Nada
+--- BLOCK [008] ---
+Norm
+--- BLOCK [009] ---
+Baja
+--- BLOCK [010] ---
+Aten
+--- BLOCK [011] ---
+Peli
+--- BLOCK [012] ---

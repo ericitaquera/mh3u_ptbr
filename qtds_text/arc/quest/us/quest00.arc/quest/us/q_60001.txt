@@ -1,0 +1,61 @@
+[TITLES]
+TITLES_0=Grudge Match: Purple Ludroth
+TITLES_1=Revanche : Ludroth pourpre
+TITLES_2=Zweikampf: Lila Ludroth
+TITLES_3=Scontro: Ludroth purpureo
+TITLES_4=Topper
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Purple Ludroth
+OBJECTIVES_1=Tuer un Ludroth pourpre
+OBJECTIVES_2=Erlege einen Lila Ludroth.
+OBJECTIVES_3=Uccidi un Ludroth purpureo
+OBJECTIVES_4=Topperson
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=super,
+topper
+FAIL_CONDITIONS_1=3 évanouissements (prime
+atteint 0) ou tps écoulé.
+FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
+auf 0) o. Zeit läuft ab.
+FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
+o tempo scaduto.
+FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
+a 0) o acaba el tiempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Is it just me, or is the Arena's
+atmosphere kinda toxic today?
+I think that Purple Ludroth is
+giving off bad vibes. Wait, you
+mean that misty aura isn't a
+metaphor -- it's actual poison?
+Somebody crack a window!
+DESCRIPTIONS_1=C'est moi ou l'atmosphère de
+l'arène est toxique en ce
+moment ? Je crois que ce
+Ludroth pourpre a une aura
+malfaisante... ou est-ce
+vraiment du poison ? Que
+quelqu'un ouvre la fenêtre !
+DESCRIPTIONS_2=Liegt es an mir, oder ist die
+Atmosphäre in der Arena heute
+wirklich so giftig? Der Lila
+Ludroth sendet böse Wellen
+aus. Moment, seine Aura
+besteht aus echtem Gift? Kann
+mal jemand ein Fenster öffnen?
+DESCRIPTIONS_3=È una mia impressione o nell'Arena
+oggi c'è un'atmosfera tossica? Credo
+che quel Ludroth purpureo stia
+emettendo brutte vibrazioni. Come?
+La sua aura oscura non è solo
+una metafora, ma è vero veleno?
+Qualcuno rompa una finestra!
+DESCRIPTIONS_4=Ora ora se não são
+as consequências das nossas pró
+prias atitudes.

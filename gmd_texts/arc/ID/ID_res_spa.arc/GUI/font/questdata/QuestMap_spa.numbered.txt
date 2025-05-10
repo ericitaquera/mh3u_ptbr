@@ -1,0 +1,40 @@
+﻿map_name_msg
+--- BLOCK [001] ---
+map_name_time_msg
+--- BLOCK [002] ---
+-----
+--- BLOCK [003] ---
+IslDes
+--- BLOCK [004] ---
+LlaAre
+--- BLOCK [005] ---
+BosInu
+--- BLOCK [006] ---
+Tundra
+--- BLOCK [007] ---
+Volcán
+--- BLOCK [008] ---
+GraDes
+--- BLOCK [009] ---
+Ruinas
+--- BLOCK [010] ---
+ArenaTierr
+--- BLOCK [011] ---
+ArenaTierr
+--- BLOCK [012] ---
+Arena Agua
+--- BLOCK [013] ---
+TierrSagra
+--- BLOCK [014] ---
+Arena Agua
+--- BLOCK [015] ---
+CumBor
+--- BLOCK [016] ---
+Torre
+--- BLOCK [017] ---
+MarCon
+--- BLOCK [018] ---
+ ( D )
+--- BLOCK [019] ---
+ ( N )
+--- BLOCK [020] ---

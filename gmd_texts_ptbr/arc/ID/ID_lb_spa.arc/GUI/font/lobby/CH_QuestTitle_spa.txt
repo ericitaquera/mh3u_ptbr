@@ -2,7 +2,7 @@ DATA
 --- BLOCK ---
 Impacto de poções
 --- BLOCK ---
-Chamado para comer
+Chamada para comer
 --- BLOCK ---
 Patrulha de cogumelos
 --- BLOCK ---

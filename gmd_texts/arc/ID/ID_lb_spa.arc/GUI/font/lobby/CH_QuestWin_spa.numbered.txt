@@ -1,0 +1,246 @@
+﻿DATA
+--- BLOCK [001] ---
+Entrega Pociones
+--- BLOCK [002] ---
+Entrega Carne cruda
+--- BLOCK [003] ---
+Entrega Setas especiales
+--- BLOCK [004] ---
+Mata un grupo de Jaggi
+--- BLOCK [005] ---
+Entrega Peces dorados
+--- BLOCK [006] ---
+Caza un Gran Jaggi
+--- BLOCK [007] ---
+Mata un grupo de Ludroth
+--- BLOCK [008] ---
+Mata un grupo de Altaroth
+--- BLOCK [009] ---
+Caza un Arzuros
+--- BLOCK [010] ---
+Caza un Qurupeco
+--- BLOCK [011] ---
+Caza un Ludroth real
+--- BLOCK [012] ---
+Mata un grupo de Wroggi
+--- BLOCK [013] ---
+Caza un Wroggi magnificente
+--- BLOCK [014] ---
+Caza un Barroth
+--- BLOCK [015] ---
+Mata un grupo de Rhenoplos
+--- BLOCK [016] ---
+Caza un Gobul
+--- BLOCK [017] ---
+Caza un Gran Baggi
+--- BLOCK [018] ---
+Caza un Lagombi
+--- BLOCK [019] ---
+Mata un grupo de Baggi
+--- BLOCK [020] ---
+Caza una Rathian
+--- BLOCK [021] ---
+Caza un Gigginox
+--- BLOCK [022] ---
+Caza un Lagiacrus
+--- BLOCK [023] ---
+Caza un Volvidon
+--- BLOCK [024] ---
+Mata un grupo de Uroktor
+--- BLOCK [025] ---
+Caza un Duramboros
+--- BLOCK [026] ---
+Caza un Nibelsnarf
+--- BLOCK [027] ---
+Caza un Diablos
+--- BLOCK [028] ---
+Caza un Uragaan
+--- BLOCK [029] ---
+Caza un Agnaktor
+--- BLOCK [030] ---
+Caza un Rathalos
+--- BLOCK [031] ---
+Caza un Barioth
+--- BLOCK [032] ---
+Mata un grupo de Bullfango
+--- BLOCK [033] ---
+Mata un grupo de Wroggi
+--- BLOCK [034] ---
+Caza un Wroggi magnificente
+--- BLOCK [035] ---
+Mata un grupo de Jaggi
+--- BLOCK [036] ---
+Caza un Gran Jaggi
+--- BLOCK [037] ---
+Entrega Miel
+--- BLOCK [038] ---
+Caza un Arzuros
+--- BLOCK [039] ---
+Mata un grupo de Altaroth
+--- BLOCK [040] ---
+Caza un Qurupeco
+--- BLOCK [041] ---
+Caza un Qurupeco carmesí
+--- BLOCK [042] ---
+Mata un grupo de Bnahabra
+--- BLOCK [043] ---
+Caza un Ludroth real
+--- BLOCK [044] ---
+Caza un Ludroth purpúreo
+--- BLOCK [045] ---
+Mata un grupo de Rhenoplos
+--- BLOCK [046] ---
+Caza un Barroth
+--- BLOCK [047] ---
+Caza una Rathian
+--- BLOCK [048] ---
+Caza una Rathian rosa
+--- BLOCK [049] ---
+Caza un Lagombi
+--- BLOCK [050] ---
+Caza un Gobul
+--- BLOCK [051] ---
+Caza un Plesioth
+--- BLOCK [052] ---
+Mata un grupo de Baggi
+--- BLOCK [053] ---
+Caza un Gran Baggi
+--- BLOCK [054] ---
+Caza un Volvidon
+--- BLOCK [055] ---
+Caza un Gigginox
+--- BLOCK [056] ---
+Caza un Barroth esmeralda
+--- BLOCK [057] ---
+Caza un Gigginox aterrador
+--- BLOCK [058] ---
+Caza un Rathalos
+--- BLOCK [059] ---
+Caza un Duramboros
+--- BLOCK [060] ---
+Caza un Nibelsnarf
+--- BLOCK [061] ---
+Caza un Lagiacrus
+--- BLOCK [062] ---
+Caza un Diablos
+--- BLOCK [063] ---
+Caza un Barioth
+--- BLOCK [064] ---
+Caza un Uragaan
+--- BLOCK [065] ---
+Caza un Brachydios
+--- BLOCK [066] ---
+Caza un Agnaktor
+--- BLOCK [067] ---
+Mata un grupo de Uroktor
+--- BLOCK [068] ---
+Caza un Rathalos celeste
+--- BLOCK [069] ---
+Caza un Zinogre
+--- BLOCK [070] ---
+Caza una Diablos negra
+--- BLOCK [071] ---
+Caza un Nargacuga
+--- BLOCK [072] ---
+Caza un Barioth arenoso
+--- BLOCK [073] ---
+Caza un Uragaan acerado
+--- BLOCK [074] ---
+Caza un Agnaktor glacial
+--- BLOCK [075] ---
+Caza un Lagiacrus marmóreo
+--- BLOCK [076] ---
+Caza un Deviljho
+--- BLOCK [077] ---
+Mata un grupo de Jaggi
+--- BLOCK [078] ---
+Caza un Gran Jaggi
+--- BLOCK [079] ---
+Caza un Wroggi magnificente
+--- BLOCK [080] ---
+Mata un grupo de Altaroth
+--- BLOCK [081] ---
+Caza un Arzuros
+--- BLOCK [082] ---
+Caza un Lagombi
+--- BLOCK [083] ---
+Caza un Qurupeco
+--- BLOCK [084] ---
+Mata un grupo de Rhenoplos
+--- BLOCK [085] ---
+Caza un Qurupeco carmesí
+--- BLOCK [086] ---
+Caza un Ludroth real
+--- BLOCK [087] ---
+Caza un Ludroth purpúreo
+--- BLOCK [088] ---
+Caza un Barroth
+--- BLOCK [089] ---
+Caza un Barroth esmeralda
+--- BLOCK [090] ---
+Mata un grupo de Bnahabra
+--- BLOCK [091] ---
+Caza una Rathian
+--- BLOCK [092] ---
+Caza una Rathian rosa
+--- BLOCK [093] ---
+Caza un Plesioth
+--- BLOCK [094] ---
+Caza un Volvidon
+--- BLOCK [095] ---
+Caza un Nibelsnarf
+--- BLOCK [096] ---
+Caza un Plesioth verde
+--- BLOCK [097] ---
+Caza un Gran Baggi
+--- BLOCK [098] ---
+Caza un Gobul
+--- BLOCK [099] ---
+Caza un Gigginox
+--- BLOCK [100] ---
+Caza un Gigginox aterrador
+--- BLOCK [101] ---
+Caza un Barioth
+--- BLOCK [102] ---
+Caza un Duramboros
+--- BLOCK [103] ---
+Caza un Duram. herrumbroso
+--- BLOCK [104] ---
+Caza un Diablos
+--- BLOCK [105] ---
+Caza una Diablos negra
+--- BLOCK [106] ---
+Caza un Rathalos
+--- BLOCK [107] ---
+Caza un Rathalos celeste
+--- BLOCK [108] ---
+Caza un Uragaan
+--- BLOCK [109] ---
+Caza un Uragaan acerado
+--- BLOCK [110] ---
+Mata un grupo de Uroktor
+--- BLOCK [111] ---
+Caza un Agnaktor
+--- BLOCK [112] ---
+Caza un Barioth arenoso
+--- BLOCK [113] ---
+Caza un Nargacuga
+--- BLOCK [114] ---
+Caza un Nargacuga verdoso
+--- BLOCK [115] ---
+Entrega Piedras polvo
+--- BLOCK [116] ---
+Caza un Agnaktor glacial
+--- BLOCK [117] ---
+Caza un Deviljho
+--- BLOCK [118] ---
+Caza un Zinogre
+--- BLOCK [119] ---
+Caza un Zinogre estigio
+--- BLOCK [120] ---
+Caza un Lagiacrus
+--- BLOCK [121] ---
+Caza un Lagiacrus marmóreo
+--- BLOCK [122] ---
+Caza un Brachydios
+--- BLOCK [123] ---

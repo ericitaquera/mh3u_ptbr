@@ -1,0 +1,246 @@
+﻿DATA
+--- BLOCK ---
+Entrega Pociones
+--- BLOCK ---
+Entrega Carne cruda
+--- BLOCK ---
+Entrega Setas especiales
+--- BLOCK ---
+Mata un grupo de Jaggi
+--- BLOCK ---
+Entrega Peces dorados
+--- BLOCK ---
+Caza un Gran Jaggi
+--- BLOCK ---
+Mata un grupo de Ludroth
+--- BLOCK ---
+Mata un grupo de Altaroth
+--- BLOCK ---
+Caza un Arzuros
+--- BLOCK ---
+Caza un Qurupeco
+--- BLOCK ---
+Caza un Ludroth real
+--- BLOCK ---
+Mata un grupo de Wroggi
+--- BLOCK ---
+Caza un Wroggi magnificente
+--- BLOCK ---
+Caza un Barroth
+--- BLOCK ---
+Mata un grupo de Rhenoplos
+--- BLOCK ---
+Caza un Gobul
+--- BLOCK ---
+Caza un Gran Baggi
+--- BLOCK ---
+Caza un Lagombi
+--- BLOCK ---
+Mata un grupo de Baggi
+--- BLOCK ---
+Caza una Rathian
+--- BLOCK ---
+Caza un Gigginox
+--- BLOCK ---
+Caza un Lagiacrus
+--- BLOCK ---
+Caza un Volvidon
+--- BLOCK ---
+Mata un grupo de Uroktor
+--- BLOCK ---
+Caza un Duramboros
+--- BLOCK ---
+Caza un Nibelsnarf
+--- BLOCK ---
+Caza un Diablos
+--- BLOCK ---
+Caza un Uragaan
+--- BLOCK ---
+Caza un Agnaktor
+--- BLOCK ---
+Caza un Rathalos
+--- BLOCK ---
+Caza un Barioth
+--- BLOCK ---
+Mata un grupo de Bullfango
+--- BLOCK ---
+Mata un grupo de Wroggi
+--- BLOCK ---
+Caza un Wroggi magnificente
+--- BLOCK ---
+Mata un grupo de Jaggi
+--- BLOCK ---
+Caza un Gran Jaggi
+--- BLOCK ---
+Entrega Miel
+--- BLOCK ---
+Caza un Arzuros
+--- BLOCK ---
+Mata un grupo de Altaroth
+--- BLOCK ---
+Caza un Qurupeco
+--- BLOCK ---
+Caza un Qurupeco carmesí
+--- BLOCK ---
+Mata un grupo de Bnahabra
+--- BLOCK ---
+Caza un Ludroth real
+--- BLOCK ---
+Caza un Ludroth purpúreo
+--- BLOCK ---
+Mata un grupo de Rhenoplos
+--- BLOCK ---
+Caza un Barroth
+--- BLOCK ---
+Caza una Rathian
+--- BLOCK ---
+Caza una Rathian rosa
+--- BLOCK ---
+Caza un Lagombi
+--- BLOCK ---
+Caza un Gobul
+--- BLOCK ---
+Caza un Plesioth
+--- BLOCK ---
+Mata un grupo de Baggi
+--- BLOCK ---
+Caza un Gran Baggi
+--- BLOCK ---
+Caza un Volvidon
+--- BLOCK ---
+Caza un Gigginox
+--- BLOCK ---
+Caza un Barroth esmeralda
+--- BLOCK ---
+Caza un Gigginox aterrador
+--- BLOCK ---
+Caza un Rathalos
+--- BLOCK ---
+Caza un Duramboros
+--- BLOCK ---
+Caza un Nibelsnarf
+--- BLOCK ---
+Caza un Lagiacrus
+--- BLOCK ---
+Caza un Diablos
+--- BLOCK ---
+Caza un Barioth
+--- BLOCK ---
+Caza un Uragaan
+--- BLOCK ---
+Caza un Brachydios
+--- BLOCK ---
+Caza un Agnaktor
+--- BLOCK ---
+Mata un grupo de Uroktor
+--- BLOCK ---
+Caza un Rathalos celeste
+--- BLOCK ---
+Caza un Zinogre
+--- BLOCK ---
+Caza una Diablos negra
+--- BLOCK ---
+Caza un Nargacuga
+--- BLOCK ---
+Caza un Barioth arenoso
+--- BLOCK ---
+Caza un Uragaan acerado
+--- BLOCK ---
+Caza un Agnaktor glacial
+--- BLOCK ---
+Caza un Lagiacrus marmóreo
+--- BLOCK ---
+Caza un Deviljho
+--- BLOCK ---
+Mata un grupo de Jaggi
+--- BLOCK ---
+Caza un Gran Jaggi
+--- BLOCK ---
+Caza un Wroggi magnificente
+--- BLOCK ---
+Mata un grupo de Altaroth
+--- BLOCK ---
+Caza un Arzuros
+--- BLOCK ---
+Caza un Lagombi
+--- BLOCK ---
+Caza un Qurupeco
+--- BLOCK ---
+Mata un grupo de Rhenoplos
+--- BLOCK ---
+Caza un Qurupeco carmesí
+--- BLOCK ---
+Caza un Ludroth real
+--- BLOCK ---
+Caza un Ludroth purpúreo
+--- BLOCK ---
+Caza un Barroth
+--- BLOCK ---
+Caza un Barroth esmeralda
+--- BLOCK ---
+Mata un grupo de Bnahabra
+--- BLOCK ---
+Caza una Rathian
+--- BLOCK ---
+Caza una Rathian rosa
+--- BLOCK ---
+Caza un Plesioth
+--- BLOCK ---
+Caza un Volvidon
+--- BLOCK ---
+Caza un Nibelsnarf
+--- BLOCK ---
+Caza un Plesioth verde
+--- BLOCK ---
+Caza un Gran Baggi
+--- BLOCK ---
+Caza un Gobul
+--- BLOCK ---
+Caza un Gigginox
+--- BLOCK ---
+Caza un Gigginox aterrador
+--- BLOCK ---
+Caza un Barioth
+--- BLOCK ---
+Caza un Duramboros
+--- BLOCK ---
+Caza un Duram. herrumbroso
+--- BLOCK ---
+Caza un Diablos
+--- BLOCK ---
+Caza una Diablos negra
+--- BLOCK ---
+Caza un Rathalos
+--- BLOCK ---
+Caza un Rathalos celeste
+--- BLOCK ---
+Caza un Uragaan
+--- BLOCK ---
+Caza un Uragaan acerado
+--- BLOCK ---
+Mata un grupo de Uroktor
+--- BLOCK ---
+Caza un Agnaktor
+--- BLOCK ---
+Caza un Barioth arenoso
+--- BLOCK ---
+Caza un Nargacuga
+--- BLOCK ---
+Caza un Nargacuga verdoso
+--- BLOCK ---
+Entrega Piedras polvo
+--- BLOCK ---
+Caza un Agnaktor glacial
+--- BLOCK ---
+Caza un Deviljho
+--- BLOCK ---
+Caza un Zinogre
+--- BLOCK ---
+Caza un Zinogre estigio
+--- BLOCK ---
+Caza un Lagiacrus
+--- BLOCK ---
+Caza un Lagiacrus marmóreo
+--- BLOCK ---
+Caza un Brachydios
+--- BLOCK ---
