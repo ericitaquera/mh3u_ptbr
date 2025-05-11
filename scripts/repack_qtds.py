@@ -52,10 +52,24 @@ def main(txt_file):
     txt_path = Path(txt_file)
     base_name = txt_path.stem
     bin_dir = txt_path.parent
+    #bin_dir="C:\\temp\\mh3u_ptbr\\arc_extracted\\arc\\quest\\us\\quest00.arc\\quest\\us"
+    #print(bin_dir)
 
+    output_base = Path(os.environ.get("ARC_EXTRACTED_DIR"))
+    qtds_base = Path(os.environ.get("QTDS_TEXT_DIR"))
+    try:
+        rel_path = Path(txt_file).relative_to(qtds_base)
+    except ValueError:
+        print(f"❌ Error: {txt_file} is not inside {qtds_base}")
+        return
+
+    output_path = output_base / rel_path.parent
+    output_path.mkdir(parents=True, exist_ok=True)
+    print(output_path)
+    output_path = output_path / f"{base_name}.qtds"
+    
     parts = []
     parts.append((bin_dir / f"{base_name}.00.bin").read_bytes())
-
     sections = parse_text_file(txt_path)
     parts.append(encode_string_block(sections["TITLES"]))
     parts.append((bin_dir / f"{base_name}.01.bin").read_bytes())
@@ -67,9 +81,8 @@ def main(txt_file):
     parts.append(encode_string_block(sections["DESCRIPTIONS"]))
     parts.append((bin_dir / f"{base_name}.04.bin").read_bytes())
 
-    out_path = bin_dir / f"{base_name}_repacked.qtds"
-    out_path.write_bytes(b"".join(parts))
-    print(f"✅ Repacked to: {out_path}")
+    output_path.write_bytes(b"".join(parts))
+    print(f"✅ Repacked to: {output_path}")
 
 
 if __name__ == "__main__":

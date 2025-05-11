@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Grudge Match: Lagombi
+TITLES_1=Revanche : Lagombi
+TITLES_2=Zweikampf: Lagombi
+TITLES_3=Scontro: Lagombi
+TITLES_4=Ajus contas: Lagombi
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Lagombi
+OBJECTIVES_1=Tuer un Lagombi
+OBJECTIVES_2=Erlege einen Lagombi.
+OBJECTIVES_3=Uccidi un Lagombi
+OBJECTIVES_4=Mate um Lagombi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
+or time expires.
+FAIL_CONDITIONS_1=3 évanouissements (prime
+atteint 0) ou tps écoulé.
+FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
+auf 0) o. Zeit läuft ab.
+FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
+o tempo scaduto.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Someone's got a case of the
+doomsdays! We dropped a Lagombi
+into the Arena, and he's none too
+happy with being yanked from his
+habitat. Can our hunter dodge his
+high-speed slides and steel-plated
+punches? Better hope so!
+DESCRIPTIONS_1=Nous avons lâché un Lagombi
+dans l'arène, et il n'est pas
+ravi d'avoir été arraché à son
+habitat. Serez-vous capable
+d'esquiver ses glissades et
+ses coups ? Je l'espère de
+tout cœur !
+DESCRIPTIONS_2=Das Ende ist nah! Wir haben
+einen Lagombi in die Arena
+gesetzt, und das freut ihn gar
+nicht. Kann ihm unser Jäger
+ausweichen und seine
+stahlharten Schläge
+anbringen? Besser wäre das!
+DESCRIPTIONS_3=Per qualcuno è arrivato il giorno
+del giudizio! Abbiamo rinchiuso
+un Lagombi nell'Arena, ma non
+sembra felicissimo. Riuscirà
+il nostro cacciatore a schivare
+le sue scivolate e i suoi pugni
+d'acciaio? Speriamo di sì!
+DESCRIPTIONS_4=Alguém perdeu o juízo! Colocaram
+um Lagombi na Arena — e ele não
+gostou nem um pouco de sair do seu
+habitat. Será que o caçador consegue
+desviar dos seus ataques velozes
+e dos golpes gelados como aço?
+É bom que consiga!

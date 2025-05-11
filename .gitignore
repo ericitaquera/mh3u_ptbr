@@ -9,6 +9,7 @@
 /logs/
 romfs.bin
 *.header
+*.bin
 /aaa/
 /blog/
 

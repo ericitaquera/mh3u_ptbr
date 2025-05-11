@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Grudge Match: Plesioth
+TITLES_1=Revanche : Plesioth
+TITLES_2=Zweikampf: Plesioth
+TITLES_3=Scontro: Plesioth
+TITLES_4=Ajus contas: Plesioth
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Plesioth
+OBJECTIVES_1=Tuer un Plesioth
+OBJECTIVES_2=Erlege einen Plesioth.
+OBJECTIVES_3=Uccidi un Plesioth
+OBJECTIVES_4=Mate um Plesioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
+or time expires.
+FAIL_CONDITIONS_1=3 évanouissements (prime
+atteint 0) ou tps écoulé.
+FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
+auf 0) o. Zeit läuft ab.
+FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
+o tempo scaduto.
+FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
+a 0) o acaba el tiempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Time to get nautical, folks! These
+underwater battles are always wet
+and wild, but don't let your
+spirits sink if you didn't get a
+seat. I'll speak up so my gripping
+commentary carries outside the
+Arena. Let's hear it for me!
+DESCRIPTIONS_1=Il est temps de vous jeter à
+l'eau ! Les combats aquatiques
+sont toujours féroces, mais ne
+vous en faites pas si vous
+n'avez pas de place : vous
+entendrez mes commentaires
+depuis l'extérieur de l'arène !
+DESCRIPTIONS_2=Ab ins Wasser, Leute! Diese
+Unterwasserkämpfe sind immer
+nass und wild, aber grämt euch
+nicht, wenn ihr keinen Platz
+mehr bekommt. Ich spreche
+laut, damit man mich auch
+draußen versteht. Los geht's!
+DESCRIPTIONS_3=Amici, è giunta l'ora di bagnarsi
+un po'! Le battaglie sottomarine
+sono sempre emozionanti, ma non
+abbattetevi se non trovate un posto
+a sedere. Parlerò a voce alta, così
+i miei commenti arriveranno anche
+fuori dall'Arena. Un applauso per me!
+DESCRIPTIONS_4=Hora de caçar os náuticos!
+Essas batalhas submarinas são 
+sempre uma loucura, mas não
+desanimem se não conseguiram lugar
+na plateia. Vou falar mais alto
+pra todo mundo ouvir!
+Uma salva de palmas pra mim!

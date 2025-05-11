@@ -145,3 +145,30 @@ Two layers, Antialiasing=ON
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
   <img src="./td_M_v_c8_00_ID_spa.preview.jpg" alt="td_M_v_c8_00_ID_spa preview">
 </div>
+
+---
+
+## 🎨 `td_M_que_res1_ID_spa.tex`
+## 🎨 `td_M_que_res2_ID_spa.tex`
+## 🎨 `td_M_que_res3_ID_spa.tex`
+
+Used for rendering lots of **Arena messages**.
+
+#### All Paths
+```
+.\arc\ID\quest\ID_hanko_01_spa.arc\GUI\Texture\quest\td_M_que_res1_ID_spa.tex
+.\arc\ID\quest\ID_hanko_03_spa.arc\GUI\Texture\quest\td_M_que_res2_ID_spa.tex
+.\arc\ID\quest\ID_hanko_01_spa.arc\GUI\Texture\quest\td_M_que_res3_ID_spa.tex
+.\arc\ID\quest\ID_hanko_02_spa.arc\GUI\Texture\quest\td_M_que_res3_ID_spa.tex
+.\arc\ID\quest\ID_hanko_03_spa.arc\GUI\Texture\quest\td_M_que_res3_ID_spa.tex
+```
+
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="./td_M_que_res1_ID_spa.preview.png" alt="td_M_que_res1_ID_spa preview">
+</div>
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="./td_M_que_res2_ID_spa.preview.png" alt="td_M_que_res2_ID_spa preview">
+</div>
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="./td_M_que_res3_ID_spa.preview.png" alt="td_M_que_res3_ID_spa preview">
+</div>

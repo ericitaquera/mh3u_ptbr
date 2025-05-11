@@ -3,24 +3,24 @@ TITLES_0=Grudge Match: Purple Ludroth
 TITLES_1=Revanche : Ludroth pourpre
 TITLES_2=Zweikampf: Lila Ludroth
 TITLES_3=Scontro: Ludroth purpureo
-TITLES_4=Topper
+TITLES_4=Aj cont: Ludroth púrpura
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Purple Ludroth
 OBJECTIVES_1=Tuer un Ludroth pourpre
 OBJECTIVES_2=Erlege einen Lila Ludroth.
 OBJECTIVES_3=Uccidi un Ludroth purpureo
-OBJECTIVES_4=Topperson
+OBJECTIVES_4=Mate um Ludroth púrpura
 [FAIL_CONDITIONS]
-FAIL_CONDITIONS_0=super,
-topper
+FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
+or time expires.
 FAIL_CONDITIONS_1=3 évanouissements (prime
 atteint 0) ou tps écoulé.
 FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou terminar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -56,6 +56,10 @@ emettendo brutte vibrazioni. Come?
 La sua aura oscura non è solo
 una metafora, ma è vero veleno?
 Qualcuno rompa una finestra!
-DESCRIPTIONS_4=Ora ora se não são
-as consequências das nossas pró
-prias atitudes.
+DESCRIPTIONS_4=Sou só eu, ou o clima na
+Arena está meio tóxico? Acho
+que aquele Ludroth púrpura tá
+emanando umas vibrações bem ruins...
+Espera aí — então aquela aura
+mística é veneno de verdade!?
+Alguém abre uma janela, por favor!

@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Grudge Match: Sea Power
+TITLES_1=Revanche : pouvoir des mers
+TITLES_2=Zweikampf: Meeresmacht
+TITLES_3=Scontro: La forza del mare
+TITLES_4=Aj contas: Poder marino
+[OBJECTIVES]
+OBJECTIVES_0=Slay all large monsters
+OBJECTIVES_1=Tuer tous les grands
+monstres
+OBJECTIVES_2=Erlege alle großen
+Monster.
+OBJECTIVES_3=Uccidi tutti i mostri grandi
+OBJECTIVES_4=Mate todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
+or time expires.
+FAIL_CONDITIONS_1=3 évanouissements (prime
+atteint 0) ou tps écoulé.
+FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
+auf 0) o. Zeit läuft ab.
+FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
+o tempo scaduto.
+FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
+a 0) o acaba el tiempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This battle ain't no water ballet!
+For your spectating pleasure: a
+Green Plesioth and a Gobul! Say,
+ever notice that Plesioth have
+legs yet are still considered
+Piscine Wyverns, while Gobul are
+fishier? Must be a wyvern thing.
+DESCRIPTIONS_1=Le combat s'annonce brutal !
+Nous avons réuni pour votre
+plaisir un Plesioth vert et un
+Gobul ! Saviez-vous que malgré
+leurs pattes, les Plesioth sont
+considérés comme des Wyvern
+nageurs ? C'est fascinant.
+DESCRIPTIONS_2=Das ist kein Wasserballett!
+Ein Grüner Plesioth, ein Go-
+bul! Hat schon einer bemerkt,
+dass Plesioth Beine haben,
+aber als Fischwyvern gelten,
+der Gobul aber fischiger ist?
+Muss eine Wyvern-Sache sein.
+DESCRIPTIONS_3=Tra poco una durissima battaglia
+con un Plesioth verde e un Gobul!
+Perché i Plesioth sono considerati
+wyvern subacquei anche se hanno
+le gambe, mentre i Gobul sono più
+simili ai pesci? Bisognerebbe
+chiederlo a un wyvern.
+DESCRIPTIONS_4=Isso aqui não é brincadeira
+d’água! Temos o prazer (ou não) de
+apresentar um Plesioth Verde e um
+Gobul! Sabia que os Plesioth têm
+pernas, mas são wyverns aquáticos, e
+que os Gobul são, tecnicamente, peixes?
+Esses wyverns são mesmo esquisitos...
