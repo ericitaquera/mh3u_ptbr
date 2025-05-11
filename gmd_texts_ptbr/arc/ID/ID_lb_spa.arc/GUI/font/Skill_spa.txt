@@ -328,11 +328,11 @@ Combinação -20%
 --- BLOCK ---
 Combinação+
 --- BLOCK ---
-Evasão +1
+Esquiva +1
 --- BLOCK ---
-Evasão +2
+Esquiva +2
 --- BLOCK ---
-Evasão -1
+Esquiva -1
 --- BLOCK ---
 Adrenalina +1
 --- BLOCK ---
@@ -372,7 +372,7 @@ Resistência a tremores
 --- BLOCK ---
 Especialista em churrasco
 --- BLOCK ---
-Distância de evasão
+Distância de esquiva
 --- BLOCK ---
 Desembainhar rápido
 --- BLOCK ---

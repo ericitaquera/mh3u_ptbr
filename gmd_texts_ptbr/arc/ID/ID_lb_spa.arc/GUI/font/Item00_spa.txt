@@ -2398,9 +2398,9 @@ Joia professor 1
 --- BLOCK ---
 Joia armeiro 1
 --- BLOCK ---
-Joia evasão 1
+Joia esquiva 1
 --- BLOCK ---
-Joia evasão 2
+Joia esquiva 2
 --- BLOCK ---
 Joia potencial 1
 --- BLOCK ---

@@ -1093,13 +1093,13 @@ Movimento aquático
 --- BLOCK ---
 Mergulhar e flutuar
 --- BLOCK ---
-Salientes e cipós
+Saliências e cipós
 --- BLOCK ---
 Visão
 --- BLOCK ---
 Usar itens
 --- BLOCK ---
-Evasão
+Esquiva
 --- BLOCK ---
 Coleta e mineração
 --- BLOCK ---
@@ -1461,7 +1461,7 @@ Corte circular
 --- BLOCK ---
 Dança de espadas
 --- BLOCK ---
-Evasão demoníaca
+Esquiva demoníaca
 --- BLOCK ---
 Modo Arquidemônio
 --- BLOCK ---
@@ -1618,7 +1618,7 @@ Quando estiver com uma arma de
 Espadachim, um ícone em forma
 de espada aparecerá na tela.
 --- BLOCK ---
-Este ícone indica o nível de Afilamento.
+Este ícone indica o nível de afiação.
 Ele ficará cego com o uso; a
 cor e a aparência do ícone indicarão.
 --- BLOCK ---
@@ -1706,7 +1706,7 @@ entrarás no modo Archidemoníaco.
 --- BLOCK ---
 No modo Archidemoníaco, a velocidade de
 ataque aumenta e podes usar
-Evasão demoníaca e Ráfaga demoníaca.
+Esquiva demoníaca e Ráfaga demoníaca.
 --- BLOCK ---
 O indicador demoníaco diminui com o tempo,
 ou quando usas esses movimentos (a
@@ -1793,7 +1793,7 @@ Para coletar ou extrair materiais, guarde a
 arma e pressione o botão A.
 --- BLOCK ---
 Para dar um chute, toque no painel de
-Ataq. especial na tela sensível ao toque.
+Ataque especial na tela sensível ao toque.
 --- BLOCK ---
 Você também pode usar a configuração
 "botão START" em Opções para dar
@@ -1804,7 +1804,7 @@ HARDUMMY
 HARDUMMY
 --- BLOCK ---
 Quando estiver debaixo d'água, toque no
-painel de Ataq. especial na tela sensível
+painel de Ataque especial na tela sensível
 ao toque para fazer um tackle.
 --- BLOCK ---
 HARDUMMY
@@ -1860,12 +1860,12 @@ ar (indicadas com bolhas) ou
 use um Suprimento de oxigênio.
 --- BLOCK ---
 Os monstros recebem dano com base
-em seu Ataq.. Quanto maior esse
+em seu Ataque. Quanto maior esse
 valor, mais dano você causará.
 --- BLOCK ---
-O Ataq. depende da arma que
+O Ataque depende da arma que
 você usa. Quanto mais forte a
-arma, maior será seu Ataq..
+arma, maior será seu Ataque.
 --- BLOCK ---
 Algumas armas estão imbuidas do
 poder de diferentes elementos.
@@ -3062,7 +3062,7 @@ desencadear uma rajada de ataques dançantes.
 --- BLOCK ---
 Pressione o botão B no modo
 Demoníaco para realizar evasões super
-rápidas conhecidas como evasão demoníaca.
+rápidas conhecidas como esquiva demoníaca.
 --- BLOCK ---
 Se o indicador demoníaco estiver cheio ao
 sair do modo Demoníaco, você entrará no
@@ -3070,7 +3070,7 @@ modo Archidemoníaco e não no estado normal.
 --- BLOCK ---
 No modo Archidemoníaco, a velocidade de
 ataque aumenta e você pode usar
-evasão demoníaca e rajada demoníaca.
+esquiva demoníaca e rajada demoníaca.
 --- BLOCK ---
 O indicador demoníaco diminui com
 o tempo ou se realizar

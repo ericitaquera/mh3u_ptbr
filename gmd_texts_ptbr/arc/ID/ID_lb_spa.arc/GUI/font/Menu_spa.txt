@@ -353,7 +353,7 @@ Botão START
 --- BLOCK ---
 Câmera de foco
 --- BLOCK ---
-Câmera de evasão
+Câmera de esquiva
 --- BLOCK ---
 Circle Pad Pro
 --- BLOCK ---

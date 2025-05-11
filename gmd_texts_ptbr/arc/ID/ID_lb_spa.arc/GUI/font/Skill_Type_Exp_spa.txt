@@ -1,0 +1,562 @@
+TMSG_SKILL_TYPE_EXP
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Dobra os Pontos
+de habilidade no
+equipamento do dorso.
+--- BLOCK ---
+Habilidades que anulam ou
+dobram os efeitos do
+veneno em você.
+--- BLOCK ---
+Habilidades que anulam ou
+dobram os efeitos
+paralisantes em você.
+--- BLOCK ---
+Habilidades que anulam ou
+dobram os efeitos do
+sono em você.
+--- BLOCK ---
+Habilidades que afetam
+a probabilidade de
+ficar atordoado.
+--- BLOCK ---
+Habilidades que anulam ficar
+enterrado na neve
+ou na lama.
+--- BLOCK ---
+Habilidades que anulam Doença
+de baba e evitam
+os bloqueios de uso
+de objetos provocados
+pelo estado Fedor.
+--- BLOCK ---
+Habilidades que anulam os
+efeitos de Defesa reduzida.
+--- BLOCK ---
+Habilidades que aumentam a
+eficácia da Bomba esterco
+e melhoram as opções
+de sucesso ao combinar.
+--- BLOCK ---
+Habilidades que aumentam a
+eficácia da Bomba esterco
+e evitam os bloqueios
+de uso de objetos
+provocados pelo estado Fedor.
+--- BLOCK ---
+Habilidades que afetam
+o Ataque.
+--- BLOCK ---
+Habilidades que afetam
+a Defesa.
+--- BLOCK ---
+Habilidades que afetam o
+tamanho máximo do seu
+indicador de Vida.
+--- BLOCK ---
+Habilidades que afetam a velocidade
+de recuperação de dano
+temporário (a parte vermelha
+do indicador de Vida).
+--- BLOCK ---
+Habilidades que afetam a quantidade
+de dano que você
+sofre ao ser atacado.
+--- BLOCK ---
+Habilidades que aumentam
+a velocidade de
+desembainhar a arma.
+--- BLOCK ---
+Afetam a velocidade de carregamento
+dos indicadores de Espadas longas/duplas
+e Machado espada, e ataques
+de carga de Arco,
+Grande espada e Martelo.
+--- BLOCK ---
+Habilidades que afetam
+a probabilidade de
+desferir golpes críticos.
+--- BLOCK ---
+Habilidades que aumentam o dano
+ao acertar partes do
+corpo em que seus
+ataques são muito eficazes.
+--- BLOCK ---
+Habilidades que aumentam sua
+capacidade de ferir partes
+do corpo dos monstros.
+--- BLOCK ---
+Habilidades que afetam
+a probabilidade de
+atordoar monstros.
+--- BLOCK ---
+Habilidades que aumentam a
+capacidade de certos
+ataques esgotarem monstros.
+--- BLOCK ---
+Habilidades que afetam o
+gasto de Resistência ao
+esquivar, bloquear, etc.
+--- BLOCK ---
+Habilidades que anulam os
+efeitos dos rugidos
+de monstros grandes.
+--- BLOCK ---
+Habilidades que anulam a
+pressão do vento
+de monstros grandes.
+--- BLOCK ---
+Habilidades que anulam
+o tremor provocado
+por monstros grandes.
+--- BLOCK ---
+Habilidades que afetam a
+velocidade com que sua
+Vida diminui em áreas
+quentes e o dano
+infligido pela lava.
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de gasto
+de Resistência máxima
+em áreas frias.
+--- BLOCK ---
+Habilidades que afetam o
+gasto de Resistência por
+ações que não são
+esquiva nem bloqueio.
+--- BLOCK ---
+Habilidades que afetam
+a velocidade de
+recuperação de Resistência.
+--- BLOCK ---
+Habilidades que afetam
+a duração do
+período de invulnerabilidade
+durante a esquiva.
+--- BLOCK ---
+Habilidades que afetam a
+distância de esquiva.
+--- BLOCK ---
+Habilidades que melhoram
+a esquiva.
+--- BLOCK ---
+Habilidades que afetam a
+probabilidade de ser
+alvo de monstros.
+--- BLOCK ---
+Habilidades que afetam a
+probabilidade de manter
+sua posição ao
+bloquear um ataque.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que permitem
+bloquear ataques anteriormente
+impossíveis de bloquear.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que permitem
+bloquear ataques automaticamente
+quando você está com
+a arma pronta.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que afetam a
+duração dos ataques
+de estados anormais
+(paralisia, veneno, sono).
+--- BLOCK ---
+Habilidades que afetam a
+potência de ataques de
+fogo e disparos flamejantes.
+--- BLOCK ---
+Habilidades que afetam a potência
+de ataques de água
+e disparos de água.
+--- BLOCK ---
+Habilidades que afetam a potência
+de ataques de trovão
+e disparos de trovão.
+--- BLOCK ---
+Habilidades que afetam a
+potência de ataques de
+gelo e disparos congelantes.
+--- BLOCK ---
+Habilidades que afetam a potência
+de ataques de dragão
+e disparos de dragão.
+--- BLOCK ---
+Habilidades que afetam a
+duração de ataques
+elementares (fogo, água,
+trovão, gelo, dragão).
+--- BLOCK ---
+Habilidades que afetam a
+Resistência ao fogo.
+--- BLOCK ---
+Habilidades que afetam a
+Resistência à água.
+--- BLOCK ---
+Habilidades que afetam a
+Resistência ao trovão.
+--- BLOCK ---
+Habilidades que afetam a
+Resistência ao gelo.
+--- BLOCK ---
+Habilidades que afetam a
+Resistência ao dragão.
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de perda de
+Afiamento da arma ao
+atacar. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que aumentam em um
+nível o Afiamento da sua
+arma. <COLO 05>(Apenas Espadachín)
+--- BLOCK ---
+Habilidades que evitam que
+seus ataques sejam rejeitados.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de afiação de
+armas. <COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que aumentam a
+probabilidade de que
+os ataques de
+saque sejam críticos.
+<COLO 05>(Apenas Espadachim)
+--- BLOCK ---
+Habilidades que permitem
+atordoar monstros com
+ataques de sacada
+de armas contundentes.
+<COLO 05>(Apenas Espadachín)
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de recarga.
+<COLO 05>(Somente Atirador)
+--- BLOCK ---
+Habilidades que permitem carregar mais
+munição de Bestas e
+Lanças de fogo, e
+melhoram nível de ataques
+de carga para Arcos.
+--- BLOCK ---
+Habilidades que permitem disparar
+um tiro a mais
+com o disparo rápido
+de uma Besta leve.
+<COLO 05>(Apenas Besta)
+--- BLOCK ---
+Habilidades que afetam o
+recuo ao disparar.
+<COLO 05>(Apenas Besta)
+--- BLOCK ---
+Habilidades que afetam a
+Desvio ao mirar.
+<COLO 05>(Somente Balestra)
+--- BLOCK ---
+Habilidades que aumentam a
+potência dos disparos normais
+e flechas rápidas.
+<COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Habilidades que aumentam
+a potência de
+tiros perfurantes e
+de flechas perfurantes.
+<COLO 05>(Apenas Atirador)
+--- BLOCK ---
+Habilidades que aumentam o
+poder de disparo de
+dispersão e flechas em
+leque. <COLO 05>(Apenas Artilheiro)
+--- BLOCK ---
+Habilidades que permitem carregar
+os disparos normais.
+<COLO 05>(Apenas Besta)
+--- BLOCK ---
+Habilidades que permitem
+carregar disparos
+perfurantes. <COLO
+05>(Apenas Besta)
+--- BLOCK ---
+Habilidades que permitem carregar
+os disparos de Dispersão.
+<COLO 05>(Apenas Besta)
+--- BLOCK ---
+Habilidades que permitem carregar
+os disparos explosivos.
+<COLO 05>(Apenas Balestra)
+--- BLOCK ---
+Habilidades que permitem carregar
+os disparos em grupo.
+<COLO 05>(Apenas Balestra)
+--- BLOCK ---
+Habilidades que permitem carregar
+os tiros cortantes.
+<COLO 05>(Apenas Besta)
+--- BLOCK ---
+Habilidades que permitem carregar
+os tiros de saque.
+<COLO 05>(Apenas Balestra)
+--- BLOCK ---
+Habilidades que permitem usar
+os Revestimentos de veneno.
+<COLO 05>(Somente Arco)
+--- BLOCK ---
+Habilidades que permitem
+usar os Revestimentos
+paralisantes. <COLO
+05>(Apenas Arco)
+--- BLOCK ---
+Habilidades que permitem
+usar os Revestimentos
+de sono. <COLO
+05>(Apenas Arco)
+--- BLOCK ---
+Habilidades que permitem
+usar os Revestimentos
+de energia. <COLO
+05>(Apenas Arco)
+--- BLOCK ---
+Habilidades que permitem
+usar os Revestimentos
+de alcance. <COLO
+05>(Apenas Arco)
+--- BLOCK ---
+Habilidades que permitem
+usar os Revestimentos
+de fadiga. <COLO
+05>(Apenas Arco)
+--- BLOCK ---
+Habilidades que permitem
+usar os Revestimentos
+de gosma. <COLO
+05>(Somente Arco)
+--- BLOCK ---
+Habilidades que reduzem a probabilidade
+de quebra de objetos
+de Flauta e aumentam
+o tempo de efeito
+de melodias de Flauta.
+--- BLOCK ---
+Habilidades que aumentam a potência
+da munição de Balista, Canhão
+e Lança de fogo,
+do Fogo de wyvern
+e dos disparos explosivos.
+--- BLOCK ---
+Habilidades que aumentam o dano
+da bomba, a potência
+dos ataques de baba
+e melhoram as opções
+de sucesso ao combinar.
+--- BLOCK ---
+Habilidades que afetam a
+eficácia dos objetos de
+recuperação de Vida.
+--- BLOCK ---
+Habilidades que transferem os
+efeitos de certos
+objetos para os
+companheiros na área.
+--- BLOCK ---
+Habilidades que afetam o
+tempo de efeito
+de certos objetos.
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de gasto de
+sua Resistência máxima.
+--- BLOCK ---
+Habilidades que afetam a
+eficácia de objetos que
+aumentam sua Resistência.
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de consumo de
+carne e outros objetos.
+--- BLOCK ---
+Habilidades que permitem consumir
+Carne crua e aumentam
+a eficácia de
+objetos de carne.
+--- BLOCK ---
+Habilidades que afetam
+suas opções de
+sucesso ao combinar.
+--- BLOCK ---
+Habilidades que maximizam o
+número de objetos criados
+ao realizar uma
+combinação com sucesso.
+--- BLOCK ---
+Habilidades que afetam o número
+de vezes que você
+pode coletar ou extrair,
+exceto em casos especiais.
+--- BLOCK ---
+Habilidades que aumentam
+a velocidade de
+cortar, colher, pegar
+insetos e extrair.
+--- BLOCK ---
+Habilidades que afetam a
+quebra de Picaretas,
+Redes de insetos,
+Bumerangues e Flautas.
+--- BLOCK ---
+Habilidades que aumentam sua
+capacidade de coletar Mel
+e Geleia real.
+--- BLOCK ---
+Habilidades que aumentam
+sua capacidade de
+extrair amuletos.
+--- BLOCK ---
+Habilidades que afetam as
+recompensas de missão, exceto
+em casos especiais.
+--- BLOCK ---
+Habilidades que facilitam
+o corte.
+--- BLOCK ---
+Habilidades que afetam o
+número de objetos
+de recompensa obtidos
+ao capturar monstros.
+--- BLOCK ---
+Habilidades que permitem
+saber exatamente quando
+é possível capturar
+um monstro.
+--- BLOCK ---
+Habilidades que concedem
+informações detalhadas sobre
+os monstros grandes
+mostrados no mapa.
+--- BLOCK ---
+Habilidades que facilitam
+o transporte de
+objetos como ovos.
+--- BLOCK ---
+Habilidades que eliminam a
+necessidade de um mapa
+e melhoram o desempenho
+da pesca e
+cozinha em missões.
+--- BLOCK ---
+Habilidades que evitam que
+roubem seus objetos.
+--- BLOCK ---
+Habilidades que aumentam a
+velocidade das bombas e
+armadilhas e as opções
+de sucesso das
+combinações de armadilha.
+--- BLOCK ---
+Habilidades que fazem com que
+os monstros ajam como se
+você estivesse carregando uma Tocha,
+mesmo que não esteja.
+--- BLOCK ---
+Habilidades que afetam a
+velocidade de gasto de
+seu indicador de
+Oxigênio ao nadar.
+--- BLOCK ---
+Habilidades que anulam
+algumas correntes de
+água criadas por
+monstros grandes.
+--- BLOCK ---
+Habilidades que afetam
+sua velocidade de
+movimento na água.
+--- BLOCK ---
+Habilidades que afetam sua
+capacidade de realizar
+ações na água.
+--- BLOCK ---
+Habilidades que afetam a concessão
+de bônus de Ataque e
+Defesa quando a Vida
+diminui para certo nível.
+--- BLOCK ---
+Habilidades que aumentam seu Ataque
+e Defesa toda vez
+que cair em batalha.
+--- BLOCK ---
+Habilidades que concedem
+poder por tempo
+limitado quando certas
+condições são atendidas.
+--- BLOCK ---
+Habilidades que aumentam suas
+capacidades quando um monstro
+grande fica furioso.
+--- BLOCK ---
+Habilidades que aumentam o
+Ataque quando seu
+indicador de Vida
+está no máximo.
+--- BLOCK ---
+Habilidades que liberam
+as propriedades elementares
+latentes em armas
+sem elementos.
+--- BLOCK ---
+Habilidades que anulam os
+efeitos de todas
+as pragas elementais.
+--- BLOCK ---
+Habilidades que previnem
+veneno, paralisia, sono
+e atordoamento.
+--- BLOCK ---
+Habilidades que permitem
+se recuperar de
+ataques mais rapidamente.
+--- BLOCK ---
+Habilidades que permitem resistir a
+duras penas a um
+golpe mortal sem desmaiar.
+--- BLOCK ---
+Habilidades que aumentam em um
+nível o Ataq. e o
+Afiamento. <COLO 05>(Apenas Esgrimista)
+--- BLOCK ---
+Habilidades que afetam a
+potência de vários tipos
+de munição de Besta
+e flechas de Arco.
+<COLO 05>(Apenas Artilheiro)
+--- BLOCK ---
+Habilidades que reduzem a probabilidade
+de desmaiar e aumentam significativamente
+o Ataque e a
+Defesa quando sua Vida
+diminui para certo nível.
+--- BLOCK ---
+Habilidades que afetam
+as capacidades do
+Shakalaka que o
+acompanha nas missões.
+--- BLOCK ---
+Habilidades que permitem dar
+ordens ao Shakalaka que
+o acompanha nas missões.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

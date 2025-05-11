@@ -476,15 +476,15 @@ combinações que produzem mais de
 um objeto de uma vez.
 --- BLOCK ---
 Estende a invulnerabilidade
-ao evadir.
+ao esquivar.
 --- BLOCK ---
 Estende muito
 a invulnerabilidade
-ao evadir.
+ao esquivar.
 --- BLOCK ---
 Reduz a
 invulnerabilidade durante
-a evasão.
+a esquiva.
 --- BLOCK ---
 Aumenta muito a Defesa quando
 a Vida está abaixo de
@@ -550,7 +550,7 @@ grandes monstros.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Aumenta a distância de evasão.
+Aumenta a distância de esquiva.
 --- BLOCK ---
 Aumenta a Afinidade com
 todos os ataques ao
@@ -562,19 +562,19 @@ colocação de armadilhas e bombas.
 --- BLOCK ---
 Retarda o uso
 de Resistência ao
-evadir, bloquear, etc.
+esquivar, bloquear, etc.
 --- BLOCK ---
 Retarda muito o uso
 de Resistência ao
-evadir, bloquear, etc.
+esquivar, bloquear, etc.
 --- BLOCK ---
 Acelera o uso
 de Resistência ao
-evadir, bloquear, etc.
+esquivar, bloquear, etc.
 --- BLOCK ---
 Acelera muito o uso
 de Resistência ao
-evadir, bloquear, etc.
+esquivar, bloquear, etc.
 --- BLOCK ---
 Aumenta muito a probabilidade
 de obter mais objetos
