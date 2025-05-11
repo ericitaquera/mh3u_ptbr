@@ -1,0 +1,213 @@
+﻿TMSG_MONEY_MSG
+--- BLOCK [001] ---
+TMSG_MONEY_P1
+--- BLOCK [002] ---
+TMSG_MONEY_P2
+--- BLOCK [003] ---
+TMSG_ITEM_MENU0
+--- BLOCK [004] ---
+TMSG_ITEM_MENU1
+--- BLOCK [005] ---
+TMSG_ITEM_MENU2
+--- BLOCK [006] ---
+TMSG_ITEM_MENU2EX
+--- BLOCK [007] ---
+TMSG_ITEM_MENU3
+--- BLOCK [008] ---
+TMSG_ITEM_KANTEI_SEND
+--- BLOCK [009] ---
+TMSG_RANK
+--- BLOCK [010] ---
+TMSG_RESULT
+--- BLOCK [011] ---
+TMSG_RESULT_INFO
+--- BLOCK [012] ---
+TMSG_INFO_GALLERY_REF
+--- BLOCK [013] ---
+TMSG_INFO_ARENA_REF
+--- BLOCK [014] ---
+TMSG_INFO_MEDAL_REF
+--- BLOCK [015] ---
+TMSG_INFO_RANK_UP
+--- BLOCK [016] ---
+TMSG_INFO_ARMOR_RGB
+--- BLOCK [017] ---
+TMSG_INFO_ARENA_TITLE
+--- BLOCK [018] ---
+TMSG_REWARD_BOX
+--- BLOCK [019] ---
+Recom. misión
+--- BLOCK [020] ---
+Bon. caza libre
+--- BLOCK [021] ---
+Recomp. objetos
+--- BLOCK [022] ---
+Total
+--- BLOCK [023] ---
+Fondos
+--- BLOCK [024] ---
+Tarifa
+--- BLOCK [025] ---
+Recom. mis. ppal.
+--- BLOCK [026] ---
+DUMMY
+--- BLOCK [027] ---
+DUMMY
+--- BLOCK [028] ---
+x 2
+--- BLOCK [029] ---
+Mis. ppal. compl.
+--- BLOCK [030] ---
+DUMMY
+--- BLOCK [031] ---
+DUMMY
+--- BLOCK [032] ---
+Tomar recompensas
+--- BLOCK [033] ---
+Enviar a Caja objet.
+--- BLOCK [034] ---
+Vender obj. y salir
+--- BLOCK [035] ---
+Tomar recompensas
+--- BLOCK [036] ---
+Enviar a Caja objet.
+--- BLOCK [037] ---
+Hecho
+--- BLOCK [038] ---
+Enviar equipo
+--- BLOCK [039] ---
+Vender obj. y salir
+--- BLOCK [040] ---
+Enviar equipo
+--- BLOCK [041] ---
+Hecho
+--- BLOCK [042] ---
+Tasar
+--- BLOCK [043] ---
+Enviar a Caja
+--- BLOCK [044] ---
+DUMMY
+--- BLOCK [045] ---
+DUMMY
+--- BLOCK [046] ---
+DUMMY
+--- BLOCK [047] ---
+DUMMY
+--- BLOCK [048] ---
+DUMMY
+--- BLOCK [049] ---
+Pts. actuales
+--- BLOCK [050] ---
+Rango cazador actual
+--- BLOCK [051] ---
+DUMMY
+--- BLOCK [052] ---
+DUMMY
+--- BLOCK [053] ---
+Derrotas
+--- BLOCK [054] ---
+x
+--- BLOCK [055] ---
+Pts. consolación
+--- BLOCK [056] ---
+Total
+--- BLOCK [057] ---
+×%2d=
+--- BLOCK [058] ---
+Fondos
+--- BLOCK [059] ---
+DUMMY
+--- BLOCK [060] ---
+DUMMY
+--- BLOCK [061] ---
+DUMMY
+--- BLOCK [062] ---
+DUMMY
+--- BLOCK [063] ---
+DUMMY
+--- BLOCK [064] ---
++ grande
+--- BLOCK [065] ---
++ peq.
+--- BLOCK [066] ---
+DUMMY
+--- BLOCK [067] ---
+cm
+--- BLOCK [068] ---
+(Cambio por hab.)
+--- BLOCK [069] ---
+%d z
+--- BLOCK [070] ---
+DUMMY
+--- BLOCK [071] ---
+¡"%s"
+se ha añadido a la Galería!
+--- BLOCK [072] ---
+¡"%s"
+se ha añadido a las misiones
+de la Arena!
+--- BLOCK [073] ---
+¡Has ganado la recompensa
+"%s"!
+--- BLOCK [074] ---
+¡Tu Rango cazador ha aumentado a
+%d!
+--- BLOCK [075] ---
+Se ha añadido una gama de colores RVA
+a la sección Pigmentos armadura
+de la Caja de objetos.
+--- BLOCK [076] ---
+DUMMY
+--- BLOCK [077] ---
+DUMMY
+--- BLOCK [078] ---
+DUMMY
+--- BLOCK [079] ---
+DUMMY
+--- BLOCK [080] ---
+DUMMY
+--- BLOCK [081] ---
+DUMMY
+--- BLOCK [082] ---
+DUMMY
+--- BLOCK [083] ---
+DUMMY
+--- BLOCK [084] ---
+DUMMY
+--- BLOCK [085] ---
+DUMMY
+--- BLOCK [086] ---
+DUMMY
+--- BLOCK [087] ---
+DUMMY
+--- BLOCK [088] ---
+DUMMY
+--- BLOCK [089] ---
+DUMMY
+--- BLOCK [090] ---
+DUMMY
+--- BLOCK [091] ---
+DUMMY
+--- BLOCK [092] ---
+Caja rec.
+--- BLOCK [093] ---
+Base
+--- BLOCK [094] ---
+Herir/Cap
+--- BLOCK [095] ---
+DUMMY
+--- BLOCK [096] ---
+Recom. misión
+--- BLOCK [097] ---
+Bon. caza libre
+--- BLOCK [098] ---
+Recom. de Arena
+--- BLOCK [099] ---
+Tasar
+--- BLOCK [100] ---
+Ranuras libres
+--- BLOCK [101] ---
+DUMMY
+--- BLOCK [102] ---
+Caja eval.
+--- BLOCK [103] ---

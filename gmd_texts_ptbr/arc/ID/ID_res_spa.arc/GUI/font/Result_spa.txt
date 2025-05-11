@@ -1,0 +1,213 @@
+TMSG_MONEY_MSG
+--- BLOCK ---
+TMSG_MONEY_P1
+--- BLOCK ---
+TMSG_MONEY_P2
+--- BLOCK ---
+TMSG_ITEM_MENU0
+--- BLOCK ---
+TMSG_ITEM_MENU1
+--- BLOCK ---
+TMSG_ITEM_MENU2
+--- BLOCK ---
+TMSG_ITEM_MENU2EX
+--- BLOCK ---
+TMSG_ITEM_MENU3
+--- BLOCK ---
+TMSG_ITEM_KANTEI_SEND
+--- BLOCK ---
+TMSG_RANK
+--- BLOCK ---
+TMSG_RESULT
+--- BLOCK ---
+TMSG_RESULT_INFO
+--- BLOCK ---
+TMSG_INFO_GALLERY_REF
+--- BLOCK ---
+TMSG_INFO_ARENA_REF
+--- BLOCK ---
+TMSG_INFO_MEDAL_REF
+--- BLOCK ---
+TMSG_INFO_RANK_UP
+--- BLOCK ---
+TMSG_INFO_ARMOR_RGB
+--- BLOCK ---
+TMSG_INFO_ARENA_TITLE
+--- BLOCK ---
+TMSG_REWARD_BOX
+--- BLOCK ---
+Recom. missão
+--- BLOCK ---
+Bon. caça livre
+--- BLOCK ---
+Recomp. objetos
+--- BLOCK ---
+Total
+--- BLOCK ---
+Fundos
+--- BLOCK ---
+Tarifa
+--- BLOCK ---
+Recom. miss. princ.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+x 2
+--- BLOCK ---
+Miss. princ. compl.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pegar recompensas
+--- BLOCK ---
+Enviar para Cx. de itens
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Pegar recompensas
+--- BLOCK ---
+Enviar para Cx. de itens
+--- BLOCK ---
+Feito
+--- BLOCK ---
+Enviar equipamento
+--- BLOCK ---
+Vender itens e sair
+--- BLOCK ---
+Enviar equipamento
+--- BLOCK ---
+Feito
+--- BLOCK ---
+Avaliar
+--- BLOCK ---
+Enviar para Cx.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Pontos atuais
+--- BLOCK ---
+Ranking caçador atual
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Derrotas
+--- BLOCK ---
+x
+--- BLOCK ---
+Pts. consolação
+--- BLOCK ---
+Total
+--- BLOCK ---
+×%2d=
+--- BLOCK ---
+Fundos
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
++ grande
+--- BLOCK ---
++ peq.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+cm
+--- BLOCK ---
+(Mudança por hab.)
+--- BLOCK ---
+%d z
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+"%s"
+adicionado à Galeria!
+--- BLOCK ---
+"%s"
+adicionado às missões
+da Arena!
+--- BLOCK ---
+Você ganhou a recompensa
+"%s"!
+--- BLOCK ---
+Seu Ranking de caçador aumentou para
+%d!
+--- BLOCK ---
+Uma gama de cores RVA foi
+adicionada à seção de Pigmentos de
+armadura na Caixa de objetos.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Caixa rec.
+--- BLOCK ---
+Base
+--- BLOCK ---
+Ferir/Cap
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Recom. missão
+--- BLOCK ---
+Bon. caça livre
+--- BLOCK ---
+Recom. de Arena
+--- BLOCK ---
+Avaliar
+--- BLOCK ---
+Espaços livres
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Caixa avali.
+--- BLOCK ---

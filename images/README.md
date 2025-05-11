@@ -172,3 +172,18 @@ Used for rendering lots of **Arena messages**.
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
   <img src="./td_M_que_res3_ID_spa.preview.png" alt="td_M_que_res3_ID_spa preview">
 </div>
+
+---
+
+## 🎨 `td_M_v_reward02_ID_spa.tex`
+
+Used for rendering **Reward Info and Details**.
+
+#### All (single) Paths
+```
+.\arc\ID\ID_res_spa.arc\GUI\Texture\quest\td_M_v_reward02_ID_spa.tex
+```
+
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="./td_M_v_reward02_ID_spa.preview.png" alt="td_M_v_reward02_ID_spa preview">
+</div>
