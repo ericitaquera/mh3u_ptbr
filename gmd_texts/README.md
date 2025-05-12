@@ -34,7 +34,7 @@ The gmd files with same names are actually the same file repeated across several
 .\arc\ID\msg\ID_equipmsg_08_spa.arc\GUI\font\Acce_Exp_spa.gmd
 .\arc\ID\ID_res_spa.arc\GUI\font\Acce_Exp_spa.gmd
 ```
-File **Acce_Exp_spa.gmd** is exacty the same. Ex:
+Files named **Acce_Exp_spa.gmd** are exacty the same. Ex:
 ```
 > fc.exe /b .\arc\ID\ID_lb_spa.arc\GUI\font\Acce_Exp_spa.gmd .\arc\ID\msg\ID_equipmsg_17_spa.arc\GUI\font\Acce_Exp_spa.gmd
 Comparing files .\ARC\ID\ID_LB_SPA.ARC\GUI\FONT\Acce_Exp_spa.gmd and .\ARC\ID\MSG\ID_EQUIPMSG_17_SPA.ARC\GUI\FONT\ACCE_EXP_SPA.GMD
