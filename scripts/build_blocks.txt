@@ -1,0 +1,19 @@
+Skill_Type_Exp_spa.gmd
+
+py .\repack_gmd.ps1 C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\Skill_Type_Exp_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\Skill_Type_Exp_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\Skill_Type_Exp_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+
+---
+
+Npc004_spa.gmd
+
+py .\repack_gmd.ps1 C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc004_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc004_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc004_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc

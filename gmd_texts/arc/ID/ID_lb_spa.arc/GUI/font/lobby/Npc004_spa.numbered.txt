@@ -1,1507 +1,1507 @@
-TMSG_NPC004_0
---- BLOCK ---
+﻿TMSG_NPC004_0
+--- BLOCK [001] ---
 TMSG_NPC004_1
---- BLOCK ---
+--- BLOCK [002] ---
 TMSG_NPC004_2
---- BLOCK ---
+--- BLOCK [003] ---
 TMSG_NPC004_3
---- BLOCK ---
+--- BLOCK [004] ---
 TMSG_NPC004_4
---- BLOCK ---
+--- BLOCK [005] ---
 <SUBS 3>
---- BLOCK ---
+--- BLOCK [006] ---
 <SUBS 1>
---- BLOCK ---
+--- BLOCK [007] ---
 <SUBS 2>
---- BLOCK ---
+--- BLOCK [008] ---
 ¡Ah, gracias, cazador! ¡Nunca hubiera
 imaginado que reunirías los Recursos
 para reparar el campamento tan rápido!
---- BLOCK ---
+--- BLOCK [009] ---
 Supongo que mi padre tenía razón: los
 cazadores sois increíbles. Nosotros nos
 encargaremos ahora de los arreglos.
---- BLOCK ---
+--- BLOCK [010] ---
 Nuestra vida en la aldea está vinculada
 a los Recursos. Calcularé los Recursos
 de todo lo que caces en el bosque.
---- BLOCK ---
+--- BLOCK [011] ---
 De vez en cuando me encuentro con
 Bienes valiosos cuando estoy
 inventariando tus botines.
---- BLOCK ---
+--- BLOCK [012] ---
 Créeme: si encontramos algún Bien,
 me aseguraré de hacértelo
 llegar.
---- BLOCK ---
+--- BLOCK [013] ---
 Sigue demostrándoles a esos carnívoros
 quién manda y tendrás muchos Recursos
 y Bienes en el futuro.
---- BLOCK ---
+--- BLOCK [014] ---
 Recuerda que debes informar de tus
 presas después de cazar en el bosque.
 ¡Soy quien lleva la cuenta de todo!
---- BLOCK ---
+--- BLOCK [015] ---
 Ah, una cosa más: el Artesano Wyveriano
 te estaba buscando. He oído que quiere
 hablar contigo sobre mejoras de armas.
---- BLOCK ---
+--- BLOCK [016] ---
 Ve a verle a su yunque, ¿vale?
 Los artesanos ancianos como él merecen
 tu respeto. Gracias, cazador.
---- BLOCK ---
+--- BLOCK [017] ---
 Eres uno de los buenos, cazador.
 ¡Este material es de primera!
---- BLOCK ---
+--- BLOCK [018] ---
 ¡Con esto podremos construir
 un campamento base capaz de
 aguantar cualquier catástrofe!
---- BLOCK ---
+--- BLOCK [019] ---
 Lo último que quiero es que un monstruo
 vuelva a destrozar este lugar. Tú haz
 tu trabajo, cazador, que yo haré el mío.
---- BLOCK ---
+--- BLOCK [020] ---
 Nunca me había sentido tan animado con
 el trabajo. ¡Solo espero que el dragón
 marino siga lejos mientras trabajamos!
---- BLOCK ---
+--- BLOCK [021] ---
 Estupendo. ¡Saldremos en cuanto
 esté todo preparado!
---- BLOCK ---
+--- BLOCK [022] ---
 <SUBS 0>
 Ojalá pudiera mostrarte el Clima de
 Moga, cazador.
---- BLOCK ---
+--- BLOCK [023] ---
 Pero no puedo conseguir esa información
 hasta que el bosque se calme un poco.
---- BLOCK ---
+--- BLOCK [024] ---
 <SUBS 0>
 Cuando veas un icono con ? encima de tu
 cabeza, estás en una zona de recogida.
---- BLOCK ---
+--- BLOCK [025] ---
 Pulsa el botón y reunirás materiales.
 Úsalos para fabricar equipo, combinar
 objetos... ¡Lo que tú quieras!
---- BLOCK ---
+--- BLOCK [026] ---
 <SUBS 0>
 Los Jaggi temen al fuego. Los aldeanos
 siempre llevan antorchas al bosque.
---- BLOCK ---
+--- BLOCK [027] ---
 Si quieres que los Jaggi salgan pitando,
 coge una Antorcha de debajo del brasero
 que hay justo al salir de la aldea.
---- BLOCK ---
+--- BLOCK [028] ---
 <SUBS 0>
 Las antorchas que hay debajo del brasero
 de fuera son para aldeanos, pero...
---- BLOCK ---
+--- BLOCK [029] ---
 Es demasiado peligroso traerlas a
 la aldea. ¿Acaso quieres quemarla?
 Solo debes recordar dónde las dejas.
---- BLOCK ---
+--- BLOCK [030] ---
 <SUBS 0>
 Esos Bnahabra zumbadores son molestos.
---- BLOCK ---
+--- BLOCK [031] ---
 ¿Sabías que les atraen las llamas?
 Enciende una Antorcha y podrás
 aplastarlos con facilidad.
---- BLOCK ---
+--- BLOCK [032] ---
 <SUBS 0>
 A veces está bien simplemente pasear
 por el bosque, ¿sabes?
---- BLOCK ---
+--- BLOCK [033] ---
 El Bosque de Moga es hermoso y el
 aire muy limpio. Date un paseo y vete de
 recogida. Te servirá en cazas futuras.
---- BLOCK ---
+--- BLOCK [034] ---
 <SUBS 0>
 Mientras estás en el bosque, el tiempo
 en la aldea avanzará medio día.
---- BLOCK ---
+--- BLOCK [035] ---
 No puedes salir y volver directamente.
 Debes cazar durante al menos dos
 minutos para que pase el tiempo.
---- BLOCK ---
+--- BLOCK [036] ---
 <SUBS 0>
 ¿Has visto alguna vez un punto brillante
 en el bosque?
---- BLOCK ---
+--- BLOCK [037] ---
 Es una señal segura de que hay un Bien
 precioso bajo el suelo. ¡Cava para
 extraerlo y tráetelo a la ciudad!
---- BLOCK ---
+--- BLOCK [038] ---
 <SUBS 0>
 Los monstruos se comportan de modos muy
 diferentes. Por ejemplo, el Aptonoth...
---- BLOCK ---
+--- BLOCK [039] ---
 Algunos huyen al recibir un ataque.
 Otros protegen a sus crías. Tienen
 personalidades distintas. Es fascinante.
---- BLOCK ---
+--- BLOCK [040] ---
 <SUBS 0>
 Encontrarás los objetos que comen los
 monstruos, diseminados por los campos.
---- BLOCK ---
+--- BLOCK [041] ---
 Por ejemplo carroña o las sobras de
 otros monstruos. Encontrarás estas cosas
 paseando por el bosque.
---- BLOCK ---
+--- BLOCK [042] ---
 Los monstruos grandes buscan comida para
 restaurar su Resistencia cuando están
 agotados. Consejo: evita que coman.
---- BLOCK ---
+--- BLOCK [043] ---
 <SUBS 0>
 Si tienes suerte, podrás encontrar
 bienes en el bosque.
---- BLOCK ---
+--- BLOCK [044] ---
 Como Piezas de hueso de dragón y
 Piezas de Abalone... Sí, eso sí que
 son Bienes.
---- BLOCK ---
+--- BLOCK [045] ---
 Son difíciles de encontrar, pero valen
 muchos Recursos. Cuando estés en
 la ciudad selecciona Generar recursos.
---- BLOCK ---
+--- BLOCK [046] ---
 <SUBS 0>
 Si lo piensas, el bosque es como una
 enorme criatura viviente...
---- BLOCK ---
+--- BLOCK [047] ---
 A veces está tranquilo y otras veces
 está intratable. El bosque tiene muchos
 estados. Pronosticaré lo mejor posible.
---- BLOCK ---
+--- BLOCK [048] ---
 El pronóstico del Clima sirve para cazas
 que no son del Gremio. Las misiones del
 Gremio tienen sus tiempos y entornos.
---- BLOCK ---
+--- BLOCK [049] ---
 <SUBS 0>
 Una vez me encontré con un Lagiacrus,
 cuando estaba en un barco en el mar...
---- BLOCK ---
+--- BLOCK [050] ---
 Eres especial, cazador, por ir tras
 esa cosa. Eres increíblemente valiente
 o increíblemente inconsciente.
---- BLOCK ---
+--- BLOCK [051] ---
 Incluso el Lagiacrus tiene sus límites.
 Cuando se pone furioso, se cansa y
 se va a la orilla. ¡Es tu oportunidad!
---- BLOCK ---
+--- BLOCK [052] ---
 Hola, cazador. ¡Gracias por la carne!
 Me mareo si no como cada par de horas.
 *Eructo* Tú y yo nos llevaremos bien...
---- BLOCK ---
+--- BLOCK [053] ---
 Bueno, ya he terminado de averiguar
 qué materiales necesitaremos para
 arreglar el campamento base.
---- BLOCK ---
+--- BLOCK [054] ---
 Debemos cavar letrinas nuevas y tapar
 las viejas, reconstruir la tienda y
 quitar pulgas. Necesitamos Recursos.
---- BLOCK ---
+--- BLOCK [055] ---
 ¿Sabes lo que son? Puedes aumentar
 nuestros Recursos cazando monstruos en
 el Bosque de Moga o buscando objetos.
---- BLOCK ---
+--- BLOCK [056] ---
 Los aldeanos no podemos adentrarnos
 mucho en el bosque. A los monstruos
 les gusta... nuestro sabor. Ja, ja.
---- BLOCK ---
+--- BLOCK [057] ---
 Pero un cazador como tú podría
 patearse todo el bosque fácilmente.
 ¡Y volverías cargado de Recursos!
---- BLOCK ---
+--- BLOCK [058] ---
 No te preocupes, arreglamos los caminos
 que se estropearon con el terremoto.
 Coge Recursos en el bosque, ¿vale?
---- BLOCK ---
+--- BLOCK [059] ---
 Pero no andes por ahí de noche. Las
 cosas que no ves pueden hacerte daño en
 el bosque. Mejor caza de día.
---- BLOCK ---
+--- BLOCK [060] ---
 Ah, casi se me olvida,
 tengo algo para ti.
---- BLOCK ---
+--- BLOCK [061] ---
 Toma este Asador barbacoa. ¡Lo hice yo!
 Úsalo para asar la Carne cruda cortada.
 Nada mejor que cocinar al aire libre.
---- BLOCK ---
+--- BLOCK [062] ---
 Es muy fácil de usar. Te daré algunos
 consejos para la barbacoa la próxima
 vez que estés en el bosque.
---- BLOCK ---
+--- BLOCK [063] ---
 Ah, y ve a llevarle un informe a mi
 padre, ¿vale? Le encantan los informes.
---- BLOCK ---
+--- BLOCK [064] ---
 <SUBS 0>
 ¿Cómo va el juego de recoger Recursos?
 Ven a verme cuando tengas suficientes.
---- BLOCK ---
+--- BLOCK [065] ---
 Así es como se entregan. Primero,
 convierte tus presas en Recursos
 seleccionando Informe de caza.
---- BLOCK ---
+--- BLOCK [066] ---
 Luego, selecciona Solicitudes pob.
 y podrás dedicar los Recursos a
 las necesidades que tenga la aldea.
---- BLOCK ---
+--- BLOCK [067] ---
 Los aldeanos pueden hacerte otras
 peticiones en el futuro. También usarás
 Solicitudes pob. para consultarlas.
---- BLOCK ---
+--- BLOCK [068] ---
 <SUBS 0>
 El Artesano wyveriano andaba buscándote.
 Dijo algo sobre mejoras de armas...
---- BLOCK ---
+--- BLOCK [069] ---
 Ve a verlo a su yunque, ¿vale?
 Los artesanos ancianos como él merecen
 tu respeto. Gracias, cazador.
---- BLOCK ---
+--- BLOCK [070] ---
 <SUBS 0>
 ¿Quiere mineral? ¡Qué bien! Yo casi me
 hernio buscándole mineral en su día.
---- BLOCK ---
+--- BLOCK [071] ---
 Sigue los consejos de Juni... digo, mis
 consejos. Primero, lleva siempre un Pico
 porque no puedes picar con las manos.
---- BLOCK ---
+--- BLOCK [072] ---
 En cuevas y zonas rocosas, explora
 los alrededores. Mira bien y notarás
 trozos de distinto color.
---- BLOCK ---
+--- BLOCK [073] ---
 Si aparece el icono de un Pico encima de
 tu cabeza cuando te acercas, ¡bingo!
 Pulsa el botón para usar tu Pico.
---- BLOCK ---
+--- BLOCK [074] ---
 Cuando extraigas Mineral hierro, llévalo
 a la tienda de artesanía. De nuevo, en
 Solicitudes pob. en el menú del juego.
---- BLOCK ---
+--- BLOCK [075] ---
 Hola. He oído que fuiste a ver al
 artesano en la Herrería. Le has
 caído bien, ¿eh?
---- BLOCK ---
+--- BLOCK [076] ---
 ¡Ja! ¡Pues sí que eres especial! Ese
 viejo gruñón hijo de Artillero suele ser
 bastante reacio a aceptar gente nueva.
---- BLOCK ---
+--- BLOCK [077] ---
 Mientras tú hacías amigos, nosotros
 hemos estado trabajando duro. La
 reparación del campamento base va bien.
---- BLOCK ---
+--- BLOCK [078] ---
 Ah, una cosa más: el granjero jefe te
 estaba buscando. ¿Lo has conocido ya?
---- BLOCK ---
+--- BLOCK [079] ---
 Es otro viejo muchacho al que querrás
 ver. La entrada a la granja está bajando
 a la derecha del puente del bosque.
---- BLOCK ---
+--- BLOCK [080] ---
 ¡Eh, cazador!
 He oído que pones rumbo a la mar. ¿Y si
 el viejo Junio te enseña a nadar?
---- BLOCK ---
+--- BLOCK [081] ---
 Nada en la misma dirección a la que
 miras y, cuando tu indicador de oxígeno
 baje, busca zonas de suministro de aire.
---- BLOCK ---
+--- BLOCK [082] ---
 Recuerda estas tres cosas y
 nunca dormirás con los peces.
---- BLOCK ---
+--- BLOCK [083] ---
 <SUBS 0>
 He oído que te vas al mar. ¿Qué tal si
 antes damos unas clases de natación?
---- BLOCK ---
+--- BLOCK [084] ---
 Nada en la misma dirección a la que
 miras y, cuando tu indicador de oxígeno
 baje, busca zonas de suministro de aire.
---- BLOCK ---
+--- BLOCK [085] ---
 Recuerda estas tres cosas y
 nunca dormirás con los peces.
---- BLOCK ---
+--- BLOCK [086] ---
 Buen trabajo con la caza de Mólidos
 Nadas como si tuvieras branquias, pero
 no olvides lo que has aprendido...
---- BLOCK ---
+--- BLOCK [087] ---
 Ah, casi se me olvida. He oído que
 la chica del Gremio tiene
 un mensaje para ti.
---- BLOCK ---
+--- BLOCK [088] ---
 Será mejor que vayas a verla.
---- BLOCK ---
+--- BLOCK [089] ---
 <SUBS 0>
 La reparación del campamento base va
 viento en popa, gracias a ti, claro.
---- BLOCK ---
+--- BLOCK [090] ---
 Me comentan que el Gremio tiene
 una misión para ti. ¡Date prisa y
 ve al puesto de misión!
---- BLOCK ---
+--- BLOCK [091] ---
 No lo olvides: puedes entrar al bosque
 independientemente de las misiones. Ve a
 cazar, yo gestionaré los Recursos.
---- BLOCK ---
+--- BLOCK [092] ---
 <SUBS 0>
 ¿Sabes algo de los Epioth?
 Son herbívoros acuáticos...
---- BLOCK ---
+--- BLOCK [093] ---
 Sus entrañas son muy tiernas y jugosas.
 Pero son difíciles de encontrar, en su
 hábitat hay monstruos más peligrosos.
---- BLOCK ---
+--- BLOCK [094] ---
 Me alegro de que estés bien, cazador.
 ¿Quién hubiera imaginado que te ibas
 a encontrar con un Lagiacrus?
---- BLOCK ---
+--- BLOCK [095] ---
 No te preocupes, no esperamos que seas
 capaz de enfrentarte a eso... todavía.
---- BLOCK ---
+--- BLOCK [096] ---
 Obsérvalo en libertad y aprende. Aprende
 cuál es el mejor momento para atacar. No
 tienes que matarlo... solo ahuyentarlo.
---- BLOCK ---
+--- BLOCK [097] ---
 Siendo un cazador de primera, seguro que
 piensas que te lo cargarás. ¡Pero la
 chulería ha matado a más de un cazador!
---- BLOCK ---
+--- BLOCK [098] ---
 Todo llegará. No tengas prisa.
 Como pescador, puedo decirte que
 la paciencia da sus frutos.
---- BLOCK ---
+--- BLOCK [099] ---
 ¡Hola, cazador! ¡He oído que recibiste
 una petición para atrapar a uno de
 los grandes!
---- BLOCK ---
+--- BLOCK [100] ---
 Creo que es momento de hablarte de la
 Cámara objetivo. Sácala cuando
 vayas tras grandes monstruos.
---- BLOCK ---
+--- BLOCK [101] ---
 Lo primero: toca "Personalizar paneles"
 en la pantalla inferior y pon el panel
 de Cámara objetivo en tu distribución.
---- BLOCK ---
+--- BLOCK [102] ---
 Y cuando estés en la misma zona que el
 monstruo, toca el icono de la Cámara
 objetivo para pasar al Modo objetivo.
---- BLOCK ---
+--- BLOCK [103] ---
 ¡Si pulsas suavemente el botón L, la
 cámara apuntará a la bestia!
 Útil, ¿eh?
---- BLOCK ---
+--- BLOCK [104] ---
 Si quieres colocar la cámara en su
 posición habitual (a tu espalda), pulsa
 dos veces el botón L.
---- BLOCK ---
+--- BLOCK [105] ---
 La Cámara objetivo es tu mejor aliada
 para cazar presas enormes.
---- BLOCK ---
+--- BLOCK [106] ---
 Ah, y si quieres saber más cosas, toca
 el botón de Ayuda cuando modifiques
 la distribución de los paneles.
---- BLOCK ---
+--- BLOCK [107] ---
 Mmm... Sé que te tomaste muchas
 molestias para derribar al Gran Jaggi
 y todo eso, pero...
---- BLOCK ---
+--- BLOCK [108] ---
 Ahora hemos avistado a más Gran Jaggi
 en el bosque. Las bestias que huyeron
 del terremoto parecen estar regresando.
---- BLOCK ---
+--- BLOCK [109] ---
 Conozco ese bosque mejor que nadie.
 No olvides consultar el Clima de Moga
 antes de abandonar la aldea.
---- BLOCK ---
+--- BLOCK [110] ---
 <SUBS 0>
 ¿Listo para una misión de captura?
 Tienes coraje, cazador. Me caes bien.
---- BLOCK ---
+--- BLOCK [111] ---
 Debes debilitar a los monstruos para
 capturarlos. Saber cuándo son lo
 suficientemente débiles es la clave.
---- BLOCK ---
+--- BLOCK [112] ---
 Escúchame bien. El secreto está en
 observar al monstruo atentamente.
---- BLOCK ---
+--- BLOCK [113] ---
 Recuerda cuando te enfrentaste al
 Arzuros... ¿Te fijaste en que empezaba a
 caminar peor, como si estuviera cojo?
---- BLOCK ---
+--- BLOCK [114] ---
 Eso era una señal segura de que tus
 ataques estaban haciendo mella y que
 la Salud del monstruo estaba menguando.
---- BLOCK ---
+--- BLOCK [115] ---
 ¿Te estás enterando de algo? Si no,
 prueba de nuevo a cazar monstruos
 grandes y observa sus movimientos.
---- BLOCK ---
+--- BLOCK [116] ---
 No te sientas mal si no lo consigues.
 Capturar a un monstruo es mucho más
 difícil que simplemente matarlo.
---- BLOCK ---
+--- BLOCK [117] ---
 Creo que es una habilidad que diferencia
 a los verdaderos cazadores de los
 arribistas. Espero recibir tu informe.
---- BLOCK ---
+--- BLOCK [118] ---
 ¡Eh! Parece que estás al tanto de todo
 lo que ocurre aquí, así que puede que
 esto ya lo sepas, pero...
---- BLOCK ---
+--- BLOCK [119] ---
 Los niños no paran de hablar de una
 criatura rara que vieron en el bosque.
---- BLOCK ---
+--- BLOCK [120] ---
 Al principio pensé que era producto
 de su imaginación.
---- BLOCK ---
+--- BLOCK [121] ---
 Pero luego arrinconé al niño que lo vio
 y escuché su historia de primera mano.
 Parece que se trata de un Shakalaka.
---- BLOCK ---
+--- BLOCK [122] ---
 Los Shakalaka se parecen a nosotros,
 pero miden la mitad y llevan máscaras
 extrañas. Que no te engañe su estatura.
---- BLOCK ---
+--- BLOCK [123] ---
 He oído decir que son peor que los
 wyverns cuando atacan en grupo. Si ha
 aparecido una tribu en nuestro bosque...
---- BLOCK ---
+--- BLOCK [124] ---
 Espero equivocarme, pero, si estás
 pensando en buscar al puñetero
 pequeñajo, será mejor que te prepares.
---- BLOCK ---
+--- BLOCK [125] ---
 Ah, por cierto, los chavales insisten en
 pedir al Gremio que busque esa cosa
 que vieron. Ve al puesto de misión.
---- BLOCK ---
+--- BLOCK [126] ---
 ¡Ja, ja, ja, ja! ¡Y yo aquí pensando
 que todos los Shakalaka eran brutos
 sanguinarios!
---- BLOCK ---
+--- BLOCK [127] ---
 Vaya si estaba equivocado. Si parece más
 bien un pequeño mentecato *ejem* digo,
 ¡un pillín encantador!
---- BLOCK ---
+--- BLOCK [128] ---
 Bueno, creo que puede ser el compañero
 perfecto para ti. Hay que disfrutar
 de las pequeñas de la vida. Je, je.
---- BLOCK ---
+--- BLOCK [129] ---
 De todos modos, me parece curioso que
 venga en busca de una máscara... No sé
 cómo vamos a poder ayudar al pequeñín.
---- BLOCK ---
+--- BLOCK [130] ---
 Espera un momento. El Argosy ha viajado
 a muchas tierras lejanas. Quizá contenga
 algo que nos pueda ser útil...
---- BLOCK ---
+--- BLOCK [131] ---
 Es solo una idea, pero quizá valga la
 pena que vayas a ver lo que tiene que
 decir el Capitán del Argosy.
---- BLOCK ---
+--- BLOCK [132] ---
 Saludos, cazador. ¿Sabes? La gente ha
 oído gritos extraños que provienen
 del Bosque de Moga.
---- BLOCK ---
+--- BLOCK [133] ---
 Apuesto a que son gritos de Qurupeco
 Quizá la bestia haya construido
 un nido en alguna parte.
---- BLOCK ---
+--- BLOCK [134] ---
 Desde ahora, puede que veas Qurupeco en
 el bosque aunque no estés en una misión.
---- BLOCK ---
+--- BLOCK [135] ---
 Puedes contar con Junior... eh, digo...
 conmigo, para obtener información, así
 que sigue consultando el Clima de Moga.
---- BLOCK ---
+--- BLOCK [136] ---
 Ah, y tu pequeño compañero enmascarado,
 Che-Che o como sea, hizo una petición.
 ¡Mira las solicitudes de la población!
---- BLOCK ---
+--- BLOCK [137] ---
 ¡Ah, aquí estás, cazador! Justo a
 tiempo. Tengo algo que contarte.
---- BLOCK ---
+--- BLOCK [138] ---
 Estaba patrullando el Bosque de Moga
 Cuando divisé un Ludroth real. Es nuevo
 en esta zona...
---- BLOCK ---
+--- BLOCK [139] ---
 No sé si tendrá algo que ver con
 el terremoto, pero la cadena alimenticia
 de todo el bosque se ha desequilibrado.
---- BLOCK ---
+--- BLOCK [140] ---
 Eso significa que te puedes encontrar
 con un Ludroth real cuando entres al
 bosque aunque no estés en una misión.
---- BLOCK ---
+--- BLOCK [141] ---
 Ya lo sabes, y consulta regularmente
 el Clima de Moga. ¡Toda cautela
 y preparación es poca!
---- BLOCK ---
+--- BLOCK [142] ---
 Gracias por venir. Nuestro pequeño
 Chaku-Baku, o como se llame, me ha
 traído los planos de la nueva máscara.
---- BLOCK ---
+--- BLOCK [143] ---
 Puedo construirla siempre que me traigas
 los materiales. ¡Ponte manos a la obra!
 ¡Mira las solicitudes de la población!
---- BLOCK ---
+--- BLOCK [144] ---
 <SUBS 0>
 Una vez, cuando estaba en la mar
 me topé con un Lagiacrus...
---- BLOCK ---
+--- BLOCK [145] ---
 Intentamos combatirlo con el equipo que
 había en el barco, pero fue inútil. Aun
 así, aprendí mucho de la experiencia.
---- BLOCK ---
+--- BLOCK [146] ---
 El Lagiacrus, como ves, tiene sus
 límites. Cuando se pone furioso se cansa
 y se va a la orilla. Es tu oportunidad.
---- BLOCK ---
+--- BLOCK [147] ---
 Empezamos a estar ocupados, ¿eh?
 El Lagiacrus está aquí y el combate
 final se acerca.
---- BLOCK ---
+--- BLOCK [148] ---
 Es hora de que escuches un par de
 consejos importantes de Junior... digo
 míos, así que presta atención...
---- BLOCK ---
+--- BLOCK [149] ---
 Primero, ha aparecido una Rathian en
 el bosque. Al parecer, está intentando
 construir un nido.
---- BLOCK ---
+--- BLOCK [150] ---
 Recuerda consultar el Clima de Moga si
 vas a entrar al bosque. Pueden aparecer
 Rathian aunque no estés en una misión.
---- BLOCK ---
+--- BLOCK [151] ---
 Segundo, nuestro pequeño amigo, Chi-Chi
 o como se llame... me ha traído otro
 conjunto de planos para máscaras.
---- BLOCK ---
+--- BLOCK [152] ---
 Esta parece bastante interesante.
 ¡La crearé si me traes los materiales!
 Mira las solicitudes de la población.
---- BLOCK ---
+--- BLOCK [153] ---
 Y por último... esta historia es de
 antaño, cuando el Lagiacrus
 atacó nuestro barco...
---- BLOCK ---
+--- BLOCK [154] ---
 El Lagiacrus, como ves, tiene sus
 límites. Cuando se pone furioso se cansa
 y se va a la orilla. Es tu oportunidad.
---- BLOCK ---
+--- BLOCK [155] ---
 Bueno, no quiero presionarte, pero el
 destino de esta aldea depende de tus
 habilidades. ¡Espero que no la pifies!
---- BLOCK ---
+--- BLOCK [156] ---
 <SUBS 0>
 Una vez, cuando estaba en la mar
 me topé con un Lagiacrus...
---- BLOCK ---
+--- BLOCK [157] ---
 Intentamos combatirle con el equipo que
 había en el barco, pero fue inútil. Aun
 así, aprendí mucho de la experiencia.
---- BLOCK ---
+--- BLOCK [158] ---
 El Lagiacrus, como ves, tiene sus
 límites. Cuando se pone furioso se cansa
 y se va a la orilla. Es tu oportunidad.
---- BLOCK ---
+--- BLOCK [159] ---
 ¿Otro terremoto? ¿Justo cuando nos
 libras del Lagiacrus?
---- BLOCK ---
+--- BLOCK [160] ---
 ¿Sabes qué?
 Estoy empezando a pensar que
 el Lagiacrus no causó los terremotos.
---- BLOCK ---
+--- BLOCK [161] ---
 Pero en cuanto a QUÉ los causó,
 no tengo ni idea.
---- BLOCK ---
+--- BLOCK [162] ---
 Aunque sí sé una cosa, si no hacemos
 algo pronto, nuestra aldea va a
 desprenderse y caer al mar.
---- BLOCK ---
+--- BLOCK [163] ---
 Ese último terremoto ha sido aún peor
 que los anteriores.
---- BLOCK ---
+--- BLOCK [164] ---
 Era como si algo enorme hubiera agarrado
 la aldea y la hubiera sacudido. Algo
 mucho más enorme que el Lagiacrus...
---- BLOCK ---
+--- BLOCK [165] ---
 Oh, bueno, son suposiciones. Olvídalo.
 No importa cuál sea la causa de
 los terremotos, protegeremos Moga.
---- BLOCK ---
+--- BLOCK [166] ---
 Serás el primero en saberlo si me
 entero de algo tangible.
---- BLOCK ---
+--- BLOCK [167] ---
 ¡Hola! Chee-Chee tiene una máscara
 nueva, ¿verdad?
---- BLOCK ---
+--- BLOCK [168] ---
 Es como si se transformara en otro...
 no sé qué, cuando se cambia de
 máscara. Je.
---- BLOCK ---
+--- BLOCK [169] ---
 ¿Qué? ¿Quién iba a saber que había dos
 mentecatos... *Ejem* Digo, encantadores
 granujillas?
---- BLOCK ---
+--- BLOCK [170] ---
 Apuesto a que esos renacuajos y tú
 haréis un equipo perfecto. Portaos
 bien, ¿me oís?
---- BLOCK ---
+--- BLOCK [171] ---
 Aunque parece que ahora no es momento
 de juegos.
---- BLOCK ---
+--- BLOCK [172] ---
 Si el dragón vive en las profundidades,
 ¿cómo podremos bajar a investigar?
---- BLOCK ---
+--- BLOCK [173] ---
 La presión del agua es mucho mayor en el
 fondo del mar. Baja todo el Suministro
 de oxígeno que quieras, que no servirá.
---- BLOCK ---
+--- BLOCK [174] ---
 Mmm... En este punto, nuestra única
 opción puede que sea la estatua.
---- BLOCK ---
+--- BLOCK [175] ---
 ¿Eh? ¿Quieres saber qué estatua? Bueno,
 el viejo de la Herrería me contó algo
 fascinante hace tiempo.
---- BLOCK ---
+--- BLOCK [176] ---
 ¿Conoces la cueva que hay tras
 la Granja? La estatua guardián de Moga
 está allí. Lleva una máscara antigua.
---- BLOCK ---
+--- BLOCK [177] ---
 Si el Artesano Wyveriano y el granjero
 jefe dicen la verdad, esa máscara es
 mucho más que un viejo adorno.
---- BLOCK ---
+--- BLOCK [178] ---
 Dicen quienes vivían en las ruinas
 debajo de nuestra aldea quizá usaron
 la máscara para respirar bajo el agua.
---- BLOCK ---
+--- BLOCK [179] ---
 Es solo una idea, pero, si arreglas
 esa máscara, quizá puedas alcanzar
 la cueva que vio nuestro pequeño amigo.
---- BLOCK ---
+--- BLOCK [180] ---
 Creo que el Artesano Wyveriano piensa lo
 mismo. Murmuró algo sobre partes de
 Lagiacrus para arreglar la máscara.
---- BLOCK ---
+--- BLOCK [181] ---
 Hablando de eso... Hace poco han visto
 en el bosque a otro Lagiacrus, distinto
 al que derrotaste.
---- BLOCK ---
+--- BLOCK [182] ---
 Tráeme todos los materiales que consigas
 extraer de esa cosa. He hecho una
 lista de todo lo que necesitamos.
---- BLOCK ---
+--- BLOCK [183] ---
 Mi padre puede que no esté muy de
 acuerdo con este plan, quedará entre
 tú y yo... y el Artesano Wyveriano.
---- BLOCK ---
+--- BLOCK [184] ---
 <SUBS 0>
 Puede que consigas llegar hasta esa
 cueva si arreglamos la máscara.
---- BLOCK ---
+--- BLOCK [185] ---
 Vale la pena intentarlo. Necesitamos
 partes de Lagiacrus. En marcha, cazador.
 Esa bestia no se va a cortar a sí misma.
---- BLOCK ---
+--- BLOCK [186] ---
 Eh. El Artesano Wyveriano ha estado
 haciendo unos ajustes a la máscara de
 esa estatua mientras estabas fuera.
---- BLOCK ---
+--- BLOCK [187] ---
 Justo como esperaba, ¡vas a poder
 respirar bajo el agua con ella
 por tiempo ilimitado!
---- BLOCK ---
+--- BLOCK [188] ---
 Solo hay un problema...
---- BLOCK ---
+--- BLOCK [189] ---
 Dice que la máscara es demasiado
 pequeña para que te la pongas tú. Parece
 grande pero tiene muchas cosas dentro.
---- BLOCK ---
+--- BLOCK [190] ---
 A los únicos a los que les cabe la
 máscara es a esos enanos. ¿Cómo se
 llaman? Cha-Chi y... eh, ¿el otro?
---- BLOCK ---
+--- BLOCK [191] ---
 Si ninguno de esos pillines bucea,
 volvemos al punto de partida. Esperemos
 que sean tan valientes como aparentan.
---- BLOCK ---
+--- BLOCK [192] ---
 Así que te vas a enfrentar al dragón...
 Me imaginaba que lo harías.
---- BLOCK ---
+--- BLOCK [193] ---
 Claro que nunca ganarás si juegas
 limpio. Comprendo por qué el Gremio
 quiere convencerte de que no lo hagas.
---- BLOCK ---
+--- BLOCK [194] ---
 Pero puede que tengamos más armas
 disponibles de las que piensas.
---- BLOCK ---
+--- BLOCK [195] ---
 Al parecer, la cueva de esa criatura es
 parte de las ruinas que hay
 bajo nuestra aldea.
---- BLOCK ---
+--- BLOCK [196] ---
 Los pescadores bucearon allí para echar
 un vistazo y encontraron algo muy
 fascinante, a la par que conveniente.
---- BLOCK ---
+--- BLOCK [197] ---
 Dijeron que encontraron un montón de
 armas antimonstruo allí abajo, más o
 menos intactas. Interesante, ¿verdad?
---- BLOCK ---
+--- BLOCK [198] ---
 Son antigüedades, así que quién sabe
 si todavía funcionan. Y aunque
 funcionen, ¡suerte para averiguar cómo!
---- BLOCK ---
+--- BLOCK [199] ---
 Puede que sea una pérdida de tiempo,
 pero creo que vale la pena intentarlo.
---- BLOCK ---
+--- BLOCK [200] ---
 Hemos encontrado el lugar perfecto para
 poner un campamento junto a la cueva.
---- BLOCK ---
+--- BLOCK [201] ---
 Podríamos convertirlo en tu campamento
 base para cazar al dragón. Necesitamos
 materiales que no podemos conseguir.
---- BLOCK ---
+--- BLOCK [202] ---
 Me sabe mal pedírtelo, pero necesitamos
 que recojas materiales una vez más.
 Nos encargaremos de la construcción.
---- BLOCK ---
+--- BLOCK [203] ---
 He hecho una lista de cosas necesarias.
 Mira las solicitudes de la población.
---- BLOCK ---
+--- BLOCK [204] ---
 Eh, aquí estás. Hemos terminado
 todos los preparativos.
---- BLOCK ---
+--- BLOCK [205] ---
 El Ceadeus está en su guarida bajo
 el agua. Hemos construido un campamento
 nuevo justo encima de su cabeza.
---- BLOCK ---
+--- BLOCK [206] ---
 Si consigues que Chou-Chou o el otro
 enano se pongan la máscara, deberías ser
 capaz de llegar al fondo.
---- BLOCK ---
+--- BLOCK [207] ---
 Escúchame bien. El fondo de esa cueva
 está repleto de armas antiguas.
---- BLOCK ---
+--- BLOCK [208] ---
 Esto es bueno. Dudo que incluso el mejor
 cazador del mundo pueda derrotar a esa
 bestia con una simple arma de mano.
---- BLOCK ---
+--- BLOCK [209] ---
 Espera el momento adecuado, y utiliza
 esas armas antiguas estratégicamente.
 Tú eres el cazador, averigua cómo.
---- BLOCK ---
+--- BLOCK [210] ---
 El destino de nuestra aldea está en
 tus manos. De nuevo, te estaremos
 apoyando. Una vez más.
---- BLOCK ---
+--- BLOCK [211] ---
 ¡Ja, ja, ja, ja!
 ¡El valiente héroe vuelve de una pieza!
---- BLOCK ---
+--- BLOCK [212] ---
 ¡Pareces invencible, cazador! Me alegro
 tanto de que hayas vuelto que, *sollozo*
 podría llorar *sollozo* de la emoción...
---- BLOCK ---
+--- BLOCK [213] ---
 Has salvado a la aldea y asegurado
 nuestro sustento. Has protegido el honor
 de mi padre. Eres... *sollozo*
---- BLOCK ---
+--- BLOCK [214] ---
 *Ejem* Me prometí a mí mismo que no
 *sollozo* lloraría, y mírame... Podría
 seguir, pero no se me da bien esto.
---- BLOCK ---
+--- BLOCK [215] ---
 De todos modos, huelga decir que puedes
 quedarte en esta aldea todo el tiempo
 que quieras. Eres un buen cazador.
---- BLOCK ---
+--- BLOCK [216] ---
 ¡Eh, amigo! ¿Has ido últimamente al
 Bosque de Moga?
---- BLOCK ---
+--- BLOCK [217] ---
 ¿Qué dices? ¿Que el bosque es muy
 aburrido para un as de la caza como tú?
---- BLOCK ---
+--- BLOCK [218] ---
 Sabía que dirías eso. Pero te tengo
 algo. ¿Y si te dijera que...? Redoble
 de tambores...
---- BLOCK ---
+--- BLOCK [219] ---
 ¡Ahora puedes ir de noche al Bosque de
 Moga!
---- BLOCK ---
+--- BLOCK [220] ---
 La diferencia entre la noche y el día es
 ¡como la noche y el día! Se acuestan las
 bestias diurnas, ¡y salen las nocturnas!
---- BLOCK ---
+--- BLOCK [221] ---
 Por eso no te dejamos ir allí al
 anochecer. ¡Hubiésemos acabado
 con un buenísimo cazador!
---- BLOCK ---
+--- BLOCK [222] ---
 Resulta que puedes obtener ciertos
 bienes solo por la noche. El bosque
 ha ganado interés, ¿eh?
---- BLOCK ---
+--- BLOCK [223] ---
 Sí, las misiones nocturnas son más
 peligrosas, pero el peligro es tu pan
 de cada día. No hagas nada estúpido.
---- BLOCK ---
+--- BLOCK [224] ---
 Eso es todo. Deberías darte un paseo por
 allí a medianoche.
---- BLOCK ---
+--- BLOCK [225] ---
 ¡Eh, cazador!
 Tu pequeño amigo me ha pasado
 los planos de una nueva máscara.
---- BLOCK ---
+--- BLOCK [226] ---
 Puedo construirla siempre que me traigas
 los materiales. ¡Ponte manos a la obra!
 ¡Mira las solicitudes de la población!
---- BLOCK ---
+--- BLOCK [227] ---
 ¡Eh! ¡Te he estado esperando!
 Tu compañerito me ha dado los planos
 de una nueva máscara.
---- BLOCK ---
+--- BLOCK [228] ---
 Puedo construirla siempre que me traigas
 los materiales. ¡Ponte manos a la obra!
 ¡Mira las solicitudes de la población!
---- BLOCK ---
+--- BLOCK [229] ---
 ¡Ah, eres tú!
 El renacuajo me ha dado los planos
 de una nueva máscara.
---- BLOCK ---
+--- BLOCK [230] ---
 Puedo construirla siempre que me traigas
 los materiales. ¡Ponte manos a la obra!
 ¡Mira las solicitudes de la población!
---- BLOCK ---
+--- BLOCK [231] ---
 ¡Hola, cazador!
 Según los rumores, un Lagiacrus marmóreo
 ha levantado su horrible trasero.
---- BLOCK ---
+--- BLOCK [232] ---
 ¿Sabías que mi padre fue un cazador
 legendario? ¡Pues claro! Si mi padre no
 hablase de esa época, ¡estaría mudo!
---- BLOCK ---
+--- BLOCK [233] ---
 Pero ni en sus mejores años era rival
 para un monstruo en particular. 
 Sí, el Lagiacrus marmóreo.
---- BLOCK ---
+--- BLOCK [234] ---
 Será una batalla épica, pero seguro que
 la superas. Como que me llamo Junio... 
 Bueno, ya sabes cómo me llamo.
---- BLOCK ---
+--- BLOCK [235] ---
 Ah, y otra cosa más.
---- BLOCK ---
+--- BLOCK [236] ---
 Tu amigo el enano me ha dado los planos
 de un nuevo tipo de máscara. 
---- BLOCK ---
+--- BLOCK [237] ---
 Esta parece bastante interesante.
 ¡La crearé si me traes los materiales!
 Mira las solicitudes de la población.
---- BLOCK ---
+--- BLOCK [238] ---
 ¡Ja, ja, ja, ja!
 ¡El valiente héroe vuelve de una pieza!
---- BLOCK ---
+--- BLOCK [239] ---
 ¡Eres de otro planeta, cazador!
 Has conseguido lo que mi padre nunca
 consiguió: ¡cazar un Lagiacrus marmóreo!
---- BLOCK ---
+--- BLOCK [240] ---
 Ojalá hubieras visto la cara de mi
 padre. ¡Es como si hubiese vuelto a
 su niñez!
---- BLOCK ---
+--- BLOCK [241] ---
 Yo creo que cuando te mira, ve reflejada
 la fornida figura de su juventud.
---- BLOCK ---
+--- BLOCK [242] ---
 Sé que este lugar no tiene mucho que
 ofrecer a alguien como tú, pero quédate
 el tiempo que quieras. Esta es tu aldea.
---- BLOCK ---
+--- BLOCK [243] ---
 Ah, casi se me olvida.
 Tienes otra petición.
---- BLOCK ---
+--- BLOCK [244] ---
 El granjero jefe quiere añadir una Caja
 de setas a la Granja. La usaría
 para cultivar setas.
---- BLOCK ---
+--- BLOCK [245] ---
 Costará unos cuantos Recursos, pero
 podrás reunir muchas más setas.
 Una cosa compensa la otra.
---- BLOCK ---
+--- BLOCK [246] ---
 He hecho una lista de todo lo que
 necesitamos. Sé que estás con la caza,
 pero intenta sacar tiempo.
---- BLOCK ---
+--- BLOCK [247] ---
 ¡Bien, estás aquí! ¡Tengo algo que
 pedirte!
---- BLOCK ---
+--- BLOCK [248] ---
 ¿Estás utilizando la granja? He hablado
 con el granjero jefe y quiere construir
 una Caja de insectos para criar bichos.
---- BLOCK ---
+--- BLOCK [249] ---
 Si la construye, podrás coger insectos
 directamente de la Granja para
 fabricar equipo.
---- BLOCK ---
+--- BLOCK [250] ---
 Pero harán falta Recursos y materiales.
 Por eso te necesitamos.
---- BLOCK ---
+--- BLOCK [251] ---
 Por supuesto, podrás usar la Caja de
 insectos siempre que quieras. Ya lo
 he hablado con el granjero jefe.
---- BLOCK ---
+--- BLOCK [252] ---
 He hecho una lista de todo lo que
 necesitamos. Intenta hacer un hueco en
 tu agenda de caza para conseguirlo.
---- BLOCK ---
+--- BLOCK [253] ---
 Hola, cazador. Gracias por venir.
 Tengo otra solicitud para ti.
---- BLOCK ---
+--- BLOCK [254] ---
 Me encontré con el granjero jefe y dice
 que quiere que los campos vuelvan a
 estar como antes del terremoto.
---- BLOCK ---
+--- BLOCK [255] ---
 He hecho una lista de todo lo que
 necesitamos. Intenta hacer un hueco
 para esto en tu agenda de caza.
---- BLOCK ---
+--- BLOCK [256] ---
 Mmm...
 Un trato bastante bueno...
---- BLOCK ---
+--- BLOCK [257] ---
 Perdona, cazador, estaba absorto en mis
 pensamientos. El capitán del Argosy
 trajo noticias y no dejo de pensarlo.
---- BLOCK ---
+--- BLOCK [258] ---
 Parece que ya no está de moda ser
 delgado y todos los ciudadanos están
 haciendo una dieta para ganar kilos.
---- BLOCK ---
+--- BLOCK [259] ---
 He oído que es porque muchos ricos son
 gordos y felices, mientras que
 los currantes somos musculosos.
---- BLOCK ---
+--- BLOCK [260] ---
 Así que los ciudadanos delgados están
 deseando parecer gordos y ricos. Han
 descubierto que comiendo Miel engordan.
---- BLOCK ---
+--- BLOCK [261] ---
 La llaman la "Dieta mielagrosa" y ha
 hecho de la Miel un bien cotizado.
 Pondremos una Caja de miel en la granja.
---- BLOCK ---
+--- BLOCK [262] ---
 Debemos aprovechar esta moda y hacer que
 la Miel sea el producto más exportado de
 Moga. ¡Tú también podrás usarla, claro!
---- BLOCK ---
+--- BLOCK [263] ---
 He hecho una lista de todo lo necesario.
 Sé que estás a tope, pero recuerda que
 los cazadores también usan la Miel.
---- BLOCK ---
+--- BLOCK [264] ---
 ¡Estás aquí! ¡Tengo noticias frescas y
 una nueva solicitud para ti!
---- BLOCK ---
+--- BLOCK [265] ---
 ¡Se trata de la Granja, cazador! ¡Vamos
 a mejorar la Caja de insectos para
 criar más bichos! Imagínatelo.
---- BLOCK ---
+--- BLOCK [266] ---
 ¡Te dije que eran grandes noticias! Trae
 los Recursos y materiales, y nosotros
 haremos el resto. ¡Estoy impaciente!
---- BLOCK ---
+--- BLOCK [267] ---
 He hecho una lista de todo lo que
 necesitamos. Sé que estás con la caza,
 pero es un buen negocio de bichos.
---- BLOCK ---
+--- BLOCK [268] ---
 Eh, tengo una nueva petición para ti.
 Creo que te va a gustar.
---- BLOCK ---
+--- BLOCK [269] ---
 ¿Cuál es tu mayor deseo?
 ¡No respondas! ¡Sé que quieres aumentar
 la capacidad de la Caja de setas!
---- BLOCK ---
+--- BLOCK [270] ---
 ¡Qué suerte tienes! ¡Los granjeros
 también! Las setas quedan bien en guisos
 y ensaladas, además de ser nutritivas.
---- BLOCK ---
+--- BLOCK [271] ---
 He hecho una lista de todo lo necesario.
 Sé que estás cazando, pero piensa en
 todas las setas que tendrás.
---- BLOCK ---
+--- BLOCK [272] ---
 ¡Han llegado los pedidos!
 ¡Es un boom de la Miel sin precedentes!
---- BLOCK ---
+--- BLOCK [273] ---
 Esos pobres ciudadanos se la zampan con
 pan, con Carne cruda... con lo que sea.
 ¡La dieta mielagrosa es un fenómeno!
---- BLOCK ---
+--- BLOCK [274] ---
 La gente se ha dado cuenta de que
 la Miel de Moga tiene más calorías que
 otras. Es porque la hacemos con amor.
---- BLOCK ---
+--- BLOCK [275] ---
 En su prisa por parecer gordos, están
 gastando tanto dinero en nuestra Miel
 que nunca se harán ricos.
---- BLOCK ---
+--- BLOCK [276] ---
 Irónico, ¿verdad? De todos modos, vamos
 muy atrasados en la producción de Miel.
 El granjero y yo hemos decidido...
---- BLOCK ---
+--- BLOCK [277] ---
 Que vamos a impulsar la producción de
 Miel. Y necesitamos que tú reúnas
 los materiales y Recursos, claro.
---- BLOCK ---
+--- BLOCK [278] ---
 He hecho una lista de todo lo necesario.
 ¿Crees que podrías hacernos el favor
 de conseguir estas cosas?
---- BLOCK ---
+--- BLOCK [279] ---
 ¡Ah, hola!
 Tengo que pedirte un favor.
---- BLOCK ---
+--- BLOCK [280] ---
 Hace unos días, el Cocinero ambulante
 vino buscando más pescado del bueno. 
---- BLOCK ---
+--- BLOCK [281] ---
 Claro, habiendo sido yo pescador, le
 dije que era la persona ideal para ese
 trabajo.
---- BLOCK ---
+--- BLOCK [282] ---
 El problema es que mi caña de pescar
 es un poco pobre. Solo puede atrapar
 los peces comunes.
---- BLOCK ---
+--- BLOCK [283] ---
 Así que pensé en fabricar la caña de
 pescar definitiva. Si atrapo uno grande,
 ¡te daré los trozos más sabrosos!
---- BLOCK ---
+--- BLOCK [284] ---
 He hecho una lista de todo lo que
 necesitamos. Intenta hacer un hueco en
 tu agenda de caza para conseguirlo.
---- BLOCK ---
+--- BLOCK [285] ---
 Hola, cazador. ¡Gracias por venir!
 Tengo una petición que hacerte.
---- BLOCK ---
+--- BLOCK [286] ---
 Sabes que hay un campo de la Granja
 que todavía no ha sido restaurado,
 ¿verdad?
---- BLOCK ---
+--- BLOCK [287] ---
 Queremos trabajar esa tierra para que
 la producción de la Granja alcance
 al nivel previo al terremoto.
---- BLOCK ---
+--- BLOCK [288] ---
 Si lo hacemos, también aumentará
 la cantidad de cosecha que recogeremos.
---- BLOCK ---
+--- BLOCK [289] ---
 A estas alturas ya sabrás que esto
 requerirá materiales y Recursos. Siento
 seguir pidiéndote esto a ti.
---- BLOCK ---
+--- BLOCK [290] ---
 He hecho una lista de todo lo necesario.
 Ya has hecho mucho por nosotros, pero
 intenta sacar tiempo para esto.
---- BLOCK ---
+--- BLOCK [291] ---
 ¡Eh! ¡Quiero pedirte un favor!
---- BLOCK ---
+--- BLOCK [292] ---
 El Cocinero ambulante tiene la receta
 de una leche supersaludable. Pero hacen
 falta los ingredientes correctos.
---- BLOCK ---
+--- BLOCK [293] ---
 Con la mejor leche se preparan platos
 que llenan un montón. ¡Te vendrá de
 maravilla!
---- BLOCK ---
+--- BLOCK [294] ---
 He hecho una lista de todo lo que
 necesitamos. Intenta hacer un hueco en
 tu agenda de caza para conseguirlo.
---- BLOCK ---
+--- BLOCK [295] ---
 Hola. ¡Tengo más trabajo relacionado
 con los bichos para ti!
---- BLOCK ---
+--- BLOCK [296] ---
 ¿Te gusta ganar dinero? Claro, como a
 todos. Bueno, esos insectos que criamos
 en la Granja son ahora más lucrativos.
---- BLOCK ---
+--- BLOCK [297] ---
 Los ciudadanos nostálgicos están
 empezando a comprar insectos a buen
 precio. Esa gente hace cosas muy raras.
---- BLOCK ---
+--- BLOCK [298] ---
 Bueno, el caso es que la demanda de
 insectos está por las nubes. Debemos
 mejorar la Caja de insectos pronto.
---- BLOCK ---
+--- BLOCK [299] ---
 He hecho una lista de todo lo necesario.
 Estás a tope, pero intenta pensar en
 la Caja de insectos...
---- BLOCK ---
+--- BLOCK [300] ---
 Ah, antes de que se me olvide... nuestra
 especialidad miel de la Dieta Mielagrosa
 es un éxito. ¡La aldea es famosa!
---- BLOCK ---
+--- BLOCK [301] ---
 Al parecer, una famosa flacucha engordó
 130 kilos así. Y ahora se niega a comer
 cualquier otra cosa.
---- BLOCK ---
+--- BLOCK [302] ---
 ¡Nuestra Miel vale su peso en oro!
 Ahora los ricos son cada vez más gordos
 y los pobres siguen igual de delgados.
---- BLOCK ---
+--- BLOCK [303] ---
 Quiero que todo el mundo tenga la
 oportunidad de disfrutar de nuestra Miel
 y no solo unos cuantos gordinflones.
---- BLOCK ---
+--- BLOCK [304] ---
 Si estás de acuerdo, ve a reunir estos
 Recursos y materiales.
---- BLOCK ---
+--- BLOCK [305] ---
 He hecho una lista de todo lo necesario.
 Sé que estás ocupado cazando, pero
 piensa en lo útil que será toda la Miel.
---- BLOCK ---
+--- BLOCK [306] ---
 ¡Ah, que no se me olvide! ¿Te importa
 hacerle un favor a Junio... esto, a mí?
---- BLOCK ---
+--- BLOCK [307] ---
 El Cocinero ambulante conoce un nuevo
 tipo de levadura que es más sabrosa que
 muchos menús completos.
---- BLOCK ---
+--- BLOCK [308] ---
 Imagina el pedazo de pan que podría
 preparar con ella... ¡Con pedazo me
 refiero a un pan espectacular!
---- BLOCK ---
+--- BLOCK [309] ---
 Y seguro que unos pedacitos de ese pan
 te vendrían muy bien...
---- BLOCK ---
+--- BLOCK [310] ---
 He hecho una lista con todo lo que
 necesitamos. Saca algo de tiempo para
 conseguirlos y te lo podrás comer.
---- BLOCK ---
+--- BLOCK [311] ---
 ¡Aquí, cazador! ¡Está aquí!
 ¡El acontecimiento social del año
 ha llegado!
---- BLOCK ---
+--- BLOCK [312] ---
 ¡Un Jhen Mohran ha aparecido en el
 Gran desierto! Lo llaman "símbolo de
 prosperidad". Por mí, bien.
---- BLOCK ---
+--- BLOCK [313] ---
 Pero tendremos que construir
 cazadragones bien robustos para derribar
 a esa bestia.
---- BLOCK ---
+--- BLOCK [314] ---
 Toma, una lista con lo que necesitamos.
 Saca tiempo para conseguirlo todo. Sería
 una pena perderse el espectáculo.
---- BLOCK ---
+--- BLOCK [315] ---
 Ah, cazador, quería decirte algo. ¿Te
 acuerdas del Arzuros que cazaste hace
 poco?
---- BLOCK ---
+--- BLOCK [316] ---
 Desde entonces, la gente ha avistado
 Arzuros que andan de noche por el
 Bosque de Moga.
---- BLOCK ---
+--- BLOCK [317] ---
 Yo siempre vigilo ese bosque. Asegúrate
 de comprobar el Clima de Moga antes
 de marcharte de la aldea.
---- BLOCK ---
+--- BLOCK [318] ---
 Hola, cazador. La gente ha vuelto a
 escuchar extraños lamentos provenientes
 del Bosque de Moga, y de noche...
---- BLOCK ---
+--- BLOCK [319] ---
 Seguro que son los gritos de un
 Qurupeco carmesí. Debe de tener un
 nido por ahí.
---- BLOCK ---
+--- BLOCK [320] ---
 A partir de ahora, divisarás Qurupeco
 carmesíes en el bosque, aunque no estés
 en una misión.
---- BLOCK ---
+--- BLOCK [321] ---
 Te ayudaré si quieres estar al tanto,
 así que sigue consultando el Clima
 de Moga.
---- BLOCK ---
+--- BLOCK [322] ---
 Qué a tiempo.
 Hay algo que quiero decirte, cazador.
---- BLOCK ---
+--- BLOCK [323] ---
 La gente ha empezado a ver Rathian
 rosa de noche por el Bosque de Moga. 
 Apuesto a que tienen un nido allí.
---- BLOCK ---
+--- BLOCK [324] ---
 ¡No olvides consultar siempre el
 Clima de Moga!
---- BLOCK ---
+--- BLOCK [325] ---
 Ah, justo a tiempo.
 Quiero decirte algo.
---- BLOCK ---
+--- BLOCK [326] ---
 Últimamente, la gente ha visto Barroth
 vagando por el Bosque de Moga.
---- BLOCK ---
+--- BLOCK [327] ---
 Echa un vistazo al Clima de Moga antes
 de dirigirte al bosque.
---- BLOCK ---
+--- BLOCK [328] ---
 ¡Ahí estás, cazador! Qué a tiempo.
 Tengo noticias.
---- BLOCK ---
+--- BLOCK [329] ---
 Estaba patrullando el Bosque de Moga por
 la noche cuando vi a un Ludroth
 purpúreo. Una novedad por estos lares.
---- BLOCK ---
+--- BLOCK [330] ---
 No sé si se deberá al Ceadeus, pero la
 cadena alimenticia de todo el bosque
 se ha descontrolado.
---- BLOCK ---
+--- BLOCK [331] ---
 Por eso, puede que te topes con Ludroth
 purpúreos en el bosque por la noche,
 aunque no hayas aceptado una misión.
---- BLOCK ---
+--- BLOCK [332] ---
 Consulta con regularidad el Clima de
 Moga. ¡Conocerlo te dará media caza!
---- BLOCK ---
+--- BLOCK [333] ---
 ¡Hola! Tengo noticias calentitas.
---- BLOCK ---
+--- BLOCK [334] ---
 Por las noches, hemos empezado a ver
 Wroggi magnificentes en el Bosque de
 Moga. Has cazado a uno de esos, ¿no?
---- BLOCK ---
+--- BLOCK [335] ---
 Procura consultar el Clima de Moga antes
 de partir al bosque. ¡Ir preparado da
 sus frutos!
---- BLOCK ---
+--- BLOCK [336] ---
 ¡Ah, hola!
 Hay algo que tengo que decirte.
---- BLOCK ---
+--- BLOCK [337] ---
 Han empezado a aparecer Gran Baggi por
 las noches en el Bosque de Moga. Te
 toparás con ellos a partir de ahora.
---- BLOCK ---
+--- BLOCK [338] ---
 Acostúmbrate a consultar el Clima de
 Moga antes de ir al bosque, y no te
 pasará nada.
---- BLOCK ---
+--- BLOCK [339] ---
 Eh, espera...
 Tengo noticias.
---- BLOCK ---
+--- BLOCK [340] ---
 Estaba patrullando el bosque al
 anochecer cuando me pareció ver un
 Volvidon.
---- BLOCK ---
+--- BLOCK [341] ---
 Así que no te sorprendas si te topas con
 los Volvidon en una excursión nocturna
 de las tuyas.
---- BLOCK ---
+--- BLOCK [342] ---
 No olvides recurrir a mí si quieres
 información local. Consulta el Clima
 de Moga antes de partir.
---- BLOCK ---
+--- BLOCK [343] ---
 Ah, sí.
 Tengo que informarte de algo.
---- BLOCK ---
+--- BLOCK [344] ---
 En un paseo nocturno por la playa,
 espié a un Gobul. Seguro que aparecen
 más a partir de ahora.
---- BLOCK ---
+--- BLOCK [345] ---
 Acostúmbrate a consultar el Clima de
 Moga antes de adentrarte en el bosque
 de noche.
---- BLOCK ---
+--- BLOCK [346] ---
 Ah, eres tú, cazador. Justo a tiempo.
---- BLOCK ---
+--- BLOCK [347] ---
 Mira, estaba pescando la otra noche en
 el Bosque de Moga, ¡y atrapé un
 Plesioth!
---- BLOCK ---
+--- BLOCK [348] ---
 Eso significa que tú también verás
 Plesioth de noche en el bosque.
---- BLOCK ---
+--- BLOCK [349] ---
 Te sugiero que consultes el Clima de
 Moga antes de dirigirte al bosque.
---- BLOCK ---
+--- BLOCK [350] ---
 Ah, eres tú.
 ¿Tienes un segundo?
---- BLOCK ---
+--- BLOCK [351] ---
 Estaba patrullando de noche el Bosque de
 Moga cuando me topé con un Duramboros.
---- BLOCK ---
+--- BLOCK [352] ---
 Supongo que a partir de ahora te
 encontrarás Duramboros de noche en el
 bosque.
---- BLOCK ---
+--- BLOCK [353] ---
 Consulta con regularidad el Clima de 
 Moga. ¡Ir preparado te ayudará!
---- BLOCK ---
+--- BLOCK [354] ---
 ¡Eh!
 Hay algo que debo decirte.
---- BLOCK ---
+--- BLOCK [355] ---
 Estaba haciendo mi ronda nocturna por el
 Bosque de Moga cuando vi un Diablos.
---- BLOCK ---
+--- BLOCK [356] ---
 Puede que tú también empieces a verlos
 a partir de ahora. ¡No olvides consultar
 el Clima de Moga!
---- BLOCK ---
+--- BLOCK [357] ---
 ¡Yuju!
 Tengo noticias sobre el Bosque de Moga.
---- BLOCK ---
+--- BLOCK [358] ---
 Me topé con un Uragaan en una de mis
 excursiones nocturnas. Cuidado con ellos
 si vas por el bosque al anochecer.
---- BLOCK ---
+--- BLOCK [359] ---
 ¡No te quedes sin consultar el Clima
 de Moga!
---- BLOCK ---
+--- BLOCK [360] ---
 ¡Ah, cazador!
 Hemos visto un nuevo monstruo vagando
 de noche por el Bosque de Moga.
---- BLOCK ---
+--- BLOCK [361] ---
 Estaba haciendo mi ronda nocturna cuando
 divisé a un Brachydios. Le da encanto al
 lugar.
---- BLOCK ---
+--- BLOCK [362] ---
 ¡Caza de forma segura! Consulta siempre
 el Clima de Moga cuando vayas al bosque.
---- BLOCK ---
+--- BLOCK [363] ---
 ¡Hola! 
 Te estaba esperando.
---- BLOCK ---
+--- BLOCK [364] ---
 Ya has ido tras un Zinogre otras veces,
 ¿no? Pues hemos empezado a verlos por
 las noches en el Bosque de Moga.
---- BLOCK ---
+--- BLOCK [365] ---
 No olvides echarle un vistazo al Clima
 de Moga antes de partir.
---- BLOCK ---
+--- BLOCK [366] ---
 ¡Hola, cazador!
 ¿Tienes un segundo?
---- BLOCK ---
+--- BLOCK [367] ---
 Estaba investigando en el Bosque de Moga
 cuando me topé con una Diablos negra.
---- BLOCK ---
+--- BLOCK [368] ---
 Deberías acostumbrarte a consultar el
 Clima de Moga antes de dirigirte al
 bosque de noche.
---- BLOCK ---
+--- BLOCK [369] ---
 Ah, hola.
 Tengo que contarte lo que he visto en
 el Bosque de Moga.
---- BLOCK ---
+--- BLOCK [370] ---
 Estaba patrullando de noche cuando me
 encontré con un Nargacuga.
---- BLOCK ---
+--- BLOCK [371] ---
 Es muy probable que te topes con
 Nargacuga si recorres el bosque de
 noche.
---- BLOCK ---
+--- BLOCK [372] ---
 Consulta el Clima de Moga y toma todas
 las precauciones antes de adentrarte en
 el bosque.
---- BLOCK ---
+--- BLOCK [373] ---
 ¡Hola!
 ¿Podemos hablar un momento?
---- BLOCK ---
+--- BLOCK [374] ---
 Iba de paseo por el Bosque de Moga de
 noche, cuando vi pasar una sombra sobre
 mi cabeza. ¡Era un Rathalos celeste!
---- BLOCK ---
+--- BLOCK [375] ---
 Tómatelo como una moraleja. Puede
 que también empieces a ver Rathalos
 celestes por la noche en el bosque.
---- BLOCK ---
+--- BLOCK [376] ---
 Deberías consultar siempre el Clima de
 Moga si tienes intención de ir a cazar
 allí.
---- BLOCK ---
+--- BLOCK [377] ---
 ¡Eh, cazador!
 Ha aparecido otro monstruo de noche en
 el Bosque de Moga. ¿Cuándo acabará esto?
---- BLOCK ---
+--- BLOCK [378] ---
 Estaba buscando Recursos por la noche en
 el bosque, cuando vi un Uragaan acerado. 
 Si hay uno, es que hay más por ahí.
---- BLOCK ---
+--- BLOCK [379] ---
 Ya te lo he dicho varias veces, pero
 consulta con regularidad el Clima de
 Moga. ¡Caza con responsabilidad!
---- BLOCK ---
+--- BLOCK [380] ---
 ¡Ahí estás, cazador! Justo a tiempo.
 Hay algo que tengo que decirte.
---- BLOCK ---
+--- BLOCK [381] ---
 Patrullando el Bosque de Moga la otra
 noche, vi un Lagiacrus marmóreo.
 Probablemente se haya instalado allí.
---- BLOCK ---
+--- BLOCK [382] ---
 Sé que ya has cazado uno de estos, pero
 estamos hablando de un Lagiacrus
 marmóreo. Estate alerta, ¿vale?
---- BLOCK ---
+--- BLOCK [383] ---
 Lo más seguro es que consultes el Clima
 de Moga antes de partir hacia el Bosque
 de Moga.
---- BLOCK ---
+--- BLOCK [384] ---
 ¡Eh, cazador!
 Tengo más datos de la criatura que
 vaga de noche por el Bosque de Moga.
---- BLOCK ---
+--- BLOCK [385] ---
 Pude vislumbrar a un Deviljho en una
 de mis rondas nocturnas. Anda con
 ojo, puede que también te lo encuentres.
---- BLOCK ---
+--- BLOCK [386] ---
 Ya lo sabrás, pero consulta el Clima de
 Moga antes de partir. ¡Más vale
 prevenir que acabar hecho trizas!
---- BLOCK ---
+--- BLOCK [387] ---
 HARDUMMY
---- BLOCK ---
+--- BLOCK [388] ---
 HARDUMMY
---- BLOCK ---
+--- BLOCK [389] ---
 ¡Eh, cazador! ¿Qué te cuentas?
---- BLOCK ---
+--- BLOCK [390] ---
 Buenas, cazador.
---- BLOCK ---
+--- BLOCK [391] ---
 ¿Cómo va la caza?
---- BLOCK ---
+--- BLOCK [392] ---
 ¡Uf... estoy tan ocupado como un Felyne!
---- BLOCK ---
+--- BLOCK [393] ---
 ¡Eh! ¡Parece que estás de buen humor!
---- BLOCK ---
+--- BLOCK [394] ---
 Tengo un buen día, no me lo estropees.
---- BLOCK ---
+--- BLOCK [395] ---
 ¿Sientes ya el bosque como tu hogar?
---- BLOCK ---
+--- BLOCK [396] ---
 ¡Eh! ¡Te estaba esperando, cazador!
---- BLOCK ---
+--- BLOCK [397] ---
 ¡Nos vemos!
---- BLOCK ---
+--- BLOCK [398] ---
 Recuerda: ¡nos cubres las espaldas!
---- BLOCK ---
+--- BLOCK [399] ---
 Sé que no es fácil y te lo agradezco.
---- BLOCK ---
+--- BLOCK [400] ---
 Un placer. ¡Vuelve cuando quieras!
---- BLOCK ---
+--- BLOCK [401] ---
 Hasta la próxima, cazador.
---- BLOCK ---
+--- BLOCK [402] ---
 No abarques más de lo que puedas hacer.
---- BLOCK ---
+--- BLOCK [403] ---
 No te esfuerces demasiado, cazador.
---- BLOCK ---
+--- BLOCK [404] ---
 Mantente alerta. Es un mundo cruel.
---- BLOCK ---
+--- BLOCK [405] ---
 ¡Tienes nuestro agradecimiento!
 ¡Apuntado y recibido!
---- BLOCK ---
+--- BLOCK [406] ---
 ¡Vale, tiene buena pinta!
 ¡Déjanos el resto a nosotros, cazador!
---- BLOCK ---
+--- BLOCK [407] ---
 Muy bueno. Muy bueno.
 ¡Te damos las gracias, como siempre!
---- BLOCK ---
+--- BLOCK [408] ---
 Eh, eres un verdadero profesional.
 ¡Muchas gracias!
---- BLOCK ---
+--- BLOCK [409] ---
 ¡Ah, bien hecho!
 Puede que te deje llamarme Junior...
---- BLOCK ---
+--- BLOCK [410] ---
 Bueno, ¿qué es lo que quieres?
---- BLOCK ---
+--- BLOCK [411] ---
 Dejémonos de cháchara.
 Has venido por una razón, ¿no?
---- BLOCK ---
+--- BLOCK [412] ---
 ¿Cuál era?
 Ah, sí. Vamos al grano.
---- BLOCK ---
+--- BLOCK [413] ---
 Claro. Cuando tengas alguna pregunta,
 ven a verme.
---- BLOCK ---
+--- BLOCK [414] ---
 Vamos... Cuéntame lo que te preocupa.
---- BLOCK ---
+--- BLOCK [415] ---
 Vale. Si tienes Recursos,
 los recogeré.
---- BLOCK ---
+--- BLOCK [416] ---
 Bien, veamos qué pinta tiene ese bosque.
---- BLOCK ---
+--- BLOCK [417] ---
