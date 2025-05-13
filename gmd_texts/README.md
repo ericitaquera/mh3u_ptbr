@@ -29,7 +29,7 @@ encoded text strings separated in "blocks" delimited by byte "0x00".
   <img src="./images/example1.png" alt="example1.png">
 </div>
 
-Knowing that, we spare the "header" in a file and the text in another one...
+Knowing that, we store the "header" in a file and the text in another one...
 
 <div style="background-color: #ffffff; display: inline-block; padding: 4px;">
   <img src="./images/example2.png" alt="example2.png">
