@@ -1,0 +1,728 @@
+﻿TMSG_ARM
+--- BLOCK [001] ---
+(Nada)
+--- BLOCK [002] ---
+Guantes de cuero
+--- BLOCK [003] ---
+Guantes de malla
+--- BLOCK [004] ---
+Brazales de cazador
+--- BLOCK [005] ---
+Guardabrazos cazador
+--- BLOCK [006] ---
+Brazales de hueso
+--- BLOCK [007] ---
+Guardabrazos hueso
+--- BLOCK [008] ---
+Brazales de aleación
+--- BLOCK [009] ---
+Guardabr. aleación
+--- BLOCK [010] ---
+Brazales de Jaggi
+--- BLOCK [011] ---
+Guardabrazos Jaggi
+--- BLOCK [012] ---
+Guantes de Bnahabra
+--- BLOCK [013] ---
+Mangas de Bnahabra
+--- BLOCK [014] ---
+Brazales Rhenoplos
+--- BLOCK [015] ---
+Guardabr. Rhenoplos
+--- BLOCK [016] ---
+Brazales de Qurupeco
+--- BLOCK [017] ---
+Guardabr. Qurupeco
+--- BLOCK [018] ---
+Brazales de Ludroth
+--- BLOCK [019] ---
+Guardabrazos Ludroth
+--- BLOCK [020] ---
+DUMMY
+--- BLOCK [021] ---
+Brazales de Baggi
+--- BLOCK [022] ---
+Guardabrazos Baggi
+--- BLOCK [023] ---
+Brazales de Barroth
+--- BLOCK [024] ---
+Guardabrazos Barroth
+--- BLOCK [025] ---
+Brazales de Gobul
+--- BLOCK [026] ---
+Guardabrazos Gobul
+--- BLOCK [027] ---
+DUMMY
+--- BLOCK [028] ---
+DUMMY
+--- BLOCK [029] ---
+Brazales bardo grem.
+--- BLOCK [030] ---
+Mangas bardo gremio
+--- BLOCK [031] ---
+Guantes de colegiala
+--- BLOCK [032] ---
+Mangas de colegiala
+--- BLOCK [033] ---
+Brazales de Rathian
+--- BLOCK [034] ---
+Guardabrazos Rathian
+--- BLOCK [035] ---
+Brazales de Gigginox
+--- BLOCK [036] ---
+Guardabr. Gigginox
+--- BLOCK [037] ---
+Brazales de lingote
+--- BLOCK [038] ---
+Guardabr. lingote
+--- BLOCK [039] ---
+Brazales Lagiacrus
+--- BLOCK [040] ---
+Guardabr. Lagiacrus
+--- BLOCK [041] ---
+Brazales de Rathalos
+--- BLOCK [042] ---
+Guardabr. Rathalos
+--- BLOCK [043] ---
+Brazales de Barioth
+--- BLOCK [044] ---
+Guardabrazos Barioth
+--- BLOCK [045] ---
+Brazales de Diablos
+--- BLOCK [046] ---
+Guardabrazos Diablos
+--- BLOCK [047] ---
+Brazales de Uragaan
+--- BLOCK [048] ---
+Guardabrazos Uragaan
+--- BLOCK [049] ---
+Avambrazos Agnaktor
+--- BLOCK [050] ---
+Guardabr. Agnaktor
+--- BLOCK [051] ---
+Avambrazos Helios
+--- BLOCK [052] ---
+Guardabrazos Helios
+--- BLOCK [053] ---
+Avambrazos Selene
+--- BLOCK [054] ---
+Guardabrazos Selene
+--- BLOCK [055] ---
+Avambrazos de Wroggi
+--- BLOCK [056] ---
+Guardabrazos Wroggi
+--- BLOCK [057] ---
+Avambrazos Arzuros
+--- BLOCK [058] ---
+Guardabrazos Arzuros
+--- BLOCK [059] ---
+Avambrazos Lagombi
+--- BLOCK [060] ---
+Guardabrazos Lagombi
+--- BLOCK [061] ---
+Avambrazos Volvidon
+--- BLOCK [062] ---
+Guardabraz. Volvidon
+--- BLOCK [063] ---
+Brazales Nibelsnarf
+--- BLOCK [064] ---
+Guardabr. Nibelsnarf
+--- BLOCK [065] ---
+Brazales Duramboros
+--- BLOCK [066] ---
+Guardabr. Duramboros
+--- BLOCK [067] ---
+Kote Yukumo
+--- BLOCK [068] ---
+DUMMY
+--- BLOCK [069] ---
+DUMMY
+--- BLOCK [070] ---
+DUMMY
+--- BLOCK [071] ---
+DUMMY
+--- BLOCK [072] ---
+DUMMY
+--- BLOCK [073] ---
+DUMMY
+--- BLOCK [074] ---
+DUMMY
+--- BLOCK [075] ---
+DUMMY
+--- BLOCK [076] ---
+Avambrazos cuero S
+--- BLOCK [077] ---
+Guardabrazos cuero S
+--- BLOCK [078] ---
+Brazales de malla S
+--- BLOCK [079] ---
+Guardabrazos malla S
+--- BLOCK [080] ---
+Avambrazos cazador S
+--- BLOCK [081] ---
+Guardabr. cazador S
+--- BLOCK [082] ---
+Avambrazos hueso S
+--- BLOCK [083] ---
+Guardabrazos hueso S
+--- BLOCK [084] ---
+Avambraz. aleación S
+--- BLOCK [085] ---
+Guardabr. aleación S
+--- BLOCK [086] ---
+Avambrazos Jaggi S
+--- BLOCK [087] ---
+Guardabrazos Jaggi S
+--- BLOCK [088] ---
+Guantes Bnahabra S
+--- BLOCK [089] ---
+Mangas de Bnahabra S
+--- BLOCK [090] ---
+Brazales Rhenoplos S
+--- BLOCK [091] ---
+Guardab. Rhenoplos S
+--- BLOCK [092] ---
+Avambraz. Qurupeco S
+--- BLOCK [093] ---
+Guardabr. Qurupeco S
+--- BLOCK [094] ---
+Avambraz. Qurupeco U
+--- BLOCK [095] ---
+Guardabr. Qurupeco U
+--- BLOCK [096] ---
+Avambrazos Ludroth S
+--- BLOCK [097] ---
+Guardabr. Ludroth S
+--- BLOCK [098] ---
+Avambrazos Ludroth U
+--- BLOCK [099] ---
+Guardabr. Ludroth U
+--- BLOCK [100] ---
+DUMMY
+--- BLOCK [101] ---
+Avambrazos Baggi S
+--- BLOCK [102] ---
+Guardabrazos Baggi S
+--- BLOCK [103] ---
+Avambrazos Wroggi S
+--- BLOCK [104] ---
+Guardabrazo Wroggi S
+--- BLOCK [105] ---
+Avambrazos Arzuros S
+--- BLOCK [106] ---
+Guardabr. Arzuros S
+--- BLOCK [107] ---
+Avambrazos Lagombi S
+--- BLOCK [108] ---
+Guardabr. Lagombi S
+--- BLOCK [109] ---
+Avambraz. Volvidon S
+--- BLOCK [110] ---
+Guardabr. Volvidon S
+--- BLOCK [111] ---
+Avambrazos Barroth S
+--- BLOCK [112] ---
+Guardabr. Barroth S
+--- BLOCK [113] ---
+Avambrazos Barroth U
+--- BLOCK [114] ---
+Guardabr. Barroth U
+--- BLOCK [115] ---
+Avambrazos Gobul S
+--- BLOCK [116] ---
+Guardabrazos Gobul S
+--- BLOCK [117] ---
+Braz. bardo grem. S
+--- BLOCK [118] ---
+Mangas bardo grem. S
+--- BLOCK [119] ---
+Guantes colegiala S
+--- BLOCK [120] ---
+Mangas colegiala S
+--- BLOCK [121] ---
+Avambrazos Rathian S
+--- BLOCK [122] ---
+Guardabr. Rathian S
+--- BLOCK [123] ---
+Brazal. corazón real
+--- BLOCK [124] ---
+Guardabr. cor. real
+--- BLOCK [125] ---
+Avambraz. Gigginox S
+--- BLOCK [126] ---
+Guardabr. Gigginox S
+--- BLOCK [127] ---
+Avambrazos Gigginox U
+--- BLOCK [128] ---
+Guardabr. Gigginox U
+--- BLOCK [129] ---
+Avambrazos lingote S
+--- BLOCK [130] ---
+Guardabr. lingote S
+--- BLOCK [131] ---
+Brazales de Dober
+--- BLOCK [132] ---
+Guardabrazos Dober
+--- BLOCK [133] ---
+Kote cielo Yukumo
+--- BLOCK [134] ---
+Kote tierra Yukumo
+--- BLOCK [135] ---
+Ristre de Aelucanth
+--- BLOCK [136] ---
+Manica de Aelucanth
+--- BLOCK [137] ---
+Ristre de Rhopessa
+--- BLOCK [138] ---
+Manica de Rhopessa
+--- BLOCK [139] ---
+Enredo de Mosgharl
+--- BLOCK [140] ---
+Zarcillo de Mosgharl
+--- BLOCK [141] ---
+Avambrazos artesanos
+--- BLOCK [142] ---
+Guardabr. artesanos
+--- BLOCK [143] ---
+Brazales Lagiacrus S
+--- BLOCK [144] ---
+Guardab. Lagiacrus S
+--- BLOCK [145] ---
+Brazales Lagiacrus U
+--- BLOCK [146] ---
+Guardab. Lagiacrus U
+--- BLOCK [147] ---
+Avambraz. Rathalos S
+--- BLOCK [148] ---
+Guardabr. Rathalos S
+--- BLOCK [149] ---
+Brazales alma wyvern
+--- BLOCK [150] ---
+Guardab. alma wyvern
+--- BLOCK [151] ---
+Avambrazos Barioth S
+--- BLOCK [152] ---
+Guardabr. Barioth S
+--- BLOCK [153] ---
+Avambrazos Barioth U
+--- BLOCK [154] ---
+Guardabr. Barioth U
+--- BLOCK [155] ---
+Avambrazos Diablos S
+--- BLOCK [156] ---
+Guardabr. Diablos S
+--- BLOCK [157] ---
+Avambrazos Diablos U
+--- BLOCK [158] ---
+Guardabr. Diablos U
+--- BLOCK [159] ---
+Avambrazos Uragaan S
+--- BLOCK [160] ---
+Guardabr. Uragaan S
+--- BLOCK [161] ---
+Avambrazos Uragaan U
+--- BLOCK [162] ---
+Guardabr. Uragaan U
+--- BLOCK [163] ---
+Avambrazos Agnaktor S
+--- BLOCK [164] ---
+Guardabr. Agnaktor S
+--- BLOCK [165] ---
+Avambraz. Agnaktor U
+--- BLOCK [166] ---
+Guardabr. Agnaktor U
+--- BLOCK [167] ---
+Brazales Vangis
+--- BLOCK [168] ---
+Guardabrazos Vangis
+--- BLOCK [169] ---
+Brazales de Damasco
+--- BLOCK [170] ---
+Guardabrazos Damasco
+--- BLOCK [171] ---
+DUMMY
+--- BLOCK [172] ---
+DUMMY
+--- BLOCK [173] ---
+DUMMY
+--- BLOCK [174] ---
+DUMMY
+--- BLOCK [175] ---
+Kote Yamato
+--- BLOCK [176] ---
+Kote Mutsu
+--- BLOCK [177] ---
+Kote Hyuga
+--- BLOCK [178] ---
+Kote Amagi
+--- BLOCK [179] ---
+Brazos Escadora
+--- BLOCK [180] ---
+Arma Escadora
+--- BLOCK [181] ---
+Avambrazos Zinogre
+--- BLOCK [182] ---
+Guardabrazos Zinogre
+--- BLOCK [183] ---
+Brazal. Nibelsnarf S
+--- BLOCK [184] ---
+Guard. Nibelsnarf S
+--- BLOCK [185] ---
+Brazal. Duramboros S
+--- BLOCK [186] ---
+Guardabrazos Duram S
+--- BLOCK [187] ---
+Brazales Nargacuga
+--- BLOCK [188] ---
+Guardabr. Nargacuga
+--- BLOCK [189] ---
+Avambrazos Plesioth
+--- BLOCK [190] ---
+Guardabraz. Plesioth
+--- BLOCK [191] ---
+Brazales Brachydios
+--- BLOCK [192] ---
+Guardabr. Brachydios
+--- BLOCK [193] ---
+Mangas florales
+--- BLOCK [194] ---
+Mangas campanilla
+--- BLOCK [195] ---
+Guanteletes soldado
+--- BLOCK [196] ---
+Guanteletes arquero
+--- BLOCK [197] ---
+DUMMY
+--- BLOCK [198] ---
+DUMMY
+--- BLOCK [199] ---
+DUMMY
+--- BLOCK [200] ---
+DUMMY
+--- BLOCK [201] ---
+DUMMY
+--- BLOCK [202] ---
+DUMMY
+--- BLOCK [203] ---
+DUMMY
+--- BLOCK [204] ---
+DUMMY
+--- BLOCK [205] ---
+DUMMY
+--- BLOCK [206] ---
+DUMMY
+--- BLOCK [207] ---
+Avambrazos lingote X
+--- BLOCK [208] ---
+Guardabr. lingote X
+--- BLOCK [209] ---
+Guantes Bnahabra X
+--- BLOCK [210] ---
+Mangas Bnahabra X
+--- BLOCK [211] ---
+Brazales Rhenoplos X
+--- BLOCK [212] ---
+Guardab. Rhenoplos X
+--- BLOCK [213] ---
+Avambrazos Jaggi X
+--- BLOCK [214] ---
+Guardabrazos Jaggi X
+--- BLOCK [215] ---
+Avambrazos Baggi X
+--- BLOCK [216] ---
+Guardabrazos Baggi X
+--- BLOCK [217] ---
+Avambrazos Wroggi X
+--- BLOCK [218] ---
+Guardabraz. Wroggi X
+--- BLOCK [219] ---
+Avambrazos Arzuros X
+--- BLOCK [220] ---
+Guardabr. Arzuros X
+--- BLOCK [221] ---
+Avambrazos Lagombi X
+--- BLOCK [222] ---
+Guardabr. Lagombi X
+--- BLOCK [223] ---
+Avambraz. Volvidon X
+--- BLOCK [224] ---
+Guardabr. Volvidon X
+--- BLOCK [225] ---
+Avambraz. Qurupeco X
+--- BLOCK [226] ---
+Guardabr. Qurupeco X
+--- BLOCK [227] ---
+Avambraz. Qurupeco Z
+--- BLOCK [228] ---
+Guardabr. Qurupeco Z
+--- BLOCK [229] ---
+Avambrazos Ludroth X
+--- BLOCK [230] ---
+Guardabr. Ludroth X
+--- BLOCK [231] ---
+Avambrazos Ludroth Z
+--- BLOCK [232] ---
+Guardabr. Ludroth Z
+--- BLOCK [233] ---
+Avambrazos Barroth X
+--- BLOCK [234] ---
+Guardabr. Barroth X
+--- BLOCK [235] ---
+Avambrazos Barroth Z
+--- BLOCK [236] ---
+Guardabr. Barroth Z
+--- BLOCK [237] ---
+Avambrazos Gobul X
+--- BLOCK [238] ---
+Guardabrazos Gobul X
+--- BLOCK [239] ---
+Avambraz. Rathalos X
+--- BLOCK [240] ---
+Guardabr. Rathalos X
+--- BLOCK [241] ---
+Braz. alma wyvern Z
+--- BLOCK [242] ---
+Guard. alma wyvern Z
+--- BLOCK [243] ---
+Brazales argénteos
+--- BLOCK [244] ---
+Guardabr. argénteos
+--- BLOCK [245] ---
+Avambrazos Rathian X
+--- BLOCK [246] ---
+Guardabr. Rathian X
+--- BLOCK [247] ---
+Braz. corazón wyv. Z
+--- BLOCK [248] ---
+Guar. corazón wyv. Z
+--- BLOCK [249] ---
+Brazales lunares oro
+--- BLOCK [250] ---
+Guardab. lunares oro
+--- BLOCK [251] ---
+Brazales Lagiacrus X
+--- BLOCK [252] ---
+Guardab. Lagiacrus X
+--- BLOCK [253] ---
+Brazales Lagiacrus Z
+--- BLOCK [254] ---
+Guardab. Lagiacrus Z
+--- BLOCK [255] ---
+Avambraz. tenebrosos
+--- BLOCK [256] ---
+Guardabr. tenebrosos
+--- BLOCK [257] ---
+Avambraz. Gigginox X
+--- BLOCK [258] ---
+Guardabr. Gigginox X
+--- BLOCK [259] ---
+Avambraz. Gigginox Z
+--- BLOCK [260] ---
+Guardabr. Gigginox Z
+--- BLOCK [261] ---
+Avambrazos Barioth X
+--- BLOCK [262] ---
+Guardabr. Barioth X
+--- BLOCK [263] ---
+Avambrazos Barioth Z
+--- BLOCK [264] ---
+Guardabr. Barioth Z
+--- BLOCK [265] ---
+Avambrazos Diablos X
+--- BLOCK [266] ---
+Guardabr. Diablos X
+--- BLOCK [267] ---
+Avambrazos Diablos Z
+--- BLOCK [268] ---
+Guardabr. Diablos Z
+--- BLOCK [269] ---
+Avambrazos Uragaan X
+--- BLOCK [270] ---
+Guardabr. Uragaan X
+--- BLOCK [271] ---
+Avambrazos Uragaan Z
+--- BLOCK [272] ---
+Guardabr. Uragaan Z
+--- BLOCK [273] ---
+Avambraz. Agnaktor X
+--- BLOCK [274] ---
+Guardabr. Agnaktor X
+--- BLOCK [275] ---
+Avambraz. Agnaktor Z
+--- BLOCK [276] ---
+Guardabr. Agnaktor Z
+--- BLOCK [277] ---
+Avambrazos Helios X
+--- BLOCK [278] ---
+Guardabraz. Helios X
+--- BLOCK [279] ---
+Avambrazos Helios Z
+--- BLOCK [280] ---
+Guardabraz. Helios Z
+--- BLOCK [281] ---
+Avambrazos Selene X
+--- BLOCK [282] ---
+Guardabraz. Selene X
+--- BLOCK [283] ---
+Avambrazos Selene Z
+--- BLOCK [284] ---
+Guardabraz. Selene Z
+--- BLOCK [285] ---
+Gran Kote Yamato
+--- BLOCK [286] ---
+Gran Kote Mutsu
+--- BLOCK [287] ---
+Gran Kote Hyuga
+--- BLOCK [288] ---
+Gran Kote Amagi
+--- BLOCK [289] ---
+Real Kote Yamato
+--- BLOCK [290] ---
+Real Kote Mutsu
+--- BLOCK [291] ---
+Real Kote Hyuga
+--- BLOCK [292] ---
+Real Kote Amagi
+--- BLOCK [293] ---
+Avambrazos Vangis X
+--- BLOCK [294] ---
+Guardabraz. Vangis X
+--- BLOCK [295] ---
+Brazos Escadora X
+--- BLOCK [296] ---
+Arma Escadora X
+--- BLOCK [297] ---
+Avambrazos Zinogre X
+--- BLOCK [298] ---
+Guardabr. Zinogre X
+--- BLOCK [299] ---
+Avambrazos Zinogre Z
+--- BLOCK [300] ---
+Guardabr. Zinogre Z
+--- BLOCK [301] ---
+Brazal. Nibelsnarf X
+--- BLOCK [302] ---
+Guardabraz. Nibels X
+--- BLOCK [303] ---
+Brazal. Duramboros X
+--- BLOCK [304] ---
+Guardabrazos Duram X
+--- BLOCK [305] ---
+Brazal. Duramboros Z
+--- BLOCK [306] ---
+Guardabrazos Duram Z
+--- BLOCK [307] ---
+Brazal. Nargacuga X
+--- BLOCK [308] ---
+Guardab. Nargacuga X
+--- BLOCK [309] ---
+Brazal. Nargacuga Z
+--- BLOCK [310] ---
+Guardab. Nargacuga Z
+--- BLOCK [311] ---
+Muñequera radiante
+--- BLOCK [312] ---
+Muñequeras silueta
+--- BLOCK [313] ---
+Avambraz. Plesioth X
+--- BLOCK [314] ---
+Guardabr. Plesioth X
+--- BLOCK [315] ---
+Avambraz. Plesioth Z
+--- BLOCK [316] ---
+Guardabr. Plesioth Z
+--- BLOCK [317] ---
+Brazal. Brachydios X
+--- BLOCK [318] ---
+Guard. Brachydios X
+--- BLOCK [319] ---
+Penitencia Miralis
+--- BLOCK [320] ---
+Castigo de Miralis
+--- BLOCK [321] ---
+Avambrazos Damasco X
+--- BLOCK [322] ---
+Guardabr. Damasco X
+--- BLOCK [323] ---
+Avambrazos Dober X
+--- BLOCK [324] ---
+Guardabrazos Dober X
+--- BLOCK [325] ---
+DUMMY
+--- BLOCK [326] ---
+DUMMY
+--- BLOCK [327] ---
+Ristre Aelucanth X
+--- BLOCK [328] ---
+Manica Aelucanth X
+--- BLOCK [329] ---
+Ristre de Rhopessa X
+--- BLOCK [330] ---
+Manica de Rhopessa X
+--- BLOCK [331] ---
+Enredo de Mosgharl X
+--- BLOCK [332] ---
+Zarcillo Mosgharl X
+--- BLOCK [333] ---
+Avambr. artesanos X
+--- BLOCK [334] ---
+Guardab. artesanos X
+--- BLOCK [335] ---
+Ajorca floral
+--- BLOCK [336] ---
+Ajorca campanilla
+--- BLOCK [337] ---
+Guanteletes montaraz
+--- BLOCK [338] ---
+Guanteletes tirador
+--- BLOCK [339] ---
+Braz. bardo grem. X
+--- BLOCK [340] ---
+Guantes bardo gr. X
+--- BLOCK [341] ---
+Guantes colegiala X
+--- BLOCK [342] ---
+Mangas colegiala X
+--- BLOCK [343] ---
+DUMMY
+--- BLOCK [344] ---
+DUMMY
+--- BLOCK [345] ---
+Guantes de marinero
+--- BLOCK [346] ---
+Mangas de marinero
+--- BLOCK [347] ---
+Brazalete Chakra
+--- BLOCK [348] ---
+DUMMY
+--- BLOCK [349] ---
+DUMMY
+--- BLOCK [350] ---
+DUMMY
+--- BLOCK [351] ---
+DUMMY
+--- BLOCK [352] ---
+DUMMY
+--- BLOCK [353] ---
+DUMMY
+--- BLOCK [354] ---
+DUMMY
+--- BLOCK [355] ---
+DUMMY
+--- BLOCK [356] ---
+DUMMY
+--- BLOCK [357] ---
+DUMMY
+--- BLOCK [358] ---
+DUMMY
+--- BLOCK [359] ---
+DUMMY
+--- BLOCK [360] ---
+DUMMY
+--- BLOCK [361] ---
+DUMMY
+--- BLOCK [362] ---
+DUMMY
+--- BLOCK [363] ---
+DUMMY
+--- BLOCK [364] ---

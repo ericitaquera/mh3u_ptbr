@@ -1,0 +1,44 @@
+TMSG_ACCE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Talismán portado por un 
+soldado común. Dicen que
+da suerte a su portador.
+--- BLOCK ---
+Talismán hecho por obispo 
+extranjero que rezaba por la
+victoria. Repele desastres.
+--- BLOCK ---
+Talismán como recompensa a 
+caballeros. Concede una gran
+gloria a su portador.
+--- BLOCK ---
+Talismán hecho con partes de
+las murallas que protegían
+la ciudad durante siglos.
+--- BLOCK ---
+Talismán creado para una 
+reina que gobernó durante la
+era dorada. Posee sabiduría.
+--- BLOCK ---
+Talismán de rey que rigió 
+el mundo. Su portador gana
+tanto sabiduría como poder.
+--- BLOCK ---
+Talismán irisado hecho con 
+el ojo de un dragón. Otorga
+el poder de un dragón.
+--- BLOCK ---
+Talismán de un héroe que
+venció a las tinieblas. Su
+fulgor inspira esperanza.
+--- BLOCK ---
+Talismán de alguien que
+hizo historia. Dicen que la
+piedra elige al portador.
+--- BLOCK ---
+Talismán milagroso que
+concede bendiciones del
+cielo a su portador.
+--- BLOCK ---

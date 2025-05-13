@@ -23,7 +23,7 @@ This list maps all NPCs appearing in the game with their Portuguese display name
 * Npc017: Marinheiro do Argosy
 * Npc018: Menino Shak perdido
 * Npc019: Fazendeiro jefe
-* Npc020: Invalid Message
+* Npc020: Primeiro Felyne que volta à Fazenda
 * Npc021: Invalid Message
 * Npc022: Invalid Message
 * Npc023: Cha-Cha

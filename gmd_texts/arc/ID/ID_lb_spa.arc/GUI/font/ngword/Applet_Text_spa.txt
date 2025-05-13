@@ -1,0 +1,65 @@
+GMD
+--- BLOCK ---
+
+--- BLOCK ---
+
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+�
+--- BLOCK ---
+--- BLOCK ---
+
+--- BLOCK ---
+--- BLOCK ---
+--- BLOCK ---
+Applet_Text
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+Introduce tu nombre de jugador.
+Puedes usar el lápiz táctil.
+--- BLOCK ---
+Introduce tu saludo tocando.
+Puedes usar el lápiz táctil.
+--- BLOCK ---
+Introduce tu conjunto tocando.
+Puedes usar el lápiz táctil.
+--- BLOCK ---
+Introduce tu comentario.
+Puedes usar el lápiz táctil.
+--- BLOCK ---
+Nombre no permitido.
+--- BLOCK ---
+El texto contiene
+un nombre que no
+está permitido.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

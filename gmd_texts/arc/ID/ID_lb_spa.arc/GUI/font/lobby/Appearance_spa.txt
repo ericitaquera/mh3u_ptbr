@@ -1,0 +1,20 @@
+APPEARANCE
+--- BLOCK ---
+Cambiar color ropa
+--- BLOCK ---
+Cambiar color pelo
+--- BLOCK ---
+Rasgos
+--- BLOCK ---
+Seleccionar pieza
+--- BLOCK ---
+Vist
+--- BLOCK ---
+Color
+inic.
+--- BLOCK ---
+¿Restablecer colores iniciales de
+este conjunto de equipo?
+--- BLOCK ---
+Restablecidos los colores iniciales.
+--- BLOCK ---

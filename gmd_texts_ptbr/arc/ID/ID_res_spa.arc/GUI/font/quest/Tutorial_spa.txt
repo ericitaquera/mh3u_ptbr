@@ -411,8 +411,8 @@ Aumente as categorias de sua
 Lista de monstros comprando compêndios
 de monstros no Mercado.
 --- BLOCK ---
-Então está procurando Minério de ferro, não
-é? Que bom que não preciso fazer
+Então está procurando Minério de ferro,
+não é? Que bom que não preciso fazer
 essa tarefa. Ser Chefe é legal...
 --- BLOCK ---
 A caverna da Área 4 é
@@ -420,14 +420,14 @@ um bom lugar para procurar minério.
 --- BLOCK ---
 Desculpe a intromissão, jovem, mas...
 --- BLOCK ---
-Tem um Pico, certo?
+Tem uma Picareta, certo?
 --- BLOCK ---
 Vai precisar de um se estiver pensando
 em extrair minerais. Seu crânio é duro,
 mas não o bastante para quebrar pedra.
 --- BLOCK ---
-No Mercado da vila, encontrará Picos,
-então passe por lá e pegue
+No Mercado da vila, encontrará
+Picaretas, então passe por lá e pegue
 alguns se os seus se desgastarem.
 --- BLOCK ---
 Bom trabalho, jovem. Agora
@@ -479,7 +479,7 @@ Quando chegar a um lugar
 onde possa extrair minério, verá
 o ícone de mineração.
 --- BLOCK ---
-Com um Pico, pode extrair
+Com um Picareta, pode extrair
 minério apertando o botão A.
 --- BLOCK ---
 Ei! Sou eu, Juni... quer dizer, o

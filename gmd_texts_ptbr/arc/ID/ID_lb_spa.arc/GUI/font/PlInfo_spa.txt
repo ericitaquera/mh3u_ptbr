@@ -1,4 +1,4 @@
-﻿TMSG_PLINFO
+TMSG_PLINFO
 --- BLOCK ---
 Você não pode carregar mais nada.
 --- BLOCK ---

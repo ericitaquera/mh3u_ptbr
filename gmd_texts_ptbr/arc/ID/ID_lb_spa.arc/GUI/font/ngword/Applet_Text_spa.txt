@@ -1,0 +1,50 @@
+GMD
+--- BLOCK ---
+Vila
+--- BLOCK ---
+Floresta
+--- BLOCK ---
+Fazenda
+--- BLOCK ---
+Lâmina
+--- BLOCK ---
+
+--- BLOCK ---
+Applet_Text
+--- BLOCK ---
+Mensagem Inválida
+--- BLOCK ---
+Introduza seu nome de jogador.
+Pode usar a touchpen.
+--- BLOCK ---
+Introduza sua saudação tocando.
+Pode usar a touchpen.
+--- BLOCK ---
+Introduza seu conjunto tocando. Pode
+usar a touchpen.
+--- BLOCK ---
+Introduza seu comentário. Pode
+usar a touchpen.
+--- BLOCK ---
+Nome não permitido.
+--- BLOCK ---
+O texto contém
+um nome que
+não é permitido.
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---

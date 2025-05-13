@@ -1,0 +1,14 @@
+TMSG_MOGA_000
+--- BLOCK ---
+MOGA_QUEST_MSG
+--- BLOCK ---
+Cole.
+--- BLOCK ---
+Mort.
+--- BLOCK ---
+Capt.
+--- BLOCK ---
+x
+--- BLOCK ---
+<COLO 6>Não há missões iniciadas.
+--- BLOCK ---

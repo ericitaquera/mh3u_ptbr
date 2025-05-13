@@ -1,0 +1,132 @@
+TMSG_NPC020_0
+--- BLOCK [001] ---
+TMSG_NPC020_1
+--- BLOCK [002] ---
+TMSG_NPC020_2
+--- BLOCK [003] ---
+TMSG_NPC020_3
+--- BLOCK [004] ---
+TMSG_NPC020_4
+--- BLOCK [005] ---
+<SUBS 0>
+--- BLOCK [006] ---
+¿Me darías un nuevo nombre? Me encanta
+que la gente no sepa a qué atenerse.
+--- BLOCK [007] ---
+<SUBS 3>
+--- BLOCK [008] ---
+<SUBS 2>
+--- BLOCK [009] ---
+<SUBS 0>
+¡Miau!
+¡Los Felyne también comemos verduras!
+--- BLOCK [010] ---
+<SUBS 0>
+A veces encontramos cosas raras
+cuando aramos los campos...
+--- BLOCK [011] ---
+<SUBS 0>
+¡Es tan caro importar comida que nuestra
+Granja es más importante que nunca!
+--- BLOCK [012] ---
+<SUBS 0>
+¡Hacer grandes esfuerzos con la azada
+es el ejercicio aeróbico perfecto, miau!
+--- BLOCK [013] ---
+<SUBS 0>
+¡Hay que comer verduras! ¡Aportan
+brillo al pelaje y afilan las garras!
+--- BLOCK [014] ---
+<SUBS 0>
+A los Felyne nos gusta estar limpios,
+¡pero me encanta ensuciarme trabajando!
+--- BLOCK [015] ---
+<SUBS 0>
+¡Marramiau, estoy cansado! Pero
+en el buen sentido, miau.
+--- BLOCK [016] ---
+<SUBS 0>
+¡Mira! Es como si la Granja ronroneara
+de alegría... ¡y yo también! ¡Miau!
+--- BLOCK [017] ---
+¡Verduras! ¡Verduras! ¡VERDURAS!
+--- BLOCK [018] ---
+No se vive solo de carne, ¡miau! Cuando
+se puso de moda comer sano, muchos
+Felyne se pasaron a la comida orgánica.
+--- BLOCK [019] ---
+Así que la Granja de la Aldea de Moga
+está libre de químicos y aditivos.
+¡Jamás usamos pesticidas!
+--- BLOCK [020] ---
+Por ello, puede que nuestras verduras no
+sean las más bonitas, pero, sin duda,
+son las más sabrosas. ¡Miau!
+--- BLOCK [021] ---
+Oh, el terremoto... Pasé mucho miedo,
+salí corriendo; pero ¡luego me avergoncé
+de mi actitud! Y aquí estoy, ¡miau!
+--- BLOCK [022] ---
+Para demostrarte que puedes contar
+conmigo, te daré mi tesoro más
+preciado: ¡Pez sushi frrresco!
+--- BLOCK [023] ---
+Que el cachorro del Jefe de la aldea...
+quiero decir, hijo, lo use para generar
+Recursos. ¡Progresaremos mucho!
+--- BLOCK [024] ---
+¡Paz! ¡Paz! ¡¡PAZ!!
+--- BLOCK [025] ---
+¡El Ceadeus se ha ido! Y, con él, los
+terremotos. Podemos dejar de ser gatos
+miedosos y empezar a trabajar con ganas.
+--- BLOCK [026] ---
+Recuerda, cuando necesites verdura
+orgánica sabrosa, ven a vernos. ¡Miau!
+--- BLOCK [027] ---
+¡Miau! ¡Debes de estar muy orgulloso!
+--- BLOCK [028] ---
+¿Umm? ¿Te preocupa aburrirte ahora que
+has vencido al Lagiacrus Marmóreo? Dicen
+que Deviljho ayuda a quien no madruga.
+--- BLOCK [029] ---
+Deberías probar en la granja. Nada mejor
+que mancharte las garras... ¡y quizá
+también mejores tus habilidades de caza! 
+--- BLOCK [030] ---
+Sea como sea, recuerda: cuando necesites
+sabrosas verduras orgánicas, ¡ven aquí!
+¡Miau!
+--- BLOCK [031] ---
+¡Miau, miau, cazador!
+--- BLOCK [032] ---
+¡Verduras! ¡Verduras! ¡VERDURAS!
+--- BLOCK [033] ---
+¡Granjástico!
+--- BLOCK [034] ---
+¡Miaullísimo!
+--- BLOCK [035] ---
+¡El tiempo es perrrfecto!
+--- BLOCK [036] ---
+¡Adiós! ¡Hasta... la próxima!
+--- BLOCK [037] ---
+¡Hasta luego, miau!
+--- BLOCK [038] ---
+¡Buena suerte, miau!
+--- BLOCK [039] ---
+Vale, me llamo así a partir de ahora.
+--- BLOCK [040] ---
+¡Miau! Creo que prefiero el nuevo nombre
+que me has dado.
+--- BLOCK [041] ---
+Qué... talento para poner nombres...
+--- BLOCK [042] ---
+Miau...
+Es un nombre realmente interesante.
+--- BLOCK [043] ---
+Podría ser divertido...
+¿Te apetece cambiarme de nombre?
+--- BLOCK [044] ---
+Pues...
+¿Quieres probar a darme otro nombre?
+--- BLOCK [045] ---

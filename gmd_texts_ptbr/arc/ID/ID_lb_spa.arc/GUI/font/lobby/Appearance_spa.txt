@@ -1,0 +1,19 @@
+APPEARANCE
+--- BLOCK ---
+Mudar cor da roupa
+--- BLOCK ---
+Mudar cor do cabelo
+--- BLOCK ---
+Traços
+--- BLOCK ---
+Selecionar peça
+--- BLOCK ---
+Visual
+--- BLOCK ---
+Cor inicial
+--- BLOCK ---
+Restaurar cores iniciais deste
+conjunto de equipamento?
+--- BLOCK ---
+Cores iniciais restauradas.
+--- BLOCK ---

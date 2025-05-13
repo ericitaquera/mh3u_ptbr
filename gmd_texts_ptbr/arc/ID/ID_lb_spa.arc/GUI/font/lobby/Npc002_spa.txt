@@ -959,7 +959,7 @@ você está acostumado a caçar em terra. Na
 água, você tem que se mover verticalmente.
 --- BLOCK ---
 Pelo menos você tem bons pulmões,
-jovem... é o que dizem. Não deixe que um
+jovem... é o que dizem. Não deixe que
 um pouco de água assuste você!
 --- BLOCK ---
 Agora, o momento que você estava esperando:

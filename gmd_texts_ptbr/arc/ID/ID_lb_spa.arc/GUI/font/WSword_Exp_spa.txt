@@ -3,35 +3,35 @@ TMSG_WSWORD_EXP
 (Nada equipado.)
 --- BLOCK ---
 Espadas gêmeas que lançam
-ataques vertiginosos, mas abrem
-mão de bloquear.
+ataques vertiginosos, mas
+abrem mão de bloquear.
 --- BLOCK ---
 Espada de metal de alta
-qualidade, para aprender a usar
-a Secta de Fio.
+qualidade, para aprender a
+usar a Secta de Fio.
 --- BLOCK ---
 Espada de metal de alta
-qualidade, para aprender a usar
-a Secta de Fio.
+qualidade, para aprender a
+usar a Secta de Fio.
 --- BLOCK ---
-Espadas para uso duplo. Sacrificam
-a defesa em troca
-de um bom ataque.
+Espadas para uso duplo.
+Sacrificam a defesa em
+troca de um bom ataque.
 --- BLOCK ---
-Espadas para uso duplo. Sacrificam
-a defesa em troca
-de um bom ataque.
+Espadas para uso duplo.
+Sacrificam a defesa em
+troca de um bom ataque.
 --- BLOCK ---
-Espadas para uso duplo. Sacrificam
-a defesa em troca
-de um bom ataque.
+Espadas para uso duplo.
+Sacrificam a defesa em
+troca de um bom ataque.
 --- BLOCK ---
-Espadas duplas incomuns para
-cortar carne. Cada uma
+Espadas duplas incomuns
+para cortar carne. Cada uma
 tem um peso diferente.
 --- BLOCK ---
-Espadas duplas incomuns para
-retalhar carne. Cada uma
+Espadas duplas incomuns
+para retalhar carne. Cada uma
 tem um peso diferente.
 --- BLOCK ---
 Espadas duplas incomuns para
@@ -39,12 +39,12 @@ retalhar carne. Cada uma
 tem um peso diferente.
 --- BLOCK ---
 Machados gêmeos, potentes e
-equilibrados. Aterrorizantes nas mãos
-de um especialista.
+equilibrados. Aterrorizantes
+nas mãos de um especialista.
 --- BLOCK ---
 Machados gêmeos, potentes e
-equilibrados. Aterrorizantes nas mãos
-de um especialista.
+equilibrados. Aterrorizantes
+nas mãos de um especialista.
 --- BLOCK ---
 Lâminas banhadas em baba
 explosiva. Primeiro cortam
@@ -115,48 +115,48 @@ equilibradas. Aproveitam a
 força ao máximo.
 --- BLOCK ---
 Lâminas duplas forjadas com
-metais estranhos. Não costumam
-estar à venda.
+metais estranhos. Não
+costumam estar à venda.
 --- BLOCK ---
 Lâminas duplas forjadas com
-metais estranhos. Não costumam
-estar à venda.
+metais estranhos. Não
+costumam estar à venda.
 --- BLOCK ---
 Lâminas duplas forjadas com
-metais estranhos. Não costumam
-estar à venda.
+metais estranhos. Não
+costumam estar à venda.
 --- BLOCK ---
 Lâminas duplas temperadas quase
-até o impossível. Seu
+até o impossível. Seu fio
+é surpreendente.
+--- BLOCK ---
+Lâminas duplas temperadas
+quase até o impossível. Seu
 fio é surpreendente.
 --- BLOCK ---
-Lâminas duplas temperadas quase
-até o impossível. Seu
-fio é surpreendente.
+Lâminas pequenas feitas com
+pele de Gobul. Seus espinhos
+exsudam líquido paralisante.
 --- BLOCK ---
 Lâminas pequenas feitas com
-pele de Gobul. Seus
-espinhos exsudam líquido paralisante.
+pele de Gobul. Seus espinhos
+exsudam líquido paralisante.
 --- BLOCK ---
 Lâminas pequenas feitas com
-pele de Gobul. Seus
-espinhos exsudam líquido paralisante.
---- BLOCK ---
-Lâminas pequenas feitas com
-pele de Gobul. Seus
-espinhos exsudam líquido paralisante.
+pele de Gobul. Seus espinhos
+exsudam líquido paralisante.
 --- BLOCK ---
 Lâminas duplas tão adoráveis que
-parecem mais arte do
-que armamento. Extremamente eficazes.
+parecem mais arte do que
+armamento. Extremamente eficazes.
 --- BLOCK ---
 Lâminas duplas tão adoráveis que
-parecem mais arte do
-que armamento. Extremamente eficazes.
+parecem mais arte do que
+armamento. Extremamente eficazes.
 --- BLOCK ---
 Lâminas duplas tão adoráveis que
-parecem mais arte do
-que armamento. Extremamente eficazes.
+parecem mais arte do que
+armamento. Extremamente eficazes.
 --- BLOCK ---
 Lâminas duplas belas como
 uma borboleta, mas capazes
@@ -179,36 +179,36 @@ Armas nascidas da casca
 Seu toque é abrasador.
 --- BLOCK ---
 Lâminas com o poder
-da Tundra e do
-Vulcão. Uma combinação antinatural.
+da Tundra e do Vulcão.
+Uma combinação antinatural.
 --- BLOCK ---
 Lâminas com o poder
-da Tundra e do
-Vulcão. Uma combinação antinatural.
+da Tundra e do Vulcão.
+Uma combinação antinatural.
 --- BLOCK ---
-Espadas duplas atraentes. Emanam
-raios que as tornam
+Espadas duplas atraentes.
+Emanam raios que as tornam
 ainda mais brilhantes.
 --- BLOCK ---
-Espadas duplas atraentes. Emanam
-raios que as tornam
+Espadas duplas atraentes.
+Emanam raios que as tornam
 ainda mais brilhantes.
 --- BLOCK ---
-Espadas duplas atraentes. Emitindo
-raios que as tornam
+Espadas duplas atraentes.
+Emitindo raios que as tornam
 ainda mais brilhantes.
 --- BLOCK ---
-Armas feitas de Lagiacrus marmóreo.
-Ceifam vida e alma
+Armas feitas de Lagiacrus
+marmóreo. Ceifam vida e alma
 com um único golpe.
 --- BLOCK ---
-Armas feitas de Lagiacrus marmóreo.
-Ceifam vida e alma
+Armas feitas de Lagiacrus
+ marmóreo.Ceifam vida e alma
 com um único golpe.
 --- BLOCK ---
 Lâminas duplas puramente
-ofensivas. Estão inacabadas
-e sem fio.
+ofensivas. Estão
+inacabadas e sem fio.
 --- BLOCK ---
 Lâminas duplas puramente
 ofensivas. Estão inacabadas
@@ -294,13 +294,13 @@ Lâminas duplas que aumentam
 a Defesa. Possuem poderes
 aquáticos e grande fio.
 --- BLOCK ---
-Lâminas duplas feitas com barbatanas
-de Plesioth. Sua rede
-é durável e afiada.
+Lâminas duplas feitas com
+barbatanasde Plesioth. Sua
+rede é durável e afiada.
 --- BLOCK ---
-Lâminas duplas feitas com barbatanas
-de Plesioth. Sua rede
-é durável e afiada.
+Lâminas duplas feitas com
+barbatanasde Plesioth. Sua
+rede é durável e afiada.
 --- BLOCK ---
 Lâminas duplas de rede de
 jade, como o vestido

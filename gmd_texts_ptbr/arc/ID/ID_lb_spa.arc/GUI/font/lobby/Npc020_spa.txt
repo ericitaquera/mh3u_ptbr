@@ -1,0 +1,132 @@
+TMSG_NPC020_0
+--- BLOCK ---
+TMSG_NPC020_1
+--- BLOCK ---
+TMSG_NPC020_2
+--- BLOCK ---
+TMSG_NPC020_3
+--- BLOCK ---
+TMSG_NPC020_4
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+Me daria um novo nome? Adoro quando
+as pessoas não sabem o que esperar.
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 0>Miau! Nós
+Felyne também
+comemos vegetais!
+--- BLOCK ---
+<SUBS 0>Às vezes encontramos
+coisas estranhas quando
+aramos os campos...
+--- BLOCK ---
+<SUBS 0>É tão caro importar
+comida que nossa Fazenda é
+mais importante do que nunca!
+--- BLOCK ---
+<SUBS 0>Fazer grandes esforços com
+a enxada é o
+exercício aeróbico perfeito, miau!
+--- BLOCK ---
+<SUBS 0>É preciso comer vegetais!
+Eles trazem brilho à pelagem
+e afiam as garras!
+--- BLOCK ---
+<SUBS 0>Nós Felyne gostamos de
+estar limpos, mas eu
+adoro me sujar trabalhando!
+--- BLOCK ---
+<SUBS 0>Marramiau, estou
+cansado! Mas no
+bom sentido, miau.
+--- BLOCK ---
+<SUBS 0>Olha! É como se
+a Fazenda estivesse ronronando de
+alegria... e eu também! Miau!
+--- BLOCK ---
+Vegetais! Vegetais! VEGETAIS!
+--- BLOCK ---
+Não se vive só de carne, miau!
+Quando se tornou moda comer saudável,
+muitos Felyne mudaram para comida orgânica.
+--- BLOCK ---
+Por isso, a Fazenda da Vila de Moga é
+livre de produtos químicos e aditivos.
+Nunca usamos pesticidas!
+--- BLOCK ---
+Por isso, nossos vegetais podem não
+ser os mais bonitos, mas com
+certeza são os mais saborosos. Miau!
+--- BLOCK ---
+Oh, o terremoto... Fiquei muito assustado,
+saí correndo; mas depois me envergonhei do
+meu comportamento! E aqui estou, miau!
+--- BLOCK ---
+Para mostrar que pode contar comigo,
+vou te dar meu tesouro mais
+precioso: Sushi fresquinho de peixe!
+--- BLOCK ---
+Que o filhote do Chefe da
+vila... quer dizer, filho, use para
+gerar Recursos. Vamos progredir muito!
+--- BLOCK ---
+Paz! Paz! PAZ!
+--- BLOCK ---
+O Ceadeus se foi! E com ele,
+os terremotos. Podemos parar de ser gatos
+medrosos e começar a trabalhar com vontade.
+--- BLOCK ---
+Lembre-se, quando precisar de vegetais
+orgânicos saborosos, venha nos visitar. Miau!
+--- BLOCK ---
+Miau! Deve estar muito orgulhoso!
+--- BLOCK ---
+Hmm? Preocupa-se em ficar entediado agora que
+derrotou o Lagiacrus de Mármore? Dizem que
+o Deviljho ajuda quem não madruga.
+--- BLOCK ---
+Deveria tentar na fazenda. Nada melhor do
+que sujar as garras... e talvez
+até melhorar suas habilidades de caça!
+--- BLOCK ---
+De qualquer forma, lembre-se: quando
+precisar de saborosos vegetais
+orgânicos, venha aqui! Miau!
+--- BLOCK ---
+Miau, miau, caçador!
+--- BLOCK ---
+Vegetais! Vegetais! VEGETAIS!
+--- BLOCK ---
+Fazendástico!
+--- BLOCK ---
+Miauloso!
+--- BLOCK ---
+O tempo está purrfeito!
+--- BLOCK ---
+Adeus! Até... a próxima!
+--- BLOCK ---
+Até logo, miau!
+--- BLOCK ---
+Boa sorte, miau!
+--- BLOCK ---
+Ok, esse é meu nome a partir de agora.
+--- BLOCK ---
+Miau! Acho que prefiro o
+novo nome que me deu.
+--- BLOCK ---
+Que... talento para dar nomes...
+--- BLOCK ---
+Miau... É um
+nome realmente interessante.
+--- BLOCK ---
+Poderia ser divertido... Quer tentar
+me dar outro nome?
+--- BLOCK ---
+Então... Quer tentar me
+dar outro nome?
+--- BLOCK ---

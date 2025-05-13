@@ -1,4 +1,4 @@
-﻿HELP
+HELP
 --- BLOCK ---
 EDIT
 --- BLOCK ---
@@ -56,11 +56,11 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Mochila de itens
+Bolsa de itens
 --- BLOCK ---
 Gestos
 --- BLOCK ---
-Lista de Combos
+Lista  Combo
 --- BLOCK ---
 Patada
 --- BLOCK ---
@@ -117,50 +117,50 @@ Acesso rápido
 Posicione os painéis conforme desejar.
 Mova os painéis tocando neles.
 --- BLOCK ---
-Controles da câmera Mova-a
-com um direcional virtual.
+Controles da câmera
+Mova-a com um direcional virtual.
 --- BLOCK ---
-Controles da câmera (grande) Mova-a
-com um direcional virtual.
+Controles da câmera (grande)
+Mova-a com um direcional virtual.
 --- BLOCK ---
-Estado do jogador Mostra seu estado
-na tela sensível ao toque.
+Estado do jogador
+Mostra seu estado na tela sensível ao toque.
 --- BLOCK ---
-Estado do jogador (grande) Mostra seu
-estado na tela sensível ao toque.
+Estado do jogador (grande)
+Mostra seu estado na tela sensível ao toque.
 --- BLOCK ---
-Estado dos companheiros Estado dos companheiros
-na tela sensível ao toque.
+Estado dos companheiros
+Estado dos companheiros na tela sensível ao toque.
 --- BLOCK ---
-Mapa Mostra o mapa na
-tela sensível ao toque.
+Mapa
+Mostra o mapa na tela sensível ao toque.
 --- BLOCK ---
-Barra de itens Percorra a lista
-na tela sensível ao toque.
+Barra de itens
+Percorra a lista na tela sensível ao toque.
 --- BLOCK ---
-Barra de itens (grande) Percorra a
-lista na tela sensível ao toque.
+Barra de itens (grande)
+Percorra a lista na tela sensível ao toque.
 --- BLOCK ---
-Munição/Revestimentos Percorra a lista na
-tela sensível ao toque.
+Munição/Revestimentos
+Percorra a lista na tela sensível ao toque.
 --- BLOCK ---
-Mochila de itens Use os itens
-com a tela sensível ao toque.
+Bolsa de itens
+Use os itens com a tela sensível ao toque.
 --- BLOCK ---
-Lista de combinações Acesse a lista
-na tela sensível ao toque.
+Lista de combinações
+Acesse a lista na tela sensível ao toque.
 --- BLOCK ---
-Gestos Realize gestos com a
-tela sensível ao toque.
+Gestos
+Realize gestos com a tela sensível ao toque.
 --- BLOCK ---
-Câmera de foco Rastreie monstros
-grandes com o botão L.
+Câmera de foco
+Rastreie monstros grandes com o botão L.
 --- BLOCK ---
-Ataques especiais Patadas/ataques especiais com
-tela sensível ao toque.
+Ataques especiais
+Patadas/ataques especiais com tela sensível ao toque.
 --- BLOCK ---
-Sinais Dê sinais com a
-tela sensível ao toque.
+Sinais
+Dê sinais com a tela sensível ao toque.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -439,31 +439,31 @@ Para usar a Busca de
 caçador, a comunicação sem
 fio deve estar ativada.
 --- BLOCK ---
-Ao ativar a Busca de caçador, o
-jogo busca automaticamente jogadores próximos que também
-estejam usando a Busca de caçador
-ou jogando em um porto multiplayer.
+Ao ativar a Busca de caçador, o jogo
+busca automaticamente jogadores próximos
+que também estejam usando a Busca de
+caçador ou jogando em um porto multiplayer.
 --- BLOCK ---
 Quando a função de busca automática
 encontra um jogador, a área de
 Busca de caçador exibe seu nome.
 --- BLOCK ---
-Jogadores com o ícone de um
-gongo vibrante na Busca de caçador
-estão esperando caçadores para uma aventura.
+Jogadores com o ícone de um gongo
+vibrante na Busca de caçador estão
+esperando caçadores para uma aventura.
 Não os deixe na mão!
 --- BLOCK ---
 Ao abrir a tela de
 Busca de caçador, uma lista
 dos jogadores encontrados será exibida.
 --- BLOCK ---
-Para ver os dados de um jogador,
-toque em seu painel. As informações mostradas
+Para ver os dados de um jogador, toque
+em seu painel. As informações mostradas
 serão diferentes se essa pessoa estiver
 jogando sozinha ou com outras pessoas.
 --- BLOCK ---
 A busca automática é interrompida ao abrir
-a Busca de caçador. Para buscar
-jogadores manualmente, toque no botão Buscar
+a Busca de caçador. Para buscar jogadores
+manualmente, toque no botão Buscar
 mais ou pressione o botão Y.
 --- BLOCK ---

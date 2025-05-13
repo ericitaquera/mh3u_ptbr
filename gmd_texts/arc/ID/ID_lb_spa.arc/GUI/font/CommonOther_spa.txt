@@ -1,0 +1,1032 @@
+TMSG_OTHER_BASICMENU_00
+--- BLOCK ---
+TMSG_OTHER_BASICMENU_01
+--- BLOCK ---
+TMSG_OTHER_STATUS_00
+--- BLOCK ---
+TMSG_OTHER_STATUS_01
+--- BLOCK ---
+TMSG_OTHER_STATUS_02
+--- BLOCK ---
+TMSG_OTHER_STATUS_03
+--- BLOCK ---
+TMSG_OTHER_STATUS_04
+--- BLOCK ---
+TMSG_OTHER_STATUS_05
+--- BLOCK ---
+TMSG_OTHER_STATUS_06
+--- BLOCK ---
+TMSG_OTHER_STATUS_07
+--- BLOCK ---
+TMSG_OTHER_STATUS_08
+--- BLOCK ---
+TMSG_OTHER_STATUS_09
+--- BLOCK ---
+TMSG_OTHER_STATUS_10
+--- BLOCK ---
+TMSG_OTHER_STATUS_11
+--- BLOCK ---
+TMSG_OTHER_STATUS_12
+--- BLOCK ---
+TMSG_OTHER_STATUS_13
+--- BLOCK ---
+TMSG_OTHER_STATUS_14
+--- BLOCK ---
+TMSG_OTHER_STATUS_15
+--- BLOCK ---
+TMSG_OTHER_STATUS_16
+--- BLOCK ---
+TMSG_OTHER_STATUS_17
+--- BLOCK ---
+TMSG_OTHER_STATUS_18
+--- BLOCK ---
+TMSG_OTHER_STATUS_19
+--- BLOCK ---
+TMSG_OTHER_STATUS_20
+--- BLOCK ---
+TMSG_OTHER_STATUS_21
+--- BLOCK ---
+TMSG_OTHER_STATUS_22
+--- BLOCK ---
+TMSG_OTHER_STATUS_23
+--- BLOCK ---
+TMSG_OTHER_STATUS_24
+--- BLOCK ---
+TMSG_OTHER_STATUS_25
+--- BLOCK ---
+TMSG_OTHER_STATUS_26
+--- BLOCK ---
+TMSG_OTHER_STATUS_27
+--- BLOCK ---
+TMSG_OTHER_STATUS_28
+--- BLOCK ---
+TMSG_OTHER_STATUS_29
+--- BLOCK ---
+TMSG_OTHER_STATUS_30
+--- BLOCK ---
+TMSG_OTHER_STATUS_31
+--- BLOCK ---
+TMSG_OTHER_STATUS_32
+--- BLOCK ---
+TMSG_OTHER_STATUS_33
+--- BLOCK ---
+TMSG_OTHER_STATUS_34
+--- BLOCK ---
+TMSG_OTHER_STATUS_35
+--- BLOCK ---
+TMSG_OTHER_STATUS_36
+--- BLOCK ---
+TMSG_OTHER_STATUS_37
+--- BLOCK ---
+TMSG_OTHER_STATUS_38
+--- BLOCK ---
+TMSG_OTHER_STATUS_39
+--- BLOCK ---
+TMSG_OTHER_STATUS_40
+--- BLOCK ---
+TMSG_OTHER_STATUS_41
+--- BLOCK ---
+TMSG_OTHER_STATUS_42
+--- BLOCK ---
+TMSG_OTHER_STATUS_43
+--- BLOCK ---
+TMSG_OTHER_STATUS_44
+--- BLOCK ---
+TMSG_OTHER_STATUS_45
+--- BLOCK ---
+TMSG_OTHER_STATUS_46
+--- BLOCK ---
+TMSG_OTHER_STATUS_47
+--- BLOCK ---
+TMSG_OTHER_STATUS_48
+--- BLOCK ---
+TMSG_OTHER_STATUS_49
+--- BLOCK ---
+TMSG_OTHER_STATUS_50
+--- BLOCK ---
+TMSG_OTHER_QUESTCHECK_00
+--- BLOCK ---
+TMSG_OTHER_HNOTE_00
+--- BLOCK ---
+TMSG_OTHER_HNOTE_01
+--- BLOCK ---
+TMSG_OTHER_HNOTE_02
+--- BLOCK ---
+TMSG_OTHER_HNOTE_03
+--- BLOCK ---
+TMSG_OTHER_ITEMPAUCH_00
+--- BLOCK ---
+TMSG_OTHER_MIX_00
+--- BLOCK ---
+TMSG_OTHER_MIX_01
+--- BLOCK ---
+TMSG_OTHER_MIX_02
+--- BLOCK ---
+TMSG_OTHER_MIX_03
+--- BLOCK ---
+TMSG_OTHER_MIX_04
+--- BLOCK ---
+TMSG_OTHER_MIX_05
+--- BLOCK ---
+TMSG_OTHER_MIX_06
+--- BLOCK ---
+TMSG_OTHER_MIX_07
+--- BLOCK ---
+TMSG_OTHER_MIX_08
+--- BLOCK ---
+TMSG_OTHER_MIXLIST_00
+--- BLOCK ---
+TMSG_OTHER_MIXLIST_01
+--- BLOCK ---
+TMSG_OTHER_MIXLIST_02
+--- BLOCK ---
+TMSG_OTHER_MIXLIST_03
+--- BLOCK ---
+TMSG_OTHER_MIXLIST_04
+--- BLOCK ---
+TMSG_OTHER_MONEY_00
+--- BLOCK ---
+TMSG_OTHER_MONEY_01
+--- BLOCK ---
+TMSG_OTHER_MONEY_02
+--- BLOCK ---
+TMSG_OTHER_MONEY_03
+--- BLOCK ---
+TMSG_OTHER_MONEY_04
+--- BLOCK ---
+TMSG_OTHER_MONEY_05
+--- BLOCK ---
+TMSG_OTHER_MONEY_06
+--- BLOCK ---
+TMSG_OTHER_MONEY_07
+--- BLOCK ---
+TMSG_OTHER_MONEY_08
+--- BLOCK ---
+TMSG_OTHER_MONEY_09
+--- BLOCK ---
+TMSG_OTHER_MONEY_10
+--- BLOCK ---
+TMSG_OTHER_MONEY_11
+--- BLOCK ---
+TMSG_OTHER_MONEY_12
+--- BLOCK ---
+TMSG_OTHER_MONEY_13
+--- BLOCK ---
+TMSG_OTHER_MONEY_14
+--- BLOCK ---
+TMSG_OTHER_MONEY_15
+--- BLOCK ---
+TMSG_OTHER_MONEY_16
+--- BLOCK ---
+TMSG_OTHER_ITEM_00
+--- BLOCK ---
+TMSG_OTHER_ITEM_01
+--- BLOCK ---
+TMSG_OTHER_ITEM_02
+--- BLOCK ---
+TMSG_OTHER_ITEM_03
+--- BLOCK ---
+TMSG_OTHER_ITEM_04
+--- BLOCK ---
+TMSG_OTHER_ITEM_05
+--- BLOCK ---
+TMSG_OTHER_ITEM_06
+--- BLOCK ---
+TMSG_OTHER_ITEM_07
+--- BLOCK ---
+TMSG_OTHER_ITEM_08
+--- BLOCK ---
+TMSG_OTHER_ITEM_09
+--- BLOCK ---
+TMSG_OTHER_ITEM_10
+--- BLOCK ---
+TMSG_OTHER_ITEM_11
+--- BLOCK ---
+TMSG_OTHER_ITEM_12
+--- BLOCK ---
+TMSG_OTHER_ITEM_13
+--- BLOCK ---
+TMSG_OTHER_ITEM_14
+--- BLOCK ---
+TMSG_OTHER_ITEM_15
+--- BLOCK ---
+TMSG_OTHER_ITEM_16
+--- BLOCK ---
+TMSG_OTHER_ITEM_17
+--- BLOCK ---
+TMSG_OTHER_ITEM_18
+--- BLOCK ---
+TMSG_OTHER_ITEM_19
+--- BLOCK ---
+TMSG_OTHER_ITEM_20
+--- BLOCK ---
+TMSG_OTHER_ITEM_21
+--- BLOCK ---
+TMSG_OTHER_ITEM_22
+--- BLOCK ---
+TMSG_OTHER_ITEM_23
+--- BLOCK ---
+TMSG_OTHER_ITEM_24
+--- BLOCK ---
+TMSG_OTHER_ITEM_25
+--- BLOCK ---
+TMSG_OTHER_ITEM_26
+--- BLOCK ---
+TMSG_OTHER_ITEM_27
+--- BLOCK ---
+TMSG_OTHER_ITEM_28
+--- BLOCK ---
+TMSG_OTHER_ITEM_29
+--- BLOCK ---
+TMSG_OTHER_ITEM_30
+--- BLOCK ---
+TMSG_OTHER_ITEM_31
+--- BLOCK ---
+TMSG_OTHER_ITEM_32
+--- BLOCK ---
+TMSG_OTHER_EQUIP_00
+--- BLOCK ---
+TMSG_OTHER_EQUIP_01
+--- BLOCK ---
+TMSG_OTHER_EQUIP_02
+--- BLOCK ---
+TMSG_OTHER_EQUIP_03
+--- BLOCK ---
+TMSG_OTHER_EQUIP_04
+--- BLOCK ---
+TMSG_OTHER_EQUIP_05
+--- BLOCK ---
+TMSG_OTHER_EQUIP_06
+--- BLOCK ---
+TMSG_OTHER_EQUIP_07
+--- BLOCK ---
+TMSG_OTHER_EQUIP_08
+--- BLOCK ---
+TMSG_OTHER_EQUIP_09
+--- BLOCK ---
+TMSG_OTHER_EQUIP_10
+--- BLOCK ---
+TMSG_OTHER_EQUIP_11
+--- BLOCK ---
+TMSG_OTHER_EQUIP_12
+--- BLOCK ---
+TMSG_OTHER_EQUIP_13
+--- BLOCK ---
+TMSG_OTHER_EQUIP_14
+--- BLOCK ---
+TMSG_OTHER_EQUIP_15
+--- BLOCK ---
+TMSG_OTHER_EQUIP_16
+--- BLOCK ---
+TMSG_OTHER_EQUIP_17
+--- BLOCK ---
+TMSG_OTHER_EQUIP_18
+--- BLOCK ---
+TMSG_OTHER_EQUIP_19
+--- BLOCK ---
+TMSG_OTHER_EQUIP_20
+--- BLOCK ---
+TMSG_OTHER_EQUIP_21
+--- BLOCK ---
+TMSG_OTHER_EQUIP_22
+--- BLOCK ---
+TMSG_OTHER_EQUIP_23
+--- BLOCK ---
+TMSG_OTHER_EQUIP_24
+--- BLOCK ---
+TMSG_OTHER_EQUIP_25
+--- BLOCK ---
+TMSG_OTHER_EQUIP_26
+--- BLOCK ---
+TMSG_OTHER_EQUIP_27
+--- BLOCK ---
+TMSG_OTHER_EQUIP_28
+--- BLOCK ---
+TMSG_OTHER_EQUIP_29
+--- BLOCK ---
+TMSG_OTHER_EQUIP_30
+--- BLOCK ---
+TMSG_OTHER_EQUIP_31
+--- BLOCK ---
+TMSG_OTHER_EQUIP_32
+--- BLOCK ---
+TMSG_OTHER_EQUIP_33
+--- BLOCK ---
+TMSG_OTHER_EQUIP_34
+--- BLOCK ---
+TMSG_OTHER_EQUIP_35
+--- BLOCK ---
+TMSG_OTHER_EQUIP_36
+--- BLOCK ---
+TMSG_OTHER_EQUIP_37
+--- BLOCK ---
+TMSG_OTHER_EQUIP_38
+--- BLOCK ---
+TMSG_OTHER_EQUIP_39
+--- BLOCK ---
+TMSG_OTHER_EQUIP_40
+--- BLOCK ---
+TMSG_OTHER_EQUIP_41
+--- BLOCK ---
+TMSG_OTHER_EQUIP_42
+--- BLOCK ---
+TMSG_OTHER_EQUIP_43
+--- BLOCK ---
+TMSG_OTHER_EQUIP_44
+--- BLOCK ---
+TMSG_OTHER_EQUIP_45
+--- BLOCK ---
+TMSG_OTHER_EQUIP_46
+--- BLOCK ---
+TMSG_OTHER_EQUIP_47
+--- BLOCK ---
+TMSG_OTHER_EQUIP_48
+--- BLOCK ---
+TMSG_OTHER_EQUIP_49
+--- BLOCK ---
+TMSG_OTHER_EQUIP_50
+--- BLOCK ---
+TMSG_OTHER_EQUIP_51
+--- BLOCK ---
+TMSG_OTHER_EQUIP_52
+--- BLOCK ---
+TMSG_OTHER_EQUIP_53
+--- BLOCK ---
+TMSG_OTHER_EQUIP_54
+--- BLOCK ---
+TMSG_OTHER_EQUIP_55
+--- BLOCK ---
+TMSG_OTHER_EQUIP_56
+--- BLOCK ---
+TMSG_OTHER_EQUIP_57
+--- BLOCK ---
+TMSG_OTHER_EQUIP_58
+--- BLOCK ---
+TMSG_OTHER_EQUIP_59
+--- BLOCK ---
+TMSG_OTHER_EQUIP_60
+--- BLOCK ---
+TMSG_OTHER_EQUIP_61
+--- BLOCK ---
+TMSG_OTHER_EQUIP_62
+--- BLOCK ---
+TMSG_OTHER_EQUIP_63
+--- BLOCK ---
+TMSG_OTHER_EQUIP_64
+--- BLOCK ---
+TMSG_OTHER_EQUIP_65
+--- BLOCK ---
+TMSG_OTHER_EQUIP_66
+--- BLOCK ---
+TMSG_OTHER_EQUIP_67
+--- BLOCK ---
+TMSG_OTHER_EQUIP_68
+--- BLOCK ---
+TMSG_OTHER_EQUIP_69
+--- BLOCK ---
+TMSG_OTHER_EQUIP_70
+--- BLOCK ---
+TMSG_OTHER_EQUIP_71
+--- BLOCK ---
+TMSG_OTHER_EQUIP_72
+--- BLOCK ---
+TMSG_OTHER_EQUIP_73
+--- BLOCK ---
+TMSG_OTHER_EQUIP_74
+--- BLOCK ---
+TMSG_OTHER_EQUIP_75
+--- BLOCK ---
+TMSG_OTHER_EQUIP_76
+--- BLOCK ---
+TMSG_OTHER_EQUIP_77
+--- BLOCK ---
+TMSG_OTHER_EQUIP_78
+--- BLOCK ---
+TMSG_OTHER_EQUIP_79
+--- BLOCK ---
+TMSG_OTHER_EQUIP_80
+--- BLOCK ---
+TMSG_OTHER_EQUIP_81
+--- BLOCK ---
+TMSG_OTHER_EQUIP_82
+--- BLOCK ---
+TMSG_OTHER_EQUIP_83
+--- BLOCK ---
+TMSG_OTHER_EQUIP_84
+--- BLOCK ---
+TMSG_OTHER_EQUIP_85
+--- BLOCK ---
+TMSG_OTHER_EQUIP_86
+--- BLOCK ---
+TMSG_OTHER_EQUIP_87
+--- BLOCK ---
+TMSG_OTHER_EQUIP_88
+--- BLOCK ---
+TMSG_OTHER_EQUIP_89
+--- BLOCK ---
+TMSG_OTHER_EQUIP_90
+--- BLOCK ---
+TMSG_OTHER_EQUIP_91
+--- BLOCK ---
+TMSG_OTHER_EQUIP_92
+--- BLOCK ---
+TMSG_OTHER_EQUIP_93
+--- BLOCK ---
+TMSG_OTHER_EQUIP_94
+--- BLOCK ---
+TMSG_OTHER_EQUIP_95
+--- BLOCK ---
+TMSG_OTHER_EQUIP_96
+--- BLOCK ---
+TMSG_OTHER_EQUIP_97
+--- BLOCK ---
+TMSG_OTHER_EQUIP_98
+--- BLOCK ---
+TMSG_OTHER_EQUIP_99
+--- BLOCK ---
+TMSG_OTHER_EQUIP_100
+--- BLOCK ---
+TMSG_OTHER_EQUIP_101
+--- BLOCK ---
+TMSG_OTHER_EQUIP_102
+--- BLOCK ---
+TMSG_OTHER_EQUIP_103
+--- BLOCK ---
+TMSG_OTHER_EQUIP_104
+--- BLOCK ---
+TMSG_OTHER_EQUIP_105
+--- BLOCK ---
+TMSG_OTHER_EQUIP_106
+--- BLOCK ---
+TMSG_OTHER_EQUIP_107
+--- BLOCK ---
+TMSG_OTHER_EQUIP_108
+--- BLOCK ---
+TMSG_OTHER_EQUIP_109
+--- BLOCK ---
+TMSG_OTHER_EQUIP_110
+--- BLOCK ---
+TMSG_OTHER_EQUIP_111
+--- BLOCK ---
+TMSG_OTHER_EQUIP_112
+--- BLOCK ---
+TMSG_OTHER_EQUIP_113
+--- BLOCK ---
+TMSG_OTHER_EQUIP_114
+--- BLOCK ---
+TMSG_OTHER_EQUIP_115
+--- BLOCK ---
+TMSG_OTHER_EQUIP_116
+--- BLOCK ---
+TMSG_OTHER_EQUIP_117
+--- BLOCK ---
+TMSG_OTHER_EQUIP_118
+--- BLOCK ---
+TMSG_OTHER_EQUIP_119
+--- BLOCK ---
+TMSG_OTHER_EQUIP_120
+--- BLOCK ---
+TMSG_OTHER_EQUIP_121
+--- BLOCK ---
+TMSG_OTHER_EQUIP_122
+--- BLOCK ---
+TMSG_OTHER_EQUIP_123
+--- BLOCK ---
+TMSG_OTHER_EQUIP_124
+--- BLOCK ---
+TMSG_OTHER_EQUIP_125
+--- BLOCK ---
+TMSG_OTHER_EQUIP_126
+--- BLOCK ---
+TMSG_OTHER_EQUIP_127
+--- BLOCK ---
+TMSG_OTHER_EQUIP_128
+--- BLOCK ---
+TMSG_OTHER_EQUIP_129
+--- BLOCK ---
+TMSG_OTHER_HUNTERSEARCH_00
+--- BLOCK ---
+TMSG_OTHER_HUNTERSEARCH_01
+--- BLOCK ---
+TMSG_OTHER_HUNTERSEARCH_02
+--- BLOCK ---
+TMSG_OTHER_HUNTERSEARCH_03
+--- BLOCK ---
+TMSG_OTHER_HUNTERSEARCH_04
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+Sig.
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%s%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+<COL 00FFFE> %+d</COL>
+--- BLOCK ---
+<COL 00FFFE>%+d</COL>
+--- BLOCK ---
+<COL E63737> %+d</COL>
+--- BLOCK ---
+<COL E63737>%+d</COL>
+--- BLOCK ---
+<COL FFFFFF> %+d</COL>
+--- BLOCK ---
+<COL FFFFFF>%+d</COL>
+--- BLOCK ---
+<COL 00FFFE> %d</COL>
+--- BLOCK ---
+<COL 00FFFE>%d</COL>
+--- BLOCK ---
+<COL E63737> %d</COL>
+--- BLOCK ---
+<COL E63737>%d</COL>
+--- BLOCK ---
+<COL FFFFFF> %d</COL>
+--- BLOCK ---
+<COL FFFFFF>%d</COL>
+--- BLOCK ---
+ %+d
+--- BLOCK ---
+%+d
+--- BLOCK ---
+ %d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%6.2f
+--- BLOCK ---
+%6.2f
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d%%
+--- BLOCK ---
+???%%
+--- BLOCK ---
+???
+--- BLOCK ---
+????
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%dz
+--- BLOCK ---
+%dz
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+z
+--- BLOCK ---
+%7d
+--- BLOCK ---
+%7d
+--- BLOCK ---
+%7d
+--- BLOCK ---
+E
+--- BLOCK ---
+%+d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%7d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s/%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%+d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d%%
+--- BLOCK ---
+%s
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d%%
+--- BLOCK ---
+%s
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d%%
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
++%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d%%
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
++%d
+--- BLOCK ---
+%d
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%s
+--- BLOCK ---
+%4d:%02d
+--- BLOCK ---
+%3d
+--- BLOCK ---
+%3d
+--- BLOCK ---
+%3d
+--- BLOCK ---
+%3d
+--- BLOCK ---

@@ -1,0 +1,24 @@
+TMSG_ACCE
+--- BLOCK ---
+(Nada)
+--- BLOCK ---
+T. Peão
+--- BLOCK ---
+T. Bispo
+--- BLOCK ---
+T. Cavalo
+--- BLOCK ---
+T. Torre
+--- BLOCK ---
+T. Rainha
+--- BLOCK ---
+T. Rei
+--- BLOCK ---
+T. Dragão
+--- BLOCK ---
+T. Herói
+--- BLOCK ---
+T. Lenda
+--- BLOCK ---
+T. Criador
+--- BLOCK ---

@@ -406,19 +406,19 @@ cortar, coletar, capturar
 insetos e extrair.
 --- BLOCK ---
 Reduz a probabilidade de quebra
-de Picos, Redes de
+de Picaretas, Redes de
 insetos, Bumerangues e Flautas.
 --- BLOCK ---
 Reduz significativamente a probabilidade de
-quebra de Picos, Redes de
+quebra de Picaretas, Redes de
 insetos, Bumerangues e Flautas.
 --- BLOCK ---
 Aumenta a probabilidade de quebra
-de Picos, Redes de
+de Picaretas, Redes de
 insetos, Bumerangues e Flautas.
 --- BLOCK ---
 Aumenta significativamente a probabilidade de
-quebra de Picos, Redes de
+quebra de Picaretas, Redes de
 insetos, Bumerangues e Flautas.
 --- BLOCK ---
 Às vezes aumenta o número

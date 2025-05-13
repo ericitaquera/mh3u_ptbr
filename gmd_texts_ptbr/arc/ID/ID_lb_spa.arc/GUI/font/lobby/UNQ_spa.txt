@@ -1,0 +1,35 @@
+TMSG_UNQ
+--- BLOCK ---
+--- BLOCK ---
+Abra caixa de ítens
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Inicie missão
+--- BLOCK ---
+Deixe esperando
+--- BLOCK ---
+Sente-se no banco
+--- BLOCK ---
+Durma na cama
+--- BLOCK ---
+Veja o Quadro de Missões
+--- BLOCK ---
+Queda de braço
+--- BLOCK ---
+Abra caixa de ítens
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+? ? ?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Espere para sair
+--- BLOCK ---
+Aptonoth
+--- BLOCK ---

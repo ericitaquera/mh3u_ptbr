@@ -36,7 +36,7 @@ no porto! Uma loucura!
 para a caça, por isso
 sempre tenho na loja.
 --- BLOCK ---
-<SUBS 0>O Pico e a Rede de insetos
+<SUBS 0>O Picaretas e a Rede de insetos
 combinam bem com os Insetos Amargos
 e o Mel. Não se esqueça.
 --- BLOCK ---
@@ -76,8 +76,8 @@ de que você é um profissional!
 Livros de Combos, terá uma
 maior probabilidade de sucesso.
 --- BLOCK ---
-Existem diferentes tipos de Picos, desde
-os antigos até os mega-picos. Os
+Existem diferentes tipos de Picaretas, desde
+os antigos até os mega-picaretas. Os
 melhores têm menos chances de quebrar.
 --- BLOCK ---
 Existem diferentes tipos de Redes de
@@ -378,7 +378,7 @@ armaduras, mas ofereço muitas ferramentas
 indispensáveis para os caçadores.
 --- BLOCK ---
 Tenho o essencial para a coleta de
-itens como Picos, Redes de insetos, iscas,
+itens como Picaretas, Redes de insetos, iscas,
 plantas... Tudo o que é indispensável.
 --- BLOCK ---
 Você precisará de um bom equipamento se

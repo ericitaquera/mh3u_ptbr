@@ -179,11 +179,31 @@ Used for rendering lots of **Arena messages**.
 
 Used for rendering **Reward Info and Details**.
 
-#### All (single) Paths
+#### All (single) Path
 ```
 .\arc\ID\ID_res_spa.arc\GUI\Texture\quest\td_M_v_reward02_ID_spa.tex
 ```
 
 <div style="background-color: #00ff00; display: inline-block; padding: 4px;">
   <img src="./td_M_v_reward02_ID_spa.preview.png" alt="td_M_v_reward02_ID_spa preview">
+</div>
+
+---
+
+## 🎨 `td_M_v_c8_00_ID_spa.tex`
+
+Used for rendering **Lots of icons and text**.
+
+#### All (single) Paths
+```
+.\arc\ID\ID_gallery_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_arena_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_stmenu_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_dl_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_lb_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+.\arc\ID\ID_gallerydm_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+```
+
+<div style="background-color: #00ff00; display: inline-block; padding: 4px;">
+  <img src="./td_M_v_c8_00_ID_spa.preview.png" alt="td_M_v_c8_00_ID_spa preview">
 </div>

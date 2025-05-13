@@ -584,14 +584,14 @@ explodirem de prazer.
 --- BLOCK ---
 DUMMY 8
 --- BLOCK ---
-Pico barato. Sua lâmina
+Picareta barata. Sua lâmina
 se quebra facilmente.
 --- BLOCK ---
-Pico de ferro com
+Picareta de ferro com
 uma lâmina resistente.
 --- BLOCK ---
-Pico de aço
-reforçado difícil
+Picareta de aço
+reforçada difícil
 de quebrar.
 --- BLOCK ---
 Rede barata para capturar
@@ -2832,9 +2832,9 @@ Barbatana sublime tão requintada que
 parece pintada por um
 artista. Admire seu mistério.
 --- BLOCK ---
-Pico característico do Agnaktor,
-que lhe permite cavar
-túneis na terra.
+Picareta característica do
+Agnaktor, que lhe permite
+cavar túneis na terra.
 --- BLOCK ---
 DUMMY 69
 --- BLOCK ---
@@ -2884,7 +2884,7 @@ Linda barbatana de Agnaktor
 glacial. Resplandece como um
 prisma ao sol.
 --- BLOCK ---
-Pico gelado que
+Picareta gelada que 
 perfura terras congeladas
 há séculos.
 --- BLOCK ---

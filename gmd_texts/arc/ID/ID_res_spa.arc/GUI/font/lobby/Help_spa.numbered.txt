@@ -1,0 +1,1338 @@
+TMSG_LOBBYHELP
+--- BLOCK [001] ---
+TMSG_TR_BTN_HELP
+--- BLOCK [002] ---
+TMSG_DL_NAME
+--- BLOCK [003] ---
+TMSG_BTN_DELIVELY
+--- BLOCK [004] ---
+TMSG_GUILDMASTER
+--- BLOCK [005] ---
+TMSG_RESULT
+--- BLOCK [006] ---
+TMSG_ARENA
+--- BLOCK [007] ---
+Leia sobre os monstros que
+habitam na Floresta de Moga.
+--- BLOCK [008] ---
+Ofereça monstros caçados na Floresta
+de Moga para o
+povo transformá-los em Recursos.
+--- BLOCK [009] ---
+Ofereça itens ao povo
+para transformá-los em Recursos.
+--- BLOCK [010] ---
+Verifique a lista de monstros e itens
+que podem ser transformados em Recursos.
+--- BLOCK [011] ---
+Entregue aos habitantes locais
+os itens que solicitaram.
+--- BLOCK [012] ---
+Ainda não há informações sobre a
+Floresta de Moga. Volte mais tarde.
+--- BLOCK [013] ---
+Veja a previsão do tempo para a
+Floresta de Moga nos próximos três dias.
+<COLO 5>Botão Y: Mapa Botão X: Dia/Noite
+--- BLOCK [014] ---
+Veja uma previsão do tempo para
+a Floresta de Moga durante três
+dias. <COLO 5>Botão Y: Ver mapa
+--- BLOCK [015] ---
+Veja suas façanhas de caça.
+--- BLOCK [016] ---
+<COLO 2>(Você não tem nada que possa
+converter em Recursos).</COLO>
+--- BLOCK [017] ---
+Converter todas as
+presas em Recursos?
+--- BLOCK [018] ---
+Presas convertidas em Recursos.
+--- BLOCK [019] ---
+Escolha o item para transformar em Recursos.
+--- BLOCK [020] ---
+Quantos deseja transformar?
+--- BLOCK [021] ---
+Você ganhará %d
+pontos. Continuar?
+--- BLOCK [022] ---
+Ver informações de monstros e itens
+que podem ser transformados em Recursos.
+--- BLOCK [023] ---
+<COLO 2>(Você não tem itens que possa converter
+em Recursos).</COLO>
+--- BLOCK [024] ---
+DUMMY
+--- BLOCK [025] ---
+DUMMY
+--- BLOCK [026] ---
+DUMMY
+--- BLOCK [027] ---
+DUMMY
+--- BLOCK [028] ---
+DUMMY
+--- BLOCK [029] ---
+DUMMY
+--- BLOCK [030] ---
+DUMMY
+--- BLOCK [031] ---
+DUMMY
+--- BLOCK [032] ---
+DUMMY
+--- BLOCK [033] ---
+DUMMY
+--- BLOCK [034] ---
+DUMMY
+--- BLOCK [035] ---
+DUMMY
+--- BLOCK [036] ---
+DUMMY
+--- BLOCK [037] ---
+DUMMY
+--- BLOCK [038] ---
+DUMMY
+--- BLOCK [039] ---
+DUMMY
+--- BLOCK [040] ---
+DUMMY
+--- BLOCK [041] ---
+DUMMY
+--- BLOCK [042] ---
+DUMMY
+--- BLOCK [043] ---
+DUMMY
+--- BLOCK [044] ---
+DUMMY
+--- BLOCK [045] ---
+DUMMY
+--- BLOCK [046] ---
+DUMMY
+--- BLOCK [047] ---
+DUMMY
+--- BLOCK [048] ---
+DUMMY
+--- BLOCK [049] ---
+DUMMY
+--- BLOCK [050] ---
+DUMMY
+--- BLOCK [051] ---
+Compre itens.
+--- BLOCK [052] ---
+Venda itens.
+--- BLOCK [053] ---
+Compre itens e envie para
+a Caixa de itens.
+--- BLOCK [054] ---
+Escolha o que deseja comprar.
+--- BLOCK [055] ---
+ <COLO 02>A bolsa está cheia.
+--- BLOCK [056] ---
+ <COLO 02>(A Caixa de Itens está cheia).
+--- BLOCK [057] ---
+ <COLO 02>Você não pode carregar mais deste item.
+--- BLOCK [058] ---
+Os itens que você comprou serão
+enviados para a Caixa de itens.
+--- BLOCK [059] ---
+Selecione o item que deseja vender.
+--- BLOCK [060] ---
+Quantos deseja comprar?
+--- BLOCK [061] ---
+Quantos deseja vender?
+--- BLOCK [062] ---
+Serão %d z.
+Deseja continuar?
+--- BLOCK [063] ---
+Total de %d
+z. Continuar venda?
+--- BLOCK [064] ---
+Compra realizada.
+--- BLOCK [065] ---
+DUMMY
+--- BLOCK [066] ---
+<COLO 2>(Esta munição não funcionará
+com o equipamento atual).
+--- BLOCK [067] ---
+<COLO 2>(Este revestimento não é
+compatível com o equipamento atual).
+--- BLOCK [068] ---
+<COLO 2>Isso não funcionará
+com o equipamento atual.
+--- BLOCK [069] ---
+Forje novas armas ou melhore
+as que já possui.
+--- BLOCK [070] ---
+Forje uma nova armadura ou
+melhore a que já possui.
+--- BLOCK [071] ---
+Forje adornos e os equipe
+ou remova-os do equipamento.
+--- BLOCK [072] ---
+Entregue itens.
+--- BLOCK [073] ---
+Forje novas armas.
+--- BLOCK [074] ---
+Melhore armas que já possui.
+--- BLOCK [075] ---
+Forje uma nova armadura.
+--- BLOCK [076] ---
+Melhore a armadura que já possui.
+--- BLOCK [077] ---
+Forje novos adornos.
+--- BLOCK [078] ---
+Coloque os adornos no equipamento.
+--- BLOCK [079] ---
+DUMMY
+--- BLOCK [080] ---
+Compre equipamento.
+--- BLOCK [081] ---
+Venda equipamento.
+--- BLOCK [082] ---
+Compre armas.
+--- BLOCK [083] ---
+Compre armaduras.
+--- BLOCK [084] ---
+Selecione o tipo de
+arma que deseja comprar.
+--- BLOCK [085] ---
+Selecione o tipo de
+armadura que deseja comprar.
+--- BLOCK [086] ---
+Escolha um equipamento para comprar.
+--- BLOCK [087] ---
+Custará %d z.
+Deseja comprar?
+--- BLOCK [088] ---
+Equipar agora?
+--- BLOCK [089] ---
+<COLO 2>A armadura será removida
+ao trocar de arma.
+--- BLOCK [090] ---
+Seu tipo de caçador não
+permite equipar isso. Continuar?
+--- BLOCK [091] ---
+O equipamento foi enviado para sua Caixa.
+--- BLOCK [092] ---
+ <COLO 2>A caixa está cheia.
+--- BLOCK [093] ---
+ <COLO 2>(Você não tem o dinheiro necessário).
+--- BLOCK [094] ---
+ <COLO 2>(Você não tem o material necessário).
+--- BLOCK [095] ---
+DUMMY
+--- BLOCK [096] ---
+DUMMY
+--- BLOCK [097] ---
+DUMMY
+--- BLOCK [098] ---
+DUMMY
+--- BLOCK [099] ---
+DUMMY
+--- BLOCK [100] ---
+Selecione o tipo de
+arma que deseja forjar.
+--- BLOCK [101] ---
+DUMMY
+--- BLOCK [102] ---
+Selecione o tipo de
+armadura que deseja forjar.
+--- BLOCK [103] ---
+Selecione o equipamento para forjar.
+--- BLOCK [104] ---
+<COLO 2>Você não possui os
+fundos nem os materiais necessários.
+--- BLOCK [105] ---
+ <COLO 2>(Você não possui o material necessário).
+--- BLOCK [106] ---
+Custará %d z, além
+dos materiais necessários. Continuar?
+--- BLOCK [107] ---
+Qual arma deseja melhorar?
+--- BLOCK [108] ---
+Qual armadura deseja melhorar?
+--- BLOCK [109] ---
+ <COLO 2>(Isso não pode ser melhorado).
+--- BLOCK [110] ---
+Qual melhoria deseja forjar?
+--- BLOCK [111] ---
+<COLO 2>Você não possui os
+fundos nem os materiais necessários.
+--- BLOCK [112] ---
+ <COLO 2>Você não possui os materiais necessários.
+--- BLOCK [113] ---
+Custará %d z, além
+dos materiais necessários. Continuar?
+--- BLOCK [114] ---
+Selecione o adorno que deseja forjar.
+--- BLOCK [115] ---
+DUMMY
+--- BLOCK [116] ---
+DUMMY
+--- BLOCK [117] ---
+DUMMY
+--- BLOCK [118] ---
+DUMMY
+--- BLOCK [119] ---
+DUMMY
+--- BLOCK [120] ---
+DUMMY
+--- BLOCK [121] ---
+DUMMY
+--- BLOCK [122] ---
+DUMMY
+--- BLOCK [123] ---
+DUMMY
+--- BLOCK [124] ---
+DUMMY
+--- BLOCK [125] ---
+DUMMY
+--- BLOCK [126] ---
+A melhoria custará
+%d z. Continuar?
+--- BLOCK [127] ---
+DUMMY
+--- BLOCK [128] ---
+DUMMY
+--- BLOCK [129] ---
+DUMMY
+--- BLOCK [130] ---
+DUMMY
+--- BLOCK [131] ---
+DUMMY
+--- BLOCK [132] ---
+DUMMY
+--- BLOCK [133] ---
+DUMMY
+--- BLOCK [134] ---
+DUMMY
+--- BLOCK [135] ---
+Envie a Frota de caça em uma expedição.
+--- BLOCK [136] ---
+Mostre e colete a pesca.
+--- BLOCK [137] ---
+Mostre informações sobre os navios
+da Frota de caça.
+--- BLOCK [138] ---
+Qual navio enviar em uma expedição?
+--- BLOCK [139] ---
+<COLO 2>Não é possível fazer mais solicitações
+até esvaziar a Caixa de Pesca.
+--- BLOCK [140] ---
+<COLO 2>(Você não pode enviar navios
+que já estão em viagem).
+--- BLOCK [141] ---
+Escolha um destino.
+--- BLOCK [142] ---
+Escolha Equipamentos.
+--- BLOCK [143] ---
+Termine e envie um navio da frota.
+--- BLOCK [144] ---
+Cancele a viagem.
+--- BLOCK [145] ---
+Escolha da lista de destinos.
+--- BLOCK [146] ---
+ <COLO 2>Você não tem os recursos necessários.
+--- BLOCK [147] ---
+Escolha Equipamentos ou outro equipamento.
+--- BLOCK [148] ---
+(Você não tem Equipamentos).
+--- BLOCK [149] ---
+Custará %d pontos de
+Recursos. Enviar o navio?
+--- BLOCK [150] ---
+Cancelar viagem?
+--- BLOCK [151] ---
+Verifique o estado da Frota de caça.
+--- BLOCK [152] ---
+DUMMY
+--- BLOCK [153] ---
+DUMMY
+--- BLOCK [154] ---
+<COLO 5>Selecione novamente os
+mesmos Itens para excluí-los.
+--- BLOCK [155] ---
+Armazene itens que não estão sendo usados.
+--- BLOCK [156] ---
+Armazene itens na Caixa de itens.
+--- BLOCK [157] ---
+Armazene itens na
+Bolsa de Espadachim.
+--- BLOCK [158] ---
+Armazene itens na
+Bolsa de Atirador.
+--- BLOCK [159] ---
+Pegue itens que foram armazenados.
+--- BLOCK [160] ---
+Pegue itens da Caixa de itens.
+--- BLOCK [161] ---
+Pegue itens da Bolsa de Espadachim.
+--- BLOCK [162] ---
+Pegue itens da Bolsa de Atirador.
+--- BLOCK [163] ---
+Combine, organize e venda itens
+armazenados na Caixa de itens.
+--- BLOCK [164] ---
+Combine itens armazenados na
+Caixa de itens.
+--- BLOCK [165] ---
+Combine itens da Caixa de itens
+usando a Lista de combinações.
+--- BLOCK [166] ---
+Mude a posição dos itens
+armazenados na Caixa de itens.
+--- BLOCK [167] ---
+Venda itens armazenados na
+Caixa de itens.
+--- BLOCK [168] ---
+Mude o estilo e a cor
+do cabelo, roupas e outros itens.
+--- BLOCK [169] ---
+Mude de roupa (peças
+usadas sob a armadura).
+--- BLOCK [170] ---
+Mude o penteado.
+--- BLOCK [171] ---
+Mude os traços do seu rosto. Ative
+um para mudar sua cor (se aplicável).
+--- BLOCK [172] ---
+Mude a cor da sua armadura.
+--- BLOCK [173] ---
+DUMMY
+--- BLOCK [174] ---
+DUMMY
+--- BLOCK [175] ---
+ <COLO 2>Não há armadura para colorir.
+--- BLOCK [176] ---
+Mude, organize e venda equipamentos.
+--- BLOCK [177] ---
+Mude o equipamento.
+--- BLOCK [178] ---
+Veja e equipe talismãs.
+--- BLOCK [179] ---
+Adicione ou remova adornos.
+--- BLOCK [180] ---
+Mude a posição do
+equipamento armazenado na Caixa.
+--- BLOCK [181] ---
+Venda equipamento armazenado na Caixa.
+--- BLOCK [182] ---
+Use para salvar conjuntos de equipamentos
+e trocar rapidamente entre eles.
+--- BLOCK [183] ---
+Mude para um dos seus conjuntos de equipamentos.
+--- BLOCK [184] ---
+Salve como conjunto a arma, armadura
+e talismã que estão equipados.
+--- BLOCK [185] ---
+Troque a posição dos conjuntos
+de equipamentos da lista.
+--- BLOCK [186] ---
+Remova um conjunto de equipamento da lista.
+--- BLOCK [187] ---
+DUMMY
+--- BLOCK [188] ---
+DUMMY
+--- BLOCK [189] ---
+DUMMY
+--- BLOCK [190] ---
+Troque a posição dos conjuntos
+de equipamentos da lista.
+--- BLOCK [191] ---
+Remova um conjunto de equipamento da lista.
+--- BLOCK [192] ---
+ <COLO 2>Não há conjuntos salvos.
+--- BLOCK [193] ---
+DUMMY
+--- BLOCK [194] ---
+Escolha qual item armazenar.
+--- BLOCK [195] ---
+Quantos deseja armazenar?
+--- BLOCK [196] ---
+Item armazenado.
+--- BLOCK [197] ---
+Selecione os itens
+que deseja levar.
+--- BLOCK [198] ---
+Selecione o que deseja levar.
+--- BLOCK [199] ---
+Quantos deseja?
+--- BLOCK [200] ---
+Escolha onde colocar o objeto.
+--- BLOCK [201] ---
+DUMMY
+--- BLOCK [202] ---
+Você pegou o objeto.
+--- BLOCK [203] ---
+Ordenar objetos conforme mostrado?
+--- BLOCK [204] ---
+Selecione o primeiro
+material para combinar.
+--- BLOCK [205] ---
+Agora selecione um segundo
+material para combinar.
+--- BLOCK [206] ---
+Continue com a combinação escolhida.
+--- BLOCK [207] ---
+Cancelar o processo de combinação.
+--- BLOCK [208] ---
+Escolha qual objeto alterar.
+--- BLOCK [209] ---
+Mover para qual posição?
+--- BLOCK [210] ---
+Selecione o objeto que deseja vender.
+--- BLOCK [211] ---
+Quantos deseja vender?
+--- BLOCK [212] ---
+Ordenar objetos?
+--- BLOCK [213] ---
+ <COLO 2>A bolsa está cheia.
+--- BLOCK [214] ---
+ <COLO 2>A bolsa do Espadachim está cheia.
+--- BLOCK [215] ---
+ <COLO 2>(A bolsa do Artilheiro está cheia).
+--- BLOCK [216] ---
+<COLO 2>Você não pode carregar mais unidades
+deste item em sua Bolsa de Caçador.
+--- BLOCK [217] ---
+<COLO 2>Você não pode carregar mais unidades
+deste item em sua Bolsa de Artilheiro.
+--- BLOCK [218] ---
+ <COLO 2>(Você não pode carregar mais).
+--- BLOCK [219] ---
+ <COLO 2>A caixa está cheia.
+--- BLOCK [220] ---
+<COLO 2>Você não pode colocar o
+item selecionado na Lista de munição.
+--- BLOCK [221] ---
+DUMMY
+--- BLOCK [222] ---
+DUMMY
+--- BLOCK [223] ---
+ <COLO 2>(Você não pode equipar esta arma.)
+--- BLOCK [224] ---
+ <COLO 2>(Você não possui nenhum talismã).
+--- BLOCK [225] ---
+Escolha um equipamento para usar.
+--- BLOCK [226] ---
+Trocar equipamento?
+--- BLOCK [227] ---
+DUMMY
+--- BLOCK [228] ---
+DUMMY
+--- BLOCK [229] ---
+DUMMY
+--- BLOCK [230] ---
+DUMMY
+--- BLOCK [231] ---
+DUMMY
+--- BLOCK [232] ---
+Ordenar objetos conforme mostrado?
+--- BLOCK [233] ---
+DUMMY
+--- BLOCK [234] ---
+Selecione a parte do equipamento a ser trocada.
+--- BLOCK [235] ---
+Mover para qual posição?
+--- BLOCK [236] ---
+Escolha um equipamento para vender.
+--- BLOCK [237] ---
+O equipamento foi trocado.
+--- BLOCK [238] ---
+Trocando equipamento...
+--- BLOCK [239] ---
+Selecione o talismã para equipar.
+--- BLOCK [240] ---
+Este objeto possui adornos. O
+total, incluindo adornos, é de
+%d z. Deseja continuar?
+--- BLOCK [241] ---
+DUMMY
+--- BLOCK [242] ---
+ <COLO 2>Não é possível remover a arma atual.
+--- BLOCK [243] ---
+<COLO 2>(Se você trocar de armas,
+talvez a armadura seja removida).
+--- BLOCK [244] ---
+DUMMY
+--- BLOCK [245] ---
+ <COLO 2>(A armadura atual será removida).
+--- BLOCK [246] ---
+DUMMY
+--- BLOCK [247] ---
+<COLO 2>(Se você vender isso, todos os conjuntos
+de equipamentos que o utilizam serão apagados).
+--- BLOCK [248] ---
+ <COLO 2>Você não pode vender o equipamento que está usando.
+--- BLOCK [249] ---
+DUMMY
+--- BLOCK [250] ---
+DUMMY
+--- BLOCK [251] ---
+<COLO 2>(Seu tipo de caçador não
+você pode usar este equipamento).
+--- BLOCK [252] ---
+DUMMY
+--- BLOCK [253] ---
+DUMMY
+--- BLOCK [254] ---
+DUMMY
+--- BLOCK [255] ---
+DUMMY
+--- BLOCK [256] ---
+DUMMY
+--- BLOCK [257] ---
+DUMMY
+--- BLOCK [258] ---
+DUMMY
+--- BLOCK [259] ---
+DUMMY
+--- BLOCK [260] ---
+DUMMY
+--- BLOCK [261] ---
+DUMMY
+--- BLOCK [262] ---
+DUMMY
+--- BLOCK [263] ---
+DUMMY
+--- BLOCK [264] ---
+DUMMY
+--- BLOCK [265] ---
+DUMMY
+--- BLOCK [266] ---
+DUMMY
+--- BLOCK [267] ---
+DUMMY
+--- BLOCK [268] ---
+DUMMY
+--- BLOCK [269] ---
+DUMMY
+--- BLOCK [270] ---
+DUMMY
+--- BLOCK [271] ---
+DUMMY
+--- BLOCK [272] ---
+DUMMY
+--- BLOCK [273] ---
+DUMMY
+--- BLOCK [274] ---
+DUMMY
+--- BLOCK [275] ---
+DUMMY
+--- BLOCK [276] ---
+DUMMY
+--- BLOCK [277] ---
+DUMMY
+--- BLOCK [278] ---
+DUMMY
+--- BLOCK [279] ---
+DUMMY
+--- BLOCK [280] ---
+DUMMY
+--- BLOCK [281] ---
+DUMMY
+--- BLOCK [282] ---
+DUMMY
+--- BLOCK [283] ---
+Mude para um de seus conjuntos
+de equipamento. Escolha qual deseja equipar.
+--- BLOCK [284] ---
+Trocar equipamento?
+--- BLOCK [285] ---
+Salvar o equipamento atual como conjunto.
+Escolha um espaço para armazená-lo.
+--- BLOCK [286] ---
+Salvar como conjunto de equipamento?
+--- BLOCK [287] ---
+Escolha o conjunto de equipamento a ser trocado.
+--- BLOCK [288] ---
+Mover para qual posição?
+--- BLOCK [289] ---
+Escolha o conjunto que deseja remover.
+--- BLOCK [290] ---
+Remover este conjunto de equipamento?
+--- BLOCK [291] ---
+DUMMY
+--- BLOCK [292] ---
+Trocar para este equipamento?
+--- BLOCK [293] ---
+<COLO 2>Se trocar de armas,
+talvez a armadura seja removida.
+--- BLOCK [294] ---
+DUMMY
+--- BLOCK [295] ---
+Salvar como conjunto de equipamento?
+--- BLOCK [296] ---
+Escolha o conjunto de equipamento a ser trocado.
+--- BLOCK [297] ---
+Mover para qual posição?
+--- BLOCK [298] ---
+Escolha o conjunto que deseja remover.
+--- BLOCK [299] ---
+Remover este conjunto de equipamento?
+--- BLOCK [300] ---
+Selecione o equipamento para
+adicionar ou remover adornos.
+--- BLOCK [301] ---
+Escolha um espaço.
+--- BLOCK [302] ---
+Escolha um Adorno.
+--- BLOCK [303] ---
+Escolha a roupa que deseja vestir.
+--- BLOCK [304] ---
+DUMMY
+--- BLOCK [305] ---
+Escolha a cor da peça.
+--- BLOCK [306] ---
+Selecione um novo penteado.
+--- BLOCK [307] ---
+DUMMY
+--- BLOCK [308] ---
+Escolha a cor do cabelo.
+--- BLOCK [309] ---
+DUMMY
+--- BLOCK [310] ---
+Escolha a armadura a ser colorida.
+--- BLOCK [311] ---
+Escolha uma nova cor.
+--- BLOCK [312] ---
+DUMMY
+--- BLOCK [313] ---
+DUMMY
+--- BLOCK [314] ---
+Cultive novos objetos na Fazenda.
+--- BLOCK [315] ---
+Mostre e colha a colheita.
+--- BLOCK [316] ---
+Saiba mais sobre as instalações da Fazenda
+e os Felyne que trabalham lá.
+--- BLOCK [317] ---
+Custará %d pontos de Recursos.
+Continuar com o cultivo?
+--- BLOCK [318] ---
+Qual Felyne deseja designar para a tarefa?
+--- BLOCK [319] ---
+Escolha um objeto para cultivar.
+--- BLOCK [320] ---
+Escolha o objeto que deseja cultivar.
+--- BLOCK [321] ---
+Você não tem objetos para cultivar.
+--- BLOCK [322] ---
+Escolha quantas unidades deseja cultivar.
+--- BLOCK [323] ---
+ <COLO 2>Você não possui os recursos necessários.
+--- BLOCK [324] ---
+Enriqueça a colheita com Fertilizante.
+--- BLOCK [325] ---
+Escolha o Fertilizante que deseja usar.
+--- BLOCK [326] ---
+(Não possui Fertilizante).
+--- BLOCK [327] ---
+Serão usados o objeto e o
+Fertilizante escolhidos para o cultivo.
+--- BLOCK [328] ---
+Cancelar uma solicitação de cultivo.
+--- BLOCK [329] ---
+Revise as instalações e
+o estado da colheita.
+--- BLOCK [330] ---
+<COLO 5>Selecione novamente o
+mesmo Fertilizante para apagá-lo.
+--- BLOCK [331] ---
+<COLO 2>Não é possível fazer mais solicitações
+até esvaziar a Caixa de itens.
+--- BLOCK [332] ---
+<COLO 2>Não é possível fazer mais pedidos
+até que você complete a colheita atual.
+--- BLOCK [333] ---
+Cancelar cultivo?
+--- BLOCK [334] ---
+Troque itens por mercadorias.
+--- BLOCK [335] ---
+Troque itens raros por mercadorias raras.
+--- BLOCK [336] ---
+Especifique onde o Argosy irá
+parar em sua próxima viagem.
+--- BLOCK [337] ---
+Troque itens por mercadorias.
+--- BLOCK [338] ---
+ <COLO 5>Botão Y: Itens/Acessórios
+--- BLOCK [339] ---
+Verifique onde o Argosy irá
+parar em sua próxima viagem.
+--- BLOCK [340] ---
+Escolha as mercadorias para oferecer.
+--- BLOCK [341] ---
+Escolha os itens que deseja trocar.
+--- BLOCK [342] ---
+Complete a troca.
+--- BLOCK [343] ---
+Escolha as mercadorias para oferecer.
+--- BLOCK [344] ---
+ <COLO 2>Você não pode superar a oferta máxima.
+--- BLOCK [345] ---
+ <COLO 2>Você não pode selecionar mais itens.
+--- BLOCK [346] ---
+Escolha os itens que deseja trocar.
+--- BLOCK [347] ---
+ <COLO 2>Você não pode exceder o limite máximo de troca.
+--- BLOCK [348] ---
+ <COLO 2>Você não pode escolher mais itens.
+--- BLOCK [349] ---
+Escolha as mercadorias para devolver.
+--- BLOCK [350] ---
+Escolha os itens para devolver.
+--- BLOCK [351] ---
+Volte à troca com estas alterações.
+--- BLOCK [352] ---
+Completar esta troca?
+--- BLOCK [353] ---
+Cancelar troca?
+--- BLOCK [354] ---
+(Não possui mercadorias).
+--- BLOCK [355] ---
+ <COLO 2>A troca supera sua oferta de ★.
+--- BLOCK [356] ---
+ <COLO 2>Você não pode escolher mais itens raros.
+--- BLOCK [357] ---
+ <COLO 2>(Você só pode oferecer um item raro).
+--- BLOCK [358] ---
+Escolha os locais para o Argosy ir.
+--- BLOCK [359] ---
+Escolha um objeto para auxiliar na viagem.
+--- BLOCK [360] ---
+Solicitar uma viagem com estas paradas.
+--- BLOCK [361] ---
+Solicitar esta viagem?
+--- BLOCK [362] ---
+Cancelar solicitação?
+--- BLOCK [363] ---
+<COLO 2>(O Argosy deve fazer pelo menos
+uma escala).</COLO>
+--- BLOCK [364] ---
+Escolha uma Ajuda na viagem.
+--- BLOCK [365] ---
+(Não possui nenhuma Ajuda na viagem).
+--- BLOCK [366] ---
+Mostre os itens.
+--- BLOCK [367] ---
+Verifique as paradas da viagem.
+--- BLOCK [368] ---
+ <COLO 2>(Esta solicitação já foi enviada).
+--- BLOCK [369] ---
+Escolher esta missão?
+--- BLOCK [370] ---
+<COLO 5>(Selecione a mesma Ajuda novamente
+em uma viagem para removê-lo).</COLO>
+--- BLOCK [371] ---
+Selecione os objetos para entrega.
+--- BLOCK [372] ---
+ <COLO 2>(Você não cumpre os requisitos de entrega).
+--- BLOCK [373] ---
+Entregar os objetos necessários?
+--- BLOCK [374] ---
+DUMMY
+--- BLOCK [375] ---
+DUMMY
+--- BLOCK [376] ---
+DUMMY
+--- BLOCK [377] ---
+Salvar o seu progresso? <COLO 2>(Os potenciadores
+de comida não são salvos). </COLO>
+--- BLOCK [378] ---
+Salvar seu progresso?
+--- BLOCK [379] ---
+DUMMY
+--- BLOCK [380] ---
+ <COLO 2>Não são armazenados potenciadores de comida.
+--- BLOCK [381] ---
+Pague uma refeição em
+dinheiro ou com Recursos.
+--- BLOCK [382] ---
+Pague uma refeição com um voucher.
+--- BLOCK [383] ---
+Troque um Vale gourmet por comida.
+--- BLOCK [384] ---
+DUMMY
+--- BLOCK [385] ---
+Pague uma refeição em dinheiro.
+--- BLOCK [386] ---
+DUMMY
+--- BLOCK [387] ---
+DUMMY
+--- BLOCK [388] ---
+DUMMY
+--- BLOCK [389] ---
+Usar um %s?
+--- BLOCK [390] ---
+Você escolheu usar
+%s. Deseja continuar?
+--- BLOCK [391] ---
+<COLO 2>Se você resgatá-lo, não poderá cancelá-lo.</COLO>
+--- BLOCK [392] ---
+<COLO 2>Não foi possível
+utilizar o voucher.</COLO>
+--- BLOCK [393] ---
+<COLO 2>No tienes ningún %s.</COLO>
+--- BLOCK [394] ---
+<COLO 2>Ya has canjeado un Vale.</COLO>
+--- BLOCK [395] ---
+Selecione o primeiro ingrediente.
+--- BLOCK [396] ---
+Selecione um segundo ingrediente.
+--- BLOCK [397] ---
+<COLO 5>(Ingredientes com alto ★ irão
+melhorar sua saúde).</COLO>
+--- BLOCK [398] ---
+<COLO 5>(Cada combinação de ingredientes
+tem um efeito diferente.).</COLO>
+--- BLOCK [399] ---
+<COLO 2>(Você não tem o dinheiro ou
+os recursos necessários).</COLO>
+--- BLOCK [400] ---
+<COLO 2>(Você não pode escolher o mesmo
+ingrediente duas vezes.).</COLO>
+--- BLOCK [401] ---
+Selecione um método de preparação.
+--- BLOCK [402] ---
+<COLO 5>(Ingredientes frescos dão mais Res.
+e mais prov. para ativar diversas habilid.).</COLO>
+--- BLOCK [403] ---
+Pague uma refeição em dinheiro.
+--- BLOCK [404] ---
+<COLO 2>(Você não tem o dinheiro necessário).</COLO>
+--- BLOCK [405] ---
+Pague uma refeição com Recursos.
+--- BLOCK [406] ---
+<COLO 2>(Você não tem os recursos necessários).</COLO>
+--- BLOCK [407] ---
+Cancelar o pedido.
+--- BLOCK [408] ---
+DUMMY
+--- BLOCK [409] ---
+DUMMY
+--- BLOCK [410] ---
+DUMMY
+--- BLOCK [411] ---
+DUMMY
+--- BLOCK [412] ---
+Use o vale e coma.
+--- BLOCK [413] ---
+DUMMY
+--- BLOCK [414] ---
+DUMMY
+--- BLOCK [415] ---
+Unir-se a esta missão?
+--- BLOCK [416] ---
+Você se uniu à missão.
+Espere na porta de saída
+da missão à esquerda.
+--- BLOCK [417] ---
+DUMMY
+--- BLOCK [418] ---
+DUMMY
+--- BLOCK [419] ---
+DUMMY
+--- BLOCK [420] ---
+DUMMY
+--- BLOCK [421] ---
+DUMMY
+--- BLOCK [422] ---
+DUMMY
+--- BLOCK [423] ---
+Faz %s esperar na vila.
+--- BLOCK [424] ---
+Faz %s te acompanhar nas missões.
+--- BLOCK [425] ---
+Mostrar ou mudar as máscaras.
+--- BLOCK [426] ---
+Mostrar ou mudar as danças.
+--- BLOCK [427] ---
+Mostrar ou mudar as habilidades.
+--- BLOCK [428] ---
+Mostrar as estatísticas de %s.
+--- BLOCK [429] ---
+Te acompanha em missões multijogador. <COLO
+2>(Apenas um Shakalaka pode te acompanhar
+quando estiver jogando com outras pessoas).
+--- BLOCK [430] ---
+Não te acompanha em missões multijogador.
+--- BLOCK [431] ---
+Escolha a máscara que irá usar.
+--- BLOCK [432] ---
+Você não pode trocar de Máscara.
+--- BLOCK [433] ---
+<COLO 2>(Você precisa ter pelo menos
+outra máscara para trocar a atual).
+--- BLOCK [434] ---
+ <COLO 2>Você não pode trocar para a mesma máscara.
+--- BLOCK [435] ---
+Trocar para esta Máscara?
+--- BLOCK [436] ---
+Trocar danças?
+--- BLOCK [437] ---
+Você não pode trocar de dança.
+--- BLOCK [438] ---
+<COLO 2>Você deve saber pelo menos
+três danças para poder trocá-las.
+--- BLOCK [439] ---
+Escolha a primeira dança.
+--- BLOCK [440] ---
+Escolha a segunda dança.
+--- BLOCK [441] ---
+ <COLO 2>(Você não pode selecionar a mesma dança duas vezes).
+--- BLOCK [442] ---
+Trocar para estas danças?
+--- BLOCK [443] ---
+Danças trocadas.
+--- BLOCK [444] ---
+Escolha uma máscara para atribuir habilidade.
+--- BLOCK [445] ---
+<COLO 2>Esta máscara não
+tem espaços para habilidades.
+--- BLOCK [446] ---
+Escolha o espaço para a habilidade.
+--- BLOCK [447] ---
+DUMMY
+--- BLOCK [448] ---
+Habilidades trocadas.
+--- BLOCK [449] ---
+DUMMY
+--- BLOCK [450] ---
+DUMMY
+--- BLOCK [451] ---
+Atribuir estas habilidades?
+--- BLOCK [452] ---
+Escolha a habilidade que deseja atribuir.
+--- BLOCK [453] ---
+ <COLO 2>(Essa habilidade já está atribuída).
+--- BLOCK [454] ---
+<COLO 2>(Você não pode atribuir mais de
+uma habilidade elemental de uma vez).
+--- BLOCK [455] ---
+<COLO 2>Você não atribuiu nenhuma habilidade
+que possa ser melhorada com isso.
+--- BLOCK [456] ---
+<COLO 2>Não é possível atribuir habilidades de
+caçador e coletor ao mesmo tempo.
+--- BLOCK [457] ---
+<COLO 2>Você não pode atribuir Sete Vidas
+e Último Sobrevivente ao mesmo tempo.
+--- BLOCK [458] ---
+%s foi removido.
+--- BLOCK [459] ---
+Se cancelar agora, perderá
+todas as alterações. Continuar?
+--- BLOCK [460] ---
+Reveja as estatísticas de %s.
+--- BLOCK [461] ---
+DUMMY
+--- BLOCK [462] ---
+DUMMY
+--- BLOCK [463] ---
+DUMMY
+--- BLOCK [464] ---
+Escolha um traje.
+--- BLOCK [465] ---
+ <COLO 2>(Seu companheiro já está usando essa armadura).
+--- BLOCK [466] ---
+Trocar de traje?
+--- BLOCK [467] ---
+Escolha novo nome.
+--- BLOCK [468] ---
+ <COLO 2>Esse é o nome atual da mascote.
+--- BLOCK [469] ---
+Trocar de nome?
+--- BLOCK [470] ---
+DUMMY
+--- BLOCK [471] ---
+DUMMY
+--- BLOCK [472] ---
+DUMMY
+--- BLOCK [473] ---
+DUMMY
+--- BLOCK [474] ---
+DUMMY
+--- BLOCK [475] ---
+DUMMY
+--- BLOCK [476] ---
+DUMMY
+--- BLOCK [477] ---
+DUMMY
+--- BLOCK [478] ---
+Colocar e remover mobiliário.
+--- BLOCK [479] ---
+Mostrar cenas na Galeria.
+--- BLOCK [480] ---
+Conecte-se à internet para baixar
+missões especiais e conteúdo extra.
+--- BLOCK [481] ---
+DUMMY
+--- BLOCK [482] ---
+DUMMY
+--- BLOCK [483] ---
+Colocar mobiliário.
+--- BLOCK [484] ---
+Remover mobiliário existente.
+--- BLOCK [485] ---
+ <COLO 2>Não há espaço livre disponível.
+--- BLOCK [486] ---
+Escolha o mobiliário que deseja colocar.
+--- BLOCK [487] ---
+Escolha uma posição.
+--- BLOCK [488] ---
+Colocar mobiliário?
+--- BLOCK [489] ---
+Escolha o mobiliário que deseja remover.
+--- BLOCK [490] ---
+ <COLO 2>(A caixa está cheia).
+--- BLOCK [491] ---
+Remover este mobiliário?
+--- BLOCK [492] ---
+DUMMY
+--- BLOCK [493] ---
+DUMMY
+--- BLOCK [494] ---
+ <COLO 2>Não há mobiliário que você possa remover.
+--- BLOCK [495] ---
+DUMMY
+--- BLOCK [496] ---
+ <COLO 2>Não há mobiliário que você possa remover.
+--- BLOCK [497] ---
+Sem mobiliário.
+--- BLOCK [498] ---
+DUMMY
+--- BLOCK [499] ---
+DUMMY
+--- BLOCK [500] ---
+DUMMY
+--- BLOCK [501] ---
+DUMMY
+--- BLOCK [502] ---
+DUMMY
+--- BLOCK [503] ---
+DUMMY
+--- BLOCK [504] ---
+DUMMY
+--- BLOCK [505] ---
+DUMMY
+--- BLOCK [506] ---
+DUMMY
+--- BLOCK [507] ---
+DUMMY
+--- BLOCK [508] ---
+DUMMY
+--- BLOCK [509] ---
+DUMMY
+--- BLOCK [510] ---
+DUMMY
+--- BLOCK [511] ---
+Selecione os objetos
+que deseja levar.
+--- BLOCK [512] ---
+Escolha os objetos para enviar
+para a Caixa de objetos.
+--- BLOCK [513] ---
+Concluir a coleta.
+--- BLOCK [514] ---
+ <COLO 2>(Você não pode carregar mais).
+--- BLOCK [515] ---
+Trocar para a Bolsa do Atirador.
+--- BLOCK [516] ---
+Trocar para a Bolsa do Espadachim.
+--- BLOCK [517] ---
+DUMMY
+--- BLOCK [518] ---
+DUMMY
+--- BLOCK [519] ---
+DUMMY
+--- BLOCK [520] ---
+DUMMY
+--- BLOCK [521] ---
+DUMMY
+--- BLOCK [522] ---
+Antigo M. obtido!
+--- BLOCK [523] ---
+Estátua misteriosa
+--- BLOCK [524] ---
+DUMMY
+--- BLOCK [525] ---
+Missão repel
+--- BLOCK [526] ---
+Registro de caçador incompleto.
+--- BLOCK [527] ---
+HARDUMMY
+--- BLOCK [528] ---
+HARDUMMY
+--- BLOCK [529] ---
+HARDUMMY
+--- BLOCK [530] ---
+HARDUMMY
+--- BLOCK [531] ---
+HARDUMMY
+--- BLOCK [532] ---
+HARDUMMY
+--- BLOCK [533] ---
+HARDUMMY
+--- BLOCK [534] ---
+HARDUMMY
+--- BLOCK [535] ---
+HARDUMMY
+--- BLOCK [536] ---
+HARDUMMY
+--- BLOCK [537] ---
+HARDUMMY
+--- BLOCK [538] ---
+HARDUMMY
+--- BLOCK [539] ---
+HARDUMMY
+--- BLOCK [540] ---
+HARDUMMY
+--- BLOCK [541] ---
+HARDUMMY
+--- BLOCK [542] ---
+HARDUMMY
+--- BLOCK [543] ---
+HARDUMMY
+--- BLOCK [544] ---
+HARDUMMY
+--- BLOCK [545] ---
+HARDUMMY
+--- BLOCK [546] ---
+HARDUMMY
+--- BLOCK [547] ---
+HARDUMMY
+--- BLOCK [548] ---
+HARDUMMY
+--- BLOCK [549] ---
+HARDUMMY
+--- BLOCK [550] ---
+HARDUMMY
+--- BLOCK [551] ---
+HARDUMMY
+--- BLOCK [552] ---
+HARDUMMY
+--- BLOCK [553] ---
+HARDUMMY
+--- BLOCK [554] ---
+ <COLO 5>Botão Y: Ver itens
+--- BLOCK [555] ---
+Desafio 1
+--- BLOCK [556] ---
+Desafio 2
+--- BLOCK [557] ---
+Desafio 3
+--- BLOCK [558] ---
+Desafio 4
+--- BLOCK [559] ---
+Desafio 5
+--- BLOCK [560] ---
+Desafio 6
+--- BLOCK [561] ---
+Desafio 7
+--- BLOCK [562] ---
+Desafio 8
+--- BLOCK [563] ---
+Desafio 9
+--- BLOCK [564] ---
+Desafio 10
+--- BLOCK [565] ---
+DUMMY
+--- BLOCK [566] ---
+DUMMY
+--- BLOCK [567] ---
+DUMMY
+--- BLOCK [568] ---
+Entrar
+--- BLOCK [569] ---
+Ajustar suas preferências de missão
+de Caçadores a Soldo.
+--- BLOCK [570] ---
+Colocar objetos de recompensa
+na Bolsa de objetos.
+--- BLOCK [571] ---
+Colocar objetos de recompensa
+na Caixa de objetos.
+--- BLOCK [572] ---
+Vender todos os objetos
+de recompensa restantes.
+--- BLOCK [573] ---
+Concluir a coleta.
+--- BLOCK [574] ---
+Selecione os objetos
+que deseja levar.
+--- BLOCK [575] ---
+Escolha os objetos para enviar
+para a Caixa de objetos.
+--- BLOCK [576] ---
+Total de %d z.
+Continuar a venda?
+--- BLOCK [577] ---
+Escolha o objeto a ser substituído.
+--- BLOCK [578] ---
+Avaliar qualquer objeto não avaliado.
+--- BLOCK [579] ---
+Avaliando...
+--- BLOCK [580] ---
+Enviar equipamento para sua Caixa de equipamentos.
+--- BLOCK [581] ---
+Escolha o equipamento que deseja enviar
+para sua Caixa de equipamentos.
+--- BLOCK [582] ---
+Sua seleção será enviada para
+sua Caixa de equipamentos.
+--- BLOCK [583] ---
+Objetos não avaliados serão enviados
+para a Caixa de avaliação.
+--- BLOCK [584] ---
+ <COLO 2>Você não pode carregar mais.
+--- BLOCK [585] ---
+ <COLO 2>A bolsa está cheia.
+--- BLOCK [586] ---
+ <COLO 2>(A Caixa está cheia).
+--- BLOCK [587] ---
+DUMMY
+--- BLOCK [588] ---
+ <COLO 2>Envie itens para avaliação sem avaliá-los.
+--- BLOCK [589] ---
+ <COLO 2>(Não há nenhum equipamento selecionado).
+--- BLOCK [590] ---
+Escolha seu equipamento.
+--- BLOCK [591] ---
+Contr. analógico esq./dir.: Girar person.
+Contr. analógico cim./bai.: Ver cim./bai.
+--- BLOCK [592] ---
+ <COLO 5>INICIAR: Vestir
+--- BLOCK [593] ---
+ <COLO 2>(Cha-Cha sozinho coloca aquela máscara).
+--- BLOCK [594] ---
+ <COLO 2>(Só o Kayamba usa essa máscara).
+--- BLOCK [595] ---
+Escolha a cor para o traço 1.
+--- BLOCK [596] ---
+Escolha a cor para o traço 2.
+--- BLOCK [597] ---
+ <COLO 2>Você não pode vender talismãs equipados.
+--- BLOCK [598] ---
+Restaurar cores iniciais deste
+conjunto de equipamento?
+--- BLOCK [599] ---
+Cores iniciais restauradas.
+--- BLOCK [600] ---
+Restaurar as cores originais
+desta armadura de cabeça?
+--- BLOCK [601] ---
+Restaurar as cores originais
+desta armadura de peito?
+--- BLOCK [602] ---
+Restaurar as cores originais
+desta armadura de braços?
+--- BLOCK [603] ---
+Restaurar as cores originais
+desta armadura de cintura?
+--- BLOCK [604] ---
+Restaurar as cores originais
+desta armadura de perna?
+--- BLOCK [605] ---
+<COLO 2>A caixa de itens está cheia;
+não é possível trocar o equipamento.
+--- BLOCK [606] ---

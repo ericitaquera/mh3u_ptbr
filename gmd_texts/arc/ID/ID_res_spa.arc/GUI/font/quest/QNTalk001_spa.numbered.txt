@@ -1,0 +1,73 @@
+TMSG_QNTALK001_000
+--- BLOCK [001] ---
+TMSG_QNTALK001_001
+--- BLOCK [002] ---
+TMSG_QNTALK001_002
+--- BLOCK [003] ---
+TMSG_QNTALK001_003
+--- BLOCK [004] ---
+TMSG_QNTALK001_004
+--- BLOCK [005] ---
+TMSG_QNTALK001_005
+--- BLOCK [006] ---
+TMSG_QNTALK001_006
+--- BLOCK [007] ---
+TMSG_QNTALK001_007
+--- BLOCK [008] ---
+TMSG_QNTALK001_008
+--- BLOCK [009] ---
+TMSG_QNTALK001_009
+--- BLOCK [010] ---
+TMSG_QNTALK001_010
+--- BLOCK [011] ---
+TMSG_QNTALK001_011
+--- BLOCK [012] ---
+TMSG_QNTALK001_012
+--- BLOCK [013] ---
+TMSG_QNTALK001_013
+--- BLOCK [014] ---
+Vaya, vaya. No se ve mucha gente por
+aquí. ¿Se te ha perdido algo?
+--- BLOCK [015] ---
+¿Por qué me miras así,
+joven? ¿Tengo algo en los dientes?
+--- BLOCK [016] ---
+Bueno, bueno.
+¿Qué puedo hacer por ti, cazador?
+--- BLOCK [017] ---
+¡Pero bueno! ¿Eso que veo es:
+||?
+--- BLOCK [018] ---
+A cambio de tu ||,
+tengo algo bonito para ti. ¿Qué dices?
+--- BLOCK [019] ---
+¡Estupendo! Cuida bien de eso, ¿me oyes?
+¡Podrías legárselo a tus descendientes!
+--- BLOCK [020] ---
+Puff. Debí haberlo imaginado.
+¡Ahora, largo!
+--- BLOCK [021] ---
+Creo que esto te servirá mejor a ti que
+a mí. Quédate con ello, ¿vale?
+--- BLOCK [022] ---
+¿No se te ocurre nada mejor que molestar
+a un hombre ocupado? ¡Largo, zascandil!
+--- BLOCK [023] ---
+¡Pero menudo zángano! ¡Deja de pedir
+limosna y gánate las habichuelas!
+--- BLOCK [024] ---
+¿Cómo? Más alto, joven. Estos oídos
+ya no funcionan tan bien como antaño.
+--- BLOCK [025] ---
+¡Oh, mala suerte! Parece que
+tu Bolsa de objetos está llena.
+--- BLOCK [026] ---
+¡Que me aspen! Parece que estás a tope
+de ||.
+--- BLOCK [027] ---
+¡Jaggi saltarines! ¿Tienes
+||? ¡Para mí! ¡Sí!
+--- BLOCK [028] ---
+Toma, te doy esto a cambio. ¡Tráeme
+más y seré un hombre feliz!
+--- BLOCK [029] ---

@@ -1,4 +1,4 @@
-﻿MAIN
+MAIN
 --- BLOCK ---
 SUB
 --- BLOCK ---

@@ -86,7 +86,7 @@ Sim
 --- BLOCK ---
 Não
 --- BLOCK ---
-Vale
+OK
 --- BLOCK ---
 DUMMY
 --- BLOCK ---

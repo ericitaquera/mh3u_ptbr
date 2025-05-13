@@ -1,0 +1,65 @@
+GMD
+--- BLOCK [001] ---
+
+--- BLOCK [002] ---
+
+--- BLOCK [003] ---
+--- BLOCK [004] ---
+--- BLOCK [005] ---
+--- BLOCK [006] ---
+--- BLOCK [007] ---
+--- BLOCK [008] ---
+--- BLOCK [009] ---
+
+--- BLOCK [010] ---
+--- BLOCK [011] ---
+--- BLOCK [012] ---
+--- BLOCK [013] ---
+--- BLOCK [014] ---
+--- BLOCK [015] ---
+--- BLOCK [016] ---
+�
+--- BLOCK [017] ---
+--- BLOCK [018] ---
+
+--- BLOCK [019] ---
+--- BLOCK [020] ---
+--- BLOCK [021] ---
+Applet_Text
+--- BLOCK [022] ---
+Invalid Message
+--- BLOCK [023] ---
+Introduce tu nombre de jugador.
+Puedes usar el lápiz táctil.
+--- BLOCK [024] ---
+Introduce tu saludo tocando.
+Puedes usar el lápiz táctil.
+--- BLOCK [025] ---
+Introduce tu conjunto tocando.
+Puedes usar el lápiz táctil.
+--- BLOCK [026] ---
+Introduce tu comentario.
+Puedes usar el lápiz táctil.
+--- BLOCK [027] ---
+Nombre no permitido.
+--- BLOCK [028] ---
+El texto contiene
+un nombre que no
+está permitido.
+--- BLOCK [029] ---
+HARDUMMY
+--- BLOCK [030] ---
+HARDUMMY
+--- BLOCK [031] ---
+HARDUMMY
+--- BLOCK [032] ---
+HARDUMMY
+--- BLOCK [033] ---
+HARDUMMY
+--- BLOCK [034] ---
+HARDUMMY
+--- BLOCK [035] ---
+HARDUMMY
+--- BLOCK [036] ---
+HARDUMMY
+--- BLOCK [037] ---

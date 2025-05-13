@@ -1,0 +1,114 @@
+TMSG_OTHER_DLC_00
+--- BLOCK ---
+TMSG_OTHER_DLC_01
+--- BLOCK ---
+TMSG_OTHER_DLC_02
+--- BLOCK ---
+TMSG_OTHER_DLC_03
+--- BLOCK ---
+TMSG_OTHER_DLC_04
+--- BLOCK ---
+TMSG_OTHER_DLC_05
+--- BLOCK ---
+TMSG_OTHER_DLC_06
+--- BLOCK ---
+TMSG_OTHER_DLC_07
+--- BLOCK ---
+TMSG_OTHER_DLC_08
+--- BLOCK ---
+TMSG_OTHER_DLC_09
+--- BLOCK ---
+TMSG_OTHER_DLC_10
+--- BLOCK ---
+TMSG_OTHER_DLC_11
+--- BLOCK ---
+TMSG_OTHER_DLC_12
+--- BLOCK ---
+TMSG_OTHER_DLC_13
+--- BLOCK ---
+TMSG_OTHER_DLC_14
+--- BLOCK ---
+TMSG_OTHER_DLC_15
+--- BLOCK ---
+TMSG_OTHER_DLC_16
+--- BLOCK ---
+TMSG_OTHER_DLC_17
+--- BLOCK ---
+TMSG_OTHER_DLC_18
+--- BLOCK ---
+TMSG_OTHER_DLC_19
+--- BLOCK ---
+TMSG_OTHER_DLC_20
+--- BLOCK ---
+TMSG_OTHER_DLC_21
+--- BLOCK ---
+TMSG_OTHER_DLC_22
+--- BLOCK ---
+TMSG_OTHER_DLC_23
+--- BLOCK ---
+TMSG_OTHER_DLC_24
+--- BLOCK ---
+TMSG_OTHER_DLC_25
+--- BLOCK ---
+★
+--- BLOCK ---
+%s %02d/%02d/%02d
+--- BLOCK ---
+%s %02d/%02d/%02d
+--- BLOCK ---
+%s %02d/%02d/%02d
+--- BLOCK ---
+%s %02d/%02d/%02d
+--- BLOCK ---
+%s %02d/%02d/%02d
+--- BLOCK ---
+%02d/%02d/%02d %s
+--- BLOCK ---
+%02d/%02d/%02d %s
+--- BLOCK ---
+%02d/%02d/%02d %s
+--- BLOCK ---
+%d/%d
+--- BLOCK ---
+%d %s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%d%s
+--- BLOCK ---
+%s
+%s
+--- BLOCK ---
+%s
+%s
+--- BLOCK ---
+%s
+%s
+--- BLOCK ---
+%s
+%s
+--- BLOCK ---
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+--- BLOCK ---
+%02d/%02d/%02d
+--- BLOCK ---
+%02d/%02d/%02d-%d
+--- BLOCK ---
+%s %d%s
+--- BLOCK ---
+%s %d%s
+--- BLOCK ---
+%s %d%s
+--- BLOCK ---
+%s %d%s
+--- BLOCK ---
+%s %d%s
+--- BLOCK ---
+%s %d%s
+--- BLOCK ---

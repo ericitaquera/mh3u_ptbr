@@ -33,7 +33,7 @@ Reduz a probabilidade de quebra
 de objetos de Flauta.
 --- BLOCK ---
 Reduz a probabilidade de quebra de
-Picos e Redes de insetos.
+Picaretas e Redes de insetos.
 --- BLOCK ---
 Maximiza as vezes que
 você pode falar com

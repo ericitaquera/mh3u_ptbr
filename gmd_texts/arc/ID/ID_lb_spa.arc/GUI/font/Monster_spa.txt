@@ -1,0 +1,284 @@
+TMSG_EMTYPE
+--- BLOCK ---
+TMSG_EMTYPE_ML
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+Rathian
+--- BLOCK ---
+Rathalos
+--- BLOCK ---
+Qurupeco
+--- BLOCK ---
+Gigginox
+--- BLOCK ---
+Barioth
+--- BLOCK ---
+Diablos
+--- BLOCK ---
+Deviljho
+--- BLOCK ---
+Barroth
+--- BLOCK ---
+Uragaan
+--- BLOCK ---
+Jaggi
+--- BLOCK ---
+Jaggia
+--- BLOCK ---
+Gran Jaggi
+--- BLOCK ---
+Baggi
+--- BLOCK ---
+Gran Baggi
+--- BLOCK ---
+Lagiacrus
+--- BLOCK ---
+Ludroth real
+--- BLOCK ---
+Ludroth
+--- BLOCK ---
+Gobul
+--- BLOCK ---
+Agnaktor
+--- BLOCK ---
+Ceadeus
+--- BLOCK ---
+Uroktor
+--- BLOCK ---
+Delex
+--- BLOCK ---
+Epioth
+--- BLOCK ---
+Alatreon
+--- BLOCK ---
+Jhen Mohran
+--- BLOCK ---
+Giggi
+--- BLOCK ---
+Aptonoth
+--- BLOCK ---
+Popo
+--- BLOCK ---
+Rhenoplos
+--- BLOCK ---
+Felyne
+--- BLOCK ---
+Melynx
+--- BLOCK ---
+Pescado
+--- BLOCK ---
+Altaroth
+--- BLOCK ---
+Kelbi
+--- BLOCK ---
+Giggi bolsón
+--- BLOCK ---
+Bnahabra
+--- BLOCK ---
+Bnahabra
+--- BLOCK ---
+Bnahabra
+--- BLOCK ---
+Bnahabra
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Zinogre
+--- BLOCK ---
+Arzuros
+--- BLOCK ---
+Lagombi
+--- BLOCK ---
+Volvidon
+--- BLOCK ---
+Wroggi magnificente
+--- BLOCK ---
+Duramboros
+--- BLOCK ---
+Nibelsnarf
+--- BLOCK ---
+Wroggi
+--- BLOCK ---
+Slagtoth
+--- BLOCK ---
+Gargwa
+--- BLOCK ---
+Qurupeco carmesí
+--- BLOCK ---
+Gigginox aterrador
+--- BLOCK ---
+Barioth arenoso
+--- BLOCK ---
+Barroth esmeralda
+--- BLOCK ---
+Uragaan acerado
+--- BLOCK ---
+Ludroth purpúreo
+--- BLOCK ---
+Agnaktor glacial
+--- BLOCK ---
+Diablos negra
+--- BLOCK ---
+Nargacuga
+--- BLOCK ---
+Nargacuga verdoso
+--- BLOCK ---
+Nargacuga lunar
+--- BLOCK ---
+Rathian rosa
+--- BLOCK ---
+Rathian dorada
+--- BLOCK ---
+Rathalos celeste
+--- BLOCK ---
+Rathalos plateado
+--- BLOCK ---
+Plesioth
+--- BLOCK ---
+Plesioth verde
+--- BLOCK ---
+Lagiacrus marmóreo
+--- BLOCK ---
+Lagiacrus del abismo
+--- BLOCK ---
+Ceadeus barba dorada
+--- BLOCK ---
+Deviljho
+--- BLOCK ---
+Zinogre estigio
+--- BLOCK ---
+Duramboros herrumbroso
+--- BLOCK ---
+Brachydios
+--- BLOCK ---
+Miralis funesto
+--- BLOCK ---
+Bullfango
+--- BLOCK ---
+Anteka
+--- BLOCK ---
+Slagtoth
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Roca
+--- BLOCK ---
+Jhen Mohran sagrado
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+NO_DATA
+--- BLOCK ---
+Invalid Message
+--- BLOCK ---
+WyvPáj
+--- BLOCK ---
+WyvVol
+--- BLOCK ---
+WyvBrt
+--- BLOCK ---
+WyvPsc
+--- BLOCK ---
+Levthn
+--- BLOCK ---
+WyvCol
+--- BLOCK ---
+BstCol
+--- BLOCK ---
+DrgAnc
+--- BLOCK ---
+Lynian
+--- BLOCK ---
+Herbvr
+--- BLOCK ---
+Nptron
+--- BLOCK ---
+Pescad
+--- BLOCK ---

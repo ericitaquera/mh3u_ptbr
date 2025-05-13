@@ -1,0 +1,44 @@
+TMSG_ACCE_EXP
+--- BLOCK ---
+(Nada equipado.)
+--- BLOCK ---
+Talismã carregado por um
+soldado comum. Dizem que
+traz sorte ao seu portador.
+--- BLOCK ---
+Talismã feito por um bispo
+estrangeiro que rezava pela
+vitória. Repeli desastres.
+--- BLOCK ---
+Talismã como recompensa para
+cavaleiros. Concede grande
+glória ao seu portador.
+--- BLOCK ---
+Talismã feito com partes
+das muralhas que protegiam
+a cidade por séculos.
+--- BLOCK ---
+Talismã criado para uma rainha
+que governou durante a
+era dourada. Possui sabedoria.
+--- BLOCK ---
+Talismã de um rei que governou
+o mundo. Seu portador ganha
+tanto sabedoria quanto poder.
+--- BLOCK ---
+Talismã iridescente feito com
+o olho de um dragão. Concede
+o poder de um dragão.
+--- BLOCK ---
+Talismã de um herói
+que derrotou as trevas.
+Seu brilho inspira esperança.
+--- BLOCK ---
+Talismã de alguém que fez
+história. Dizem que a
+pedra escolhe o portador.
+--- BLOCK ---
+Talismã miraculoso que
+concede bênçãos do céu
+ao seu portador.
+--- BLOCK ---

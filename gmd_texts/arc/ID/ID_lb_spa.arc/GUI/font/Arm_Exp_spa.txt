@@ -1,268 +1,264 @@
-﻿TMSG_ARM_EXP
+TMSG_ARM_EXP
 --- BLOCK ---
 (Nada equipado.)
 --- BLOCK ---
-Guantes hechos de cuero y
-otros materiales ligeros,
-de fácil uso.
+Luvas feitas de couro
+e outros materiais leves,
+fáceis de usar.
 --- BLOCK ---
-Guantes robustos hechos de
-malla. Populares y
-fáciles de mantener.
+Luvas robustas feitas de
+malha. Populares e
+fáceis de manter.
 --- BLOCK ---
-Equipo para brazos creado
-para cazadores. Fuerte a la
-par que manejable.
+Equipamento para os braços
+criado para caçadores. Forte
+e fácil de manejar.
 --- BLOCK ---
-Equipo para brazos sólido y
-multiusos, para cazadores.
-Con pocas deficiencias.
+Equipamento para os braços
+sólido e versátil, para
+caçadores. Com poucas deficiências.
 --- BLOCK ---
-Equipo para brazos hecho de
-huesos de monstruo. Conocido
-por su aspecto salvaje.
+Equipamento para os braços feito
+de ossos de monstro. Conhecido
+por seu visual selvagem.
 --- BLOCK ---
-Guardabrazos con huesos
-de monstruos. Se dice que
-activan los cinco sentidos.
+Protetores de braço com ossos
+de monstros. Dizem que
+ativam os cinco sentidos.
 --- BLOCK ---
-Equipo para brazos hecho de
-Mineral machalita. Su diseño
-perfecto es admirable.
+Equipamento para os braços feito
+de Minério machalita. Seu
+design perfeito é admirável.
 --- BLOCK ---
-Equipo para brazos hecho de
-Mineral machalita. Admirados
-por su sencillo diseño.
+Equipamento para os braços feito
+de Minério machalita. Admirados
+por seu design simples.
 --- BLOCK ---
-Equipo para brazos hecho de
-partes de Jaggi. Diseñados
-para ser prácticos.
+Equipamento para os braços feito
+de partes de Jaggi.
+Projetados para serem práticos.
 --- BLOCK ---
-Guardabrazos hechos de
-Jaggi, con dedos abiertos
-para trabajos de precisión.
+Protetores de braço feitos de
+Jaggi, com dedos abertos
+para trabalhos de precisão.
 --- BLOCK ---
-Guardabrazos raros de
-partes de insecto. Mucha
-gente busca un par.
+Protetores de braço raros feitos
+de partes de inseto. Muitos
+procuram por um par.
 --- BLOCK ---
-Guardabrazos muy raros de
-partes de insecto. Joya de
-coleccionismo.
+Protetores de braço muito raros
+feitos de partes de inseto.
+Uma joia de coleção.
 --- BLOCK ---
-Guardabrazos con solo tres
-dedos, pero con una fuerza
-formidable.
+Protetores de braço com
+apenas três dedos, mas
+com uma força formidável.
 --- BLOCK ---
-Guardabrazos con tres
-bultos para tres dedos.
-Extraños, pero poderosos.
+Protetores de braço com
+três protuberâncias para três
+dedos. Estranhos, mas poderosos.
 --- BLOCK ---
-Guardabrazos hechos de
-Qurupeco que confieren un
-temible poder a los dedos.
+Protetores de braço feitos de
+Qurupeco que conferem um
+poder temível aos dedos.
 --- BLOCK ---
-Guardabrazos hechos de
-Qurupeco. Usados por tribus
-extranjeras en sus cacerías.
+Protetores de braço feitos de
+Qurupeco. Usados por tribos
+estrangeiras em suas caçadas.
 --- BLOCK ---
-Guardabrazos cubiertos de 
-escamas esponjosas. Aunque
-pesados, de ágil movimiento.
+Protetores de braço cobertos
+por escamas fofas. Apesar
+de pesados, são ágeis.
 --- BLOCK ---
-Guardabrazos resistentes al
-agua por la capacidad de
-absorción de su material.
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Guardabrazos hechos de Baggi
-y tan cómodos que no
-te los querrás quitar.
---- BLOCK ---
-Equipo para brazos hecho de
-partes de Baggi. Protege
-contra la congelación.
---- BLOCK ---
-Equipo para brazos bastante 
-duro como para partir una
-piedra o incluso matar.
---- BLOCK ---
-Guardabrazos blindados. 
-Diseñados especialmente para
-Artilleros.
---- BLOCK ---
-Equipo para brazos de diseño
-tradicional y con un
-refinado historial.
---- BLOCK ---
-Equipo para brazos de
-diseño tradicional. Hechos
-de preciosas piezas Gobul.
+Protetores de braço resistentes à
+água devido à capacidade de
+absorção de seu material.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-DUMMY
+Protetores de braço feitos de
+Baggi e tão confortáveis que
+você não vai querer tirá-los.
 --- BLOCK ---
-Equipo usado por caballeros
-defensores de la ciudad
-extranjeros. Con caballería.
+Equipamento para os braços feito
+de partes de Baggi.
+Protege contra o congelamento.
 --- BLOCK ---
-Equipo usado por caballeros
-defensores de la ciudad.
-Los niños ansían llevarlo.
+Equipamento para os braços bastante
+resistente, capaz de quebrar uma
+pedra ou até matar.
 --- BLOCK ---
-Equipo para brazos usado por
-empleadas del Gremio. Ideal
-para trabajar en mostrador.
+Protetores de braço
+blindados. Especialmente projetados
+para Atiradores.
 --- BLOCK ---
-Equipo para brazos usado por
-empleadas del Gremio. Útil
-en oficina y en la jungla.
+Equipamento para os braços
+de design tradicional e
+com uma história refinada.
 --- BLOCK ---
-Guardabrazos de escamas
-verdes con una gran defensa
-y resistencia al fuego.
---- BLOCK ---
-Guardabrazos cubiertos de
-elegantes escamas verdes. Un
-golpe puede apagar llamas.
---- BLOCK ---
-Guardabrazos de material
-de goma. Tan ajustados que
-parecen una segunda piel.
---- BLOCK ---
-Guardabrazos de Gigginox. 
-El negro brillante y el rojo
-viperino son llamativos.
---- BLOCK ---
-Guardabrazos de Mineral
-dragonita de calidad. Su
-construcción es muy robusta.
---- BLOCK ---
-Guardabrazos de excelente 
-Mineral dragonita. Dan buena
-defensa para ser metálicos.
---- BLOCK ---
-Brazales hechos con toda la 
-fuerza del Lagiacrus,
-eclipsando equipos estándar.
---- BLOCK ---
-Hechos de Lagiacrus, otorgan
-la fuerza de la naturaleza
-a los dedos al apuntar.
---- BLOCK ---
-Guardabrazos imbuidos con
-el poder del rey de los
-cielos. Hienden el aire.
---- BLOCK ---
-Guardabrazos dotados con 
-suficiente poder real para
-dispersar nubes de tormenta.
---- BLOCK ---
-Guardabrazos hechos de 
-Barioth. Placas blancas
-protegen los antebrazos.
---- BLOCK ---
-Guardabrazos hechos de 
-Barioth. El izquierdo lleva
-fijada una garra gigante.
---- BLOCK ---
-Poderosos brazales de 
-Diablos, encarnando el alma
-del tirano del desierto.
---- BLOCK ---
-Poderosos guardabrazos de 
-partes de Diablos. El que
-los mira tiembla de miedo.
---- BLOCK ---
-Brazales pesados hechos de 
-partes de Uragaan. Tan duros
-que pueden romper piedra.
---- BLOCK ---
-Guardabrazos pesados de
-Uragaan. De gran movilidad a
-pesar de su peso.
---- BLOCK ---
-Guardabrazos de Agnaktor. 
-Su brillo escarlata puede
-despertar fuerzas ocultas.
---- BLOCK ---
-Guardabrazos de Agnaktor. 
-Su horrible calor mantiene
-a los monstruos a raya.
---- BLOCK ---
-Guardabrazos hechos de
-Ceadeus. En ellos descansa
-el alma del dragón del mar.
---- BLOCK ---
-Guardabrazos hechos de
-Ceadeus. Pesados por el peso
-de una energía vital eterna.
---- BLOCK ---
-Guardabrazos hechos de
-Ceadeus. En ellos descansa
-el alma del dragón del mar.
---- BLOCK ---
-Guardabrazos hechos de
-Ceadeus. Pesados por el peso
-de una energía vital eterna.
---- BLOCK ---
-Guardabrazos creados por un
-herrero inspirado por sus
-viajes al extranjero.
---- BLOCK ---
-Guardabrazos de una tierra
-extranjera. Perfectos para
-armas a distancia.
---- BLOCK ---
-Guardabrazos de partes de
-Arzuros. En los detalles se
-ve el diseño de Yukumo.
---- BLOCK ---
-Guardabrazos de partes de
-Arzuros. Diseñadas para
-Artilleros.
---- BLOCK ---
-Guardabrazos con abrasivo de
-agarre. Su pelaje protege
-manos del frío extremo.
---- BLOCK ---
-Guardabrazos con abrasivo de
-agarre. Su pelaje mantiene
-manos calientes y ágiles.
---- BLOCK ---
-En el país del fuego se
-reciben estos guardabrazos
-con la mayoría de edad.
---- BLOCK ---
-Guardabrazos del país del
-fuego para Artilleros. Los
-detalles son exquisitos.
---- BLOCK ---
-Guardabrazos mejorados
-exoesqueléticos. Son
-prototipos, pero funcionan.
---- BLOCK ---
-Guardabrazos ergonómicos.
-Creados con la última
-tecnología gremial.
---- BLOCK ---
-Guardabrazos creados con
-capas de armadura. Muy
-pesados para la mayoría.
---- BLOCK ---
-Guardabrazos muy duraderos
-que dejan libres los dedos
-para los Artilleros.
---- BLOCK ---
-Guardabrazos de Yukumo.
-Los usan soldados,
-cazadores y viajeros.
+Equipamento para os braços
+de design tradicional. Feitos
+de preciosas peças Gobul.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade
+estrangeira. Com cavalaria.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. As
+crianças anseiam por usá-lo.
+--- BLOCK ---
+Equipamento para os braços usado
+por funcionárias do Gremio. Ideal
+para trabalhar no balcão.
+--- BLOCK ---
+Equipamento para os braços usado
+por funcionárias do Gremio. Útil
+no escritório e na selva.
+--- BLOCK ---
+Protetores de braço de escamas
+verdes com grande defesa
+e resistência ao fogo.
+--- BLOCK ---
+Protetores de braço cobertos por
+elegantes escamas verdes. Um
+golpe pode apagar chamas.
+--- BLOCK ---
+Protetores de braço de material
+de borracha. Tão justos que
+parecem uma segunda pele.
+--- BLOCK ---
+Protetores de braço de Gigginox.
+O preto brilhante e o
+vermelho viperino são marcantes.
+--- BLOCK ---
+Protetores de braço de qualidade
+feitos de Mineral dragonita. Sua
+construção é muito robusta.
+--- BLOCK ---
+Protetores de braço excelentes feitos
+de Mineral dragonita. Oferecem boa
+defesa por serem metálicos.
+--- BLOCK ---
+Braçadeiras feitas com toda
+a força do Lagiacrus,
+superando equipamentos padrão.
+--- BLOCK ---
+Feitos de Lagiacrus, concedem
+a força da natureza
+aos dedos ao apontar.
+--- BLOCK ---
+Protetores de braço imbuidos com
+o poder do rei dos
+céus. Cortam o ar.
+--- BLOCK ---
+Protetores de braço dotados com
+poder real suficiente para
+dispersar nuvens de tempestade.
+--- BLOCK ---
+Protetores de braço feitos
+de Barioth. Placas brancas
+protegem os antebraços.
+--- BLOCK ---
+Protetores de braço feitos de
+Barioth. O esquerdo possui
+uma garra gigante fixada.
+--- BLOCK ---
+Poderosas braçadeiras de Diablos,
+incorporando a alma do
+tirano do deserto.
+--- BLOCK ---
+Poderosos protetores de braço feitos
+de partes de Diablos. Quem
+os vê treme de medo.
+--- BLOCK ---
+Braçadeiras pesadas feitas de partes
+de Uragaan. Tão duras
+que podem quebrar pedras.
+--- BLOCK ---
+Protetores de braço pesados
+de Uragaan. Muito móveis
+apesar de seu peso.
+--- BLOCK ---
+Protetores de braço de
+Agnaktor. Seu brilho escarlate
+pode despertar forças ocultas.
+--- BLOCK ---
+Guarda-braços de Agnaktor. Seu
+calor horrível mantém os
+monstros à distância.
+--- BLOCK ---
+Guarda-braços feitos de Ceadeus.
+Neles repousa a alma
+do dragão marinho.
+--- BLOCK ---
+Guarda-braços feitos de Ceadeus.
+Pesados pelo peso de
+uma energia vital eterna.
+--- BLOCK ---
+Guarda-braços feitos de Ceadeus.
+Neles repousa a alma
+do dragão marinho.
+--- BLOCK ---
+Guarda-braços feitos de Ceadeus.
+Pesados pelo peso de
+uma energia vital eterna.
+--- BLOCK ---
+Guarda-braços criados por um
+ferreiro inspirado por suas
+viagens ao exterior.
+--- BLOCK ---
+Guarda-braços de uma terra
+estrangeira. Perfeitos para
+armas à distância.
+--- BLOCK ---
+Guarda-braços feitos de partes de
+Arzuros. Nos detalhes, vê-se
+o design de Yukumo.
+--- BLOCK ---
+Guarda-braços feitos de
+partes de Arzuros.
+Designados para Atiradores.
+--- BLOCK ---
+Guarda-braços com aderência abrasiva.
+Seu pelo protege as
+mãos do frio extremo.
+--- BLOCK ---
+Guarda-braços com aderência abrasiva.
+Seu pelo mantém as
+mãos quentes e ágeis.
+--- BLOCK ---
+No país do fogo,
+recebem-se estes guarda-braços ao
+atingir a maioridade.
+--- BLOCK ---
+Guarda-braços do país do
+fogo para Atiradores. Os
+detalhes são requintados.
+--- BLOCK ---
+Guarda-braços exoesqueléticos melhorados.
+São protótipos,
+mas funcionam.
+--- BLOCK ---
+Guarda-braços ergonômicos. Criados com
+a mais recente
+tecnologia da guilda.
+--- BLOCK ---
+Guarda-braços criados com camadas
+de armadura. Muito pesados
+para a maioria.
+--- BLOCK ---
+Guarda-braços muito duráveis que
+deixam os dedos livres
+para os Atiradores.
+--- BLOCK ---
+Guarda-braços de Yukumo.
+Usados por soldados,
+caçadores e viajantes.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -276,481 +272,483 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guardabrazos de cuero 
-y otros materiales ligeros.
-Simples pero fuertes.
+DUMMY
 --- BLOCK ---
-Guardabrazos fuertes hechos
-de cuero de calidad.
-Diseñados para un uso fácil.
+DUMMY
 --- BLOCK ---
-Robusto equipo para brazos
-hecho de malla. Muy flexible
+Guarda-braços de couro e
+outros materiais leves.
+Simples, mas fortes.
+--- BLOCK ---
+Guarda-braços fortes feitos de
+couro de qualidade. Designados
+para uso fácil.
+--- BLOCK ---
+Equipamento robusto para braços feito
+de malha. Muito flexível
 para ser de metal.
 --- BLOCK ---
-Robusto equipo para brazos 
-hecho de malla, tan fuerte
-que evita dientes de wyvern.
+Equipamento robusto para braços feito
+de malha, tão forte que
+evita dentes de wyvern.
 --- BLOCK ---
-Equipo para brazos de 
-cazadores de élite. Muy
-fuerte, con gran movilidad.
+Equipamento para braços de
+caçadores de elite. Muito
+resistente, com grande mobilidade.
 --- BLOCK ---
-Equipo para brazos multiusos
-para cazadores de élite.
-Pocas deficiencias.
+Equipamento para braços multiuso
+para caçadores de
+elite. Poucas deficiências.
 --- BLOCK ---
-Equipo para brazos hecho
-de huesos de monstruo.
-Despierta instinto salvaje.
+Equipamento para braços feito
+de ossos de monstro.
+Desperta o instinto selvagem.
 --- BLOCK ---
-Guardabrazos con huesos 
-de calidad. Se dice que
-activa los cinco sentidos.
+Guarda-braços com ossos de
+qualidade. Dizem ativar
+os cinco sentidos.
 --- BLOCK ---
-Guardabrazos hechos con un 
-raro mineral. A punto para
-un gran rendimiento.
+Guarda-braços feitos com um
+mineral raro. Prontos para
+um grande desempenho.
 --- BLOCK ---
-Guardabrazos hechos con un 
-raro mineral. Protegen bien
-los brazos del Artillero.
+Guarda-braços feitos com um
+mineral raro. Protegem bem
+os braços do Atirador.
 --- BLOCK ---
-Equipo para brazos hecho de
-partes de Jaggi. Diseñados
-para ser prácticos.
+Equipamento para braços feito
+de partes de Jaggi.
+Designados para serem práticos.
 --- BLOCK ---
-Guardabrazos hechos de
-Jaggi, con dedos abiertos
-para trabajos de precisión.
+Guarda-braços feitos de Jaggi,
+com dedos abertos para
+trabalhos de precisão.
 --- BLOCK ---
-Guardabrazos raros de
-partes de insecto. Mucha
-gente busca un par.
+Guarda-braços raros feitos de
+partes de inseto. Muita
+gente busca um par.
 --- BLOCK ---
-Guardabrazos muy raros de
-partes de insecto. Joya de
-coleccionismo.
+Guarda-braços muito raros feitos
+de partes de inseto.
+Peça de colecionador.
 --- BLOCK ---
-Guardabrazos con solo tres
-dedos, pero con una fuerza
-formidable.
+Guarda-braços com apenas três
+dedos, mas com
+uma força formidável.
 --- BLOCK ---
-Guardabrazos con tres
-bultos para tres dedos.
-Extraños, pero poderosos.
+Guarda-braços com três protuberâncias
+para três dedos.
+Estranhos, mas poderosos.
 --- BLOCK ---
-Guardabrazos hechos de
-Qurupeco que confieren un
-temible poder a los dedos.
+Guarda-braços feitos de Qurupeco
+que conferem um poder
+temível aos dedos.
 --- BLOCK ---
-Guardabrazos hechos de
-Qurupeco. Usados por tribus
-extranjeras en sus cacerías.
+Guarda-braços feitos de Qurupeco.
+Usados por tribos estrangeiras
+em suas caçadas.
 --- BLOCK ---
-Guardabrazos hechos de
-Qurupeco que confieren un
-temible poder a los dedos.
+Guarda-braços feitos de Qurupeco
+que conferem um poder
+temível aos dedos.
 --- BLOCK ---
-Guardabrazos hechos de
-Qurupeco. Usados por tribus
-extranjeras en sus cacerías.
+Guarda-braços feitos de Qurupeco.
+Usados por tribos estrangeiras
+em suas caçadas.
 --- BLOCK ---
-Guardabrazos cubiertos de 
-escamas esponjosas. Aunque
-pesados, de ágil movimiento.
+Guarda-braços cobertos de escamas
+fofas. Embora pesados, são
+ágeis em movimento.
 --- BLOCK ---
-Guardabrazos resistentes al
-agua por la capacidad de
-absorción de su material.
+Guarda-braços resistentes à água
+devido à capacidade de
+absorção de seu material.
 --- BLOCK ---
-Guardabrazos cubiertos de 
-escamas esponjosas. Aunque
-pesados, de ágil movimiento.
+Guarda-braços cobertos de escamas
+fofas. Embora pesados, são
+ágeis em movimento.
 --- BLOCK ---
-Guardabrazos de diseño
-revolucionario. Su material
-absorbente protege bien.
+Guarda-braços de design
+revolucionário. Seu material
+absorvente protege bem.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guardabrazos de partes de 
-Baggi. Su tacto fresco ayuda
-a mejorar la concentración.
---- BLOCK ---
-Guardabrazos de partes de 
-Baggi. Evitan que los dedos
-del Artillero se congelen.
---- BLOCK ---
-Guardabrazos creados por un
-herrero inspirado por sus
-viajes al extranjero.
---- BLOCK ---
-Guardabrazos de una tierra
-extranjera. Perfectos para
-armas a distancia.
---- BLOCK ---
-Guardabrazos de partes de
-Arzuros. En los detalles se
-ve el diseño de Yukumo.
---- BLOCK ---
-Guardabrazos de partes de
-Arzuros. Diseñadas para
-Artilleros.
---- BLOCK ---
-Guardabrazos con abrasivo de
-agarre. Su pelaje protege
-manos del frío extremo.
---- BLOCK ---
-Guardabrazos con abrasivo de
-agarre. Su pelaje mantiene
-manos calientes y ágiles.
---- BLOCK ---
-En el país del fuego se
-reciben estos guardabrazos
-con la mayoría de edad.
---- BLOCK ---
-Guardabrazos del país del
-fuego para Artilleros. Los
-detalles son exquisitos.
---- BLOCK ---
-Equipo para brazos bastante 
-duro como para partir una
-piedra o incluso matar.
---- BLOCK ---
-Guardabrazos blindados. 
-Diseñados expresamente para
-su uso por Artilleros.
---- BLOCK ---
-Equipo para brazos bastante 
-duro como para partir una
-piedra o incluso matar.
---- BLOCK ---
-Guardabrazos blindados. 
-Diseñados expresamente para
-su uso por Artilleros.
---- BLOCK ---
-Equipo para brazos de diseño
-tradicional y con un
-refinado historial.
---- BLOCK ---
-Equipo para brazos de 
-diseño tradicional. Con gran
-número de púas de Gobul.
---- BLOCK ---
-Equipo usado por caballeros
-extranjeros. Adecuado para
-defensores de la ciudad.
---- BLOCK ---
-Equipo usado por caballeros
-defensores de la ciudad.
-Los bandidos huyen al verlo.
---- BLOCK ---
-Equipo para brazos usado por
-empleadas del Gremio. Ideal
-para trabajar en mostrador.
---- BLOCK ---
-Equipo para brazos usado por
-empleadas del Gremio. Útil
-en oficina y en la jungla.
---- BLOCK ---
-Guardabrazos de escamas
-verdes con una gran defensa
-y resistencia al fuego.
---- BLOCK ---
-Guardabrazos cubiertos de
-elegantes escamas verdes. Un
-golpe puede apagar llamas.
---- BLOCK ---
-Guardabrazos que brillan
-como el ocaso. Ay de quien
-desafíe a su usuario...
---- BLOCK ---
-El sol brilla en estos
-guardabrazos y la Rathian
-rosa parece tu aliada.
---- BLOCK ---
-Guardabrazos de material
-de goma. Tan ajustado
-que parece una segunda piel.
---- BLOCK ---
-Guardabrazos de Gigginox. 
-El negro brillante y el rojo
-viperino son llamativos.
---- BLOCK ---
-Guardabrazos de material
-de goma. Tan ajustado
-que parece una segunda piel.
---- BLOCK ---
-Guardabrazos de partes de
-Gigginox. El rojo y negro
-es elegante y atrayente.
---- BLOCK ---
-Guardabrazos de un raro
-metal. Su construcción en
-capas es muy resistente.
---- BLOCK ---
-Guardabrazos de un mineral 
-raro. Proporcionan gran
-defensa para ser metálicos.
---- BLOCK ---
-Guardabrazos hechos de 
-huesos negros desconocidos.
-Pertenecerían a una bestia.
---- BLOCK ---
-Guardabrazos de huesos 
-desconocidos. Su portador
-tendrá impulsos misteriosos.
---- BLOCK ---
-Guardabrazos de Yukumo.
-Los usan soldados,
-cazadores y viajeros.
---- BLOCK ---
-Guardabrazos ligeros y
-protectores, lo bastante
-flexibles para Artilleros.
---- BLOCK ---
-Guardabrazos de partes de
-insecto. Resisten hasta una
-carga de wyvern bruto.
---- BLOCK ---
-Guardabrazos de partes de
-insecto. Los usan héroes
-insecto en busca de gloria.
---- BLOCK ---
-Guardabrazos de partes de
-insectos. Sus curvas atraen
-cazadores elegantes.
---- BLOCK ---
-Guardabrazos de insectos.
-Aportan clase a cualquier
-actividad, hasta la caza.
---- BLOCK ---
-Guardabrazos de extrañas
-calabazas. El material se
-endurece con productos.
---- BLOCK ---
-Guardabrazos de extrañas
-calabazas. ¡Es increíble
-que sean tan resistentes!
---- BLOCK ---
-Guardabrazos de restos de un
-artefacto desenterrado cuyo
-origen es un misterio.
---- BLOCK ---
-Guardabrazos de restos de un
-artefacto desenterrado que
-aprovecha sus engranajes.
---- BLOCK ---
-Brazales hechos con toda la 
-fuerza del Lagiacrus,
-eclipsando equipos estándar.
---- BLOCK ---
-Hechos de Lagiacrus, otorgan
-la fuerza de la naturaleza
-a los dedos al apuntar.
---- BLOCK ---
-Guardabrazos de hueso de
-Lagiacrus marmóreo. Son
-muy protectores.
---- BLOCK ---
-Guardabrazos de hueso de
-Lagiacrus marmóreo. Guardan
-el punto ciego de Artillero.
---- BLOCK ---
-Guardabrazos imbuidos con 
-la furia del rey. Sus golpes
-partirán el mismísimo cielo.
---- BLOCK ---
-Guardabrazos dotados con 
-suficiente poder real para
-dispersar nubes de tormenta.
---- BLOCK ---
-Guardabrazos que dejan un
-rastro celeste al usarse
-para blandir un arma.
---- BLOCK ---
-Guardabrazos oscuros como
-el océano profundo y el
-destino de sus víctimas.
---- BLOCK ---
-Guardabrazos hechos de 
-Barioth. Placas blancas
-protegen los antebrazos.
---- BLOCK ---
-Guardabrazos hechos de 
-Barioth. El izquierdo lleva
-fijada una garra gigante.
---- BLOCK ---
-Guardabrazos de partes de
-Barioth arenoso. Aprovechan
-al máximo el material.
---- BLOCK ---
-Guardabrazos de partes de
-Barioth arenoso. Al dorso
-llevan grandes garras.
---- BLOCK ---
-Poderosos brazales de 
-Diablos, encarnando el alma
-del tirano del desierto.
---- BLOCK ---
-Poderosos guardabrazos de 
-partes de Diablos. El que
-los mira tiembla de miedo.
---- BLOCK ---
-Poderosos brazales de 
-Diablos, encarnando el alma
-del tirano del desierto.
---- BLOCK ---
-Poderosos guardabrazos de 
-partes de Diablos. El que
-los mira tiembla de miedo.
---- BLOCK ---
-Brazales pesados hechos de 
-partes de Uragaan. Tan duros
-que pueden romper piedra.
---- BLOCK ---
-Guardabrazos pesados de
-Uragaan. De gran movilidad a
-pesar de su peso.
---- BLOCK ---
-Guardabrazos pesados con
-partes de Uragaan acerado.
-Pueden partir la roca.
---- BLOCK ---
-Guardabrazos de Uragaan
-acerado. Son pesados, pero
-ofrecen gran movilidad.
---- BLOCK ---
-Guardabrazos de Agnaktor. 
-Su brillo escarlata puede
-despertar fuerzas ocultas.
---- BLOCK ---
-Guardabrazos de Agnaktor. 
-Su horrible calor mantiene
-a los monstruos a raya.
---- BLOCK ---
-Guardabrazos de partes de
-Agnaktor glacial. Su brillo
-oculta un gran poder.
---- BLOCK ---
-Guardabrazos de partes de
-Agnaktor glacial. Un wyvern
-volador nota su gelidez.
---- BLOCK ---
-Aunque confieren un agarre
-poderoso, cuentan que muelen
-los huesos de su portador.
---- BLOCK ---
-Guardabrazos cubiertos de
-furia asesina. Otorgan gran
-poder de destrucción.
---- BLOCK ---
-Armadura celeste famosa por 
-llevar a su portador a la
-gloria. Se creía mítica.
---- BLOCK ---
-Armadura celeste famosa
-por dar gloria al portador.
-Legado de un conquistador.
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
+Guarda-braços de partes de Baggi.
+Seu toque fresco ajuda
+a melhorar a concentração.
+--- BLOCK ---
+Guarda-braços de partes de
+Baggi. Evitam que os
+dedos do Atirador congelem.
+--- BLOCK ---
+Guarda-braços criados por um
+ferreiro inspirado por suas
+viagens ao exterior.
+--- BLOCK ---
+Guarda-braços de uma terra
+estrangeira. Perfeitos para
+armas à distância.
+--- BLOCK ---
+Guarda-braços de partes de
+Arzuros. Nos detalhes, vê-se
+o design de Yukumo.
+--- BLOCK ---
+Guarda-braços de partes
+de Arzuros. Designados
+para Atiradores.
+--- BLOCK ---
+Guarda-braços com aderência abrasiva.
+Seu pelo protege as
+mãos do frio extremo.
+--- BLOCK ---
+Guarda-braços com aderência abrasiva.
+Seu pelo mantém as
+mãos quentes e ágeis.
+--- BLOCK ---
+No país do fogo,
+recebem-se estes guarda-braços ao
+atingir a maioridade.
+--- BLOCK ---
+Guarda-braços do país do
+fogo para Atiradores. Os
+detalhes são requintados.
+--- BLOCK ---
+Equipamento para braços bastante
+resistente para quebrar uma
+pedra ou até matar.
+--- BLOCK ---
+Guarda-braços blindados. Designados
+especificamente para uso
+por Atiradores.
+--- BLOCK ---
+Equipamento para braços bastante
+resistente para quebrar uma
+pedra ou até matar.
+--- BLOCK ---
+Guarda-braços blindados. Designados
+especificamente para uso
+por Atiradores.
+--- BLOCK ---
+Equipamento para braços de
+design tradicional e com
+um histórico refinado.
+--- BLOCK ---
+Equipamento para braços de design
+tradicional. Com um grande número
+de espinhos de Gobul.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+estrangeiros. Adequado para
+defensores da cidade.
+--- BLOCK ---
+Equipamento usado por cavaleiros
+defensores da cidade. Os
+bandidos fogem ao vê-lo.
+--- BLOCK ---
+Equipamento para braços usado por
+funcionárias do Gremio. Ideal
+para trabalhar no balcão.
+--- BLOCK ---
+Equipamento para braços usado por
+funcionárias do Gremio. Útil no
+escritório e na selva.
+--- BLOCK ---
+Guarda-braços de escamas verdes
+com grande defesa e
+resistência ao fogo.
+--- BLOCK ---
+Guarda-braços cobertos de elegantes
+escamas verdes. Um golpe
+pode apagar chamas.
+--- BLOCK ---
+Guarda-braços que brilham como
+o crepúsculo. Ai de
+quem desafiar seu usuário...
+--- BLOCK ---
+O sol brilha nestes
+guarda-braços e a Rathian
+rosa parece sua aliada.
+--- BLOCK ---
+Guarda-braços de material de
+borracha. Tão ajustados que
+parecem uma segunda pele.
+--- BLOCK ---
+Guarda-braços de Gigginox. O
+preto brilhante e o
+vermelho viperino chamam atenção.
+--- BLOCK ---
+Guarda-braços de material de
+borracha. Tão ajustados que
+parecem uma segunda pele.
+--- BLOCK ---
+Guarda-braços de partes de Gigginox.
+O vermelho e preto
+é elegante e atrativo.
+--- BLOCK ---
+Guarda-braços de um metal
+raro. Sua construção em
+camadas é muito resistente.
+--- BLOCK ---
+Guarda-braços de um mineral
+raro. Proporcionam grande defesa
+por serem metálicos.
+--- BLOCK ---
+Guarda-braços feitos de ossos
+negros desconhecidos. Pertenceriam
+a uma besta.
+--- BLOCK ---
+Guarda-braços de ossos
+desconhecidos. Seu portador
+terá impulsos misteriosos.
+--- BLOCK ---
+Guarda-braços de Yukumo.
+Usados por soldados,
+caçadores e viajantes.
+--- BLOCK ---
+Guarda-braços leves e
+protetores, suficientemente flexíveis
+para Atiradores.
+--- BLOCK ---
+Guarda-braços de partes de inseto.
+Resistem até a um
+ataque bruto de wyvern.
+--- BLOCK ---
+Guarda-braços de partes de inseto.
+Usados por heróis inseto
+em busca de glória.
+--- BLOCK ---
+Guarda-braços de partes de
+insetos. Suas curvas
+atraem caçadores elegantes.
+--- BLOCK ---
+Guarda-braços de inseto. Acrescentam
+classe a qualquer
+atividade, inclusive caça.
+--- BLOCK ---
+Guarda-braços de abóboras estranhas.
+O material se
+endurece com produtos.
+--- BLOCK ---
+Guarda-braços de abóboras estranhas.
+É incrível que
+sejam tão resistentes!
+--- BLOCK ---
+Guarda-braços feitos de restos de
+um artefato desenterrado, cuja
+origem é um mistério.
+--- BLOCK ---
+Guarda-braços feitos de restos
+de um artefato desenterrado
+que aproveita suas engrenagens.
+--- BLOCK ---
+Braçadeiras feitas com toda
+a força do Lagiacrus,
+eclipsando equipamentos padrão.
+--- BLOCK ---
+Feitos de Lagiacrus, conferem
+a força da natureza
+aos dedos ao apontar.
+--- BLOCK ---
+Guarda-braços de osso
+de Lagiacrus marmóreo.
+São muito protetores.
+--- BLOCK ---
+Guarda-braços de osso de
+Lagiacrus marmóreo. Guardam o
+ponto cego do Atirador.
+--- BLOCK ---
+Guarda-braços imbuidos com a fúria
+do rei. Seus golpes
+partirão o próprio céu.
+--- BLOCK ---
+Guarda-braços dotados com poder
+real suficiente para dispersar
+nuvens de tempestade.
+--- BLOCK ---
+Guarda-braços que deixam um rastro
+celeste ao serem usados
+para empunhar uma arma.
+--- BLOCK ---
+Guarda-braços escuros como o
+oceano profundo e o
+destino de suas vítimas.
+--- BLOCK ---
+Guarda-braços feitos de
+Barioth. Placas brancas
+protegem os antebraços.
+--- BLOCK ---
+Guarda-braços feitos de Barioth.
+O esquerdo tem uma
+garra gigante fixada.
+--- BLOCK ---
+Guarda-braços feitos de partes
+de Barioth arenoso. Aproveitam
+ao máximo o material.
+--- BLOCK ---
+Guarda-braços feitos de partes
+de Barioth arenoso. Nas
+costas possuem grandes garras.
+--- BLOCK ---
+Poderosos braçais de Diablos,
+incorporando a alma do
+tirano do deserto.
+--- BLOCK ---
+Poderosos Guarda-braços feitos de partes
+de Diablos. Quem os
+vê treme de medo.
+--- BLOCK ---
+Poderosos braçais de Diablos,
+incorporando a alma do
+tirano do deserto.
+--- BLOCK ---
+Poderosos Guarda-braços feitos de partes
+de Diablos. Quem os
+vê treme de medo.
+--- BLOCK ---
+Braçais pesados feitos de partes
+de Uragaan. Tão duros
+que podem quebrar pedra.
+--- BLOCK ---
+Guarda-braços pesados de Uragaan.
+Apesar do peso,
+possuem grande mobilidade.
+--- BLOCK ---
+Guarda-braços pesados com partes
+de Uragaan acerado. Capazes
+de partir rochas.
+--- BLOCK ---
+Guarda-braços de Uragaan acerado.
+São pesados, mas
+oferecem grande mobilidade.
+--- BLOCK ---
+Guarda-braços de Agnaktor. Seu
+brilho escarlate pode
+despertar forças ocultas.
+--- BLOCK ---
+Guarda-braços de Agnaktor. Seu
+calor intenso mantém
+os monstros afastados.
+--- BLOCK ---
+Guarda-braços de partes de
+Agnaktor glacial. Seu brilho
+oculta um grande poder.
+--- BLOCK ---
+Guarda-braços de partes de
+Agnaktor glacial. Um wyvern
+voador reconhecerá sua gelidez.
+--- BLOCK ---
+Apesar de conferirem um aperto
+poderoso, dizem que trituram os
+ossos de quem os usa.
+--- BLOCK ---
+Guarda-braços cobertos de fúria
+assassina. Concedem grande
+poder de destruição.
+--- BLOCK ---
+Armadura celeste famosa por
+elevar seu portador à
+glória. Acreditava-se ser mítica.
+--- BLOCK ---
+Armadura celeste famosa por
+conceder glória ao portador.
+Legado de um conquistador.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guardabrazos creados para 
-ser la defensa definitiva
-con énfasis en el resultado.
+DUMMY
 --- BLOCK ---
-Guardabrazos capaces de 
-rechazar cualquier ataque.
-Protección para Artilleros.
+DUMMY
 --- BLOCK ---
-Guardabrazos hechos de Jhen
-Mohran. Exprimen al máximo
-las habilidades de uno.
+Guarda-braços criados para serem
+a defesa definitiva com
+ênfase no resultado.
 --- BLOCK ---
-Guardabrazos hechos de Jhen
-Mohran. Unen movilidad
-máxima con una gran defensa.
+Guarda-braços capazes de
+repelir qualquer ataque.
+Proteção para Atiradores.
+--- BLOCK ---
+Guarda-braços feitos de Jhen
+Mohran. Extrai ao máximo
+as habilidades de alguém.
+--- BLOCK ---
+Guarda-braços feitos de Jhen
+Mohran. Combinam máxima mobilidade
+com grande defesa.
+--- BLOCK ---
+Armadura abismal atrapaluz. A
+encarnação de Alatreon captura
+a alma do portador.
 --- BLOCK ---
 Armadura abismal atrapaluz.
-La encarnación de Alatreon
-atrapa el alma del portador.
---- BLOCK ---
-Armadura abismal atrapaluz.
-Personificación del oscuro
+Personificação do sombrio
 morador Alatreon.
 --- BLOCK ---
-Guardabrazos imbuidos con
-el poder de un Zinogre.
-¡Y el poder da el derecho!
+Guarda-braços imbuidos com o poder
+de um Zinogre. E o
+poder dá o direito!
 --- BLOCK ---
-Guardabrazos lo bastante
-poderosos para levantar el
-mismo cielo, se dice.
+Guarda-braços suficientemente poderosos
+para erguer o
+próprio céu, dizem.
 --- BLOCK ---
-Guardabrazos mejorados
-exoesqueléticos. Son
-prototipos, pero funcionan.
+Guarda-braços exoesqueléticos aprimorados.
+São protótipos,
+mas funcionam.
 --- BLOCK ---
-Guardabrazos ergonómicos.
-Creados con la última
-tecnología gremial.
+Guarda-braços ergonômicos. Criados
+com a mais
+recente tecnologia gremial.
 --- BLOCK ---
-Guardabrazos creados con
-capas de armadura. Muy
-pesados para la mayoría.
+Guarda-braços criados com camadas
+de armadura. Muito pesados
+para a maioria.
 --- BLOCK ---
-Guardabrazos muy duraderos
-que dejan libres los dedos
-para los Artilleros.
+Guarda-braços muito duráveis que
+deixam os dedos livres
+para os Atiradores.
 --- BLOCK ---
-Brazales negros que parecen
-garras de Nargacuga y asen
-las armas con fuerza.
+Braçais negros que parecem garras
+de Nargacuga e seguram
+as armas com força.
 --- BLOCK ---
-Guardabrazos oscuros como la
-noche. Las armas empuñadas
-contrastan con la luna.
+Guarda-braços escuros como a
+noite. As armas empunhadas
+contrastam com a lua.
 --- BLOCK ---
-Guardabrazos de escamas de
-Plesioth. Sus superficies
-curvas bloquean ataques.
+Guarda-braços feitos de escamas
+de Plesioth. Suas superfícies
+curvas bloqueiam ataques.
 --- BLOCK ---
-Guardabrazos de escamas de
-Plesioth y decorados con
-aletas. Impermeables.
+Guarda-braços feitos de escamas
+de Plesioth e decorados
+com barbatanas. Impermeáveis.
 --- BLOCK ---
-Guardabrazos con la fuerza
-del Brachydios. Dejan un
-pálido rastro blanco.
+Guarda-braços com a força
+do Brachydios. Deixam um
+rastro pálido branco.
 --- BLOCK ---
-Guardabrazos con la fuerza
-del Brachydios. Protegen
-las manos del Artillero.
+Guarda-braços com a força
+do Brachydios. Protegem as
+mãos do Atirador.
 --- BLOCK ---
-Guardabrazos de empleada.
-Se dice que se llevaban en
-la corte real.
+Guarda-braços de criada. Diz-se
+que eram usados
+na corte real.
 --- BLOCK ---
-Guardabrazos de empleada.
-Muchos se obsesionan con
-su perfecto diseño.
+Guarda-braços de criada. Muitos
+se obsesionam com
+seu design perfeito.
 --- BLOCK ---
-Equipo para soldado Loc Lac 
-oficial. Resultados
-certificados por el Gremio.
+Equipamento oficial para soldado
+de Loc Lac. Resultados
+certificados pelo Gremio.
 --- BLOCK ---
-Equipo para arquero Loc Lac
-oficial. Muy vaporoso, para
-llevar en zonas calurosas.
---- BLOCK ---
-DUMMY
+Equipamento oficial para arqueiro de
+Loc Lac. Muito ventilado, para
+uso em zonas quentes.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -770,561 +768,563 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guardabrazos de un metal
-precioso. Su construcción
-en capas es muy resistente.
---- BLOCK ---
-Guardabrazos de un mineral 
-raro. Proporcionan gran
-defensa para ser metálicos.
---- BLOCK ---
-Guardabrazos raros de
-partes de insecto. Mucha
-gente busca un par.
---- BLOCK ---
-Guardabrazos muy raros de
-partes de insecto. Joya de
-coleccionismo.
---- BLOCK ---
-Guardabrazos con solo tres
-dedos, pero con una fuerza
-formidable.
---- BLOCK ---
-Guardabrazos con tres
-bultos para tres dedos.
-Extraños, pero poderosos.
---- BLOCK ---
-Equipo para brazos hecho de
-partes de Jaggi. Diseñados
-para ser prácticos.
---- BLOCK ---
-Guardabrazos hechos de
-Jaggi, con dedos abiertos
-para trabajos de precisión.
---- BLOCK ---
-Guardabrazos de partes de 
-Baggi. Su tacto fresco ayuda
-a mejorar la concentración.
---- BLOCK ---
-Guardabrazos de partes de 
-Baggi. Evitan que los dedos
-del Artillero se congelen.
---- BLOCK ---
-Guardabrazos creados por un
-herrero inspirado por sus
-viajes al extranjero.
---- BLOCK ---
-Guardabrazos de una tierra
-extranjera. Perfectos para
-armas a distancia.
---- BLOCK ---
-Guardabrazos de partes de
-Arzuros. En los detalles se
-ve el diseño de Yukumo.
---- BLOCK ---
-Guardabrazos de partes de
-Arzuros. Diseñadas para
-Artilleros.
---- BLOCK ---
-Guardabrazos con abrasivo de
-agarre. Su pelaje protege
-manos del frío extremo.
---- BLOCK ---
-Guardabrazos con abrasivo de
-agarre. Su pelaje mantiene
-manos calientes y ágiles.
---- BLOCK ---
-En el país del fuego se
-reciben estos guardabrazos
-con la mayoría de edad.
---- BLOCK ---
-Guardabrazos del país del
-fuego para Artilleros. Los
-detalles son exquisitos.
---- BLOCK ---
-Guardabrazos de partes de
-Qurupeco. Protegen los
-dedos de ataques de fuego.
---- BLOCK ---
-Guardabrazos de partes de
-Qurupeco. Todos admiran
-fascinados a sus dueños.
---- BLOCK ---
-Guardabrazos de partes de
-Qurupeco carmesí. Protegen
-los dedos del trueno.
---- BLOCK ---
-Guardabrazos de partes de
-Qurupeco carmesí. Todos
-admiran a sus dueños.
---- BLOCK ---
-Guardabrazos de partes de
-Ludroth real. El material
-blando es muy cómodo.
---- BLOCK ---
-Guardabrazos de partes de
-Ludroth real. Su fabricación
-lleva meses.
---- BLOCK ---
-Guardabrazos de partes de
-Ludroth purpúreo. El
-material es muy cómodo.
---- BLOCK ---
-Guardabrazos de partes de
-Ludroth purpúreo. Su
-fabricación lleva meses.
---- BLOCK ---
-Guardabrazos de placa de
-Barroth. Dicen que sirven
-para matar bestias.
---- BLOCK ---
-Guardabrazos de placa de
-Barroth. Protegen las manos
-del fuego intenso.
---- BLOCK ---
-Guardabrazos de placa de
-Barroth esmeralda. Sirven
-para matar bestias.
---- BLOCK ---
-Guardabrazos de placa de
-Barroth esmeralda. Protegen
-las manos de fuego intenso.
---- BLOCK ---
-Guardabrazos de piel de
-Gobul. Las espinas parecen
-bastante peligrosas.
---- BLOCK ---
-Guardabrazos de piel de
-Gobul. La armadura de los
-arqueros del este.
---- BLOCK ---
-Guardabrazos de partes de
-Rathalos. Imbuidos con el
-poder del wyvern.
---- BLOCK ---
-Guardabrazos de partes de
-Rathalos. Evocan a los
-grandes wyverns del pasado.
---- BLOCK ---
-Guardabrazos de partes de
-Rathalos celeste. Imbuidos
-con el poder del wyvern.
---- BLOCK ---
-Guardabrazos de partes de
-Rathalos celeste. Evocan a
-los grandes wyverns.
---- BLOCK ---
-Guardabrazos del wyvern
-plateado que surca el cielo.
-Afilan espadas.
---- BLOCK ---
-Guardabrazos de partes de
-Rathalos plateado. Al
-bloquear, saltan chispas.
---- BLOCK ---
-Guardabrazos de partes de
-Rathian. Su brillo verde
-recuerda a la noble reina.
---- BLOCK ---
-Guardabrazos de partes de
-Rathian. Pueden atrapar
-rocas de un volcán.
---- BLOCK ---
-Guardabrazos de partes de
-Rathian rosa. Su brillo
-recuerda a la wyvern reina.
---- BLOCK ---
-Guardabrazos de partes de
-Rathian rosa. Pueden
-atrapar rocas de un volcán.
---- BLOCK ---
-Guardabrazos místicos que
-emiten luz dorada. Quitan
-el aliento.
---- BLOCK ---
-Guardabrazos dorados
-relucientes. La reina lunar
-bendice sus dedos.
---- BLOCK ---
-Cubrecabeza de hueso de
-Lagiacrus. El material les
-confiere una gran fuerza.
---- BLOCK ---
-Cubrecabeza de hueso de
-Lagiacrus. Guardan el punto
-ciego del Artillero.
---- BLOCK ---
-Guardabrazos de partes de
-Lagiacrus marmóreo. Son
-muy protectores.
---- BLOCK ---
-Guardabrazos de hueso de
-Lagiacrus marmóreo. Guardan
-el punto ciego de Artillero.
---- BLOCK ---
-Guardabrazos de Lagiacrus
-del abismo. Pueden detener
-el aliento de un wyvern.
---- BLOCK ---
-Guardabrazos de Lagiacrus
-del abismo. Un favor divino
-fortalece las armas.
---- BLOCK ---
-Guardabrazos de Gigginox
-empleados en siniestros
-rituales sagrados.
---- BLOCK ---
-Guardabrazos de Gigginox
-diseñados para cazar en
-entornos muy hostiles.
---- BLOCK ---
-Guardabrazos de Gigginox
-aterrador empleados en
-siniestros rituales.
---- BLOCK ---
-Guardabrazos de Gigginox
-aterrador diseñados para
-entornos muy hostiles.
---- BLOCK ---
-Guardabrazos de partes de
-Barioth. Protegen las manos
-del viento y la nieve.
---- BLOCK ---
-Guardabrazos de partes de
-Barioth. Ribeteados para
-lograr más fuerza.
---- BLOCK ---
-Guardabrazos de partes de
-Barioth arenoso. Confieren
-una mayor agilidad.
---- BLOCK ---
-Guardabrazos de partes de
-Barioth arenoso. Aportan
-un aire de dignidad.
---- BLOCK ---
-Guardabrazos de concha de
-Diablos. Solo con ellos, un
-cazador rompió sus cuernos.
---- BLOCK ---
-Guardabrazos de concha de
-Diablos. Son muy reputados
-por su gran fuerza.
---- BLOCK ---
-Guardabrazos de concha de
-Diablos negra. Con ellos se
-pueden romper sus cuernos.
---- BLOCK ---
-Guardabrazos de concha de
-Diablos negra. Reputados
-por su gran fuerza.
---- BLOCK ---
-Guardabrazos de concha
-rocosa de Uragaan. Pueden
-taponar fuentes de lava.
---- BLOCK ---
-Guardabrazos de concha
-rocosa de Uragaan. Pueden
-detener una explosión.
---- BLOCK ---
-Guardabrazos de concha
-rocosa de Uragaan acerado.
-Taponan fuentes de lava.
---- BLOCK ---
-Guardabrazos de concha
-rocosa de Uragaan acerado.
-Detienen explosiones.
---- BLOCK ---
-Guardabrazos de
-Agnaktor de lava. Afectan
-a las armas atacantes.
---- BLOCK ---
-Guardabrazos de
-Agnaktor de lava. Para
-preparar flechas rápido.
---- BLOCK ---
-Guardabrazos de
-Agnaktor de hielo. Afectan
-a las armas atacantes.
---- BLOCK ---
-Guardabrazos de
-Agnaktor de hielo. Para
-preparar flechas rápido.
---- BLOCK ---
-Guardabrazos de piel de
-Ceadeus divino. Los codos
-son especialmente duros.
---- BLOCK ---
-Guardabrazos de piel de
-Ceadeus divino que dotan de
-puntería perfecta.
---- BLOCK ---
-Guardabrazos de Ceadeus
-barba dorada. Permiten
-combatir bien bajo el agua.
---- BLOCK ---
-Guardabrazos de Ceadeus
-barba dorada. Nada puede
-impedir al dueño disparar.
---- BLOCK ---
-Guardabrazos de concha de
-gigante de la profundidad.
-Confieren belleza divina.
---- BLOCK ---
-Guardabrazos de concha de
-gigante de la profundidad.
-Hacen hermosa la piel.
---- BLOCK ---
-Guardabrazos de Ceadeus
-barba dorada. Permiten
-combatir bien bajo el agua.
---- BLOCK ---
-Guardabrazos de Ceadeus
-barba dorada. Nada puede
-impedir al dueño disparar.
---- BLOCK ---
-Guardabrazos de partes de
-Jhen Mohran. Con buen agarre
-y aumentan el Afilado.
---- BLOCK ---
-Guardabrazos de partes de
-Jhen Mohran. Absorben el
-retroceso de la Balista.
---- BLOCK ---
-Guardabrazos de partes de
-Jhen Mohran. Con buen agarre
-y aumentan el Afilado.
---- BLOCK ---
-Guardabrazos de partes de
-Jhen Mohran. Protegen los
-brazos de los Artilleros.
---- BLOCK ---
-Guardabrazos de Jhen Mohran
-sagrado. Buscan los puntos
-vulnerables de los wyverns.
---- BLOCK ---
-Guardabrazos de Jhen Mohran
-sagrado. Buscan los puntos
-vulnerables de los wyverns.
---- BLOCK ---
-Guardabrazos de Jhen Mohran
-sagrado. Buscan los puntos
-vulnerables de los wyverns.
---- BLOCK ---
-Guardabrazos de Jhen Mohran
-sagrado. Buscan los puntos
-vulnerables de los wyverns.
---- BLOCK ---
-Guardabrazos imbuidos con
-la furia de un Deviljho, que
-se transmite a las armas.
---- BLOCK ---
-Guardabrazos imbuidos con
-la voracidad de un Deviljho.
-Las armas anhelan la carne.
---- BLOCK ---
-Guardabrazos de partes de
-Alatreon, imbuidos con el
-poder de varias catástrofes.
---- BLOCK ---
-Guardabrazos de partes de
-Alatreon. Sus golpes tienen
-la fuerza de cataclismos.
---- BLOCK ---
-Guardabrazos de concha
-eléctrica de Zinogre. El
-wyvern teme su trueno.
---- BLOCK ---
-Guardabrazos de concha
-eléctrica de Zinogre. El
-wyvern teme su trueno.
---- BLOCK ---
-Guardabrazos de Zinogre
-estigio. Sus ataques son
-como los de dragón anciano.
---- BLOCK ---
-Guardabrazos de Zinogre
-estigio. Sus disparos
-tienen energía de dragón.
---- BLOCK ---
-Modelo perfeccionado de
-guardabrazo exoesquelético.
-Desenfundan más rápido.
---- BLOCK ---
-Guardabrazos creados con la
-última tecnología gremial.
-Blanden mejor las armas.
---- BLOCK ---
-Guardabrazos de partes de
-Duramboros. Un cazador taló
-un árbol con ellos.
---- BLOCK ---
-Guardabrazos de partes de
-Duramboros. Solo un maestro
-cazador puede con su peso.
---- BLOCK ---
-Guardabrazos de Duramboros
-herrumbroso. Permite lanzar
-feroces ataques.
---- BLOCK ---
-Guardabrazos de Duramboros
-herrumbroso. Permite lanzar
-feroces descargas.
---- BLOCK ---
-Brazales negros que parecen
-garras de Nargacuga.
-Blanden fuerte las armas.
---- BLOCK ---
-Guardabrazos oscuros como la
-noche. Las armas empuñadas
-contrastan con la luna.
---- BLOCK ---
-Brazales que parecen garras
-de Nargacuga verdoso y asen
-las armas con fuerza.
---- BLOCK ---
-Guardabrazos oscuros.
-Las armas empuñadas
-contrastan con la luna.
---- BLOCK ---
-Guardabrazos de Nargacuga
-lunar. Las armas dejan un
-rastro de luz de luna.
---- BLOCK ---
-Guardabrazos de Nargacuga
-lunar. Disparos y flechas
-veloces como luz de luna.
---- BLOCK ---
-Guardabrazos de escamas de
-Plesioth. Sus superficies
-curvas bloquean ataques.
---- BLOCK ---
-Guardabrazos de escamas de
-Plesioth y decorados con
-aletas. Impermeables.
---- BLOCK ---
-Guardabrazos de escamas de
-Plesioth. Sus superficies
-curvas bloquean ataques.
---- BLOCK ---
-Guardabrazos de escamas de
-Plesioth y decorados con
-aletas. Impermeables.
---- BLOCK ---
-Guardabrazos con la fuerza
-del Brachydios. Dejan un
-pálido rastro blanco.
---- BLOCK ---
-Guardabrazos con la fuerza
-del Brachydios. Protegen
-las manos del Artillero.
---- BLOCK ---
-Guardabrazos de asesino de
-Miralis funesto, señor del
-averno y la calamidad.
---- BLOCK ---
-Guardabrazos de asesino de
-Miralis funesto, señor del
-averno y la calamidad.
---- BLOCK ---
-Armadura celeste famosa por 
-llevar a su portador a la
-gloria. Se creía mítica.
---- BLOCK ---
-Armadura celeste famosa
-por dar gloria al portador.
-Legado de un conquistador.
---- BLOCK ---
-Guardabrazos hechos de 
-huesos negros desconocidos.
-Pertenecerían a una bestia.
---- BLOCK ---
-Guardabrazos de huesos 
-desconocidos. Su portador
-tendrá impulsos misteriosos.
+DUMMY
+--- BLOCK ---
+Guarda-braços de um metal
+precioso. Sua construção em
+camadas é muito resistente.
+--- BLOCK ---
+Guarda-braços de um mineral
+raro. Proporcionam grande defesa
+por serem metálicos.
+--- BLOCK ---
+Guarda-braços raros feitos de
+partes de inseto. Muitas
+pessoas procuram um par.
+--- BLOCK ---
+Guarda-braços muito raros feitos
+de partes de inseto.
+Peça de coleção.
+--- BLOCK ---
+Guarda-braços com apenas três
+dedos, mas com
+uma força formidável.
+--- BLOCK ---
+Guarda-braços com três protuberâncias
+para três dedos.
+Estranhos, mas poderosos.
+--- BLOCK ---
+Equipamento para os braços feito
+de partes de Jaggi.
+Designado para ser prático.
+--- BLOCK ---
+Guarda-braços feitos de Jaggi,
+com dedos abertos para
+trabalhos de precisão.
+--- BLOCK ---
+Guarda-braços de partes de Baggi.
+Seu toque fresco ajuda
+a melhorar a concentração.
+--- BLOCK ---
+Guarda-braços de partes de
+Baggi. Evitam que os
+dedos do Atirador congelem.
+--- BLOCK ---
+Guarda-braços criados por um
+ferreiro inspirado por suas
+viagens ao estrangeiro.
+--- BLOCK ---
+Guarda-braços de uma terra
+estrangeira. Perfeitos para
+armas à distância.
+--- BLOCK ---
+Guarda-braços de partes de Arzuros.
+Nos detalhes se vê
+o design de Yukumo.
+--- BLOCK ---
+Guarda-braços de partes
+de Arzuros. Designados
+para Atiradores.
+--- BLOCK ---
+Guarda-braços com abrasivo para aderência.
+Seu pelo protege as
+mãos do frio extremo.
+--- BLOCK ---
+Guarda-braços com abrasivo para aderência.
+Seu pelo mantém as
+mãos quentes e ágeis.
+--- BLOCK ---
+No país do fogo,
+estes Guarda-braços são recebidos
+com a maioridade.
+--- BLOCK ---
+Guarda-braços do país do
+fogo para Atiradores. Os
+detalhes são requintados.
+--- BLOCK ---
+Guarda-braços de partes de
+Qurupeco. Protegem os dedos
+de ataques de fogo.
+--- BLOCK ---
+Guarda-braços de partes de
+Qurupeco. Todos admiram
+fascinados seus donos.
+--- BLOCK ---
+Guarda-braços de partes de
+Qurupeco carmesim. Protegem os
+dedos do trovão.
+--- BLOCK ---
+Guarda-braços de partes de
+Qurupeco carmesim. Todos
+admiram seus donos.
+--- BLOCK ---
+Guarda-braços de partes de
+Ludroth real. O material
+macio é muito confortável.
+--- BLOCK ---
+Guarda-braços de partes de
+Ludroth real. Sua
+fabricação leva meses.
+--- BLOCK ---
+Guarda-braços de partes de
+Ludroth purpúreo. O material
+é muito confortável.
+--- BLOCK ---
+Guarda-braços de partes de
+Ludroth purpúreo. Sua
+fabricação leva meses.
+--- BLOCK ---
+Guarda-braços de placa de
+Barroth. Dizem que servem
+para matar bestas.
+--- BLOCK ---
+Guarda-braços de placa de
+Barroth. Protegem as mãos
+do fogo intenso.
+--- BLOCK ---
+Guarda-braços de placa de
+Barroth esmeralda. Servem
+para matar bestas.
+--- BLOCK ---
+Guarda-braços de placa de
+Barroth esmeralda. Protegem as
+mãos do fogo intenso.
+--- BLOCK ---
+Guarda-braços de pele de
+Gobul. Os espinhos
+parecem bastante perigosos.
+--- BLOCK ---
+Guarda-braços de pele de
+Gobul. A armadura dos
+arqueiros do leste.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathalos. Imbuidos com o
+poder do wyvern.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathalos. Evocam os grandes
+wyverns do passado.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathalos celeste. Imbuidos com
+o poder do wyvern.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathalos celeste. Evocam
+os grandes wyverns.
+--- BLOCK ---
+Guarda-braços do wyvern prateado
+que corta os céus.
+Afiam as espadas.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathalos prateado. Ao
+bloquear, faíscas saltam.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathian. Seu brilho verde
+lembra a nobre rainha.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathian. Podem prender rochas
+de um vulcão.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathian rosa. Seu brilho
+lembra a rainha wyvern.
+--- BLOCK ---
+Guarda-braços de partes de
+Rathian rosa. Podem prender
+rochas de um vulcão.
+--- BLOCK ---
+Guarda-braços místicos que
+emitem luz dourada.
+Tirarão seu fôlego.
+--- BLOCK ---
+Guarda-braços dourados reluzentes.
+A rainha lunar
+abençoa seus dedos.
+--- BLOCK ---
+Elmo de osso de
+Lagiacrus. O material lhes
+confere grande força.
+--- BLOCK ---
+Elmo de osso de
+Lagiacrus. Protegem o ponto
+cego do Atirador.
+--- BLOCK ---
+Guarda-braços de partes
+de Lagiacrus marmóreo.
+São muito protetores.
+--- BLOCK ---
+Guarda-braços de osso de
+Lagiacrus marmóreo. Protegem o
+ponto cego do Atirador.
+--- BLOCK ---
+Guarda-braços de Lagiacrus do
+abismo. Podem deter a
+respiração de um wyvern.
+--- BLOCK ---
+Guarda-braços de Lagiacrus do
+abismo. Um favor divino
+fortalece as armas.
+--- BLOCK ---
+Guarda-braços de Gigginox
+usados em sinistros
+rituais sagrados.
+--- BLOCK ---
+Guarda-braços de Gigginox
+projetados para caçar
+em ambientes hostis.
+--- BLOCK ---
+Guarda-braços de Gigginox
+aterrorizante usados em
+sinistros rituais.
+--- BLOCK ---
+Guarda-braços de Gigginox
+aterrorizante projetados para
+ambientes hostis.
+--- BLOCK ---
+Guarda-braços de partes de Barioth.
+Protegem as mãos do
+vento e da neve.
+--- BLOCK ---
+Guarda-braços de partes de
+Barioth. Com bordas reforçadas
+para mais força.
+--- BLOCK ---
+Guarda-braços de partes
+de Barioth arenoso.
+Conferem maior agilidade.
+--- BLOCK ---
+Guarda-braços de partes de
+Barioth arenoso. Dão um
+ar de dignidade.
+--- BLOCK ---
+Guarda-braços de casco de Diablos.
+Somente com eles, um
+caçador quebrou seus chifres.
+--- BLOCK ---
+Guarda-braços de casco de
+Diablos. São muito renomados
+por sua grande força.
+--- BLOCK ---
+Guarda-braços de casco de Diablos
+negro. Com eles é
+possível quebrar seus chifres.
+--- BLOCK ---
+Guarda-braços de casco de
+Diablos negro. Renomados por
+sua grande força.
+--- BLOCK ---
+Guarda-braços de casco rochoso
+de Uragaan. Podem tampar
+fontes de lava.
+--- BLOCK ---
+Guarda-braços de casco rochoso
+de Uragaan. Podem
+deter uma explosão.
+--- BLOCK ---
+Guarda-braços de casco rochoso
+de Uragaan endurecido. Tampam
+fontes de lava.
+--- BLOCK ---
+Guarda-braços de casco
+rochoso de Uragaan
+endurecido. Deter explosões.
+--- BLOCK ---
+Guarda-braços de Agnaktor
+de lava. Afetam
+as armas atacantes.
+--- BLOCK ---
+Guarda-braços de Agnaktor
+de lava. Para
+preparar flechas rapidamente.
+--- BLOCK ---
+Guarda-braços de Agnaktor
+de gelo. Afetam
+as armas atacantes.
+--- BLOCK ---
+Guarda-braços de Agnaktor
+de gelo. Para
+preparar flechas rapidamente.
+--- BLOCK ---
+Guarda-braços de pele de
+Ceadeus divino. Os cotovelos
+são especialmente duros.
+--- BLOCK ---
+Guarda-braços de pele de
+Ceadeus divino que
+conferem mira perfeita.
+--- BLOCK ---
+Guarda-braços de barba dourada
+de Ceadeus. Permitem lutar
+bem debaixo d'água.
+--- BLOCK ---
+Guarda-braços de barba dourada de
+Ceadeus. Nada pode impedir
+o dono de atirar.
+--- BLOCK ---
+Guarda-braços de casco de
+gigante das profundezas.
+Conferem beleza divina.
+--- BLOCK ---
+Guarda-braços de casco de
+gigante das profundezas. Tornam
+a pele bonita.
+--- BLOCK ---
+Guarda-braços de barba dourada
+de Ceadeus. Permitem lutar
+bem debaixo d'água.
+--- BLOCK ---
+Guarda-braços de barba dourada de
+Ceadeus. Nada pode impedir
+o dono de atirar.
+--- BLOCK ---
+Guarda-braços de partes de Jhen
+Mohran. Com boa aderência
+e aumentam o Afiamento.
+--- BLOCK ---
+Guarda-braços de partes de
+Jhen Mohran. Absorvem o
+recuo da Balista.
+--- BLOCK ---
+Guarda-braços de partes de Jhen
+Mohran. Com boa aderência
+e aumentam o Afiamento.
+--- BLOCK ---
+Guarda-braços de partes de
+Jhen Mohran. Protegem os
+braços dos Atiradores.
+--- BLOCK ---
+Guarda-braços de Jhen Mohran
+sagrado. Buscam os pontos
+vulneráveis dos wyverns.
+--- BLOCK ---
+Guarda-braços de Jhen Mohran
+sagrado. Buscam os pontos
+vulneráveis dos wyverns.
+--- BLOCK ---
+Guarda-braços de Jhen Mohran
+sagrado. Buscam os pontos
+vulneráveis dos wyverns.
+--- BLOCK ---
+Guarda-braços de Jhen Mohran
+sagrado. Buscam os pontos
+vulneráveis dos wyverns.
+--- BLOCK ---
+Guarda-braços imbuidos com a fúria
+de um Deviljho, que
+se transmite às armas.
+--- BLOCK ---
+Guarda-braços imbuidos com a voracidade
+de um Deviljho. As
+armas anseiam pela carne.
+--- BLOCK ---
+Guarda-braços de partes de
+Alatreon, imbuidos com o
+poder de várias catástrofes.
+--- BLOCK ---
+Guarda-braços de partes de
+Alatreon. Seus golpes têm
+a força de cataclismos.
+--- BLOCK ---
+Guarda-braços de casco elétrico
+de Zinogre. O wyvern
+teme seu trovão.
+--- BLOCK ---
+Guarda-braços de casco elétrico
+de Zinogre. O wyvern
+teme seu trovão.
+--- BLOCK ---
+Guarda-braços de Zinogre estigio. Seus
+ataques são como os
+de um dragão ancião.
+--- BLOCK ---
+Guarda-braços de Zinogre estigio.
+Seus disparos têm
+energia de dragão.
+--- BLOCK ---
+Modelo aprimorado de
+antebraço exoesquelético. Desembainham
+mais rápido.
+--- BLOCK ---
+Guarda-braços criados com a
+última tecnologia gremial. Empunham
+melhor as armas.
+--- BLOCK ---
+Guarda-braços de partes de
+Duramboros. Um caçador derrubou
+uma árvore com eles.
+--- BLOCK ---
+Guarda-braços de partes de Duramboros.
+Apenas um mestre caçador pode
+lidar com seu peso.
+--- BLOCK ---
+Guarda-braços de Duramboros
+enferrujado. Permitem lançar
+ataques ferozes.
+--- BLOCK ---
+Guarda-braços de Duramboros
+enferrujado. Permitem lançar
+descargas ferozes.
+--- BLOCK ---
+Braçadeiras negras que parecem
+garras de Nargacuga. Empunham
+fortemente as armas.
+--- BLOCK ---
+Guarda-braços escuros como a
+noite. As armas empunhadas
+contrastam com a lua.
+--- BLOCK ---
+Braçadeiras que parecem garras de
+Nargacuga verdejante e seguram
+as armas com firmeza.
+--- BLOCK ---
+Guarda-braços escuros. As
+armas empunhadas contrastam
+com a lua.
+--- BLOCK ---
+Guarda-braços de Nargacuga lunar. As
+armas deixam um rastro
+de luz da lua.
+--- BLOCK ---
+Guarda-braços de Nargacuga lunar.
+Disparos e flechas velozes
+como luz da lua.
+--- BLOCK ---
+Guarda-braços de escamas de
+Plesioth. Suas superfícies
+curvas bloqueiam ataques.
+--- BLOCK ---
+Guarda-braços de escamas de
+Plesioth e decorados
+com barbatanas. Impermeáveis.
+--- BLOCK ---
+Guarda-braços de escamas de
+Plesioth. Suas superfícies
+curvas bloqueiam ataques.
+--- BLOCK ---
+Guarda-braços de escamas de
+Plesioth e decorados
+com barbatanas. Impermeáveis.
+--- BLOCK ---
+Guarda-braços com a força
+do Brachydios. Deixam um
+pálido rastro branco.
+--- BLOCK ---
+Guarda-braços com a força
+do Brachydios. Protegem as
+mãos do Atirador.
+--- BLOCK ---
+Guarda-braços de assassino de
+Miralis funesto, senhor do
+inferno e da calamidade.
+--- BLOCK ---
+Guarda-braços de assassino de
+Miralis funesto, senhor do
+inferno e da calamidade.
+--- BLOCK ---
+Armadura celeste famosa por
+levar seu portador à
+glória. Acreditava-se ser mítica.
+--- BLOCK ---
+Armadura celeste famosa por
+conceder glória ao portador.
+Legado de um conquistador.
+--- BLOCK ---
+Guarda-braços feitos de ossos
+negros desconhecidos. Acredita-se serem
+de uma besta.
+--- BLOCK ---
+Guarda-braços de ossos
+desconhecidos. Seu portador
+terá impulsos misteriosos.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guardabrazos de partes de
-insecto. Resisten hasta una
-carga de wyvern bruto.
+Guarda-braços de partes de inseto.
+Resistem até mesmo a um
+ataque de wyverns brutos.
 --- BLOCK ---
-Guardabrazos de partes de
-insecto. Los usan héroes
-insecto en busca de gloria.
+Guarda-braços de partes de inseto.
+Usados por heróis inseto
+em busca de glória.
 --- BLOCK ---
-Guardabrazos de partes de
-insectos. Sus curvas atraen
-cazadores elegantes.
+Guarda-braços de partes de
+insetos. Suas curvas
+atraem caçadores elegantes.
 --- BLOCK ---
-Guardabrazos de insectos.
-Aportan clase a cualquier
-actividad, hasta la caza.
+Guarda-braços de insetos. Adicionam
+classe a qualquer atividade,
+até mesmo a caça.
 --- BLOCK ---
-Guardabrazos de extrañas
-calabazas. El material se
-endurece con productos.
+Guarda-braços de estranhas abóboras.
+O material se
+endurece com produtos.
 --- BLOCK ---
-Guardabrazos de extrañas
-calabazas. ¡Es increíble
-que sean tan resistentes!
+Guarda-braços de estranhas abóboras.
+É incrível como
+são tão resistentes!
 --- BLOCK ---
-Guardabrazos de restos de un
-artefacto desenterrado cuya
-forma original ha perdido.
+Guarda-braços de restos de
+um artefato desenterrado cuja
+forma original se perdeu.
 --- BLOCK ---
-Guardabrazos de restos de un
-artefacto desenterrado que
-aprovecha sus engranajes.
+Guarda-braços de restos de
+um artefato desenterrado que
+aproveita suas engrenagens.
 --- BLOCK ---
-Guardabrazos de empleada.
-Se dice que se llevaban en
-la corte real.
+Guarda-braços de empregada. Diz-se
+que eram usados
+na corte real.
 --- BLOCK ---
-Guardabrazos de empleada.
-Muchos se obsesionan con
-su perfecto diseño.
+Guarda-braços de empregada. Muitos
+se obsesionam com
+seu design perfeito.
 --- BLOCK ---
-Equipo oficial de montaraz
-Loc Lac. Certificados
-por el Gremio.
+Equipamento oficial de
+montanhista Loc Lac.
+Certificados pelo Gremio.
 --- BLOCK ---
-Equipo oficial de tirador
-Loc Lac. Aspecto ideal
-para una región cálida.
+Equipamento oficial de atirador
+Loc Lac. Ideal para
+uma região quente.
 --- BLOCK ---
-Equipo usado por caballeros
-extranjeros. Adecuado para
-defensores de la ciudad.
+Equipamento usado por cavaleiros
+estrangeiros. Adequado para
+defensores da cidade.
 --- BLOCK ---
-Equipo usado por caballeros
-defensores de la ciudad.
-Los bandidos huyen al verlo.
+Equipamento usado por cavaleiros
+defensores da cidade. Os
+bandidos fogem ao verem.
 --- BLOCK ---
-Equipo para brazos usado por
-empleadas del Gremio. Ideal
-para trabajar en mostrador.
+Equipamento para braços usado por
+empregadas do Gremio. Ideal
+para trabalhar no balcão.
 --- BLOCK ---
-Equipo para brazos usado por
-empleadas del Gremio. Útil
-en oficina y en la jungla.
---- BLOCK ---
-DUMMY
+Equipamento para braços usado por
+empregadas do Gremio. Útil no
+escritório e na selva.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guardabrazos para empleada
-del Gremio de Tanzia. Para
-cazar... y hacer papeleo.
+DUMMY
 --- BLOCK ---
-Guardabrazos de empleada
-del Gremio de Tanzia. El
-material se seca rápido.
+Guarda-braços para empregadas do
+Gremio de Tanzia. Para
+caçar... e fazer papelada.
 --- BLOCK ---
-Brazalete perteneciente a 
-sabio con poderes. Los
-adornos determinan su uso.
+Guarda-braços de empregada do
+Gremio de Tanzia. O
+material seca rapidamente.
+--- BLOCK ---
+Bracelete pertencente a sábio
+com poderes. Os adornos
+determinam seu uso.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---

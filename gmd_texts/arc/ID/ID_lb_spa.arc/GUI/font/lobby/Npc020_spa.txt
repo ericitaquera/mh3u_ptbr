@@ -1,0 +1,132 @@
+TMSG_NPC020_0
+--- BLOCK ---
+TMSG_NPC020_1
+--- BLOCK ---
+TMSG_NPC020_2
+--- BLOCK ---
+TMSG_NPC020_3
+--- BLOCK ---
+TMSG_NPC020_4
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+¿Me darías un nuevo nombre? Me encanta
+que la gente no sepa a qué atenerse.
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 0>
+¡Miau!
+¡Los Felyne también comemos verduras!
+--- BLOCK ---
+<SUBS 0>
+A veces encontramos cosas raras
+cuando aramos los campos...
+--- BLOCK ---
+<SUBS 0>
+¡Es tan caro importar comida que nuestra
+Granja es más importante que nunca!
+--- BLOCK ---
+<SUBS 0>
+¡Hacer grandes esfuerzos con la azada
+es el ejercicio aeróbico perfecto, miau!
+--- BLOCK ---
+<SUBS 0>
+¡Hay que comer verduras! ¡Aportan
+brillo al pelaje y afilan las garras!
+--- BLOCK ---
+<SUBS 0>
+A los Felyne nos gusta estar limpios,
+¡pero me encanta ensuciarme trabajando!
+--- BLOCK ---
+<SUBS 0>
+¡Marramiau, estoy cansado! Pero
+en el buen sentido, miau.
+--- BLOCK ---
+<SUBS 0>
+¡Mira! Es como si la Granja ronroneara
+de alegría... ¡y yo también! ¡Miau!
+--- BLOCK ---
+¡Verduras! ¡Verduras! ¡VERDURAS!
+--- BLOCK ---
+No se vive solo de carne, ¡miau! Cuando
+se puso de moda comer sano, muchos
+Felyne se pasaron a la comida orgánica.
+--- BLOCK ---
+Así que la Granja de la Aldea de Moga
+está libre de químicos y aditivos.
+¡Jamás usamos pesticidas!
+--- BLOCK ---
+Por ello, puede que nuestras verduras no
+sean las más bonitas, pero, sin duda,
+son las más sabrosas. ¡Miau!
+--- BLOCK ---
+Oh, el terremoto... Pasé mucho miedo,
+salí corriendo; pero ¡luego me avergoncé
+de mi actitud! Y aquí estoy, ¡miau!
+--- BLOCK ---
+Para demostrarte que puedes contar
+conmigo, te daré mi tesoro más
+preciado: ¡Pez sushi frrresco!
+--- BLOCK ---
+Que el cachorro del Jefe de la aldea...
+quiero decir, hijo, lo use para generar
+Recursos. ¡Progresaremos mucho!
+--- BLOCK ---
+¡Paz! ¡Paz! ¡¡PAZ!!
+--- BLOCK ---
+¡El Ceadeus se ha ido! Y, con él, los
+terremotos. Podemos dejar de ser gatos
+miedosos y empezar a trabajar con ganas.
+--- BLOCK ---
+Recuerda, cuando necesites verdura
+orgánica sabrosa, ven a vernos. ¡Miau!
+--- BLOCK ---
+¡Miau! ¡Debes de estar muy orgulloso!
+--- BLOCK ---
+¿Umm? ¿Te preocupa aburrirte ahora que
+has vencido al Lagiacrus Marmóreo? Dicen
+que Deviljho ayuda a quien no madruga.
+--- BLOCK ---
+Deberías probar en la granja. Nada mejor
+que mancharte las garras... ¡y quizá
+también mejores tus habilidades de caza! 
+--- BLOCK ---
+Sea como sea, recuerda: cuando necesites
+sabrosas verduras orgánicas, ¡ven aquí!
+¡Miau!
+--- BLOCK ---
+¡Miau, miau, cazador!
+--- BLOCK ---
+¡Verduras! ¡Verduras! ¡VERDURAS!
+--- BLOCK ---
+¡Granjástico!
+--- BLOCK ---
+¡Miaullísimo!
+--- BLOCK ---
+¡El tiempo es perrrfecto!
+--- BLOCK ---
+¡Adiós! ¡Hasta... la próxima!
+--- BLOCK ---
+¡Hasta luego, miau!
+--- BLOCK ---
+¡Buena suerte, miau!
+--- BLOCK ---
+Vale, me llamo así a partir de ahora.
+--- BLOCK ---
+¡Miau! Creo que prefiero el nuevo nombre
+que me has dado.
+--- BLOCK ---
+Qué... talento para poner nombres...
+--- BLOCK ---
+Miau...
+Es un nombre realmente interesante.
+--- BLOCK ---
+Podría ser divertido...
+¿Te apetece cambiarme de nombre?
+--- BLOCK ---
+Pues...
+¿Quieres probar a darme otro nombre?
+--- BLOCK ---

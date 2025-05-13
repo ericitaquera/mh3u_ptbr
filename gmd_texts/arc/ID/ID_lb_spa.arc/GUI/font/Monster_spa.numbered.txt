@@ -1,0 +1,284 @@
+TMSG_EMTYPE
+--- BLOCK [001] ---
+TMSG_EMTYPE_ML
+--- BLOCK [002] ---
+NO_DATA
+--- BLOCK [003] ---
+Rathian
+--- BLOCK [004] ---
+Rathalos
+--- BLOCK [005] ---
+Qurupeco
+--- BLOCK [006] ---
+Gigginox
+--- BLOCK [007] ---
+Barioth
+--- BLOCK [008] ---
+Diablos
+--- BLOCK [009] ---
+Deviljho
+--- BLOCK [010] ---
+Barroth
+--- BLOCK [011] ---
+Uragaan
+--- BLOCK [012] ---
+Jaggi
+--- BLOCK [013] ---
+Jaggia
+--- BLOCK [014] ---
+Gran Jaggi
+--- BLOCK [015] ---
+Baggi
+--- BLOCK [016] ---
+Gran Baggi
+--- BLOCK [017] ---
+Lagiacrus
+--- BLOCK [018] ---
+Ludroth real
+--- BLOCK [019] ---
+Ludroth
+--- BLOCK [020] ---
+Gobul
+--- BLOCK [021] ---
+Agnaktor
+--- BLOCK [022] ---
+Ceadeus
+--- BLOCK [023] ---
+Uroktor
+--- BLOCK [024] ---
+Delex
+--- BLOCK [025] ---
+Epioth
+--- BLOCK [026] ---
+Alatreon
+--- BLOCK [027] ---
+Jhen Mohran
+--- BLOCK [028] ---
+Giggi
+--- BLOCK [029] ---
+Aptonoth
+--- BLOCK [030] ---
+Popo
+--- BLOCK [031] ---
+Rhenoplos
+--- BLOCK [032] ---
+Felyne
+--- BLOCK [033] ---
+Melynx
+--- BLOCK [034] ---
+Pescado
+--- BLOCK [035] ---
+Altaroth
+--- BLOCK [036] ---
+Kelbi
+--- BLOCK [037] ---
+Giggi bolsón
+--- BLOCK [038] ---
+Bnahabra
+--- BLOCK [039] ---
+Bnahabra
+--- BLOCK [040] ---
+Bnahabra
+--- BLOCK [041] ---
+Bnahabra
+--- BLOCK [042] ---
+Roca
+--- BLOCK [043] ---
+Zinogre
+--- BLOCK [044] ---
+Arzuros
+--- BLOCK [045] ---
+Lagombi
+--- BLOCK [046] ---
+Volvidon
+--- BLOCK [047] ---
+Wroggi magnificente
+--- BLOCK [048] ---
+Duramboros
+--- BLOCK [049] ---
+Nibelsnarf
+--- BLOCK [050] ---
+Wroggi
+--- BLOCK [051] ---
+Slagtoth
+--- BLOCK [052] ---
+Gargwa
+--- BLOCK [053] ---
+Qurupeco carmesí
+--- BLOCK [054] ---
+Gigginox aterrador
+--- BLOCK [055] ---
+Barioth arenoso
+--- BLOCK [056] ---
+Barroth esmeralda
+--- BLOCK [057] ---
+Uragaan acerado
+--- BLOCK [058] ---
+Ludroth purpúreo
+--- BLOCK [059] ---
+Agnaktor glacial
+--- BLOCK [060] ---
+Diablos negra
+--- BLOCK [061] ---
+Nargacuga
+--- BLOCK [062] ---
+Nargacuga verdoso
+--- BLOCK [063] ---
+Nargacuga lunar
+--- BLOCK [064] ---
+Rathian rosa
+--- BLOCK [065] ---
+Rathian dorada
+--- BLOCK [066] ---
+Rathalos celeste
+--- BLOCK [067] ---
+Rathalos plateado
+--- BLOCK [068] ---
+Plesioth
+--- BLOCK [069] ---
+Plesioth verde
+--- BLOCK [070] ---
+Lagiacrus marmóreo
+--- BLOCK [071] ---
+Lagiacrus del abismo
+--- BLOCK [072] ---
+Ceadeus barba dorada
+--- BLOCK [073] ---
+Deviljho
+--- BLOCK [074] ---
+Zinogre estigio
+--- BLOCK [075] ---
+Duramboros herrumbroso
+--- BLOCK [076] ---
+Brachydios
+--- BLOCK [077] ---
+Miralis funesto
+--- BLOCK [078] ---
+Bullfango
+--- BLOCK [079] ---
+Anteka
+--- BLOCK [080] ---
+Slagtoth
+--- BLOCK [081] ---
+Roca
+--- BLOCK [082] ---
+Roca
+--- BLOCK [083] ---
+Roca
+--- BLOCK [084] ---
+Roca
+--- BLOCK [085] ---
+Roca
+--- BLOCK [086] ---
+Roca
+--- BLOCK [087] ---
+Jhen Mohran sagrado
+--- BLOCK [088] ---
+NO_DATA
+--- BLOCK [089] ---
+NO_DATA
+--- BLOCK [090] ---
+NO_DATA
+--- BLOCK [091] ---
+NO_DATA
+--- BLOCK [092] ---
+NO_DATA
+--- BLOCK [093] ---
+NO_DATA
+--- BLOCK [094] ---
+NO_DATA
+--- BLOCK [095] ---
+NO_DATA
+--- BLOCK [096] ---
+NO_DATA
+--- BLOCK [097] ---
+NO_DATA
+--- BLOCK [098] ---
+NO_DATA
+--- BLOCK [099] ---
+NO_DATA
+--- BLOCK [100] ---
+NO_DATA
+--- BLOCK [101] ---
+NO_DATA
+--- BLOCK [102] ---
+NO_DATA
+--- BLOCK [103] ---
+NO_DATA
+--- BLOCK [104] ---
+NO_DATA
+--- BLOCK [105] ---
+NO_DATA
+--- BLOCK [106] ---
+NO_DATA
+--- BLOCK [107] ---
+NO_DATA
+--- BLOCK [108] ---
+NO_DATA
+--- BLOCK [109] ---
+NO_DATA
+--- BLOCK [110] ---
+NO_DATA
+--- BLOCK [111] ---
+NO_DATA
+--- BLOCK [112] ---
+NO_DATA
+--- BLOCK [113] ---
+NO_DATA
+--- BLOCK [114] ---
+NO_DATA
+--- BLOCK [115] ---
+NO_DATA
+--- BLOCK [116] ---
+NO_DATA
+--- BLOCK [117] ---
+NO_DATA
+--- BLOCK [118] ---
+NO_DATA
+--- BLOCK [119] ---
+NO_DATA
+--- BLOCK [120] ---
+NO_DATA
+--- BLOCK [121] ---
+NO_DATA
+--- BLOCK [122] ---
+NO_DATA
+--- BLOCK [123] ---
+NO_DATA
+--- BLOCK [124] ---
+NO_DATA
+--- BLOCK [125] ---
+NO_DATA
+--- BLOCK [126] ---
+NO_DATA
+--- BLOCK [127] ---
+NO_DATA
+--- BLOCK [128] ---
+NO_DATA
+--- BLOCK [129] ---
+Invalid Message
+--- BLOCK [130] ---
+WyvPáj
+--- BLOCK [131] ---
+WyvVol
+--- BLOCK [132] ---
+WyvBrt
+--- BLOCK [133] ---
+WyvPsc
+--- BLOCK [134] ---
+Levthn
+--- BLOCK [135] ---
+WyvCol
+--- BLOCK [136] ---
+BstCol
+--- BLOCK [137] ---
+DrgAnc
+--- BLOCK [138] ---
+Lynian
+--- BLOCK [139] ---
+Herbvr
+--- BLOCK [140] ---
+Nptron
+--- BLOCK [141] ---
+Pescad
+--- BLOCK [142] ---

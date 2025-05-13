@@ -1520,7 +1520,7 @@ Aleta Agnaktor+
 --- BLOCK ---
 Aletín Agnaktor
 --- BLOCK ---
-Pico Agnaktor
+Picareta Agnaktor
 --- BLOCK ---
 DUMMY 69
 --- BLOCK ---
@@ -1548,7 +1548,7 @@ Aleta Agnakt-G+
 --- BLOCK ---
 Aletín Agnakt-G
 --- BLOCK ---
-Pico de Agnakt-G
+Picareta de Agnakt-G
 --- BLOCK ---
 DUMMY 71
 --- BLOCK ---

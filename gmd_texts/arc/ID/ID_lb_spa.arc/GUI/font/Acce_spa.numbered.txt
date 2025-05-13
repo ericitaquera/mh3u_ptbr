@@ -1,0 +1,24 @@
+TMSG_ACCE
+--- BLOCK [001] ---
+(Nada)
+--- BLOCK [002] ---
+T. peón
+--- BLOCK [003] ---
+T. alfil
+--- BLOCK [004] ---
+T. caballo
+--- BLOCK [005] ---
+T. torre
+--- BLOCK [006] ---
+T. reina
+--- BLOCK [007] ---
+T. rey
+--- BLOCK [008] ---
+T. dragón
+--- BLOCK [009] ---
+T. héroe
+--- BLOCK [010] ---
+T. leyenda
+--- BLOCK [011] ---
+T. creador
+--- BLOCK [012] ---
