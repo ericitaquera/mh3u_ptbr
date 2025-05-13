@@ -35,18 +35,18 @@ Knowing that, we spare the "header" in a file and the text in another one...
   <img src="./images/example2.png" alt="example2.png">
 </div>
 
-... replacing the "0x00" bytes by "--- BLOCK ---\n" placeholder string.
+... replacing the "0x00" bytes by **"--- BLOCK ---\n"** placeholder string.
 
 <div style="background-color: #ffffff; display: inline-block; padding: 4px;">
   <img src="./images/example3.png" alt="example3.png">
 </div>
 
-After editing the .txt with translated text, it´s just a matter of join the header and txt replacing
-"--- BLOCK ---\n" string by "0x00".
+After editing the .txt with translated text, it´s just a matter of joining the header and txt back together
+replacing the "--- BLOCK ---\n" placeholder string by "0x00".
 
 ---
 
-## 📦 `.gmd` File names
+## 📦 `.gmd` File naming
 
 ---
 The gmd files with same names are actually the same file repeated across several directories. Ex:
