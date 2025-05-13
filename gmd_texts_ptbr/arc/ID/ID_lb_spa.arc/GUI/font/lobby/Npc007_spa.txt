@@ -126,15 +126,15 @@ Oh, hmmm.
 --- BLOCK ---
 Quer matar monstros à
 distância? Aqui está sua
-amiga, a Besta!
+amiga, a Balestra!
 --- BLOCK ---
-As Bestas são muito diferentes das
+As Balestras são muito diferentes das
 armas corpo a corpo. Poderia completar
 uma missão sem sofrer nenhum dano!
 --- BLOCK ---
 Mantenha a calma e
 mire. Se quiser, pode
-usar a Besta.
+usar a Balestra.
 --- BLOCK ---
 Quando você se acostumar com a
 mira, poderá atirar em qualquer lugar!
@@ -261,8 +261,8 @@ fornece! SHHH! O Golpe carregado da
 minha Grande espada atravessa suas escamas!
 --- BLOCK ---
 O wyvern cambaleia. Todos enlouquecem!
-RAT-TAT-TAT! Atiro na besta
-com minha Besta perfurante!
+RAT-TAT-TAT! Atiro na fera
+com minha Balestra perfurante!
 --- BLOCK ---
 Depois faço um ataque com a
 Lança! SNIKT! Pegue isso, wyvern!

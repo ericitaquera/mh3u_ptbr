@@ -34,7 +34,7 @@ def preview_txt_match(txt_file, search_string):
 def search_gmd_files(search_bytes, directory, search_string):
     for root, _, files in os.walk(directory):
         for filename in files:
-            if filename.lower().endswith(".gmd"):
+            if filename.lower().endswith((".gmd", ".qtds")):
                 filepath = os.path.join(root, filename)
                 try:
                     with open(filepath, "rb") as f:
@@ -63,7 +63,7 @@ def main():
         sys.exit(1)
 
     search_bytes = get_search_bytes(search_string)
-    print(search_bytes)
+    #print(search_bytes)
     #search_bytes=b'S\x47\x72\x61\x6E\x6A\x61\x00'
     #print(search_bytes)
     #input()

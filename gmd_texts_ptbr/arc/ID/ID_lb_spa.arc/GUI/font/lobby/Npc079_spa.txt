@@ -85,19 +85,19 @@ uma Flauta, o efeito e
 a duração são muito aumentados.
 --- BLOCK ---
 Se quer combate à distância, pense
-em uma Besta leve. Com elas,
+em uma Balestra leve. Com elas,
 se moverá rápido e causará caos.
 --- BLOCK ---
-A Besta leve tem um modo de
+A Balestra leve tem um modo de
 Disparo rápido. As balas não causam
 tanto dano, mas você dispara várias!
 --- BLOCK ---
-A Besta pesada é um pouco difícil de manejar,
+A Balestra pesada é um pouco difícil de manejar,
 mas tem uma grande potência de fogo.
 Não encontrará melhor qualidade-preço.
 --- BLOCK ---
 Usando o modo Tiro agachado de
-uma Besta pesada, pode disparar alguns
+uma Balestra pesada, pode disparar alguns
 tipos de munição sem recarregar. Uau!
 --- BLOCK ---
 Sei que os Arcos estão muito vistos.

@@ -105,7 +105,7 @@ Estende o tempo
 de invulnerabilidade
 ao levantar.
 --- BLOCK ---
-Aumenta o dano de Besta,
+Aumenta o dano de Balestra,
 mas também a Dispersão.
 --- BLOCK ---
 Reforça os chutes.

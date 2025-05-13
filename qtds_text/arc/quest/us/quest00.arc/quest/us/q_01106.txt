@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Sunken Treasures
+TITLES_1=Trésors immergés
+TITLES_2=Versunkene Schätze
+TITLES_3=Tesori degli abissi
+TITLES_4=Tesouros afundados
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 8 Red Coral Stones
+OBJECTIVES_1=Livrer 8 coraux rouges
+OBJECTIVES_2=Besorge
+8 Rote Korallensteine.
+OBJECTIVES_3=Consegna 8 Coralli rossi
+OBJECTIVES_4=Entr.r 8 Corais vermelhos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Lovesick Kid
+CLIENTS_1=Amoureux transi
+CLIENTS_2=Liebeskranker Junge
+CLIENTS_3=Innamorato
+CLIENTS_4=Garodo doente de amor
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I promised my lady a Red Coral
+Stone hair clip... but water
+scares me! Now I'm up Dung
+Creek without a paddle. Dive
+down and get me some Red Coral
+Stones so she won't find out
+I'm a fraidy Felyne!
+DESCRIPTIONS_1=J'ai promis à ma fiancée une
+barrette en corail rouge, mais
+j'ai peur de l'eau ! Plongez
+et ramenez-moi du corail rouge
+pour qu'elle ne découvre pas
+que je suis un Felyne
+peureux !
+DESCRIPTIONS_2=Ich versprach meiner Lady eine
+Haarspange aus Roten Korallen-
+steinen, doch ich habe Angst
+vor Wasser! Ich bin ein Idiot!
+Besorgst du mir Rote Korallen-
+steine? Sie soll nicht merken,
+dass ich ein Angsthase bin!
+DESCRIPTIONS_3=Sono nei guai fino al collo.
+Ho promesso un fermacapelli
+di Corallo rosso al mio amore,
+ma ho paura dell'acqua!
+Prendimi del Corallo rosso
+dal fondale: non voglio che
+mi creda un fifone!
+DESCRIPTIONS_4=Prometi pra minha senhora um
+broche de Coral Vermelho… mas
+tenho pavor d’água! Agora tô
+num beco sem saída! Mergulha
+lá e pega uns Corais Vermelhos
+pra mim — e não conta pra ela
+que eu sou um Felyne medroso!

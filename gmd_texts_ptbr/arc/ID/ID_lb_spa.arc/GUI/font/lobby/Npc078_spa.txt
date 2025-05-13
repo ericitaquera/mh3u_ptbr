@@ -120,9 +120,9 @@ As lanças têm boa precisão, mas
 seus golpes não são tão fortes.
 A chave é acertar repetidamente.
 --- BLOCK ---
-Se seu medidor de Afiamento ficar vermelho, não
-poderá disparar conchas com uma Lança pistola. Não
-se esqueça de sua Pedra de afiar.
+Se seu medidor de Afiamento ficar vermelho,
+não poderá disparar conchas com uma Lança
+pistola. Não se esqueça de sua Pedra de afiar.
 --- BLOCK ---
 Os frascos para as Machadinhas são uma
 grande vantagem para os caçadores. Descubra qual
@@ -140,7 +140,7 @@ Se tiver uma Flauta, precisará
 da habilidade Mestre flauta. Isso
 tornará seu som mais eficaz.
 --- BLOCK ---
-Cada tipo de munição de Besta tem
+Cada tipo de munição de Balestra tem
 um alcance ideal em que funciona
 melhor. Alcance o alvo, vamos lá.
 --- BLOCK ---
@@ -148,19 +148,19 @@ Se estiver usando o Arco, pode carregar
 e trocar Revestimentos durante o movimento.
 Não há motivo para ficar parado!
 --- BLOCK ---
-É possível remover os limitadores das Bestas
-de Raridade +6 ou superior. Assim,
-aumenta a munição que pode levar.
+É possível remover os limitadores das
+Balestras de Raridade +6 ou superior.
+Assim, aumenta a munição que pode levar.
 --- BLOCK ---
-Se usar uma Besta leve e remover
-o limitador, a munição permanece carregada mesmo
-ao trocar o tipo de munição.
+Se usar uma Balestra leve e remover o
+limitador, a munição permanece carregada
+mesmo ao trocar o tipo de munição.
 --- BLOCK ---
 Ah, e se pressionar os botões X
 e A, recarregará todos os tipos de
 munição de uma vez. Incrível, não?
 --- BLOCK ---
-Remover o limitador de uma Besta leve
+Remover o limitador de uma Balestra leve
 aumenta seu Ataque. Além disso, pode
 carregar Fogo de wyvern, se preferir.
 --- BLOCK ---
@@ -191,9 +191,9 @@ Uma Esfera de armadura avançada!
 É um tipo de Esfera
 de armadura rara, sabia?
 --- BLOCK ---
-Ah, e agora que conquistou suas insígnias, farei
-uma Armadura de alto nível para você. É
-melhor do que a porcaria que usa.
+Ah, e agora que conquistou suas insígnias,
+farei uma Armadura de alto nível para você.
+É melhor do que a porcaria que usa.
 --- BLOCK ---
 Mas terá que trazer partes de
 monstros de qualidade para que eu
@@ -246,10 +246,10 @@ materiais de monstros de nível G.
 --- BLOCK ---
 Ah, sim. Quase esqueci. Agora que
 é um Mestre caçador, posso remover
-os limitadores de suas Bestas.
+os limitadores de suas Balestras.
 --- BLOCK ---
 A opção Sem limitador abre um
-novo leque de propriedades da Besta.
+novo leque de propriedades da Balestra.
 --- BLOCK ---
 Anotei tudo isso em suas Notas
 de caçador... caso esqueça de algo.

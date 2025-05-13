@@ -1087,9 +1087,9 @@ Martelo
 --- BLOCK ---
 Lança
 --- BLOCK ---
-Besta leve
+Balestra leve
 --- BLOCK ---
-Besta pesada
+Balestra pesada
 --- BLOCK ---
 Machado espada
 --- BLOCK ---

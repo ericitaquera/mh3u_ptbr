@@ -243,7 +243,7 @@ velocidade de recarga.
 <COLO 05>(Somente Atirador)
 --- BLOCK ---
 Habilidades que permitem carregar mais
-munição de Bestas e
+munição de Balestras e
 Lanças de fogo, e
 melhoram nível de ataques
 de carga para Arcos.
@@ -251,12 +251,12 @@ de carga para Arcos.
 Habilidades que permitem disparar
 um tiro a mais
 com o disparo rápido
-de uma Besta leve.
-<COLO 05>(Apenas Besta)
+de uma Balestra leve.
+<COLO 05>(Apenas Balestra)
 --- BLOCK ---
 Habilidades que afetam o
 recuo ao disparar.
-<COLO 05>(Apenas Besta)
+<COLO 05>(Apenas Balestra)
 --- BLOCK ---
 Habilidades que afetam a
 Desvio ao mirar.
@@ -280,16 +280,16 @@ leque. <COLO 05>(Apenas Artilheiro)
 --- BLOCK ---
 Habilidades que permitem carregar
 os disparos normais.
-<COLO 05>(Apenas Besta)
+<COLO 05>(Apenas Balestra)
 --- BLOCK ---
 Habilidades que permitem
 carregar disparos
 perfurantes. <COLO
-05>(Apenas Besta)
+05>(Apenas Balestra)
 --- BLOCK ---
 Habilidades que permitem carregar
 os disparos de Dispersão.
-<COLO 05>(Apenas Besta)
+<COLO 05>(Apenas Balestra)
 --- BLOCK ---
 Habilidades que permitem carregar
 os disparos explosivos.
@@ -301,7 +301,7 @@ os disparos em grupo.
 --- BLOCK ---
 Habilidades que permitem carregar
 os tiros cortantes.
-<COLO 05>(Apenas Besta)
+<COLO 05>(Apenas Balestra)
 --- BLOCK ---
 Habilidades que permitem carregar
 os tiros de saque.
@@ -535,7 +535,7 @@ Afiamento. <COLO 05>(Apenas Esgrimista)
 --- BLOCK ---
 Habilidades que afetam a
 potência de vários tipos
-de munição de Besta
+de munição de Balestra
 e flechas de Arco.
 <COLO 05>(Apenas Artilheiro)
 --- BLOCK ---

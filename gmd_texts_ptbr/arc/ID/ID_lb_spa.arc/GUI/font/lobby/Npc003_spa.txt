@@ -1,4 +1,4 @@
-﻿TMSG_NPC003_0
+TMSG_NPC003_0
 --- BLOCK ---
 TMSG_NPC003_1
 --- BLOCK ---
@@ -634,7 +634,7 @@ e tua reputação vão DECOLAR.
 Teoricamente!
 --- BLOCK ---
 A única missão que tenho para
-ti por enquanto é... conseguir umas
+ti por enquanto é... conseguir uns
 cogumelos. Achas que... serás capaz?
 --- BLOCK ---
 É que não CONFIAM em nós?
@@ -651,7 +651,7 @@ E uma vez que você tem uma missão, não é
 permitido voltar para casa. Se quiser
 entrar, venha me ver e cancelo a missão.
 --- BLOCK ---
-Tem tudo? Então assine a
+Entendeu? Então assine a
 missão e siga para a
 ponte da esquerda para partir.
 --- BLOCK ---
@@ -681,7 +681,7 @@ Aquela angustiante restrição de tempo! Se
 você desmaiar três vezes, já acham você
 fraco demais! É cruel, eu sei.
 --- BLOCK ---
-EL CASO ES QUE...
+O PROBLEMA É...
 --- BLOCK ---
 Se as pessoas admiram os caçadores,
 é porque supostamente vocês podem lidar
@@ -696,9 +696,9 @@ Desta vez temos um monte de trabalhos
 para você. Pode fazer na ordem
 que preferir, mas na minha opinião...
 --- BLOCK ---
-Eu iria caçar Jaggia! Mas não
+Eu iria caçar Jaggias! Mas não
 se empolgue. Leve Poções, Pedras de
-amolar e munição, se usar Besta.
+amolar e munição, se usar Balestra.
 --- BLOCK ---
 Também tem a de Tripas de
 monstro. É quase toda subaquática, então

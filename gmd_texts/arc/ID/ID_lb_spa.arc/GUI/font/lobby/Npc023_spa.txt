@@ -1,0 +1,84 @@
+TMSG_NPC023_0
+--- BLOCK ---
+TMSG_NPC023_1
+--- BLOCK ---
+TMSG_NPC023_2
+--- BLOCK ---
+TMSG_NPC023_3
+--- BLOCK ---
+TMSG_NPC023_4
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+<SUBS 0>
+--- BLOCK ---
+*Gruñido*
+--- BLOCK ---
+*Ronquido, ronquido, sorbo*
+*Oink-oink... sorbo*
+--- BLOCK ---
+*Gruñido. Ronquido*
+--- BLOCK ---
+*Ñam, ñam, ronquido*
+*Oink, oink, oink*
+--- BLOCK ---
+*Oink, oink, oink*
+--- BLOCK ---
+*Ronquido. Ronquido. Sorbo*
+*Oink-oink... chillido*
+--- BLOCK ---
+*¡Gruñido! ¡Chillido!*
+--- BLOCK ---
+*¡Ronquido! ¡Si-si-silbido!*
+*¡Gruñido ronquido gruñido!*
+--- BLOCK ---
+*Ronquido ronquido*
+*Gruñido*
+--- BLOCK ---
+*¡Oink-oink! ¡Gruñido! ¡Roonquido!*
+*Gruñido gruñido gruñido*
+--- BLOCK ---
+*Gruñido gruñido*
+*Ronquido*
+--- BLOCK ---
+*¡Chillido! ¡Ronquido!*
+*Gruñido*
+--- BLOCK ---
+*Gruñido*
+--- BLOCK ---
+*Ronquido*
+--- BLOCK ---
+*Miaaaau*
+--- BLOCK ---
+*Ronquido*
+--- BLOCK ---
+*Gruñido largo*
+--- BLOCK ---
+*Ooooink*
+--- BLOCK ---
+*Ronquido largo*
+--- BLOCK ---
+*Oink oink*
+--- BLOCK ---
+*Chillido, chillido, sorbo*
+--- BLOCK ---
+*Ronquido*
+--- BLOCK ---
+*Gruñido, gruñido, gruñido, gruñido*
+--- BLOCK ---
+*Oink, oink, oink*
+--- BLOCK ---
+*Gruñido*
+--- BLOCK ---
+*Gruñido, gruñido, gruñido*
+--- BLOCK ---
+*Gruñido*
+--- BLOCK ---

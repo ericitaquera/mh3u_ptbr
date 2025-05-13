@@ -44,9 +44,9 @@ Espadas Gêmeas
 --- BLOCK ---
 Espada Leve
 --- BLOCK ---
-Besta
+Balestra
 --- BLOCK ---
-Besta Pesada
+Balestra Pesada
 --- BLOCK ---
 Lança-granadas
 --- BLOCK ---

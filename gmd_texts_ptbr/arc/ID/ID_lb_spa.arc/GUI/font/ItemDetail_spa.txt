@@ -429,7 +429,7 @@ em monstros vulneráveis ao
 gelo. Disp. máx. 60.
 --- BLOCK ---
 Munição misteriosa que não
-funciona em Bestas normais.
+funciona em Balestras normais.
 Disp. máx. 3.
 --- BLOCK ---
 Munição que restaura um pouco
@@ -1157,11 +1157,11 @@ um dragão que outrora
 vagava por estas terras.
 --- BLOCK ---
 Usado para fazer munição
-de Besta. Com explosivo,
+de Balestra. Com explosivo,
 os tiros se expandem.
 --- BLOCK ---
 Usado para fazer munição
-de Besta. Com explosivo,
+de Balestra. Com explosivo,
 os tiros explodem.
 --- BLOCK ---
 As impurezas acumuladas ao
@@ -1642,7 +1642,7 @@ DUMMY 41
 --- BLOCK ---
 Colmilho afiado de um
 wyvern pássaro. Usado como
-munição para a Besta.
+munição para a Balestra.
 --- BLOCK ---
 Pele durável e elegante de
 um Gran Jaggi. O coloca
@@ -3780,7 +3780,7 @@ Bomba barril grande aprimorada
 (como Bomba barril grande+).
 Submersível. <COLO 05>(Provisionamento)
 --- BLOCK ---
-Munição para Besta
+Munição para Balestra
 Pesada Montada.
 <COLO 05>(Suprimento)
 --- BLOCK ---

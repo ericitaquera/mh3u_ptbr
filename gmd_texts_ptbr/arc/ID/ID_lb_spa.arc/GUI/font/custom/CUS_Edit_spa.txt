@@ -382,7 +382,7 @@ a barra de itens para examiná-los.
 --- BLOCK ---
 Toque nas setas para cima e para baixo
 deste painel para visualizar a munição da
-sua Besta e os revestimentos do Arco.
+sua Balestra e os revestimentos do Arco.
 --- BLOCK ---
 Toque neste painel para ver uma lista
 dos itens que você tem na

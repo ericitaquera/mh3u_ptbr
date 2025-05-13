@@ -1,0 +1,84 @@
+TMSG_NPC023_0
+--- BLOCK [001] ---
+TMSG_NPC023_1
+--- BLOCK [002] ---
+TMSG_NPC023_2
+--- BLOCK [003] ---
+TMSG_NPC023_3
+--- BLOCK [004] ---
+TMSG_NPC023_4
+--- BLOCK [005] ---
+<SUBS 1>
+--- BLOCK [006] ---
+<SUBS 3>
+--- BLOCK [007] ---
+<SUBS 3>
+--- BLOCK [008] ---
+<SUBS 2>
+--- BLOCK [009] ---
+<SUBS 0>
+--- BLOCK [010] ---
+<SUBS 0>
+--- BLOCK [011] ---
+*Grunhido*
+--- BLOCK [012] ---
+*Ronco, ronco, gole*
+*Oink-oink... gole*
+--- BLOCK [013] ---
+*Grunhido. Ronco*
+--- BLOCK [014] ---
+*Nham, nham, ronco*
+*Oink, oink, oink*
+--- BLOCK [015] ---
+*Oink, oink, oink*
+--- BLOCK [016] ---
+*Ronco. Ronco. gole*
+*Oink-oink... guincho*
+--- BLOCK [017] ---
+*¡Grunhido! ¡Guincho!*
+--- BLOCK [018] ---
+*¡Ronco! ¡A-a-assovio!*
+*¡Grunhido ronco Grunhido!*
+--- BLOCK [019] ---
+*Ronco ronco*
+*Grunhido*
+--- BLOCK [020] ---
+*¡Oink-oink! ¡Grunhido! ¡Roonquido!*
+*Grunhido Grunhido Grunhido*
+--- BLOCK [021] ---
+*Grunhido Grunhido*
+*Ronco*
+--- BLOCK [022] ---
+*¡Guincho! ¡Ronco!*
+*Grunhido*
+--- BLOCK [023] ---
+*Grunhido*
+--- BLOCK [024] ---
+*Ronco*
+--- BLOCK [025] ---
+*Miaaaau*
+--- BLOCK [026] ---
+*Ronco*
+--- BLOCK [027] ---
+*Grunhido largo*
+--- BLOCK [028] ---
+*Ooooink*
+--- BLOCK [029] ---
+*Ronco largo*
+--- BLOCK [030] ---
+*Oink oink*
+--- BLOCK [031] ---
+*Guincho, guincho, gole*
+--- BLOCK [032] ---
+*Ronco*
+--- BLOCK [033] ---
+*Grunhido, Grunhido, Grunhido, Grunhido*
+--- BLOCK [034] ---
+*Oink, oink, oink*
+--- BLOCK [035] ---
+*Grunhido*
+--- BLOCK [036] ---
+*Grunhido, Grunhido, Grunhido*
+--- BLOCK [037] ---
+*Grunhido*
+--- BLOCK [038] ---

@@ -2364,7 +2364,7 @@ lutou com um e salvou
 uma criança. Saque: Fígado
 rosa, Crânio gigante, etc.
 --- BLOCK ---
-Bestas ursinas de pele azul.
+Feras ursinas de pele azul.
 Rondam em busca de
 mel e peixes saborosos.
 Ainda não se sabe
@@ -2382,13 +2382,13 @@ Suas alegres penas são
 presenteadas. Saque: Pó de
 vida, Gaita Qurupeco, etc.
 --- BLOCK ---
-Bestas marinhas da Costa
+Feras marinhas da Costa
 de Moga. A Frota
 de caça assegura ter
 capturado uma. Saque: Presa
 fortuna, Óleo antigo, etc.
 --- BLOCK ---
-Bestas marinhas roxas, vivem junto
+Feras marinhas roxas, vivem junto
 a Moga. A Frota de
 caça jura que quase capturou
 uma, haha! Saque: Presa
@@ -2502,7 +2502,7 @@ prefere azul ou vermelho?
 Ainda não se sabe
 quais itens podem deixar.
 --- BLOCK ---
-Bestas de aço, de cheiro
+Feras de aço, de cheiro
 fedorento e nocivo. O mineral
 que as cobre é muito
 precioso. Ainda não se sabe

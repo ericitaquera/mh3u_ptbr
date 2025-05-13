@@ -185,7 +185,7 @@ sendo arrastado por um feitiço.
 enlouquecerá as funções elementares de sua
 arma. Monitore sua Resistência ao dragão!
 --- BLOCK ---
-Existem Bestas-leves com
+Existem Balestras-leves com
 uma função curiosa
 chamada Tiro rápido.
 --- BLOCK ---
@@ -283,7 +283,7 @@ daqui! Sou quem fabrica todo
 o equipamento vendido por aqui!
 --- BLOCK ---
 Espadas capazes de cortar em dois
-de uma vez! Bestas mais precisas
+de uma vez! Balestras mais precisas
 do mundo! E que armaduras!
 --- BLOCK ---
 Se me trouxer os materiais, fabrico o

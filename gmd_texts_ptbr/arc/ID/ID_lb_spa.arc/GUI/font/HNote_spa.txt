@@ -637,7 +637,7 @@ produzido em um órgão em
 sua garganta. Se for destruído,
 perderão a habilidade de cuspir.
 --- BLOCK ---
-Bestas que habitam florestas e
+Balestras que habitam florestas e
 montanhas, normalmente úmidas. Conhecidos por
 pescar e ficar de
 pé para colher mel,
@@ -645,7 +645,7 @@ suas garras grossas e
 antebraços duros infligem golpes
 fortes em seus inimigos.
 --- BLOCK ---
-Bestas de presas com pele quente
+Feras de presas com pele quente
 e grossas camadas de gordura
 que lhes permitem sobreviver em
 climas gelados. Apesar de herbívoros,
@@ -653,7 +653,7 @@ alguns Lagombi usam sua audição
 e habilidade de deslizar sobre
 o gelo para capturar presas.
 --- BLOCK ---
-Bestas de presas com carapaças
+Feras de presas com carapaças
 vermelhas grossas resistentes à lava.
 Seu corpo redondo é ideal
 para rolar em terrenos quentes
@@ -1027,7 +1027,7 @@ Informações básicas
 --- BLOCK ---
 Armas corpo a corpo
 --- BLOCK ---
-Bestas
+Balestras
 --- BLOCK ---
 Arcos
 --- BLOCK ---

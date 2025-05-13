@@ -64,7 +64,7 @@ criar medicamentos. Consiga-os!
 cru, você vai recuperar sua Saúde. Uma
 delícia se você estiver em apuros!
 --- BLOCK ---
-<SUBS 0>Crie munição para Besta
+<SUBS 0>Crie munição para Balestra
 com frutas ou peixes quando
 estiver com pouca munição.
 --- BLOCK ---
@@ -305,7 +305,7 @@ de cabeça quando coloco um
 Cristal Gelo na boca. Ai...
 --- BLOCK ---
 A equipe forense da Guilda pode saber
-o tipo de projétil de Besta usado,
+o tipo de projétil de Balestra usado,
 analisando a Carapaça de osso gasta!
 --- BLOCK ---
 <SUBS 0>Se uma pessoa surda como
@@ -493,7 +493,7 @@ sobre itens novos se você não
 vem me ver a cada hora?
 --- BLOCK ---
 Tenho o sonho de todo Atirador:
-um arsenal de munição de Besta!
+um arsenal de munição de Balestra!
 Até um Espadachim mudaria de especialidade.
 --- BLOCK ---
 E também tenho meu

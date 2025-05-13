@@ -337,7 +337,7 @@ Como são descobertos? Sendo observador.
 Uma arma branca fica levemente suspensa
 ao atingir um ponto fraco.
 --- BLOCK ---
-A Besta gera mais faíscas ao
+A Balestra gera mais faíscas ao
 impacto.
 --- BLOCK ---
 Mas mesmo que você saiba qual é a área
@@ -973,13 +973,13 @@ ganhar a vida!
 Parece que a Guilda finalmente
 ouviu nossos pedidos.
 --- BLOCK ---
-Menos mal que voltamos aos negócios o
+Menos mal que voltamos aos negócios, o
 acampamento base está indo bem. Você deve
 fazer algum trabalho para a Guilda.
 --- BLOCK ---
 A menina que trabalha na barraca da missão
 queria falar com você. Embora que,
-Cuidado: ela pode ser dura de roer.
+cuidado: ela pode ser dura de roer.
 --- BLOCK ---
 Você terá que provar seu valor e ganhar
 respeito dela para que ela lhe dê

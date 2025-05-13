@@ -114,46 +114,46 @@ for possível bloquear e a
 arma estiver à mão).
 --- BLOCK ---
 Acelera ligeiramente a recarga de
-Besta e a carga
+Balestra e a carga
 de revestimentos de Arco.
 --- BLOCK ---
 Acelera a recarga de
-Besta e carrega automaticamente
+Balestra e carrega automaticamente
 os revestimentos de Arco.
 --- BLOCK ---
 Acelera muito a recarga de
-Besta e carrega automaticamente
+Balestra e carrega automaticamente
 os revestimentos de Arco.
 --- BLOCK ---
 Retarda ligeiramente a recarga de
-Besta e a carga
+Balestra e a carga
 de revestimentos de Arco.
 --- BLOCK ---
 Retarda a recarga de
-Besta e a carga
+Balestra e a carga
 de revestimentos de Arco.
 --- BLOCK ---
 Retarda muito a recarga de
-Besta e a carga
+Balestra e a carga
 de revestimentos de Arco.
 --- BLOCK ---
 Reduz um pouco o
-recuo da Besta.
+recuo da Balestra.
 --- BLOCK ---
 Reduz o recuo
-da Besta.
+da Balestra.
 --- BLOCK ---
 Reduz muito o
-recuo da Besta.
+recuo da Balestra.
 --- BLOCK ---
 Aumenta um pouco o
-recuo da Besta.
+recuo da Balestra.
 --- BLOCK ---
 Aumenta o recuo
-da Besta.
+da Balestra.
 --- BLOCK ---
 Aumenta muito o
-recuo da Besta.
+recuo da Balestra.
 --- BLOCK ---
 Aumenta a potência de disparos
 normais e flechas rápidas.
@@ -513,7 +513,7 @@ em ações que requerem
 consumo contínuo (como correr).
 --- BLOCK ---
 Aumenta a capacidade de munição de
-Bestas e Lanças pistola e
+Balestras e Lanças pistola e
 o ataque carregado em Arcos.
 --- BLOCK ---
 Reduz a Desvio

@@ -2062,7 +2062,7 @@ Geleia real
 --- BLOCK ---
 Cogumelo especial
 --- BLOCK ---
-Cogumelo selecto
+Cogumelo seleto
 --- BLOCK ---
 Cogumelo maduro
 --- BLOCK ---
@@ -2134,7 +2134,7 @@ Bolsa secreta
 --- BLOCK ---
 Bolota redonda
 --- BLOCK ---
-Estômago selecto
+Estômago seleto
 --- BLOCK ---
 Estômago de luz
 --- BLOCK ---
@@ -2524,7 +2524,7 @@ Wyverns dentados 1
 --- BLOCK ---
 Wyverns dentados 2
 --- BLOCK ---
-Bestas de presas
+Feras de presas
 --- BLOCK ---
 Mensagem inválida
 --- BLOCK ---
