@@ -20,6 +20,34 @@ A `.gmd` file consists of two main parts:
    - Each block is split by `0x00` in the binary file.
    - Line breaks are represented by `0x0D 0x0A`.
 
+**Example**:
+
+For file "Npc001_spa.gmd, we see the last "0x12" byte is at offset 4E. From there, we have some UTF-8
+encoded text strings separated in "blocks" delimited by byte "0x00".
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example1.png" alt="example1.png">
+</div>
+
+Knowing that, we spare the "header" in a file and the text in another one...
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example2.png" alt="example2.png">
+</div>
+
+... replacing the "0x00" bytes by "--- BLOCK ---\n" placeholder string.
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example3.png" alt="example3.png">
+</div>
+
+After editing the .txt with translated text, it´s just a matter of join the header and txt replacing
+"--- BLOCK ---\n" string by "0x00".
+
+---
+
+## 📦 `.gmd` File names
+
 ---
 The gmd files with same names are actually the same file repeated across several directories. Ex:
 ```
