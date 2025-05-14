@@ -68,8 +68,8 @@ four bytes are the size of the text string.
   <img src="./images/example2.png" alt="example2.png">
 </div>
 
-An extraction script grabs the 5 "non UTF-8" and store in different files along with a file with the
-text to be translated.
+An extraction script grabs the 5 "non UTF-8" parts and store them across different files along with a
+file with the text to be translated.
 
 <div style="background-color: #ffffff; display: inline-block; padding: 4px;">
   <img src="./images/example3.png" alt="example3.png">
