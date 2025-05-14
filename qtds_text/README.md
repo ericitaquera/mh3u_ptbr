@@ -13,7 +13,7 @@ These files are parsed by the game engine to dynamically render quests in the UI
 
 This documentation is the result of hands-on reverse engineering, aligned with findings from community tools, modding threads, and byte-for-byte comparisons across multiple quest files.
 
-> ✅ Example used: [`.\q_60001.qtds`](./q_60001.qtds)
+> ✅ Example used: [`.\q_00001.qtds`](./q_00001.qtds)
 
 ---
 
