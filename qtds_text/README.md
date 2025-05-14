@@ -19,6 +19,8 @@ This documentation is the result of hands-on reverse engineering, aligned with f
 
 ## 🗂 `.qtds` File Structure Map (Offsets 0x000–0x781) of Arena Quests
 
+Below is some knowledge we extracted from the observed structure.
+
 | Start   | End     | Size (dec) | Size (hex) | Description                                      |
 |---------|---------|------------|------------|--------------------------------------------------|
 | `0x000` | `0x003` | 4          | `0x04`     | Magic header `"QTDS"`                           |
@@ -42,3 +44,39 @@ This documentation is the result of hands-on reverse engineering, aligned with f
 
 So, we were able to extract all "editable" chunks, preserving the "fixed" ones, edit, and repack.
 
+From that we´ve figured it out the file could be divided in 5 parts:
+
+A Header
+Quest titles
+Two non UTF-8 bytes
+Quest objectives
+24 non UTF-8 bytes
+Fail conditions
+Six non UTF-8 bytes
+Quest clients
+Quest description
+Non UFT-8 bytes until EOF
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example1.png" alt="example1.png">
+</div>
+
+Each of the "UTF-8 blocks" contains the 5 languages available in order. For each language, the first
+four bytes are the size of the text string.
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example2.png" alt="example2.png">
+</div>
+
+An extraction script grabs the 5 "non UTF-8" and store in different files along with a file with the
+text to be translated.
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example3.png" alt="example3.png">
+</div>
+
+<div style="background-color: #ffffff; display: inline-block; padding: 4px;">
+  <img src="./images/example4.png" alt="example4.png">
+</div>
+
+The text file and the stored non text bytes are rejoined after text translation.

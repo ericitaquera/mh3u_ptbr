@@ -582,7 +582,7 @@ Cultivar
 --- BLOCK ---
 Ver caixa de colheita
 --- BLOCK ---
-Estadísticas
+Estatísticas
 --- BLOCK ---
 Campo
 --- BLOCK ---

@@ -1,0 +1,35 @@
+[TITLES]
+TITLES_0=Tutorial 1
+TITLES_1=Didacticiel 1
+TITLES_2=Tutorial 1
+TITLES_3=Tutorial 1
+TITLES_4=Tutorial 1
+[OBJECTIVES]
+OBJECTIVES_0=Tutorial 1
+OBJECTIVES_1=Didacticiel 1
+OBJECTIVES_2=Tutorial 1
+OBJECTIVES_3=Tutorial 1
+OBJECTIVES_4=Tutorial 1
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Tutorial 1
+FAIL_CONDITIONS_1=Didacticiel 1
+FAIL_CONDITIONS_2=Tutorial 1
+FAIL_CONDITIONS_3=Tutorial 1
+FAIL_CONDITIONS_4=Tutorial 1
+[CLIENTS]
+CLIENTS_0=Tutorial 1
+CLIENTS_1=Didacticiel 1
+CLIENTS_2=Tutorial 1
+CLIENTS_3=Tutorial 1
+CLIENTS_4=Tutorial 1
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Tutorial 1
+Tutorial 1
+DESCRIPTIONS_1=Didacticiel 1
+Didacticiel 1
+DESCRIPTIONS_2=Tutorial 1
+Tutorial 1
+DESCRIPTIONS_3=Tutorial 1
+Tutorial 1
+DESCRIPTIONS_4=Tutorial 1
+Tutorial 1

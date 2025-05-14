@@ -1006,7 +1006,7 @@ Em vez de subir aquelas escadas,
 pegue a ponte e vá para a direita.
 --- BLOCK ---
 Ouvi dizer que o fazendeiro tem um favor a
-pedir a você. Passe por aqui e diga olá 
+pedir a você. Passe por lá e diga olá 
 por mim, meu jovem.
 --- BLOCK ---
 Ah! Você finalmente achou o filho da mãe.
