@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Dragon Lady
+TITLES_1=Dame Dragon
+TITLES_2=Drachenlady
+TITLES_3=Lady drago
+TITLES_4=La dragona
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathian
+OBJECTIVES_1=Chasser une Rathian
+OBJECTIVES_2=Erjage eine Rathian.
+OBJECTIVES_3=Caccia una Rathian
+OBJECTIVES_4=Caza una Rathian
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Village Protector
+CLIENTS_1=Protecteur du village
+CLIENTS_2=Dorfbeschützer
+CLIENTS_3=Difensore villaggio
+CLIENTS_4=Protetor da vila
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Egad! I'd heard rumors of
+Rathian sightings, but I never
+thought they'd be true. That
+thing's way too tough for my
+blood! Any warriors worth
+their swords out there?
+I beseech you: save our village!
+DESCRIPTIONS_1=Oh non ! J'avais entendu des
+rumeurs disant qu'on avait
+vu une Rathian, mais je ne
+les croyais pas. Je ne peux
+pas lutter ! Il y a des bons
+guerriers par là ? Je vous en
+prie : sauvez notre village !
+DESCRIPTIONS_2=Oje! Ich habe gehört, es
+gab Rathian-Sichtungen.
+Nicht zu glauben, dass es wahr
+ist. Das ist zu hart für mich!
+Gibt's da draußen Krieger, die
+ihre Schwerter wert sind? Ich
+bitte dich: Rette das Dorf!
+DESCRIPTIONS_3=Cielo! Avevo sentito parlare
+delle Rathian, ma credevo che
+fossero leggende! Quelle cose
+sono troppo pericolose per
+me. Se c'è qualche guerriero
+coraggioso là fuori, vi prego,
+salvate il nostro villaggio!
+DESCRIPTIONS_4=Céus! Ouvi rumores sobre
+avistamentos de uma Rathian,
+mas não achei que fossem reais.
+Aquela coisa é forte demais pra mim!
+Há algum guerreiro corajoso por aí?
+Eu imploro…
+salvem a vila!

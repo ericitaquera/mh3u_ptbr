@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Harvest Tour: Tundra
+TITLES_1=Visite : Toundra
+TITLES_2=Erntetour: Tundra
+TITLES_3=Tour: Tundra
+TITLES_4=Tour: Tundra
+[OBJECTIVES]
+OBJECTIVES_0=Survive until time expires or
+deliver a Paw Pass Ticket
+OBJECTIVES_1=Survivre jusqu'à la fin ou
+livrer un ticket Passechat
+OBJECTIVES_2=Überlebe bis Zeitende oder
+gib einen Tatzenpass ab.
+OBJECTIVES_3=Sopravvivi fino allo scadere o
+consegna un Buono Pass-zampa
+OBJECTIVES_4=Sobreviver até o final
+ou entregar um Ticket garra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0.
+FAIL_CONDITIONS_1=Prime atteint 0.
+FAIL_CONDITIONS_2=Belohnung auf 0.
+FAIL_CONDITIONS_3=Premio a 0.
+FAIL_CONDITIONS_4=Recompensa cair a 0.
+[CLIENTS]
+CLIENTS_0=Felyne Tour Guide
+CLIENTS_1=Guide Felyne
+CLIENTS_2=Felyne-Reiseführer
+CLIENTS_3=Guida Felyne
+CLIENTS_4=Guia do Tour Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Everyone here, nya? Welcome
+to the Tundra Harvest Tour.
+Hope your fur is thick! If you
+get cold and wanna quit, you'll
+receive a Paw Pass Ticket in
+two minutes. Use it for safe,
+easy passage home.
+DESCRIPTIONS_1=Tout le monde est là, nya ?
+Bienvenue à la visite de la
+toundra. J'espère que votre
+fourrure est épaisse. Avis aux
+frileux, vous recevrez dans 2
+minutes un ticket Passechat
+pour un retour sécurisé.
+DESCRIPTIONS_2=Sind alle da, miau? Willkommen
+zur Tundra-Erntetour. Ich
+hoffe, alle haben ein dickes
+Fell! Wer friert und zurück
+will, kann sich in zwei
+Minuten einen Tatzenpass zur
+sicheren Heimreise abholen.
+DESCRIPTIONS_3=Ci siamo tutti, nya? Benvenuti
+al tour della tundra. Spero che
+siate ben coperti. Se avete
+freddo e volete andar via,
+riceverete un Buono Pass-zampa
+tra due minuti. Usatelo per
+un sicuro ritorno a casa.
+DESCRIPTIONS_4=Todos aqui, miau? Este é o
+Tour pela Tundra! Espero que
+estejam bem peludinhos!
+Se não quiserem congelar,
+vão receber um Ticket Garra
+em dois minutinhos.
+Use pra voltar quentinho pra casa!

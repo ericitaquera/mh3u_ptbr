@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Save Our Boat
+TITLES_1=Sauvons notre navire
+TITLES_2=Schiffsrettung
+TITLES_3=SOS
+TITLES_4=Conserte nosso barco
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Royal Ludroth
+OBJECTIVES_1=Chasser un Ludroth royal
+OBJECTIVES_2=Erjage einen
+Königs-Ludroth.
+OBJECTIVES_3=Caccia un Ludroth reale
+OBJECTIVES_4=Caçar um Ludroth real
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fleet Captain
+CLIENTS_1=Capitaine de la flotte
+CLIENTS_2=Flottenkapitän
+CLIENTS_3=Capitano Leader
+CLIENTS_4=Capitão da frota
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The Lagiacrus scuttled our
+huntin' boat, and now we need
+parts from a Royal Ludroth to
+get her ship-shape. We just
+want to make Moga Village
+prosperous again -- it's our
+duty as the local heroes!
+DESCRIPTIONS_1=Le Lagiacrus a coulé notre
+navire de chasse. Il nous faut
+des bouts de Ludroth royal
+pour le réparer. On veut que
+le village Moga retrouve sa
+prospérité. C'est notre
+devoir de héros !
+DESCRIPTIONS_2=Der Lagiacrus versenkte unser
+schönes Jagdschiff. Mit Teilen
+eines Königs-Ludroth machen
+wir sie wieder seetüchtig.
+Wir wollen dem Dorf Moga
+zu neuem Wohlstand verhelfen.
+Das ist unsere Pflicht.
+DESCRIPTIONS_3=Un Lagiacrus ha affondato
+la nostra bella nave e ora ci
+servono delle parti di Ludroth
+reale per farla navigare di
+nuovo. Ci daresti una mano,
+per il bene del villaggio di
+Moga?
+DESCRIPTIONS_4=O Lagiacrus afundou nosso
+barco de caça, e agora precisamos
+de peças de um Ludroth Real
+para voltar a navegar.
+Só queremos que a Vila Moga
+volte a ser próspera.
+Você pode nos ajudar?

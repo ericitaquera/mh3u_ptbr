@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Heat Exhaustion
+TITLES_1=Hyperthermie
+TITLES_2=Hitzeabbau
+TITLES_3=Il caldo sfianca
+TITLES_4=Esgotamento por calor
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 2 Powderstones
+OBJECTIVES_1=Livrer 2 pierres-poudre
+OBJECTIVES_2=Besorge 2 Pulversteine.
+OBJECTIVES_3=Consegna 2 Pietre-polvere
+OBJECTIVES_4=Entregar 2 Pedras pó
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo
+[CLIENTS]
+CLIENTS_0=City Armorer
+CLIENTS_1=Armurier de la ville
+CLIENTS_2=Stadt-Waffenmeister
+CLIENTS_3=Armaiolo cittadino
+CLIENTS_4=Armeiro da cidade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Powderstones hold concentrated
+volcanic energy. They pack
+enough heat to forge a monster
+carapace or hard minerals.
+Thing is, you can't make them,
+so I need you to fetch me some.
+Carrying them is the tricky part!
+DESCRIPTIONS_1=Les pierres-poudres renferment
+de l'énergie volcanique. Leur
+chaleur permet de créer une
+carapace de monstre ou des
+minéraux durs. On ne peut pas
+les fabriquer, il faut les
+trouver et les transporter...
+DESCRIPTIONS_2=Pulversteine haben geballte
+Vulkanenergie. Die Hitze ge-
+nügt zum Schmieden von Mons-
+terrückenpanzern oder harten
+Mineralien. Besorg mir welche,
+sie sind nicht herstellbar. 
+Der Transport ist verzwickt!
+DESCRIPTIONS_3=Le Pietre-polvere contengono
+energia vulcanica concentrata,
+sufficiente per forgiare
+minerali e grossi carapaci di
+mostro. Sono difficili da
+trasportare e avrei bisogno di
+qualcuno che lo faccia per me!
+DESCRIPTIONS_4=As Pedras-pó guardam energia
+vulcânica super concentrada.
+Elas esquentam tanto que atravessam
+cascos de monstros e até minerais!
+Traga algumas pra mim.
+Só cuidado: carregar elas
+é a parte difícil…

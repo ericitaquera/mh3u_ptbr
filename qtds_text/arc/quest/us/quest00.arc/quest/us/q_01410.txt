@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Poached Wyvern Eggs
+TITLES_1=Œufs de Wyvern pochés
+TITLES_2=Pochierte Wyvern-Eier
+TITLES_3=Uova di wyvern in camicia
+TITLES_4=Huevos de wyvern cocidos
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 2 Wyvern Eggs
+OBJECTIVES_1=Livrer 2 œufs de Wyvern
+OBJECTIVES_2=Besorge 2 Wyvern-Eier.
+OBJECTIVES_3=Consegna 2 Uova di wyvern
+OBJECTIVES_4=Entrega 2 Huevos wyvern
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Royal Cook
+CLIENTS_1=Cuisinier royal
+CLIENTS_2=Königlicher Koch
+CLIENTS_3=Cuoco reale
+CLIENTS_4=Cozinheiro real
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I have an urgent request!
+If I do not serve Wyvern Eggs
+at the upcoming banquet, I'll
+be fired -- as in literally set on
+fire! Save me from becoming
+the main course and you'll be
+amply rewarded!
+DESCRIPTIONS_1=J'ai une demande urgente ! Si
+je ne sers pas des œufs de
+Wyvern au prochain banquet, je
+serai grillé, littéralement !
+Empêchez-moi de servir de
+plat principal et vous serez
+largement récompensé !
+DESCRIPTIONS_2=Ich habe eine dringende Bitte!
+Wenn ich keine Wyvern-Eier
+beim Bankett serviere, bin ich
+gefeuert – das ist wörtlich
+gemeint! Rette mich davor,
+zum Hauptgang zu werden,
+und du wirst reich belohnt!
+DESCRIPTIONS_3=Ho una richiesta urgente!
+Se non servo Uova di wyvern
+al prossimo banchetto rischio
+ben più del posto! Evitami
+di finire come piatto da
+portata e ti ricompenserò
+come meriti!
+DESCRIPTIONS_4=Tenho um pedido urgente!
+Se eu não servir ovos de wyvern
+no próximo banquete, vão me jogar
+na fogueira — literalmente!
+Me ajuda a não virar o prato principal
+e eu prometo que você será
+muito bem recompensado!

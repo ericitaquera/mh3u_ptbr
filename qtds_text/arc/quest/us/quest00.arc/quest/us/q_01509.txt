@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=A Bard's Tale
+TITLES_1=Une histoire de barde
+TITLES_2=Geschichte des Barden
+TITLES_3=Il racconto del bardo
+TITLES_4=O conto de um bardo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barioth
+OBJECTIVES_1=Chasser un Barioth
+OBJECTIVES_2=Erjage einen Barioth.
+OBJECTIVES_3=Caccia un Barioth
+OBJECTIVES_4=Caçar um Barioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Wandering Bard
+CLIENTS_1=Barde errant
+CLIENTS_2=Wandernder Barde
+CLIENTS_3=Bardo girovago
+CLIENTS_4=Bardo errante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ever since I was a wee lad,
+tales of the phantom drake
+have entranced me... Finally,
+after a lifetime of searching,
+I've found the beast in the
+frozen wastes! Fair hunter,
+dare you challenge its might?
+DESCRIPTIONS_1=Depuis mon enfance, les récits
+du dragon fantôme me
+passionnent... J'ai fini par
+trouver la bête dans le désert
+de glace ! Bon chasseur,
+oserez-vous défier sa
+puissance ?
+DESCRIPTIONS_2=Von klein auf faszinierten
+mich Geschichten über den
+Phantomdrachen. Nach einer
+lebenslangen Suche fand ich
+die Bestie in der Eiswüste!
+Edler Jäger, wagst du es,
+den Drachen herauszufordern?
+DESCRIPTIONS_3=Sin da quando ero bambino, sono
+affascinato dai racconti sul drago
+fantasma. Finalmente, dopo mille
+ricerche, ho scovato la belva
+nelle terre ghiacciate! Impavido
+cacciatore, oseresti sfidare
+la sua forza?
+DESCRIPTIONS_4=Desde criança sou fascinado
+pelas lendas do dragão fantasma.
+Depois de uma vida inteira buscando,
+finalmente o encontrei… no gelo!
+Caçador, você teria coragem
+de desafiar o seu poder?
+É agora ou nunca!

@@ -1,0 +1,35 @@
+[TITLES]
+TITLES_0=Moga Quest 5
+TITLES_1=Quête Moga 5
+TITLES_2=Moga-Quest 5
+TITLES_3=Missione Moga 5
+TITLES_4=Missão Moga 5
+[OBJECTIVES]
+OBJECTIVES_0=Moga Quest 5
+OBJECTIVES_1=Quête Moga 5
+OBJECTIVES_2=Moga-Quest 5
+OBJECTIVES_3=Missione Moga 5
+OBJECTIVES_4=Missão Moga 5
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Moga Quest 5
+FAIL_CONDITIONS_1=Quête Moga 5
+FAIL_CONDITIONS_2=Moga-Quest 5
+FAIL_CONDITIONS_3=Missione Moga 5
+FAIL_CONDITIONS_4=Missão Moga 5
+[CLIENTS]
+CLIENTS_0=Moga Quest 5
+CLIENTS_1=Quête Moga 5
+CLIENTS_2=Moga-Quest 5
+CLIENTS_3=Missione Moga 5
+CLIENTS_4=Missão Moga 5
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Moga Quest 5
+Moga Quest 5
+DESCRIPTIONS_1=Quête Moga 5
+Quête Moga 5
+DESCRIPTIONS_2=Moga-Quest 5
+Moga-Quest 5
+DESCRIPTIONS_3=Missione Moga 5
+Missione Moga 5
+DESCRIPTIONS_4=Missão Moga 5
+Missão Moga 5

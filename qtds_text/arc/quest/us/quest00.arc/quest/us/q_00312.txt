@@ -1,0 +1,35 @@
+[TITLES]
+TITLES_0=Moga (Night) Quest 3
+TITLES_1=Quête Moga (nuit) 3
+TITLES_2=Moga-Quest (Nacht) 3
+TITLES_3=Missione Moga (notte) 3
+TITLES_4=Missão Moga (noite) 3
+[OBJECTIVES]
+OBJECTIVES_0=Moga (Night) Quest 3
+OBJECTIVES_1=Quête Moga (nuit) 3
+OBJECTIVES_2=Moga-Quest (Nacht) 3
+OBJECTIVES_3=Missione Moga (notte) 3
+OBJECTIVES_4=Missão Moga (noite) 3
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Moga (Night) Quest 3
+FAIL_CONDITIONS_1=Quête Moga (nuit) 3
+FAIL_CONDITIONS_2=Moga-Quest (Nacht) 3
+FAIL_CONDITIONS_3=Missione Moga (notte) 3
+FAIL_CONDITIONS_4=Missão Moga (noite) 3
+[CLIENTS]
+CLIENTS_0=Moga (Night) Quest 3
+CLIENTS_1=Quête Moga (nuit) 3
+CLIENTS_2=Moga-Quest (Nacht) 3
+CLIENTS_3=Missione Moga (not.) 3
+CLIENTS_4=Missão Moga (noite) 3
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Moga (Night) Quest 3
+Moga (Night) Quest 3
+DESCRIPTIONS_1=Quête Moga (nuit) 3
+Quête Moga (nuit) 3
+DESCRIPTIONS_2=Moga-Quest (Nacht) 3
+Moga-Quest (Nacht) 3
+DESCRIPTIONS_3=Missione Moga (notte) 3
+Missione Moga (notte) 3
+DESCRIPTIONS_4=Missão Moga (noite) 3
+Missão Moga (noite) 3

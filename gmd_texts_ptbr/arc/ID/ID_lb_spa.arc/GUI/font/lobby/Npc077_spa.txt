@@ -15,7 +15,7 @@ TMSG_NPC077_4
 Olá, querida. Hoje tenho uma tonelada
 de itens raros para você.
 --- BLOCK ---
-Olá, querido. Hoje tenho este velho
+Olá, querida. Hoje tenho este velho
 saco cheio de itens com desconto.
 Tudo pela metade do preço!
 --- BLOCK ---

@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=No Love for Ludroth
+TITLES_1=Pas d'amour pour les Ludroth
+TITLES_2=Keine Liebe für Ludrothe
+TITLES_3=Nessuno ama le Ludroth
+TITLES_4=Sem amor para o Ludroth
+[OBJECTIVES]
+OBJECTIVES_0=Slay 6 Ludroth
+OBJECTIVES_1=Tuer 6 Ludroth
+OBJECTIVES_2=Erlege 6 Ludrothe.
+OBJECTIVES_3=Uccidi 6 Ludroth
+OBJECTIVES_4=Matar 6 Ludroth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tiempo.
+[CLIENTS]
+CLIENTS_0=Ex-Caravan Sentry
+CLIENTS_1=Ancien garde de la caravane
+CLIENTS_2=Ehem. Karawanenwächter
+CLIENTS_3=Ex guardia carovana
+CLIENTS_4=Ex sentinela caravana
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I gets riled up just thinkin'
+about it! Some stupid Ludroth
+beats me -- and I gets fired
+over it! How was I supposed ta
+know d'em cute beasties packed
+such a wallop? How's about you
+go wallop 'em back for me?
+DESCRIPTIONS_1=Ça m'énerve ! Des Ludroth
+me battent et je me fais
+virer ! Comment je pouvais
+savoir que ces jolies bêtes
+me tomberaient dessus
+comme ça ? Et si vous leur
+tombiez dessus pour moi ?
+DESCRIPTIONS_2=Wenn ich nur daran denke,
+könnte ich platzen! Ein dummer
+Ludroth hat mich besiegt, und
+ich werde gefeuert! Woher soll
+ich wissen, dass die süßen
+Biester so gemein sind? Kannst
+du dich für mich rächen?
+DESCRIPTIONS_3=Che rabbia! Una stupida Ludroth
+mi ha battuto... e per questo mi
+licenziano! Come avrei potuto
+immaginare che quelle graziose
+bestiole picchiassero così forte?
+Che ne dici di vendicarmi?
+DESCRIPTIONS_4=Só de lembrar meu sangue ferve!
+Uma estúpida Ludroth me deu
+uma surra… e me demitiram por isso!
+Como eu ia saber que esses bichos
+batiam tão forte assim?!
+Que tal dar uma lição nela
+em meu nome?

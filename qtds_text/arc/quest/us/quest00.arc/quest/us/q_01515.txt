@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Decisive Battle
+TITLES_1=Combat décisif
+TITLES_2=Die entscheidende Schlacht
+TITLES_3=Lo scontro decisivo
+TITLES_4=A batalha decisiva
+[OBJECTIVES]
+OBJECTIVES_0=Slay or repel a Ceadeus
+OBJECTIVES_1=Tuer ou repousser un Ceadeus
+OBJECTIVES_2=Erlege einen Ceadeus
+oder wehre ihn ab.
+OBJECTIVES_3=Uccidi o respingi un Ceadeus
+OBJECTIVES_4=Mata ou repele um Ceadeus
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Guild Headquarters
+CLIENTS_1=QG de la guilde
+CLIENTS_2=Hauptquartier d. Gilde
+CLIENTS_3=Quartier gener. Gilda
+CLIENTS_4=Quartel gen. da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=[For top-class hunters only]
+Alert! The great sea drake
+Ceadeus has been sighted near
+the Deserted Island. We lack
+sufficient information to judge
+its strength. Hunters should
+put a stop to it, ASAP!
+DESCRIPTIONS_1=[Chasseurs top niveau]
+Alerte ! Le grand dragon de
+la mer Ceadeus a été repéré
+près de l'île déserte. On
+manque d'informations pour
+évaluer sa force. Il faut
+l'arrêter. Vite !
+DESCRIPTIONS_2=[Nur für erstklassige Jäger]
+Achtung! Der große Meerdrache
+Ceadeus wurde in der Nähe der
+Ödnis-Insel gesichtet. Wir
+wissen nicht genug, um seine
+Stärke zu schätzen. Jäger
+sollten ihn rasch aufhalten!
+DESCRIPTIONS_3=[Per i cacciatori migliori] Attenzione!
+Presso l'Isola deserta è stato
+avvistato un Ceadeus. Non siamo
+ancora in grado di valutarne
+le forze, ma chiediamo ai cacciatori
+di fermarlo al più presto!
+DESCRIPTIONS_4=[Para caçadores de elite]
+Atenção! O Ceadeus, grande
+dragão marinho, foi avistado
+perto da Ilha Deserta!
+Ainda não temos dados sobre sua força.
+Todos os caçadores devem se unir
+e detê-lo imediatamente!

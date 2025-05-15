@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Shakalaka Savior
+TITLES_1=Sauveur de Shakalaka !
+TITLES_2=Shakalaka-Retter
+TITLES_3=Salvatore Shakalaka
+TITLES_4=Salvação do Shakalaka
+[OBJECTIVES]
+OBJECTIVES_0=Protect the Shakalaka
+OBJECTIVES_1=Protéger le Shakalaka
+OBJECTIVES_2=Schütze den Shakalaka.
+OBJECTIVES_3=Proteggi lo Shakalaka
+OBJECTIVES_4=Proteja o Shakalaka
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, time expires, or
+the Shakalaka falls in combat.
+FAIL_CONDITIONS_1=Prime att. 0, temps écoulé
+ou Shakalaka tué.
+FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
+oder Shakalaka fällt.
+FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
+o Shakalaka sconfitto.
+FAIL_CONDITIONS_4=Recomp. a 0, fim tiempo
+ou Shakalaka derrotado.
+[CLIENTS]
+CLIENTS_0=Carefree Lad
+CLIENTS_1=Garçon insouciant
+CLIENTS_2=Sorgloser Junge
+CLIENTS_3=Ragazzino
+CLIENTS_4=Moleque descuidado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Everyone says I have an overactive
+imagination, whatever that means,
+but I swear I saw a pixie out in
+the Moga Woods! Could you check
+it out and prove that I'm not a
+big fat liar? Pretty please?
+DESCRIPTIONS_1=Tout le monde dit que j'ai une
+imagination débordante, quoi
+que ça veuille dire, mais je
+jure que j'ai vu une fée dans
+la forêt Moga ! Vous pourriez
+aller voir et prouver que je
+ne mens pas ? Dites oui...
+DESCRIPTIONS_2=Alle sagen, ich habe zu
+viel Fantasie, was immer das
+heißt, aber ich schwöre, ich
+habe im Moga-Wald eine Elfe
+gesehen! Könntest du nachsehen
+und beweisen, dass ich kein
+großer Lügner bin? Bitte?
+DESCRIPTIONS_3=Dicono che ho una "fervida
+immaginazione". Non so che
+significa, ma ti giuro di
+aver visto una fata nei boschi
+di Moga! Puoi dare un'occhiata
+e dimostrare che non sono
+un bugiardo? Per favore!
+DESCRIPTIONS_4=Todo mundo diz que tenho
+uma imaginação fértil…
+embora eu nem saiba o que é isso!
+Mas juro que vi um duendezinho
+na Floresta de Moga.
+Você pode dar uma olhada lá
+e provar que não tô mentindo?

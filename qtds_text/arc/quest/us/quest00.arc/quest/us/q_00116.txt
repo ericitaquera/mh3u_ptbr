@@ -1,0 +1,35 @@
+[TITLES]
+TITLES_0=Moga Quest 7
+TITLES_1=Quête Moga 7
+TITLES_2=Moga-Quest 7
+TITLES_3=Missione Moga 7
+TITLES_4=Missão Moga 7
+[OBJECTIVES]
+OBJECTIVES_0=Moga Quest 7
+OBJECTIVES_1=Quête Moga 7
+OBJECTIVES_2=Moga-Quest 7
+OBJECTIVES_3=Missione Moga 7
+OBJECTIVES_4=Missão Moga 7
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Moga Quest 7
+FAIL_CONDITIONS_1=Quête Moga 7
+FAIL_CONDITIONS_2=Moga-Quest 7
+FAIL_CONDITIONS_3=Missione Moga 7
+FAIL_CONDITIONS_4=Missão Moga 7
+[CLIENTS]
+CLIENTS_0=Moga Quest 7
+CLIENTS_1=Quête Moga 7
+CLIENTS_2=Moga-Quest 7
+CLIENTS_3=Missione Moga 7
+CLIENTS_4=Missão Moga 7
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Moga Quest 7
+Moga Quest 7
+DESCRIPTIONS_1=Quête Moga 7
+Quête Moga 7
+DESCRIPTIONS_2=Moga-Quest 7
+Moga-Quest 7
+DESCRIPTIONS_3=Missione Moga 7
+Missione Moga 7
+DESCRIPTIONS_4=Missão Moga 7
+Missão Moga 7

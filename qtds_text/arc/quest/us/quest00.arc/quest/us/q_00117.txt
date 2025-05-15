@@ -1,0 +1,35 @@
+[TITLES]
+TITLES_0=Moga Quest 8
+TITLES_1=Quête Moga 8
+TITLES_2=Moga-Quest 8
+TITLES_3=Missione Moga 8
+TITLES_4=Missão Moga 8
+[OBJECTIVES]
+OBJECTIVES_0=Moga Quest 8
+OBJECTIVES_1=Quête Moga 8
+OBJECTIVES_2=Moga-Quest 8
+OBJECTIVES_3=Missione Moga 8
+OBJECTIVES_4=Missão Moga 8
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Moga Quest 8
+FAIL_CONDITIONS_1=Quête Moga 8
+FAIL_CONDITIONS_2=Moga-Quest 8
+FAIL_CONDITIONS_3=Missione Moga 8
+FAIL_CONDITIONS_4=Missão Moga 8
+[CLIENTS]
+CLIENTS_0=Moga Quest 8
+CLIENTS_1=Quête Moga 8
+CLIENTS_2=Moga-Quest 8
+CLIENTS_3=Missione Moga 8
+CLIENTS_4=Missão Moga 8
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Moga Quest 8
+Moga Quest 8
+DESCRIPTIONS_1=Quête Moga 8
+Quête Moga 8
+DESCRIPTIONS_2=Moga-Quest 8
+Moga-Quest 8
+DESCRIPTIONS_3=Missione Moga 8
+Missione Moga 8
+DESCRIPTIONS_4=Missão Moga 8
+Missão Moga 8

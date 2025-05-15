@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Trial of the Sea Dragon
+TITLES_1=Épreuve du dragon des mers
+TITLES_2=Meerdrachen-Prüfung
+TITLES_3=La prova del drago marino
+TITLES_4=Prova do dragão marinho
+[OBJECTIVES]
+OBJECTIVES_0=Repel a Lagiacrus
+OBJECTIVES_1=Repousser un Lagiacrus
+OBJECTIVES_2=Wehre einen Lagiacrus ab.
+OBJECTIVES_3=Respingi un Lagiacrus
+OBJECTIVES_4=Repelir um Lagiacrus
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tiempo.
+[CLIENTS]
+CLIENTS_0=Moga Village Chief
+CLIENTS_1=Chef du village Moga
+CLIENTS_2=Moga-Dorfchef
+CLIENTS_3=Capo villaggio di Moga
+CLIENTS_4=Chefe da Vila Moga
+[DESCRIPTIONS]
+DESCRIPTIONS_0=You seem like you got some
+heavy mettle, kid. Now prove
+it. My ancestors called the
+Lagiacrus the "Lord of the
+Seas," and it lives up to its
+name. I doubt you could kill
+it, but stop it if you can.
+DESCRIPTIONS_1=Vous avez l'air courageux,
+petit, mais prouvez-le. Mes
+ancêtres surnommaient le
+Lagiacrus le "roi des mers" et
+il mérite bien son nom. Vous
+ne pourrez pas le tuer, mais
+essayez de l'arrêter.
+DESCRIPTIONS_2=Du scheinst großen Mut zu ha-
+ben, junger Hüpfer. Beweis es.
+Meine Vorfahren nannten den
+Lagiacrus "Fürst der Meere",
+und dem Namen macht er Ehre.
+Du kannst ihn kaum töten, aber
+aufhalten vielleicht schon.
+DESCRIPTIONS_3=So che hai coraggio da vendere
+ed è il momento di usarlo. Per
+gli antichi, il Lagiacrus era
+il "Signore dei mari". Se
+le leggende dicono la verità,
+dubito che potrai ucciderlo.
+Ma puoi cercare di fermarlo.
+DESCRIPTIONS_4=Parece que você tem fibra,
+garoto.Então prove. Meus ancestrais
+chamavam o Lagiacrus de
+“senhor dos mares”…
+e parece que ele é mesmo.
+Duvido que consiga matá-lo…
+mas se puder, detenha-o.
+
+

@@ -3,25 +3,25 @@ TITLES_0=Moga (Night) Quest 8
 TITLES_1=Quête Moga (nuit) 8
 TITLES_2=Moga-Quest (Nacht) 8
 TITLES_3=Missione Moga (notte) 8
-TITLES_4=Misión Moga (noche) 8
+TITLES_4=Missão Moga (noite) 8
 [OBJECTIVES]
 OBJECTIVES_0=Moga (Night) Quest 8
 OBJECTIVES_1=Quête Moga (nuit) 8
 OBJECTIVES_2=Moga-Quest (Nacht) 8
 OBJECTIVES_3=Missione Moga (notte) 8
-OBJECTIVES_4=Misión Moga (noche) 8
+OBJECTIVES_4=Missão Moga (noite) 8
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Moga (Night) Quest 8
 FAIL_CONDITIONS_1=Quête Moga (nuit) 8
 FAIL_CONDITIONS_2=Moga-Quest (Nacht) 8
 FAIL_CONDITIONS_3=Missione Moga (notte) 8
-FAIL_CONDITIONS_4=Misión Moga (noche) 8
+FAIL_CONDITIONS_4=Missão Moga (noite) 8
 [CLIENTS]
 CLIENTS_0=Moga (Night) Quest 8
 CLIENTS_1=Quête Moga (nuit) 8
 CLIENTS_2=Moga-Quest (Nacht) 8
 CLIENTS_3=Missione Moga (not.) 8
-CLIENTS_4=Misión Moga (noche) 8
+CLIENTS_4=Missão Moga (noite) 8
 [DESCRIPTIONS]
 DESCRIPTIONS_0=Moga (Night) Quest 8
 Moga (Night) Quest 8
@@ -31,5 +31,5 @@ DESCRIPTIONS_2=Moga-Quest (Nacht) 8
 Moga-Quest (Nacht) 8
 DESCRIPTIONS_3=Missione Moga (notte) 8
 Missione Moga (notte) 8
-DESCRIPTIONS_4=Misión Moga (noche) 8
-Misión Moga (noche) 8
+DESCRIPTIONS_4=Missão Moga (noite) 8
+Missão Moga (noite) 8

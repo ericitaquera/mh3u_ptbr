@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Herbivore Egg Hunt!
+TITLES_1=Chasse aux œufs d'herbivore
+TITLES_2=Pflanzenfress-Eierjagd!
+TITLES_3=Caccia alle uova d'erbivoro!
+TITLES_4=Buscar ovos de herbívoro
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 2 Herbivore Eggs
+OBJECTIVES_1=Livrer 2 œufs d'herbivore
+OBJECTIVES_2=Besorge
+2 Pflanzenfress-Eier.
+OBJECTIVES_3=Consegna 2 Uova d'erbivoro
+OBJECTIVES_4=Entregar 2 ovos de herbívoro
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Newlywed Wife
+CLIENTS_1=Jeune mariée
+CLIENTS_2=Frischvermählte
+CLIENTS_3=Sposina novella
+CLIENTS_4=Recém casada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I want to make a family recipe
+for my tubby hubby, but I'm
+missing the secret ingredient.
+(*Psst* It's Herbivore Eggs!)
+Bring me some, please. You'll
+find them in the Sandy Plains,
+under that tree in the oasis.
+DESCRIPTIONS_1=Je veux préparer une recette
+pour mon mari, mais il me
+manque l'ingrédient secret.
+(*Psst* Des œufs d'herbivore.)
+Allez m'en chercher, dans les
+plaines de sable, sous l'arbre
+de l'oasis.
+DESCRIPTIONS_2=Ich will ein Familienrezept
+für mein Moppelchen kochen.
+Mir fehlt die Geheimzutat.
+(*psst* Pflanzenfress-Eier!)
+Bitte bring mir welche. Du
+findest sie in der Sandebene,
+unter dem Baum in der Oase.
+DESCRIPTIONS_3=Voglio preparare una ricetta
+per il mio amore, ma mi manca
+un ingrediente segreto.
+(*Psst* Sono Uova d'erbivoro!)
+Puoi procurarmele? Le troverai
+nelle Piane sabbiose, sotto
+l'albero dell'oasi.
+DESCRIPTIONS_4=Quero preparar uma receita
+especial pro meu maridinho,
+mas tá faltando o ingrediente secreto.
+(Psst... Ovos de Herbívoro!)
+Traga alguns pra mim.
+Você vai achá-los nas Planícies Arenosas,
+debaixo da árvore no oásis.

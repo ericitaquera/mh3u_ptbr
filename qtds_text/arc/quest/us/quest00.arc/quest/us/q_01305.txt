@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=A Royal Pain
+TITLES_1=Un mal royal
+TITLES_2=Königlicher Schmerz
+TITLES_3=Il peso della corona
+TITLES_4=Uma dor real
+[OBJECTIVES]
+OBJECTIVES_0=Capture a Royal Ludroth
+OBJECTIVES_1=Capturer un Ludroth royal
+OBJECTIVES_2=Fange einen
+Königs-Ludroth.
+OBJECTIVES_3=Cattura un Ludroth reale
+OBJECTIVES_4=Capturar um Ludroth real
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, time expires,
+or accidentally slay the target.
+FAIL_CONDITIONS_1=Prime att. 0, temps écoulé
+ou cible tuée par hasard.
+FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
+oder Ziel irrtüml. erlegt.
+FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
+o bersaglio ucciso per errore.
+FAIL_CONDITIONS_4=Recomp. a 0, fim do tempo
+ou mata obj. por acidente.
+[CLIENTS]
+CLIENTS_0=Lord's Beloved Daughter
+CLIENTS_1=Fille du châtelain
+CLIENTS_2=GeliebteFürstentochter
+CLIENTS_3=Figlia del cacicco
+CLIENTS_4=A filha do senhor
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Anyone who's anyone in high
+society has a pet Royal Ludroth.
+They're so orange! So squishy!
+I absolutely must have one!
+Do TRY not to hurt it badly,
+you brute. I suppose a few minor
+scrapes are acceptable...
+DESCRIPTIONS_1=Tous les membres de la haute
+société ont un Ludroth royal
+de compagnie. Cette couleur !
+Et cette éponge ! J'en veux
+un ! ESSAYEZ de ne pas lui
+faire de mal, sale brute. Pas
+plus que quelques égratignures.
+DESCRIPTIONS_2=Wer in der feinen Gesellschaft
+was auf sich hält, hat einen
+Königs-Ludroth als Haustier.
+Sie sind so orange! So
+schwammig! Ich muss einen
+haben! Nicht verletzen! Aber
+ein paar Kratzer hält er aus.
+DESCRIPTIONS_3=Nell'alta società, tutti hanno
+un Ludroth reale da compagnia!
+Sono così soffici e arancioni!
+Ne voglio subito uno! E non
+fargli male, razza di bruto.
+Posso tollerare un paio di
+graffi, ma non di più!
+DESCRIPTIONS_4=Qualquer um que se preze na
+alta sociedade tem um Ludroth Real
+como mascote. Eles são tão
+laranjinhas e vistosos!
+Eu preciso de um! TENTA não
+machucar muito o bichinho, seu bruto.
+Mas... uns arranhões não fazem mal.
