@@ -12,14 +12,14 @@ TMSG_NPC077_4
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-Olá, querida. Hoje tenho uma tonelada
+Olá, querido. Hoje tenho uma tonelada
 de itens raros para você.
 --- BLOCK ---
-Olá, querida. Hoje tenho este velho
+Olá, querido. Hoje tenho este velho
 saco cheio de itens com desconto.
 Tudo pela metade do preço!
 --- BLOCK ---
-Olá, querida. Hoje foi um dos
+Olá, querido. Hoje foi um dos
 meus melhores dias: tenho à
 venda alguns itens especialmente raros!
 --- BLOCK ---
