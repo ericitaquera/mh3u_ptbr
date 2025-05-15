@@ -1573,6 +1573,28 @@ py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
 
 ---
 
+Npc076_spa.gmd
+
+py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc076_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc076_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc076_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
+Npc077_spa.gmd
+
+py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc078_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc078_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc078_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
 Npc078_spa.gmd
 
 py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc078_spa.txt
@@ -1589,6 +1611,50 @@ Npc079_spa.gmd
 py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc079_spa.txt
 
 copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc079_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc079_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
+Npc080_spa.gmd
+
+py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc080_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc080_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc080_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
+Npc081_spa.gmd
+
+py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc081_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc081_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc081_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
+Npc082_spa.gmd
+
+py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc082_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc082_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc082_spa.gmd
+
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
+Npc083_spa.gmd
+
+py .\repack_gmd.py C:\temp\mh3u_ptbr\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc079_spa.txt
+
+copy C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc083_spa.gmd C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc083_spa.gmd
 
 py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_lb_spa.arc
 py .\repack_arc.py C:\temp\mh3u_ptbr\arc_extracted\arc\ID\ID_arena_spa.arc

@@ -12,93 +12,93 @@ TMSG_NPC083_4
 --- BLOCK ---
 (!)
 --- BLOCK ---
-Ei! Você deveria experimentar o mergulho! Tem
-um monte de peixes e Recursos
+Ei! Você deveria experimentar o mergulho!
+Tem um monte de peixes e Recursos
 aquáticos esperando por você lá embaixo.
 --- BLOCK ---
-Quando eu era criança, mergulhava armado só
-com um arpão. Achava que era uma
-boa maneira de impressionar as damas. Haha!
+Quando eu era criança, mergulhava armado
+só com um arpão. Achava que era uma boa
+maneira de impressionar as damas. Haha!
 --- BLOCK ---
 Mas mergulhar não é só diversão e
 impressionar as damas! Se você ficar muito
 tempo embaixo d'água, vai acabar sem ar.
 --- BLOCK ---
 Mas é fácil de resolver. É só
-subir de novo e dar umas
-boas respiradas do doce, doce oxigênio.
+subir de novo e dar umas boas
+respiradas do doce, doce oxigênio.
 --- BLOCK ---
-Talvez você também veja bolhinhas de ar
-saindo do fundo do mar. Essa é
+Talvez você também veja bolhinhas
+de ar saindo do fundo do mar. Essa é
 outra boa maneira de se manter vivo.
 --- BLOCK ---
 De qualquer forma, vá com cuidado e não
-tente a sorte. Ok, parceiro? Não gostaria de
-ter que te tirar da água pelos cabelos!
+tente a sorte. Ok, parceiro? Não gostaria
+de ter que te tirar da água pelos cabelos!
 --- BLOCK ---
 <SUBS 0>
-Ei, colega! Não odeia quando um
-peixe escapa? É terrível!
+Ei, colega! Não odeia quando
+um peixe escapa? É terrível!
 --- BLOCK ---
-Bom, hoje é seu dia de sorte,
-porque vou te ensinar todos os segredos
+Bom, hoje é seu dia de sorte, porque
+vou te ensinar todos os segredos
 para se tornar um mestre pescador!
 --- BLOCK ---
-Primeiro, os tempos. Você deve ficar
-quietinho até eles morderem, e depois
-puxar com toda a força!
+Primeiro, os tempos. Você deve
+ficar quietinho até eles morderem,
+e depois puxar com toda a força!
 --- BLOCK ---
-A isca também é importante porque os
-peixes têm seus gostos. Assim como
-as damas, não é mesmo? Haha!
+A isca também é importante porque
+os peixes têm seus gostos. Assim
+como as damas, não é mesmo? Haha!
 --- BLOCK ---
 Então, isso aí, escolha sua isca de acordo
 com o tipo de peixe que espera pescar.
 --- BLOCK ---
-Se lembrar dessas duas coisas, vai estar
-tirando toneladas de peixes em pouco
-tempo. Confie em mim! Não falha!
+Se lembrar dessas duas coisas, vai
+estar tirando toneladas de peixes em
+pouco tempo. Confie em mim! Não falha!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 É meio estranho pensar que os peixes
 passam a vida embaixo d'água, não é?
 --- BLOCK ---
-Às vezes eu fico aqui e penso
-que também passaria a vida lá embaixo.
+Às vezes eu fico aqui e penso que
+também passaria a vida lá embaixo.
 --- BLOCK ---
 É que, sério! Os peixes são saborosos,
-são maneirões e servem para formar uma
-boa equipe. O que mais você quer?
+são maneirões e servem para formar
+uma boa equipe. O que mais você quer?
 --- BLOCK ---
 Hein? Quer saber por que trabalho
 como marinheiro e não pescador?
 --- BLOCK ---
-Porque tenho esposa e filhos, parceiro. E
-se não levar o pão pra
+Porque tenho esposa e filhos,
+parceiro. E se não levar o pão pra
 casa, acabo dormindo no sofá! Haha!
 --- BLOCK ---
-Ah, Porto Tanzia! O Oásis do mar! É
-uma terra sagrada para os comerciantes. Não tem
-nada que você não possa encontrar lá.
+Ah, Porto Tanzia! O Oásis do mar! É uma
+terra sagrada para os comerciantes. Não
+tem nada que você não possa encontrar lá.
 --- BLOCK ---
-Sou apenas um marinheiro mercante, mas poder
-visitar esse lugar... *Toma um gole*
-Ah, olha só! Estou me emocionando!
+Sou apenas um marinheiro mercante, mas
+poder visitar esse lugar... *Toma um
+gole* Ah, olha só! Estou me emocionando!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 Quando era criança, encontrei umas enormes
-ruínas no mar, perto de Moga.
-Muitas estruturas estranhas todas alinhadas.
+ruínas no mar, perto de Moga. Muitas
+estruturas estranhas todas alinhadas.
 --- BLOCK ---
 Bem, queria chegar mais perto para vê-las
 melhor, mas aí vi passar uma enorme
 forma branca. Quase morri de susto!
 --- BLOCK ---
-Sério, não quero saber o que vi
-naquele dia. É melhor deixar os
-deuses do oceano em paz, né?
+Sério, não quero saber o que
+vi naquele dia. É melhor deixar
+os deuses do oceano em paz, né?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -109,121 +109,121 @@ Sempre que ver uma fonte de
 água limpa, pode apostar que tem
 um monstro ou dois bem perto.
 --- BLOCK ---
-Nada os agrada mais do que atacar
-os imprudentes que invadem seu território,
+Nada os agrada mais do que atacar os
+imprudentes que invadem seu território,
 então não baixe a guarda, ok?
 --- BLOCK ---
 Tem criaturas antigas vivendo no
 oceano, parceiro. Pode acreditar.
 --- BLOCK ---
 Se os humanos começarem a interferir
-em seu habitat ou a poluir
-seu lar, seria um desastre total!
+em seu habitat ou a poluir seu
+lar, seria um desastre total!
 --- BLOCK ---
 A proteção do mar depende
-de nós. Se não, pode
-decidir descontar na gente! Haha!
+de nós. Se não, pode decidir
+descontar na gente! Haha!
 --- BLOCK ---
 Amo os peixes. Amo mesmo.
 Não digo que os amo,
 entende o que quero dizer!
 --- BLOCK ---
-Por exemplo, o Atum-espada. Sua barbatana
-dorsal é tão resistente que é
-usada em armas e armaduras.
+Por exemplo, o Atum-espada. Sua
+barbatana dorsal é tão resistente
+que é usada em armas e armaduras.
 --- BLOCK ---
-E o Peixe-sushi? É delicioso. Principalmente
-os mais gordurosos. E ainda
-ajudam a recuperar a Saúde!
+E o Peixe-sushi? É delicioso.
+Principalmente os mais gordurosos.
+E ainda ajudam a recuperar a Saúde!
 --- BLOCK ---
 É bom saber se ficar sem Poções
 durante a caçada. É só jogar
 a linha e pescar sua salvação!
 --- BLOCK ---
 Então, da próxima vez que comer
-um Peixe-sushi, não esqueça de agradecer
-por se sacrificar por você.
+um Peixe-sushi, não esqueça de
+agradecer por se sacrificar por você.
 --- BLOCK ---
-Ei! Me escuta, que tenho
-uma dica sensacional pra você.
+Ei! Me escuta, que tenho uma
+dica sensacional pra você.
 --- BLOCK ---
-Tem que usar a isca certa.
-Isca de Atum-espada para Atum-espada, Isca
-de atum para Atum... tá?
+Tem que usar a isca certa. Isca
+de Atum-espada para Atum-espada,
+Isca de atum para Atum... tá?
 --- BLOCK ---
-Jogue na água e os peixes
-vão vir nadando! ... Bem, nadando.
+Jogue na água e os peixes vão
+vir nadando! ... Bem, nadando.
 --- BLOCK ---
 Mas não vai encontrar iscas nas
 lojas. Tem que fazer as suas.
 --- BLOCK ---
-Pessoalmente, acho que fazer iscas é a
-coisa mais divertida que tem. Exceto
+Pessoalmente, acho que fazer iscas é
+a coisa mais divertida que tem. Exceto
 talvez uma noite de paquera! Haha!
 --- BLOCK ---
-Sim, as iscas são importantes. Não tem
-nada como criar a sua própria isca
-e ver os peixes se aproximarem.
+Sim, as iscas são importantes. Não
+tem nada como criar a sua própria
+isca e ver os peixes se aproximarem.
 --- BLOCK ---
-Ah, talvez já saiba, mas tem que escolher
-com cuidado a área de pesca. Não
-adianta pescar um peixe onde não tem.
+Ah, talvez já saiba, mas tem que
+escolher com cuidado a área de pesca.
+Não adianta pescar um peixe onde não tem.
 --- BLOCK ---
 Ei! Você não é daqui,
 né? Sempre percebo. É sua
 primeira vez em Tanzia?
 --- BLOCK ---
-Quem, eu? Ah, sou só um
-marinheiro. Meu navio viaja pelo mundo
+Quem, eu? Ah, sou só um marinheiro.
+Meu navio viaja pelo mundo
 carregado de Artigos e Mercadorias.
 --- BLOCK ---
 Agora estamos em Tanzia descarregando
 uma grande carga, mas logo
 estaremos de volta ao mar.
 --- BLOCK ---
-Ah, o mar é incrível. A
-brisa fresca, as ondas constantes...
+Ah, o mar é incrível. A brisa
+fresca, as ondas constantes...
 Poderia ficar aqui pra sempre.
 --- BLOCK ---
-Ah, chega de divagar. Toma,
-parceiro. Pega isso. Considere
-um presente do mar!
+Ah, chega de divagar.
+Toma, parceiro. Pega isso.
+Considere um presente do mar!
 --- BLOCK ---
 Ei! Te vi antes
 olhando o farol!
 --- BLOCK ---
 Esse farol é o símbolo de Tanzia. Guia
-os navios para casa como peixes que
-nadam contra a correnteza. É tão bonito...
+os navios para casa como peixes que nadam
+contra a correnteza. É tão bonito...
 --- BLOCK ---
 Então, pega. Considere um presente
 entre admiradores do farol.
 --- BLOCK ---
-Ei! Ouvi dizer que você é
-um Caçador de elite! Fico muito
-feliz por você, parceiro. Falo sério.
+Ei! Ouvi dizer que você é um
+Caçador de elite! Fico muito feliz
+por você, parceiro. Falo sério.
 --- BLOCK ---
 Te ver triunfar me dá vontade de
 triunfar também, pra que minha família
 possa se orgulhar de mim! Haha!
 --- BLOCK ---
-Ei, por que não pega
-isso? Como um gesto de
-apreço por todo seu esforço.
+Ei, por que não pega isso?
+Como um gesto de apreço
+por todo seu esforço.
 --- BLOCK ---
 Ei! Olha só você, parceiro!
 Agora é um mestre Caçador!
 --- BLOCK ---
-Te ver se exibindo me lembra do dia
-em que parti na minha primeira viagem...
+Te ver se exibindo me lembra do dia em
+que parti na minha primeira viagem...
 --- BLOCK ---
 Estava mais verde do que
-nunca. E digo isso no
-sentido de enjoado mesmo! Haha!
+nunca. E digo isso no sentido
+de enjoado mesmo! Haha!
 --- BLOCK ---
-Ah, bons tempos. Ei, por que
-não pega isso? Assim agradeço por
-esse passeio pelos meus recordações.
+Ah, bons tempos. Ei, por que não
+pega isso? Assim agradeço por esse
+passeio pelos meus recordações.
 --- BLOCK ---
 Escutou, parceiro? Uma
 notícia surpreendente!
@@ -232,16 +232,16 @@ Chocante! Impressionante!
 Um dragão ancião atacou a frota
 da Guilda no Mar contaminado!
 --- BLOCK ---
-Mas a Guilda não vai ficar
-de braços cruzados. Estão recrutando caçadores
+Mas a Guilda não vai ficar de braços
+cruzados. Estão recrutando caçadores
 para ajudar a matar a besta!
 --- BLOCK ---
-Imagino que vai se juntar a
-eles, então quero que pegue isso.
-Tenha cuidado lá fora, ok, parceiro?
+Imagino que vai se juntar a eles,
+então quero que pegue isso. Tenha
+cuidado lá fora, ok, parceiro?
 --- BLOCK ---
-Caramba! Você realmente matou o
-Miralis funesto!? É incrível!
+Caramba! Você realmente matou
+o Miralis funesto!? É incrível!
 --- BLOCK ---
 Todos em Tanzia falam sobre
 isso. Estamos muito gratos.
@@ -250,12 +250,12 @@ Mal posso esperar para zarpar de
 novo. Vou contar suas proezas em
 todos os portos do mundo! Haha!
 --- BLOCK ---
-Ah, quase esqueci. Quero que pegue isso.
-É meu tesouro mais valioso. Sem
+Ah, quase esqueci. Quero que pegue
+isso. É meu tesouro mais valioso. Sem
 contar minha esposa e filhos! Haha!
 --- BLOCK ---
-Então, ficaria muito feliz se aceitasse,
-parceiro. E obrigado de novo!
+Então, ficaria muito feliz se
+aceitasse, parceiro. E obrigado de novo!
 --- BLOCK ---
 Ei! Olha quem está aqui!
 --- BLOCK ---
