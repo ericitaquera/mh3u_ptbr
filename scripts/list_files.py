@@ -1,4 +1,5 @@
 import os
+import subprocess
 import sys
 
 def search_files(name_part, directory):
@@ -7,7 +8,10 @@ def search_files(name_part, directory):
     for root, _, files in os.walk(directory):
         for file in files:
             if name_part.lower() in file.lower():
-                print(os.path.join(root, file))
+                fullpath=os.path.join(root, file)
+                print(fullpath)
+                subprocess.run(["py", ".\\repack_qtds.py", fullpath])
+                #input()
                 matches += 1
     if matches == 0:
         print("❌ No matches found.")
