@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Narg at Nite
+TITLES_1=Chasse nocturne
+TITLES_2=Narg bei Nacht
+TITLES_3=Caccia notturna
+TITLES_4=Noche de Nargacuga
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Nargacuga
+OBJECTIVES_1=Chasser un Nargacuga
+OBJECTIVES_2=Erjage einen Nargacuga.
+OBJECTIVES_3=Caccia un Nargacuga
+OBJECTIVES_4=Caçar um Nargacuga
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Guildmaster
+CLIENTS_1=Maître de guilde
+CLIENTS_2=Gildenmeister
+CLIENTS_3=Maestro Gilda
+CLIENTS_4=Mestre da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The Guild's put out a request
+for someone to hunt a Nargacuga.
+This'll be a night fight, so keep
+yer head on a swivel and don't let
+that creature creep up behind ye.
+...TOO LATE! Heh, a little Guild
+humor ta keep ye on yer toes.
+DESCRIPTIONS_1=La guilde cherche quelqu'un
+pour chasser un Nargacuga.
+Ce sera un combat nocturne,
+ne laissez pas la créature
+vous surprendre dans le noir.
+OH, TROP TARD ! Hé hé, c'était
+de l'humour de la guilde.
+DESCRIPTIONS_2=Die Gilde verlangt, dass ein
+Nargacuga erjagt wird. Das
+wird ein Kampf bei Nacht, also
+pass auf, dass sich das Vieh
+nicht im Dunkeln von hinten
+anschleicht. OH, ZU SPÄT!
+Hehe, kleiner Gildenscherz.
+DESCRIPTIONS_3=La Gilda cerca qualcuno che cacci
+un Nargacuga. Sarà una caccia
+notturna, quindi tieni gli occhi
+ben aperti e non permettere che
+la creatura ti sorprenda
+alle spalle! NO! TROPPO TARDI!
+Ah, ah! Umorismo da Gilda!
+DESCRIPTIONS_4=O Grêmio solicita que
+alguém cace um Nargacuga.
+Será um combate noturno,
+então preste atenção e não
+deixe que essa criatura se
+aproxime. Oh, tarde demais!
+He, uma piadinha do Grêmio.
+

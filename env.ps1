@@ -13,16 +13,17 @@ $folders = @{
     GMD_TXT_DIR      = "$env:BASE_DIR\gmd_texts"
     GMD_TXT_PTBR_DIR = "$env:BASE_DIR\gmd_texts_ptbr"
     GMD_REPACKED_DIR     = "$env:BASE_DIR\gmd_repacked"
-    QTDS_TEXT_DIR    = "$env:BASE_DIR\qtds_text"
-    QTDS_TEXT_PTBR_DIR    = "$env:BASE_DIR\qtds_text_ptbr"
+    QTDS_TEXT_DIR    = "$env:BASE_DIR\qtds_texts"
+    QTDS_TEXT_PTBR_DIR    = "$env:BASE_DIR\qtds_texts_ptbr"
     ARC_REPACKED_DIR = "$env:BASE_DIR\arc_repacked"
     ROMFS_FINAL_DIR  = "$env:BASE_DIR\romfs_final"
     SCRIPTS          = "$env:BASE_DIR\scripts"
     TMP_DIR          = "$env:BASE_DIR\tmp"
     LOG_DIR          = "$env:BASE_DIR\logs"
     TOOLS_DIR        = "$env:BASE_DIR\tools"
-    QUICKBMS_SCRIPTS_DIR        = "$env:BASE_DIR\quickbms_scripts"
-    PROMPTS_GPT        = "$env:BASE_DIR\prompts_gpt"
+    QUICKBMS_SCRIPTS_DIR            = "$env:BASE_DIR\quickbms_scripts"
+    PROMPTS_GPT         = "$env:BASE_DIR\prompts_gpt"
+    MOD_PATH_DIR        = "$env:BASE_DIR\luma\titles\00040000000AE400\romfs\"
 
 }
 

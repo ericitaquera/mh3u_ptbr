@@ -1,0 +1,60 @@
+[TITLES]
+TITLES_0=Lurkers in the Woods
+TITLES_1=Rôdeurs des bois
+TITLES_2=Lauernd im Wald
+TITLES_3=Mostri in agguato
+TITLES_4=Saqueadores na floresta
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Black-cloaked Hunter
+CLIENTS_1=Chasseur en noir
+CLIENTS_2=Schwarzmantel-Jäger
+CLIENTS_3=Cacciatore in nero
+CLIENTS_4=Caçador de capa negra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=In the deepest forests of the
+Misty Peaks, natural predators
+lurk in the shadows, awaiting
+your approach. The hunter or the
+hunted... Which will you be?
+DESCRIPTIONS_1=Dans les forêts profondes des
+Pics brumeux, les prédateurs
+sont tapis et attendent leur
+proie. Chasseur ou chassé,
+quel rôle jouerez-vous ?
+DESCRIPTIONS_2=In den tiefsten Wäldern der
+Nebelgipfel lauern Raubtiere
+in den Schatten auf deine
+Ankunft. Wirst du der Jäger
+oder der Gejagte sein?
+DESCRIPTIONS_3=Nel cuore della foresta delle Cime
+nebbiose, predatori naturali si
+nascondono nell'ombra e aspettano
+che qualcuno si avvicini. Sarai preda
+o cacciatore? Questo è il dilemma.
+DESCRIPTIONS_4=Nas florestas profundas
+das Cumes Nebulosas,
+predadores espreitam nas
+sombras… só esperando você
+se aproximar. Caçador ou
+caçado... Qual deles será
+você? A escolha é sua.

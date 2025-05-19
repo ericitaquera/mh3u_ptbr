@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Pack Mentality
+TITLES_1=[Avancé] Esprit de meute
+TITLES_2=[Fortg.] Rudeltiere
+TITLES_3=[Avanzata] Legge del branco
+TITLES_4=[Avançada] Mentalidade coletiva
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Barioth
+in succession
+OBJECTIVES_1=Chasser 3 Barioth à la
+suite
+OBJECTIVES_2=Erjage 3 Bariothe
+in Folge.
+OBJECTIVES_3=Caccia 3 Barioth
+di seguito
+OBJECTIVES_4=Caçar 3 Barioth seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Expedition HQ
+CLIENTS_1=QG expédition toundra
+CLIENTS_2=Tundra-Expedition-HQ
+CLIENTS_3=Base esplorat. tundra
+CLIENTS_4=Quartel exped. Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=A herd instinct in Barioth?
+Inconceivable! And dangerous!
+We've no idea of their actual
+numbers, but the behavior alone
+is threat enough. Please rid us
+of this troublesome breed before
+we suffer any casualties.
+DESCRIPTIONS_1=Un Barioth avec un instinct
+grégaire ? C'est incroyable et
+très dangereux ! On ignore
+combien ils sont, mais ce com-
+portement est inquiétant.
+Débarrassez-moi d'eux avant
+qu'ils ne fassent des dégâts.
+DESCRIPTIONS_2=Herdentrieb bei Bariothen?
+Unfassbar! Und gefährlich! Wir
+kennen ihre Zahl nicht, aber
+das Verhalten der einzelnen
+ist schlimm genug. Erlöse
+uns von ihnen, bevor jemand
+zu Schaden kommt.
+DESCRIPTIONS_3=L'istinto del gregge nei Barioth?
+Inconcepibile! E pericoloso! Non
+sappiamo quanti siano, ma
+il loro comportamento è già
+una minaccia sufficiente. Liberaci
+da questa razza molesta prima
+che faccia le prime vittime.
+DESCRIPTIONS_4=Instinto de manada nos
+Barioth? Inconcebível!
+E perigoso! Desconheço
+qual é o número deles, mas esse
+comportamento já representa
+uma ameaça. Livra-nos deste
+problema antes que haja baixas.

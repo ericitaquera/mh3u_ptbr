@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Frozen Bloodlust
+TITLES_1=Fureur glacée
+TITLES_2=Gefrorener Blutrausch
+TITLES_3=Sete di sangue con ghiaccio
+TITLES_4=Gélida sede de sangue
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Glacial Agnaktor
+and a Barioth
+OBJECTIVES_1=Chasser un Agnaktor glacial
+et un Barioth
+OBJECTIVES_2=Erjage einen Gletscher-Ag-
+naktor und einen Barioth.
+OBJECTIVES_3=Caccia un Agnaktor glaciale
+e un Barioth
+OBJECTIVES_4=Caçar um Agnaktor glacial
+e um Barioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Guardsman
+CLIENTS_1=Garde de la toundra
+CLIENTS_2=Tundra-Wächter
+CLIENTS_3=Guardia della tundra
+CLIENTS_4=Guarda da Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We've lost both the earth and the
+sky on the Tundra. We'll lose the
+people next if this continues.
+There is nothing more we can do.
+Please, drive the two beasts away
+as quickly as possible! 
+DESCRIPTIONS_1=Nous avons perdu le ciel et le
+sol de la toundra, et nous
+perdrons les hommes si cela
+continue. Nous ne pouvons rien
+faire. S'il vous plaît, chassez
+vite les deux bêtes loin d'ici !
+DESCRIPTIONS_2=Wir haben schon den Boden
+und den Himmel der Tundra
+verloren. Schon bald verlieren
+wir auch ihre Bewohner. Wir
+sind hilflos. Bitte, vertreib
+die beiden Bestien, so schnell
+es geht.
+DESCRIPTIONS_3=Abbiamo perso la terra e i cieli
+nella tundra. Di questo passo
+perderemo anche gli uomini. Non
+abbiamo scelta: ti prego, sconfiggi
+le due belve più in fretta che puoi!
+DESCRIPTIONS_4=Perdemos a terra e o céu da
+Tundra. E se continuar assim,
+vamos perder nosso povo também.
+Já não conseguimos fazer mais
+nada... Por favor, afaste essas
+duas feras daqui o quanto antes!
+É nossa última esperança!

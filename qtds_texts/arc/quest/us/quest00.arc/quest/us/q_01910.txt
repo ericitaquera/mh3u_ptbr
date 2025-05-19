@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Operation: Paradise Lost
+TITLES_1=Opération Paradis perdu
+TITLES_2=Mission: Verlorenes Paradies
+TITLES_3=Operazione: Paradiso perduto
+TITLES_4=Operación: Paraíso perdido
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young General
+CLIENTS_1=Jeune général
+CLIENTS_2=Junger General
+CLIENTS_3=Giovane generale
+CLIENTS_4=Jovem General
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Why ain't I surprised? Just when
+my tour of duty's about to end,
+I get orders to wipe out all the
+monsters on the Deserted Island.
+Typical! I'll do my best, but maybe
+you could help me get home
+early, Guild Hunter!
+DESCRIPTIONS_1=Comme par hasard ! À la fin
+de mon tour de garde, on me
+demande de supprimer tous les
+monstres de l'île déserte ! Je
+ferai de mon mieux, mais vous
+pourriez peut-être m'aider à
+rentrer chez moi plus tôt ?
+DESCRIPTIONS_2=Bin ich überrascht? Nein!
+Kurz vor Ende meines Einsatzes
+erhalte ich den Befehl, alle
+Monster der Ödnis-Insel aus-
+zurotten. Typisch! Ich gebe
+mein Bestes, vielleicht kannst
+du mir helfen, Gildenjäger!
+DESCRIPTIONS_3=Come al solito! Proprio alla fine
+del turno, ho ricevuto l'ordine di
+liberare l'Isola deserta da tutti
+i mostri. Tipico! Non demordo,
+ma forse potresti aiutarmi
+a tornare a casa prima,
+cacciatore della Gilda!
+DESCRIPTIONS_4=Por que eu não tô surpreso? Tava
+prestes a terminar meu turno
+quando me mandam caçar monstros
+na Ilha Deserta. Sempre assim!
+Vou me esforçar, mas com sua ajuda
+isso acabaria bem mais rápido,
+caçador!

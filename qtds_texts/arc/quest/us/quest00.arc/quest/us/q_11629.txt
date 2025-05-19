@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Sand Storm
+TITLES_1=Tempête de sable
+TITLES_2=Sandsturm
+TITLES_3=Tempesta di sabbia
+TITLES_4=Tormenta de areia
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barroth
+and a Nibelsnarf
+OBJECTIVES_1=Chasser un Barroth et un
+Nibelsnarf
+OBJECTIVES_2=Erjage einen Barroth
+und einen Nibelsnarf.
+OBJECTIVES_3=Caccia un Barroth
+e un Nibelsnarf
+OBJECTIVES_4=Caçar um Barroth
+e um Nibelsnarf
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Frazzled Huntress
+CLIENTS_1=Chasseresse épuisée
+CLIENTS_2=Erschöpfte Jägerin
+CLIENTS_3=Cacciatrice esausta
+CLIENTS_4=Caçadora exausta
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Don't you just hate it when you
+get caught up in mining ores, and
+suddenly you find yourself flung
+willy-nilly into the air, and then
+a gaping mouth in the sand nearly
+swallows you? Welcome to my life!
+DESCRIPTIONS_1=C'est agaçant quand on extrait
+des minerais et qu'on se
+retrouve soudain projeté en
+direction d'une immense
+gueule béante dans le sable !
+Ça m'est arrivé !
+DESCRIPTIONS_2=Du hasst es doch sicher auch,
+wenn du plötzlich beim Erz-
+abbau einfach durch die Luft
+gewirbelt wirst und ein
+riesiges Maul im Sand dich
+verschlingen will, oder?
+Willkommen in meinem Leben!
+DESCRIPTIONS_3=Che odio! Stavo raccogliendo
+minerali, quando all'improvviso
+qualcosa mi scaraventa in aria
+e una bocca spalancata nella
+sabbia quasi mi inghiotte!
+Ecco com'è la mia vita!
+DESCRIPTIONS_4=Você não odiaria que,
+enquanto extraia minerais,
+de repente fosse lançado
+pelos ares e uma enorme boca
+na areia estivesse prestes a
+engoli-lo? Essa é a minha vida!

@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Save the Tundra
+TITLES_1=[Avancé] Sauvez la toundra
+TITLES_2=[Fortg.] Tundra-Rettung
+TITLES_3=[Avanzata] Salva la tundra
+TITLES_4=[Avançada] Salve a tundra
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Expedition Leader
+CLIENTS_1=Chef expéd. toundra
+CLIENTS_2=Tundra-Exped.leiter
+CLIENTS_3=Capo-esplorat. tundra
+CLIENTS_4=Líder expediç. Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=No one's spent more time on the
+Tundra than my team, so believe
+me when I say the region has never
+seen such a powerful group of
+monsters. If this keeps up, the
+Tundra itself could be irrevocably
+damaged. Help make a difference!
+DESCRIPTIONS_1=Personne ne passe plus de
+temps dans la toundra que mon
+équipe, mais je n'ai jamais vu
+un groupe de monstres si
+puissants. Si ça continue, la
+toundra subira des dégâts ir-
+réversibles. Aidez-nous !
+DESCRIPTIONS_2=Keiner hat mehr Zeit in der
+Tundra verbracht als mein
+Team. Du kannst mir glauben,
+so eine mächtige Monstergrup-
+pe gab es da noch nie. Wenn du
+nichts unternimmst, nimmt die
+Tundra irreparablen Schaden!
+DESCRIPTIONS_3=Nessuno ha trascorso più tempo
+della mia squadra nella tundra e
+credimi quando ti dico che
+un gruppo di mostri così potente
+non si era mai visto. La tundra
+stessa è in grave pericolo.
+Aiutaci a salvarla!
+DESCRIPTIONS_4=Ninguém passou mais tempo
+na Tundra do que minha equipe.
+Acredite em mim quando eu
+digo que nunca se viu um grupo
+de monstros tão poderoso. Se
+isto continuar assim, o dano
+será irreversível. Ajude-nos!

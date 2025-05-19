@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Hunter Killer
+TITLES_1=Chasseur tueur
+TITLES_2=Jägertöter
+TITLES_3=Il cacciatore assassino
+TITLES_4=Matar caçadores
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barroth and
+a Great Jaggi
+OBJECTIVES_1=Chasser un Barroth et
+un Grand Jaggi
+OBJECTIVES_2=Erjage einen Barroth
+und einen Großjaggi.
+OBJECTIVES_3=Caccia un Barroth e
+un Gran Jaggi
+OBJECTIVES_4=Caçar 1 Barroth e
+1 Grande Jaggi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wounded Hunter
+CLIENTS_1=Chasseur blessé
+CLIENTS_2=Verwundeter Jäger
+CLIENTS_3=Cacciatore ferito
+CLIENTS_4=Caçador ferido
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Listen to a hunter who knows!
+There's a Barroth and a Great
+Jaggi running wild on the
+Sandy Plains. No matter how
+good a hunter you think you
+are, you'd better stay away.
+It ain't worth your life!
+DESCRIPTIONS_1=Écoutez un chasseur avisé !
+Il y um Barroth et un Grand
+Jaggi en liberté dans les
+plaines de sable. Même
+si vous pensez être un bon
+chasseur, restez loin. Inutile
+d'y laisser la vie !
+DESCRIPTIONS_2=Hör auf einen Jäger, der sich
+auskennt! In der Sandebene
+gibt es wilde Barrothe und
+Großjaggi. Egal, wie gut du
+als Jäger zu sein glaubst,
+halte dich von ihnen fern.
+Dein Leben ist mehr wert!
+DESCRIPTIONS_3=Nelle Piane sabbiose si
+aggirano un Barroth e un Gran
+Jaggi. Non importa quanto tu
+ti ritenga abile nella caccia:
+cerca di stargli alla larga.
+Rischieresti inutilmente
+la vita e parlo per esperienza!
+DESCRIPTIONS_4=Escute o conselho de um caçador
+experiente! Tem um Barroth
+e um Grande Jaggi perambulando
+pelas Planícies Arenosas.
+Por melhor caçador que você
+seja, é melhor ficar longe.
+Não vale arriscar a vida!

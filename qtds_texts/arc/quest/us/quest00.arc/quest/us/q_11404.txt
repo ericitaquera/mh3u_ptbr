@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Toxic Tundra
+TITLES_1=Toundra toxique
+TITLES_2=Giftige Tundra
+TITLES_3=Tundra tossica
+TITLES_4=Tundra tóxica
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Gigginox
+OBJECTIVES_1=Chasser 2 Gigginox
+OBJECTIVES_2=Erjage 2 Gigginox.
+OBJECTIVES_3=Caccia 2 Gigginox
+OBJECTIVES_4=Caçar 2 Gigginox
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Ranger
+CLIENTS_1=Ranger de la toundra
+CLIENTS_2=Tundra-Ranger
+CLIENTS_3=Ranger della tundra
+CLIENTS_4=Soldado da Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Two Gigginox have taken up
+residence in the Tundra. The
+caverns have become toxic,
+filled with poison and Giggi.
+This ecological nightmare could
+spread outside the Tundra if
+you don't act now.
+DESCRIPTIONS_1=Deux Gigginox se sont établis
+dans la toundra. Les grottes
+sont pleines de poison et de
+Giggi. Ce cauchemar écologique
+risque de s'étendre aux autres
+régions si vous n'agissez pas
+maintenant.
+DESCRIPTIONS_2=Zwei Gigginox haben sich in
+der Tundra niedergelassen. Die
+Höhlen sind voller Gift und
+Giggi. Dieser ökologische
+Albtraum kann sich möglicher-
+weise ausbreiten, wenn du
+jetzt nichts unternimmst.
+DESCRIPTIONS_3=Due Gigginox si sono stabiliti
+nella tundra. Le grotte sono
+diventate tossiche, piene di
+veleno e Giggi. Il disastro
+ecologico potrebbe propagarsi
+fuori dalla tundra se non
+agisci in fretta.
+DESCRIPTIONS_4=Dois Gigginox se instalaram na
+Tundra. As cavernas estão tóxicas,
+cheias de veneno e de Giggi por todo
+lado. Isso pode se espalhar além
+da Tundra se você não agir logo!
+Não temos tempo a perder

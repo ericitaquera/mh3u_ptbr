@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Erratic Electricity
+TITLES_1=Décharge électrique
+TITLES_2=Verirrte Elektrizität
+TITLES_3=Elettricità incontrollata
+TITLES_4=Choque imprevisível
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Baleful Gigginox
+OBJECTIVES_1=Chasser un Gigginox
+foudroyant
+OBJECTIVES_2=Erjage einen
+Unheils-Gigginox.
+OBJECTIVES_3=Caccia un Gigginox malefico
+OBJECTIVES_4=Caçar um Gigginox
+aterrador
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Rock Collector
+CLIENTS_1=Collectionneur pierres
+CLIENTS_2=Steinsammler
+CLIENTS_3=Collezionista di rocce
+CLIENTS_4=Colecionador de rochas
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Even a rockhead like me knows
+lightning ain't supposed to strike
+inside caves -- but that's what
+happened during my last mining
+trip to the Tundra. If one of them
+bolts strikes my pickaxe, my
+Giggi's cooked. Can ya help?
+DESCRIPTIONS_1=Je sais bien que la foudre ne
+tombe pas dans les grottes,
+mais c'est pourtant ce que
+j'ai vu lors de mon dernier
+voyage dans la toundra. Si
+elle touche ma pioche, je
+suis cuit ! Aidez-moi !
+DESCRIPTIONS_2=Selbst ich weiß, dass Blitze
+nicht in Höhlen vorkommen.
+Aber genau das passierte bei
+meiner letzten Reise in der
+Tundra. Wenn ein Blitz meine
+Spitzhacke trifft, werde ich
+gegrillt. Kannst du helfen?
+DESCRIPTIONS_3=Tutti sanno che i fulmini non
+dovrebbero colpire dentro
+le caverne... ma è quel che
+è successo durante l'ultima
+spedizione mineraria nella tundra!
+Se colpissero il mio piccone, sarei
+spacciato. Potresti aiutarmi?
+DESCRIPTIONS_4=Até mesmo um cabeça oca como eu
+sabe que um raio não cai dentro
+de uma caverna, mas foi isso que
+aconteceu na minha última viagem
+à Tundra. Se um raio desses
+atingir meu pico, meu Giggi
+acaba frito. Você me ajuda?

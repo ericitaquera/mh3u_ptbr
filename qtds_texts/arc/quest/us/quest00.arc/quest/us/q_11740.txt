@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] White Noise
+TITLES_1=[Avancé] Bruit blanc
+TITLES_2=[Fortg.] Weißes Rauschen
+TITLES_3=[Avanzata] Rumore bianco
+TITLES_4=[Avançada] Ruído branco
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Female Geologist
+CLIENTS_1=Géologue
+CLIENTS_2=Geologin
+CLIENTS_3=Geologa
+CLIENTS_4=Geóloga
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The Tundra is such a tease! It's
+just so vast and unexplored and
+full of discoveries waiting to be
+made! But right now we can't
+explore squat because of all the
+rampaging mega fauna. Cull these
+beasts for the sake of science!
+DESCRIPTIONS_1=La toundra est si excitante,
+si vaste et inconnue ! Elle
+regorge de secrets à percer !
+Mais on ne peut pas l'explorer
+à cause des monstres énormes.
+Éliminez ces bêtes pour la
+science !
+DESCRIPTIONS_2=Die Tundra ist eine Herausfor-
+derung! Groß und unerforscht
+wartet sie darauf, dass man
+ihre Geheimnisse lüftet. Lei-
+der gibt es da diese großen,
+wilden Bestien. Erlege sie im
+Namen der Wissenschaft!
+DESCRIPTIONS_3=La tundra è una vera tentazione. È
+così vasta, inesplorata e piena
+di nuove meraviglie da scoprire!
+Purtroppo l'esplorazione è resa
+impossibile dalle enormi creature
+che infestano l'area. Abbattile
+per amore della scienza!
+DESCRIPTIONS_4=A Tundra me emociona! É
+vasta, inexplorada e está
+cheia de segredos para
+descobrir! Mas não podemos
+explorar nada por causa dessa
+fauna selvagem. Sacrifique
+essas bestas, pela ciência!

@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Desert Storm
+TITLES_1=Tempête dans le désert
+TITLES_2=Wüstensturm
+TITLES_3=Bufera del deserto
+TITLES_4=Tempestade do deserto
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Sand Barioth
+OBJECTIVES_1=Chasser un Barioth des sables
+OBJECTIVES_2=Erjage einen Sand-Barioth.
+OBJECTIVES_3=Caccia un Barioth delle sabbie
+OBJECTIVES_4=Caçar um Barioth arenoso
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Eagle-eyed Observer
+CLIENTS_1=Observateur attentif
+CLIENTS_2=Scharfer Beobachter
+CLIENTS_3=Ossearvatore attento
+CLIENTS_4=Observador perspicaz
+[DESCRIPTIONS]
+DESCRIPTIONS_0=[REPORT BEGINS] A Sand Barioth has
+been spotted on the Sandy Plains.
+[STOP] Requesting immediate
+support from all available skilled
+hunters. [STOP] The situation is
+spiraling out of control...
+[REPORT ENDS]
+DESCRIPTIONS_1=[DÉBUT DU RAPPORT] Un Barioth
+des sables a été vu dans les
+plaines de sable. [STOP] Appel
+à tous les chasseurs qualifiés.
+[STOP] La situation est hors de
+contrôle. [FIN DU RAPPORT]
+DESCRIPTIONS_2=[BERICHT ANFANG] Sand-Barioth
+in der Sandebene gesichtet.
+[STOPP] Sofortige Unter-
+stützung von fähigen Jägern
+erbeten. [STOPP] Die Situation
+gerät außer Kontrolle...
+[BERICHT ENDE]
+DESCRIPTIONS_3=[INIZIO RAPPORTO] Un Barioth
+delle sabbie è stato avvistato
+nelle Piane sabbiose. [STOP]
+Richiesto supporto immediato di
+tutti i cacciatori abili disponibili.
+[STOP] La situazione sta
+precipitando. [FINE RAPPORTO]
+DESCRIPTIONS_4=[INÍCIO DO RELATO] Barioth Arenoso
+localizado nas Planícies Arenosas.
+[FIM] Solicitamos ajuda imediata
+de todos os caçadores disponíveis.
+[FIM] A situação está fugindo
+do controle... [FIM DO RELATO]

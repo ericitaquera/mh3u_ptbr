@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Hot and Bothered
+TITLES_1=Chaleur(s)
+TITLES_2=Paarungszeit
+TITLES_3=In agitazione
+TITLES_4=Sangue fervendo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rust Duramboros
+and a Black Diablos
+OBJECTIVES_1=Chasser un Duramboros r.
+et une Diablos noire
+OBJECTIVES_2=Erjage 1 Rost-Duramboros
+und 1 Schwarze Diablos.
+OBJECTIVES_3=Caccia un Duramboros rugginoso
+e una Diablos nera
+OBJECTIVES_4=Caçar uma Diablos negra e
+um Duramboros enferrujado
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Sandskiff Merchant
+CLIENTS_1=Marchand en skiff
+CLIENTS_2=Sandjollen-Händler
+CLIENTS_3=Mercante di Solcadune
+CLIENTS_4=Comerciante barcoareia
+[DESCRIPTIONS]
+DESCRIPTIONS_0=No way I'm taking out my boat with
+those two monsters roaming the
+Sandy Plains. I hear the Black
+Diablos is in heat. Can you imagine?
+Those things are mean enough
+when they're not all randy!
+DESCRIPTIONS_1=Je ne sortirai pas mon navire
+tant que ces deux monstres
+rôderont dans les plaines de
+sables. On dit que la Diablos
+noire est en chaleur. Elle
+doit être très agressive !
+DESCRIPTIONS_2=Ich werde nicht mit meinem
+Boot fahren, solange diese
+beiden Bestien die Sandebene
+durchstreifen. Die Schwarze
+Diablos soll paarungswillig
+sein. Ist das vorstellbar? Die
+sind so schon schlimm genug!
+DESCRIPTIONS_3=Per nessuna ragione uscirei con
+la mia imbarcazione mentre quei
+due mostri si aggirano per le Piane
+sabbiose. Ho sentito che la Diablos
+nera è in calore. Ti immagini?
+Quelle cose sono già abbastanza
+aggressive quando non sono eccitate!
+DESCRIPTIONS_4=Não vou tirar meu barco com
+esses dois monstros vagando
+pelas Planícies arenosas.
+Ouvi dizer que a Diablos
+negra está irritada. Imagine.
+Eles já são cruéis mesmo
+quando não estão animados!

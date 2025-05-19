@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=No Guts, No Glory
+TITLES_1=Pas de tripes, pas de gloire
+TITLES_2=Kein Ruhm ohne Innereien
+TITLES_3=Ci vuole fegato... e budella
+TITLES_4=Sem tripas, sem glória
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 3 Monster Guts
+OBJECTIVES_1=Livrer 3 boyaux de monstre
+OBJECTIVES_2=Besorge
+3 Monsterinnereien.
+OBJECTIVES_3=Consegna 3 Budella mostro
+OBJECTIVES_4=Entregar 3 Tripas de
+monstro
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Caravan Leader
+CLIENTS_1=Chef de la caravane
+CLIENTS_2=Karawanenführer
+CLIENTS_3=Capo carovana
+CLIENTS_4=Líder de caravana
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Delex attack in packs and are
+mean as all get out, but their
+innards make right good trail
+chow. I reckon takin' them
+down is like killin' two
+Vespoids with one stone, eh?
+Now git along, little hunter.
+DESCRIPTIONS_1=Les Delex attaquent en groupe
+et sont très méchants,
+mais leurs entrailles sont
+bonnes. Les pister, c'est
+comme faire d'une pierre deux
+Vespoid, hein ? Allez, en
+route, jeune chasseur.
+DESCRIPTIONS_2=Delexe greifen im Rudel an und
+sind hinterhältig, aber ihre
+Innereien sind gute Marsch-
+verpflegung. Sie zu erlegen,
+ist wie zwei Vespoiden mit
+einer Klappe zu schlagen, hm?
+Weiter geht's, kleiner Jäger.
+DESCRIPTIONS_3=I Delex sono pericolosi e attaccano
+in branco, ma le loro interiora sono
+un ottimo cibo da viaggio. Ucciderli
+è come prendere due Vespoid con
+una fava, non trovi? Allora mettiti
+all'opera, giovane!
+DESCRIPTIONS_4=Os Delex atacam em grupo
+e são malvados, mas suas
+entranhas são muito saborosas.
+Acredito que derrotá-los é
+como matar dois Vespoid
+com uma pedra. Você não acha?
+Agora vá a isso, caçador.

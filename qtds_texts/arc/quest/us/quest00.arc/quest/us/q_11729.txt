@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=[Advanced] Forest Folly
+TITLES_1=[Avancé] Folie en forêt
+TITLES_2=[Fortg.] Wald-Wahnsinn
+TITLES_3=[Avanzata] Foresta affollata
+TITLES_4=[Avançada] Loucura forestal
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Nargacugas
+in succession.
+OBJECTIVES_1=Chasser 3 Nargacuga à la
+suite
+OBJECTIVES_2=Erjage 3 Nargacugas
+in Folge.
+OBJECTIVES_3=Caccia 3 Nargacuga
+di seguito
+OBJECTIVES_4=Caçar 3 Nargacuga seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Bumbling Traveler
+CLIENTS_1=Voyageur empoté
+CLIENTS_2=Linkischer Reisender
+CLIENTS_3=Viaggiatore maldestro
+CLIENTS_4=Viajante desengonçado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The Flooded Forest is so lovely
+this time of year! Oh, I seem to
+be surrounded by Nargacuga.
+It must be my lucky day! I wonder
+if they like being scratched
+behind the horns...
+DESCRIPTIONS_1=La forêt inondée est superbe
+en cette saison ! Oh, il y a des
+Nargacuga partout ! Quelle
+chance ! Je me demande s'ils
+aiment les gratouilles entre
+les cornes...
+DESCRIPTIONS_2=Zu dieser Zeit des Jahres ist
+der Flutwald so wundervoll!
+Oh, was sehe ich? Ich bin von
+Nargacugas umgeben. Das muss
+mein Glückstag sein! Ob sie
+sich wohl gerne hinter den
+Hörnern kraulen lassen...
+DESCRIPTIONS_3=La Foresta inondata è incantevole
+in questo periodo dell'anno! Oh,
+pare che qui intorno ci siano dei
+Nargacuga. Deve essere il mio 
+giorno fortunato! Ehi, chissà 
+se a loro piace farsi grattare 
+dietro le corna...
+DESCRIPTIONS_4=Nesta época, a Floresta
+Inundada é encantadora!
+Parece que estou cercado por
+Nargacuga. É o meu dia de
+sorte! Me pergunto se eles
+gostam de serem arranhados
+atrás da cornamenta...

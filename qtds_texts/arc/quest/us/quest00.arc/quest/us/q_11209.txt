@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=When the Levy Breaks
+TITLES_1=Quand la digue cède
+TITLES_2=Wenn der Damm bricht
+TITLES_3=Quando gli argini si rompono
+TITLES_4=Caem as defesas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Duramboros
+OBJECTIVES_1=Chasser un Duramboros
+OBJECTIVES_2=Erjage einen Duramboros.
+OBJECTIVES_3=Caccia un Duramboros
+OBJECTIVES_4=Caçar um Duramboros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Soggy Villager
+CLIENTS_1=Villageois trempé
+CLIENTS_2=Durchnässter Dörfler
+CLIENTS_3=Paesano inzuppato
+CLIENTS_4=Aldeão encharcado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Hoo-boy, we're up a creek!
+I dunno what that Duramboros in
+the Flooded Forest is up to, but
+the river jumped its banks and the
+dykes burst. If someone doesn't
+stop that beast's rampage, the
+village is sunk!
+DESCRIPTIONS_1=Bon sang, nous sommes dans le
+pétrin ! Je ne sais pas ce que
+fabrique ce Duramboros dans la
+forêt inondée, mais la rivière a
+jailli hors de son lit et la
+digue a cédé. Si personne ne
+l'arrête, le village sera noyé !
+DESCRIPTIONS_2=Wir sind aufgeschmissen! Keine
+Ahnung, was dieser Duramboros
+im Flutwald vorhat, aber der
+Fluss ist über die Ufer getre-
+ten und die Dämme sind ge-
+brochen. Jemand muss was tun,
+sonst ist das Dorf verloren!
+DESCRIPTIONS_3=Cavoli, siamo spacciati! Non so cosa
+abbia in mente quel Duramboros
+nella Foresta inondata, ma il fiume
+ha rotto gli argini e le dighe non
+hanno retto. Se qualcuno non ferma
+la furia di quella belva, il villaggio
+sarà sommerso!
+DESCRIPTIONS_4=Eita, confusão das grandes!
+Não sei o que o Duramboros do
+Bosque Alagado tá tramando,
+mas ele estourou o rio e os
+diques. Se ninguém parar essa
+besta, a aldeia toda vai ficar
+debaixo d’água!

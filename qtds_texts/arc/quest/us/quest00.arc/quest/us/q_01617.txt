@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Herd Mentality
+TITLES_1=Esprit de troupeau
+TITLES_2=Herdentrieb
+TITLES_3=La legge del branco
+TITLES_4=Comportamento de manada
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Imaginative Boy
+CLIENTS_1=Garçon rêveur
+CLIENTS_2=Fantasiereicher Junge
+CLIENTS_3=Ragazzo fantasioso
+CLIENTS_4=Filho criativo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=If I was a Great Jaggi, I'd be,
+like, "Listen here, Pink Rathian!
+You got a lotta nerve comin'
+around MY island. Time to show you
+there's strength in numbers! Bring
+on the new recruits! Let's hear it
+for the herd! RAAARRR!"
+DESCRIPTIONS_1=Si j'étais un Grand Jaggi, je
+ferais genre : "Hé, Rathian
+rose ! T'as du culot de venir
+sur MON île. Je vais te
+montrer la force du groupe.
+Allez, nouvelles recrues ! Le
+cri de guerre : RAAAARRR !"
+DESCRIPTIONS_2=Wenn ich ein Großjaggi wäre,
+würde ich sagen: „Hör zu, Rosa
+Rathian, du hast Nerven MEINE
+Insel zu betreten. Wir zeigen
+dir, dass wir gemeinsam stark
+sind. Her mit den neuen Rekru-
+ten! Für die Herde! RAAARRR!“
+DESCRIPTIONS_3=Se fossi un Gran Jaggi, direi: "Apri
+bene le orecchie, Rathian rosa!
+Hai avuto del fegato ad avvicinarti
+alla MIA isola. Ti dimostrerò che
+l'unione fa la forza. Fate entrare
+le nuove reclute! Un applauso
+per il branco! RAAARRR!".
+DESCRIPTIONS_4=Se eu fosse um Grande
+Jaggi, diria: “Ei,
+Rathian Rosa! Você é
+muito folgada de vir pra
+minha ilha! Vou mostrar
+nossa força! Recrutas!
+Bando! RAAAARRR!!”

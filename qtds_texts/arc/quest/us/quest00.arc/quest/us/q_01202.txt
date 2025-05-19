@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Bug Hunt
+TITLES_1=Chasse aux insectes
+TITLES_2=Käferjagd
+TITLES_3=Caccia all'insetto
+TITLES_4=Cazando bichos
+[OBJECTIVES]
+OBJECTIVES_0=Slay 12 Altaroth
+OBJECTIVES_1=Tuer 12 Altaroth
+OBJECTIVES_2=Erlege 12 Altarothe.
+OBJECTIVES_3=Uccidi 12 Altaroth
+OBJECTIVES_4=Matar 12 Altaroths
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Brainy Biologist
+CLIENTS_1=Biologiste dévoué
+CLIENTS_2=Gescheiter Biologe
+CLIENTS_3=Biologo cervellone
+CLIENTS_4=Biólogo nerd
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I'm considering writing a book
+about Altaroth in this area.
+Surely, even illiterate brutes
+like you hunters have noticed
+the large size and peculiar
+traits of these insects. Come,
+assist in my research!
+DESCRIPTIONS_1=Je veux écrire un livre sur
+les Altaroth de cette région.
+Même des brutes illettrées
+comme les chasseurs ont dû
+remarquer la taille et les
+traits caractéristiques de ces
+insectes. Venez m'aider !
+DESCRIPTIONS_2=Ich sollte ein Buch über die
+Altarothe von hier schreiben.
+Selbst Analphabeten wie euch
+Jägern sind schon Größe und
+besondere Merkmale dieser
+Insekten aufgefallen. Los, ich
+brauche Hilfe beim Forschen!
+DESCRIPTIONS_3=Pensavo di scrivere un libro
+sugli Altaroth della zona.
+Nonostante la vostra rozzezza,
+anche voi cacciatori avrete
+notato questa specie così
+imponente e peculiare. Forza,
+assistimi nella ricerca.
+DESCRIPTIONS_4=Estou pensando em escrever
+um livro sobre os Altaroth
+desta área. Aposto que até
+caçadores analfabetos como você
+repararam como eles são grandes e
+esquisitos. Esses insetos são bem
+curiosos… Vamos investigá-los!

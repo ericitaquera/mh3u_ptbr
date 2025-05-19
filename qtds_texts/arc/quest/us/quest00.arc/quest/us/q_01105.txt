@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Goldenfish Opportunity
+TITLES_1=Opportunité poissondor
+TITLES_2=Goldenfisch-Chance
+TITLES_3=Occasione d'oro
+TITLES_4=Oportun. do Peixe dourado
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 3 Goldenfish
+OBJECTIVES_1=Livrer 3 Poissondor
+OBJECTIVES_2=Besorge 3 Goldenfische.
+OBJECTIVES_3=Consegna 3 Pesci-dorati
+OBJECTIVES_4=Entregar 3 Peixes dourados
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Fish Fanboy
+CLIENTS_1=Passionné des poissons
+CLIENTS_2=Junger Fischfan
+CLIENTS_3=Patito della pesca
+CLIENTS_4=Fanático dos peixes
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I love fish so much, my pals
+say I should marry one. Silly,
+huh? Goldenfish are the
+prettiest... um, I mean best.
+Catch me three and I'll reward
+you well -- maybe even invite you
+to the wedding. ...I'm kidding!
+DESCRIPTIONS_1=J'adore les poissons. Mes amis
+disent que je devrais en
+épouser un. Les Poissondor
+sont mes préférés. Attrapez-en
+trois et vous serez
+récompensé. Je vous inviterai
+au mariage. Je plaisante !
+DESCRIPTIONS_2=Ich liebe Fische. "Heirate
+einen!", sagen meine Freunde.
+Albern! Goldenfische sind die
+schönsten... äh besten. Fang
+mir drei und ich belohne dich
+gut – lade dich vielleicht
+zur Hochzeit ein. Nur Spaß!
+DESCRIPTIONS_3=I miei amici dicono che se amo
+tanto i pesci, dovrei sposarne
+uno. Che scemi! I Pesci-dorati
+sono i migliori! Portamene tre
+e ti ricompenserò come meriti.
+Potrei invitarti alle nozze.
+Ah ah! Sto scherzando!
+DESCRIPTIONS_4=Gosto tanto de peixes que meus
+amigos dizem que eu devia me casar
+com um! Que bobagem, né? Peixes
+Dourados são os melhores! Pesque
+três pra mim e te recompenso
+bem... quem sabe até te convido
+pro casamento. Tô brincando!

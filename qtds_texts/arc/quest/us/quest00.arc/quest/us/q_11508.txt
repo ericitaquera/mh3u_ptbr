@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Echo Location
+TITLES_1=Écholocalisation
+TITLES_2=Echo-Ort
+TITLES_3=Echi di ghiaccio
+TITLES_4=Ecolocalização
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Glacial Agnaktor
+OBJECTIVES_1=Chasser un Agnaktor glacial
+OBJECTIVES_2=Erjage einen
+Gletscher-Agnaktor.
+OBJECTIVES_3=Caccia un Agnaktor glaciale
+OBJECTIVES_4=Caçar um Agnaktor glacial
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Solitary Composer
+CLIENTS_1=Compositeur solitaire
+CLIENTS_2=Einsamer Komponist
+CLIENTS_3=Compositore solitario
+CLIENTS_4=Compositor solitário
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The ear-splitting crack of
+calving glaciers! The rumbling
+echo of colliding icebergs! The
+sounds of the Tundra stir my soul.
+I must recreate them in my music!
+Would you escort me on an
+expedition to that frozen land?
+DESCRIPTIONS_1=Le craquement puissant des
+glaciers ! Le grondement des
+icebergs ! Les sons de la
+toundra résonnent dans mon
+âme. Je dois recréer leur
+musique ! Escortez-moi dans
+cette terre glacée !
+DESCRIPTIONS_2=Das ohrenbetäubende Krachen
+bei der Geburt von Gletschern!
+Das Donnerecho kollidierender
+Eisberge! Ich muss die Klänge
+der Tundra in meiner Musik
+festhalten! Begleitest du mich
+auf meiner Expedition?
+DESCRIPTIONS_3=L'assordante rumore delle crepe che
+rompono i ghiacciai. L'eco roboante
+di iceberg che collidono. I suoni
+della tundra agitano la mia anima.
+Devo riprodurli nella mia musica!
+Mi scorteresti in una spedizione
+nelle terre ghiacciate?
+DESCRIPTIONS_4=O estalo de geleiras se
+formando! O estrondo de icebergs
+colidindo! Os sons da Tundra
+alimentam minha alma. Preciso
+transformá-los em música!
+Você me acompanha na minha
+jornada a essas terras geladas?

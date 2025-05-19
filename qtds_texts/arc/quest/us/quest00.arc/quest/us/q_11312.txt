@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Mud Brothers
+TITLES_1=Frères boueux
+TITLES_2=Schlammbrüder
+TITLES_3=Fratelli di fango
+TITLES_4=Irmãos de barro
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Barroth
+OBJECTIVES_1=Chasser 2 Barroth
+OBJECTIVES_2=Erjage 2 Barrothe.
+OBJECTIVES_3=Caccia 2 Barroth
+OBJECTIVES_4=Caçar 2 Barroth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Sandy Plains Settler
+CLIENTS_1=Colon plaines de sable
+CLIENTS_2=Sandebenen-Siedler
+CLIENTS_3=Colono Piane sabbiose
+CLIENTS_4=Colono Plan. aren.
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I seen a lot of things in my life,
+but two Barroth at once? How in
+tarnation are we old timers
+supposed to beat 'em? Calling all
+spry young hunters: Get those
+beasties off our lawn!
+DESCRIPTIONS_1=J'ai vu beaucoup de choses
+dans ma vie, mais deux Barroth
+ensemble ? Comment pourrions-
+nous les battre ? Appel à tous
+les jeunes chasseurs : faites-
+les partir de chez nous !
+DESCRIPTIONS_2=Ich hab schon viel gesehen,
+aber zwei Barrothe zusammen?
+Wie sollen wir alten Leute sie
+bloß besiegen? An alle flinken
+und jungen Jäger: Vertreibt
+diese Bestien von unserem
+Grund!
+DESCRIPTIONS_3=In vita mia ne ho viste tante, ma
+due Barroth contemporaneamente?
+Come diavolo potrebbe sconfiggerli
+un vecchietto come me? A tutti
+i giovani e intraprendenti cacciatori:
+cacciate via quelle belve
+dal nostro prato!
+DESCRIPTIONS_4=Já vi de tudo nessa vida…
+Mas dois Barroths? Como
+vamos lidar com isso
+nós, caçadores veteranos?
+Jovens, a gente conta com
+vocês: mandem essas bestas
+embora do nosso território!

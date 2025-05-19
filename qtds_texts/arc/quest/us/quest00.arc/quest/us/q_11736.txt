@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=[Advanced] Twister Trio
+TITLES_1=[Avancé] Trois tornades
+TITLES_2=[Fortg.] Tornado-Trio
+TITLES_3=[Avanzata] Trio di tornado
+TITLES_4=[Avançada] Tornado triplo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Sand Barioth
+in succession
+OBJECTIVES_1=Chasser 3 Barioth des
+sables à la suite
+OBJECTIVES_2=Erjage 3 Sand-Bariothe
+in Folge.
+OBJECTIVES_3=Caccia 3 Barioth delle sabbie
+di seguito
+OBJECTIVES_4=Caçar 3 Barioth
+arenosos seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Sandy Plains Chieftain
+CLIENTS_1=Chef plaines de sable
+CLIENTS_2=Sandebenen-Chef
+CLIENTS_3=Capotribù delle Piane
+CLIENTS_4=Cacique Plan. arenos.
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Tornadoes are popping up in the
+Sandy Plains, and the nearby
+villages are in peril! I bet those
+Sand Barioth are behind the
+twisters. Mind taking the wind
+out of their scaly sails?
+DESCRIPTIONS_1=Les tornades se multiplient
+dans les plaines de sable, et
+les villages environnants sont
+en danger ! Je parie qu'elles
+sont causées par ces Barioth
+des sables. Éliminez-les !
+DESCRIPTIONS_2=In der Sandebene ziehen Stürme
+auf, die nahegelegenen Dörfer
+sind in Gefahr! Ich wette,
+dass die Sand-Bariothe dafür
+verantwortlich sind. Würdest
+du ihnen wohl den Wind aus
+den schuppigen Segeln nehmen?
+DESCRIPTIONS_3=I tornado apparsi nelle Piane
+sabbiose minacciano i villaggi
+vicini! Scommetto che i Barioth
+delle sabbie sono la causa. Ti
+dispiacerebbe togliere il vento
+dalle loro vele squamose?
+DESCRIPTIONS_4=Tornados estão surgindo
+nas Planícies arenosas,
+as aldeias próximas estão
+em perigo! Certamente os
+Barioth arenosos são os
+culpados. Você se importa
+de baixar a crista deles?

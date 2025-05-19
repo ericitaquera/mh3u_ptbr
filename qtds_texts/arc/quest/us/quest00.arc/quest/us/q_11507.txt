@@ -1,0 +1,59 @@
+[TITLES]
+TITLES_0=Dancing Flames
+TITLES_1=Flammes dansantes
+TITLES_2=Tanzende Flammen
+TITLES_3=Fiamme danzanti
+TITLES_4=Chamas dançantes
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Agnaktor
+OBJECTIVES_1=Chasser 2 Agnaktor
+OBJECTIVES_2=Erjage 2 Agnaktore.
+OBJECTIVES_3=Caccia 2 Agnaktor
+OBJECTIVES_4=Caçar 2 Agnaktor
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Princess
+CLIENTS_1=Princesse t. de feu
+CLIENTS_2=Feuerland-Prinzessin
+CLIENTS_3=Principessa terre inf.
+CLIENTS_4=Princesa país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Two wyverns are desecrating the
+Volcano, and my people huddle in
+terror. Please, you must defeat
+the monsters and end this sacrilege
+against the fire gods.
+DESCRIPTIONS_1=Deux Wyverns profanent le
+volcan et terrifient mon
+peuple. S'il vous plaît, allez
+vaincre ces monstres et
+mettez fin à ce sacrilège vis-
+à-vis des dieux du feu.
+DESCRIPTIONS_2=Zwei Wyvern entweihen den
+Vulkan, und mein Volk ist
+verängstigt. Bitte, du musst
+die Monster besiegen und
+diesem Sakrileg gegen die
+Feuergötter ein Ende bereiten.
+DESCRIPTIONS_3=Il vulcano è infestato da
+due wyvern e la mia gente è
+in preda al terrore. Ti prego,
+sconfiggi i due mostri e poni
+fine a questo sacrilegio
+contro gli dei del fuoco.
+DESCRIPTIONS_4=Dois wyverns estão profanando
+o Vulcão, e meu povo está
+aterrorizado. Por favor,
+derrote esses monstros e
+acabe com este sacrilégio
+contra os deuses do fogo.

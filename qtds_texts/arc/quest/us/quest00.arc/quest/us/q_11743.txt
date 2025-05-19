@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Plain Dangerous
+TITLES_1=[Avancé] Plaine dangereuse
+TITLES_2=[Fortg.] Einfach gefährlich
+TITLES_3=[Avanzata] Pericoli in vista
+TITLES_4=[Avançada] Plano e perigoso
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fangster HQ
+CLIENTS_1=QG Sicaires
+CLIENTS_2=Reißzahn-HQ
+CLIENTS_3=Base dei Fangster
+CLIENTS_4=Quartel de caçadores
+[DESCRIPTIONS]
+DESCRIPTIONS_0=When we Fangsters head outside,
+monsters hire hunters to slay us!
+...But even we need a vacation
+once in a while. Our day off is
+your time to shine, hunter! (Oh,
+and you wouldn't happen to know
+any arthritis remedies, eh?)
+DESCRIPTIONS_1=Les monstres engagent des
+chasseurs pour tuer les
+Sicaires ! Mais on a aussi
+besoin de vacances... et c'est
+là que vous entrez en jeu !
+(Vous n'avez pas un remède
+contre l'arthrose, au fait ?)
+DESCRIPTIONS_2=Wenn wir Reißzähne losziehen,
+heuern Monster Jäger an, um
+uns zu erledigen! Doch auch
+wir brauchen mal Urlaub. Deine
+Chance zu glänzen, Jäger! (Oh,
+du hast nicht zufällig ein
+Arthritismittel dabei?)
+DESCRIPTIONS_3=Noi Fangster siamo così temuti
+che i mostri assoldano cacciatori
+per eliminarci! Ma anche noi ci
+riposiamo ogni tanto: l'occasione
+giusta per mostrare il tuo valore!
+Oh, per caso conosci qualche
+rimedio per l'artrite?
+DESCRIPTIONS_4=Quando saímos, os monstros
+contratam caçadores para
+nos matar!... É que às vezes
+precisamos de um dia de folga.
+Esse dia é o seu dia, caçador!
+(Você não teria um remédio
+para a artrite, teria?).

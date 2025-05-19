@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=My Lord's Errand
+TITLES_1=Pour mon Seigneur
+TITLES_2=Auftrag für den Herrn
+TITLES_3=Una commissione pericolosa
+TITLES_4=El recado de mi señor
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Arzuros
+OBJECTIVES_1=Chasser un Arzuros
+OBJECTIVES_2=Erjage einen Arzuros.
+OBJECTIVES_3=Caccia un Arzuros
+OBJECTIVES_4=Caçar um Arzuros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Reticent Bodyguard
+CLIENTS_1=Garde réservé
+CLIENTS_2=Wortkarger Leibwächter
+CLIENTS_3=Guardia riservata
+CLIENTS_4=Gda-costas prevenido
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Grim tidings. An Arzuros has been
+seen roaming the Deserted Island.
+Its appearance is ill timed with
+my lord's visit, for he is not as
+spry as he once was. Good hunter,
+vanquish the Arzuros for the sake
+of my graybeard liege.
+DESCRIPTIONS_1=Mauvaise nouvelle : un Arzuros
+a été vu sur l'île déserte. Ça
+tombe mal, mon seigneur vient
+nous rendre visite et il n'est plus
+aussi vigoureux qu'avant. S'il
+vous plaît, battez l'Arzuros
+pour mon vieux maître.
+DESCRIPTIONS_2=Schlimme Nachrichten. Ein Ar-
+zuros wurde auf der Ödnis-In-
+sel gesichtet. Das ist gerade
+jetzt, da mein Fürst zu Besuch
+ist, äußerst unpassend. Bitte,
+beseitige den Arzuros im Namen
+meines alten Lehnsherrn.
+DESCRIPTIONS_3=Cattive notizie. Un Arzuros si aggira
+sull'Isola deserta, proprio ora che
+il mio signore è in visita, e non è
+certo scattante come un tempo.
+Buon cacciatore, sconfiggi l'Arzuros
+e salva il mio anziano signore.
+DESCRIPTIONS_4=Más notícias: um Arzuros está
+rondando pela Ilha Deserta.
+Isso acontece justo durante
+a visita do meu senhor, que já
+não tem o vigor de antigamente.
+Caçador, por favor, vença o
+Arzuros pelo bem do meu mestre.

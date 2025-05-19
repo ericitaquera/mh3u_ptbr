@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Tundra Trump Cards
+TITLES_1=Atouts de la toundra
+TITLES_2=Tundra-Trümpfe
+TITLES_3=Carte vincenti nella tundra
+TITLES_4=Uma mão boa na tundra
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Shifty Gambler
+CLIENTS_1=Parieur sournois
+CLIENTS_2=Gerissener Zocker
+CLIENTS_3=Giocatore disonesto
+CLIENTS_4=Jogador trapaceiro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This bet is a sure thing, but only
+if I can gather parts from a
+Lagombi, a Jade Barroth, and a
+Glacial Agnaktor. Where will I
+find a hunter who can tackle all
+three of them? If I lose, I'll be
+banished to the Tundra. Help me!
+DESCRIPTIONS_1=Je gagnerai ce pari si je peux
+obtenir des bouts de Lagombi,
+de Barroth de jade et
+d'Agnaktor glacial. Quel
+chasseur pourrait affronter
+les trois ? Si je perds, je
+serai banni de la toundra !
+DESCRIPTIONS_2=Das ist eine todsichere Wette,
+aber nur, wenn ich Teile von
+Lagombi, Jade-Barroth und
+Gletscher-Agnaktor bekomme.
+Gibt es einen Jäger, der alle
+erlegen kann? Verliere ich,
+muss ich in die Tundra! Hilfe!
+DESCRIPTIONS_3=Ho una giocata sicura, ma ho
+bisogno di raccogliere parti di
+un Lagombi, di un Barroth di giada
+e di un Agnaktor glaciale. C'è
+un cacciatore disposto a cacciare
+tutti e tre? Se perdo, sarò bandito
+dalla tundra. Aiutami!
+DESCRIPTIONS_4=É uma aposta segura, mas apenas
+se eu reunir partes de um
+Lagombi, um Barroth esmeralda
+e um Agnaktor glacial. Qual
+caçador poderá enfrentar os
+três? Se eu perder, eles me
+enviarão para a Tundra. Ajuda!

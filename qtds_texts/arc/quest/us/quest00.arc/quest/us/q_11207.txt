@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Canteen] Road Work
+TITLES_1=[Cantine] Route en travaux
+TITLES_2=[Kantine] Straßenarbeit
+TITLES_3=[Mensa] Lavori in corso
+TITLES_4=[Cantina] Obras
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Uragaan
+OBJECTIVES_1=Chasser un Uragaan
+OBJECTIVES_2=Erjage einen Uragaan.
+OBJECTIVES_3=Caccia un Uragaan
+OBJECTIVES_4=Caçar um Uragaan
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Lady Butcher
+CLIENTS_1=Bouchère
+CLIENTS_2=Metzgerin
+CLIENTS_3=Macellaia
+CLIENTS_4=Açougueira
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Some Uragaan is makin' mincemeat
+of the roads with all its rollin'
+around. The potholes are shakin'
+our carts to pieces, and my
+Volcano customers are missin' out
+on their meat! Help us and I'll
+toss ya some grade-A cuts.
+DESCRIPTIONS_1=Un Uragaan détruit la route
+avec ses roulades. Les nids-
+de-poules abîment nos chariots
+et mes clients du volcan ne
+reçoivent plus leur viande !
+Aidez-nous et je vous donnerai
+quelques beaux morceaux.
+DESCRIPTIONS_2=Ein Uragaan macht Hackfleisch
+aus den Straßen. Die Schlag-
+löcher lassen unsere Wagen
+bersten, und meine Kunden am
+Vulkan bekommen kein Fleisch!
+Hilf uns und ich schneide dir
+ein paar Filetstücke ab.
+DESCRIPTIONS_3=Gli Uragaan rovinano le strade
+con i loro rotolamenti. Le buche
+stanno facendo a pezzi i carri e
+i clienti del vulcano non ricevono
+la loro carne. Aiutaci e ti
+ricompenserò con tagli
+di prima scelta.
+DESCRIPTIONS_4=Um Uragaan tá destruindo
+tudo, rolando sem parar pelos
+caminhos! Os buracos quebram
+os carros, e meus clientes no
+Vulcão vão ficar sem carne!
+Me dá uma mão com isso e
+te dou uns cortes premium!

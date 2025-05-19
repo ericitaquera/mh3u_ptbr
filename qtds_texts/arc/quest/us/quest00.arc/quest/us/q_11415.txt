@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Frost Bitten
+TITLES_1=Engelure
+TITLES_2=Frostschaden
+TITLES_3=Assiderati
+TITLES_4=Congelamento
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Great Baggi
+OBJECTIVES_1=Chasser 2 Grands Baggi
+OBJECTIVES_2=Erjage 2 Großbaggi.
+OBJECTIVES_3=Caccia 2 Gran Baggi
+OBJECTIVES_4=Caçar 2 Gran Baggi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Expedition Leader
+CLIENTS_1=Chef expéd. toundra
+CLIENTS_2=Tundra-Exped.leiter
+CLIENTS_3=Capo-esplorat. tundra
+CLIENTS_4=Líder expediç. Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We found it -- the path to the
+fabled Wyvern's Graveyard in
+the Tundra! But the way is blocked
+by two Great Baggi. Curses! We're
+so close and yet so far away!
+Clear the way for us, hunter!
+DESCRIPTIONS_1=On l'a trouvé, le chemin qui
+mène au légendaire cimetière
+des Wyverns dans la toundra !
+Mais deux Grands Baggi nous
+empêchent de passer ! Libérez
+le passage pour nous !
+DESCRIPTIONS_2=Wir haben ihn gefunden! Den
+Weg zum legendären Wyvern-
+Friedhof in der Tundra! Aber
+er wird von zwei Großbaggi
+versperrt. Mist! So nah, und
+doch so fern! Mach den Weg
+für uns frei, Jäger!
+DESCRIPTIONS_3=L'abbiamo trovata! La strada per
+il leggendario cimitero dei wyvern
+nella tundra! Purtroppo la strada è
+bloccata da due Gran Baggi.
+Maledizione! Siamo così vicini
+eppure così distanti! Cacciatore,
+spiana la strada per noi!
+DESCRIPTIONS_4=Achamos a entrada pro
+cemitério mítico de wyverns
+na Tundra! Mas dois Gran
+Baggi bloqueiam o caminho.
+Droga… tão perto e tão
+longe! Desobstrua a passagem,
+caçador, e nos leve até lá!

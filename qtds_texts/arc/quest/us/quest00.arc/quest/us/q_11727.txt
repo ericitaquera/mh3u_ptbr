@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Feel the Heat
+TITLES_1=[Avancé] Chaleur intense
+TITLES_2=[Fortg.] Hitzewelle
+TITLES_3=[Avanzata] L'ira della terra
+TITLES_4=[Avançada] Sinta o calor
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Uragaan
+in succession
+OBJECTIVES_1=Chasser 3 Uragaan à la
+suite
+OBJECTIVES_2=Erjage 3 Uragaane
+in Folge.
+OBJECTIVES_3=Caccia 3 Uragaan
+di seguito
+OBJECTIVES_4=Caçar 3 Uragaan seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Princess
+CLIENTS_1=Princesse t. de feu
+CLIENTS_2=Feuerland-Prinzessin
+CLIENTS_3=Principessa terre inf.
+CLIENTS_4=Princesa país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=There is no end to the earth's
+quaking of late, and my people
+do naught but weep and pray,
+awaiting the end. Yet I do not
+believe we are fated for ruin!
+Would you climb the mountain
+and calm the earth's wrath?
+DESCRIPTIONS_1=La terre tremble et mon peuple
+ne fait que pleurer et prier,
+attendant la fin. Je ne veux
+pas croire que nous sommes
+perdus ! Pourriez-vous aller
+sur la montagne et apaiser
+la colère de la terre ?
+DESCRIPTIONS_2=Seit Kurzem hört die Erde
+nicht auf zu beben. Mein Volk
+weint, betet und erwartet das
+Ende. Ich glaube nicht, dass
+unser Ruin bevorsteht! Kannst
+du den Berg besteigen und
+die zürnende Erde besänftigen?
+DESCRIPTIONS_3=Ultimamente la terra trema di
+continuo e il mio popolo non
+fa che piangere e pregare, in
+attesa della fine. Ma non ho
+intenzione di arrendermi!
+Potresti salire sulla montagna
+e placare l'ira della terra?
+DESCRIPTIONS_4=Os tremores da terra parecem
+não ter fim e meu povo
+apenas chora e reza à espera
+do fim. Eu me recuso a
+acreditar que isso vai ser o
+fim! Você subiria a montanha
+para acalmar a ira da terra?

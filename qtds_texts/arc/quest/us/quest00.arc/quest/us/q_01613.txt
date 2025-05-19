@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Under the Yolk
+TITLES_1=Chasse aux œufs
+TITLES_2=Das Gelbe vom Ei
+TITLES_3=Uova con sorpresa
+TITLES_4=Ovos sem ninho
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 3 Gargwa Eggs
+OBJECTIVES_1=Livrer 3 œufs de Gargwa
+OBJECTIVES_2=Besorge 3 Gargwa-Eier.
+OBJECTIVES_3=Consegna 3 Uova di Gargwa
+OBJECTIVES_4=Entregar 3 Ovos Garwga
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Doting Mother
+CLIENTS_1=Mère aimante
+CLIENTS_2=Liebende Mutter
+CLIENTS_3=Madre premurosa
+CLIENTS_4=Mãe carinhosa
+[DESCRIPTIONS]
+DESCRIPTIONS_0=It's my daughter's birthday, but
+she thinks I forgot! I shooed her
+away on errands so I can whip up a
+Gargwa Egg omelette -- her favorite!
+I can't wait to see the look on her
+face! Please, get me the eggs
+or my surprise will backfire.
+DESCRIPTIONS_1=C'est l'anniversaire de ma
+fille, elle croit que j'ai
+oublié ! Je l'ai envoyée faire
+des courses pendant que
+je prépare une omelette de
+Gargwa, son plat préféré !
+Rapportez-moi des œufs !
+DESCRIPTIONS_2=Ich habe meine Tochter auf
+einen Botengang geschickt,
+damit ich in Ruhe ein Gargwa-
+Ei-Omelette als Geburtstags-
+überraschung für sie backen
+kann. Würdest du bitte die
+Eier für mich besorgen?
+DESCRIPTIONS_3=Mia figlia crede che abbia scordato
+il suo compleanno! Le ho
+assegnato delle commissioni, così
+da poterle preparare la frittata
+di Uova di Gargwa. Già immagino
+la sua faccia! Procurami le uova o
+la mia sorpresa andrà all'aria.
+DESCRIPTIONS_4=Hoje é o aniversário da minha
+filha, e ela acha que eu
+esqueci! Mandei ela fazer
+recados só pra preparar sua
+tortilha de ovos de Gargwa
+favorita. Imagina a carinha
+dela… Traga os ovos, por favor!

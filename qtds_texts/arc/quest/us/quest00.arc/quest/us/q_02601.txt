@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Poison Control
+TITLES_1=Antipoison
+TITLES_2=Giftkontrolle
+TITLES_3=Controllo del veleno
+TITLES_4=Controle de veneno
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Purple Ludroth
+OBJECTIVES_1=Chasser un Ludroth pourpre
+OBJECTIVES_2=Erjage einen Lila Ludroth.
+OBJECTIVES_3=Caccia un Ludroth purpureo
+OBJECTIVES_4=Caçar um Ludroth púrpura
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young General
+CLIENTS_1=Jeune général
+CLIENTS_2=Junger General
+CLIENTS_3=Giovane generale
+CLIENTS_4=Jovem General
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Well, ain't that typical. I get
+back from a 10-day hump in the
+bush, and what's waiting for me?
+Orders to hunt down a Purple
+Ludroth! I need some R&R! Mind
+fielding this one, Guild Hunter?
+DESCRIPTIONS_1=Le coup classique. Je reviens
+de dix jours de marche et on
+me demande d'aller chasser un
+Ludroth pourpre ! J'ai besoin
+de repos ! Vous iriez à ma
+place ?
+DESCRIPTIONS_2=Das ist mal wieder typisch.
+Ich war 10 Tage im Busch un-
+terwegs, und was erwartet mich
+hier? Der Befehl, einen Lila
+Ludroth zu jagen. Ich brauche
+eine Pause! Würdest du das für
+mich erledigen, Gildenjäger?
+DESCRIPTIONS_3=Beh, questa è proprio bella. Dopo
+dieci giorni di viaggio tra i cespugli
+cosa trovo ad aspettarmi? L'ordine
+di cacciare un Ludroth purpureo!
+Ho bisogno di riposare! Potresti
+occupartene tu, cacciatore
+della Gilda?
+DESCRIPTIONS_4=Ah, que novidade… Volto de
+uma caminhada de 10 dias pela
+floresta e o que encontro?
+Ordem de caçar um Ludroth
+Púrpura! Eu só queria descansar!
+Você se importa de cuidar
+disso, caçador do Gremio?

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Shakalaka Savior II
+TITLES_1=Sauveur de Shakalaka II
+TITLES_2=Shakalaka-Retter II
+TITLES_3=Salvatore Shakalaka II
+TITLES_4=Salvação do Shakalaka! II
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Duramboros
+OBJECTIVES_1=Chasser un Duramboros
+OBJECTIVES_2=Erjage einen Duramboros.
+OBJECTIVES_3=Caccia un Duramboros
+OBJECTIVES_4=Caçar um Duramboros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Forest Defense Force
+CLIENTS_1=Sauveteur de la forêt
+CLIENTS_2=Waldverteidigung
+CLIENTS_3=Corpo forestale
+CLIENTS_4=Guarda forestal
+[DESCRIPTIONS]
+DESCRIPTIONS_0=One of our rangers in the Flooded
+Forest saw a Duramboros chasing...
+something. It was a cute little
+thing, knee high to a Vespoid --
+kinda like that little pal of yours.
+Mind stopping the Duramboros
+and saving this mystery pipsqueak?
+DESCRIPTIONS_1=L'un de nos rangers a vu un
+Duramboros qui poursuivait...
+quelque chose dans la forêt
+inondée. Une petite chose un
+peu comme votre ami. Pouvez-
+vous arrêter ce Duramboros et
+sauver la bestiole ?
+DESCRIPTIONS_2=Ein Ranger hat im Flutwald
+einen Duramboros bei der Jagd
+auf... etwas gesehen. Es war
+niedlich und klein. Ging einem
+Vespoid bis zu den Knien. So
+wie dein kleiner Gefährte.
+Würdest du es wohl retten?
+DESCRIPTIONS_3=Un ranger ha visto un Duramboros
+nella Foresta inondata. Inseguiva
+una graziosa creatura, alta come
+un ginocchio di Vespoid... proprio
+come il tuo piccolo amico. Perché
+non fermi il Duramboros e salvi
+questa misteriosa creaturina?
+DESCRIPTIONS_4=Um dos guardas da Floresta
+Alagada viu um Duramboros correndo
+atrás de… algo. Era tão pequeno
+que mal chegava no joelho de
+um Vespoid, tipo aquele seu amigo.
+Você pode parar o Duramboros
+e salvar aquela coisinha?

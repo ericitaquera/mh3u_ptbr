@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Save Moga Village!
+TITLES_1=Sauver le village Moga !
+TITLES_2=Rette das Dorf Moga!
+TITLES_3=Salva il villaggio di Moga!
+TITLES_4=Salve a Vila Moga!
+[OBJECTIVES]
+OBJECTIVES_0=Repel a Ceadeus
+OBJECTIVES_1=Repousser un Ceadeus
+OBJECTIVES_2=Wehre einen Ceadeus ab.
+OBJECTIVES_3=Respingi un Ceadeus
+OBJECTIVES_4=Repele um Ceadeus
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Moga Village Chief
+CLIENTS_1=Chef du village Moga
+CLIENTS_2=Moga-Dorfchef
+CLIENTS_3=Capo villaggio di Moga
+CLIENTS_4=Chefe da Vila Moga
+[DESCRIPTIONS]
+DESCRIPTIONS_0=You remind me a lot of myself
+when I was your age. That's
+why I'm willin' to wager the
+lives of everyone in Moga
+Village that you have what it
+takes to save us. It's all up
+to you, kid. Don't hold back!
+DESCRIPTIONS_1=Vous me faites penser à moi
+au même âge. C'est pourquoi je
+suis prêt à parier sur la vie
+des habitants de Moga que vous
+pouvez nous sauver. C'est à
+vous de jouer, petit. Ne
+retenez pas vos coups !
+DESCRIPTIONS_2=Du erinnerst mich sehr an mich
+selbst in deinem Alter. Daher
+wette ich auch das Leben aller
+im Dorf Moga darauf, dass du
+das Zeug dazu hast, uns alle
+zu retten. Es liegt an dir.
+Halte dich nicht zurück!
+DESCRIPTIONS_3=In te ritrovo molti aspetti di
+quando ero giovane. Penso
+che tu abbia la stoffa per
+salvare il villaggio di Moga,
+Dai il massimo! Le nostre
+vite sono nelle tue mani.
+DESCRIPTIONS_4=Você me lembra muito a mim
+quando tinha a sua idade.
+Por isso, estou disposto a
+arriscar a vida dos moradores de
+Moga, porque sei que você pode
+nos salvar. Estamos contando
+com você. Não recue agora!

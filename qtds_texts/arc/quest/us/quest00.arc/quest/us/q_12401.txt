@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Brachydios Mio!
+TITLES_1=Brachydios Mío !
+TITLES_2=Oh mein Brachydios!
+TITLES_3=Brachydios mio!
+TITLES_4=Brachydeus meu!
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Brachydios
+OBJECTIVES_1=Chasser un Brachydios
+OBJECTIVES_2=Erjage einen Brachydios.
+OBJECTIVES_3=Caccia un Brachydios
+OBJECTIVES_4=Caçar um Brachydios
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Volcano Guard HQ
+CLIENTS_1=QG Garde du volcan
+CLIENTS_2=Vulkan-Wächter-HQ
+CLIENTS_3=Base guardie vulcano
+CLIENTS_4=Quartel Guarda Vulcão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We're up against something new
+and nasty at the Volcano.
+Its front legs are coated in a
+dangerous slime (!?) that adheres
+to any surface and then explodes.
+We're at a loss for what to do.
+Will anyone rise to the occasion?
+DESCRIPTIONS_1=On a affaire à un nouveau
+monstre vicieux sur le volcan.
+Ses pattes avant sont enduites
+de matière dangereuse qui
+colle puis explose. On ne sait
+plus quoi faire. Qui pourra
+nous aider ?
+DESCRIPTIONS_2=Wir haben es mit etwas völlig
+Unbekanntem im Vulkan zu tun.
+Seine Vorderbeine sind mit ge-
+fährlichem Schleim überzogen,
+der überall klebt und
+explodiert. Wir sind völlig
+ratlos. Wer hilft uns?
+DESCRIPTIONS_3=Una nuova, temibile creatura è
+comparsa al vulcano. Le zampe
+anteriori sono ricoperte di melma
+pericolosa, che aderisce a qualsiasi
+superficie ed esplode. Non
+sappiamo cosa fare. C'è qualche
+volontario che voglia occuparsene?
+DESCRIPTIONS_4=Estamos enfrentando algo
+novo e repugnante no Vulcão.
+Uma perigosa gosma cobre
+suas patas dianteiras, adere
+a toda superfície e explode.
+Não sabemos o que fazer.
+Há algum valente por aqui?

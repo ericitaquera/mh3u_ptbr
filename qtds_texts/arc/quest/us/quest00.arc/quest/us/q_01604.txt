@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Field Trip
+TITLES_1=Expédition
+TITLES_2=Exkursion
+TITLES_3=Gita in campagna
+TITLES_4=Expedição
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Great Jaggi
+OBJECTIVES_1=Chasser un Grand Jaggi
+OBJECTIVES_2=Erjage einen Großjaggi.
+OBJECTIVES_3=Caccia un Gran Jaggi
+OBJECTIVES_4=Caçar um Grande Jaggi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Spirited Teacher
+CLIENTS_1=Enseignant motivé
+CLIENTS_2=Beherzter Lehrer
+CLIENTS_3=Insegnante entusiasta
+CLIENTS_4=Professor entusiasta
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The next generation of hunters
+needs your help! Mind sharing your
+killer skills with my herd of
+little pupils? Just go hunt the
+Great Jaggi that leads the Jaggi
+pack in the Misty Peaks. C'mon,
+do it for the children!
+DESCRIPTIONS_1=La prochaine génération de
+chasseurs a besoin de vous !
+Partageriez-vous votre savoir
+avec mes élèves ? Il vous
+suffit d'aller chasser le Grand
+Jaggi qui règne sur la meute
+de Jaggi des Pics brumeux !
+DESCRIPTIONS_2=Die nächste Generation von
+Jägern braucht deine Hilfe!
+Willst du meine Schützlinge
+unterweisen? Erlege einfach
+den Großjaggi des Jaggi-
+Rudels in den Nebelgipfeln.
+Tu es für die Kinder!
+DESCRIPTIONS_3=La prossima generazione di
+cacciatori ha bisogno di te! Perché
+non aiuti i miei piccoli alunni con
+le tue abilità letali? Vai a caccia
+del Gran Jaggi a capo di un branco
+di Jaggi sulle Cime nebbiose.
+Forza, fallo per i bimbi!
+DESCRIPTIONS_4=A nova geração de caçadores
+precisa de você! Que tal
+compartilhar sua habilidade com
+meus alunos? Vá até as Cumes
+Nebulosas e derrote o Grande
+Jaggi que lidera a matilha.
+Faça isso pelas crianças!

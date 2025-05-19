@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Hammer Time
+TITLES_1=Coup de marteau
+TITLES_2=Hammer-Zeit
+TITLES_3=Datemi un martello
+TITLES_4=A marteladas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Duramboros
+OBJECTIVES_1=Chasser un Duramboros
+OBJECTIVES_2=Erjage einen Duramboros.
+OBJECTIVES_3=Caccia un Duramboros
+OBJECTIVES_4=Caçar um Duramboros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Yukumo Chieftess
+CLIENTS_1=Chef Yukumo
+CLIENTS_2=Yukumo-Chefin
+CLIENTS_3=Capotribù Yukumo
+CLIENTS_4=Cacique de Yukumo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Heed my words, dear hunter, and
+you shall prevail. It is said that
+the Duramboros wields its tail like
+a hammer, swinging it hither and
+thither while pounding the earth.
+May your journey be a safe one,
+and may it end with a trophy.
+DESCRIPTIONS_1=Écoutez mes paroles, et la
+victoire sera à vous. On dit
+que le Duramboros manie sa
+queue comme un marteau en
+frappant le sol. Que votre
+voyage soit sûr et vous
+rapporte un trophée.
+DESCRIPTIONS_2=Hör auf meine Worte, Jäger,
+und du wirst siegen. Ein Du-
+ramboros schwingt den Schweif
+wie einen Hammer und lässt
+die Erde zittern. Möge deine
+Reise sicher sein und mit
+einer Trophäe enden.
+DESCRIPTIONS_3=Caro cacciatore, ascoltami bene. Si
+dice che il Duramboros brandisca
+la coda come un martello,
+agitandola mentre percuote
+il terreno. Che la fortuna ti
+assista e che tu possa
+uscirne vincitore.
+DESCRIPTIONS_4=Escute, caçador, e você
+vencerá. Dizem que o
+Duramboros usa a cauda
+como um martelo gigante. Ele
+gira, bate no chão e espalha
+tudo ao redor. Que sua caçada
+seja segura e proveitosa.

@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Fang, Fang: You're Dead
+TITLES_1=Crocs mortels
+TITLES_2=Reißzahn um Reißzahn
+TITLES_3=Zanne mortali
+TITLES_4=Cravando as presas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Zinogre and
+a Stygian Zinogre
+OBJECTIVES_1=Chasser un Zinogre et un
+et un Zinogre stygien
+OBJECTIVES_2=Erjage einen Zinogre und
+einen Höllen-Zinogre.
+OBJECTIVES_3=Caccia uno Zinogre e
+uno Zinogre stigeo
+OBJECTIVES_4=Caçar um Zinogre e
+um Zinogre estigio
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Show these fanged wyverns even a
+hint of weakness, and they'll show
+you to your coffin! Only the
+best of the beast-killers should
+consider standing against these
+cruel and cunning creatures!
+DESCRIPTIONS_1=Laissez ces Wyvern à crocs
+voir votre faiblesse et vous
+quitterez l'arène les pieds
+devant ! Seuls les meilleurs
+chasseurs peuvent faire face
+à ces créatures sournoises.
+DESCRIPTIONS_2=Wenn man diesen Reißzahn-
+Wyvern auch nur einen Hauch
+von Schwäche zeigt, ist man
+verloren! Nur die besten
+Monsterjäger sollten es wagen,
+gegen diese grausamen
+Kreaturen anzutreten!
+DESCRIPTIONS_3=Mostra a questi wyvern zannuti
+il più piccolo segnale di debolezza
+e ti faranno a pezzi! Solo i cacciatori
+più abili dovrebbero combattere
+contro queste creature crudeli
+e astute!
+DESCRIPTIONS_4=Dê a esses wyverns um
+sinal de fraqueza, e suas
+presas vão te enterrar!
+Apenas os melhores
+caçadores de monstros devem
+considerar enfrentar essas
+criaturas cruéis e astutas!

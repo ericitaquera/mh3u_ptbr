@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=[Advanced] Noble Nuisance
+TITLES_1=[Avancé] Nuisance noble
+TITLES_2=[Fortg.] Noble Nervensäge
+TITLES_3=[Avanzata] Nobile seccatura
+TITLES_4=[Avançada] Nobre incômodo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Troubled Noble
+CLIENTS_1=Noble troublée
+CLIENTS_2=Aufgewühlter Adeliger
+CLIENTS_3=Nobile preoccupato
+CLIENTS_4=Nobre preocupado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I had just donned my finest silken
+hose and frilled fancy pants for
+an evening of moonwatching and
+truffle tasting, but then a horde
+of monsters barreled by and ruined
+everything! Skilled hunter, won't
+you punish those uncouth brutes?
+DESCRIPTIONS_1=Je venais d'enfiler mes plus
+beaux collants de soie pour
+aller regarder les étoiles,
+quand une horde de monstres
+est arrivée et a tout gâché !
+S'il vous plaît, punissez ces
+brutes !
+DESCRIPTIONS_2=Ich trug meine feinste Seiden-
+strumpfhose zu einer schicken
+Rüschenhose, um im Mondlicht
+Trüffel zu genießen, als eine
+Horde Monster alles verdarb! 
+Fähiger Jäger, würdest du 
+wohl diese Grobiane bestrafen?
+DESCRIPTIONS_3=Ero in ghingheri per passare
+una serata al chiaro di luna
+gustando del tartufo, quando
+un'orda di mostri ha rovinato
+tutto! Abile cacciatore, daresti
+una lezione a quegli zoticoni?
+DESCRIPTIONS_4=Eu tinha colocado meias
+de seda e calções elegantes
+para passar uma noite
+sob a lua comendo trufas,
+mas uma horda de monstros
+estragou tudo! Caçador,
+puna essas feras selvagens.

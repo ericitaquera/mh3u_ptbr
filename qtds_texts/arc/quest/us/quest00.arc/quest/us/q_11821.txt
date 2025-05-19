@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=The Earth Quakers
+TITLES_1=Tremblement de terre
+TITLES_2=Die Erderschütterer
+TITLES_3=I terrori della terra
+TITLES_4=Terremotos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Time to see who sits at the top of
+the food chain! We've filled the
+Arena with fearsome land beasts.
+Best all four and prove yourself
+the real tyrant of the turf!
+DESCRIPTIONS_1=Voyons qui est au sommet de la
+chaîne alimentaire ! L'arène
+est pleine de terribles bêtes
+terrestres. Battez-les toutes et
+grimpez sur le trône du tyran !
+DESCRIPTIONS_2=Mal sehen, wer an der Spitze
+der Nahrungskette steht! Die
+Arena ist voller schrecklicher
+Landbestien. Schlag alle vier
+und erweise dich als wahrer
+Champion!
+DESCRIPTIONS_3=È il momento di stabilire chi è
+in cima alla catena alimentare!
+Abbiamo riempito l'Arena di
+terribili belve. Battile tutte
+e quattro e dimostra
+chi è che comanda!
+DESCRIPTIONS_4=Vamos ver quem está no
+topo da cadeia alimentar!
+Enchemos a Arena com
+feras terríveis da
+terra. Derrote todas as
+quatro e prove que você
+é um verdadeiro tirano!

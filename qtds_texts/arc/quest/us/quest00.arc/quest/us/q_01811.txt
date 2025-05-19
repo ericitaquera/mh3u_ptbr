@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Canteen] The Endless Hunt
+TITLES_1=[Cantine] La chasse infinie
+TITLES_2=[Kantine] Die endlose Jagd
+TITLES_3=[Mensa] Caccia infinita
+TITLES_4=[Cantina] Caça interminável
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young General
+CLIENTS_1=Jeune général
+CLIENTS_2=Junger General
+CLIENTS_3=Giovane generale
+CLIENTS_4=Jovem General
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This battle in the Flooded Forest
+is gonna be a real quagmire, but
+it ain't my style to turn tail and
+run. Help us, and I'll think about
+tossing in some healthy grub with
+your reward. I know these soggy
+operations burn through supplies.
+DESCRIPTIONS_1=Cette bataille dans la forêt
+inondée sera difficile, mais
+je ne suis pas du genre à me
+défiler. Aidez-nous, et je
+vous donnerai de la nourriture
+saine en retour. Je sais que
+ce type de mission est usant.
+DESCRIPTIONS_2=Dieser Kampf in den Nebel-
+gipfeln wird die reinste
+Schlammschlacht! Aber ich bin
+kein Feigling. Hilf uns, und
+ich gebe dir noch etwas Ver-
+pflegung dazu. Sehr nützlich
+bei so einem Auftrag.
+DESCRIPTIONS_3=La battaglia nella Foresta inondata
+è un vero inferno, ma scappare non
+è certo il mio stile. Aiutaci e
+aggiungerò del buon cibo
+alla tua ricompensa. So che
+le operazioni in una zona così
+umida consumano le scorte.
+DESCRIPTIONS_4=A luta na Floresta Alagada
+vai ser coisa séria — mas
+fugir não é meu estilo. Se
+nos ajudar, eu te recompenso
+com uma boa refeição!
+Nessas missões úmidas,
+até o lanche derrete...

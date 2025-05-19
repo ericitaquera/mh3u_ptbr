@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Accident Investigation
+TITLES_1=Enquête après accident
+TITLES_2=Unfall-Untersuchung
+TITLES_3=Indagini sull'incidente
+TITLES_4=Investigação do acidente
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Gobul
+OBJECTIVES_1=Chasser un Gobul
+OBJECTIVES_2=Erjage einen Gobul.
+OBJECTIVES_3=Caccia un Gobul
+OBJECTIVES_4=Caçar um Gobul
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tiempo.
+[CLIENTS]
+CLIENTS_0=Trader
+CLIENTS_1=Marchand
+CLIENTS_2=Händler
+CLIENTS_3=Mercante
+CLIENTS_4=Comerciante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=It's hard to say exactly what
+happened... The fog was just
+so thick. I remember a flash,
+and then the ship cracked open.
+We lost every head of cattle!
+The culprit must still be out
+there... Mind taking a look?
+DESCRIPTIONS_1=On n'y voyait rien. Un éclair
+et mon navire est coupé de
+bout en bout. Nous avons
+perdu tout notre bétail ! Le
+coupable est sûrement
+encore par ici... Pouvez-vous
+aller voir ?
+DESCRIPTIONS_2=Schwer zu sagen, was passiert
+ist. Der Nebel war so dick.
+Ein Blitz – dann zerbrach das
+Schiff. Wir haben jedes ein-
+zelne Stück Vieh verloren.
+Der Schuldige muss noch da
+draußen sein. Siehst du nach?
+DESCRIPTIONS_3=Non so cosa sia accaduto di preciso,
+c'era una nebbia spessa... poi
+un lampo e la mia nave rotta
+in due. Abbiamo perso tutto
+il bestiame! Il colpevole deve
+pagarla! Perché non te ne
+occupi tu?
+DESCRIPTIONS_4=A névoa era espessa… Uma
+luz, e o barco rachou no
+meio. Foi um Gobul, eu
+juro pelas minhas barbas!
+Acho que dá pra fisgar um
+com iscas de rã na Área 4.
+Segure firme… e mande ver!

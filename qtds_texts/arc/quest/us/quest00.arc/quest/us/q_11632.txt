@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Command Performance
+TITLES_1=Spectacle sur commande
+TITLES_2=Befehlsleistung
+TITLES_3=Spettacolo a richiesta
+TITLES_4=Show encomendado
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Spoiled Princess
+CLIENTS_1=Princesse gâtée
+CLIENTS_2=Verwöhnte Prinzessin
+CLIENTS_3=Principessa viziata
+CLIENTS_4=Princesa mimada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Could the Sandy Plains be any
+more... plain? There's nothing but
+sand, sand, and more sand, and the
+weather's either sweltering or icy
+cold. *Sigh* Maybe a rousing hunt
+will take my mind off things.
+Entertain me, you brutes!
+DESCRIPTIONS_1=Les plaines de sable sont
+ennuyeuses... Il n'y a que du
+sable et l'air est soit brûlant,
+soit glacé. *Soupir* Une belle
+partie de chasse me changerait
+peut-être les idées. Amusez-
+moi, brutes !
+DESCRIPTIONS_2=Die Sandebene ist ziemlich...
+eben. Nichts als Sand, Sand
+und noch mehr Sand. Das Wetter
+ist entweder kochend heiß oder
+eiskalt. *seufz* Eine schöne
+Jagd wäre eine Abwechslung.
+Unterhaltet mich, Rohlinge!
+DESCRIPTIONS_3=Le Piane sabbiose sono noiose!
+C'è solo sabbia, sabbia e ancora
+sabbia, e il tempo è sempre torrido
+o incredibilmente freddo. *Sigh*
+Forse una battuta di caccia
+potrebbe distrarmi un po'.
+Intrattenetemi, bruti!
+DESCRIPTIONS_4=As Planícies arenosas
+não poderiam ser mais...
+tediosas. Só tem areia, areia
+e mais areia, e o clima é ou
+sufocante, ou gelado. *Suspiro*
+Talvez uma boa caçada me
+distraia. Divirtam-me, brutos!

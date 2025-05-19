@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=[Advanced] Peak Performers
+TITLES_1=[Avancé] Stars du spectacle
+TITLES_2=[Fortg.] Gipfelstürmer
+TITLES_3=[Avanzata] Esibizionisti
+TITLES_4=[Avançada] Desempenho total
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Jealous Lady
+CLIENTS_1=Dame jalouse
+CLIENTS_2=Eifersüchtige Dame
+CLIENTS_3=Lady gelosa
+CLIENTS_4=Dama invejosa
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ever since that Purple Ludroth and
+Pink Rathian paired up, all anyone
+talks about is how cute they are
+together. I'm sick of them getting
+all the attention! Would someone
+please kill that power couple!?
+DESCRIPTIONS_1=Depuis qu'un Ludroth pourpre
+et une Rathian rose se sont
+associés, on ne parle que de
+ce "couple parfait". J'en ai
+assez qu'ils accaparent
+l'attention ! Tuez-les !
+DESCRIPTIONS_2=Seit sich der Lila Ludroth und
+die Rosa Rathian zusammen-
+getan haben, reden alle nur
+noch darüber, wie niedlich sie
+sind. Das macht mich krank!
+Würde jemand bitte diesem
+Pärchen ein Ende bereiten?
+DESCRIPTIONS_3=Da quando quel Ludroth purpureo
+e quella Rathian rosa fanno coppia,
+tutti parlano solo di quanto stiano
+bene assieme. Ora basta! Non
+permetterò che mi rubino
+la scena! Che qualcuno li
+uccida immediatamente!
+DESCRIPTIONS_4=Desde que o Ludroth roxo
+e a Rathian rosa se juntaram,
+todos falam do lindo casal
+que eles formam. Estou cansada
+de eles serem o centro das
+atenções. Alguém pode dar
+um fim nesse casalzinho?

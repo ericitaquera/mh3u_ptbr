@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Horn Hunter
+TITLES_1=[Avancé] Chasseur de cornes
+TITLES_2=[Fortg.] Hornjäger
+TITLES_3=[Avanzata] Cercasi corna
+TITLES_4=[Avançada] Caçachifres
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Middle-aged Knight
+CLIENTS_1=Chevalier d'âge mûr
+CLIENTS_2=Ritter mittl. Alters
+CLIENTS_3=Cavaliere di mezza età
+CLIENTS_4=Cavalheiro meia idade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=My liege lord has need of four
+horns. These two beasts should
+prove adequate for the task, and
+he cares not how you acquire them. 
+Do not concern yourself with his
+motives or identity, for I shall
+share neither...
+DESCRIPTIONS_1=Mon Seigneur a besoin de
+quatre cornes. Ces deux bêtes
+conviendront parfaitement, et
+il se moque de votre méthode.
+Ne vous occupez pas de son
+identité ni de ses projets, je
+ne vous dirai rien.
+DESCRIPTIONS_2=Mein Lehnsherr benötigt vier
+Hörner. Diese beiden Bestien
+sind perfekt geeignet. Wie du
+das anstellst, ist ihm egal.
+Belaste dich nicht mit seinen
+Motiven oder seiner Identität,
+ich gebe sie nicht preis...
+DESCRIPTIONS_3=Il mio signore ha bisogno di quattro
+corna. Queste due belve dovrebbero
+essere perfette per lo scopo.
+Al signore non importa come te le
+procurerai. Fai come me e non
+interrogarti sulle ragioni
+della richiesta...
+DESCRIPTIONS_4=Meu senhor precisa de quatro
+chifres. Estas duas feras
+parecem adequadas, mas ele
+não se importa com a forma como
+você vai obtê-los. Não questione
+os motivos ou sua identidade,
+pois eu não irei revelá-los...

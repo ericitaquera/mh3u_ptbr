@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=[Advanced] Hot Feet
+TITLES_1=[Avancé] Charbons ardents
+TITLES_2=[Fortg.] Heiße Sohle
+TITLES_3=[Avanzata] Tracce fresche
+TITLES_4=[Avançada] Sobre as brasas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Uragaan and
+a Steel Uragaan
+OBJECTIVES_1=Chasser un Uragaan et un
+Uragaan d'acier
+OBJECTIVES_2=Erjage einen Uragaan und
+einen Stahl-Uragaan.
+OBJECTIVES_3=Caccia un Uragaan e
+un Uragaan d'acciaio
+OBJECTIVES_4=Caçar um Uragaan e
+um Uragaan de aço
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Brash Explorer
+CLIENTS_1=Explorateur effronté
+CLIENTS_2=Kecker Forscher
+CLIENTS_3=Esploratore insolente
+CLIENTS_4=Explorador descarado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I've been investigating tracks in
+the Volcano ash for a while now,
+and I've come to realize they were
+left by two different beasts. How
+did I reach that conclusion?
+That's for me to know and you to
+find out. Good luck with that!
+DESCRIPTIONS_1=J'étudie des empreintes dans
+la cendre du volcan depuis
+longtemps, et j'ai découvert
+qu'elles avaient été faites par
+deux bêtes différentes. C'est
+à vous de découvrir comment
+je l'ai su ! Bonne chance !
+DESCRIPTIONS_2=Ich verfolge schon geraume
+Zeit Spuren in der Vulkanasche
+und bin überzeugt, sie stammen
+von zwei verschiedenen
+Bestien! Wie ich darauf komme?
+Das kannst du selbst heraus-
+finden. Viel Glück dabei!
+DESCRIPTIONS_3=È da un po' che studio le tracce
+nella cenere del vulcano e sono
+giunto alla conclusione che sono
+lasciate da due belve differenti.
+Come l'ho capito? Lo tengo per me,
+ma tu puoi verificarlo di persona.
+Buona fortuna!
+DESCRIPTIONS_4=Tenho passado um tempo
+investigando pegadas nas
+cinzas do Vulcão, e já
+percebi que são duas bestas
+diferentes. Como cheguei
+a essa conclusão? Isso você
+terá que descobrir. Boa sorte!

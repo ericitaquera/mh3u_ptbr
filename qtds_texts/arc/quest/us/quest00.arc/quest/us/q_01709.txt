@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=The Write Stuff
+TITLES_1=Écriture
+TITLES_2=Feder und Schwert
+TITLES_3=Parole taglienti
+TITLES_4=As coisa, bem feitas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Royal Scribe
+CLIENTS_1=Scribe royal
+CLIENTS_2=Königlicher Schreiber
+CLIENTS_3=Scrivano reale
+CLIENTS_4=Escriba real
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Whoever said the pen is mightier
+than the sword never had to fight
+a Jade Barroth and a Gigginox with
+nothing but quill and ink! 
+Hunters, head to the Tundra
+posthaste. Tales of your victory
+shall be writ large!
+DESCRIPTIONS_1=Celui qui a dit que la plume
+est plus forte que l'épée n'a
+jamais essayé de combattre
+un Barroth de jade et un
+Gigginox avec un stylo ! Allez
+dans la toundra et écrivez
+votre légende, chasseurs !
+DESCRIPTIONS_2=Wer behauptet, dass das Wort
+mächtiger ist als das Schwert,
+hat noch nie gegen einen Jade-
+Barroth und einen Gigginox mit
+Federkiel und Tinte gekämpft!
+Jäger, auf zur Tundra. Euer
+Sieg wird besungen werden!
+DESCRIPTIONS_3=Chiunque sostiene che la lingua sia
+più affilata della spada, non ha mai
+combattuto contro un Barroth di
+giada e un Gigginox con penna e
+calamaio! Cacciatori, raggiungete
+subito la tundra. Tutti scriveranno
+delle vostre incredibili imprese!
+DESCRIPTIONS_4=Quem disse que a pena é mais
+poderosa que a espada nunca
+enfrentou um Gigginox e um
+Barroth Esmeralda com tinta
+e penas. Caçadores, corram até
+a Tundra! Suas vitórias serão
+escritas em letras maiúsculas!

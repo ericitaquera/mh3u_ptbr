@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Lost Expedition
+TITLES_1=L'expédition perdue
+TITLES_2=Die verschwundene Expedition
+TITLES_3=La spedizione perduta
+TITLES_4=A expedição perdida
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barioth
+OBJECTIVES_1=Chasser un Barioth
+OBJECTIVES_2=Erjage einen Barioth.
+OBJECTIVES_3=Caccia un Barioth
+OBJECTIVES_4=Caçar um Barioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Female Geologist
+CLIENTS_1=Géologue
+CLIENTS_2=Geologin
+CLIENTS_3=Geologa
+CLIENTS_4=Geóloga
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I'm worried, hunter. We haven't
+heard a peep from one of our
+Tundra-expedition teams. Mind
+investigating? It's a cold, cruel
+region, so gird those loins
+before you go! Pave the way
+for our exploration.
+DESCRIPTIONS_1=Je suis inquiète. L'une de nos
+équipes parties dans la
+toundra ne donne plus signe de
+vie. Vous pouvez aller voir ?
+C'est une région froide et
+cruelle, préparez-vous bien !
+Ouvrez la voie pour nous.
+DESCRIPTIONS_2=Ich bin besorgt, Jäger. Wir
+haben nichts von einem unserer
+Tundra-Expeditionsteams ge-
+hört. Kannst du nachforschen?
+Es ist dort kalt und unwirt-
+lich, zieh dich also warm an!
+Mach den Weg für uns frei.
+DESCRIPTIONS_3=Cacciatore, sono in pensiero.
+Non abbiamo più notizie di
+uno dei gruppi di spedizione
+nella tundra. Ti dispiacerebbe
+investigare? È una regione fredda
+e inospitale, copriti bene prima
+di partire e aiutaci nelle ricerche!
+DESCRIPTIONS_4=Estou preocupada, caçador.
+Não tivemos notícias de uma
+das expedições à Tundra. Você
+se importaria em investigar?
+Aquele lugar é frio e cruel —
+se agasalhe bem antes de sair!
+Ajude-nos nessa exploração.

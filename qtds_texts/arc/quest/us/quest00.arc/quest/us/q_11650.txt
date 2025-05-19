@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=[Advanced] Ludroth Ambush
+TITLES_1=[Avancé] Embuscade Ludroth
+TITLES_2=[Fortg.] Ludroth-Hinterhalt
+TITLES_3=[Avanzata] Imboscata Ludroth
+TITLES_4=[Avançada] Emboscada Ludroth
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Royal Ludroth
+and a Purple Ludroth
+OBJECTIVES_1=Chasser un Ludroth royal
+et un Ludroth pourpre
+OBJECTIVES_2=Erjage 1 Königs-Ludroth
+und 1 Lila Ludroth.
+OBJECTIVES_3=Caccia un Ludroth reale
+e un Ludroth purpureo
+OBJECTIVES_4=Caçar um Ludroth real
+e um Ludroth púrpura
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Reticent Bodyguard
+CLIENTS_1=Garde réservé
+CLIENTS_2=Wortkarger Leibwächter
+CLIENTS_3=Guardia riservata
+CLIENTS_4=Guard-costas prevenido
+[DESCRIPTIONS]
+DESCRIPTIONS_0=My lord intends to holiday on the
+Deserted Island, but I fear he may
+encounter a Royal Ludroth or a
+Purple Ludroth. Either could prove
+fatal, for he cannot swim. Please,
+best these beasts for the sake of
+my frail liege!
+DESCRIPTIONS_1=Mon Seigneur souhaite
+séjourner sur l'île déserte,
+mais je crains qu'il ne croise
+un Ludroth royal ou un
+Ludroth pourpre. Cela pourrait
+lui être fatal, car il ne sait
+pas nager. Tuez ces bêtes !
+DESCRIPTIONS_2=Mein Fürst möchte Zeit auf der
+Ödnis-Insel verbringen, aber
+er könnte einem Königs- oder
+Lila Ludroth begegnen. Das
+wäre fatal, denn er kann nicht
+schwimmen. Erlege die Bestien
+für meinen Lehnsherrn!
+DESCRIPTIONS_3=Il mio signore vorrebbe passare
+una vacanza sull'Isola deserta, ma
+teme di incontrare un Ludroth reale
+o un Ludroth purpureo. Potrebbero
+risultare entrambi fatali, poiché
+non sa nuotare. Ti prego, sconfiggili
+per la sua salvezza!
+DESCRIPTIONS_4=Meu senhor planeja ir para
+a Ilha deserta de férias, mas
+temo que ele encontre um Ludroth
+real ou um Ludroth roxo. Os
+dois seriam fatais, pois ele não
+sabe nadar. Vença essas feras,
+faça isso pelo meu senhor!

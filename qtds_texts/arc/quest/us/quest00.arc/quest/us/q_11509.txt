@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Bedevil a Deviljho
+TITLES_1=Harceler un Deviljho
+TITLES_2=Ein Dämonjho in Not
+TITLES_3=Distruggi un Deviljho
+TITLES_4=Destruir um Deviljho
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Deviljho
+OBJECTIVES_1=Chasser un Deviljho
+OBJECTIVES_2=Erjage einen Dämonjho.
+OBJECTIVES_3=Caccia un Deviljho
+OBJECTIVES_4=Caçar um Deviljho
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Borderlands Sentry
+CLIENTS_1=Sentinelle frontière
+CLIENTS_2=Grenzland-Wache
+CLIENTS_3=Guardia di confine
+CLIENTS_4=Sentinela de fronteiras
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I heard tell of a right fierce
+monster out in the Tundra! It's
+a cut above the other critters
+in them there parts. Even
+first-rate hunters could find
+the'selves in deep dung if'n
+they don't look sharp!
+DESCRIPTIONS_1=On parle d'un monstre féroce
+dans la toundra ! Il est plus
+fort que les autres bêtes.
+Même les meilleurs chasseurs
+peuvent se retrouver dans la
+bouse s'ils n'ouvrent pas
+l'œil !
+DESCRIPTIONS_2=Draußen in der Tundra gibt es
+wohl ein wildes Monster! Das
+ist eine andere Liga als die
+anderen in der Gegend. Selbst
+erstklassige Jäger könnten
+in die Bredouille geraten,
+wenn sie nicht aufpassen!
+DESCRIPTIONS_3=Ho sentito che un feroce
+mostro si aggira nella tundra.
+È una spanna sopra le altre
+creature che popolano l'area.
+Anche i cacciatori più abili
+si troverebbero in guai seri
+senza la dovuta cautela.
+DESCRIPTIONS_4=Ouvi histórias sobre um feroz
+monstro na Tundra. Ele está
+um nível acima de outras
+criaturas dessa área. Até
+mesmo os melhores caçadores
+podem se encontrar em apuros
+se não andarem com cuidado!

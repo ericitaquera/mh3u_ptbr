@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=The Volcano's Fury
+TITLES_1=La fureur du volcan
+TITLES_2=Zorn des Vulkans
+TITLES_3=La furia del vulcano
+TITLES_4=A fúria do vulcão
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Uragaan
+OBJECTIVES_1=Chasser un Uragaan
+OBJECTIVES_2=Erjage einen Uragaan.
+OBJECTIVES_3=Caccia un Uragaan
+OBJECTIVES_4=Caçar um Uragaan
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Scarred Hunter
+CLIENTS_1=Chasseur balafré
+CLIENTS_2=Vernarbter Jäger
+CLIENTS_3=Cacciatore sfregiato
+CLIENTS_4=Caçador marcado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Don't bother readin' any further
+unless you're a true hunter --
+the type who loves that quiver
+in your guts when you're livin'
+on the razor's edge. Still with
+me? Go to the volcano.
+Somethin's waitin'.
+DESCRIPTIONS_1=Inutile d'aller plus loin si
+vous n'êtes pas un vrai
+chasseur, de ceux qui aiment
+ce frisson qu'on a quand on
+vit sur le fil du rasoir. Vous
+me suivez ? Allez au volcan.
+Quelque chose vous y attend.
+DESCRIPTIONS_2=Lies nur weiter, wenn du ein
+echter Jäger bist – der Typ,
+der es liebt, dieses Beben in
+den Eingeweiden zu spüren,
+wenn man auf Messers Schneide
+steht. Noch hier? Geh zum
+Vulkan. Da erwartet dich was.
+DESCRIPTIONS_3=Non leggere oltre se non sei
+un vero cacciatore, se non ami
+il brivido della vita sul filo
+del rasoio. Sei ancora qui?
+Allora vai al vulcano: c'è
+una creatura che ti aspetta.
+DESCRIPTIONS_4=Nem continue lendo se
+você não for um caçador
+de verdade — daqueles que
+sentem adrenalina ao beirar
+o abismo. Ainda aí? Então
+vá ao Vulcão. Tem algo
+lá… esperando por você.

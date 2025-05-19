@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=Festival on the Sea of Sand
+TITLES_1=Festival de la Mer de sable
+TITLES_2=Festival im Sandmeer
+TITLES_3=Festival sul mare di sabbia
+TITLES_4=Festival no mar de areia
+[OBJECTIVES]
+OBJECTIVES_0=Slay a H. Jhen Mohran
+or repel it.
+OBJECTIVES_1=Tuer un Jhen Mohran sacré
+ou le repousser
+OBJECTIVES_2=Erlege einen H. Jhen Mohr.
+oder wehre ihn ab.
+OBJECTIVES_3=Uccidi un Jhen Mohran mis.
+o respingilo
+OBJECTIVES_4=Mata um Jhen Mohran Sag.
+ou afaste-o
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward or Dragonship Integrity
+hits 0, or time expires.
+FAIL_CONDITIONS_1=Prime ou intégrité drakkar
+atteint 0 ou temps écoulé.
+FAIL_CONDITIONS_2=Belohnung o. Drachenschf.-
+Zustand auf 0 o. Zeit um.
+FAIL_CONDITIONS_3=Premio o integrità dragoniera
+a 0, oppure tempo scaduto.
+FAIL_CONDITIONS_4=Recomp. ou integr. caçadr.
+cair a 0, ou fim tempo.
+[CLIENTS]
+CLIENTS_0=Desert Mayor
+CLIENTS_1=Maire du désert
+CLIENTS_2=Wüsten-Bürgermeister
+CLIENTS_3=Sindaco del deserto
+CLIENTS_4=Prefeito do deserto
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Holy Mohran -- it's a new kind of
+Jhen Mohran! Folks who've hopped
+aboard the beast claim they can
+mine rare items! Why not take a
+leap of faith and see for yourself?
+Fortune favors the bold, or so
+my speechwriter says.
+DESCRIPTIONS_1=Il s'agit d'un nouveau type de
+Jhen Mohran ! Ceux qui sont
+montés sur son dos affirment
+pouvoir extraire des objets
+rares ! Pourquoi ne pas aller
+voir par vous-même ? La
+chance sourit aux audacieux.
+DESCRIPTIONS_2=Heiliger Mohran! Das ist ein
+neuer Jhen Mohran! Diejenigen,
+die auf ihn sprangen, sagen,
+dass man seltene Objekte
+findet! Schau selbst nach! 
+Das Glück ist mit den Mutigen,
+sagt mein Redenschreiber.
+DESCRIPTIONS_3=Il Mohran sacro è un nuovo tipo di
+Jhen Mohran! Chi è riuscito a
+cavalcare questa bestia dice che
+è in grado di scovare oggetti rari!
+Perché non constatare di persona?
+La fortuna aiuta gli audaci, o così
+sostiene il mio autore di discorsi.
+DESCRIPTIONS_4=Pelo Mohran, um novo tipo de
+Jhen Mohran! A gente que atacou
+a besta diz que se pode obter
+objetos! E se você se arriscar
+e o ver? A sorte sorri para
+os valentes, isso me disseram.

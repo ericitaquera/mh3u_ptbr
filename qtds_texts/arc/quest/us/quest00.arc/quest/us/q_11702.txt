@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Break the Brachydios
+TITLES_1=Analyse du Brachydios
+TITLES_2=Den Brachydios brechen
+TITLES_3=Cattura il Brachydios
+TITLES_4=A caçar Brachydios
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Brachydios
+OBJECTIVES_1=Chasser un Brachydios
+OBJECTIVES_2=Erjage einen Brachydios.
+OBJECTIVES_3=Caccia un Brachydios
+OBJECTIVES_4=Caçar um Brachydios
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Brachydios Researcher
+CLIENTS_1=Spécialiste Brachydios
+CLIENTS_2=Brachydios-Forscher
+CLIENTS_3=Ricercatore Brachydios
+CLIENTS_4=Investig. Brachydios
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The newly discovered Brachydios
+is such an intriguing creature.
+No other species is quite like it.
+I simply must have a sample!
+Would you hunt one for us so
+we can study its biology?
+DESCRIPTIONS_1=Le nouveau Brachydios est une
+créature fascinante. Aucune
+espèce ne lui ressemble. Il
+m'en faut un spécimen !
+Pouvez-vous nous en rapporter
+un pour que nous l'étudiions ?
+DESCRIPTIONS_2=Dieser neue Brachydios ist
+eine faszinierende Kreatur.
+Keine Spezies gleicht ihm. Ich
+muss eine Probe haben!
+Würdest du einen für uns
+erlegen, damit wir ihn
+untersuchen können?
+DESCRIPTIONS_3=Il Brachydios scoperto di recente è
+una creatura estremamente
+interessante. Nessun'altra specie
+gli somiglia. Devo averne
+un esemplare! Ne cacceresti
+uno per noi, così potremmo
+studiarne la biologia?
+DESCRIPTIONS_4=O recém-descoberto
+Brachydios é uma criatura
+misteriosa. Não há outra
+espécie parecida. Preciso
+ter uma amostra! Você pode
+caçar um para que possamos
+estudar sua natureza?

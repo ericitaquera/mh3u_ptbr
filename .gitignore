@@ -3,6 +3,7 @@
 /arc_extracted/
 /gmd_repacked/
 /arc_repacked/
+/qtds_texts_ptbr/
 /romfs_final/
 /tmp/
 /tools/
@@ -12,6 +13,7 @@ romfs.bin
 *.bin
 /aaa/
 /blog/
+/luma/
 
 # Optional: ignore if working dirs are rebuilt each time
 #/gmd_texts/

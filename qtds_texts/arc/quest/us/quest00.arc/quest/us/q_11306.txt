@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Bye-Bye, Bloom
+TITLES_1=Disparition de fleur
+TITLES_2=Tschüss, Blüte
+TITLES_3=Ciao ciao, fiorellino
+TITLES_4=Flor de um dia
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Crimson Qurupeco
+OBJECTIVES_1=Chasser un Qurupeco
+vermillon
+OBJECTIVES_2=Erjage einen
+Karmesin-Qurupeco.
+OBJECTIVES_3=Caccia un Qurupeco cremisi
+OBJECTIVES_4=Caçar um Qurupeco carmesin
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Old Landscape Artist
+CLIENTS_1=Vieux peintre
+CLIENTS_2=Alter Landschaftsmaler
+CLIENTS_3=Pittore di paesaggi
+CLIENTS_4=Paisagista ancião
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ah, there's nothing like the
+Flooded Forest on a cloudy day.
+The colors are so... subtle! When
+I spotted that big crimson flower,
+I was inspired! But I turned my back
+for one second to set up my easel,
+and the flower was gone...
+DESCRIPTIONS_1=Ah, rien de tel que la forêt
+inondée par temps nuageux. Les
+couleurs sont si... subtiles ! En
+voyant cette grande fleur rouge,
+l'inspiration m'est venue ! Mais
+le temps d'installer mon
+chevalet, elle avait disparu...
+DESCRIPTIONS_2=Ah, es geht doch nichts über
+den Flutwald an einem wolkigen
+Tag. Die Farben sind so... de-
+zent! Diese rote Blume inspi-
+rierte mich! Ich habe mich nur
+einen Augenblick abgewandt,
+und sie war verschwunden...
+DESCRIPTIONS_3=Ah, niente è come la Foresta
+inondata in un giorno di pioggia.
+I colori sono così... delicati!
+La vista di un grande fiore cremisi
+mi emozionava. Solo un attimo
+per posizionare il cavalletto,
+e il fiore era scomparso...
+DESCRIPTIONS_4=Ah... nada como A Floresta inundada
+num dia nublado. Cores tão suaves…
+Me inspirei ao ver uma flor carmesim
+enorme! Mas quando virei pra pegar
+o cavalete, ela tinha sumido.
+Como vou pintar se o cenário foge?
+Isso é arte ou desafio?

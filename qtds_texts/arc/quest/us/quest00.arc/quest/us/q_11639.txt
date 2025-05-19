@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Knight Fishing
+TITLES_1=[Avancé] Chevalier pêcheur
+TITLES_2=[Fortg.] Ritter-Angeln
+TITLES_3=[Avanzata] A caccia di Gobul
+TITLES_4=[Avançada] Pesca cavalheiresca
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Gobul
+in succession
+OBJECTIVES_1=Chasser 3 Gobul à la
+suite
+OBJECTIVES_2=Erjage 3 Gobul in Folge.
+OBJECTIVES_3=Caccia 3 Gobul
+di seguito
+OBJECTIVES_4=Caçar 3 Gobul seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Middle-aged Knight
+CLIENTS_1=Chevalier d'âge mûr
+CLIENTS_2=Ritter mittl. Alters
+CLIENTS_3=Cavaliere di mezza età
+CLIENTS_4=Cavalheiro meia idade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=My liege lord has need of a
+certain kind of Gobul part --
+many, many parts, actually. He
+cares not what you do with the
+rest of your spoils. Just secure
+him those parts -- and do not
+question his motives.
+DESCRIPTIONS_1=Mon Seigneur a besoin de
+nombreux bouts de Gobul. Il
+se moque de ce que vous ferez
+avec le reste du butin.
+Apportez-lui ces morceaux, et
+ne posez pas de questions sur
+son projet.
+DESCRIPTIONS_2=Mein Lehnsherr benötigt eine
+bestimmte Art Gobul-Teil –
+viele davon. Ihm ist es egal,
+was du mit dem Rest machst.
+Besorg ihm nur diese Teile,
+und frag nicht nach den
+Gründen.
+DESCRIPTIONS_3=Il mio signore ha bisogno di
+alcune parti di Gobul... In verità,
+ha bisogno di moltissime parti!
+Non gli importa di cosa tu faccia
+con il resto del bottino, ma
+procuragli quelle parti senza
+chiedere spiegazioni.
+DESCRIPTIONS_4=Meu senhor precisa de uma
+parte específica de um Gobul.
+Mais bem muitas, muitas partes.
+Não importa o que você faça
+com as demais coisas que
+encontrar. Consiga as partes
+para ele, e não faça perguntas.

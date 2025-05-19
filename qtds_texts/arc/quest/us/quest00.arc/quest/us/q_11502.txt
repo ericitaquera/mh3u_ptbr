@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Midnight Madness
+TITLES_1=Folie nocturne
+TITLES_2=Mitternachtswahnsinn
+TITLES_3=Una notte di follia
+TITLES_4=Loucura à meia-noite
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Black Diablos
+OBJECTIVES_1=Chasser une Diablos noire
+OBJECTIVES_2=Erjage eine
+Schwarze Diablos.
+OBJECTIVES_3=Caccia una Diablos nera
+OBJECTIVES_4=Caçar uma Diablos negra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Nomad Chief
+CLIENTS_1=Chef nomade
+CLIENTS_2=Nomadenchef
+CLIENTS_3=Capo nomade
+CLIENTS_4=Cacique nômade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=With mine own eyes, I saw its
+hateful glare and glimmering body.
+With mine own ears, I heard a roar
+that shattered the midnight calm.
+Dare you face the creature before
+it stains the Sandy Plains red?
+DESCRIPTIONS_1=J'ai vu son regard haineux et
+son corps luisant. J'ai enten-
+du un rugissement déchirer le
+calme de la nuit. Oserez-vous
+affronter la créature avant
+qu'elle ne répande le sang ?
+DESCRIPTIONS_2=Ich sah den scheußlich
+glänzenden Körper. Ich vernahm
+den Schrei, der die Stille der
+Nacht zerriss. Wagst du es,
+der Kreatur gegenüberzutreten,
+bevor sie die Sandebene
+gänzlich mit Blut tränkt?
+DESCRIPTIONS_3=Ho visto con i miei occhi lo sguardo
+pieno d'odio e il corpo scintillante.
+Ho sentito il ruggito squarciare
+il silenzio della notte. Daresti
+la caccia a questa creatura prima
+che il sangue delle sue vittime
+macchi le Piane sabbiose?
+DESCRIPTIONS_4=Meus olhos viram seu olhar
+odioso e seu corpo reluzente.
+Meus ouvidos ouviram um
+rugido que rompeu a calma
+da noite. Você enfrentará a
+criatura antes que ela tinga de
+vermelho as Planícies arenosas?

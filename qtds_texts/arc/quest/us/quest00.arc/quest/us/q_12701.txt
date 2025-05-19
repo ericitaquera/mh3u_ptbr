@@ -1,0 +1,61 @@
+[TITLES]
+TITLES_0=Sticky Situation
+TITLES_1=Situation poisseuse
+TITLES_2=Heikle Lage
+TITLES_3=Una situazione difficile
+TITLES_4=Situação complicada
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Brachydios
+OBJECTIVES_1=Chasser 2 Brachydios
+OBJECTIVES_2=Erjage 2 Brachydios.
+OBJECTIVES_3=Caccia 2 Brachydios
+OBJECTIVES_4=Caçar 2 Brachydios
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Kindly Noble
+CLIENTS_1=Noble bienveillant
+CLIENTS_2=Freundlicher Adeliger
+CLIENTS_3=Nobile gentile
+CLIENTS_4=Nobre gentil
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This land is in grave danger!
+Two Brachydios are running amok,
+attacking villages and anything
+else in their path. Please, you
+must put a stop to their rampage.
+Time is of the essence! 
+DESCRIPTIONS_1=Cette région est en danger !
+Deux Brachydios attaquent
+les villages et tout ce qui
+croise leur chemin. Vous
+devez mettre un terme à
+leur folie destructrice !
+DESCRIPTIONS_2=Das Land ist in großer Gefahr!
+Zwei Brachydios laufen Amok,
+sie greifen alles auf ihrem
+Weg an, auch Dörfer. Du musst
+ihrem Wüten ein Ende setzen.
+Die Zeit drängt!
+DESCRIPTIONS_3=Questa terra è in grave pericolo!
+Due Brachydios infuriati attaccano
+i villaggi e qualsiasi cosa
+sulla loro strada. Ti prego,
+ferma la loro violenza.
+Ogni secondo è prezioso!
+DESCRIPTIONS_4=Essa terra corre um grave
+perigo! Dois Brachydios
+estão agindo à vontade,
+atacando aldeias e qualquer
+coisa que cruzar o caminho
+deles. Por favor, detenha essa
+destruição. O tempo é urgente!

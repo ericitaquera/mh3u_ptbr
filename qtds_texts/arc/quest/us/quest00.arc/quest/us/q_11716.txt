@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Souls of Darkness
+TITLES_1=Âmes des ténèbres
+TITLES_2=Seelen der Dunkelheit
+TITLES_3=Spiriti delle tenebre
+TITLES_4=Espíritos da escuridão
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Stygian Zinogres
+OBJECTIVES_1=Chasser 2 Zinogre stygiens
+OBJECTIVES_2=Erjage 2 Höllen-Zinogre.
+OBJECTIVES_3=Caccia 2 Zinogre stigei
+OBJECTIVES_4=Caçar 2 Zinogre estigios
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Blowhard Noble
+CLIENTS_1=Noble vantard
+CLIENTS_2=Prahlender Adeliger
+CLIENTS_3=Nobile sbruffone
+CLIENTS_4=Nobre fanfarrão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We fought valiantly against the
+two Stygian Zinogres rampaging
+across our region. Alas, our
+efforts were for naught, and I
+fear peace may never return. Help
+us in our darkest hour, hunters!
+DESCRIPTIONS_1=Nous avons lutté vaillamment
+contre deux Zinogre stygiens
+qui ravageaient notre région,
+mais ça n'a servi à rien. Je
+crains que la paix ne revienne
+pas. Aidez-nous !
+DESCRIPTIONS_2=Wir kämpften tapfer gegen die
+beiden Höllen-Zinogre, die
+unser Land terrorisieren, doch
+umsonst. Ich fürchte, es wird
+nie wieder Frieden geben.
+Hilf uns in dieser dunkelsten
+Stunde, Jäger!
+DESCRIPTIONS_3=Abbiamo combattuto valorosamente
+contro due Zinogre stigei che
+infestavano la regione. Purtroppo
+i nostri sforzi sono stati vani, temo
+che la pace resterà un miraggio.
+Cacciatori, aiutateci in questo
+momento di difficoltà!
+DESCRIPTIONS_4=Lutamos com bravura contra
+os dois Zinogre Stygian
+que arrasavam a região.
+Nossos esforços foram em
+vão, e temo que a paz não
+retorne. Ajudem-nos nesses
+momentos difíceis, caçadores!

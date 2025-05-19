@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Thunder on the Tundra
+TITLES_1=Tonnerre sur la toundra
+TITLES_2=Donner in der Tundra
+TITLES_3=Terrore nella tundra
+TITLES_4=Tormenta na tundra
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barioth and
+a Baleful Gigginox
+OBJECTIVES_1=Chasser un Barioth et un
+Gigginox foudroyant
+OBJECTIVES_2=Erjage einen Barioth und
+einen Unheils-Gigginox.
+OBJECTIVES_3=Caccia un Barioth e
+un Gigginox malefico
+OBJECTIVES_4=Caçar um Barioth e
+um Gigginox aterrador
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Elderly Geologist
+CLIENTS_1=Géologue âgé
+CLIENTS_2=Älterer Geologe
+CLIENTS_3=Geologo anziano
+CLIENTS_4=Geólogo anciano
+[DESCRIPTIONS]
+DESCRIPTIONS_0=One of our teams surveying Tundra
+strata was attacked by a white
+beast and fled to a cave where an
+even worse fate awaited them.
+They can't continue their research
+under such conditions. Though it
+be hard, please slay the beasts!
+DESCRIPTIONS_1=Une de nos équipes étudiant
+les strates de la toundra a
+été attaquée par une bête
+blanche et a fui dans une
+grotte où des monstres les
+attendait. Ils ne peuvent pas
+travailler. Aidez-les !
+DESCRIPTIONS_2=Eines unserer Tundra-For-
+schungsteams wurde von einer
+weißen Bestie angegriffen.
+Sie flohen in eine Höhle und
+fanden noch Schlimmeres. So
+können sie nicht arbeiten.
+Vernichte die Bestien!
+DESCRIPTIONS_3=Una squadra della tundra è stata
+attaccata da una belva bianca e si
+è rifugiata in una caverna, dove
+un destino ancora peggiore era in
+agguato. Non possono continuare
+le loro ricerche in queste
+condizioni. Uccidi quelle belve!
+DESCRIPTIONS_4=Uma equipe que analisava as
+camadas da Tundra foi atacada
+por uma besta branca, e fugiram
+para uma caverna onde algo pior
+os esperava. Assim eles não
+podem continuar investigando.
+Por favor, mate as bestas.

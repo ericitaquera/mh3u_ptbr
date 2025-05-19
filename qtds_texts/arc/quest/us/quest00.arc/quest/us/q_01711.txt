@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=Rockslide
+TITLES_1=Chute de pierres
+TITLES_2=Felsensturz
+TITLES_3=Caduta massi
+TITLES_4=Rochas Deslizantes
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Volvidons
+OBJECTIVES_1=Chasser 2 Volvidon
+OBJECTIVES_2=Erjage 2 Volvidons.
+OBJECTIVES_3=Caccia 2 Volvidon
+OBJECTIVES_4=Caçar 2 Volvidon
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Sandy Plains Merchant
+CLIENTS_1=Marchand pl. de sable
+CLIENTS_2=Sandebenen-Händler
+CLIENTS_3=Mercante Piane sab.
+CLIENTS_4=Mercador Plan. aren.
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Holy moly! I was scared enough
+when I saw those two red boulders
+bearing down on my head, but it
+turns out they were monsters! 
+That kind of nonsense is rotten
+for business. Get rid of 'em!
+DESCRIPTIONS_1=Sacrebleu ! J'avais déjà peur
+en voyant ces rochers rouges
+me tomber dessus, et j'ai
+réalisé que c'était des
+monstres ! Ça va ruiner les
+affaires. Chassez-les !
+DESCRIPTIONS_2=Heiliger Strohsack! Ich hatte
+schon die Hosen voll, als die
+beiden roten Felsen auf meinen
+Kopf zielten, aber dann ent-
+puppten sie sich als Monster!
+Dieser Spuk ist schlecht fürs
+Geschäft. Kümmer dich drum!
+DESCRIPTIONS_3=Cribbio! Ero già in preda al panico
+per i due macigni che rotolavano
+minacciosamente verso di me,
+quando ho capito che erano mostri!
+Purtroppo sono una rovina per
+i miei affari. Sbarazzati di loro!
+DESCRIPTIONS_4=Minha nossa! Já levei um susto
+vendo aquelas duas pedras
+vermelhas caindo na minha
+direção — e eram monstros!
+Esse tipo de coisa acaba com
+o negócio! Se livra deles pra
+mim, vai! Tô contando com você!

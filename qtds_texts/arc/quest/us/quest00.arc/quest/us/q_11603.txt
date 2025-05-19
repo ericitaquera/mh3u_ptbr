@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Harvest Tour: Sandy Plains
+TITLES_1=Visite : Plaines de sable
+TITLES_2=Erntetour: Sandebene
+TITLES_3=Tour: Piane sabbiose
+TITLES_4=Tour: Planícies arenosas
+[OBJECTIVES]
+OBJECTIVES_0=Survive until time expires or
+deliver a Paw Pass Ticket
+OBJECTIVES_1=Survivre jusqu'à la fin ou
+livrer un ticket Passechat
+OBJECTIVES_2=Überlebe bis Zeitende oder
+gib einen Tatzenpass ab.
+OBJECTIVES_3=Sopravvivi fino allo scadere o
+consegna un Buono Pass-zampa
+OBJECTIVES_4=Sobreviver até o final
+ou entregar um Ticket garra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0.
+FAIL_CONDITIONS_1=Prime atteint 0.
+FAIL_CONDITIONS_2=Belohnung auf 0.
+FAIL_CONDITIONS_3=Premio a 0.
+FAIL_CONDITIONS_4=Recompensa cair a 0.
+[CLIENTS]
+CLIENTS_0=Felyne Tour Guide
+CLIENTS_1=Guide Felyne
+CLIENTS_2=Felyne-Reiseführer
+CLIENTS_3=Guida Felyne
+CLIENTS_4=Guia do Tour Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Everyone here, nya? Welcome
+to the Sandy Plains Harvest
+Tour, where we'll witness the
+purrfect beauty of the desert.
+After two minutes, you can
+grab a Paw Pass Ticket for
+safe and easy passage home.
+DESCRIPTIONS_1=Tout le monde est là, nya ?
+Bienvenue à la visite des plaines
+de sable. Vous verrez la beauté
+parfaite du désert. Dans
+2 minutes, vous pourrez
+prendre un ticket Passechat
+pour un retour sécurisé.
+DESCRIPTIONS_2=Sind alle da, miau? Willkommen
+zur Sandebenen-Erntetour,
+auf der wir die perfekte
+Schönheit der Wüste erleben.
+In zwei Minuten kann jeder
+einen Tatzenpass zur
+sicheren Heimreise abholen.
+DESCRIPTIONS_3=Ci siamo tutti, nya? Benvenuti
+al tour delle Piane sabbiose, in
+cui ammireremo l'abbagliante
+bellezza del deserto. Tra due
+minuti riceverete un Buono
+Pass-zampa per un sicuro
+ritorno a casa.
+DESCRIPTIONS_4=Todos aqui, miau? Este
+é o Tour pelas Planícies
+arenosas, onde contemplaremos
+a beleza do deserto. Em dois
+minutos, vocês poderão obter
+um Ticket Garra para viajar
+confortavelmente para casa.

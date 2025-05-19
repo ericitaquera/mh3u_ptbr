@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Barroth Brigade
+TITLES_1=[Avancé] Brigade Barroth
+TITLES_2=[Fortg.] Barroth-Brigade
+TITLES_3=[Avanzata] Esercito Barroth
+TITLES_4=[Avançada] Brigada Barroth
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Barroth
+in succession
+OBJECTIVES_1=Chasser 3 Barroth à la
+suite
+OBJECTIVES_2=Erjage 3 Barrothe
+in Folge.
+OBJECTIVES_3=Caccia 3 Barroth
+di seguito
+OBJECTIVES_4=Caçar 3 Barroth seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young General
+CLIENTS_1=Jeune général
+CLIENTS_2=Junger General
+CLIENTS_3=Giovane generale
+CLIENTS_4=Jovem General
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Can you believe these orders?
+They take my troops away from me
+and then ask me to go hunt down
+Barroth!? I'm supposed to be a
+general! I reckon I've no choice
+but to call in the cavalry. Do
+what you do best, Guild Hunter.
+DESCRIPTIONS_1=Pouvez-vous croire ça ? On me
+prend mes troupes et on
+m'envoie chasser un Barroth !
+Je suis un général ! Je n'ai
+pas d'autre choix que de faire
+appel à la cavalerie. Faites
+de votre mieux.
+DESCRIPTIONS_2=Kann man das glauben? Sie
+nehmen mir erst meine Truppen,
+und dann soll ich Barrothe
+jagen? Ich sollte General
+sein! Ich kann nur noch die
+Kavallerie rufen. Gildenjäger,
+mach, was du am besten kannst!
+DESCRIPTIONS_3=Riesci a crederci? Prima mi tolgono
+le truppe, poi mi chiedono di
+dare la caccia um Barroth?!
+Io sono un generale! Non ho
+altra scelta che chiamare rinforzi.
+So che farai del tuo meglio,
+cacciatore della Gilda.
+DESCRIPTIONS_4=Mas que ordens são essas?
+Levam minhas tropas e depois
+me pedem para caçar Barroth!
+Sou um general! Não me resta
+outra alternativa senão chamar
+a cavalaria. Você já sabe o
+que fazer, caçador da Guilda.

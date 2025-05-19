@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Masked Robbery
+TITLES_1=Attaque masquée
+TITLES_2=Maskierter Raub
+TITLES_3=Furto in maschera
+TITLES_4=Assalto mascarado
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathalos
+OBJECTIVES_1=Chasser un Rathalos
+OBJECTIVES_2=Erjage einen Rathalos.
+OBJECTIVES_3=Caccia un Rathalos
+OBJECTIVES_4=Caçar um Rathalos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Kayamba
+CLIENTS_1=Kayamba
+CLIENTS_2=Kayamba
+CLIENTS_3=Kayamba
+CLIENTS_4=Kayamba
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Yam-BA! Kayamba finally track
+down rotten Rathalos that swiped
+precious mask! No way Kayamba
+dodge fire breath alone, so he
+bring you along as distraction.
+Kayamba strategical genius!
+DESCRIPTIONS_1=Yam-BA ! Kayamba a enfin
+trouvé le Rathalos qui a volé
+le précieux masque ! Kayamba
+ne va pas affronter le souffle
+de feu seul, il vous emmène
+avec lui. Kayamba est génial !
+DESCRIPTIONS_2=Yam-BA! Kayamba hat endlich
+fiesen Rathalos gefunden, der 
+wertvolle Maske geklaut hat!
+Kayamba kämpft nicht
+allein gegen Feueratem. Du
+wirst Ablenkung sein! Kayamba
+ist strategisches Genie!
+DESCRIPTIONS_3=Carramba! Kayamba ha scovato
+i Rathalos che hanno rubato
+la preziosa maschera! Kayamba
+non può evitare da solo il respiro
+di fuoco, perciò ti porterà con sé
+come diversivo. Kayamba è
+un genio della strategia!
+DESCRIPTIONS_4=Yam-bá! Kayamba finalmente
+encontrou o Rathalos que
+roubou sua máscara preciosa!
+Kayamba não consegue desviar
+do fogo sozinho… então vai
+usar você como distração!
+Kayamba, gênio da estratégia!

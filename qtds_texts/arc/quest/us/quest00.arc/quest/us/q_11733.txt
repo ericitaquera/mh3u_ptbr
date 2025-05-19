@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=[Advanced] Cloudless Thunder
+TITLES_1=[Avancé] Foudre sans nuages
+TITLES_2=[Fortg.] Wolkenloser Donner
+TITLES_3=[Avanzata] Tuono senza nubi
+TITLES_4=[Avançada] Trovão sem nuvem
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Zinogres
+OBJECTIVES_1=Chasser 2 Zinogre
+OBJECTIVES_2=Erjage 2 Zinogre.
+OBJECTIVES_3=Caccia 2 Zinogre
+OBJECTIVES_4=Caçar 2 Zinogre
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Guildmaster
+CLIENTS_1=Maître de guilde
+CLIENTS_2=Gildenmeister
+CLIENTS_3=Maestro Gilda
+CLIENTS_4=Mestre da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Hooboy. The Guild wants ye ta
+hunt two Zinogres. Double trouble.
+This'll be a rough one, even for
+you, but whole villages will perish
+if ye fail. Watch yerself out there,
+and bring me back some Zinogre
+stew, OK?
+DESCRIPTIONS_1=Ouah. Voilà une demande de
+la guilde pour chasser deux
+Zinogre. Ce sera difficile,
+même pour vous, mais le sort
+des villages en dépend. Rap-
+portez-moi du ragoût de
+Zinogre, mais méfiez-vous !
+DESCRIPTIONS_2=Die Gilde erbittet eine Jagd
+auf zwei Zinogre. Doppelter
+Ärger. Das wird hart, auch für
+dich, aber das Schicksal des
+ganzen Dorfes hängt davon ab.
+Pass auf dich auf und bring
+mir etwas Zinogre-Eintopf!
+DESCRIPTIONS_3=Oh! Ho qui la richiesta della Gilda
+di cacciare due Zinogre. Sarà dura
+anche per uno come te, ma è in
+gioco il destino dell'intero villaggio.
+Sii prudente e portami un po'
+di stufato di Zinogre, d'accordo?
+DESCRIPTIONS_4=Ah. Um pedido da Guilda para
+caçar dois Zinogre. Duplo
+trabalho. Uma caça difícil,
+mas o destino de vilas
+inteiras está em jogo. Vá
+com cuidado e me traga um bom
+guisado de Zinogre, está bem?

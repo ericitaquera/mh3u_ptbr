@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Harvest 'Shroom
+TITLES_1=Champi récolte
+TITLES_2=Pilzernte
+TITLES_3=Raccolta funghi
+TITLES_4=Coleta de cogumelos
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 3 Unique Mushrooms
+OBJECTIVES_1=Livrer 3 champis spéciaux
+OBJECTIVES_2=Besorge 3 Einmalige Pilze.
+OBJECTIVES_3=Consegna 3 Funghi speciali
+OBJECTIVES_4=Entregar 3 Cogumelos
+especiais
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Clan Matriarch
+CLIENTS_1=Matriarche du clan
+CLIENTS_2=Clan-Matriarchin
+CLIENTS_3=Matriarca del clan
+CLIENTS_4=Matriarca do clã
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The fungi around here are no fun,
+but the Unique Mushrooms from the
+Deserted Island really satisfy! Be
+a dear and fetch me some. Ripened
+or Choice Mushrooms would be nice,
+too. I hear some 'shrooms will
+ripen when Altaroth eat 'em!
+DESCRIPTIONS_1=Les champignons d'ici ne sont
+pas drôles, mais les champis
+spéciaux de l'île déserte sont
+parfaits ! Rapportez-moi des
+champis uniques ou sélection.
+On dit que certains mûrissent
+quand un Altaroth les mange !
+DESCRIPTIONS_2=Die Pilze hier sind kein
+Genuss, aber die Einmaligen
+Pilze der Ödnis-Insel sind
+toll! Hol welche! Reife oder
+Erlesene Pilze sind auch gut.
+Wenn Altaroth sie frisst,
+reifen manche Pilze!
+DESCRIPTIONS_3=Qui i funghi sono insipidi, ma
+i Funghi speciali dell'Isola
+deserta sono grandiosi!
+Ti prego, portami dei Funghi
+maturi o scelti. Si dice che
+i funghi maturino quando sono
+mangiati dagli Altaroth!
+DESCRIPTIONS_4=Os cogumelos daqui são sem
+graça, mas eu adoro os Cogumelos
+Especiais da Ilha Deserta!
+Você me faria o favor de trazer
+algumas? Também aceito maduras
+ou seletas. Dizem que algumas
+amadurecem se um Altaroth as comer!

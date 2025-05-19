@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Wyvern Conservation
+TITLES_1=Protection des Wyvern
+TITLES_2=Wyvern-Erhaltung
+TITLES_3=Wyvern da proteggere
+TITLES_4=Conservação de wyvern
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 2 Wyvern Eggs
+OBJECTIVES_1=Livrer 2 œufs de Wyvern
+OBJECTIVES_2=Besorge 2 Wyvern-Eier.
+OBJECTIVES_3=Consegna 2 Uova di wyvern
+OBJECTIVES_4=Entrega 2 Ovos wyvern
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wise Princess
+CLIENTS_1=Princesse sage
+CLIENTS_2=Weise Prinzessin
+CLIENTS_3=Principessa saggia
+CLIENTS_4=Princesa sabia
+[DESCRIPTIONS]
+DESCRIPTIONS_0=You butchers hunt like there's
+no tomorrow, and now wyverns
+are becoming endangered. I wish
+to ship Wyvern Eggs from this
+isle to bolster the population
+abroad. Help undo the damage
+you have caused!
+DESCRIPTIONS_1=Bouchers, vous chassez sans
+penser à demain. Maintenant,
+les Wyverns sont menacés. Je
+veux envoyer des œufs de
+Wyvern pour déplacer la
+population. Réparez les
+dégâts que vous avez causés.
+DESCRIPTIONS_2=Ihr Schlächter jagt, als gäb's
+kein Morgen, und Wyvern sind
+schon eine bedrohte Art. Ich
+möchte Wyvern-Eier von dieser
+Insel schicken, um die aus-
+wärtige Population zu stärken.
+Hilf, den Schaden zu mildern!
+DESCRIPTIONS_3=Macellai! Cacciate i wyvern di
+continuo, portandoli sull'orlo
+dell'estinzione. Voglio delle
+Uova di wyvern, per alimentare
+le colonie estere di wyvern.
+Aiutami a riparare il danno
+che avete causato!
+DESCRIPTIONS_4=Vocês carniceiros caçam como se
+não houvesse amanhã — agora os
+wyverns estão em risco. Quero
+enviar ovos de wyvern dessa
+ilha pra repovoar lá fora.
+Ajude a consertar o estrago.
+Ainda dá tempo.

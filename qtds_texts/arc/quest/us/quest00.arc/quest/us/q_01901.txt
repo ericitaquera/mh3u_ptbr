@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=Jumping at Shadows
+TITLES_1=Ombre bondissante
+TITLES_2=Schattenangriff
+TITLES_3=Sussulti di paura
+TITLES_4=Pavor de sombras
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Nargacuga
+OBJECTIVES_1=Chasser un Nargacuga
+OBJECTIVES_2=Erjage einen Nargacuga.
+OBJECTIVES_3=Caccia un Nargacuga
+OBJECTIVES_4=Caçar um Nargacuga
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Excited Youth
+CLIENTS_1=Jeune excité
+CLIENTS_2=Aufgeregter Teenager
+CLIENTS_3=Giovane agitato
+CLIENTS_4=Jovem emocionado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I saw it! I swear! It was some
+kinda shadow jumping from tree to
+tree! It's coming to attack our
+village -- I just know it -- but
+no one believes me... Please,
+hunter, save our village! 
+DESCRIPTIONS_1=Je l'ai vue ! Une ombre qui
+sautait d'arbre en arbre ! Elle
+est venue attaquer le village, 
+j'en suis sûr, mais personne
+ne me croit. Je vous en prie,
+sauvez notre village !
+DESCRIPTIONS_2=Ich habe es gesehen! Ich
+schwöre! Wie ein Schatten,
+der von Baum zu Baum sprang!
+Es will unser Dorf angreifen!
+Ich weiß es! Niemand will mir
+glauben... Jäger, bitte
+rette unser Dorf!
+DESCRIPTIONS_3=L'ho visto! Lo giuro! Era un'ombra
+che saltava da un albero all'altro!
+Sta per attaccare il villaggio, non
+ho dubbi, ma nessuno mi crede.
+Cacciatore, ti prego, salva
+il nostro villaggio!
+DESCRIPTIONS_4=Eu vi! Juro que vi! Uma
+sombra pulando entre as
+árvores… estranha demais!
+Ela vai atacar nossa vila,
+eu tenho certeza… mas ninguém
+acredita em mim! Caçador,
+por favor, salve a vila!

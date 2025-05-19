@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=All-terrain Terror
+TITLES_1=Terreur tout-terrain
+TITLES_2=Terror ohne Grenzen
+TITLES_3=Terrore misto
+TITLES_4=Terror offroad
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Monster News Network
+CLIENTS_1=Actualité des monstres
+CLIENTS_2=Monsternachrichten
+CLIENTS_3=Notiziario dei mostri
+CLIENTS_4=Notícias de monstros
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This just in: Monsters of the
+land, sea, and sky are heading for
+the island. Forecasters predict
+they'll arrive at midday today.
+The danger zone starts 25 meters
+from the monsters. Beware of
+charges and Thunder attacks.
+DESCRIPTIONS_1=Scoop : des monstres de la
+terre, de la mer et du ciel
+s'approchent de l'île. Ils
+devraient arriver vers midi.
+Ne vous approchez pas à moins
+de 25 mètres pour ne pas être
+chargé ou foudroyé !
+DESCRIPTIONS_2=Land-, Meer- und Himmelsmons-
+ter sind auf dem Weg zur
+Insel. Sie werden gegen Mittag
+eintreffen. Die Gefahrenzone
+befindet sich 25 Meter um die
+Monster. Achtung vor
+Ladungen und Donnerangriffen.
+DESCRIPTIONS_3=Ultime notizie: mostri terrestri,
+marini e volatili si dirigono verso
+l'isola. L'arrivo è previsto a mezzodì.
+La zona del pericolo inizia
+a 25 metri dai mostri. Attenzione
+alle cariche e agli attacchi Tuono.
+DESCRIPTIONS_4=Última hora: monstros de
+terra, mar e ar estão indo
+para a ilha. A previsão é de
+que cheguem ao meio-dia. A zona
+de risco começa a 25 metros dos
+monstros. Atenção às investidas
+e aos ataques relâmpago!

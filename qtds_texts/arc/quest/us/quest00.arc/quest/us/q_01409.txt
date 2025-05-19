@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Creeping Venom
+TITLES_1=Venin progressif
+TITLES_2=Schleichendes Gift
+TITLES_3=Veleno insidioso
+TITLES_4=O veneno assustador
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Gigginox
+OBJECTIVES_1=Chasser un Gigginox
+OBJECTIVES_2=Erjage einen Gigginox.
+OBJECTIVES_3=Caccia un Gigginox
+OBJECTIVES_4=Caçar um Gigginox
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Cocky Hunter
+CLIENTS_1=Chasseur arrogant
+CLIENTS_2=Eingebildeter Jäger
+CLIENTS_3=Cacciatore arrogante
+CLIENTS_4=Caçador fanfarrão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Look, I ain't no green trainee.
+I've been around! But I ain't
+never seen nothin' like THAT.
+I enter this cave and a second
+later this...this THING is
+covering me. Ugh! I'm getting
+too old for this!
+DESCRIPTIONS_1=Écoutez, je ne suis pas un
+débutant. J'ai roulé ma bosse.
+Mais je n'avais jamais vu une
+chose comme ÇA ! Je rentre
+dans la grotte et cette...
+cette CHOSE me saute dessus.
+Je suis trop vieux pour ça !
+DESCRIPTIONS_2=Ich bin kein Grünschnabel,
+sondern ein alter Hase! Aber
+SO WAS hab ich noch nie
+gesehen. Ich komme in diese
+Höhle und eine Sekunde später
+ist dieses – DING über mir.
+Ich werde zu alt für so was!
+DESCRIPTIONS_3=Non sono un principiante.
+Ho girato in lungo e in largo,
+ma non ho mai visto una roba
+simile! Entro in una caverna
+e un secondo dopo ho
+quell'AFFARE addosso... non
+ho più l'età per queste cose!
+DESCRIPTIONS_4=Olha, eu não sou nenhum
+novato inexperiente. Já tô
+por aqui faz tempo, mas nunca
+vi nada como AQUILO. Entrei
+numa caverna e, de repente,
+essa… essa COISA me cercou.
+Tô velho demais pra isso!

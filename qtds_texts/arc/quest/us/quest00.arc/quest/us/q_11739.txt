@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=[Advanced] Ivory Indignation
+TITLES_1=[Avancé] Indignation ivoire
+TITLES_2=[Fortg.] Elfenbein-Empörung
+TITLES_3=[Avanzata] Minaccia d'avorio
+TITLES_4=[Avançada] Ira marmórea
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Ivory Lagiacrus
+OBJECTIVES_1=Chasser 2 Lagiacrus ivoire
+OBJECTIVES_2=Erjage
+2 Elfenbein-Lagiacri.
+OBJECTIVES_3=Caccia 2 Lagiacrus d'avorio
+OBJECTIVES_4=Caçar 2 Lagiacrus
+marmóreos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Loudmouth Hunter
+CLIENTS_1=Chasseur bavard
+CLIENTS_2=Großmäuliger Jäger
+CLIENTS_3=Cacciatore spaccone
+CLIENTS_4=Caçador falastrão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Unbelievable! Two Ivory Lagiacrus
+have crawled from the sea to
+rampage on land! What, the ocean
+ain't big enough for those beasts?
+Let's push 'em off our turf and
+back into the surf! 
+DESCRIPTIONS_1=Incroyable ! Deux Lagiacrus
+ivoire ont quitté la mer pour
+semer le chaos sur la terre !
+L'océan n'est pas assez grand
+pour eux ? Expulsez-les d'ici
+et renvoyez-les à l'eau !
+DESCRIPTIONS_2=Unfassbar! Zwei Elfenbein-
+Lagiacri sind dem Meer
+entstiegen, um an Land zu
+wüten! Ist der Ozean nicht
+groß genug? Zurück in die
+Wellen mit ihnen!
+DESCRIPTIONS_3=Incredibile! Due Lagiacrus d'avorio
+hanno lasciato l'acqua per
+scatenarsi sulla terraferma!
+L'oceano non era abbastanza
+grande per quelle bestie?
+Difendiamo il nostro territorio
+e ricacciamoli in acqua!
+DESCRIPTIONS_4=Incrível! Dois Lagiacrus
+marmorizados surgiram do mar e
+estão causando danos em terra!
+O oceano não é suficiente
+para eles? Que voltem ao mar,
+longe do nosso território!

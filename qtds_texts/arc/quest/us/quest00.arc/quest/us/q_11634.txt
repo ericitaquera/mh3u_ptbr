@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Plesioth Pains
+TITLES_1=[Avancé] Plesioth furieux
+TITLES_2=[Fortg.] Plesioth-Schmerzen
+TITLES_3=[Avanzata] Dolori Plesioth
+TITLES_4=[Avançada] Dor Plesioth
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Plesioth
+in succession
+OBJECTIVES_1=Chasser 3 Plesioth à la
+suite
+OBJECTIVES_2=Erjage 3 Plesioth
+in Folge.
+OBJECTIVES_3=Caccia 3 Plesioth
+di seguito
+OBJECTIVES_4=Caçar 3 Plesioth seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Singing Fisherman
+CLIENTS_1=Pêcheur chantant
+CLIENTS_2=Singender Fischer
+CLIENTS_3=Pescatore canterino
+CLIENTS_4=Pescador cantor
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We fish to live and live to fish,
+for we are fishermen, aye!
+A loaded net is our only wish,
+for we are fishermen, aye!
+...But we caught Plesioth -- and
+that's your problem, for we are
+fishermen, aye!
+DESCRIPTIONS_1=On pêche pour vivre et on vit
+pour pêcher, on est des
+pêcheurs, ouais ! Mais on a
+attrapé un Plesioth... et ça,
+c'est votre problème, parce
+qu'on est des pêcheurs,
+ouais !
+DESCRIPTIONS_2=Wir fischen, um zu leben, und
+leben, um zu fischen, denn wir
+sind Fischer! Ein volles Netz
+ist unser Traum, denn wir sind
+Fischer! Wir haben Plesioth
+gefangen. Das ist dein Pro-
+blem, denn wir sind Fischer!
+DESCRIPTIONS_3=Peschiamo per vivere e viviamo per
+pescare, perché siamo pescatori, sì!
+Una rete piena è il nostro unico
+desiderio, perché siamo pescatori,
+sì! Ma abbiamo preso un Plesioth,
+e questo è un tuo problema, perché
+siamo pescatori, sì!
+DESCRIPTIONS_4=Pescar para viver e viver
+para pescar, assim é um
+pescador! A rede cheia é
+o que ansiávamos, assim é
+um pescador! ... Mas pescamos
+Plesioth, e esse é o seu
+problema, assim é um pescador!

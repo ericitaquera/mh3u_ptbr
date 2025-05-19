@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=Rage Match
+TITLES_1=Match de la fureur
+TITLES_2=Wutkampf
+TITLES_3=Match furioso
+TITLES_4=Encontro furioso
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Deviljho
+OBJECTIVES_1=Chasser 2 Deviljho
+OBJECTIVES_2=Erjage 2 Dämonjho.
+OBJECTIVES_3=Caccia 2 Deviljho
+OBJECTIVES_4=Caçar 2 Deviljho
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Irate Resident
+CLIENTS_1=Résident énervé
+CLIENTS_2=Wütender Anwohner
+CLIENTS_3=Abitante adirato
+CLIENTS_4=Vizinho irado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The ground QUAKES! The trees
+SHAKE! The village goes BOOM!
+The hovels go BANG! Don't you tell
+me to calm down! Two Deviljho are 
+on the rampage! Put a stop to this
+unnatural disaster!
+DESCRIPTIONS_1=La terre TREMBLE ! Les arbres
+S'AGITENT ! Les cabanes
+EXPLOSENT ! Ne me dites pas
+de me calmer ! Deux Deviljho
+sèment le chaos ! Mettez un
+terme à ce désastre !
+DESCRIPTIONS_2=Der Boden BEBT! Die Bäume
+WACKELN! Das Dorf EXPLODIERT! 
+Die Hütten ZERFALLEN! Sag mir
+nicht, dass ich mich beruhigen
+soll! Zwei Dämonjho wüten!
+Beende dieses fürchterliche
+Desaster!
+DESCRIPTIONS_3=La terra TREMA! Gli alberi
+FREMONO! I tuguri CROLLANO!
+Non dirmi di mantenere la calma!
+Due Deviljho stanno distruggendo
+tutto! Poni fine a questo disastro
+innaturale!
+DESCRIPTIONS_4=A terra treme! As árvores
+se agitam! A aldeia faz
+"bum!". Os ranchos fazem
+"bam!". Não me diga para me
+acalmar! Dois Deviljho estão
+furiosos! Interrompa este
+desastre tão antinatural!

@@ -1,0 +1,61 @@
+[TITLES]
+TITLES_0=The Cherry Blossom Queen
+TITLES_1=Reine couleur de rose
+TITLES_2=Die Kirschblütenkönigin
+TITLES_3=Regina dei ciliegi in fiore
+TITLES_4=A rainha flor de cereja
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Pink Rathian
+OBJECTIVES_1=Chasser une Rathian rose
+OBJECTIVES_2=Erjage eine Rosa Rathian.
+OBJECTIVES_3=Caccia una Rathian rosa
+OBJECTIVES_4=Caçar uma Rathian rosa
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Shipmaster
+CLIENTS_1=Capitaine
+CLIENTS_2=Kapitän
+CLIENTS_3=Capitano
+CLIENTS_4=Capitão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Twas like no Rathian I ever
+seen. She had scales the color of
+a cherry blossom. Attacked us at
+sea, she did! I know where she
+be roostin', if ye be worth
+yer salt.
+DESCRIPTIONS_1=J'avais jamais vu une Rathian
+pareille ! Des écailles roses
+comme des fleurs de cerisier.
+Elle nous a attaqués en mer !
+Je sais où est son nid, si ça
+vous branche...
+DESCRIPTIONS_2=So eine Rathian habe ich noch
+nie gesehen. Ihre Schuppen
+hatten die Farbe von Kirsch-
+blüten. Sie griff uns auf
+hoher See an! Ich weiß, wo
+sie haust, wenn du deinen
+Lohn wert bist.
+DESCRIPTIONS_3=Era diversa da tutte le altre Rathian
+che avessi visto. Le sue scaglie
+erano del colore del fiore
+dei ciliegi. Ci ha attaccati vicino
+al mare! So dove si nasconde,
+qualora volessi occupartene.
+DESCRIPTIONS_4=Nunca tinha visto uma
+Rathian assim. Suas escamas
+eram como as flores de uma
+cerejeira. E nos atacou no
+mar! Sei onde ela se esconde,
+se é que você é capaz.

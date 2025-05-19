@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Bump Off Barioth
+TITLES_1=Barioth liquidé
+TITLES_2=Barioth-Ballerei
+TITLES_3=Batti un Barioth
+TITLES_4=Liquidar um Barioth
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barioth
+OBJECTIVES_1=Chasser un Barioth
+OBJECTIVES_2=Erjage einen Barioth.
+OBJECTIVES_3=Caccia un Barioth
+OBJECTIVES_4=Caçar um Barioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Spoiled Princess
+CLIENTS_1=Princesse gâtée
+CLIENTS_2=Verwöhnte Prinzessin
+CLIENTS_3=Principessa viziata
+CLIENTS_4=Princesa mimada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=*Sigh* Can NOTHING save me
+from the depths of my boredom?
+I got it! I want the so-called
+"white demon," the Barioth!
+Such a cold-hearted creature
+might ALMOST amuse me,
+so hop to it, peasant!
+DESCRIPTIONS_1=*Soupir* Il n'y a RIEN pour me
+sauver de l'ennui ? Je sais !
+Je veux celui qu'on appelle le
+"démon blanc", le Barioth !
+Une créature si cruelle
+pourrait PRESQUE me distraire.
+Dépêchez-vous, paysan !
+DESCRIPTIONS_2=*seufz* Kann NICHTS mich vor
+den Tiefen meiner Langeweile
+retten? Doch! Ich will den
+"weißen Dämon", den Barioth!
+So eine kaltherzige Kreatur
+könnte mich fast amüsieren.
+Also los, Untertan!
+DESCRIPTIONS_3=*Sigh* Come posso sfuggire a
+questa noia? Ho trovato! Voglio
+un Barioth, il "demone bianco"!
+Una creatura così spietata FORSE
+movimenterà un po' le cose.
+Datti da fare, contadino!
+DESCRIPTIONS_4=*Suspiro* Não existe nada
+que possa me tirar do tédio?
+Já sei! Quero o tal "demônio
+branco", o Barioth! Uma
+criatura tão impiedosa pode
+que QUASE me divirta, então
+vá atrás dele, seu pateta!

@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] The Sea of Flame
+TITLES_1=[Avancé] Mer de flammes
+TITLES_2=[Fortg.] Flammenmeer
+TITLES_3=[Avanzata] Il mare di fuoco
+TITLES_4=[Avançada] Mar de chamas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Agnaktor
+in succession
+OBJECTIVES_1=Chasser 3 Agnaktor à la
+suite
+OBJECTIVES_2=Erjage 3 Agnaktore
+in Folge.
+OBJECTIVES_3=Caccia 3 Agnaktor
+di seguito
+OBJECTIVES_4=Caçar 3 Agnaktor seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Princess
+CLIENTS_1=Princesse t. de feu
+CLIENTS_2=Feuerland-Prinzessin
+CLIENTS_3=Principessa terre inf.
+CLIENTS_4=Princesa país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The sea of flame now teems with
+massive wyverns. I regret that I
+have not told my people, but I
+would not have them paralyzed with
+fear. Put these beasts to rest so
+that I might spread a message of
+hope rather than despair.
+DESCRIPTIONS_1=La mer de flammes grouille de
+Wyvern imposants. Je n'ai
+rien dit à mon peuple pour ne
+pas les terroriser. Abattez
+ces bêtes afin que je puisse
+envoyer un message d'espoir
+plutôt que de désespoir.
+DESCRIPTIONS_2=Das Flammenmeer ist voller Wy-
+vern. Ich gestehe, dass ich es
+meinem Volk verschwiegen habe,
+es soll nicht in Angst erstar-
+ren. Vernichte die Monster,
+damit ich eine Botschaft der
+Hoffnung verbreiten kann.
+DESCRIPTIONS_3=Il mare di fuoco ora pullula di
+enormi wyvern. Non l'ho ancora
+detto alla mia gente per non
+terrorizzarla. Abbatti queste bestie,
+così potrò diffondere un messaggio
+di speranza invece della terribile
+notizia.
+DESCRIPTIONS_4=O mar de chamas está repleto
+de wyverns enormes. Lamento
+não ter informado minha
+equipe, mas não quero que o
+medo os paralise. Acabe com
+eles e poderei transmitir
+uma mensagem de esperança.

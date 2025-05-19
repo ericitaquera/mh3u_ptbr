@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Research Assistance
+TITLES_1=Assistant chercheur
+TITLES_2=Forschungshilfe
+TITLES_3=Assistente di laboratorio
+TITLES_4=Apoio na investigação
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Gigginox and
+a Baleful Gigginox
+OBJECTIVES_1=Chasser un Gigginox et un
+Gigginox foudroyant
+OBJECTIVES_2=Erjage einen Gigginox und
+einen Unheils-Gigginox.
+OBJECTIVES_3=Caccia un Gigginox e
+un Gigginox malefico
+OBJECTIVES_4=Caçar um Gigginox e um
+Gigginox aterrador
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Antidote Researcher
+CLIENTS_1=Chercheur en antidotes
+CLIENTS_2=Gegengift-Forscher
+CLIENTS_3=Ricercatore antidoto
+CLIENTS_4=Pesquisador de antídoto
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Egad! Our antidote research has
+hit a brick wall. We can't reach
+the next phase without dissecting
+a Gigginox and a Baleful Gigginox.
+And until we've perfected our
+medicine, you better remember
+your Antidotes!
+DESCRIPTIONS_1=Pour que nos recherches sur
+les antidotes avancent, nous
+devons disséquer un Gigginox
+et un Gigginox foudroyant.
+Tant que nous n'aurons pas mis
+au point notre remède, pensez
+à prendre vos antidotes !
+DESCRIPTIONS_2=Meine Güte! Unsere Gegen-
+gift-Forschung stockt! Wir
+brauchen einen Gigginox und
+einen Unheils-Gigginox. Solang
+die Medizin noch nicht perfekt
+ist, solltest du deine Gegen-
+gifte lieber nicht vergessen!
+DESCRIPTIONS_3=Cielo! La ricerca per l'antidoto
+è in fase di stallo. Per passare
+alla fase successiva dobbiamo
+esaminare un Gigginox e
+un Gigginox malefico. Gli antidoti
+sono vitali fino a quando non
+perfezioniamo la medicina!
+DESCRIPTIONS_4=Não! A pesquisa do antídoto
+está estagnada no momento.
+A próxima fase exige dissecar
+um Gigginox e um Gigginox
+aterrador. Não se esqueça dos
+antídotos até aperfeiçoarmos a
+fórmula da medicina, por favor!

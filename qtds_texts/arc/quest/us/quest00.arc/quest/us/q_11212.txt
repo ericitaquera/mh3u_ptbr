@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Bullfango Brigade
+TITLES_1=Brigade des Bullfango
+TITLES_2=Bullfango-Brigade
+TITLES_3=Un esercito di Bullfango
+TITLES_4=Brigada Bullfango
+[OBJECTIVES]
+OBJECTIVES_0=Slay 20 Bullfango
+OBJECTIVES_1=Tuer 20 Bullfango
+OBJECTIVES_2=Erlege 20 Bullfango.
+OBJECTIVES_3=Uccidi 20 Bullfango
+OBJECTIVES_4=Mate 20 Bullfango
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Who's afraid of a big, bad
+Bullfango? Before you answer,
+how about 20 of the beasties? Now
+we've got a fight worth watching!
+It's a battle of quality versus
+quantity. Will your strength
+trump their numbers?
+DESCRIPTIONS_1=Un gros Bullfango, ça ne vous
+fait pas peur ! Mais imaginez
+20 de ces bêtes. Un joli
+combat en perspective ! La
+qualité contre la quantité.
+Votre puissance sera-t-elle
+suffisante face au nombre ?
+DESCRIPTIONS_2=Wer hat Angst vorm großen,
+bösen Bullfango? Noch nicht
+antworten, was ist mit 20
+davon? Das ist ein würdiger
+Kampf! Qualität gegen
+Quantität! Wird deine Stärke
+ihre Anzahl übertrumpfen?
+DESCRIPTIONS_3=Chi ha paura di un Bullfango
+grosso e cattivo? E se fossero
+venti? Sarebbe sicuramente
+una battaglia spettacolare!
+Qualità contro quantità.
+Sarai abbastanza forte da
+sconfiggerli tutti?
+DESCRIPTIONS_4=Quem tem medo de um Bullfango?
+E se forem… VINTE?! Agora
+sim temos um bom combate!
+Uma luta de qualidade versus
+quantidade. Será que sua
+força supera o número deles?
+Prove que sim!

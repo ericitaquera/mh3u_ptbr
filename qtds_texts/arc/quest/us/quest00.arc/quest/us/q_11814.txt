@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Operation: Last Stand
+TITLES_1=Opération Dernière bataille
+TITLES_2=Operation: Letztes Gefecht
+TITLES_3=Operazione: Ultima risorsa
+TITLES_4=Operação: Último de pé
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young General
+CLIENTS_1=Jeune général
+CLIENTS_2=Junger General
+CLIENTS_3=Giovane generale
+CLIENTS_4=Jovem General
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This woulda been a suicide mission
+before I met you Guild Hunters.
+But with you at my side, I can
+lead my troops into the hairiest
+situations without a lick of fear!
+OK, everyone -- forward march!
+DESCRIPTIONS_1=Sans vous, les chasseurs de la
+guilde, ce serait du suicide.
+Mais je mènerai mes troupes
+au plus dangereux des combats
+sans crainte à vos côtés ! En
+avant, marche !
+DESCRIPTIONS_2=Bevor ich euch traf, war das
+ein Selbstmordkommando,
+Gildenjäger. Aber mit euch
+an meiner Seite kann ich
+meine Truppen ohne Angst in
+die gefährlichsten Schlachten 
+führen! Vorwärts, marsch!
+DESCRIPTIONS_3=Sarebbe stata una missione suicida
+se non avessi incontrato voi
+cacciatori della Gilda. Con voi
+al mio fianco, guido le mie truppe
+nelle situazioni più drammatiche
+senza un briciolo di paura!
+Ok, gente... Avanti, marsch!
+DESCRIPTIONS_4=Esta teria sido uma missão
+suicida se eu não tivesse
+conhecido vocês. Mas com vocês
+ao meu lado, poderei liderar
+minhas tropas nas situações
+mais complicadas sem medo.
+Bem, todos aqui... em marcha!

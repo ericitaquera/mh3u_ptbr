@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=[Advanced] Snow Stampede
+TITLES_1=[Avancé] Toundra piétinée
+TITLES_2=[Fortg.] Schnee-Stampede
+TITLES_3=[Avanzata] Valanghe di neve
+TITLES_4=[Avançada] Avalanche
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Jade Barroth
+OBJECTIVES_1=Chasser 2 Barroth de
+jade
+OBJECTIVES_2=Erjage 2 Jade-Barrothe.
+OBJECTIVES_3=Caccia 2 Barroth di giada
+OBJECTIVES_4=Caçar 2 Barroth esmeraldas
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Guardsman
+CLIENTS_1=Garde de la toundra
+CLIENTS_2=Tundra-Wächter
+CLIENTS_3=Guardia della tundra
+CLIENTS_4=Guarda da Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Two Jade Barroth are tearing up
+the Tundra! They're hurtling
+clumps of snow and ripping up the
+ground. At this rate, they'll ruin
+all the paths out of the place. We
+gotta them before that happens.
+DESCRIPTIONS_1=Deux Barroth de jade se
+battent dans la toundra ! Ils
+arrachent la terre et la
+neige, ils vont finir par
+détruire les chemins. Il faut
+les arrêter avant.
+DESCRIPTIONS_2=Zwei Jade-Barrothe verwüsten
+die Tundra! Sie schleudern
+Schneeklumpen und reißen
+den Boden auf. So ruinieren
+sie sämtliche Wege. Wir
+müssen sie aufhalten.
+DESCRIPTIONS_3=Due Barroth di giada infestano
+la tundra. Fanno franare interi
+blocchi di neve e rovinano
+il terreno. Di questo passo,
+le strade dell'area saranno
+impercorribili. Dobbiamo
+fermarli prima che accada.
+DESCRIPTIONS_4=Dois Barroths esmeraldas estão
+devastando a Tundra! Destroem
+o terreno e lançam massas
+de neve. Nesse ritmo, acabarão
+com todos os caminhos do
+local. Precisamos capturá-los
+antes que isso aconteça.

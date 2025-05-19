@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Canteen] The Fisher King
+TITLES_1=[Cantine] Le roi pêcheur
+TITLES_2=[Kantine] König der Fischer
+TITLES_3=[Mensa] Il re pescatore
+TITLES_4=[Cantina] O pescador rei
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 6 Goldenfish
+OBJECTIVES_1=Livrer 6 poissondors
+OBJECTIVES_2=Besorge 6 Goldenfische.
+OBJECTIVES_3=Consegna 6 Pesci-dorati
+OBJECTIVES_4=Entrega 6 Peixes dourados
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fish Fanboy
+CLIENTS_1=Passionné des poissons
+CLIENTS_2=Junger Fischfan
+CLIENTS_3=Patito della pesca
+CLIENTS_4=Fanático de los peces
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I love Goldenfish so much, I'd
+totally marry one... If it was
+legal. Guess I'll have to settle
+for building my own Goldenfish
+lake. That's where you come in!
+Catch me at least six, OK? Any
+other fish you find you can keep.
+DESCRIPTIONS_1=J'adore les Poissondor, j'en
+épouserais un si je pouvais. Je
+devrais peut-être créer mon
+propre lac de poissondors.
+C'est là que vous intervenez !
+Attrapez-en au moins six, OK?
+Gardez les autres pour vous !
+DESCRIPTIONS_2=Ich liebe Goldenfische so, ich
+würde sofort einen heiraten.
+Ist aber illegal. Muss meinen
+eigenen Goldenfisch-See an-
+legen. Dafür brauche ich dich!
+Fang mindestens 6, ja? Andere
+Fische kannst du behalten.
+DESCRIPTIONS_3=Adoro così tanto il Pesce dorato che
+ne sposerei uno... se fosse legale.
+Forse dovrei crearmi un lago
+di Pesci dorati personale. E
+tu puoi aiutarmi! Catturane
+almeno sei, ok? Se ne catturi in più,
+puoi tenere quelli che avanzano.
+DESCRIPTIONS_4=Gosto tanto de Peixes Dourados
+que até me casaria com um!
+Já que isso não é possível…
+vou construir meu próprio
+lago! Me traga pelo menos
+6 peixes, e pode ficar com
+o resto! Negócio fechado?

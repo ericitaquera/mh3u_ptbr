@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Rathalos Alert
+TITLES_1=Rhatalos poursuite
+TITLES_2=Das Ende eines Rathalos
+TITLES_3=Allarme Rathalos
+TITLES_4=Alerta Rathalos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathalos
+OBJECTIVES_1=Chasser un Rathalos
+OBJECTIVES_2=Erjage einen Rathalos.
+OBJECTIVES_3=Caccia un Rathalos
+OBJECTIVES_4=Caçar um Rathalos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wyvern Observation Post
+CLIENTS_1=Observatoire Wyvern
+CLIENTS_2=Wyvern-Beobacht.posten
+CLIENTS_3=Osservatorio wyvern
+CLIENTS_4=Puesto observ. wyverns
+[DESCRIPTIONS]
+DESCRIPTIONS_0=[REPORT BEGINS] Rathalos
+flame wyvern spotted near
+the Peaks of Flame. [STOP]
+This drake poses a serious
+danger. [STOP] Requesting a
+hunter to hunt this Rathalos
+in the volcano. [REPORT ENDS]
+DESCRIPTIONS_1=[DÉBUT DU RAPPORT] Un Wyvern
+brasier a été repéré près des
+Pics de flamme. [STOP] Il
+représente un sérieux danger.
+[STOP] Demandons un chasseur
+pour chasser ce Rathalos dans
+le volcan. [FIN DU RAPPORT]
+DESCRIPTIONS_2=[BERICHT ANFANG] Rathalos-
+Flammenwyvern bei den Flammen-
+gipfeln gesichtet. [STOPP]
+Dieser Drache ist eine ernste
+Gefahr. [STOPP] Jäger, der den
+Rathalos im Vulkan fängt,
+erforderlich. [BERICHT ENDE]
+DESCRIPTIONS_3=[INIZIO RAPPORTO] Un Rathalos,
+è stato avvistato alle Cime
+della fiamma. [STOP] Il drago
+rappresenta un serio pericolo.
+[STOP] Richiesto un cacciatore che
+abbatta il Rathalos nel vulcano.
+[FINE RAPPORTO]
+DESCRIPTIONS_4=[INÍCIO DO RELATÓRIO] Wyvern
+de chamas Rathalos localizado
+perto dos Cumes ardentes. [PARE]
+Este dragão representa um grave
+perigo. [PARE] Solicitamos
+que um caçador o capture no
+Vulcão. [FIM DO RELATÓRIO]

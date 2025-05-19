@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=Walk 'n' Roll
+TITLES_1=Roulades enroulées
+TITLES_2=Volvidon im Visier
+TITLES_3=Volvidon a rotoli
+TITLES_4=Volvidon rolando
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Volvidon
+OBJECTIVES_1=Chasser un Volvidon
+OBJECTIVES_2=Erjage einen Volvidon.
+OBJECTIVES_3=Caccia un Volvidon
+OBJECTIVES_4=Caçar um Volvidon
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Village Storyteller
+CLIENTS_1=Conteur du village
+CLIENTS_2=Dorferzähler
+CLIENTS_3=Cantastorie villaggio
+CLIENTS_4=Contador de histórias
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Which four-legged beast is also a
+ball? What red roller sometimes
+struts its stuff? Why, it's the
+vicious Volvidon! See for yourself
+in the Volcano. Just don't let
+this ball toss you around!
+DESCRIPTIONS_1=Quelle bête à quatre pattes
+ressemble à une balle rouge ?
+Eh bien, c'est le vicieux
+Volvidon ! Allez le voir dans
+le volcan mais ne le laissez
+pas vous envoyer bouler !
+DESCRIPTIONS_2=Welche vierbeinige Bestie ist
+auch ein Ball? Welcher rote
+Roller marschiert manchmal
+stolz umher? Der böse
+Volvidon! Sieh ihn dir im
+Vulkan an, aber lass dich
+nicht umherwerfen!
+DESCRIPTIONS_3=Quale belva a quattro zampe è
+anche una palla? Quale creatura
+rossa rotola e si pavoneggia?
+Il temibile Volvidon! Lo troverai
+nel vulcano. Non lasciarti
+travolgere!
+DESCRIPTIONS_4=Que fera quadrúpede vira
+bola? Que rodador vermelho
+adora aparecer? Acertou: o
+feroz Volvidon! Encare ele
+no Vulcão. Só tome cuidado
+pra não ficar tonto com
+essa bola viva. Boa sorte!

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Rathian's Wrath
+TITLES_1=Fureur de la Rathian
+TITLES_2=Rathian-Zorn
+TITLES_3=L'ira della Rathian
+TITLES_4=Ira de Rathian
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathian
+OBJECTIVES_1=Chasser une Rathian
+OBJECTIVES_2=Erjage eine Rathian.
+OBJECTIVES_3=Caccia una Rathian
+OBJECTIVES_4=Caçar uma Rathian
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Felyne Hunter
+CLIENTS_1=Chasseur Felyne
+CLIENTS_2=Felyne-Jäger
+CLIENTS_3=Cacciatore Felyne
+CLIENTS_4=Caçador Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Not to sound catty or anything,
+but most Felynes have lost their
+hunter's instincts long ago. Not
+me, nya! I even went to the Sandy
+Plains to prove my prowess, but
+now a Rathian is getting under my
+fur. Some luck I have, nya.
+DESCRIPTIONS_1=La plupart des Felyne ont
+perdu leur instinct de
+chasseur depuis longtemps. Pas
+moi ! Je suis allé dans les
+plaines de sable pour prouver
+ma valeur, mais une Rathian me
+cherche des noises.
+DESCRIPTIONS_2=Das ist nicht böse gemeint,
+aber viele Felynes haben ihren
+Jagdinstinkt schon lange ver-
+loren. Ich nicht! Ich war in
+der Sandebene, um meinen Mut
+zu beweisen, aber da ist eine
+Rathian. So ein Glück, miau.
+DESCRIPTIONS_3=Non voglio sembrare cattivo, ma da
+tempo i Felyne hanno perso l'istinto
+di cacciatori. Non io, nya! Ho
+raggiunto le Piane sabbiose per
+dimostrare la mia forza, ma ora
+una Rathian mi sta alle calcagna.
+Che sfortuna, nya!
+DESCRIPTIONS_4=Não é sarcasmo, mas faz muito
+tempo que muitos Felyne perderam
+seu instinto caçador. Eu não,
+miau! Até fui às Planícies arenosas
+para demonstrar meu valor, e
+agora uma Rathian me deixa à
+beira da loucura. Que sorte.

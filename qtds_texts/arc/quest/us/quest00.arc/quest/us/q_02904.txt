@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Mark of a Hero
+TITLES_1=La marque du héros
+TITLES_2=Heldenzeugnis
+TITLES_3=Un vero eroe
+TITLES_4=Prova de valor
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=White-robed Wyverian
+CLIENTS_1=Wyverien en blanc
+CLIENTS_2=Weißmantel-Wyverianer
+CLIENTS_3=Wyvern in bianco
+CLIENTS_4=Wyveriano de branco
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Word of your exploits has reached
+my ears. Only a hunter of great
+strength and skill could have
+survived this long, but do you
+have what it takes to face MY
+challenge? Only then will you
+reach your true potential!
+DESCRIPTIONS_1=Vos exploits sont parvenus à
+mes oreilles. Seul un chasseur
+aguerri aurait survécu, mais
+pourrez-vous relever MON
+défi ? Si oui, vous aurez
+vraiment atteint le plus haut
+niveau !
+DESCRIPTIONS_2=Ich habe von deinen Heldenta-
+ten gehört. Nur ein Jäger mit
+größter Stärke und Geschick
+kann so lange überleben. Aber
+kannst du auch MEINE Prüfung
+meistern? Dann erlangst du
+dein wahres Potenzial.
+DESCRIPTIONS_3=Ho sentito parlare delle tue grandi
+imprese. Solo un cacciatore forte e
+abile può sopravvivere così a lungo,
+ma riuscirai a superare anche
+la mia sfida? Solo allora avrai
+espresso il tuo vero valore.
+DESCRIPTIONS_4=Suas proezas chegaram aos meus
+ouvidos. Só um caçador forte
+e experiente sobreviveria tanto
+tempo assim... Mas será que você
+tem o que é preciso pra superar
+o meu desafio? Só então você
+conhecerá o seu verdadeiro limite!

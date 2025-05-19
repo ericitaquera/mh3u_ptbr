@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=The Invisible Predator
+TITLES_1=Prédateur invisible
+TITLES_2=Unsichtbares Raubtier
+TITLES_3=Il predatore invisibile
+TITLES_4=O predador invisível
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Lucent Nargacuga
+OBJECTIVES_1=Chasser un Nargacuga
+sélénite
+OBJECTIVES_2=Erjage einen
+Mondlicht-Nargacuga.
+OBJECTIVES_3=Caccia un Nargacuga iridescente
+OBJECTIVES_4=Caçar um Nargacuga lunar
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Terrified Hunter
+CLIENTS_1=Chasseur terrifié
+CLIENTS_2=Panischer Jäger
+CLIENTS_3=Cacciatore atterrito
+CLIENTS_4=Caçador aterrorizado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=It t-took me a while to figure it
+out. That th-thing vanished right
+b-before it attacked me. You know
+wh-what that means? It can turn
+invisible! Now I ask you, is that
+fighting fair?
+DESCRIPTIONS_1=Il m-m'a fallu du temps p-pour
+comprendre. Cette ch-chose a
+disparu j-juste avant de
+m'attaquer. Vous c-comprenez ?
+Elle peut devenir invisible !
+Vous trouvez ce combat loyal ?
+DESCRIPTIONS_2=E-Es dauerte eine Weile, bis
+es mit einfiel. Das D-Ding
+verschwand, kurz bevor es mich
+angriff. Weißt du, w-was d-das
+bedeutet? Es kann unsichtbar
+werden! Ich frage dich,
+ist das ein fairer Kampf?
+DESCRIPTIONS_3=C-ci ho messo un po' a capire.
+Quella c-cosa è svanita un attimo
+prima di attaccarmi. Sai c-cosa
+significa? Può diventare invisibile!
+Ora ti chiedo, ti sembra leale?
+DESCRIPTIONS_4=Demorei um tempo para
+perceber. Aquilo desapareceu
+j-justo antes de me atacar.
+Sabe o que isso s-significa?
+Se torna invisível! O que
+você acha? É uma luta justa?

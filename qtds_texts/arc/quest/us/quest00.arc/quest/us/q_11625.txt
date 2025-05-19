@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Accident Investigation
+TITLES_1=Enquête après accident
+TITLES_2=Unfall-Untersuchung
+TITLES_3=Indagini sull'incidente
+TITLES_4=Investigação do acidente
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Gobul
+OBJECTIVES_1=Chasser un Gobul
+OBJECTIVES_2=Erjage einen Gobul.
+OBJECTIVES_3=Caccia un Gobul
+OBJECTIVES_4=Caçar um Gobul
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Seafaring Trader
+CLIENTS_1=Marchand marin
+CLIENTS_2=Seefahrender Händler
+CLIENTS_3=Mercante marittimo
+CLIENTS_4=Marinheiro comerciante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Oh, it's tragic! Tragic!
+There's a Gobul in the Flooded
+Forest! It tore up me mates!
+And now trade in the region is
+ruined. Somebody, anybody,
+please... Stop the beast 'fore
+it 'urts anyone else!
+DESCRIPTIONS_1=C'est une tragédie ! Il y a
+un Gobul dans la forêt
+inondée ! Il a tué mes
+compagnons ! On peut faire
+une croix sur le commerce !
+Pitié, arrêtez-le avant qu'il
+ne fasse d'autres victimes !
+DESCRIPTIONS_2=Oh, es ist tragisch! Im
+Flutwald gibt's einen Gobul!
+Er hat meine Kumpel zerrissen.
+Jetzt ist der Handel dort
+ruiniert. Bitte, jemand
+muss... die Bestie aufhalten,
+ehe noch mehr verletzt werden!
+DESCRIPTIONS_3=Che tragedia! Che tragedia!
+C'è un Gobul che si aggira per
+la Foresta inondata: ha fatto
+a pezzi i miei compagni e ora
+addio commercio! Qualcuno mi
+aiuti, quel mostro va fermato
+prima che faccia altri danni!
+DESCRIPTIONS_4=É uma tragédia! Tragédia!
+Há um Gobul na Floresta
+Inundada! Ele esmagou meus
+companheiros e o comércio
+da região caiu. Por favor,
+alguém pare a fera antes
+que cause mais danos!

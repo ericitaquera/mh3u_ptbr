@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Noisy Neighbor
+TITLES_1=Voisin bruyant
+TITLES_2=Lauter Nachbar
+TITLES_3=Vicino rumoroso
+TITLES_4=Vizinho barulhento
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Qurupeco
+OBJECTIVES_1=Chasser un Qurupeco
+OBJECTIVES_2=Erjage einen Qurupeco.
+OBJECTIVES_3=Caccia un Qurupeco
+OBJECTIVES_4=Caçar um Qurupeco
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Yukumo Tourism Board
+CLIENTS_1=Office de tour. Yukumo
+CLIENTS_2=Yukumo-Touristenbüro
+CLIENTS_3=Tabell. turist. Yukumo
+CLIENTS_4=Central Turismo Yukumo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Misty Peaks used to be a real
+hot spot for its stunning views
+and soothing atmosphere. Now, not
+so much. Some monster is ruining
+everything with its horrible
+calls! Drive it away before
+word gets out!
+DESCRIPTIONS_1=Avant, on pouvait profiter
+tranquillement du paysage des
+Pics brumeux. Plus maintenant.
+Un monstre brise le calme avec
+ses horribles cris ! Faites-le
+partir d'ici avant que ça ne
+s'ébruite !
+DESCRIPTIONS_2=Die Nebelgipfel sind eigent-
+lich bekannt für ihre wunder-
+bare Aussicht und erholsame
+Atmosphäre. Alles vorbei! Ein
+Monster stößt dort seine
+schrecklichen Rufe aus! Verjag
+es, bevor sich das rumspricht!
+DESCRIPTIONS_3=Le Cime nebbiose un tempo erano
+incantevoli per le viste mozzafiato e
+l'atmosfera rilassante. Ora non più.
+Una creatura mostruosa rovina
+la pace con i suoi orribili latrati!
+Cacciala via prima che si
+diffonda la notizia.
+DESCRIPTIONS_4=Os Cumes Nebulosos eram o lugar
+perfeito, com vistas incríveis e
+um clima tranquilo. Mas agora… já
+era. Aquele monstro tá estragando
+tudo com seus gritos horríveis!
+Expulsa ele antes que a má fama
+se espalhe por aí!

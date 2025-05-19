@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Advanced] Rathalos Summit
+TITLES_1=[Avancé] Réunion de Rathalos
+TITLES_2=[Fortg.] Rathalos-Treffen
+TITLES_3=[Avanzata] Summit Rathalos
+TITLES_4=[Avançada] Cume Rathalos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Rathalos
+in succession
+OBJECTIVES_1=Chasser 3 Rathalos à la
+suite
+OBJECTIVES_2=Erjage 3 Rathalos
+in Folge.
+OBJECTIVES_3=Caccia 3 Rathalos
+di seguito
+OBJECTIVES_4=Caçar 3 Rathalos seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Kindly Noble
+CLIENTS_1=Noble bienveillant
+CLIENTS_2=Freundlicher Adeliger
+CLIENTS_3=Nobile gentile
+CLIENTS_4=Nobre gentil
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This is a crisis in the making!
+The Kings of the Skies are not
+known to flock, yet lately they
+have been gathering in dangerous
+numbers. I beg of you, take action
+before the blue sky runs red!
+DESCRIPTIONS_1=Une crise s'annonce ! Les Rois
+des cieux ne volent pas en
+groupe habituellement, mais
+ils se rassemblent depuis peu.
+Agissez avant que le ciel ne
+devienne rouge !
+DESCRIPTIONS_2=Das ist eine Katastrophe! Die
+Könige der Lüfte treten nicht
+in Schwärmen auf, aber jetzt
+haben sie sich in großer Zahl
+versammelt. Unternimm etwas,
+bevor der blaue Himmel
+blutrot wird, bitte!
+DESCRIPTIONS_3=La crisi è vicina! I Rathalos di solito
+non vivono in gruppo, eppure di
+recente sono stati visti raccolti in
+gran numero. Ti imploro,
+prendi provvedimenti prima che
+il blu del cielo si tinga di rosso!
+DESCRIPTIONS_4=Uma crise está se aproximando!
+Os reis dos céus não costumam
+se reunir, mas recentemente
+têm se encontrado em números
+perigosos. Por favor, aja antes
+que o céu azul se torne vermelho!

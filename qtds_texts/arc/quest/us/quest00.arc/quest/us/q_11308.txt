@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Purple Reign
+TITLES_1=Règne pourpre
+TITLES_2=Lila Herrschaft
+TITLES_3=Fiumi di porpora
+TITLES_4=Reino de cor púrpura
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Purple Ludroth
+OBJECTIVES_1=Chasser un Ludroth pourpre
+OBJECTIVES_2=Erjage einen Lila Ludroth.
+OBJECTIVES_3=Caccia un Ludroth purpureo
+OBJECTIVES_4=Caçar um Ludroth púrpura
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Barefoot Heiress
+CLIENTS_1=Héritière pieds nus
+CLIENTS_2=Barfüßige Erbin
+CLIENTS_3=Ereditiera scalza
+CLIENTS_4=Herdeira descalça
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Shooting stars, soothing waves --
+it was just another night in
+paradise here on the Isle. But
+then I took a look at the water.
+Eeek! It was purple! I ran back
+home as fast as my bare feet could
+carry me. What's going on?
+DESCRIPTIONS_1=C'était une nuit paradisiaque
+sur l'île. Mais quand j'ai
+regardé l'eau, elle était
+violette ! Aaaah ! Je suis
+rentré chez moi en courant
+aussi vite que possible. Que
+se passe-t-il ?
+DESCRIPTIONS_2=Sternschnuppen, sanfte Bran-
+dung – eine weitere Nacht im
+Paradies. Doch dann schaute
+ich ins Wasser. Igitt! Es war
+lila! So schnell mich meine
+nackten Füße trugen, lief ich
+nach Hause. Was geht hier vor?
+DESCRIPTIONS_3=Le stelle cadenti, le onde del mare,
+un'altra notte da favola sull'isola.
+Poi i miei occhi si posano
+sull'acqua. Orrore! Era color
+porpora! Ho fatto una gran
+corsa fino a casa a piedi nudi.
+Cosa sta succedendo?
+DESCRIPTIONS_4=Estrelas cadentes, ondas suaves…
+Mais uma noite no paraíso da
+ilha. Mas quando olhei pra
+água... ARGH! Tava roxa! Saí
+correndo feito alma penada!
+O que tá acontecendo por aqui?
+Investiga pra gente!

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Avenge the Fallen Hunter
+TITLES_1=Venger le chasseur tombé
+TITLES_2=Den gefallenen Jäger rächen
+TITLES_3=Vendica il cacciatore caduto
+TITLES_4=Vingando o caçador caído
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barroth
+OBJECTIVES_1=Chasser un Barroth
+OBJECTIVES_2=Erjage einen Barroth.
+OBJECTIVES_3=Caccia un Barroth
+OBJECTIVES_4=Caçar um Barroth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wounded Hunter
+CLIENTS_1=Chasseur blessé
+CLIENTS_2=Verwundeter Jäger
+CLIENTS_3=Cacciatore ferito
+CLIENTS_4=Caçador ferido
+[DESCRIPTIONS]
+DESCRIPTIONS_0=My weapon... bounced off its
+hide like a toy. That thing
+moved... so fast. Before I
+knew it... I was knocked cold.
+The Medicine Man says it's...
+just a scratch, but the pain!
+Avenge my flesh wound!
+DESCRIPTIONS_1=Mon arme... a rebondi sur sa
+peau. Cette chose bougeait...
+si vite. J'ai été mis KO en
+un rien de temps. Le sorcier
+dit... que ce n'est qu'une
+égratignure, mais j'ai mal !
+Vengez ma chair blessée !
+DESCRIPTIONS_2=Meine Waffe... prallte an der
+Haut wie ein Spielzeug ab. Es
+bewegte sich... so rasch. Ehe
+ich mich versah, war ich K.O.
+Der Medizinmann sagt, es
+ist nur ein Kratzer, aber der
+Schmerz! Räche meine Wunde!
+DESCRIPTIONS_3=La mia arma... gli rimbalzava
+addosso come un giocattolo.
+Quella cosa era così veloce...
+Mi ha messo al tappeto in
+un batter d'occhio! Lo Sciamano
+dice che è solo un graffio, ma
+voglio comunque vendetta!
+DESCRIPTIONS_4=Minha arma… quicou como
+brinquedo na pele daquela
+coisa! Ela se movia tão rápido
+que, quando percebi, já estava
+congelado. O curandeiro disse
+que foi só um arranhão, mas
+dói pra caramba! Vingue-me!

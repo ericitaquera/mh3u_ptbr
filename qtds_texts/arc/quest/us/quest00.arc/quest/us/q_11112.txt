@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Merchant's Mission
+TITLES_1=La mission du marchand
+TITLES_2=Mission des Kaufmanns
+TITLES_3=La missione del mercante
+TITLES_4=A missão do comerciante
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathian
+OBJECTIVES_1=Chasser une Rathian
+OBJECTIVES_2=Erjage eine Rathian.
+OBJECTIVES_3=Caccia una Rathian
+OBJECTIVES_4=Caçar uma Rathian
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Simple Fur Trader
+CLIENTS_1=Marchand four. simplet
+CLIENTS_2=Einfacher Pelzhändler
+CLIENTS_3=Pellicciaio
+CLIENTS_4=Comerciante de peles
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Gah! Again my cargo is kaput.
+What use is guard if he no guard
+nothing? Always, I hire guard!
+Always, I hear same story:
+monster too strong! But not
+immortal, yes? So, you hunt him?
+I reward. We understand?
+DESCRIPTIONS_1=Ma cargaison est fichue. À
+quoi ça sert un garde qui ne
+garde rien ? C'est toujours
+pareil : un monstre trop fort.
+Mais pas immortel, non ? Vous
+le chassez ? J'ai une
+récompense.
+DESCRIPTIONS_2=Mist! Schon wieder ist meine
+Ladung kaputt. Was nützt ein
+Wächter, wenn er nicht wacht?
+Immer heißt es: Das Monster
+ist viel zu stark! Aber nicht
+unsterblich, oder? Erlegst
+du es? Ich belohne dich. Okay?
+DESCRIPTIONS_3=No! Il mio carico è andato distrutto
+di nuovo. A cosa serve assoldare
+una guardia? Lo faccio sempre, ma
+la storia non cambia: quel mostro
+è troppo forte! Non sarà mica
+immortale? Vuoi cacciarlo per me?
+Ti ricompenserò. Intesi?
+DESCRIPTIONS_4=Bah! Lá se foi meu carregamento.
+Pra que serve guarda que não
+guarda? Sempre contrato segurança
+e sempre a mesma desculpa:
+“monstro forte!” Mas ele não
+é imortal, né? Você caça pra mim?
+Tem recompensa!

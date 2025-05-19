@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Double Jeopardy
+TITLES_1=Double danger
+TITLES_2=Doppeltes Risiko
+TITLES_3=Doppia minaccia
+TITLES_4=Duplo perigo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Arzuros
+OBJECTIVES_1=Chasser 2 Arzuros
+OBJECTIVES_2=Erjage 2 Arzuros.
+OBJECTIVES_3=Caccia 2 Arzuros
+OBJECTIVES_4=Caçar 2 Arzuros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Yukumo Clerk
+CLIENTS_1=Employé de Yukumo
+CLIENTS_2=Yukumo-Angestellter
+CLIENTS_3=Addetto Yukumo
+CLIENTS_4=Empregada Yukumo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Calling all Elite Hunters --
+have I got a request for you!
+Interested in an Arzuros near
+the village? Wait, don't answer.
+How 'bout two of them? That oughta
+put some pep in your step! You
+need more info? No? OK then!
+DESCRIPTIONS_1=Appel à tous les chasseurs
+d'élite ! J'ai un boulot pour
+vous ! Que diriez-vous d'un
+Arzuros près du village ? Ou
+même deux ? Voilà un joli
+défi ! Vous voulez en savoir
+plus ? Non ? Très bien !
+DESCRIPTIONS_2=An alle Elitejäger: Es gibt
+Arbeit! Interesse an einem Ar-
+zuros in der Nähe des Dorfes?
+Halt, Moment. Wie wäre es
+mit zwei? Das wäre eine nette
+Abwechslung! Noch mehr Infos
+gefällig? Nein? Also gut!
+DESCRIPTIONS_3=Cacciatori elitari, ho un lavoro
+per voi! Che ne dite di un Arzuros
+non distante dal villaggio?
+Aspettate, non rispondete.
+Che ne dite di due? Questo
+dovrebbe farvi scattare. Volete
+più informazioni? No? Bene!
+DESCRIPTIONS_4=A todos os caçadores de
+elite: Tenho uma missão
+especial! Que tal caçar um
+Arzuros perto da vila? Não?
+Então… e dois? Isso anima,
+né? Sem mais perguntas!

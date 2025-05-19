@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Splash Damage
+TITLES_1=Éclaboussures
+TITLES_2=Wasserschaden
+TITLES_3=Onda su onda
+TITLES_4=Splash doloroso
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Plesioth
+OBJECTIVES_1=Chasser un Plesioth
+OBJECTIVES_2=Erjage einen Plesioth.
+OBJECTIVES_3=Caccia un Plesioth
+OBJECTIVES_4=Caçar um Plesioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young Fisherwoman
+CLIENTS_1=Jeune pêcheuse
+CLIENTS_2=Junge Fischerin
+CLIENTS_3=Giovane pescatrice
+CLIENTS_4=Jovem pescadora
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I seen this black shape in the
+water, all huge and scary. 'Fore
+I knew it, a big ol' Piscine
+Wyvern breached the brine like
+some kinda flyin' fish. Its splash
+was like a tidal wave. Soaked me
+to the britches, it did!
+DESCRIPTIONS_1=J'ai vu une forme noire, énorme
+et effrayante dans l'eau. Tout
+à coup, un gros Wyvern nageur
+a bondi hors de l'eau comme
+un poisson-volant. Il a créé
+une vague si grosse que j'ai
+été complètement trempée !
+DESCRIPTIONS_2=Ich habe diesen schwarzen
+Schatten im Wasser gesehen.
+Gruselig. Dann stieß ein
+Fischwyvern durch die
+Oberfläche, das Wasser
+spritzte hoch wie ein Tsunami!
+Hat mich völlig durchgeweicht!
+DESCRIPTIONS_3=Era un'ombra nell'acqua, enorme
+e spaventosa. All'improvviso,
+un wyvern subacqueo è saltato
+fuori come un pesce volante,
+sollevando una grande quantità
+d'acqua. Ohibò, mi ha inzuppato
+completamente i pantaloni!
+DESCRIPTIONS_4=Vi uma sombra enorme na
+água, horrível e escura. De
+repente, um wyvern aquático
+saltou como um peixe voador!
+O respingo parecia um tsunami
+— me encharcou até os ossos!
+Tô tremendo até agora...

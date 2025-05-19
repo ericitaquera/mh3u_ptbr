@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=Tumble on the Tundra
+TITLES_1=Grabuge sur la toundra
+TITLES_2=Chaos in der Tundra
+TITLES_3=Ruzzolone nella tundra
+TITLES_4=Caos na tundra
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Baleful Gigginox
+and a Jade Barroth
+OBJECTIVES_1=Chasser un Gigginox foud.
+et un Barroth de jade
+OBJECTIVES_2=Erjage 1 Unheils-Gigginox
+und 1 Jade-Barroth.
+OBJECTIVES_3=Caccia un Gigginox malefico
+e un Barroth di giada
+OBJECTIVES_4=Caçar um Barroth esmeralda
+e um Gigginox aterrador
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tomboy Huntress
+CLIENTS_1=Chasseresse masculine
+CLIENTS_2=Wildfang-Jägerin
+CLIENTS_3=Cacciatrice monella
+CLIENTS_4=Caçadora durona
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I need speed to do my thing out
+there, but those two Tundra
+monsters sure know how to slow a
+girl down. They got in my way even
+though I was hunting something
+else! This is really starting to
+eat away at my confidence...
+DESCRIPTIONS_1=Je dois être rapide pour m'en
+sortir, mais ces deux monstres
+dans la toundra me freinent.
+Ils s'en prennent à moi même
+quand je chasse autre chose !
+Je commence à perdre mon
+assurance...
+DESCRIPTIONS_2=Ich muss schnell sein, um mein
+Vorhaben dort draußen durch-
+zuführen, aber diese beiden
+Tundra-Monster behindern mich.
+Selbst wenn ich etwas anderes
+jage, sind sie im Weg! Das
+raubt mir den letzten Nerv...
+DESCRIPTIONS_3=Nel mio lavoro bisogna muoversi
+rapidamente, ma quei due mostri
+della tundra sanno come rallentare
+una ragazza. Mi hanno attaccato
+anche se non davo la caccia a loro!
+Sto iniziando a perdere fiducia
+in me stessa...
+DESCRIPTIONS_4=Aqui tenho que agir rápido,
+mas esses dois monstros da
+Tundra sabem como travar uma
+garota! Vim caçar outra coisa,
+mas se meteram no meu caminho.
+Isso já tá me tirando do sério!

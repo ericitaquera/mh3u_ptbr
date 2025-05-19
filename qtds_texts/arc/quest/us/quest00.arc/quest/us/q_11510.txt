@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Canteen] Desert Rumble!
+TITLES_1=[Cantine] Lutte désertique
+TITLES_2=[Kantine] Wüstenschlacht!
+TITLES_3=[Mensa] Rissa nel deserto
+TITLES_4=[Cantina] Estrondo desértico!
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Jhen Mohran
+or repel it
+OBJECTIVES_1=Tuer un Jhen Mohran
+ou le repousser
+OBJECTIVES_2=Erlege einen Jhen Mohran
+oder wehre ihn ab.
+OBJECTIVES_3=Uccidi un Jhen Mohran
+o respingilo
+OBJECTIVES_4=Matar um Jhen Mohran
+ou afastá-lo
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward or Dragonship Integrity
+hits 0, or time expires.
+FAIL_CONDITIONS_1=Prime ou intégrité drakkar
+atteint 0 ou temps écoulé.
+FAIL_CONDITIONS_2=Belohnung o. Drachenschf.-
+Zustand auf 0 o. Zeit um.
+FAIL_CONDITIONS_3=Premio o integrità dragoniera
+a 0, oppure tempo scaduto.
+FAIL_CONDITIONS_4=Recomp. ou integr. caçadr.
+cair a 0, ou fim tempo.
+[CLIENTS]
+CLIENTS_0=Guildmaster
+CLIENTS_1=Maître de guilde
+CLIENTS_2=Gildenmeister
+CLIENTS_3=Maestro Gilda
+CLIENTS_4=Mestre da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Hunters and Dragonships, rally!
+The Jhen Mohran -- that sultan of
+the desert sands -- is upon us!
+We gotta hit it with guns blazin'!
+You fancy yerself an ultimate
+hunter? Then hop aboard! First
+drink's on me when ye get back!
+DESCRIPTIONS_1=Rassemblez les chasseurs et
+les drakkars ! Le Jhen Mohran,
+sultan du désert, est là ! Nous
+devons attaquer ! Vous pensez
+être un excellent chasseur ?
+Je vous paie un verre à votre
+retour !
+DESCRIPTIONS_2=Jäger und Drachenschiffe! Der
+Jhen Mohran, Stern der Wüste,
+ist da! Wir müssen ihn hart
+treffen! Du bist der ultimati-
+ve Jäger? Dann komm an Bord!
+Das erste Getränk geht auf
+mich, wenn du zurückkommst!
+DESCRIPTIONS_3=Cacciatori e navi dragoniere,
+adunata! Il Jhen Mohran, sultano
+del deserto, è qui! Dobbiamo fargli
+assaggiare la furia delle pistole!
+Sei un cacciatore infallibile? Fatti
+avanti! Al ritorno ti offrirò da bere!
+DESCRIPTIONS_4=Caçadores e caçadores de
+dragões! Jhen Mohran, a estrela
+do deserto, chegou! Devemos
+atacá-lo com a artilharia!
+Você se considera o caçador
+definitivo? Embarque! Te
+convido para algo ao voltar!

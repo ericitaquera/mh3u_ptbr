@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] A Burnt Offering
+TITLES_1=[Avancé] Une offrande brûlée
+TITLES_2=[Fortg.] Brandopfer
+TITLES_3=[Avanzata] Dono di cenere
+TITLES_4=[Avançada] Oferenda queimada
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Princess
+CLIENTS_1=Princesse t. de feu
+CLIENTS_2=Feuerland-Prinzessin
+CLIENTS_3=Principessa terre inf.
+CLIENTS_4=Princesa país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The mountain weeps tears of
+flame. The earth trembles.
+But sacrifice to the fire gods 
+cannot be the answer -- no
+matter what the elders say!
+Please, stop the wyverns, lest
+I become the next offering!
+DESCRIPTIONS_1=La montagne pleure des larmes
+de feu. La terre tremble. Mais
+le sacrifice aux dieux du feu
+n'est pas la solution, quoi
+que disent les anciens. Pitié,
+arrêtez les Wyvern avant que
+je ne serve d'offrande !
+DESCRIPTIONS_2=Der Berg weint flammende
+Tränen. Die Erde bebt. Aber
+ein Opfer an die Feuergötter
+kann keine Lösung sein, egal,
+was die Ältesten sagen! Bitte
+halte die Wyvern auf, ehe ich
+zur nächsten Opfergabe werde!
+DESCRIPTIONS_3=La montagna piange lacrime di
+fuoco. La terra trema. Ma i sacrifici
+agli dei del fuoco non sono
+una soluzione, nonostante ciò che
+dicono gli anziani! Ti prego, ferma
+i wyvern, prima che io diventi
+la prossima vittima!
+DESCRIPTIONS_4=A montanha derrama lágrimas
+de fogo. A terra treme.
+Mas a resposta não é um
+sacrifício para os deuses do
+fogo, mesmo que os anciões
+digam! Pare os wyverns ou
+serei a próxima oferta!

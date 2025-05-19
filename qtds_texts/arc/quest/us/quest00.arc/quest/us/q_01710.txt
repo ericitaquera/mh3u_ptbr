@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=On Thin Ice
+TITLES_1=Danse sur glace
+TITLES_2=Auf dünnem Eis
+TITLES_3=Ghiaccio sottile
+TITLES_4=Sobre Gelo Fino
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Lagombi
+OBJECTIVES_1=Chasser 2 Lagombi
+OBJECTIVES_2=Erjage 2 Lagombi.
+OBJECTIVES_3=Caccia 2 Lagombi
+OBJECTIVES_4=Caçar 2 Lagombi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wandering Reporter
+CLIENTS_1=Reporter errant
+CLIENTS_2=Rasender Reporter
+CLIENTS_3=Reporter spericolato
+CLIENTS_4=Repórter errante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I'm reporting live from the
+Tundra, where two Lagombi are
+making their way across the frozen
+landscape with all the grace of
+ice ballerinas. I could stand here
+and watch them all day! ...Wait,
+are they coming this way!? RUN!
+DESCRIPTIONS_1=Je suis en direct de la
+toundra, où deux Lagombi
+traversent le paysage gelé
+avec la grâce des ballerines.
+Je pourrais passer la journée
+à les regarder. Attention, ils
+viennent par ici ! COUREZ !
+DESCRIPTIONS_2=Ich berichte live aus der
+Tundra, wo sich zwei Lagombi
+ihren Weg durch die Eisland-
+schaft mit der Eleganz von
+Eisballerinen bahnen. Ich
+könnte ihnen ewig zusehen.
+Moment, kommen sie her? WEG!
+DESCRIPTIONS_3=In diretta dalla tundra, due Lagombi
+stanno avanzando attraverso
+il paesaggio ghiacciato con la grazia
+di pattinatrici sul ghiaccio. Potrei
+restare a guardare lo spettacolo
+per tutto il giorno! Ma... vengono
+da questa parte?! VIA!
+DESCRIPTIONS_4=Estou aqui na Tundra, onde
+dois Lagombi deslizam pela
+paisagem congelada com
+a elegância de dançarinos
+no gelo. Eu passaria o
+dia só olhando… Espera —
+eles estão vindo?! Corre!

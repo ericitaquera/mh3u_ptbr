@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=[Advanced] Pretty and Pink
+TITLES_1=[Avancé] Monstre rose
+TITLES_2=[Fortg.] Reizend in Rosa
+TITLES_3=[Avanzata] Rosa è bello
+TITLES_4=[Avançada] A bela e a rosa
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathian and
+a Pink Rathian
+OBJECTIVES_1=Chasser une Rathian et
+une Rathian rose
+OBJECTIVES_2=Erjage eine Rathian und
+eine Rosa Rathian.
+OBJECTIVES_3=Caccia una Rathian e
+una Rathian rosa
+OBJECTIVES_4=Caçar uma Rathian e
+uma Rathian rosa
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Spoiled Princess
+CLIENTS_1=Princesse gâtée
+CLIENTS_2=Verwöhnte Prinzessin
+CLIENTS_3=Principessa viziata
+CLIENTS_4=Princesa mimada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=No fair! I figured I'd enter a
+battle just 'cause Daddy said I'm
+good at EVERYTHING. But no one
+said anything about TWO opponents!
+One of them's a Pink Rathian! No
+fair -- I can't fight both of them
+at once. Come help me, peasant!
+DESCRIPTIONS_1=J'ai voulu combattre parce que
+Papa dit que je suis douée
+pour tout, mais on ne m'avait
+pas parlé de DEUX monstres !
+L'un d'eux est une Rathian
+rose ! Je ne peux pas af-
+fronter les deux. Aidez-moi !
+DESCRIPTIONS_2=Das ist unfair! Ich wollte
+kämpfen, weil Papi sagt, dass
+ich in ALLEM gut bin. Aber
+ZWEI Gegner? Noch dazu eine
+Rosa Rathian! Unfair! Ich kann
+nicht gegen beide kämpfen.
+Los, hilf mir, Bauer!
+DESCRIPTIONS_3=Non è giusto! Papà dice che sono
+inutile, perciò ho deciso di entrare
+in battaglia, ma nessuno mi aveva
+avvertito che i mostri sono due!
+Uno di essi è una Rathian rosa!
+Non è giusto... due sono troppi!
+Aiutami, contadino!
+DESCRIPTIONS_4=Não é justo! Eu pensei que poderia
+lutar porque meu pai diz que eu
+me destaco em tudo. Mas ninguém
+me falou sobre dois rivais! Um
+é um Rathian rosa! Não é justo,
+eu não posso enfrentar os dois
+ao mesmo tempo. Ajuda, camponês!

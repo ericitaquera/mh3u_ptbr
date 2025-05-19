@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Heavy Hitters
+TITLES_1=Combat poids lourds
+TITLES_2=Promi-Prügler
+TITLES_3=Colpi pesanti
+TITLES_4=Pegada firme
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fangster Red
+CLIENTS_1=Sicaire rouge
+CLIENTS_2=Roter Reißzahn
+CLIENTS_3=Fangster rosso
+CLIENTS_4=Assassino vermelho
+[DESCRIPTIONS]
+DESCRIPTIONS_0=When monsters go to sleep at
+night, they check under the bed
+for me. I'm just that good! But I
+done bad. How was I supposed to
+know those beasts would keep
+coming? They have a deathwish?
+Finish what I started, hunter! 
+DESCRIPTIONS_1=Je suis si doué que quand les
+monstres vont se coucher, ils
+vérifient que je ne me cache
+pas sous leur lit. Comment je
+pouvais savoir que ces bêtes
+seraient si nombreuses ? Allez
+finir mon travail !
+DESCRIPTIONS_2=Wenn Monster sich schlafen
+legen, suchen sie unter dem
+Bett nach mir. So gut bin ich!
+Aber ich habe einen Fehler
+gemacht. Warum kommen sie
+immer wieder? Sehnen sie
+sich nach dem Tod? Beende es!
+DESCRIPTIONS_3=Quando di notte i mostri vanno a
+dormire, controllano che non vi sia
+io sotto il letto. Sono così temibile!
+Ma ora si sta mettendo male.
+Le belve continuano ad arrivare!
+Istinto suicida? Cacciatore,
+finiscile tu!
+DESCRIPTIONS_4=Quando os monstros vão dormir,
+eles me procuram debaixo da
+cama. Que bom sou eu! Mas me
+dei mal. Como eu poderia saber
+que essas feras continuariam
+vindo? Querem morrer? Termine
+o que comecei, caçador!

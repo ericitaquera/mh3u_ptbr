@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Hunting the Hunter
+TITLES_1=Chasse au chasseur
+TITLES_2=Jagd auf den Jäger
+TITLES_3=A caccia del cacciatore
+TITLES_4=Caçador caçado
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Zinogre
+OBJECTIVES_1=Chasser un Zinogre
+OBJECTIVES_2=Erjage einen Zinogre.
+OBJECTIVES_3=Caccia uno Zinogre
+OBJECTIVES_4=Caçar um Zinogre
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Dejected Hunter
+CLIENTS_1=Chasseur découragé
+CLIENTS_2=Entmutigter Jäger
+CLIENTS_3=Cacciatore avvilito
+CLIENTS_4=Caçador desanimado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I suppose I'm being too harsh on
+myself. I'm far from the only
+hunter who has challenged the
+Zinogre in the Misty Peaks
+region only to become the hunted.
+Why else would the monster be
+known as "The Hunter"? Still...
+DESCRIPTIONS_1=Je suppose que je suis trop
+dur avec moi-même. Je ne suis
+pas le premier chasseur à
+devenir la proie du Zinogre
+des Pics Brumeux. Sinon, on ne
+l'appellerait pas "Le
+Chasseur", pas vrai ?
+DESCRIPTIONS_2=Ich schätze, ich bin zu streng
+mit mir selbst. Ich bin bei
+Weitem nicht der einzige
+Jäger, der in den Nebelgipfeln
+durch den Zinogre zum Gejagten
+wurde. Warum sonst heißt er
+wohl "Der Jäger"? Trotzdem...
+DESCRIPTIONS_3=Forse sono troppo duro con me
+stesso. Non sono il primo cacciatore
+che ha sfidato uno Zinogre
+sulle Cime nebbiose solo per
+diventare la sua preda. D'altra parte
+ci sarà un motivo se quel mostro
+è chiamato "Il cacciatore"...
+DESCRIPTIONS_4=Suponho que sou muito duro comigo
+mesmo. Não sou o único caçador
+caçado pelo Zinogre dos Cumes
+Nebulosos. Por que, se não,
+esse monstro seria conhecido
+como "o caçador"? Mesmo assim...

@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Moonlit Tryst
+TITLES_1=Rendez-vous au clair de lune
+TITLES_2=Mondlicht-Stelldichein
+TITLES_3=Incontro al chiaro di luna
+TITLES_4=Encontro sob a lua
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Silver Rathalos
+and a Gold Rathian
+OBJECTIVES_1=Chasser un Rathalos arg.
+et une Rathian dorée
+OBJECTIVES_2=Erjage 1 Silbernen Ratha-
+los und 1 Goldene Rathian.
+OBJECTIVES_3=Caccia un Rathalos argentato
+e una Rathian dorata
+OBJECTIVES_4=Caçar um Rathalos prateado
+e uma Rathian dourada
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Scarlet Mystery Man
+CLIENTS_1=Homme rouge mystérieux
+CLIENTS_2=Mysteriöser Roter Mann
+CLIENTS_3=Misterioso uomo scarl.
+CLIENTS_4=Misterioso Homem escarl.
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Foolish hunters, the feast is at
+hand -- and you shall be the 
+guests of honor! Succumb to the
+rhythm and you may yet survive
+this night of madness. But beware:
+Tonight, the moon drinks blood.
+DESCRIPTIONS_1=Pauvres chasseurs, vous serez
+les invités d'honneur du
+festin ! Si vous suivez le
+rythme, vous survivrez peut-
+être à cette folle nuit. Ce soir,
+la lune a soif de sang.
+DESCRIPTIONS_2=Dumme Jäger, das Festmahl ist
+bereitet, und ihr seid die
+Ehrengäste! Erliegt dem
+Rhythmus und ihr überlebt
+vielleicht diese Nacht des
+Wahnsinns. Gebt acht: Heute
+Nacht trinkt der Mond Blut!
+DESCRIPTIONS_3=Folli cacciatori, la festa sta per
+iniziare... e voi siete gli ospiti
+d'onore! Seguite il ritmo e
+sopravvivrete a questa notte di
+pazzia. Ma attenzione: stanotte
+la luna ha sete di sangue.
+DESCRIPTIONS_4=Tolos caçadores, se
+aproxima a festa, e
+vocês são os convidados de
+honra! Sucumbam ao ritmo e
+sobreviverão a esta noite de
+loucura. Mas tenham cuidado:
+hoje a lua beberá sangue.

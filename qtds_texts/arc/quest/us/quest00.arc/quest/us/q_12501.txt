@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Ruler of Two Realms
+TITLES_1=Maître de deux royaumes
+TITLES_2=Herrscher zweier Reiche
+TITLES_3=Re di due regni
+TITLES_4=Governante de dois reinos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Ivory Lagiacrus
+OBJECTIVES_1=Chasser un Lagiacrus ivoire
+OBJECTIVES_2=Erjage einen
+Elfenbein-Lagiacrus.
+OBJECTIVES_3=Caccia un Lagiacrus d'avorio
+OBJECTIVES_4=Caçar um Lagiacrus
+marmóreo
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Guildmaster
+CLIENTS_1=Maître de guilde
+CLIENTS_2=Gildenmeister
+CLIENTS_3=Maestro Gilda
+CLIENTS_4=Mestre da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Well, aren't ye special? The
+Guild's asked for ye by name this
+time. Seems like we have a
+Lagiacrus at large again and...
+Wait, what? It's on land this
+time? Not in the sea? Huh. Never
+a dull moment around here, eh?
+DESCRIPTIONS_1=Vous devez être quelqu'un de
+spécial. La guilde vous a
+demandé pour cette tâche. Il y
+a encore un Lagiacrus au large
+et... Quoi ? Il est sur la terre
+cette fois ? Hmm. Rien n'est
+monotone par ici !
+DESCRIPTIONS_2=Du bist etwas Besonderes. Die
+Gilde hat dich extra angefor-
+dert. Offenbar haben wir es
+wieder mit einem Lagiacrus zu
+tun... Was? An Land? Nicht im
+Wasser? Oh. Hier wird es
+niemals langweilig, oder?
+DESCRIPTIONS_3=Orbene, tu devi essere speciale.
+La Gilda ha chiesto espressamente
+di te. Un Lagiacrus è di nuovo a
+piede libero e... un attimo, cosa?
+Questa volta è sulla terraferma?
+Non nel mare? Non ci si annoia
+mai da queste parti!
+DESCRIPTIONS_4=Pois é, você é mesmo
+especial. O Gremio te convocou
+especificamente para esta
+missão. Um Lagiacrus está à
+solta e... O quê? Está em terra
+desta vez? Não no mar? Oh.
+Sempre tem algo novo, não é?

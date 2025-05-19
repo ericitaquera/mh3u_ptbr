@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=[Advanced] Tale of Tails
+TITLES_1=[Avancé] Bêtes à queue
+TITLES_2=[Fortg.] Schweif-Legende
+TITLES_3=[Avanzata] Colpo di coda
+TITLES_4=[Avançada] Rabo da história
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Rust Duramboros
+OBJECTIVES_1=Chasser 2 Duramboros
+rouille
+OBJECTIVES_2=Erjage 2 Rost-Duramboros.
+OBJECTIVES_3=Caccia 2 Duramboros rugginosi
+OBJECTIVES_4=Caçar 2 Duramboros
+enferrujados
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Master Craftsman
+CLIENTS_1=Maître artisan
+CLIENTS_2=Handwerksmeister
+CLIENTS_3=Mastro artigiano
+CLIENTS_4=Mestre artesão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=If only I could get my hands on
+the tail of that newly discovered
+Duramboros subspecies. Just
+imagine the weapons I could craft
+from it! Can you hunt one for me?
+Actually, better make that two for
+redundancy's sake. Good luck!
+DESCRIPTIONS_1=Si seulement je pouvais mettre
+la main sur cette nouvelle
+sous-espèce de Duramboros.
+Imaginez les armes que je
+pourrais en tirer ! Pouvez-
+vous m'en chasser un ? Ou
+plutôt deux. Bonne chance !
+DESCRIPTIONS_2=Wenn ich nur diesen Schweif
+der neuen Duramboros-Unterart
+in die Finger kriegen könnte.
+Was würde ich für Waffen
+fertigen! Erlegst du einen für
+mich? Nein, doch besser gleich
+zwei. Viel Glück!
+DESCRIPTIONS_3=Se solo potessi mettere le mani su
+una coda della sottospecie di
+Duramboros scoperta di recente!
+Immagina l'arma che potrei
+forgiare! Potresti cacciarne uno?
+Anzi, facciamo due, per averne
+uno di riserva. Buona fortuna!
+DESCRIPTIONS_4=Se eu pudesse colocar as mãos
+na cauda dessa nova espécie
+de Duramboros... Imagine a
+quantidade de armas que eu
+poderia criar com ela! Você
+pode caçar um? Que sejam dois,
+melhor sobrar. Boa sorte!

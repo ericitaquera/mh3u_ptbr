@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Night Stalker
+TITLES_1=Prédateur nocturne
+TITLES_2=Nächtlicher Pirscher
+TITLES_3=Molestatore notturno
+TITLES_4=Predador noturno
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Green Nargacuga
+OBJECTIVES_1=Chasser un Nargacuga vert
+OBJECTIVES_2=Erjage einen
+Grünen Nargacuga.
+OBJECTIVES_3=Caccia un Nargacuga verde
+OBJECTIVES_4=Caçar um Nargacuga verdoso
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Ninja-in-Training
+CLIENTS_1=Apprenti ninja
+CLIENTS_2=Ninja in Ausbildung
+CLIENTS_3=Apprendista ninja
+CLIENTS_4=Aprendiz de ninja
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Yet again I have shamed myself. I
+let a Green Nargacuga get the drop
+on me while I was training in the
+Flooded Forest. It was just a blur
+in the night! If I cannot keep up
+with such a beast, perhaps I
+shouldn't leave the dojo.
+DESCRIPTIONS_1=Je me suis encore ridiculisé.
+J'ai permis à un Nargacuga
+vert de me tomber dessus
+quand je m'entraînais dans la
+forêt inondée. Si je me laisse
+surprendre si facilement, je
+devrais rester au dojo.
+DESCRIPTIONS_2=Ich habe mich wieder blamiert.
+Beim Training im Flutwald hat
+mich ein Grüner Nargacuga auf-
+gespürt. Er war wie ein Schat-
+ten in der Nacht! Wenn ich mit
+so was nicht mithalten kann,
+sollte ich im Dojo bleiben.
+DESCRIPTIONS_3=Ho vergogna di me. Un Nargacuga
+verde mi ha sorpreso mentre
+mi esercitavo nella Foresta
+inondata. Era un lampo
+nella notte! Se non riesco a
+competere con una creatura simile,
+forse non dovrei lasciare il dojo.
+DESCRIPTIONS_4=Mais uma vez, que vergonha.
+Deixei um Nargacuga verde
+me ultrapassar enquanto eu
+treinava na Floresta Inundada.
+Eu nem o vi! Melhor não sair
+do dojo se não vou conseguir
+lidar com uma fera dessas.

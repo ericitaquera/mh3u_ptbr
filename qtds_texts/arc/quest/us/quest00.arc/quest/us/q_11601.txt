@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Harvest Tour: Misty Peaks
+TITLES_1=Visite : Pics brumeux
+TITLES_2=Erntetour: Nebelgipfel
+TITLES_3=Tour: Cime nebbiose
+TITLES_4=Tour: Cumes Nebulosos
+[OBJECTIVES]
+OBJECTIVES_0=Survive until time expires or
+deliver a Paw Pass Ticket
+OBJECTIVES_1=Survivre jusqu'à la fin ou
+livrer un ticket Passechat
+OBJECTIVES_2=Überlebe bis Zeitende oder
+gib einen Tatzenpass ab.
+OBJECTIVES_3=Sopravvivi fino allo scadere o
+consegna un Buono Pass-zampa
+OBJECTIVES_4=Sobreviver até o final
+ou entregar um Ticket garra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0.
+FAIL_CONDITIONS_1=Prime atteint 0.
+FAIL_CONDITIONS_2=Belohnung auf 0.
+FAIL_CONDITIONS_3=Premio a 0.
+FAIL_CONDITIONS_4=Recompensa cair a 0.
+[CLIENTS]
+CLIENTS_0=Felyne Tour Guide
+CLIENTS_1=Guide Felyne
+CLIENTS_2=Felyne-Reiseführer
+CLIENTS_3=Guida Felyne
+CLIENTS_4=Guia do Tour Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Everyone here, nya? Welcome to
+the Misty Peaks Harvest Tour. The
+evergreen landscape is a fancy
+feast for the eyes, and getting
+back is kitten's play. You'll
+receive a Paw Pass Ticket in two
+minutes for easy passage home.
+DESCRIPTIONS_1=Tout le monde est là, nya ?
+Bienvenue à la visite des Pics
+brumeux. Le paysage est
+magnifique et le retour aisé.
+Vous recevrez dans 2 minutes
+un ticket Passechat pour un
+retour sécurisé.
+DESCRIPTIONS_2=Sind alle da, miau? Willkommen
+zur Nebelgipfel-Erntetour. Die
+immergrüne Landschaft ist eine
+Augenweide, die Rückreise ganz
+leicht! In zwei Minuten kann
+sich jeder einen Tatzenpass
+zur sicheren Heimreise holen.
+DESCRIPTIONS_3=Ci siamo tutti, nya? Benvenuti
+al tour delle Cime nebbiose.
+Il paesaggio sempreverde è
+una gioia per gli occhi, sarà
+una passeggiata. Tra due minuti
+riceverete un Buono Pass-zampa
+per un ritorno sicuro a casa.
+DESCRIPTIONS_4=Todos aqui, miau? Este é o
+Tour pelos Cumes Nebulosos.
+A paisagem verde é um deleite
+para os olhos, e retornar
+é moleza. Em dois minutos,
+um Ticket garra permitirá
+que vocês voltem para casa.
