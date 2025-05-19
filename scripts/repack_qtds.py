@@ -3,6 +3,18 @@ import sys
 import os
 
 
+VALID_HEADERS = {
+    "TITLES", "OBJECTIVES", "FAIL_CONDITIONS", "CLIENTS",  "DESCRIPTIONS"
+}
+
+def is_valid_section_header(line):
+    line = line.strip()
+    return (
+        line.startswith("[") and
+        line.endswith("]") and
+        line[1:-1] in VALID_HEADERS
+    )
+
 def encode_string_block(entries):
     block = bytearray()
     for key, text in entries:
@@ -22,7 +34,8 @@ def parse_text_file(txt_path):
 
     buffer = []
     for line in lines:
-        if line.strip().startswith("[") and line.strip().endswith("]"):
+        if is_valid_section_header(line):
+        #if line.strip().startswith("[") and line.strip().endswith("]"):
             if current and buffer:
                 sections[current] = buffer
                 buffer = []
