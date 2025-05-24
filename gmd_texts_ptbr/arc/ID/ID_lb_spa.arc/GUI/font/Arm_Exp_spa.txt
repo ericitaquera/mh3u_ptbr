@@ -113,11 +113,11 @@ defensores da cidade. As
 crianças anseiam por usá-lo.
 --- BLOCK ---
 Equipamento para os braços usado
-por funcionárias do Gremio. Ideal
+por funcionárias da Guilda. Ideal
 para trabalhar no balcão.
 --- BLOCK ---
 Equipamento para os braços usado
-por funcionárias do Gremio. Útil
+por funcionárias da Guilda. Útil
 no escritório e na selva.
 --- BLOCK ---
 Protetores de braço de escamas
@@ -447,11 +447,11 @@ defensores da cidade. Os
 bandidos fogem ao vê-lo.
 --- BLOCK ---
 Equipamento para braços usado por
-funcionárias do Gremio. Ideal
+funcionárias da Guilda. Ideal
 para trabalhar no balcão.
 --- BLOCK ---
 Equipamento para braços usado por
-funcionárias do Gremio. Útil no
+funcionárias da Guilda. Útil no
 escritório e na selva.
 --- BLOCK ---
 Guarda-braços de escamas verdes
@@ -744,7 +744,7 @@ seu design perfeito.
 --- BLOCK ---
 Equipamento oficial para soldado
 de Loc Lac. Resultados
-certificados pelo Gremio.
+certificados pela Guilda.
 --- BLOCK ---
 Equipamento oficial para arqueiro de
 Loc Lac. Muito ventilado, para
@@ -1288,7 +1288,7 @@ seu design perfeito.
 --- BLOCK ---
 Equipamento oficial de
 montanhista Loc Lac.
-Certificados pelo Gremio.
+Certificados pela Guilda.
 --- BLOCK ---
 Equipamento oficial de atirador
 Loc Lac. Ideal para
@@ -1303,23 +1303,23 @@ defensores da cidade. Os
 bandidos fogem ao verem.
 --- BLOCK ---
 Equipamento para braços usado por
-empregadas do Gremio. Ideal
+empregadas da Guilda. Ideal
 para trabalhar no balcão.
 --- BLOCK ---
 Equipamento para braços usado por
-empregadas do Gremio. Útil no
+empregadas da Guilda. Útil no
 escritório e na selva.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Guarda-braços para empregadas do
-Gremio de Tanzia. Para
+Guarda-braços para empregadas da
+Guilda de Tanzia. Para
 caçar... e fazer papelada.
 --- BLOCK ---
-Guarda-braços de empregada do
-Gremio de Tanzia. O
+Guarda-braços de empregada da
+Guilda de Tanzia. O
 material seca rapidamente.
 --- BLOCK ---
 Bracelete pertencente a sábio

@@ -59,7 +59,7 @@ Questa volta è sulla terraferma?
 Non nel mare? Non ci si annoia
 mai da queste parti!
 DESCRIPTIONS_4=Pois é, você é mesmo
-especial. O Gremio te convocou
+especial. A Guilda te convocou
 especificamente para esta
 missão. Um Lagiacrus está à
 solta e... O quê? Está em terra

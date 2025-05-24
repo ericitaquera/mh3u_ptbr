@@ -632,7 +632,7 @@ e procure essas três maravilhas!
 Encontrou! Aquela caixa azul à sua
 frente é a Caixa de suprimentos.
 --- BLOCK ---
-Contém suprimentos cortesia do Gremio
+Contém suprimentos cortesia da Guilda
 para ajudar nas missões.
 --- BLOCK ---
 Muitos dos suprimentos devem ser devolvidos
@@ -689,7 +689,7 @@ completou a missão!
 Em seguida, você receberá sua recompensa e
 terá que voltar para a vila.
 --- BLOCK ---
-Vou enviar seus resultados para o Gremio
+Vou enviar seus resultados para a Guilda
 e eles vão te passar novas missões.
 Bons caçadores nunca ficam sem trabalho!
 --- BLOCK ---
@@ -750,7 +750,7 @@ urgente. Como imagina, precisa fazer agora!
 --- BLOCK ---
 A conclusão desta missão é muito,
 muito importante. Pode ajudar a
-obter o reconhecimento do Gremio!
+obter o reconhecimento da Guilda!
 --- BLOCK ---
 Seu objetivo será um monstro aquático:
 o Ludroth. Pode ser um pouco

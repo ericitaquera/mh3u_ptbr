@@ -93,12 +93,12 @@ receber, embora receber também não seja ruim".
  Chegou a hora de você aprender sobre os
 cartões e títulos da Guilda, não é verdade? Sim.
 --- BLOCK ---
-Os cartões do Gremio contam sua vida
+Os cartões da Guilda contam sua vida
 em poucas palavras. Apresentam você aos outros
 e contam seu histórico de caça.
 --- BLOCK ---
 Quer ver como o mundo te
-vê? Selecione Cartão do Gremio no
+vê? Selecione Cartão da Guilda no
 Menu do jogo e escolha Examinar.
 --- BLOCK ---
 A partir daí, pode escolher o conteúdo
@@ -107,14 +107,14 @@ a partir dos que tiver conseguido.
 --- BLOCK ---
 A entrada de hoje do seu Diário
 de Caçador novato: "Jogue bem seus cartões
-de Gremio e não caçará sozinho novamente".
+da Guilda e não caçará sozinho novamente".
 --- BLOCK ---
 *Cá, cá* Ah, bem-vindo, novato! Está
 aqui para se registrar como caçador.
 Veio ao lugar certo... *Arroto*
 --- BLOCK ---
-Ufa. Desculpe, ser o chefe deste
-Gremio de caçadores me dá sede.
+Ufa. Desculpe, ser o chefe desta
+Guilda de caçadores me dá sede.
 Precisa de cafeína para reuní-los.
 --- BLOCK ---
 Porto Tanzia é muito atraente para
@@ -125,7 +125,7 @@ Esta cidade foi construída sobre os ombros
 de jovens como você. Quanto mais caça,
 mais prospera Tanzia. E também come!
 --- BLOCK ---
-Nós do Gremio estamos aqui para o
+Nós da Guilda estamos aqui para o
 que precisar. Só se preocupe em
 melhorar suas habilidades e completar caçadas.
 --- BLOCK ---
@@ -134,7 +134,7 @@ exagerar. Por enquanto, explore por aqui
 e se familiarize com tudo.
 --- BLOCK ---
 Ah, mais uma coisa. Vê esse gongo atrás
-de mim? É o orgulho do Gremio.
+de mim? É o orgulho da Guilda.
 --- BLOCK ---
 Se bater no gongo, convocará
 todos os caçadores da
@@ -170,15 +170,15 @@ StreetPass. Se ainda não falou com
 ele, por que não o visita?
 --- BLOCK ---
 Ative o StreetPass e poderá trocar
-cartões do Gremio com um monte
+cartões da Guilda com um monte
 de caçadores que ainda não conhece.
 --- BLOCK ---
 Claro, também pode trocar
-cartões do Gremio com
+cartões da Guilda com
 caçadores que conhece pessoalmente.
 --- BLOCK ---
 E escute! Caçadores com os quais
-trocou cartões do Gremio virão de
+trocou cartões da Guilda virão de
 vez em quando a esta Taverna.
 --- BLOCK ---
 Chamamos de Caçadores a contrato.
@@ -287,7 +287,7 @@ Sempre acreditei que tinha potencial, jovem,
 mas não TANTO! É um
 caçador habilidoso! Ou era prodígio?
 --- BLOCK ---
-*Ehm* Seja como for, o Gremio
+*Ehm* Seja como for, a Guilda
 te reconhece como Caçador de elite!
 --- BLOCK ---
 Uma promoção oficial pede um brinde! Que
@@ -331,7 +331,7 @@ missão urgente para você. Desta
 vez vai caçar um Brachydios.
 --- BLOCK ---
 Esse monstro ainda é um mistério até
-para os mais antigos do Gremio.
+para os mais antigos da Guilda.
 --- BLOCK ---
 Sabemos uma coisa: seria
 prudente levar desodorante.
@@ -354,12 +354,12 @@ Seus ataques normais são bem pesados.
 Seus Ataques de trovão levam um
 homem à bebida! *Cá, cá*
 --- BLOCK ---
-O Gremio deve acreditar em sua
+A Guilda  deve acreditar em sua
 competência se considera que está preparado
 para essa temível besta. Parabéns?
 --- BLOCK ---
 A entrada de hoje em seu Diário
-de Caçador experiente: "Se o Gremio acredita
+de Caçador experiente: "Se a Guilda acredita
 que você pode, por que discutir?"
 --- BLOCK ---
 *Gole, gole* *Balbuciando* Pare de beber
@@ -374,18 +374,18 @@ Alguns culpam esse dragão ancião por
 todo tipo de desastres. Agora
 ele navega nas águas locais.
 --- BLOCK ---
-Certamente, o Gremio não pode deixar de
+Certamente, a Guilda não pode deixar de
 agir. Você sabe o que isso significa...
 --- BLOCK ---
 Exatamente. Queremos que dê uma lição
 nesse Ceadeus barba dourada, jovem.
 --- BLOCK ---
 É uma missão perigosa, mas alguém
-tem que fazê-la. O Gremio acredita
+tem que fazê-la. A Guilda acredita
 que esse alguém deve ser você.
 --- BLOCK ---
-Mas não lutará às cegas. O
-Gremio estará atrás de você, apoiando-o!
+Mas não lutará às cegas. A
+Guilda estará atrás de você, apoiando-o!
 --- BLOCK ---
 Sei que é uma grande exigência, mas
 pense na recompensa! Você não será conhecido
@@ -408,11 +408,11 @@ novato. Olhe para você agora! Reconheço que
 terei que começar a chamá-lo de chavalão!
 --- BLOCK ---
 *Ahem* Escute! Escute! Pelo
-poder concedido pelo Gremio,
+poder concedido pela Guilda,
 declaro você Mestre caçador!
 --- BLOCK ---
 Das missões que chegam à mesa
-do Gremio, as missões de Rank
+da Guilda, as missões de Rank
 G são as mais desafiadoras.
 --- BLOCK ---
 O avistamento de novos monstros
@@ -436,7 +436,7 @@ mas você não ficará entediado!
 --- BLOCK ---
 A entrada de hoje no Diário do Caçador
 orgulhoso: "Um caçador se levanta com o
-pé certo e o Gremio, com caçadores."
+pé certo e a Guilda, com caçadores."
 --- BLOCK ---
 *Gole, gole* Ah, já experimentou
 as missões de Rank G?
@@ -489,14 +489,14 @@ Bem, embora esperasse que
 não acontecesse, o
 momento finalmente chegou...
 --- BLOCK ---
-Relatórios enigmáticos têm chegado ao
-Gremio nos últimos dias.
+Relatórios enigmáticos têm chegado à
+Guilda nos últimos dias.
 --- BLOCK ---
 Tudo começou quando perdemos o contato com
 um navio de observação enviado ao
 Mar contaminado para estudar os terremotos.
 --- BLOCK ---
-Depois, o Gremio enviou uma frota de
+Depois, a Guilda enviou uma frota de
 navios com um navio de guerra
 liderando para encontrar o navio desaparecido...
 --- BLOCK ---
@@ -511,15 +511,15 @@ na antiguidade: o sinistro Miralis funesto.
 nome já arrepia. Agora ele se
 aproxima de Tanzia, lento mas certo.
 --- BLOCK ---
-A frota do Gremio conseguiu relatar o
+A frota da Guilda conseguiu relatar o
 avistamento, mas o contato se perdeu.
 Como se fosse engolida pelo mar.
 --- BLOCK ---
 Não é apenas Tanzia que está em perigo
 por essa besta. Toda a região está!
 --- BLOCK ---
-Pelo menos há uma boa notícia. O
-Gremio tem um depósito na área
+Pelo menos há uma boa notícia. A
+Guilda tem um depósito na área
 cheio de armas, munição e combustível.
 --- BLOCK ---
 Queremos que use esse local
@@ -553,7 +553,7 @@ salvar este local. É todo o
 meu mundo. Vamos nos recuperar, verá!
 --- BLOCK ---
 Ah, quase esqueci. Recebi uma
-carta do Gremio expressando agradecimento
+carta da Guilda expressando agradecimento
 e reconhecimento por suas conquistas.
 --- BLOCK ---
 Vamos ver... *Ahem* "Em
@@ -578,7 +578,7 @@ Daqui em diante, seu Rank caçador
 dependerá dos pontos de Rank caçador
 que receber após as missões.
 --- BLOCK ---
-Agora o Gremio até permite
+Agora a Guilda até permite
 que aceite missões consideradas impossíveis!
 --- BLOCK ---
 Sabe, sempre pensei que eram os
@@ -622,7 +622,7 @@ Não podemos reclamar! Suas proezas
 inspiraram uma nova geração de
 caçadores a entrar no jogo.
 --- BLOCK ---
-Aceite este presente do Gremio. Considere
+Aceite este presente da Guilda. Considere
 como um agradecimento pelo que fez
 e tudo o que continuará fazendo.
 --- BLOCK ---
@@ -634,7 +634,7 @@ que tem caçado com
 muitos amigos ultimamente.
 --- BLOCK ---
 Isso é o que gostamos de ouvir
-no Gremio! Caçar em grupo aumenta a
+na Guilda! Caçar em grupo aumenta a
 probabilidade de sucesso em suas missões.
 --- BLOCK ---
 Sempre encorajo os jovens a
@@ -665,7 +665,7 @@ Bem-vindo, jovem!
 --- BLOCK ---
 Oh! Hoje está bem animado!
 --- BLOCK ---
-Sim, sou o Mestre do gremio. *Arroto*
+Sim, sou o Mestre da Guilda. *Arroto*
 --- BLOCK ---
 Veio para me ouvir?
 --- BLOCK ---

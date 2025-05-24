@@ -1,6 +1,7 @@
 # === Ignore game-related and build output folders ===
 /romfs_extracted/
 /arc_extracted/
+/arc_extracted_backup/
 /gmd_repacked/
 /arc_repacked/
 /qtds_texts_ptbr/
@@ -38,3 +39,4 @@ Desktop.ini
 *.tmp
 ~$*
 .DS_Store
+

@@ -1,4 +1,4 @@
-﻿TMSG_NPCNAME
+TMSG_NPCNAME
 --- BLOCK ---
 DUMMY
 --- BLOCK ---

@@ -1,4 +1,4 @@
-﻿MENU
+MENU
 --- BLOCK ---
 HELP
 --- BLOCK ---
@@ -528,3 +528,5 @@ Você ganhará mais opções para os critérios
 Alcance e localização da missão conforme
 você avança no jogo.
 --- BLOCK ---
+
+

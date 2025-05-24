@@ -115,11 +115,11 @@ defensores da cidade. Inclui
 uma preciosa pena.
 --- BLOCK ---
 Armadura de cabeça usada por
-funcionárias do Gremio. Apesar
+funcionárias da Guilda. Apesar
 de simples, protege bem.
 --- BLOCK ---
 Peça de cabeça usada por
-funcionárias do Gremio. Mais defesa
+funcionárias da Guilda. Mais defesa
 do que o necessário.
 --- BLOCK ---
 Armadura aterrorizante para cabeça.
@@ -248,7 +248,7 @@ Leve mas resistente.
 --- BLOCK ---
 Cobertura de cabeça de exoesqueleto
 melhorado criado com a
-melhor tecnologia do Gremio.
+melhor tecnologia da Guilda.
 --- BLOCK ---
 Cobertura de cabeça de chifre
 de Duramboros. Apenas caçadores
@@ -459,11 +459,11 @@ defensores da cidade. Inclui
 uma preciosa pena.
 --- BLOCK ---
 Armadura para a cabeça usada
-por funcionárias do Gremio.
+por funcionárias da Guilda.
 Embora simples, protege bem.
 --- BLOCK ---
 Peça para a cabeça usada
-por funcionárias do Gremio. Mais
+por funcionárias da Guilda. Mais
 defesa do que o necessário.
 --- BLOCK ---
 Armadura aterradora para a
@@ -704,7 +704,7 @@ Leve, mas resistente.
 --- BLOCK ---
 Cobertura de cabeça de exoesqueleto
 aprimorado criada com a
-melhor tecnologia do Gremio.
+melhor tecnologia da Guilda.
 --- BLOCK ---
 Cobertura de cabeça de chifre
 de Duramboros. Apenas caçadores
@@ -1311,11 +1311,11 @@ defensores da cidade. Inclui
 uma preciosa pena.
 --- BLOCK ---
 Armadura para cabeça usada
-por funcionárias do Gremio.
+por funcionárias da Guilda.
 Embora simples, protege bem.
 --- BLOCK ---
 Peça para a cabeça usada
-por funcionárias do Gremio. Mais
+por funcionárias da Guilda. Mais
 defesa do que o necessário.
 --- BLOCK ---
 DUMMY
@@ -1323,11 +1323,11 @@ DUMMY
 DUMMY
 --- BLOCK ---
 Armadura de cabeça de
-funcionária do Gremio de
+funcionária da Guilda de
 Tanzia. Com uma fita.
 --- BLOCK ---
 Cobertura de cabeça de funcionária
-do Gremio de Tanzia.
+da Guilda de Tanzia.
 Sua aba parece feminina.
 --- BLOCK ---
 Coloque esses óculos de

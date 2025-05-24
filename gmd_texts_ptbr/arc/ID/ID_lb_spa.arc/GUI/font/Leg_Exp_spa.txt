@@ -119,11 +119,11 @@ cavaleiros estrangeiros. Parte
 do uniforme oficial.
 --- BLOCK ---
 Vestimenta para as pernas
-usada por funcionárias do
-Gremio. Correta e formal.
+usada por funcionárias da
+Guilda. Correta e formal.
 --- BLOCK ---
 Sandálias usadas frequentemente por
-funcionárias do Gremio, que
+funcionárias da Guilda, que
 parecem ter muitos pares.
 --- BLOCK ---
 Joelheiras imbuidas do poder da
@@ -467,11 +467,11 @@ por cavaleiros estrangeiros. Parte
 do uniforme oficial.
 --- BLOCK ---
 Peça para as pernas
-usada por funcionárias do
-Gremio. Correta e formal.
+usada por funcionárias da
+Guilda. Correta e formal.
 --- BLOCK ---
 Sandálias usadas frequentemente por
-funcionárias do Gremio, que
+funcionárias da Guilda, que
 parecem ter muitos pares.
 --- BLOCK ---
 Joelheiras imbuidas do poder da
@@ -1331,8 +1331,8 @@ cavaleiros estrangeiros. Parte
 do uniforme oficial.
 --- BLOCK ---
 Prenda para as pernas
-usada por funcionárias do
-Gremio. Correta e formal.
+usada por funcionárias da
+Guilda. Correta e formal.
 --- BLOCK ---
 Sandálias muito usadas por
 funcionárias da Guilda, que

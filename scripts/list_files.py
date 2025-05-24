@@ -1,19 +1,20 @@
 import os
-import subprocess
 import sys
 
 def search_files(name_part, directory):
     print(f"🔍 Searching for files containing '{name_part}' in: {directory}\n")
-    matches = 0
+    matches = []
+
     for root, _, files in os.walk(directory):
         for file in files:
             if name_part.lower() in file.lower():
-                fullpath=os.path.join(root, file)
-                print(fullpath)
-                subprocess.run(["py", ".\\repack_qtds.py", fullpath])
-                #input()
-                matches += 1
-    if matches == 0:
+                fullpath = os.path.join(root, file)
+                matches.append(fullpath)
+
+    if matches:
+        for match in sorted(matches, key=lambda x: os.path.basename(x).lower()):
+            print(match)
+    else:
         print("❌ No matches found.")
 
 def main():

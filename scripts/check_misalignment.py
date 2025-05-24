@@ -55,5 +55,5 @@ def read_arc_offset(file_path):
             print(f"[!] Entry {i+1}: Compressed size {comp_size} exceeds available space {available_space} between offsets {curr_offset}–{next_offset}")
 
 if __name__ == "__main__":
-    arc_path = Path("C:\\temp\\luma\\titles\\00040000000AE400\\romfs\\arc\\quest\\us\\quest00.arc")  # Change as needed
+    arc_path = Path("C:\\tmp\\mh3u_ptbr\\luma\\titles\\00040000000AE400\\romfs\\arc\\quest\\us\\quest00.arc")  # Change as needed
     read_arc_offset(arc_path)

@@ -2124,7 +2124,7 @@ O StreetPass está desativado.
 --- BLOCK ---
 Você não recebeu cartões da Guilda.
 --- BLOCK ---
-Cartão do Gremio de StreetPass. <COLO 5>Botão
+Cartão da Guilda de StreetPass. <COLO 5>Botão
 A: Marcar Botão X: Ver Botão
 Y: Apagar START: Salvar <COLO 5>
 --- BLOCK ---

@@ -1,5 +1,5 @@
 # === Set base working directory ===
-$env:BASE_DIR = "C:\temp\mh3u_ptbr"
+$env:BASE_DIR = "C:\tmp\mh3u_ptbr"
 Write-Host "BASE_DIR set to $env:BASE_DIR"
 
 # === Set tools directory ===
@@ -15,6 +15,7 @@ $folders = @{
     GMD_REPACKED_DIR     = "$env:BASE_DIR\gmd_repacked"
     QTDS_TEXT_DIR    = "$env:BASE_DIR\qtds_texts"
     QTDS_TEXT_PTBR_DIR    = "$env:BASE_DIR\qtds_texts_ptbr"
+    QTDS_REPACKED       = "$env:BASE_DIR\qtds_repacked"
     ARC_REPACKED_DIR = "$env:BASE_DIR\arc_repacked"
     ROMFS_FINAL_DIR  = "$env:BASE_DIR\romfs_final"
     SCRIPTS          = "$env:BASE_DIR\scripts"

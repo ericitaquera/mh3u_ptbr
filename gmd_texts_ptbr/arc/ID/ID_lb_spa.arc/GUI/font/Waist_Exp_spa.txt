@@ -121,11 +121,11 @@ cavaleiros defensores da cidade.
 Usá-lo é uma grande honra.
 --- BLOCK ---
 Cinta usada por
-funcionárias do Gremio.
+funcionárias da Guilda.
 Faz parecer mais fina.
 --- BLOCK ---
 Cinta usada por
-funcionárias do Gremio.
+funcionárias da Guilda.
 Muito familiar para caçadores.
 --- BLOCK ---
 Cinta real verde que
@@ -248,7 +248,7 @@ Protetor de Coxa feito
 de concha de Volvidon,
 ideal para Atiradores.
 --- BLOCK ---
-O Gremio a projetou
+A Guilda a projetou
 para resistir a impactos
 e a wyverns voadores.
 --- BLOCK ---
@@ -467,11 +467,11 @@ defensores da cidade. Usá-lo
 é uma verdadeira honra.
 --- BLOCK ---
 Cinta usada por funcionárias
-do Gremio. Faz
+da Guilda. Faz
 parecer mais magra.
 --- BLOCK ---
 Cinta usada por funcionárias
-do Gremio. Muito
+da Guilda. Muito
 familiar para caçadores.
 --- BLOCK ---
 Cinta real verde que
@@ -706,7 +706,7 @@ Protetor de Coxa que
 contém o poder do
 grande caçador Zinogre.
 --- BLOCK ---
-O Gremio a projetou
+A Guilda a projetou
 para resistir a impactos
 e wyverns voadores.
 --- BLOCK ---
@@ -1303,11 +1303,11 @@ cavaleiros defensores da cidade.
 Usá-lo é uma grande honra.
 --- BLOCK ---
 Cinta usada por empregadas
-do Gremio. Faz
+da Guilda. Faz
 parecer mais magra.
 --- BLOCK ---
 Cinta usada por empregadas
-do Gremio. Muito familiar
+da Guilda. Muito familiar
 para os caçadores.
 --- BLOCK ---
 DUMMY
@@ -1315,11 +1315,11 @@ DUMMY
 DUMMY
 --- BLOCK ---
 Protetor de Coxa de
-empregada do Gremio de
+empregada da Guilda de
 Tanzia. Com roupa íntima.
 --- BLOCK ---
-Protetor de Coxa do
-Gremio de Tanzia.
+Protetor de Coxa da
+Guilda de Tanzia.
 Com saia curta.
 --- BLOCK ---
 Muslera pertencente a um sábio

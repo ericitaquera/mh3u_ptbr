@@ -31,7 +31,7 @@ CLIENTS_0=City Guild Representative
 CLIENTS_1=Représentant guilde
 CLIENTS_2=Stadtgilden-Vertreter
 CLIENTS_3=Delegato Gilda cittad.
-CLIENTS_4=Repres. Gremio ciudad
+CLIENTS_4=Repres. Guilda na cidade
 [DESCRIPTIONS]
 DESCRIPTIONS_0=A boat sailing in the Flooded
 Forest has been attacked by a

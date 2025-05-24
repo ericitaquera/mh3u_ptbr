@@ -55,7 +55,8 @@ def load_properties(properties_path):
                         print(f"Error: Unknown compression signature '{parts[5].strip()}' in properties file.")
                         sys.exit(1)
                     entry = {
-                        'fullpath': parts[3].replace("\\", "/"),
+                        #'fullpath': parts[3].replace("\\", "/"),
+                        'fullpath': parts[3],
                         'compressed': parts[4].strip().upper() == 'YES',
                         'signature': parts[5].strip(),
                         'compression_level': compression_level,
@@ -122,7 +123,8 @@ def write_binary_files(base_name, entries, dir_path, output_root):
             for entry in entries:
                 # Pad file path (without extension) to 64 bytes
                 path_no_ext, _ = os.path.splitext(entry['fullpath'])
-                encoded_path = path_no_ext.encode('utf-8')
+
+                encoded_path = path_no_ext.encode('utf-8')                
                 final_file.write(encoded_path.ljust(64, b'\x00'))
 
                 # Unknown value field (likely type hash or magic)
