@@ -2,8 +2,9 @@
 /romfs_extracted/
 /arc_extracted/
 /arc_extracted_backup/
-/gmd_repacked/
 /arc_repacked/
+/gmd_repacked/
+/qtds_repacked/
 /qtds_texts_ptbr/
 /romfs_final/
 /tmp/
