@@ -63,7 +63,7 @@ Quando os rapazes estiverem
 interessados, você pode
 enviá-los para caçar.
 --- BLOCK ---
-Cazar monstros em vez de
+Caçar monstros em vez de
 peixes, e trazer materiais! Embora
 não pareçam, são durões.
 --- BLOCK ---

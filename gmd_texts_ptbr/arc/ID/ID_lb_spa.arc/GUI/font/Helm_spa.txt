@@ -56,7 +56,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Pluma do bardo do gremio
+Pluma do bardo da Guilda
 --- BLOCK ---
 Chapéu de barda grem.
 --- BLOCK ---
@@ -678,9 +678,9 @@ Elmo montaraz
 --- BLOCK ---
 Turbante de tirador
 --- BLOCK ---
-Pluma bardo gremio X
+Pluma bardo Guilda X
 --- BLOCK ---
-Sombr. bardo grem. X
+Sombr. bardo Guil. X
 --- BLOCK ---
 Birrete colegiala X
 --- BLOCK ---

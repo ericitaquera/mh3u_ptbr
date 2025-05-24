@@ -634,7 +634,7 @@ Dia
 --- BLOCK ---
 Noite
 --- BLOCK ---
-Caz.
+Caç.
 --- BLOCK ---
 Info
 --- BLOCK ---

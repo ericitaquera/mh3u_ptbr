@@ -240,9 +240,9 @@ Protetor de Coxa de Gobul S
 --- BLOCK ---
 Cota de Gobul S
 --- BLOCK ---
-Cinta bardo gremio S
+Cinta bardo Guilda S
 --- BLOCK ---
-Protetor de coxa bardo gremio S
+Protetor de coxa bardo Guilda S
 --- BLOCK ---
 Saia de colegiala S
 --- BLOCK ---
@@ -684,9 +684,9 @@ Cinto montaraz
 --- BLOCK ---
 Cinturão de tirador
 --- BLOCK ---
-Cinta bardo gremio X
+Cinta bardo Guilda X
 --- BLOCK ---
-Cota bardo gremio X
+Cota bardo Guilda X
 --- BLOCK ---
 Saia de colegiala X
 --- BLOCK ---

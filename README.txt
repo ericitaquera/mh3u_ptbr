@@ -27,10 +27,14 @@ Caso se depare com uma Quest ou diálogo de NPC ou qualquer texto não traduzido
 
 Descompacte o diretório 00040000000AE400 no sdcard sob o diretório /luma/titles/
 
+Exemplo:
+/luma/titles/00040000000AE400
+
 Citra no computador
 
 Clique com botão direito sobre o jogo na lista de jogos, clique em "Open Mods Location". O diretório 00040000000AE400 tem que ficar sob o diretório "mods".
 
+Exemplo:
 C:\Users\usuario\AppData\Roaming\Citra\load\mods\00040000000AE400
 
 Qualquer outro emulador e/ou qq outra plataforma
@@ -49,7 +53,13 @@ Até a próxima versão!!
 
 Changelog 
 
-v.0.0.1-beta
+v.0.0.3-beta
+- 100% das missões traduzidas
+- Corrigidas alguns textos e imagens
+
+---
+
+v.0.0.3-beta
 - 100% das missões traduzidas
 - 100% dos ítens, armas, monstros, tutorials, lojas estão traduzidos.
 - Quase todos os diálogos de NPC´s traduzidos

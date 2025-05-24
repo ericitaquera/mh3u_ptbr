@@ -2047,6 +2047,13 @@ copy $env:BASE_DIR\images\tex_files\td_com_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc
 copy $env:BASE_DIR\images\tex_files\td_com_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_resi_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_com_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_cus_spa.arc\GUI\Texture\common\td_com_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_v_under_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_lb_spa.arc\GUI\Texture\lobby\td_M_v_under_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_arena_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_gallery_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_resi_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_gallerydm_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_cock_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_lb_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
 
 py .\repack_arc.py $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_eng.arc
 py .\repack_arc.py $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_fre.arc

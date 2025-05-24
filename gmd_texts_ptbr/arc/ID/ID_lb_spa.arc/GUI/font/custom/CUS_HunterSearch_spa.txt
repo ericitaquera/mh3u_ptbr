@@ -42,9 +42,9 @@ Dados da equipe
 --- BLOCK ---
 Pré-visualização
 --- BLOCK ---
-Info. do jogador
+Inform. jogador
 --- BLOCK ---
-RC
+NC
 --- BLOCK ---
 %3d %
 --- BLOCK ---
