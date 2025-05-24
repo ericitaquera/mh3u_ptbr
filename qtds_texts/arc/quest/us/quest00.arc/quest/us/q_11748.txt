@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Power Couple
+TITLES_1=[Avancé] Couple puissant
+TITLES_2=[Fortg.] Power-Pärchen
+TITLES_3=[Avanzata] Una bella coppia
+TITLES_4=[Avançada] Casao poderoso
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Pink Rathian
+and an Azure Rathalos.
+OBJECTIVES_1=Chasser une Rathian rose
+et un Rathalos azur
+OBJECTIVES_2=Erjage 1 Rosa Rathian
+und 1 Azurnen Rathalos.
+OBJECTIVES_3=Caccia una Rathian rosa e
+un Rathalos azzurro
+OBJECTIVES_4=Caçar uma Rathian rosa
+e um Rathalos celeste
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Jealous Lady
+CLIENTS_1=Dame jalouse
+CLIENTS_2=Eifersüchtige Dame
+CLIENTS_3=Lady gelosa
+CLIENTS_4=Dama invejosa
+[DESCRIPTIONS]
+DESCRIPTIONS_0=All I hear around here is Pink
+Rathian this and Azure Rathalos
+that. People can't get over those
+two subspecies shacking up. Um,
+hello? I'm  supposed to be the
+center of attention around here!
+Put me back in the spotlight!
+DESCRIPTIONS_1=On ne parle que de cette
+Rathian rose en couple avec ce
+Rathalos azur. Les gens ne
+s'en remettent pas. C'est moi
+qui suis censé être au centre
+de l'attention ! Rendez-moi ma
+place sous les projecteurs !
+DESCRIPTIONS_2=Rosa Rathian hier, Azurner
+Rathalos da! Die Leute reden
+von nichts anderem mehr.
+Hallo? Ich sollte im Zentrum
+der Aufmerksamkeit stehen! 
+Los, unternimm etwas dagegen!
+DESCRIPTIONS_3=Tutti ne parlano: Rathian rosa di
+qua, Rathalos azzurro di là. La gente
+è ossessionata dall'idea delle due
+sottospecie che convivono.
+Ehi, pronto? Dovrei esserci io
+al centro dell'attenzione!
+Riportami sotto i riflettori!
+DESCRIPTIONS_4=A única coisa que eu ouço
+é: Rathian rosa isso, Rathalos
+celeste aquilo... as pessoas
+não superam que essas espécies
+vivam juntas. Ei, olá? Eu
+tenho que ser o centro de
+atenção! Faça acontecer!

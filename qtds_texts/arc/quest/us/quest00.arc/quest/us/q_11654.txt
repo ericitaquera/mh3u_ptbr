@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=[Advanced] Silver Slayers
+TITLES_1=[Avancé] Tueurs argentés
+TITLES_2=[Fortg.] Silber-Schlächter
+TITLES_3=[Avanzata] Ferite sospette
+TITLES_4=[Avançada] Assassinos de elite
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Ranger
+CLIENTS_1=Ranger de la toundra
+CLIENTS_2=Tundra-Ranger
+CLIENTS_3=Ranger della tundra
+CLIENTS_4=Soldado da Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I'm a member of a search-and-
+rescue team that patrols the
+Tundra. Lately, we've been finding
+sleeping people buried in snow
+bearing puncture-like fang
+wounds... Please, find the culprits!
+DESCRIPTIONS_1=Je fais partie d'une équipe de
+sauvetage qui patrouille dans
+la toundra. On a trouvé des
+gens endormis sous la neige
+avec des marques de crocs.
+Trouvez les coupables !
+DESCRIPTIONS_2=Ich bin Mitglied eines Ret-
+tungstrupps, der in der Tundra
+patrouilliert. In letzter
+Zeit gab es viele im Schnee
+vergrabene, schlafende
+Personen mit punktartigen
+Bisswunden. Finde den Täter!
+DESCRIPTIONS_3=Sono un membro della squadra di
+soccorso che pattuglia la tundra.
+Di recente stiamo rinvenendo
+persone addormentate sepolte
+nella neve, che riportano ferite
+simili a punture di zanne...
+Ti prego, trova i responsabili!
+DESCRIPTIONS_4=Sou membro da equipe
+de busca e resgate da
+Tundra. Ultimamente,
+temos encontrado pessoas
+adormecidas e enterradas na
+neve com feridas de presas.
+Encontre os culpados!

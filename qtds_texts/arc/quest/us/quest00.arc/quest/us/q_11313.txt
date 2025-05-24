@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=The Omen
+TITLES_1=Le présage
+TITLES_2=Das Omen
+TITLES_3=Il presagio
+TITLES_4=Mau agouro
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathalos
+OBJECTIVES_1=Chasser un Rathalos
+OBJECTIVES_2=Erjage einen Rathalos.
+OBJECTIVES_3=Caccia un Rathalos
+OBJECTIVES_4=Caçar um Rathalos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Shipmaster
+CLIENTS_1=Capitaine
+CLIENTS_2=Kapitän
+CLIENTS_3=Capitano
+CLIENTS_4=Capitão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Saw it swoop down above the
+ship, we did, with wings that
+blotted out the sun... 'Twas the
+King of the Skies, the flame
+dragon Rathalos, sure as I'm
+an old salt! We be needin' a
+hunter to kill this bad omen!
+DESCRIPTIONS_1=Il a survolé le navire, avec
+ses ailes qui masquaient le
+soleil... Le seigneur des
+cieux, le dragon Rathalos,
+croyez-en un vieux loup de
+mer. Un chasseur doit tuer cet
+oiseau de mauvais augure !
+DESCRIPTIONS_2=Wir sahen ihn auf das Schiff
+herabstürzen, seine Flügel
+verdunkelten die Sonne... Der
+König der Lüfte, der
+Flammendrache Rathalos!
+Wir brauchen einen Jäger,
+der das böse Omen vernichtet!
+DESCRIPTIONS_3=Era sopra la nave e l'abbiamo visto
+piombare giù, con ali così grandi da
+far sparire il sole. Era un Rathalos,
+non ho dubbi! Ci serve un cacciatore
+che elimini quell'uccellaccio
+del malaugurio!
+DESCRIPTIONS_4=Vi ele voando sobre o
+barco, com asas tão grandes
+que tapavam o sol… Era
+o Rei dos Céus, o Rathalos!
+Precisamos de um caçador que
+dê um fim nesse presságio.
+Antes que seja tarde!

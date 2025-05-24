@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=[Canteen] End of the Roads
+TITLES_1=[Cantine] Route barrée
+TITLES_2=[Kantine] Ende der Straßen
+TITLES_3=[Mensa] Fine della strada
+TITLES_4=[Cantina] Fim do caminho
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Steel Uragaan
+OBJECTIVES_1=Chasser un Uragaan d'acier
+OBJECTIVES_2=Erjage einen
+Stahl-Uragaan.
+OBJECTIVES_3=Caccia un Uragaan d'acciaio
+OBJECTIVES_4=Caçar um Uragaan de aço
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Lady Butcher
+CLIENTS_1=Bouchère
+CLIENTS_2=Metzgerin
+CLIENTS_3=Macellaia
+CLIENTS_4=Açougueira
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Our delivery cart keeps throwin'
+axels thanks to that Steel Uragaan
+ruinin' the roads. I swear, that
+big-jawed brute must have it in
+for the butcher business! Do your
+thing, hunter, and I'll throw in some
+choice cuts to sweeten the deal.
+DESCRIPTIONS_1=Notre chariot de livraison se
+renverse sans cesse à cause
+de l'Uragaan d'acier qui abîme
+les routes. Cette brute a une
+dent contre les bouchers !
+Aidez-moi et je vous donnerai
+quelques beaux morceaux.
+DESCRIPTIONS_2=Unsere Karren verlieren ihre
+Achsen, weil der Stahl-
+Uragaan alle Straßen ruiniert.
+Ich wette, das macht er mit
+Absicht! Mach deine Arbeit,
+Jäger, und ich gebe noch ein
+paar Extra-Filets dazu.
+DESCRIPTIONS_3=Un Uragaan d'acciaio rovina
+le strade e il carro delle consegne
+è ridotto male. Quel bruto
+dalle grandi fauci deve avercela
+con noi macellai! Cacciatore, fai
+il tuo lavoro e aggiungerò tagli di
+prima scelta alla ricompensa.
+DESCRIPTIONS_4=O carro de entrega continua
+perdendo eixos por culpa do
+Uragaan de aço que destrói
+os caminhos. Essa besta tem
+algo contra os açougueiros!
+Encarregue-se disso, caçador, e eu
+recompensarei você com uma boa peça.

@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Axe to Grind
+TITLES_1=Règlement de compte
+TITLES_2=Wetz die Axt
+TITLES_3=Ascia da affilare
+TITLES_4=Interesses pessoais
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rust Duramboros
+OBJECTIVES_1=Chasser un Duramboros
+rouille
+OBJECTIVES_2=Erjage einen
+Rost-Duramboros.
+OBJECTIVES_3=Caccia un Duramboros rugginoso
+OBJECTIVES_4=Caçar um Duramboros
+enferrujado
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Sandy Plains Guard
+CLIENTS_1=Garde plaines de sable
+CLIENTS_2=Sandebenen-Wächter
+CLIENTS_3=Guardia Piane sabbiose
+CLIENTS_4=Guarda Plan. arenos.
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I didn't know what to expect when 
+we got to our destination in the
+Sandy Plains, but it sure wasn't that!
+The beast looked like a Duramboros,
+except with a bigger tail that packed
+way more of a wallop. No way we
+can handle that thing alone. Help!
+DESCRIPTIONS_1=Je m'attendais à tout sauf à
+ça en arrivant aux plaines de
+sable ! La bête ressemblait à
+un Duramboros, avec une
+queue plus grosse et beaucoup
+plus de punch. On ne peut pas
+l'affronter seuls. Aidez-nous !
+DESCRIPTIONS_2=Keine Ahnung, was ich dort in
+der Sandebene erwartet hatte.
+Aber bestimmt nicht das! Das
+Vieh sah wie ein Duramboros
+aus, aber mit einem größeren
+Schweif. Allein haben wir
+keine Chance. Hilf uns bitte!
+DESCRIPTIONS_3=Non sapevo cosa aspettarmi
+nelle Piane sabbiose, ma di certo
+non questo! La belva ricorda
+un Duramboros, ma ha una coda
+più grande, con cui sferra terribili
+colpi. Di sicuro non possiamo
+affrontarla da soli. Aiuto!
+DESCRIPTIONS_4=Eu não sabia o que poderia
+encontrar ao chegar nas
+Planícies arenosas, certamente
+não isso! Era como um
+Duramboros, mas com uma cauda
+maior e mais forte. Contra ele
+não podemos sozinhos. Ajuda!

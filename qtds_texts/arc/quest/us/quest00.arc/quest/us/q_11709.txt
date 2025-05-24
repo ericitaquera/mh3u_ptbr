@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Azure Attack
+TITLES_1=Attaque azur
+TITLES_2=Azurner Angriff
+TITLES_3=Azzurro come il cielo
+TITLES_4=Ataque celeste
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Azure Rathalos
+OBJECTIVES_1=Chasser un Rathalos azur
+OBJECTIVES_2=Erjage einen
+Azurnen Rathalos.
+OBJECTIVES_3=Caccia un Rathalos azzurro
+OBJECTIVES_4=Caçar um Rathalos celeste
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Boisterous Blacksmith
+CLIENTS_1=Forgeron turbulent
+CLIENTS_2=Ungestümer Schmied
+CLIENTS_3=Fabbro vivace
+CLIENTS_4=Ferreiro escandaloso
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I was out diggin' for ore when I
+nearly tripped over an Azure
+Rathalos. That got my blood
+flowin'! I ran halfway home before
+I realized I needed his materials
+for crafting. I don't care how
+tough that thing is -- sic 'em!
+DESCRIPTIONS_1=Je cherchais du minerai quand
+j'ai trébuché sur un Rathalos
+azur. Je suis parti en courant
+sans réaliser que j'avais
+besoin de ses éléments. Je me
+fiche de sa force, je veux que
+vous alliez me les chercher !
+DESCRIPTIONS_2=Ich habe nach Erz geschürft,
+als ich auf einen Azurnen
+Rathalos stieß. Ich bekam
+Angst und lief weg. Auf
+halbem Weg fiel mir ein, dass
+ich seine Materialien gut
+brauchen kann. Erledige ihn!
+DESCRIPTIONS_3=Ero in cerca di minerali, quando
+ho incrociato un Rathalos azzurro.
+M'è gelato il sangue! Ho preso la
+via di casa, ma so di aver bisogno
+dei materiali per le lavorazioni.
+Non m'importa quanto sia
+pericoloso... dagli la caccia!
+DESCRIPTIONS_4=Saí para buscar minerais e
+quase tropecei em um Rathalos
+celeste. Meu coração disparou!
+Corri para casa e no meio do
+caminho percebi que precisava
+de seus materiais. Mesmo que
+seja forte, vou atrás dele!

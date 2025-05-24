@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=[Advanced] Tough Gig
+TITLES_1=[Avancé] Mission brutale
+TITLES_2=[Fortg.] Schwerer Gig
+TITLES_3=[Avanzata] Compito arduo
+TITLES_4=[Avançada] Proeza "gig-ante"
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Gigginox
+in succession
+OBJECTIVES_1=Chasser 3 Gigginox à la
+suite
+OBJECTIVES_2=Erjage 3 Gigginox
+in Folge.
+OBJECTIVES_3=Caccia 3 Gigginox
+di seguito
+OBJECTIVES_4=Caçar 3 Gigginox seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Antidote Researcher
+CLIENTS_1=Chercheur en antidotes
+CLIENTS_2=Gegengift-Forscher
+CLIENTS_3=Ricercatore antidoto
+CLIENTS_4=Pesquisador de antídoto
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Eureka! Our antidote research is
+on the verge of a breakthrough!
+We just need copious quantities
+of toxins. I hear several Gigginox
+have moved to the Tundra...
+You know what to do, hunter!
+DESCRIPTIONS_1=Nos recherches sur les
+antidotes sont sur le point
+d'aboutir ! Mais il nous faut
+beaucoup de toxines. Plusieurs
+Gigginox se trouvent dans la
+toundra... Allez-y !
+DESCRIPTIONS_2=Heureka! Unsere Gegengift-
+Forschung steht vor dem
+Durchbruch! Wir brauchen jetzt
+jede Menge Gift. Einige
+Gigginox sollen in der Tundra
+herumstreifen. Jäger, du
+weißt, was deine Aufgabe ist!
+DESCRIPTIONS_3=Finalmente! La ricerca per l'antidoto
+è arrivata a una svolta! Abbiamo
+solo bisogno di tantissime tossine.
+So che diversi Gigginox sono
+comparsi nella tundra. Sai
+cosa fare, cacciatore!
+DESCRIPTIONS_4=Eureka! A pesquisa do antídoto
+vai dar uma reviravolta.
+Só precisamos de grandes
+quantidades de toxinas. Ouvi
+que vários Gigginox se mudaram
+para a Tundra... Você já
+sabe o que fazer, caçador!

@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Playing with Fire
+TITLES_1=Jouer avec le feu
+TITLES_2=Spiel mit dem Feuer
+TITLES_3=Giocare col fuoco
+TITLES_4=Brincando com fogo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Qurupeco
+OBJECTIVES_1=Chasser un Qurupeco
+OBJECTIVES_2=Erjage einen Qurupeco.
+OBJECTIVES_3=Caccia un Qurupeco
+OBJECTIVES_4=Caçar um Qurupeco
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Red-cheeked Huntress
+CLIENTS_1=Chasseresse empourprée
+CLIENTS_2=Rotwangige Jägerin
+CLIENTS_3=Cacciatrice paonazza
+CLIENTS_4=Caçadora corada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I ran into a saucy little
+wyvern on the Deserted Island.
+Before I knew it, my derriere
+was ablaze! We can't have
+perverted monsters assaulting
+women! I want payback... And
+you're gonna help me get it!
+DESCRIPTIONS_1=J'ai croisé un Wyvern effronté
+sur l'île déserte. Je
+me suis retrouvée les fesses
+en feu ! On ne peut pas
+laisser des monstres pervers
+attaquer les femmes ! Je me
+vengerai et vous m'y aiderez !
+DESCRIPTIONS_2=Auf der Ödnis-Insel traf ich
+einen frechen, kleinen Wyvern.
+Ehe ich mich versah, stand
+mein Hintern in Flammen! Irre
+Monster, die Frauen angreifen!
+So geht's nicht! Rache!
+Und du wirst mir dabei helfen!
+DESCRIPTIONS_3=Ero sull'Isola deserta,
+quando un wyvern mi ha
+attaccata. Non possiamo
+permettere che i mostri
+assalgano le signore in
+questo modo! Voglio vendetta
+e mi aiuterai a ottenerla!
+DESCRIPTIONS_4=Encontrei um wyvern pequeno na
+Ilha Deserta e, do nada... meu
+traseiro pegou fogo! Não podemos
+deixar monstros depravados
+atacando donzelas! Quero
+vingança — e você vai ajudar!

@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Shroom Patrol
+TITLES_1=Patrouille champignons
+TITLES_2=Pilzpatrouille
+TITLES_3=Raccolta funghi
+TITLES_4=Patrulha Cogumelo
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 12 Unique Mushrooms
+OBJECTIVES_1=Livrer 12 champis spéciaux
+OBJECTIVES_2=Besorge 12 Eimalige Pilze.
+OBJECTIVES_3=Consegna 12 Funghi speciali
+OBJECTIVES_4=Entrega 12 Cogumelos
+especiales
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Apprentice Cook
+CLIENTS_1=Apprenti cuisinier
+CLIENTS_2=Kochlehrling
+CLIENTS_3=Apprendista cuoco
+CLIENTS_4=Pinche de cocina
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Oh man, I'm in trouble! I have
+this customer who's wild for
+mushrooms, but stupid me --
+I forgot to stock up! Could you
+grab me as many Unique Mushrooms
+as you can? I'm begging you!
+DESCRIPTIONS_1=Oh, j'ai un problème ! Mon
+client adore les champis
+spéciaux, mais j'ai oublié
+d'en stocker ! Pourriez-vous
+m'en rapporter un maximum ?
+Je vous en prie !
+DESCRIPTIONS_2=Oje, ich habe Probleme! Ein
+Kunde ist ganz wild auf Pilze,
+aber ich habe vergessen, für
+Nachschub zu sorgen! Kannst
+du mir möglichst viele
+Einmalige Pilze besorgen?
+Ich flehe dich an!
+DESCRIPTIONS_3=Accidenti, sono nei guai! Uno
+dei miei clienti adora i funghi,
+ma sono così idiota che ho
+dimenticato di rifornirmi! Potresti
+portarmi più Funghi speciali
+che puoi? Ti prego!
+DESCRIPTIONS_4=Me meti numa enrascada!
+Meu cliente ama cogumelos,
+mas eu… esqueci de trazer!
+Pode me trazer todas
+as Setas Especiais que
+encontrar? Te suplico,
+caçador! Salve meu emprego!

@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=[Advanced] Crimson Crisis
+TITLES_1=[Avancé] Crise vermillon
+TITLES_2=[Fortg.] Karmesin-Krise
+TITLES_3=[Avanzata] Crisi cremisi
+TITLES_4=[Avançada] Crise carmesim
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Crimson Qurupecoes
+in succession
+OBJECTIVES_1=Chasser 3 Qurupeco
+vermillon à la suite
+OBJECTIVES_2=Erjage 3 Karmesin-
+Qurupecos in Folge.
+OBJECTIVES_3=Caccia 3 Qurupeco cremisi
+di seguito
+OBJECTIVES_4=Caçar 3 Qurupeco
+carmesins seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Qurupeco Researcher
+CLIENTS_1=Spécialiste Qurupeco
+CLIENTS_2=Qurupeco-Forscher
+CLIENTS_3=Ricercatore Qurupeco
+CLIENTS_4=Investigador Qurupeco
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Attention, all strong hunters!
+Come at once! The hunting
+ground is swarming with Crimson
+Qurupecoes! They cannot be allowed
+to summon vicious monsters. Stop
+them before they turn the hunting
+ground into a no-man's land!
+DESCRIPTIONS_1=Avis aux chasseurs puissants !
+Venez tous ! Le terrain de
+chasse grouille de Qurupeco
+vermillon ! Ne les laissons
+pas appeler des monstres
+dangereux. Arrêtez-les avant
+que la zone ne soit envahie !
+DESCRIPTIONS_2=Achtung, fähige Jäger! Kommt
+her! Das Jagdgebiet ist voller
+Karmesin-Qurupecos! Sie dürfen
+keine weiteren Monster herbei-
+rufen. Haltet sie auf, bevor
+sie das Jagdgebiet in ein
+Niemandsland verwandeln!
+DESCRIPTIONS_3=Abili cacciatori, accorrete numerosi!
+La zona di caccia pullula di
+Qurupeco cremisi! Non possiamo
+permettere che richiamino altri
+mostri violenti. Fermateli prima
+che queste lande diventino
+terra di nessuno!
+DESCRIPTIONS_4=Atenção, poderosos caçadores!
+Venham! A zona de caça está
+repleta de Qurupeco carmesins!
+Não podemos deixar que chamem
+outros monstros selvagens.
+Impeçam-nos, ou transformarão
+a zona em terra de ninguém!

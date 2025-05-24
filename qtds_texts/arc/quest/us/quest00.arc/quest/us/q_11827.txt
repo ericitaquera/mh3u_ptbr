@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Four Point Formation
+TITLES_1=Quatuor
+TITLES_2=Vierpunktformation
+TITLES_3=Formazione a quattro stelle
+TITLES_4=Formação perfeita
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fangster Black
+CLIENTS_1=Sicaire noir
+CLIENTS_2=Schwarzer Reißzahn
+CLIENTS_3=Fangster nero
+CLIENTS_4=Caçador negro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=When monsters put their offspring
+to bed, they tell 'em not to let
+ME bite! I'm that good, but I done
+bad. Who knew consecutive hunts
+would be so tiring? Mind helpin'
+out so I can grab 40 winks?
+DESCRIPTIONS_1=Quand les monstres couchent
+leurs enfants, ils les mettent
+en garde contre MOI ! Mais
+toutes ces parties de chasse à
+la suite m'ont épuisé ! Aidez-
+moi pendant que je me repose !
+DESCRIPTIONS_2=Wenn Monster ihre Kleinen ins
+Bett bringen, beten sie, dass
+ich sie nicht heimsuche. Ich
+bin so gut! Aber wer konnte
+ahnen, dass ständiges Jagen so
+ermüdend ist? Hilfst du aus, 
+damit ich kurz schlafen kann?
+DESCRIPTIONS_3=Sono io l'uomo nero temuto dai
+piccoli di mostro! Sono così
+temibile! Ma si sta mettendo male.
+Chi immaginava che la caccia fosse
+così stancante? Ti dispiacerebbe
+aiutarmi, così potrò concedermi
+un sonnellino?
+DESCRIPTIONS_4=Quando os monstros colocam seus
+filhotes para dormir, eles dizem
+para não deixarem ser mordidos.
+Eu sou bom, mas cometi um
+erro. Não sabia que as capturas
+sucessivas seriam exaustivas.
+Ajude-me e poderei dormir.

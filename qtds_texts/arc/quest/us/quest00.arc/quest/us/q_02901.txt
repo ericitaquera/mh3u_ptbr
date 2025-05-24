@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Howl at the Moon
+TITLES_1=Hurlement à la lune
+TITLES_2=Mondgeheul
+TITLES_3=Ulula alla luna
+TITLES_4=Uivos sob a lua
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Zinogre
+OBJECTIVES_1=Chasser un Zinogre
+OBJECTIVES_2=Erjage einen Zinogre.
+OBJECTIVES_3=Caccia uno Zinogre
+OBJECTIVES_4=Caçar um Zinogre
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Yukumo Chieftess
+CLIENTS_1=Chef Yukumo
+CLIENTS_2=Yukumo-Chefin
+CLIENTS_3=Capotribù Yukumo
+CLIENTS_4=Cacique de Yukumo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Heed my words, hunter. It is said
+that a Zinogre roams the forests
+of the Misty Peaks. The village
+must deal with this threat before
+it causes any more damage!
+Help us, good hunter, and may
+your journey be a safe one.
+DESCRIPTIONS_1=Écoutez mes paroles. On dit
+qu'un Zinogre rôde dans les
+forêts des Pics brumeux. Les
+villageois doivent s'en
+occuper avant qu'il ne fasse
+des dégâts. Aidez-nous ! Que
+votre voyage se passe bien.
+DESCRIPTIONS_2=Lausche meinen Worten, Jäger.
+Ein Zinogre hält sich in den
+Wäldern der Nebelgipfel auf.
+Das Dorf muss etwas gegen
+diese Bedrohung unternehmen!
+Hilf uns, edler Jäger. Und
+möge deine Reise sicher sein.
+DESCRIPTIONS_3=Ascoltami attentamente, cacciatore.
+Uno Zinogre si aggira nelle foreste
+delle Cime nebbiose. Dobbiamo
+occuparci della minaccia prima
+che causi altri danni al villaggio!
+Aiutaci, buon cacciatore, e che
+la fortuna ti assista!
+DESCRIPTIONS_4=Preste atenção, caçador. Dizem
+que um Zinogre anda vagando pelas
+florestas das Cumes Nebulosas.
+Precisamos acabar com essa
+ameaça antes que ela cause mais
+danos. Ajude-nos nessa missão —
+e tenha uma boa caçada.

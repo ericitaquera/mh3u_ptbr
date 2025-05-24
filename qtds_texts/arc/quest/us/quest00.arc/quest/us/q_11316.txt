@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Jumping for Jaggi
+TITLES_1=Ruée sur les Jaggi
+TITLES_2=Die große Jaggi-Jagd
+TITLES_3=Balza sui Jaggi
+TITLES_4=Saltando pelo Jaggi
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Great Jaggi
+OBJECTIVES_1=Chasser 2 Grands Jaggi
+OBJECTIVES_2=Erjage 2 Großjaggi.
+OBJECTIVES_3=Caccia 2 Gran Jaggi
+OBJECTIVES_4=Caçar 2 Grandes Jaggi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=City Security Chief
+CLIENTS_1=Chef sécu. de la ville
+CLIENTS_2=Stadt-Sicherheitschef
+CLIENTS_3=Capitano della città
+CLIENTS_4=Chefe segur. da cidade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=My men have been getting wrecked
+by Jaggi lately. Wrecked 'em?
+Darn near killed 'em! Seems like
+two herds are having a turf war
+or something. We need a hunter
+to take care of the two leaders.
+DESCRIPTIONS_1=Mes hommes ont été écrasés par
+des Jaggi. Écrasés ? Ils ont
+bien failli les tuer ! Deux
+groupes doivent se disputer
+un territoire ou un truc dans
+ce genre. Un chasseur doit
+s'occuper des deux chefs.
+DESCRIPTIONS_2=Meine Männer werden seit
+Kurzem von Jaggi heimgesucht.
+Heimgesucht? Fast umgebracht!
+Zwei Herden haben wohl einen
+Revierkampf oder so was. Wir
+brauchen einen Jäger, der sich
+um die zwei Anführer kümmert.
+DESCRIPTIONS_3=Ultimamente i miei uomini
+vengono attaccati dai Jaggi.
+Quei mostri li hanno quasi
+ammazzati! Pare che ci siano
+due branchi in lotta fra loro.
+Cerchiamo un cacciatore in
+grado di eliminarne i leader.
+DESCRIPTIONS_4=Meus homens têm sofrido
+ataques constantes dos
+Jaggi. Quase foram mortos!
+Parece que duas manadas estão
+brigando por território.
+Precisamos de um caçador
+que derrote os dois líderes.

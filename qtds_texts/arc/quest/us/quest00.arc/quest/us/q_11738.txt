@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=[Advanced] Breaking the Ice
+TITLES_1=[Avancé] Brise-glace
+TITLES_2=[Fortg.] Eisbrecher
+TITLES_3=[Avanzata] Rompighiaccio
+TITLES_4=[Avançada] Quebrando o gelo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Glacial Agnaktor
+OBJECTIVES_1=Chasser 2 Agnaktor
+glaciaux
+OBJECTIVES_2=Erjage
+2 Gletscher-Agnaktore.
+OBJECTIVES_3=Caccia 2 Agnaktor glaciali
+OBJECTIVES_4=Caçar 2 Agnaktor glaciais
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Experienced Excavator
+CLIENTS_1=Mineur aguerri
+CLIENTS_2=Erfahrener Ausgräber
+CLIENTS_3=Scavatore esperto
+CLIENTS_4=Excavador experiente
+[DESCRIPTIONS]
+DESCRIPTIONS_0=There's gotta be all kinds o'
+treasure buried way out in the
+Tundra, and I figured out how to
+get me some. You know how Glacial
+Agnaktor have those big ol' beaks?
+Those things break through thick
+ice like it's parchment!
+DESCRIPTIONS_1=Il doit y avoir toutes sortes
+de trésors enfouis dans la
+toundra, et je sais comment
+les déterrer. Vous savez que
+les Agnaktor glaciaux ont un
+bec très dur ? Il peut casser
+la glace sans problème !
+DESCRIPTIONS_2=In der Tundra liegen unzählige
+Schätze, und ich weiß, wie ich
+an sie herankomme.
+Du kennst doch sicher die
+großen Schnäbel der Gletscher-
+Agnaktore, oder? Sie schneiden
+durch Eis wie durch Pergament!
+DESCRIPTIONS_3=La tundra è piena di tesori sepolti
+e ho appena capito come
+recuperarne alcuni. Hai presente
+i grossi becchi degli Agnaktor
+glaciali? Sono in grado di
+rompere gli spessi strati di
+ghiaccio come cartapecora!
+DESCRIPTIONS_4=Deve haver todos os tipos
+de tesouros enterrados na
+Tundra, e eu sei uma maneira
+de consegui-los. Você já viu
+os grandes picos dos Agnaktor
+glaciais? Eles quebram o
+gelo como se fosse papel!

@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Qurupeco Two-step
+TITLES_1=Valse des Qurupeco
+TITLES_2=Qurupeco-Duo
+TITLES_3=Passo doppio del Qurupeco
+TITLES_4=Qurupeco Duplo-passo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Qurupeco and
+a Crimson Qurupeco
+OBJECTIVES_1=Chasser un Qurupeco et
+un Qurupeco vermillon
+OBJECTIVES_2=Erjage einen Qurupeco und
+einen Karmesin-Qurupeco.
+OBJECTIVES_3=Caccia un Qurupeco e
+un Qurupeco cremisi
+OBJECTIVES_4=Caçar um Qurupeco e
+um Qurupeco carmesin
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=What a treat -- two tricksters are
+teaming up to make beautiful music
+together! Will their terrible tango
+summon new monsters or boost
+their abilities? Or maybe they'll
+croon a lullaby to lull you to
+sleep...forever! The dance begins.
+DESCRIPTIONS_1=Quelle merveille ! Deux
+imitateurs s'associent pour
+un duo musical ! Leur chant
+va-t-il invoquer de nouveaux
+monstres ou accroître leurs
+capacités ? Il pourrait aussi
+vous endormir... à jamais !
+DESCRIPTIONS_2=Was für ein Hochgenuss! Zwei
+Gauner machen gemeinsam Musik!
+Wird ihr schrecklicher Tango
+neue Monster anlocken oder
+ihre Fertigkeiten steigern?
+Oder singen sie dich in den
+Schlaf... für immer! Und los.
+DESCRIPTIONS_3=Che spettacolo! Due mostri si sono
+uniti per suonarle a tutti! Il loro
+tango evocherà nuovi mostri o
+migliorerà le loro abilità? O forse
+intoneranno una ninna nanna per
+farvi addormentare... per sempre?
+Diamo inizio alle danze.
+DESCRIPTIONS_4=Que delícia, dois trapaceiros
+farão música juntos! Poderá a
+dança deles atrair outros monstros
+ou melhorar suas habilidades?
+Ou cantarão uma canção de
+ninar para te fazer dormir...
+eternamente? A dança começa.

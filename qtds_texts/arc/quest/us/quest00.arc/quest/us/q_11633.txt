@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Lawless Ludroth
+TITLES_1=[Avancé] Ludroth déchaînés
+TITLES_2=[Fortg.] Listige Ludrothe
+TITLES_3=[Avanzata] Ludroth ovunque
+TITLES_4=[Avançada] Ludroth Descontrolado
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Royal Ludroth
+in succession
+OBJECTIVES_1=Chasser 3 Ludroth royaux
+à la suite
+OBJECTIVES_2=Erjage 3 Königs-Ludrothe
+in Folge.
+OBJECTIVES_3=Caccia 3 Ludroth reali
+di seguito
+OBJECTIVES_4=Caçar 3 Ludroth
+reais seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Guild Messenger
+CLIENTS_1=Messager de la guilde
+CLIENTS_2=Gildenbote
+CLIENTS_3=Messaggero della Gilda
+CLIENTS_4=Mensageiro da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=For some reason, the Royal Ludroth
+on the Deserted Island are having
+a population explosion. I'm just
+the messenger here, so I don't
+have the details. All I know is
+we need a hunter to cull those
+beasts nesting on the island.
+DESCRIPTIONS_1=Les Ludroth royaux de l'île
+déserte sont de plus en plus
+nombreux. Je n'en sais pas
+plus, mais je sais qu'il nous
+faut un chasseur pour éliminer
+les bêtes nichant sur l'île.
+DESCRIPTIONS_2=Aus irgendeinem Grund
+vermehren sich die Königs-
+Ludrothe auf der Ödnis-Insel
+explosionsartig. Ich bin nur
+der Bote, ich weiß nur, dass
+wir einen Jäger brauchen, der
+die Biester dort ausrottet.
+DESCRIPTIONS_3=Per qualche motivo il numero di
+Ludroth reali dell'Isola deserta sta
+crescendo velocemente. Sono solo
+un messaggero, non conosco
+i dettagli, ma so che c'è bisogno
+di un cacciatore che abbatta
+quelle belve sull'isola.
+DESCRIPTIONS_4=Por alguma razão, os Ludroth
+reais da Ilha deserta estão
+vivendo um boom demográfico. Eu
+sou apenas o mensageiro, então
+não tenho os detalhes. Só sei
+que precisamos de um caçador
+para reduzir a população deles.

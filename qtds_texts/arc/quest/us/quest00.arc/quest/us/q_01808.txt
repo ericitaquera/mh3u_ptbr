@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Twin Peaks
+TITLES_1=Pics jumeaux
+TITLES_2=Zwillingsgipfel
+TITLES_3=Vette gemelle
+TITLES_4=Cumes gêmeos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Duramboros
+OBJECTIVES_1=Chasser 2 Duramboros
+OBJECTIVES_2=Erjage 2 Duramboros.
+OBJECTIVES_3=Caccia 2 Duramboros
+OBJECTIVES_4=Caçar 2 Duramboros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Romantic Man
+CLIENTS_1=Homme romantique
+CLIENTS_2=Romantiker
+CLIENTS_3=Uomo romantico
+CLIENTS_4=Homem romântico
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ladies like more than long walks
+on the beach, ya know. I took my
+date to the Misty Peaks for a
+little rainy-day romance, but I
+never thought we'd run into a
+mammoth beast like that! Twins,
+even! Can't you help a fella out?  
+DESCRIPTIONS_1=Les femmes n'aiment pas que
+les balades sur la plage. J'ai
+emmené ma douce dans les Pics
+brumeux, mais nous sommes
+tombés sur deux bêtes grosses
+comme des mammouths !
+Pouvez-vous m'aider ?
+DESCRIPTIONS_2=Frauen mögen nicht nur lange
+Spaziergänge am Strand. Also
+ging ich mit meiner Liebsten
+in die Nebelgipfel. Wie konnte
+ich ahnen, dass wir Riesen-
+bestien begegnen! Zwillingen!
+Kannst du mir bitte helfen?
+DESCRIPTIONS_3=Alle donne piacciono le camminate
+sulla spiaggia, ma non solo. Ho
+portato la mia sulle Cime nebbiose
+per una passeggiata romantica, ma
+ci siamo imbattuti in due belve
+colossali! Che ne dici di aiutarmi?
+DESCRIPTIONS_4=As moças gostam de longos passeios
+na praia... então levei meu
+encontro pras Cumes Nebulosas
+pra um dia bem romântico. Só
+não achei que a gente fosse
+topar com aquelas duas feras!
+Você pode me ajudar, por favor?

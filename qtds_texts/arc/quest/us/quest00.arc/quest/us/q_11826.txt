@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Awesome Maw
+TITLES_1=Mâchoire géante
+TITLES_2=Starker Schlund
+TITLES_3=Fauci spalancate
+TITLES_4=Que bocarra
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Nibelsnarf
+OBJECTIVES_1=Chasser un Nibelsnarf
+OBJECTIVES_2=Erjage einen Nibelsnarf.
+OBJECTIVES_3=Caccia un Nibelsnarf
+OBJECTIVES_4=Caçar um Nibelsnarf
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Talk about a big mouth! Today's
+Arena star really knows how to
+chew the scenery -- it's a super-
+sized Nibelsnarf! This thing's got
+an awe-inspiring maw, so be
+careful you don't get swallowed
+by your work!
+DESCRIPTIONS_1=Ça, c'est une grande bouche !
+La star de l'arène est capable
+d'avaler le décor. Il s'agit
+d'un énorme Nibelsnarf ! Ne
+vous laissez pas engloutir
+par votre tâche... ou par ce
+gouffre incroyable !
+DESCRIPTIONS_2=Das ist ein großes Maul! Der
+heutige Star der Arena weiß,
+wie man die Umgebung zermalmt!
+Ein riesiger Nibelsnarf! Das
+Vieh hat einen beeindruckenden
+Schlund, pass auf, dass dich
+deine Arbeit nicht auffrisst!
+DESCRIPTIONS_3=È il caso di dirlo: il
+protagonista dell'Arena
+lascerà tutti increduli! È il
+gigantesco Nibelsnarf! Le sue
+fauci sono impressionanti:
+attento a non farti 
+inghiottire dal lavoro!
+DESCRIPTIONS_4=Que boca enorme! A estrela
+do dia sabe como se
+destacar no cenário: um
+enorme Nibelsnarf! Ele tem
+uma mandíbula imponente,
+então tome cuidado, não
+deixe que ele te engula!

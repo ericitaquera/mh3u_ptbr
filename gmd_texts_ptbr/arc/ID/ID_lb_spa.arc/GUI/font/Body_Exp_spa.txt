@@ -117,11 +117,11 @@ estrangeiros que apenas
 alguns podem usar.
 --- BLOCK ---
 Armadura de peito usada por
-funcionárias do Gremio. Prova de
+funcionárias da Guilda. Prova de
 que sabem se defender.
 --- BLOCK ---
 Armadura de peito usada
-por funcionárias do Gremio.
+por funcionárias da Guilda.
 Com um design encantador.
 --- BLOCK ---
 Armadura de peito que
@@ -466,11 +466,11 @@ estrangeiros que apenas
 alguns podem usar.
 --- BLOCK ---
 Armadura de peito usada por
-funcionárias do Gremio. Prova de
+funcionárias da Guilda. Prova de
 que sabem se defender.
 --- BLOCK ---
 Armadura de peito usada
-por funcionárias do Gremio.
+por funcionárias da Guilda.
 Com design encantador.
 --- BLOCK ---
 Armadura de peito que

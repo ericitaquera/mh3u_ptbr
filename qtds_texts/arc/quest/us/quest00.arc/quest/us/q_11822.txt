@@ -1,0 +1,59 @@
+[TITLES]
+TITLES_0=The Sea Shakers
+TITLES_1=Séisme sous-marin
+TITLES_2=Die Meereserschütterer
+TITLES_3=I terrori del mare
+TITLES_4=Maremotos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=A sea of trouble awaits any
+hunters daring enough to dive
+into the Arena today. These marine
+monsters are out for vengeance!
+Sink or swim -- it's up to you.
+DESCRIPTIONS_1=Le chasseur qui osera plonger
+dans l'arène y trouvera des
+monstres marins assoiffés de
+vengeance ! Allez-vous
+sombrer ou vaincre ?
+DESCRIPTIONS_2=Eine Meereshölle erwartet
+jeden, der es wagt, heute in
+die Arena abzutauchen. Diese
+Meeresmonster sind auf Rache
+aus! Schwimmen oder
+absaufen, das ist die Frage!
+DESCRIPTIONS_3=Un mare di guai aspetta i cacciatori
+che osano scendere nell'Arena oggi.
+Questi mostri marini sono assetati
+di vendetta. Sarà uno scontro
+all'ultimo sangue!
+DESCRIPTIONS_4=Um mar de problemas espera
+pelos caçadores que entrarem
+na Arena hoje. Esses monstros
+marinhos clamam por vingança!
+Nadar ou se afogar, você decide.

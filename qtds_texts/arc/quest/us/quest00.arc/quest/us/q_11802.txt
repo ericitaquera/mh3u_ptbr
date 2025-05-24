@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Ring of the Silver Sol
+TITLES_1=Anneau de soleil argenté
+TITLES_2=Ring der Silbersonne
+TITLES_3=Anello del sole argentato
+TITLES_4=Círculo do sol prateado
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Silver Rathalos
+OBJECTIVES_1=Chasser un Rathalos
+argenté
+OBJECTIVES_2=Erjage einen
+Silbernen Rathalos.
+OBJECTIVES_3=Caccia un Rathalos argentato
+OBJECTIVES_4=Caçar um Rathalos prateado
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wannabe Sleuth
+CLIENTS_1=Apprenti détective
+CLIENTS_2=Möchtegern-Detektiv
+CLIENTS_3=Aspirante detective
+CLIENTS_4=Aspirante a detetive
+[DESCRIPTIONS]
+DESCRIPTIONS_0=What a mystery! The dawn brought
+two suns shining in the sky, one
+a brilliant silver. Impossible,
+right? But I swear they were
+there! Hunter, please, help me
+solve this enigma!
+DESCRIPTIONS_1=Quel mystère ! Deux soleils se
+sont levés ce matin, l'un est
+argenté. Ça semble impossible,
+pourtant ils étaient bien là !
+S'il vous plaît, aidez-moi à
+résoudre cette énigme !
+DESCRIPTIONS_2=Was für ein Mysterium! Bei
+Tagesanbruch erschienen zwei
+Sonnen am Himmel, eine
+leuchtete silbern. Unmöglich,
+nicht wahr? Aber sie waren da!
+Jäger, bitte hilf mir, dieses
+Rätsel zu lösen!
+DESCRIPTIONS_3=Che mistero! L'alba ha portato
+due soli nel cielo. Uno è d'argento
+brillante. Impossibile, vero?
+Giuro che li ho visti! Cacciatore,
+ti prego, aiutami a fare luce
+su questo enigma!
+DESCRIPTIONS_4=Que mistério! O amanhecer
+trouxe consigo dois sóis,
+um de prata brilhante.
+Impossível, não é? Mas eu
+juro que os vi! Caçador, me
+ajude a resolver este enigma!

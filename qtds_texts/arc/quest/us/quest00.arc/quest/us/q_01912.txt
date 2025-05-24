@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Triple Threat
+TITLES_1=Triple menace
+TITLES_2=Dreifach-Bedrohung
+TITLES_3=Tripla minaccia
+TITLES_4=Ameaça tripla
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Kind Lord
+CLIENTS_1=Seigneur bienveillant
+CLIENTS_2=Gütiger Fürst
+CLIENTS_3=Signore gentile
+CLIENTS_4=Cavalheiro gentil
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I paid a visit to a village in
+the Sandy Plains -- and found the
+people in a panic! Who can blame
+them? Not one, not two, but three
+ferocious monsters were sighted
+nearby! Would you be so kind as to
+rid the villagers of this menace?
+DESCRIPTIONS_1=Les habitants du village des
+plaines de sable dans lequel
+je me suis rendu sont terro-
+risés. Et pour cause : trois
+monstres ont été aperçus
+aux alentours ! Pourriez-vous
+éliminer cette menace ?
+DESCRIPTIONS_2=Ich habe ein Dorf der Sandebe-
+ne besucht und die Leute waren
+in Panik! Nicht ein, nicht
+zwei, sondern drei Monster
+wurden dort gesichtet!
+Würdest du so nett sein und
+diese Bedrohung beseitigen?
+DESCRIPTIONS_3=Gli abitanti di un villaggio
+delle Piane sabbiose sono in preda
+al panico! Come biasimarli? Non
+uno, non due, ma tre mostri feroci
+sono stati avvistati nelle vicinanze!
+Saresti così gentile da liberarli
+da questa minaccia?
+DESCRIPTIONS_4=Fui visitar uma vila nas
+Planícies Arenosas, e o
+povo estava apavorado! E com
+razão: não foi um, nem dois
+— foram três monstros ferozes
+rondando a região! Você pode
+livrar a gente dessa ameaça?

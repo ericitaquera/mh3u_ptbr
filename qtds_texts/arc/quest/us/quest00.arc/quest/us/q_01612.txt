@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Hair of the Dog
+TITLES_1=Mal aux cheveux
+TITLES_2=Katerkur
+TITLES_3=Bella sbronza
+TITLES_4=Um amor cura outro
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 5 Slagtoth Oils
+OBJECTIVES_1=Livrer 5 huiles Slagtoth
+OBJECTIVES_2=Besorge 5 Slagtoth-Öle.
+OBJECTIVES_3=Consegna 5 Oli di Slagtoth
+OBJECTIVES_4=Entregar 5 Óleos de Slagtoth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tavernkeep's Daughter
+CLIENTS_1=Fille du taulier
+CLIENTS_2=Wirtstochter
+CLIENTS_3=Figlia del locandiere
+CLIENTS_4=Filha do taberneiro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Something ain't right with Daddy.
+He says he had too much fun last
+night and just wants to sleep it
+off. How can "fun" make you feel
+icky? Get me some Slagtoth Oils
+from the Flooded Forest so I can
+mix up some medicine!
+DESCRIPTIONS_1=Papa um problème. Il dit
+qu'il s'est trop amusé hier
+soir et qu'il doit se reposer.
+Mais on ne se sent pas mal quand
+on s'amuse ! Rapportez-moi
+des huiles Slagtoth de la forêt
+inondée pour faire un remède !
+DESCRIPTIONS_2=Etwas stimmt mit Papi nicht.
+Er sagt, dass er letzte Nacht
+zu viel Spaß gehabt hätte und
+deshalb ausschlafen müsse.
+Aber wieso wird man von "Spaß"
+krank? Hol mir zur Linderung
+Slagtoth-Öl aus dem Flutwald.
+DESCRIPTIONS_3=Mi preoccupa molto mio padre.
+Dice di essersi divertito troppo
+la notte scorsa e che una dormita
+è l'unico rimedio. Divertirsi può
+fare così male? Recupera dell'olio
+di Slagtoth nella Foresta inondata,
+così potrò preparare una medicina!
+DESCRIPTIONS_4=Algo estranho aconteceu com
+papai. Disse que “festejou
+demais” ontem e agora quer
+dormir… Mas como alguém vira
+repulsivo assim de uma festa?
+Traga Óleo de Slagtoth da
+Floresta Alagada e eu curo ele!

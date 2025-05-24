@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=Deserted Island Dustup
+TITLES_1=Rixe sur l'île déserte
+TITLES_2=Ödnis-Insel-Keilerei
+TITLES_3=Zuffa sull'Isola deserta
+TITLES_4=Disputa na Ilha deserta
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Arzuros
+OBJECTIVES_1=Chasser 2 Arzuros
+OBJECTIVES_2=Erjage 2 Arzuros.
+OBJECTIVES_3=Caccia 2 Arzuros
+OBJECTIVES_4=Caçar 2 Arzuros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wandering Reporter
+CLIENTS_1=Reporter errant
+CLIENTS_2=Rasender Reporter
+CLIENTS_3=Reporter spericolato
+CLIENTS_4=Repórter errante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I'm reporting live from the
+Deserted Island, where two
+Arzuros have decided to discuss
+their differences like civilized
+monsters. Oh, who am I kidding?
+Run for your lives! Women and
+reporters first!
+DESCRIPTIONS_1=Je suis en direct de l'île
+déserte, où deux Arzuros sont
+en train de régler leurs diffé-
+rends en monstres civilisés.
+Non, je plaisante. Fuyez ! Les
+femmes et les reporters
+d'abord !
+DESCRIPTIONS_2=Ich berichte live von der
+Ödnis-Insel, wo sich zwei
+Arzuros streiten wie zivili-
+sierte Monster. Oh, was sag
+ich? Lauft um euer Leben!
+Frauen und Reporter zuerst!
+DESCRIPTIONS_3=In diretta dall'Isola deserta,
+due Arzuros hanno deciso di
+appianare le loro divergenze
+come due mostri civilizzati. Oh,
+chi prendo in giro? Scappate!
+Prima donne e reporter!
+DESCRIPTIONS_4=Estou na Ilha deserta,
+onde dois Arzuros decidiram
+resolver suas diferenças
+como monstros civilizados.
+A quem quero enganar?
+Salve-se quem puder! Mulheres
+e repórteres primeiro!

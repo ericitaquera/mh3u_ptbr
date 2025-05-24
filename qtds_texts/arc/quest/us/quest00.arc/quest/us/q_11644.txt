@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Advanced] Seeing Green
+TITLES_1=[Avancé] Couleur de l'espoir
+TITLES_2=[Fortg.] Grün sehen
+TITLES_3=[Avanzata] Pinne verdi
+TITLES_4=[Avançada] Tudo Verde
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Green Plesioth
+OBJECTIVES_1=Chasser 2 Plesioth verts
+OBJECTIVES_2=Erjage 2 Grüne Plesioth.
+OBJECTIVES_3=Caccia 2 Plesioth verdi
+OBJECTIVES_4=Caçar 2 Plesioth verdes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Court Inventor
+CLIENTS_1=Inventeur de la Cour
+CLIENTS_2=Hoferfinder
+CLIENTS_3=Inventore di corte
+CLIENTS_4=Inventor de la corte
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I simply must have a Plesioth Fin,
+but not just any will do! The
+Green subspecies is known for
+its strong and elegant fins. If I
+could just study their structure,
+I'm sure I could devise a vehicle
+that soars through air and water.
+DESCRIPTIONS_1=Il me faut une nageoire de
+Plesioth, mais pas n'importe
+laquelle ! Celles de la sous-
+espèce verte sont solides et
+élégantes. Si j'étudiais leur
+structure, je pourrais créer
+un véhicule amphibie.
+DESCRIPTIONS_2=Ich brauche nur eine Plesioth-
+Flosse, aber eine besondere!
+Eine starke und elegante der
+grünen Unterart wäre perfekt.
+Wenn ich sie untersuchen
+könnte, dann baue ich ein
+Gefährt für Luft und Wasser.
+DESCRIPTIONS_3=Ho bisogno di una pinna di
+Plesioth, ma non una qualunque!
+La sottospecie verde è rinomata per
+le sue pinne forti ed eleganti. Se
+potessi studiare la loro struttura,
+potrei ideare un veicolo che plani
+in aria e sull'acqua.
+DESCRIPTIONS_4=Preciso conseguir uma barbatana
+de Plesioth, mas não uma
+qualquer! A espécie verde
+é conhecida por suas fortes
+e elegantes barbatanas. Se a
+analisasse, criaria um veículo
+para viajar por mar e ar.

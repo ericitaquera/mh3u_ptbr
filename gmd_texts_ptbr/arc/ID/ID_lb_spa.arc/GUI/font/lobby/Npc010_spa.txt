@@ -100,8 +100,8 @@ Viva!
 <SUBS 0>
 --- BLOCK ---
 Recebi a informação, caçador! Chegou
-um aviso de missão do
-Gremio, para você. Vamos ver!
+um aviso de missão da
+Guilda, para você. Vamos ver!
 --- BLOCK ---
 Acha que pode lidar com
 um Ludroth, hein? Vejo que
@@ -300,7 +300,7 @@ o resto de sua vida obcecado.
 --- BLOCK ---
 Ah, estive lá. Apontei onde
 a fera está e falei
-com a garota do Gremio.
+com a garota da Guilda.
 --- BLOCK ---
 Vá aceitar a missão. Exorcize
 seus demônios, caçador preocupado...

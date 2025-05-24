@@ -1,0 +1,63 @@
+[TITLES]
+TITLES_0=The Desert Gourmand
+TITLES_1=Le gourmet du désert
+TITLES_2=Der Wüstengourmet
+TITLES_3=Il ghiottone del deserto
+TITLES_4=El Glutão do deserto
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Nibelsnarf
+OBJECTIVES_1=Chasser un Nibelsnarf
+OBJECTIVES_2=Erjage einen Nibelsnarf.
+OBJECTIVES_3=Caccia un Nibelsnarf
+OBJECTIVES_4=Caçar um Nibelsnarf
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Master Cooper
+CLIENTS_1=Maître tonnelier
+CLIENTS_2=Böttchermeister
+CLIENTS_3=Mastro bottaio
+CLIENTS_4=Mestre toneleiro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Oy! One minute I was rattlin'
+along the Sandy Plains in me
+barrel buggy, mindin' me own
+lookout. And then, RAAARRR!
+Cart goes flyin' -- and me with it!
+What gives!? The barrel business
+is s'pposed ta be safe, by gum! 
+DESCRIPTIONS_1=Ouah ! Je roulais peinard dans
+les plaines de sable à bord de
+mon buggy quand BAM ! Il
+s'envole et moi avec ! C'était
+quoi ? Le job de tonnelier est
+censé être tranquille, bon sang !
+DESCRIPTIONS_2=Hey! Gerade rumpelte ich so
+mit meinem Fasswagen durch
+die Sandebene und plötzlich:
+RAAARRR! Der Wagen fliegt,
+und ich mit ihm! Hallo?!
+Das Fassgeschäft sollte
+sicher sein, verdammt!
+DESCRIPTIONS_3=Ehi! Stavo girovagando per le Piane
+sabbiose con il mio carro di barili
+per i miei affari, quando RAAARRR,
+il carro vola in aria, e io con lui!
+Che succede? Il commercio di barili
+dovrebbe essere sicuro, perdinci!
+DESCRIPTIONS_4=Eu tava pelos Planícies
+Arenosas, andando no meu
+barril — com cuidado —
+quando, de repente...
+RAAAARRR! O barril voou —
+comigo dentro! Como assim?!
+Barril era pra ser seguro!

@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0="Brachydios" Means Trouble
+TITLES_1=Fauteur de trouble
+TITLES_2="Brachydios" bedeutet Ärger
+TITLES_3=Brachydios sinonimo di guai
+TITLES_4=Brachydios causa problemas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Brachydios
+OBJECTIVES_1=Chasser un Brachydios
+OBJECTIVES_2=Erjage einen Brachydios.
+OBJECTIVES_3=Caccia un Brachydios
+OBJECTIVES_4=Caçar um Brachydios
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Argosy Captain
+CLIENTS_1=Capitaine Argosy
+CLIENTS_2=Argosy-Kapitän
+CLIENTS_3=Capitano mercantile
+CLIENTS_4=Capitão do Argosy
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Uwasa tell me about new monster --
+Brachydios! So I seek it out at
+Volcano. Very big monster, very
+violent, very kowai. "Kowai" means
+scary! You goran for yourself,
+you hear its DOKAAAAAN! Mayhap
+bring extra pair dry britches.
+DESCRIPTIONS_1=Uwasa m'a parlé d'un nouveau
+monstre, le Brachydios ! Il
+vit dans le volcan. Il est très
+gros, violent, effrayant !
+Allez voir vous-même ! Allez
+écouter son DOKAAAN ! Pensez
+à prendre des slips propres.
+DESCRIPTIONS_2=Uwasa hat von neuem Monster
+erzählt: Brachydios! Habe es
+im Vulkan entdeckt. Sehr groß,
+sehr böse, sehr kowai. "Kowai"
+heißt furchtbar! Du fliehst
+auch, wenn du's hörst. Und
+nimm extra Unterhosen mit.
+DESCRIPTIONS_3=Uwasa riferisce di un nuovo mostro,
+il Brachydios! Gli ho dato la caccia
+al vulcano. Un mostro enorme,
+violento, molto kowai. "Kowai"
+significa spaventoso! Prova a
+cercarlo e sentirai il suo DOKAN!
+Porta un paio di pantaloni extra.
+DESCRIPTIONS_4=Uwasa fala de novo monstro:
+Brachydios! Eu procuro no Vulcão.
+Monstro muuuito grande, muito
+violento, muito kowai. “Kowai” quer
+dizer medo! Se ouvir um DOKAAAN!,
+corra! Traga roupa seca... sério.

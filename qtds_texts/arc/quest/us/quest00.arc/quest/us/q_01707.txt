@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Designer Antlers
+TITLES_1=Cornes ornementales
+TITLES_2=Designer-Geweihe
+TITLES_3=Corna alla moda
+TITLES_4=Chifres na moda
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 5 Anteka Antlers
+OBJECTIVES_1=Livrer 5 cornes d'Anteka
+OBJECTIVES_2=Besorge 5 Anteka-Geweihe.
+OBJECTIVES_3=Consegna 5 Corna di Anteka
+OBJECTIVES_4=Entrega 5 Chifres Anteka
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fastidious Man
+CLIENTS_1=Homme méticuleux
+CLIENTS_2=Verwöhnter Kerl
+CLIENTS_3=Uomo incontentabile
+CLIENTS_4=Homem minucioso
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I finally finished sprucing up my
+house, but it's still missing that
+final touch. I figure a giant
+ornament would be the Felyne's
+pajamas! Nab me 5 Anteka Antlers
+for materials. They're easy to
+carve if you stun the Anteka.
+DESCRIPTIONS_1=J'ai enfin terminé de décorer
+ma maison, mais il manque la
+touche finale. Rapportez-moi
+5 cornes d'Anteka pour créer
+une décoration. Vous pouvez
+les prendre facilement en
+étourdissant la bête.
+DESCRIPTIONS_2=Ich habe mein Haus soweit
+hergerichtet, aber etwas fehlt
+noch. Ein großes Ornament
+wäre perfekt! Besorg mir 5
+Anteka-Geweihe. Sie sind
+leicht zu entfernen, wenn
+du die Anteka betäubst.
+DESCRIPTIONS_3=Ho finito le decorazioni per la casa,
+tuttavia manca ancora il tocco
+finale. Il pigiama di Felyne
+sarebbe un ornamento grandioso!
+Trovami cinque corna di Anteka
+per i materiali. Sono semplici
+da tagliare se stordisci l'Anteka.
+DESCRIPTIONS_4=Finalmente terminei a reforma
+da casa, mas ainda falta
+aquele toque final. Um enfeite
+enorme seria o máximo! Como
+material, traga 5 Chifres
+de Anteka. Dá pra extrair fácil
+se você aturdir o Anteka antes.

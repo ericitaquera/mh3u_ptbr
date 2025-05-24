@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Fate and Fire 
+TITLES_1=[Avancé] Feu et destin
+TITLES_2=[Fortg.] Feuriges Verhängnis
+TITLES_3=[Avanzata] Fato e fiamme
+TITLES_4=[Avançada] Destino e fogo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Princess
+CLIENTS_1=Princesse t. de feu
+CLIENTS_2=Feuerland-Prinzessin
+CLIENTS_3=Principessa terre inf.
+CLIENTS_4=Princesa país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This molten mountain is a crucible
+of courage and iron resolve, but
+my people now face their greatest
+challenge. The time of decision
+is nigh. We shall not go quietly
+into the fiery night, but we need
+your strength to persevere.
+DESCRIPTIONS_1=Les habitants de cette région
+en fusion sont braves, mais
+ils sont face à leur plus
+grand défi. L'heure de vérité
+est proche. Nous allons nous
+battre, mais nous avons besoin
+de votre force.
+DESCRIPTIONS_2=Der Schmelzgipfel ist ein Ort
+von Mut und Entschlossenheit.
+Mein Volk steht seiner größten
+Herausforderung gegenüber. Die
+Entscheidung naht. Wir gehen
+nicht still in die Feuernacht,
+aber wir brauchen deine Kraft.
+DESCRIPTIONS_3=La montagna fusa è un crogiolo di
+coraggio e determinazione, ma ora
+il mio popolo dovrà affrontare
+la sfida più dura. Il momento è
+arrivato. Non ci arrenderemo senza
+combattere, ma avremo bisogno
+dell'aiuto della tua forza.
+DESCRIPTIONS_4=A coragem e a determinação
+se encontram na montanha
+fundida, mas meu povo se
+enfrenta ao seu maior desafio.
+Está chegando a hora de
+decidir. Lutaremos na noite
+selvagem graças à sua força.

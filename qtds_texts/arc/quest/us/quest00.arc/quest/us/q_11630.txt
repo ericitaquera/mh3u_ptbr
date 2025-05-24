@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Monster Fisher
+TITLES_1=Pêcheur de monstres
+TITLES_2=Monsterfischer
+TITLES_3=Pesca miracolosa
+TITLES_4=Pesca de monstros
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Plesioth
+and a Gobul
+OBJECTIVES_1=Chasser un Plesioth et un
+Gobul
+OBJECTIVES_2=Erjage einen Plesioth
+und einen Gobul.
+OBJECTIVES_3=Caccia un Plesioth
+e un Gobul
+OBJECTIVES_4=Caçar um Plesioth
+e um Gobul
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Pole Fisherman
+CLIENTS_1=Pêcheur à la ligne
+CLIENTS_2=Angler
+CLIENTS_3=Pescatore con canna
+CLIENTS_4=Pescador de vara
+[DESCRIPTIONS]
+DESCRIPTIONS_0=You hunters have it easy, what
+with your weapons and traps and
+combo attacks. I bet you practice
+those moves in the mirror! All I
+ever needed was a flimsy pole and
+a few feet of line... Until I ran
+into those two. Catch ya later!
+DESCRIPTIONS_1=La vie est facile pour vous,
+chasseurs, avec vos armes et
+vos attaques. Je parie que
+vous vous entraînez chez
+vous ! Moi, je n'avais besoin
+que d'une canne... jusqu'à ce
+que je tombe sur ces deux-là.
+DESCRIPTIONS_2=Ihr Jäger habt es leicht mit
+all euren Waffen, Fallen und
+Kombi-Angriffen. Ich wette,
+ihr übt vor dem Spiegel! Ich
+brauchte immer nur eine
+dünne Rute und Schnur. Bis
+ich diese zwei traf. Bis dann!
+DESCRIPTIONS_3=Voi cacciatori avete vita facile con
+le armi, le trappole e gli attacchi
+combo. Scommetto che provate
+le vostre mosse allo specchio!
+Io mi accontentavo di una canna
+e un po' di lenza... finché non ho
+incrociato quei due. Ci vediamo!
+DESCRIPTIONS_4=Os caçadores têm tudo fácil, com
+suas armas, armadilhas e combos.
+Aposto que vocês praticam na
+frente do espelho! Só precisava
+de uma vara e alguns metros
+de linha... Mas eu me deparei
+com aqueles dois. Nos vemos!

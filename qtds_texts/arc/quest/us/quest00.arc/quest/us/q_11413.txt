@@ -1,0 +1,60 @@
+[TITLES]
+TITLES_0=Unwanted Visitor
+TITLES_1=Visiteur importun
+TITLES_2=Ungebetener Gast
+TITLES_3=Ospite inatteso
+TITLES_4=Visita indesejada
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Zinogre
+OBJECTIVES_1=Chasser un Zinogre
+OBJECTIVES_2=Erjage einen Zinogre.
+OBJECTIVES_3=Caccia uno Zinogre
+OBJECTIVES_4=Caçar um Zinogre
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Scared Recruit
+CLIENTS_1=Recrue effrayée
+CLIENTS_2=Verängstigter Rekrut
+CLIENTS_3=Recluta spaventata
+CLIENTS_4=Recruta assustado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Retreat! Retreat! There's a
+Zinogre on the Deserted Island!
+I must have riled it up while I
+was doing my training drills.
+This is way out of my league.
+Take it down, will you?
+DESCRIPTIONS_1=Repli ! Un Zinogre sur l'île
+déserte ! J'ai dû l'énerver
+pendant mon entraînement.
+Je ne suis pas à la hauteur
+pour gérer ce problème. S'il
+vous plaît, éliminez-le !
+DESCRIPTIONS_2=Rückzug! Rückzug! Ein Zinogre
+ist auf der Ödnis-Insel! Ich
+muss ihn bei meinen Trainings-
+übungen verärgert haben. Das
+ist überhaupt nicht meine
+Liga. Würdest du ihn für mich
+erledigen?
+DESCRIPTIONS_3=Ritirata! Ritirata! C'è uno Zinogre
+sull'Isola deserta! Forse l'ho
+disturbato mentre mi esercitavo.
+È troppo forte per me. Perché
+non te ne occupi tu?
+DESCRIPTIONS_4=Retirada! Retirada! Tem um
+Zinogre na Ilha Deserta!
+Acho que deixei ele
+bravo durante os testes…
+Isso é demais pra mim!
+Você cuida disso, né?

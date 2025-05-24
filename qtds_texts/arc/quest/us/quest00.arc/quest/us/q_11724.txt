@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Save the Princess!
+TITLES_1=Sauvez la princesse !
+TITLES_2=Rette die Prinzessin!
+TITLES_3=Salva la principessa!
+TITLES_4=Salve a princesa!
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Princess' Guardian
+CLIENTS_1=Garde de la Princesse
+CLIENTS_2=Prinzessinnen-Wächter
+CLIENTS_3=Tutore della princip.
+CLIENTS_4=Guardião da princesa
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The princess is such a royal pain
+in my -- ahem, I mean, such a
+handful. She snuck out of the
+castle to play in the snow. I sent
+a search party to the Tundra, but
+a number of large monsters were
+blocking the way! Hunt them down!
+DESCRIPTIONS_1=La princesse est vraiment une
+plaie... euh, une plaisante
+distraction. Elle est sortie
+jouer dans la neige. J'ai
+envoyé les secours dans la
+toundra, mais des monstres
+bloquent le chemin !
+DESCRIPTIONS_2=Die Prinzessin ist eine könig-
+liche Nerven... äh, ich meine,
+sie hat Temperament. Sie ist
+ausgebüxt, um im Schnee zu
+spielen. Mehrere große Monster
+versperren dem Suchtrupp in
+der Tundra den Weg. Erleg sie!
+DESCRIPTIONS_3=La principessa è proprio una regale
+rottura di... ehm, volevo dire, è
+una peste. È fuggita dal castello per
+giocare sulla neve. Ho mandato
+una squadra di ricerca nella tundra,
+ma una serie di mostri enormi
+bloccano la strada! Abbattili tutti!
+DESCRIPTIONS_4=A princesa está dando trabalho...
+digo, está dando muito trabalho.
+Fugiu do castelo para brincar
+na neve. Enviei para a Tundra
+uma equipe de busca, mas uns
+monstros grandes bloquearam
+o caminho deles. Cace-os!

@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Siren's Song
+TITLES_1=Chant de la sirène
+TITLES_2=Sirenenlied
+TITLES_3=Il canto della sirena
+TITLES_4=Cantos da sereia
+[OBJECTIVES]
+OBJECTIVES_0=Survive until time expires or
+deliver a Paw Pass Ticket
+OBJECTIVES_1=Survivre jusqu'à la fin ou
+livrer un ticket Passechat
+OBJECTIVES_2=Überlebe bis Zeitende oder
+gib einen Tatzenpass ab.
+OBJECTIVES_3=Sopravvivi fino allo scadere o
+consegna un Buono Pass-zampa
+OBJECTIVES_4=Sobreviva até o final
+ou entregue um Ticket garra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time expires
+before hunting 2 Qurupecoes.
+FAIL_CONDITIONS_1=Prime att. 0 ou tps écoulé
+avt d'avoir chassé 2 Qur.
+FAIL_CONDITIONS_2=Belohnung auf 0 o. Zeit um
+bevor 2 Qurupecos erjagt.
+FAIL_CONDITIONS_3=Premio a 0 o tempo scaduto
+prima di cacciare 2 Qurupeco.
+FAIL_CONDITIONS_4=Recomp. a 0 ou fim tempo
+sem caçar 2 Qurupeco.
+[CLIENTS]
+CLIENTS_0=Village Storyteller
+CLIENTS_1=Conteur du village
+CLIENTS_2=Dorferzähler
+CLIENTS_3=Cantastorie villaggio
+CLIENTS_4=Contador de histórias
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Its call can summon. Its call can
+heal. Whose call, you ask?
+Why, the Qurupeco's, of course.
+And it has come a-calling on the
+Deserted Island. Several of them,
+in fact! Can you resist this
+creature's siren song?
+DESCRIPTIONS_1=Son appel soigne ou invoque
+les créatures. C'est l'appel
+du Qurupeco, bien sûr ! On en
+a entendu plusieurs sur l'île
+déserte. Pouvez-vous résister
+au chant de sirène de ce
+monstre ?
+DESCRIPTIONS_2=Sein Ruf kann beschwören. Sein
+Ruf kann heilen. Wessen Ruf?
+Der des Qurupeco. Jetzt ertönt
+der Ruf mehrerer Exemplare
+auf der Ödnis-Insel. Kannst
+du dem Sirenen-Gesang
+widerstehen?
+DESCRIPTIONS_3=Il suo grido può richiamare.
+Il suo grido può guarire. "Il grido
+di chi?", ti chiederai. Il grido
+del Qurupeco! Ne puoi trovare
+molti sull'Isola deserta. Riuscirai
+a resistere al canto ammaliante
+di queste creature?
+DESCRIPTIONS_4=Seu canto é chamativo e
+curativo. De quem estou
+falando? Do Qurupeco, é
+claro! O som dele chegou
+até a Ilha Deserta — e são
+vários! Será que você resiste
+aos encantos dessa sereia?

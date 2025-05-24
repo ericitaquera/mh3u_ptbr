@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Conqueror of Land and Sea
+TITLES_1=Grand conquérant
+TITLES_2=Eroberer von Land und Meer
+TITLES_3=Dominatore assoluto
+TITLES_4=Conquistador mundial
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Ivory Lagiacrus
+OBJECTIVES_1=Chasser un Lagiacrus ivoire
+OBJECTIVES_2=Erjage einen
+Elfenbein-Lagiacrus.
+OBJECTIVES_3=Caccia un Lagiacrus d'avorio
+OBJECTIVES_4=Caçar um Lagiacrus
+marmóreo
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Moga Village Chief
+CLIENTS_1=Chef du village Moga
+CLIENTS_2=Moga-Dorfchef
+CLIENTS_3=Capo villaggio di Moga
+CLIENTS_4=Chefe da Vila Moga
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Just when I thought it was safe to
+go back in the water, the Ivory
+Lagiacrus prowls these seas
+again! Lucky for that beast,
+I'm retired. I trust you to
+handle things from here, kid.
+Don't let us down!
+DESCRIPTIONS_1=Alors que je croyais pouvoir
+retourner dans l'eau en
+toute sécurité, un Lagiacrus
+ivoire est apparu ! Il a eu de
+la chance : je suis retraité.
+Je vous demande de vous en
+occuper pour moi.
+DESCRIPTIONS_2=Gerade als ich dachte, dass
+es wieder sicher im Wasser
+sei, taucht dieser Elfenbein-
+Lagiacrus erneut auf. Sein
+Glück, dass ich im Ruhestand
+bin. Du schaffst das auch so.
+Lass uns nicht im Stich!
+DESCRIPTIONS_3=Ora che pensavo che bagnarsi
+fosse di nuovo sicuro, il Lagiacrus
+d'avorio è tornato ad aggirarsi in
+queste acque! Per sua fortuna,
+non caccio più, ma potresti
+occupartene tu. Non deluderci!
+DESCRIPTIONS_4=Quando achei que era seguro voltar
+pra água… o Lagiacrus Mármore
+aparece de novo nesses mares! Sorte
+a dele que eu já tô aposentado…
+Confio que você vai cuidar disso,
+garoto. Não decepcione a gente!

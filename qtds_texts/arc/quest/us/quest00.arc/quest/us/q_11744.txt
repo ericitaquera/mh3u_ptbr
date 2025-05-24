@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Swift Shadows
+TITLES_1=[Avancé] Ombres fuyantes
+TITLES_2=[Fortg.] Schnelle Schatten
+TITLES_3=[Avanzata] Ombre sfuggenti
+TITLES_4=[Avançada] Sombras velozes
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Nargacuga and
+a Green Nargacuga.
+OBJECTIVES_1=Chasser un Nargacuga et
+un Nargacuga vert
+OBJECTIVES_2=Erjage einen Nargacuga und
+einen Grünen Nargacuga.
+OBJECTIVES_3=Caccia un Nargacuga e
+un Nargacuga verde
+OBJECTIVES_4=Caçar um Nargacuga e
+um Nargacuga verdoso
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Stealthy Surveyor
+CLIENTS_1=Prospecteur furtif
+CLIENTS_2=Verstohlener Vermesser
+CLIENTS_3=Topografo furtivo
+CLIENTS_4=Topógrafo sigiloso
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I seen what I saw and nothin'
+more. D'em Misty Peaks forests
+are gloomy at high noon, ya know.
+Looked like a coupla leapin'
+shapes, then red 'n' orange lights.
+Beasts ain't my bailiwick,
+so you better hop to it.
+DESCRIPTIONS_1=Les forêts des Pics brumeux
+sont toujours sombres. J'ai vu
+deux formes bondissantes et
+des lueurs rouges et oranges.
+Les bêtes ne sont pas ma tasse
+de thé, alors occupez-vous
+de ça.
+DESCRIPTIONS_2=Ich weiß, was ich gesehen hab.
+Die Wälder der Nebelgipfel
+sind mittags düster. Erst
+springende Schatten, dann rote
+und orange Lichter. Bestien
+gehören nicht zu meinem Zeit-
+vertreib, das ist deine Sache.
+DESCRIPTIONS_3=Ecco ciò che ho visto. A mezzodì
+le Cime nebbiose erano nuvolose.
+Ho visto due ombre che saltavano,
+poi riflessi rossi e arancioni. Non
+so molto sulle belve, meglio se
+te ne occupi tu.
+DESCRIPTIONS_4=Eu vi o que vi, só isso.
+As florestas dos Cumes Nebulosos
+são lúgubres durante o dia,
+sabe? Eram duas figuras
+saltitantes, e luzes vermelhas e
+laranjas. As bestas não são minha
+especialidade, cuide disso você.

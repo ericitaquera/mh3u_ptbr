@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=[Canteen] Grab a Gobul!
+TITLES_1=[Cantine] Chasse au Gobul !
+TITLES_2=[Kantine] Gobul-Schnappen!
+TITLES_3=[Mensa] Agguanta un Gobul!
+TITLES_4=[Cantina] Agarra um Gobul
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Gobul
+OBJECTIVES_1=Chasser un Gobul
+OBJECTIVES_2=Erjage einen Gobul.
+OBJECTIVES_3=Caccia un Gobul
+OBJECTIVES_4=Caçar um Gobul
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Seafaring Trader
+CLIENTS_1=Marchand marin
+CLIENTS_2=Seefahrender Händler
+CLIENTS_3=Mercante marittimo
+CLIENTS_4=Marinheiro comerciante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Oh, it's tragic! Tragic! There's a
+Gobul in the Flooded Forest! It
+tore up me ship and plundered our
+cargo of choice meat! Somebody,
+anybody, please... Stop the beast
+'fore it 'urts anyone else!
+DESCRIPTIONS_1=C'est une tragédie ! Il y a un
+Gobul dans la forêt inondée !
+Il a détruit mon bateau et
+pillé ma cargaison de viande !
+Pitié, arrêtez-le avant qu'il
+ne fasse d'autres victimes !
+DESCRIPTIONS_2=Oh, es ist tragisch! Im Flut-
+wald gibt es einen Gobul! Er
+hat mein Schiff zerstört und
+das ganze Fleisch geklaut.
+Bitte, jemand muss etwas tun.
+Einer muss die Bestie stoppen,
+ehe noch mehr verletzt werden!
+DESCRIPTIONS_3=Che tragedia! Che tragedia!
+Un Gobul si aggira nella Foresta
+inondata: ha fatto a pezzi
+la mia imbarcazione e saccheggiato
+il carico di carni scelte! Qualcuno
+mi aiuti, quel mostro va fermato
+prima che faccia altri danni!
+DESCRIPTIONS_4=É uma tragédia! Uma tragédia! Tem
+um Gobul no Bosque Alagado! Ele
+afundou meu barco e ainda levou
+toda minha carne premium! Por
+favor, alguém detenha essa besta
+antes que o estrago piore!

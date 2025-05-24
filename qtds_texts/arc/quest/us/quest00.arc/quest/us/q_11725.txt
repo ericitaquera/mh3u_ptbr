@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Canteen] Cold Day in Hell
+TITLES_1=[Cantine] Enfer glacé
+TITLES_2=[Kantine] Frost in der Hölle
+TITLES_3=[Mensa] Bevanda ghiacciata
+TITLES_4=[Cantina] Inferno gelado
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Felyne Hunter
+CLIENTS_1=Chasseur Felyne
+CLIENTS_2=Felyne-Jäger
+CLIENTS_3=Cacciatore Felyne
+CLIENTS_4=Caçador Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Oh, pffft! I wanted to show all
+the other Felynes that I haven't
+lost my hunter's instincts, nya!
+But when I got to the Tundra, I
+dropped a secret Felyne drink...
+Go give those monsters a scratch
+and bring that beverage back!
+DESCRIPTIONS_1=Je voulais montrer à tous les
+autres Felyne que je n'avais
+pas perdu mon instinct de
+chasseur, mais j'ai égaré une
+boisson secrète de Felyne
+dans la toundra... Allez me la
+récupérer !
+DESCRIPTIONS_2=Ich wollte den anderen Felynes
+zeigen, dass ich meinen Jagd-
+instinkt noch nicht verloren
+habe. Dabei habe ich in der
+Tundra einen Felyne-Geheim-
+trank verloren. Zeig es den
+Monstern und hole ihn zurück!
+DESCRIPTIONS_3=Uff! Volevo mostrare ai Felyne
+di non aver perso il mio istinto di
+cacciatore, nya! Ma quando sono
+arrivato nella tundra, ho perso
+una bevanda Felyne segreta.
+Uccidi quei mostri e recupera
+la bevanda!
+DESCRIPTIONS_4=Ah, puxa! Eu queria mostrar
+para os outros Felyne que eu
+não perdi o meu instinto de
+caçador. Mas, ao chegar na
+Tundra, eu derrubei uma bebida
+Felyne secreta... Dê uma surra
+nessas bestas e traga a bebida!

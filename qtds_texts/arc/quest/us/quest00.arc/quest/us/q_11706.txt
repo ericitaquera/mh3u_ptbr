@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Thrill of the Hunt
+TITLES_1=Le frisson de la chasse
+TITLES_2=Die Spannung der Jagd
+TITLES_3=Il brivido della caccia
+TITLES_4=A emoção da caça
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Uragaan
+OBJECTIVES_1=Chasser un Uragaan
+OBJECTIVES_2=Erjage einen Uragaan.
+OBJECTIVES_3=Caccia un Uragaan
+OBJECTIVES_4=Caçar um Uragaan
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Scarred Hunter
+CLIENTS_1=Chasseur balafré
+CLIENTS_2=Vernarbter Jäger
+CLIENTS_3=Cacciatore sfregiato
+CLIENTS_4=Caçador marcado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Bein' a hunter means gettin'
+trampled, knocked around,
+livin' a heartbeat away from
+death. Who cares how it ends?
+All that matters is the thrill
+of the hunt. I'll be lookin'
+forward to your story.
+DESCRIPTIONS_1=Être un chasseur, c'est se
+faire piétiner, bousculer et
+frôler la mort. Qu'importe
+comment ça se termine ? Ce qui
+compte, c'est le frisson de la
+chasse. J'ai hâte d'entendre
+votre histoire.
+DESCRIPTIONS_2=Jäger sein heißt: umgerannt
+und getreten zu werden, am
+seidenen Faden zu hängen.
+Egal, wie es endet! Was
+zählt, ist die Spannung der
+Jagd. Ich freue mich schon
+auf deine Geschichte.
+DESCRIPTIONS_3=Il vero cacciatore è sempre
+malmenato e bistrattato
+nella lotta quotidiana con
+la morte. Cosa importa di come
+finirà? Conta solo il brivido
+della caccia. Ora vai e raccontami
+tutto quando torni!
+DESCRIPTIONS_4=Ser um caçador implica
+ser pisoteado, espancado e
+viver à beira da morte. Quem
+se importa como termina?
+A única coisa que importa é
+a emoção da caçada. Estarei
+atento à sua história.

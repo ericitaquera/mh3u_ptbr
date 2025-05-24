@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Triple Threat
+TITLES_1=[Avancé] Triple menace
+TITLES_2=[Fortg.] Dreifach-Bedrohung
+TITLES_3=[Avanzata] Tripla minaccia
+TITLES_4=[Avançada] Ameaça tripla
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fangster Black
+CLIENTS_1=Sicaire noir
+CLIENTS_2=Schwarzer Reißzahn
+CLIENTS_3=Fangster nero
+CLIENTS_4=Caçador negro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I don't have nightmares about
+monsters -- they have nightmares
+about me! I'm just that good. But
+I screwed up. Who knew a Green
+Nargacuga and an Ivory Lagiacrus
+would show up at the same time?
+I hate to ask, but mind helpin'?
+DESCRIPTIONS_1=Je suis si doué que je fais
+faire des cauchemars aux
+monstres ! Mais j'ai échoué.
+Qui aurait pensé qu'un
+Nargacuga vert et un Lagiacrus
+ivoire apparaîtraient en même
+temps ? Aidez-moi !
+DESCRIPTIONS_2=Albträume wegen Monstern? Sie
+haben welche wegen mir! Ich
+bin eben gut! Aber wer konnte
+ahnen, dass ein Grüner 
+Nargacuga und ein Elfenbein-
+Lagiacrus auftauchen? Ich frag
+ungern, aber hilfst du mir?
+DESCRIPTIONS_3=Sono l'incubo di tutti i mostri! Sono
+così temibile! Ma ho rovinato tutto.
+Come potevo immaginare che
+un Nargacuga verde e un Lagiacrus
+d'avorio mi avrebbero attaccato
+contemporaneamente? Odio
+chiedertelo, ma mi aiuteresti?
+DESCRIPTIONS_4=Não é que os monstros me dão
+pesadelos, é que eu sou o pesadelo
+deles! Sou bom, mas cometi um
+erro. Quem diria que apareceriam
+um Nargacuga esverdeado e um
+Lagiacrus marmorizado? Odeio
+perguntar, mas pode me ajudar?

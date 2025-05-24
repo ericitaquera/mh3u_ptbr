@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Jump the Sharq
+TITLES_1=Saute-requin
+TITLES_2=Hai-Jagd
+TITLES_3=Il salto dello squalo
+TITLES_4=Salte o Sharq
+[OBJECTIVES]
+OBJECTIVES_0=Slay 30 Sharq
+OBJECTIVES_1=Tuer 30 requins
+OBJECTIVES_2=Erlege 30 Haie.
+OBJECTIVES_3=Uccidi 30 Sharq
+OBJECTIVES_4=Mate 30 Sharq
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Master Blacksmith
+CLIENTS_1=Maître forgeron
+CLIENTS_2=Meisterschmied
+CLIENTS_3=Mastro fabbro
+CLIENTS_4=Mestre ferreiro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Wait'll you see what I got in the
+works. I'm talkin' real cutting-
+edge weaponry here. But I need a
+LOT of Sharq parts before I can
+hit the forge. Get me some, will
+ya? Trust me -- you're gonna have
+fun with this weapon.
+DESCRIPTIONS_1=Attendez de voir ce sur quoi
+je travaille. Une arme à la
+pointe de la technologie !
+Mais j'ai besoin de beaucoup
+de bouts de requin pour la
+forger. Rapportez-m'en, et
+vous ne le regretterez pas !
+DESCRIPTIONS_2=Warte bis du siehst, was ich
+in Arbeit habe. Ich rede von
+einem Meilenstein der Waffen-
+technik. Ich brauche VIELE
+Hai-Teile, bevor's ans Schmie-
+den geht. Hol sie mir. Vertrau
+mir, die Waffe wird der Hit!
+DESCRIPTIONS_3=Non crederai ai tuoi occhi quando
+vedrai a cosa sto lavorando!
+Parlo dell'arma definitiva!
+Purtroppo ho bisogno di moltissime
+parti di Sharq per forgiarla. Me ne
+procureresti un po'? Credimi, ti
+divertirai con questa nuova arma.
+DESCRIPTIONS_4=Você verá no que estou trabalhando.
+É um armamento muito avançado.
+Mas para forjá-lo, preciso
+de muitas partes de Sharq.
+Você pode me trazer algumas?
+Acredite em mim, você vai
+se divertir com essa arma.

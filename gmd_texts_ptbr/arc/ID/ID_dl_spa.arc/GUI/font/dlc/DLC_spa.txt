@@ -329,11 +329,11 @@ Pontos de Recursos
 --- BLOCK ---
 Mercadoria da anciã
 --- BLOCK ---
-Fundos cartões do Gremio
+Fundos cartões da Guilda
 --- BLOCK ---
 Fantasias para Poogie
 --- BLOCK ---
-Posturas cartões do Gremio
+Posturas cartões da Guilda
 --- BLOCK ---
 Os extras não baixados
 estão marcados em vermelho.

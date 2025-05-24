@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=The Green Flash
+TITLES_1=Éclair vert
+TITLES_2=Der grüne Blitz
+TITLES_3=Un lampo verde
+TITLES_4=O Lampejo verde
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Green Plesioth
+OBJECTIVES_1=Chasser un Plesioth vert
+OBJECTIVES_2=Erjage einen
+Grünen Plesioth.
+OBJECTIVES_3=Caccia un Plesioth verde
+OBJECTIVES_4=Caçar um Plesioth verde
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Singing Fisherman
+CLIENTS_1=Pêcheur chantant
+CLIENTS_2=Singender Fischer
+CLIENTS_3=Pescatore canterino
+CLIENTS_4=Pescador cantor
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I was just doin' what I always do,
+tossing my net and singing a
+shanty, when a Plesioth breached
+right off the port bow! Never seen
+one that big -- or that green. You
+go catch that monster. I don't
+wanna wind up Sharq bait!
+DESCRIPTIONS_1=Je jetais mon filet en
+chantant, comme d'habitude,
+quand un Plesioth a bondi hors
+de l'eau ! Je n'en ai jamais
+vu de si gros, ni de si vert.
+Attrapez-le, je ne veux pas
+finir dans un requin !
+DESCRIPTIONS_2=Ich tat, was ich immer tue,
+Netz auswerfen, Lied singen,
+als plötzlich ein Plesioth am
+Hafen auftauchte! Er war rie-
+sig und ganz grün. Du musst
+das Monster fangen. Ich will
+nicht als Haifutter enden.
+DESCRIPTIONS_3=Stavo cantando come al solito
+mentre pescavo con la rete, quando
+un Plesioth è saltato a pochi metri
+dalla barca! Non ne avevo mai visto
+uno così grande e così verde. Vai e
+cattura quel mostro. Non vorrei
+diventare esca per Sharq!
+DESCRIPTIONS_4=Estava fazendo o de sempre,
+lançando a rede e cantando uma
+canção, quando um Plesioth passou
+bem na minha frente! Nunca havia
+visto um tão grande nem tão
+verde. Capture-o, eu não quero
+acabar como isca para Sharq.

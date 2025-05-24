@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Best of Enemies
+TITLES_1=Meilleurs ennemis
+TITLES_2=Beste Feinde
+TITLES_3=Il meglio dei nemici
+TITLES_4=Inimigos colossais
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ah, to be a Bnahabra on the wall
+of the Arena now! I bet the monster
+convo would go a little something
+like this... "You stink!" "Oh? You're
+one to talk, bug breath!" "Shut up
+-- you both smell equally rotten!"
+"Pick your poison, suckers!"
+DESCRIPTIONS_1=J'aimerais être un Bnahabra
+sur le mur de l'arène en ce
+moment ! Je parie que les
+monstres feraient genre : "Tu
+pues !" "Quoi ? T'as senti ton
+haleine ?" "Vous sentez tous
+les deux aussi mauvais !"
+DESCRIPTIONS_2=Jetzt ein Bnahabra an der Wand
+der Arena sein! Ich höre schon
+die Gespräche der Monster: "Du
+stinkst!" "Das musst du gerade
+sagen, Käferatem!" "Klappe,
+ihr stinkt beide eklig!"
+"Gehen wir es an, Verlierer!"
+DESCRIPTIONS_3=Ah, i Bnahabra sul muro dell'Arena!
+Immagino le conversazioni tra
+mostri: "Puzzi". "Cosa? Parli tu, con
+quel fiato pestilenziale". "Zitti!
+Puzzate entrambi più di un
+cadavere". "Scegliete come
+morire, idioti".
+DESCRIPTIONS_4=Ah, um Bnahabra nas paredes
+da Arena! Certamente sua
+conversa é algo como isso...
+"Você fede!". "Olha quem
+fala!". "Calem-se! Vocês
+dois cheiram a podre!".
+"Tomem veneno, malditos!".

@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=[Advanced] Shock Treatment  
+TITLES_1=[Avancé] Électrochocs
+TITLES_2=[Fortg.] Schocktherapie
+TITLES_3=[Avanzata] Terapia d'urto
+TITLES_4=[Avançada] Terapia de choque
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Baleful Gigginox
+OBJECTIVES_1=Chasser 2 Gigginox
+foudroyants
+OBJECTIVES_2=Erjage 2 Unheils-Gigginox.
+OBJECTIVES_3=Caccia 2 Gigginox malefici
+OBJECTIVES_4=Caçar 2 Gigginox
+aterradores
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Combinery Granny
+CLIENTS_1=Gd-mère de combinerie
+CLIENTS_2=Kombinierladen-Oma
+CLIENTS_3=Nonnina combina tutto
+CLIENTS_4=Vovó do Combinador
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I finally ken how ta fashion a
+stronger Shock Trap. I just need
+to lay me hands on the Baleful
+Gigginox's paralytic agent. That
+combined wi' ye-know-what should
+do the trick. A good amount'll
+serve, so hunt down two of 'em.  
+DESCRIPTIONS_1=Je sais enfin comment faire un
+piège à choc puissant, mais
+j'ai besoin d'agent paralysant
+de Gigginox foudroyant. Il
+m'en faut pas mal, alors vous
+feriez bien d'en chasser deux.
+DESCRIPTIONS_2=Ich weiß endlich, wie ich eine
+stärkere Schockfalle bauen
+kann. Ich brauche nur den läh-
+menden Wirkstoff des Unheils-
+Gigginox, kombiniert mit "Du
+weißt schon was". Ich brauche
+viel, also erlege zwei davon.
+DESCRIPTIONS_3=Ho capito come creare una Trappola
+a scossa migliore. Ho bisogno
+dell'agente paralizzante di
+un Gigginox malefico. Assieme a
+tu-sai-cosa, dovrebbe funzionare
+alla grande. Ne servirà una buona
+quantità: cacciane due esemplari.
+DESCRIPTIONS_4=Já sei como criar uma Armadilha
+de choque mais forte. Só preciso
+obter o agente paralisante
+do aterrorizante Gigginox.
+Combinado com você sabe o quê,
+será suficiente. Preciso de
+quantidade, então cace dois.

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Opposites Detract
+TITLES_1=Les opposés s'affaiblissent
+TITLES_2=Gegensätze stoßen sich ab
+TITLES_3=Gli opposti si attraggono
+TITLES_4=Polos oposto se repelem
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Agnaktor and
+a Glacial Agnaktor
+OBJECTIVES_1=Chasser un Agnaktor et un
+Agnaktor glacial
+OBJECTIVES_2=Erjage einen Agnaktor und
+einen Gletscher-Agnaktor.
+OBJECTIVES_3=Caccia un Agnaktor e
+un Agnaktor glaciale
+OBJECTIVES_4=Caçar um Agnaktor e
+um Agnaktor glacial
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wannabe Sleuth
+CLIENTS_1=Apprenti détective
+CLIENTS_2=Möchtegern-Detektiv
+CLIENTS_3=Aspirante detective
+CLIENTS_4=Aspirante a detetive
+[DESCRIPTIONS]
+DESCRIPTIONS_0=What an enigma! Fire and water,
+side by side, in the Arena! How
+can these opposites live together
+without destroying each other?
+Hunter, please, help me solve
+this mystery!
+DESCRIPTIONS_1=Quelle énigme ! Le feu et
+l'eau peuvent se côtoyer
+dans l'arène sans se détruire
+mutuellement ! Je vous en
+prie, aidez-moi à résoudre
+ce mystère !
+DESCRIPTIONS_2=Was für ein Rätsel! Feuer und
+Wasser, Seite an Seite, in der
+Arena! Wie können sie nur
+existieren, ohne sich zu zer-
+stören? Jäger, bitte hilf mir
+bei der Lösung dieses Rätsels!
+DESCRIPTIONS_3=Che enigma! Acqua e fuoco,
+assieme, nell'Arena! Come faranno
+i due elementi opposti a convivere
+senza annullarsi a vicenda?
+Cacciatore, ti prego, fai luce
+su questo mistero!
+DESCRIPTIONS_4=Que enigma! Água e fogo,
+juntos, na Arena! Como
+podem coexistir dois
+polos opostos sem se
+destruir? Caçador, ajude-me
+a resolver este mistério!

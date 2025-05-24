@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Who's the Boss?
+TITLES_1=C'est qui le chef ?
+TITLES_2=Wer ist der Boss?
+TITLES_3=Chi è che comanda?
+TITLES_4=¿Quién es el jefe?
+[OBJECTIVES]
+OBJECTIVES_0=Capture a Great Jaggi
+OBJECTIVES_1=Capturer un Grand Jaggi
+OBJECTIVES_2=Fange einen Großjaggi.
+OBJECTIVES_3=Cattura un Gran Jaggi
+OBJECTIVES_4=Capturar um Grande Jaggi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, time expires,
+or accidentally slay the target.
+FAIL_CONDITIONS_1=Prime att. 0, temps écoulé
+ou cible tuée par hasard.
+FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
+oder Ziel irrtüml. erlegt.
+FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
+o bersaglio ucciso per errore.
+FAIL_CONDITIONS_4=Recomp. a 0, fim tiempo
+ou mata obj. por acidente.
+[CLIENTS]
+CLIENTS_0=Brainy Biologist
+CLIENTS_1=Biologiste dévoué
+CLIENTS_2=Gescheiter Biologe
+CLIENTS_3=Biologo cervellone
+CLIENTS_4=Biólogo nerd
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We know there are -- to use a
+layman's term -- "bosses"
+within Jaggi herds, but we
+still have much to learn of
+their social hierarchy. If you
+could just obtain a Jaggi
+leader specimen for me...
+DESCRIPTIONS_1=Vous savez, il y a des "chefs"
+dans les meutes de Jaggi,
+comme disent les hommes de
+loi, mais on ne sait pas tout
+de leur hiérarchie sociale. Si
+vous pouviez me trouver un
+spécimen de chef Jaggi...
+DESCRIPTIONS_2=Man weiß, es gibt – als Laie
+gesprochen – "Bosse" in den
+Jaggi-Herden, aber wir müssen
+noch viel über ihre soziale
+Hierarchie lernen. Kannst du
+für mich ein Exemplar eines
+Jaggi-Anführers besorgen...?
+DESCRIPTIONS_3=Sai che i branchi di Jaggi
+sono guidati da "capi", per
+usare un termine comune. Se
+solo potessi procurarmi uno di
+quegli esemplari leader potrei
+studiare la loro gerarchia
+sociale...
+DESCRIPTIONS_4=Sabemos que há o que muitos
+chamam de “chefes” entre
+os bandos de Jaggi, mas ainda
+temos muito a aprender sobre
+sua hierarquia. Se você puder
+caçar um Jaggi líder pra
+mim, seria de grande ajuda!

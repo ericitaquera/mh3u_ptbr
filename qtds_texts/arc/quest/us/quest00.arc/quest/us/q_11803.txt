@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=The Hammer and the Axe
+TITLES_1=Le marteau et la hache
+TITLES_2=Der Hammer und die Axt
+TITLES_3=L'ascia e il martello
+TITLES_4=O machado e o martelo
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Duramboros and
+a Rust Duramboros
+OBJECTIVES_1=Chasser un Duramboros
+et un Duramboros rouille
+OBJECTIVES_2=Erjage einen Duramboros
+und einen Rost-Duramboros.
+OBJECTIVES_3=Caccia un Duramboros e
+un Duramboros rugginoso
+OBJECTIVES_4=Caçar um Duramboros e
+um Duramboros enferrujado
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Quick, someone build us a bigger
+Arena! Ours can't possibly contain
+two Duramboros! They're like a
+pair of mountains... if mountains
+had flailing tails. Why would any
+hunter try to conquer these
+beasts? Because they're there.
+DESCRIPTIONS_1=Vite, que quelqu'un construise
+une arène plus grande ! La
+nôtre est trop petite pour
+deux Duramboros ! Pourquoi
+un chasseur voudrait vaincre
+des monstres gros comme des
+montagnes ?
+DESCRIPTIONS_2=Schnell, wir brauchen eine
+größere Arena! Unsere ist zu
+klein für zwei Duramboros!
+Sie sind wie zwei Berge mit
+Schweifen. Warum würde ein
+Jäger gegen sie kämpfen
+wollen? Weil sie da sind!
+DESCRIPTIONS_3=Svelti! Qualcuno costruisca un'arena
+più grande! La nostra non potrebbe
+mai contenere due Duramboros!
+Sono come due montagne... con
+la coda! Perché un cacciatore
+dovrebbe provare a battere
+queste belve? Perché sì!
+DESCRIPTIONS_4=Precisamos de uma Arena
+maior! A nossa não comporta
+dois Duramboros! Eles são
+como duas montanhas... se
+as montanhas tivessem cauda.
+Qual caçador vencerá as
+feras? Porque lá estão elas.

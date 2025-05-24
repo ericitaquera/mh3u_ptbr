@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Shocking Development
+TITLES_1=Coup de foudre
+TITLES_2=Schockierende Entwicklung
+TITLES_3=Rombo di tuono
+TITLES_4=Acontecimento impactante
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Baleful Gigginox
+OBJECTIVES_1=Chasser un Gigginox
+foudroyant
+OBJECTIVES_2=Erjage einen
+Unheils-Gigginox.
+OBJECTIVES_3=Caccia un Gigginox malefico
+OBJECTIVES_4=Caçar um Gigginox
+aterrador
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Yukumo Clerk
+CLIENTS_1=Employé de Yukumo
+CLIENTS_2=Yukumo-Angestellter
+CLIENTS_3=Addetto Yukumo
+CLIENTS_4=Empregada Yukumo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Attention, Elite Hunters! This
+request is tailor made for your
+skills! Apparently there's this
+terrible Thunder element monster
+out on the Tundra. Interested?
+I sure am! Who wouldn't be, you
+know? Well, I suppose (TRUNCATED)
+DESCRIPTIONS_1=Chasseurs d'élite ! Ce travail
+s'adresse à vous ! Un terrible
+monstre d'élément Foudre se
+trouverait actuellement dans
+la toundra. Je suis sûr que ça
+vous intéresse ! Qui ne serait
+pas intéressé ? Eh bien, je...
+DESCRIPTIONS_2=Elitejäger aufgepasst! Dieser
+Auftrag ist perfekt für eure
+Fähigkeiten geeignet! In der
+Tundra treibt sich gerade ein
+Donnerelement-Monster rum.
+Interessiert? Mit Sicherheit!
+Wer nicht?! Ich... (BRICHT AB)
+DESCRIPTIONS_3=Cacciatori d'élite, questa richiesta è
+pane per i vostri denti! Un mostro
+dell'elemento del tuono è apparso
+nella tundra. Interessati?
+Io di certo! Chi non lo sarebbe,
+dopo tutto? Bene, credo
+(INTERROTTO)
+DESCRIPTIONS_4=Atenção, caçadores de
+elite! Esta missão foi
+feita sob medida pras suas
+habilidades. Parece que há um
+monstro do elemento trovão na
+Tundra… Interessado? Eu sim!
+E você deveria também!

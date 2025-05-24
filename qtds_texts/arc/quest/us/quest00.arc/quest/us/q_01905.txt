@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Triumph of the Tyrants
+TITLES_1=Triomphe des tyrans
+TITLES_2=Triumph der Tyrannen
+TITLES_3=Il trionfo dei tiranni
+TITLES_4=O triunfo dos tiranos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Diablos and
+a Black Diablos
+OBJECTIVES_1=Chasser un Diablos et une
+Diablos noire
+OBJECTIVES_2=Erjage einen Diablos und
+eine Schwarze Diablos.
+OBJECTIVES_3=Caccia un Diablos e
+una Diablos nera
+OBJECTIVES_4=Caçar um Diablos e
+uma Diablos negra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Knight Commander
+CLIENTS_1=Commandant chevalier
+CLIENTS_2=Ritter-Kommandant
+CLIENTS_3=Comandante cavalieri
+CLIENTS_4=Capitão da cavalaría
+[DESCRIPTIONS]
+DESCRIPTIONS_0=What was I thinking? I threw all
+my troops against the two tyrants
+in the Sandy Plains, but it wasn't
+enough. Our reputation is ruined!
+Hunt them down before I decide
+to fall on my sword!  
+DESCRIPTIONS_1=À quoi je pensais ? J'ai lancé
+mes troupes sur les tyrans des
+plaines de sable, mais ça n'a
+pas suffi. Notre réputation
+est fichue ! Chassez-les avant
+que je ne meure de désespoir !
+DESCRIPTIONS_2=Was hab ich mir dabei gedacht?
+Ich habe alle meine Truppen
+gegen die zwei Monster in
+der Sandebene eingesetzt.
+Fehlschlag! Unser Ruf ist
+ruiniert! Jag sie, bevor ich
+mich in mein Schwert stürze!
+DESCRIPTIONS_3=Cosa pensavo di fare? Ho inviato
+tutte le truppe contro due tiranni
+nelle Piane sabbiose, ma non è
+bastato. La nostra reputazione
+è rovinata! Caccia queste creature
+o la mia carriera è finita!
+DESCRIPTIONS_4=O que eu estava pensando? Mandei
+minhas tropas atrás dos dois
+tiranos das Planícies Arenosas,
+mas não foi o suficiente.
+Lá se vai a nossa reputação!
+Cace-os antes que eu resolva
+enfiar a espada em mim mesmo!

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Deep-six a Deviljho
+TITLES_1=Liquider un Deviljho
+TITLES_2=Zur Hölle mit dem Dämonjho
+TITLES_3=Sbarazzati di un Deviljho
+TITLES_4=Derrubar o Deviljho
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Deviljho
+OBJECTIVES_1=Chasser un Deviljho
+OBJECTIVES_2=Erjage einen Dämonjho.
+OBJECTIVES_3=Caccia un Deviljho
+OBJECTIVES_4=Caçar um Deviljho
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Ex-Hunter Merchant
+CLIENTS_1=Marchand ex-chasseur
+CLIENTS_2=Händler (Ex-Jäger)
+CLIENTS_3=Mercante ex cacciatore
+CLIENTS_4=Comerciante ex-caçador
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Yeah, I used to be a hunter.
+I loved the job, too. But then
+one day this massive beast came
+out of nowhere... Almost did me
+in. I quit the biz. I couldn't
+hack it. But you -- I bet you
+could take that monster on...
+DESCRIPTIONS_1=Oui, j'étais un chasseur.
+J'aimais mon boulot. Un jour,
+cette bête énorme a surgi de
+nulle part. Elle a failli me
+tuer. J'ai arrêté. C'en était
+trop. Mais vous... Je parie
+que vous pourriez l'affronter.
+DESCRIPTIONS_2=Ja, ich war einst ein Jäger,
+mit ganzem Herzen. Aber eines
+Tages stand plötzlich diese
+riesige Bestie vor mir... Sie
+hätte mich beinahe erledigt.
+Das war es für mich. Aber ich
+wette, du schaffst das Biest.
+DESCRIPTIONS_3=Una volta ero un cacciatore. Amavo
+il mio lavoro. Poi, un giorno,
+una belva gigantesca sbucò
+dal nulla e quasi mi uccideva.
+Mollai tutto. Non riuscivo a farmene
+una ragione. Ma tu... scommetto
+che potresti farcela...
+DESCRIPTIONS_4=Sim, eu era um caçador. E eu
+adorava isso. Mas, um dia, uma
+besta enorme surgiu do nada...
+Quase me matou. Me aposentei.
+Não pude suportar. Mas você...
+Tenho certeza que poderia
+dar conta desse monstro...

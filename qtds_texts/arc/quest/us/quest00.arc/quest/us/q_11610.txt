@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Bad, White, and Blue
+TITLES_1=Bleu blanc brutes
+TITLES_2=Böse, weiß und blau
+TITLES_3=Bianco, blu e cattivo
+TITLES_4=Maus, brancos e azuis
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Stealthy Surveyor
+CLIENTS_1=Prospecteur furtif
+CLIENTS_2=Verstohlener Vermesser
+CLIENTS_3=Topografo furtivo
+CLIENTS_4=Topógrafo sigiloso
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I seen 'em while I was out
+prospectin' on the Tundra. 
+The blue and white ones have
+different traits, mind you, but
+both come on strong with nasty
+elemental attacks. I'm a digger,
+not a fighter, so have at 'em!
+DESCRIPTIONS_1=Je les ai vus en prospectant
+dans la toundra. Le bleu et le
+blanc sont différents, mais
+ils ont tous deux de grosses
+attaques élémentaires. Je suis
+mineur, pas chasseur, alors
+occupez-vous d'eux !
+DESCRIPTIONS_2=Ich hab sie beim Erkunden in
+der Tundra gesehen. Die Blauen
+und Weißen haben verschiedene
+Eigenschaften, aber beide
+verfügen über starke Element-
+angriffe. Ich bin Gräber, kein
+Kämpfer. Mach du das bitte!
+DESCRIPTIONS_3=Li ho avvistati mentre cercavo
+minerali nella tundra. I bianchi
+e i blu hanno caratteristiche
+diverse, ma entrambi aggrediscono
+con temibili attacchi elementali.
+Io sono uno scavatore, mica
+un combattente. Sono tutti tuoi!
+DESCRIPTIONS_4=Eu os vi enquanto explorava
+a Tundra. Os azuis e brancos
+possuem diferentes traços,
+sim, mas ambos tentam se
+impor com terríveis ataques
+elementares. Sou escavador, não
+lutador, então vá atrás deles.

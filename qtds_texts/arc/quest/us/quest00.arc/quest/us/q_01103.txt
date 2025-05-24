@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Guts: It's What's for Dinner
+TITLES_1=Tripes : c'est au menu
+TITLES_2=Innereien zum Abendessen
+TITLES_3=Menu del giorno: frattaglie
+TITLES_4=Tripas para o jantar
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 3 Monster Guts
+OBJECTIVES_1=Livrer 3 boyaux de monstre
+OBJECTIVES_2=Besorge
+3 Monsterinnereien.
+OBJECTIVES_3=Consegna 3 Budella mostro
+OBJECTIVES_4=Entregar 3 Tripas de
+monstro
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Manor Cook
+CLIENTS_1=Cuisinier du manoir
+CLIENTS_2=Herrenhauskoch
+CLIENTS_3=Cuoco del maniero
+CLIENTS_4=Cozinheiro da mansão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Folks call my lord the "Master
+of Inviting" because of his
+big shindigs. He's throwing a
+full-moon banquet for the
+nobles, and I want to knock
+their fancy pants off. I need
+Epioth tripe, ASAP!
+DESCRIPTIONS_1=On surnomme le châtelain le
+"Maître des réceptions" à
+cause de ses grandes fêtes.
+Il organise un banquet pour
+les nobles et je veux les
+épater. Il me faut des tripes
+d'Epioth, et vite !
+DESCRIPTIONS_2=Wegen der Feiern nennen die
+Leute meinen Herrn "Meister
+der Einladung". Er gibt ein
+Vollmond-Bankett für die
+Adligen und ich will sie vom
+Hocker hauen. Dazu brauche ich
+Epioth-Kutteln, rasch!
+DESCRIPTIONS_3=Il mio signore è famoso per
+la sua ospitalità e per le feste
+grandiose. Questo plenilunio
+darà un grande banchetto per
+i nobili e devo strabiliarli!
+Portami delle interiora di
+Epioth, il prima possibile!
+DESCRIPTIONS_4=Chamam meu senhor de "Mestre
+das Festas" por seus grandes
+banquetes. Ele vai oferecer
+um jantar de lua cheia aos
+nobres, e eu quero deixá-los
+de queixo caído! Preciso
+de tripas de Epioth, já!

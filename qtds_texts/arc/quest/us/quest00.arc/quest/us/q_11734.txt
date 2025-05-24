@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Advanced] Nerves of Steel
+TITLES_1=[Avancé] Nerfs d'acier
+TITLES_2=[Fortg.] Nerven aus Stahl
+TITLES_3=[Avanzata] Nervi d'acciaio
+TITLES_4=[Avançada] Nervos de aço
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Steel Uragaan
+OBJECTIVES_1=Chasser 2 Uragaan d'acier
+OBJECTIVES_2=Erjage 2 Stahl-Uragaane.
+OBJECTIVES_3=Caccia 2 Uragaan d'acciaio
+OBJECTIVES_4=Caçar 2 Uragaan de aços
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Princess
+CLIENTS_1=Princesse t. de feu
+CLIENTS_2=Feuerland-Prinzessin
+CLIENTS_3=Principessa terre inf.
+CLIENTS_4=Princesa país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=There is no end to the earth's
+quaking of late, thanks to the 
+raging Steel Uragaan herd living
+on the molten mountain. My people
+do naught but wail and prey. Good
+hunter, wield your strength to
+save them from their despair.
+DESCRIPTIONS_1=La terre ne s'arrête jamais de
+trembler en ce moment, à cause
+de la meute d'Uragaan d'acier
+qui vit dans la montagne en
+fusion. Mon peuple ne fait que
+prier et se lamenter, sauvez-le
+du désespoir !
+DESCRIPTIONS_2=Die Erde bebt unablässig.
+Schuld daran ist die Herde
+Stahl-Uragaane, die am
+Schmelzgipfel lebt. Mein
+Volk weint, betet und erwartet
+das Ende. Edler Jäger, beweise
+deine Stärke und rette es.
+DESCRIPTIONS_3=Di recente la terra trema di continuo
+a causa dei violenti Uragaan
+d'acciaio che vivono sulla montagna
+fusa. Il mio popolo non fa che
+piangere e pregare. Buon
+cacciatore, raccogli le tue forze
+e salvali dalla loro disperazione.
+DESCRIPTIONS_4=A terra não para de tremer
+por culpa do bando de
+Uragaan de aço que vive na
+montanha derretida. Meu povo
+só sabe se lamentar e rezar.
+Caçador, use sua força para
+salvá-los de seu desespero.

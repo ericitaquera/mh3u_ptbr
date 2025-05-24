@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Advanced] Beauty Kills
+TITLES_1=[Avancé] La beauté tue
+TITLES_2=[Fortg.] Tödliche Schönheit
+TITLES_3=[Avanzata] Bellezza fatale
+TITLES_4=[Avançada] Belezas que matam
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Pink Rathian
+OBJECTIVES_1=Chasser 2 Rathian roses
+OBJECTIVES_2=Erjage 2 Rosa Rathiane.
+OBJECTIVES_3=Caccia 2 Rathian rosa
+OBJECTIVES_4=Caçar 2 Rathian rosas
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Ninja-in-Training
+CLIENTS_1=Apprenti ninja
+CLIENTS_2=Ninja in Ausbildung
+CLIENTS_3=Apprendista ninja
+CLIENTS_4=Aprendiz de ninja
+[DESCRIPTIONS]
+DESCRIPTIONS_0=How could I have been so foolish?
+I became captivated by those
+beasts -- until they returned my
+admiration with streaks of flame
+and mighty tail-whips. If I am to
+become mesmerized so easily,
+perhaps I shouldn't leave my dojo. 
+DESCRIPTIONS_1=Quel idiot ! J'ai été fasciné
+par ces bêtes, et elles m'ont
+remercié avec des brûlures et
+des coups de queue. Si je
+perds ma concentration si
+facilement, je devrais
+peut-être rester au dojo.
+DESCRIPTIONS_2=Wie konnte ich so dumm sein?
+Ich war so fasziniert von den
+Bestien – bis sie meine Bewun-
+derung mit Feuer und Schweif-
+hieben beantworteten. Wenn ich
+so leicht abzulenken bin,
+sollte ich im Dojo bleiben.
+DESCRIPTIONS_3=Come ho potuto essere così idiota?
+Quelle creature prima mi hanno
+incantato, poi hanno ripagato
+la mia ammirazione con fiamme
+e potenti colpi di coda. Se mi faccio
+ammaliare così facilmente, forse
+non dovrei lasciare il dojo.
+DESCRIPTIONS_4=Como pude ser tão tolo?
+Fiquei fascinado por essas
+feras, e eles retribuíram
+com chamas e poderosas
+chicotadas. Melhor não
+sair do dojo se vou me
+fascinar tão facilmente.

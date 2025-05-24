@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=[Advanced] Death's Embrace
+TITLES_1=[Avancé] Étreinte mortelle
+TITLES_2=[Fortg.] Tödliche Umarmung
+TITLES_3=[Avanzata] Abbraccio mortale
+TITLES_4=[Avançada] Poder da morte
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Black Diablos
+OBJECTIVES_1=Chasser 2 Diablos noires
+OBJECTIVES_2=Erjage 2 Schwarze Diablos.
+OBJECTIVES_3=Caccia 2 Diablos nere
+OBJECTIVES_4=Caçar 2 Diablos negras
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Desertfolk's Chief
+CLIENTS_1=Chef hab. du désert
+CLIENTS_2=Wüstenvolk-Chef
+CLIENTS_3=Capo del deserto
+CLIENTS_4=Cacique do deserto
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Eyes of crimson. Scales of jet.
+The grim reaper of the Sandy
+Plains is nigh. Not one, but two!
+One storm becomes a typhoon. The
+Sandy Plains will know no peace --
+until you act!
+DESCRIPTIONS_1=Des yeux rouges. Des écailles
+noir de jais. La faucheuse des
+plaines de sable est proche.
+Elles sont deux ! Les plaines
+de sable ne connaîtront pas la
+paix si vous n'agissez pas !
+DESCRIPTIONS_2=Blutrote Augen. Pechschwarze
+Schuppen. Der Todesengel der
+Sandebene ist nah. Er kommt
+nicht allein! Der Sturm wird
+zum Orkan. Die Sandebene
+wird keinen Frieden finden,
+bis du etwas unternimmst!
+DESCRIPTIONS_3=Occhi cremisi. Scaglie nere e lucide.
+Il tristo mietitore delle Piane
+sabbiose è vicino. Non uno,
+addirittura due! Di male in peggio.
+Le Piane sabbiose non ritroveranno
+la pace, se non intervieni!
+DESCRIPTIONS_4=Olhos carmesim. Escamas
+negras como azeviche. A
+morte se aproxima das Planícies
+arenosas. Não uma vez, mas duas!
+A tempestade se torna furacão. As
+Planícies arenosas não conhecerão
+a paz se você não agir!

@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Infernal Overlord
+TITLES_1=Seigneur infernal
+TITLES_2=Höllischer Hochfürst
+TITLES_3=Signore dell'inferno
+TITLES_4=Senhor infernal
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Stygian Zinogre
+OBJECTIVES_1=Chasser un Zinogre stygien
+OBJECTIVES_2=Erjage einen
+Höllen-Zinogre.
+OBJECTIVES_3=Caccia uno Zinogre stigeo
+OBJECTIVES_4=Caçar um Zinogre estigio
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Captain of the Guard
+CLIENTS_1=Capitaine de la Garde
+CLIENTS_2=Hauptmann der Wache
+CLIENTS_3=Capitano della guardia
+CLIENTS_4=Capitão da guarda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=What was that thing? I've never
+seen a Zinogre like that! It tore
+through my men like they were
+newborn Felynes! The eggheads are
+saying it's some new subspecies
+with special powers. Whatever it
+is, you gotta stop it!
+DESCRIPTIONS_1=Je n'ai jamais vu un Zinogre
+comme ça ! Il a vaincu mes
+hommes comme s'ils étaient des
+des bébés Felyne ! Il s'agirait
+d'une nouvelle sous-espèce aux
+pouvoirs spéciaux. Quoi que ce
+soit, il faut l'arrêter !
+DESCRIPTIONS_2=Was war das? So einen Zinogre
+habe ich noch nie gesehen! Er
+wütete durch meine Männer 
+wie durch Baby-Felynes! Die
+Eierköpfe sagen, es wäre eine
+neue Unterart mit Spezial-
+kräften. Halte ihn auf!
+DESCRIPTIONS_3=Cos'era quella cosa? Non ho mai
+visto uno Zinogre come quello! Ha
+fatto a pezzi i miei uomini come
+Felyne appena nati! Gli scienziati
+pensano che si tratti di una nuova
+sottospecie con poteri speciali.
+Qualunque cosa sia, devi fermarlo!
+DESCRIPTIONS_4=O que foi isso? Eu nunca tinha
+visto um Zinogre assim! Ele
+afastou meus homens como se
+fossem filhotes de Felyne! Os
+especialistas dizem que é uma
+nova subespécie com mais poderes.
+Seja como for, você deve detê-lo.

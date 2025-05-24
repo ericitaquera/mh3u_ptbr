@@ -171,8 +171,8 @@ irritadiça. A floresta tem muitos estados.
 Vou prever da melhor maneira possível.
 --- BLOCK ---
 A previsão do tempo serve para caçadas
-que não são do Gremio. As missões
-do Gremio têm seus horários e ambientes.
+que não são da Guilda. As missões
+da Guilda têm seus horários e ambientes.
 --- BLOCK ---
 <SUBS 0>
 Uma vez me deparei com um Lagiacrus,

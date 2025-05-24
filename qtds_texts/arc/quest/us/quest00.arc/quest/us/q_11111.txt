@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=[Canteen] Forecast: Lagombi
+TITLES_1=[Cantine] Prévision Lagombi
+TITLES_2=[Kantine] Prognose: Lagombi
+TITLES_3=[Mensa] Previsioni: Lagombi
+TITLES_4=[Cantina] Informe: Lagombi
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Lagombi
+OBJECTIVES_1=Chasser un Lagombi
+OBJECTIVES_2=Erjage einen Lagombi.
+OBJECTIVES_3=Caccia un Lagombi
+OBJECTIVES_4=Caçar um Lagombi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Obese Observer
+CLIENTS_1=Observateur obèse
+CLIENTS_2=Beleibter Beobachter
+CLIENTS_3=Osservatore obeso
+CLIENTS_4=Observador obeso
+[DESCRIPTIONS]
+DESCRIPTIONS_0=[REPORT BEGINS] Lagombi spotted
+on the Tundra. [STOP] Requesting
+support from all qualified hunters.
+[STOP] Keep an eye out for frozen
+food in the vicinity. [STOP]
+I left my lunch out there...
+[REPORT ENDS]
+DESCRIPTIONS_1=[DÉBUT DU RAPPORT] Lagombi vu
+dans la toundra. [STOP] Appel
+à tous les chasseurs qualifiés.
+[STOP] Essayez de repérer un
+sandwich congelé. [STOP]. J'ai
+oublié mon déjeuner là-bas.
+[FIN DU RAPPORT]
+DESCRIPTIONS_2=[BERICHT ANFANG] Lagombi in
+Tundra gesichtet. [STOPP] So-
+fortige Unterstützung fähiger
+Jäger erbeten. [STOPP] Auf
+gefrorenes Essen in der Nähe
+achten. [STOPP] Habe es dort
+verloren... [BERICHT ENDE]
+DESCRIPTIONS_3=[INIZIO RAPPORTO] Avvistato
+Lagombi nella tundra. [STOP]
+Richiesto supporto immediato
+di tutti i cacciatori qualificati.
+[STOP] La neve ci ha bloccato
+e non possiamo prestare
+assistenza. [FINE RAPPORTO]
+DESCRIPTIONS_4=[INÍCIO DO RELATO] Lagombi visto
+na Tundra. [FIM] Solicitamos
+ajuda de caçadores experientes.
+[FIM] Procurem comida congelada
+nos arredores. [FIM] Era
+meu almoço. [FIM DO RELATO]

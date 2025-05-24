@@ -66,7 +66,7 @@ Felyne
 --- BLOCK ---
 Melynx
 --- BLOCK ---
-Pescado
+Peixe
 --- BLOCK ---
 Altaroth
 --- BLOCK ---
@@ -280,5 +280,5 @@ Herbvr
 --- BLOCK ---
 Nptron
 --- BLOCK ---
-Pescado
+Peixe
 --- BLOCK ---

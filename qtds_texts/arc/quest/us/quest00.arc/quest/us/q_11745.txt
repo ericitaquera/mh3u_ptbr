@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=[Advanced] Crus Control
+TITLES_1=[Avancé] Contrôle Lagiacrus
+TITLES_2=[Fortg.] Crus-Kontrolle
+TITLES_3=[Avanzata] Terrore in acqua
+TITLES_4=[Avançada] Terror na água
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Lagiacrus and
+an Ivory Lagiacrus
+OBJECTIVES_1=Chasser un Lagiacrus et
+un Lagiacrus ivoire
+OBJECTIVES_2=Erjage einen Lagiacrus und
+einen Elfenbein-Lagiacrus.
+OBJECTIVES_3=Caccia un Lagiacrus e
+un Lagiacrus d'avorio
+OBJECTIVES_4=Caçar um Lagiacrus e
+um Lagiacrus marmóreo
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young Fisherwoman
+CLIENTS_1=Jeune pêcheuse
+CLIENTS_2=Junge Fischerin
+CLIENTS_3=Giovane pescatrice
+CLIENTS_4=Jovem pescadora
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Fish ain't bitin' these days --
+not even a nibble! We just figured
+it was bad luck at first, but I've
+never had a dry spell like this.
+Trouble lurks in the briny deep,
+I'll wager. See for yerself!
+DESCRIPTIONS_1=Ça ne mord pas, ces jours-ci !
+On pensait que c'était juste
+passager, mais ça dure. Je
+parie que quelque chose se
+cache dans l'eau. Allez voir
+par vous-même !
+DESCRIPTIONS_2=Die Fische beißen einfach
+nicht an! Kein einziger! Erst
+dachten wir, dass es nur Pech
+wäre, aber für so lange?
+Niemals! In der Tiefe lauert
+das Unheil, jede Wette!
+Sieh selbst nach!
+DESCRIPTIONS_3=I pesci non abboccano in questi
+giorni... neppure una tirata!
+Pensavo fosse sfortuna, ma
+un simile periodo di magra è
+inspiegabile. Grossi guai si
+celano nel mare profondo, ci
+scommetto. Guarda tu stesso!
+DESCRIPTIONS_4=Os peixes já não mordem,
+nem uma mordidinha!
+Pensávamos que era azar,
+mas nunca passei por uma
+fase como esta. Aposto
+que os problemas vêm das
+profundezas. Confira!

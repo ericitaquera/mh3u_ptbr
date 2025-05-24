@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Leading the Charge
+TITLES_1=Mener l'assaut
+TITLES_2=Angriffsführung
+TITLES_3=Alla carica!
+TITLES_4=Liderar o ataque
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barroth
+OBJECTIVES_1=Chasser un Barroth
+OBJECTIVES_2=Erjage einen Barroth.
+OBJECTIVES_3=Caccia un Barroth
+OBJECTIVES_4=Caçar un Barroth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Brainy Biologist
+CLIENTS_1=Biologiste dévoué
+CLIENTS_2=Gescheiter Biologe
+CLIENTS_3=Biologo cervellone
+CLIENTS_4=Biólogo nerd
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I've read reports of an
+intriguing monster in the
+Sandy Plains... Apparently,
+weak weapons bounce off its
+tough hide, and the beast
+sometimes destroys anthills
+when it charges. Fascinating!
+DESCRIPTIONS_1=J'ai lu des rapports à propos
+d'un monstre étrange des
+plaines de sable. Les armes
+faibles rebondiraient sur sa
+peau dure et la bête pourrait
+détruire des fourmilières
+quand elle charge. Fascinant !
+DESCRIPTIONS_2=Ich las Berichte über ein
+interessantes Monster in der
+Sandebene... Schwache
+Waffen prallen von seiner
+harten Haut ab, und die Bestie
+zerstört beim Angriff manchmal
+Ameisenhaufen. Faszinierend!
+DESCRIPTIONS_3=Ho letto delle interessanti
+relazioni su un mostro delle
+Piane sabbiose... Pare che
+le armi più leggere rimbalzino
+sulla sua corazza e che le sue
+cariche, a volte, distruggano
+i termitai. Affascinante!
+DESCRIPTIONS_4=Li relatórios sobre um monstro
+intrigante das Planícies
+Arenosas. Dizem que armas
+fracas ricocheteiam na pele
+dura dele e que a fera às
+vezes destrói formigueiros
+ao atacar. É fascinante!

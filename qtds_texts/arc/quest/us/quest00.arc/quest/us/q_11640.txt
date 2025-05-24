@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=[Advanced] Qurupeco Chorus
+TITLES_1=[Avancé] Chœur de Qurupeco
+TITLES_2=[Fortg.] Qurupeco-Chor
+TITLES_3=[Avanzata] Coro di Qurupeco
+TITLES_4=[Avançada] Coro Qurupeco
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Qurupecoes
+in succession
+OBJECTIVES_1=Chasser 3 Qurupeco à la
+suite
+OBJECTIVES_2=Erjage 3 Qurupecos
+in Folge.
+OBJECTIVES_3=Caccia 3 Qurupeco
+di seguito
+OBJECTIVES_4=Caçar 3 Qurupeco seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Frazzled Huntress
+CLIENTS_1=Chasseresse épuisée
+CLIENTS_2=Erschöpfte Jägerin
+CLIENTS_3=Cacciatrice esausta
+CLIENTS_4=Caçadora exausta
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ugh. Just had another one of those
+days. Qurupecoes EVERYWHERE!
+One kept mimicking monster calls
+to summon more, so I blew my Field
+Horn to drown out the sound, and...
+well, that's when things got REALLY
+bad. I need a life coach!
+DESCRIPTIONS_1=J'ai eu une dure journée. Des
+Qurupeco PARTOUT ! Ils
+n'arrêtaient pas d'appeler des
+renforts. J'ai sorti mon cor
+pour couvrir le bruit, mais ça
+n'a fait qu'empirer les
+choses ! J'ai besoin d'aide !
+DESCRIPTIONS_2=Bah, wieder einer dieser Tage.
+ÜBERALL Qurupecos! Einer imi-
+tierte Monsterrufe, um noch
+mehr anzulocken. Ich blies in
+mein Jagdhorn, um sie zu
+übertönen – das war DUMM! Ich
+brauche einen Lebensberater!
+DESCRIPTIONS_3=Ho appena trascorso un giorno
+da incubo. Qurupeco ovunque!
+Uno richiamava i mostri imitandone
+il grido, così ho provato a coprirne
+il suono con il mio corno... È allora
+che la situazione è precipitata.
+Devo imparare a vivere!
+DESCRIPTIONS_4=Ag. Tive mais um desses dias.
+Qurupeco por todo lado! Um
+chamava mais monstros imitando
+seus gritos, então eu toquei
+minha Flauta Atrativa para
+abafar o som e... a situação
+piorou. Preciso de ajuda!

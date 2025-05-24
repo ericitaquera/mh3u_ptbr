@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=The March of Victory
+TITLES_1=Marche de la victoire
+TITLES_2=Der Siegesmarsch
+TITLES_3=La marcia della vittoria
+TITLES_4=A marcha da vitória
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Golden-robed King
+CLIENTS_1=Roi en robe dorée
+CLIENTS_2=Goldgekleideter König
+CLIENTS_3=Re dalle vesti dorate
+CLIENTS_4=Rei trajado de ouro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=In the prehistoric era, men hunted
+wyverns and beasts for one reason:
+survival. They've since refined
+their weapons and techniques to
+become as lethal as their prey.
+Have you evolved with the times,
+or will you become extinct?
+DESCRIPTIONS_1=Les hommes préhistoriques
+chassaient les Wyvern et les
+bêtes pour survivre. Notre
+technologie nous a rendus
+aussi forts que nos proies.
+Avez-vous suivi l'évolution,
+ou allez-vous disparaître ?
+DESCRIPTIONS_2=Früher wurden Wyvern und Bes-
+tien gejagt, um zu überleben!
+Seither wurden Waffen und
+Techniken verbessert, bis sie
+tödlich waren wie ihre Beute.
+Hast du dich weiterentwickelt,
+oder wirst du ausgerottet?
+DESCRIPTIONS_3=Gli uomini della preistoria
+cacciavano per un unico motivo:
+sopravvivere. Perfezionarono armi
+e tecniche di caccia per diventare
+letali come le loro prede. Chi non
+si evolve nel tempo, è destinato
+all'estinzione!
+DESCRIPTIONS_4=Na pré-história, os homens
+caçavam wyverns e bestas
+para sobreviver. Desde então,
+eles aprimoraram suas armas
+e técnicas, tornando-se tão
+letais quanto suas presas.
+Você se adaptou aos tempos?

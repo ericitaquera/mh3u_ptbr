@@ -1,0 +1,60 @@
+[TITLES]
+TITLES_0=Snowball Fight
+TITLES_1=Bataille de boules de neige
+TITLES_2=Schneeballschlacht
+TITLES_3=Guerra con le palle di neve
+TITLES_4=Bolas de neve
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Jade Barroth
+OBJECTIVES_1=Chasser un Barroth de
+jade
+OBJECTIVES_2=Erjage einen Jade-Barroth.
+OBJECTIVES_3=Caccia un Barroth di giada
+OBJECTIVES_4=Caçar um Barroth esmeralda
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Tundra Ranger
+CLIENTS_1=Ranger de la toundra
+CLIENTS_2=Tundra-Ranger
+CLIENTS_3=Ranger della tundra
+CLIENTS_4=Soldado da Tundra
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We've had recent reports of a
+monster rampaging across the
+Tundra, flinging snowballs with
+the force of an avalanche.
+People are getting hurt out
+there. Investigate at once!
+DESCRIPTIONS_1=On nous a signalé qu'un
+monstre dévaste la toundra
+et lance de la neige avec la
+puissance d'une avalanche. Des
+gens ont été blessés. Allez vite
+mener l'enquête !
+DESCRIPTIONS_2=Es gibt beunruhigende Berichte
+über Monster in der Tundra,
+die Schneebälle so stark wie
+Lawinen schleudern. Es gab
+bereits Personenschäden.
+Überprüfe das sofort!
+DESCRIPTIONS_3=Secondo recenti rapporti, un mostro
+infesta la tundra e scaglia palle di
+neve con la forza di una valanga.
+Ha già ferito molte persone.
+Investiga subito!
+DESCRIPTIONS_4=Informações recentes falam
+de um monstro que devasta
+a Tundra, lançando bolas
+de neve com a força de
+uma avalanche. Há pessoas
+feridas. Vá investigar!

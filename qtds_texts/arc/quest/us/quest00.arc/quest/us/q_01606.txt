@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Current Events
+TITLES_1=Évènements actuels
+TITLES_2=Nasse Neuigkeiten
+TITLES_3=Bagnati fradici
+TITLES_4=Acontecimentos recentes
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Royal Ludroth
+OBJECTIVES_1=Chasser un Ludroth royal
+OBJECTIVES_2=Erjage einen
+Königs-Ludroth.
+OBJECTIVES_3=Caccia un Ludroth reale
+OBJECTIVES_4=Caçar um Ludroth real
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wannabe Sleuth
+CLIENTS_1=Apprenti détective
+CLIENTS_2=Möchtegern-Detektiv
+CLIENTS_3=Aspirante detective
+CLIENTS_4=Aspirante a detetive
+[DESCRIPTIONS]
+DESCRIPTIONS_0=What a twist! People on land
+suddenly soaked to the bone!
+The soggy victims insist they saw
+something yellow before their
+drenching. What could it have
+been? Hunter, please, help me
+solve this riddle!
+DESCRIPTIONS_1=Quel rebondissement ! Les gens
+sont tout à coup trempés ! Les
+victimes affirment avoir vu
+une chose jaune avant la
+douche. Qu'était-ce ? Je vous
+en prie, aidez-moi à résoudre
+cette énigme !
+DESCRIPTIONS_2=Merkwürdige Sache! Die Leute
+an Land wurden bis auf die
+Knochen nass! Die durchnässten
+Opfer haben von etwas Gelbem
+berichtet. Was kann das sein?
+Jäger, bitte hilf mir, dieses
+Rätsel zu lösen!
+DESCRIPTIONS_3=È terribile! La gente è di colpo
+inzuppata fino al midollo!
+Le vittime fradice hanno visto
+una creatura gialla prima di
+essere ricoperte d'acqua!
+Cacciatore, ti prego, aiutami
+a fare luce su questa storia!
+DESCRIPTIONS_4=Que reviravolta! A galera
+em terra ficou encharcada
+até os ossos! Dizem que viram
+algo amarelo bem antes do
+banho. O que será que era
+isso? Caçador, me ajuda a
+resolver esse mistério molhado!

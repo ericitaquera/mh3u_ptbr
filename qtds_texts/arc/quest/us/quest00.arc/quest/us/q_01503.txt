@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=The Lord of the Seas
+TITLES_1=Le roi des mers
+TITLES_2=Der Fürst der Meere
+TITLES_3=Il Signore dei mari
+TITLES_4=O Rei dos mares
+[OBJECTIVES]
+OBJECTIVES_0=Capture a Lagiacrus
+OBJECTIVES_1=Capturer un Lagiacrus
+OBJECTIVES_2=Fange einen Lagiacrus.
+OBJECTIVES_3=Cattura un Lagiacrus
+OBJECTIVES_4=Captura um Lagiacrus
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, time expires,
+or accidentally slay the target.
+FAIL_CONDITIONS_1=Prime att. 0, temps écoulé
+ou cible tuée par hasard.
+FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
+oder Ziel irrtüml. erlegt.
+FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
+o bersaglio ucciso per errore.
+FAIL_CONDITIONS_4=Recomp. a 0, fim tiempo
+ou mata obj. por acidente.
+[CLIENTS]
+CLIENTS_0=Oceanographer
+CLIENTS_1=Océanographe
+CLIENTS_2=Ozeanograf
+CLIENTS_3=Oceanografo
+CLIENTS_4=Oceanógrafo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Dear hunter: Our institute has
+launched an intensive study of
+Lagiacrus, the Lord of the Seas.
+A live specimen would be a huge
+boon to our research. Are you
+willing to put your life on
+the line for marine science?
+DESCRIPTIONS_1=Cher chasseur, notre institut
+a lancé une étude complète du
+Lagiacrus, le roi des mers. Un
+spécimen vivant serait une
+aubaine pour nos recherches.
+Accepteriez-vous de risquer
+votre vie pour la science ?
+DESCRIPTIONS_2=Lieber Jäger, unser Institut
+führt intensive Studien über
+Lagiacrus, den Fürst der Meere
+durch. Ein lebendes Exemplar
+wäre gut für die Forschung.
+Würdest du dein Leben für die
+Meereswissenschaft riskieren?
+DESCRIPTIONS_3=Gentile cacciatore: il nostro istituto
+intende studiare il Lagiacrus,
+"Signore dei mari". Un esemplare
+vivo darebbe un contributo
+inestimabile agli studi. Rischieresti
+la vita nell'interesse della scienza?
+DESCRIPTIONS_4=Prezado caçador: nosso centro
+iniciou um estudo sobre o
+Lagiacrus, o rei dos mares. Um
+exemplar vivo seria essencial.
+Você aceitaria arriscar
+a vida pela ciência oceânica?
+Seria de grande valor!

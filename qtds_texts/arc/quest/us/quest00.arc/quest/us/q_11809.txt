@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=[Canteen] Submarine Struggle
+TITLES_1=[Cantine] Lutte sous-marine
+TITLES_2=[Kantine] Unterwasserkampf
+TITLES_3=[Mensa] Zuffa sottomarina
+TITLES_4=[Cantina] Luta submarina
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Green Plesioth
+and a Royal Ludroth.
+OBJECTIVES_1=Chasser un Plesioth vert
+et un Ludroth royal
+OBJECTIVES_2=Erjage 1 Grünen Plesioth
+und 1 Königs-Ludroth.
+OBJECTIVES_3=Caccia un Plesioth verde
+e un Ludroth reale
+OBJECTIVES_4=Caçar um Plesioth verde
+e um Ludroth real
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Commentator Clerk
+CLIENTS_1=Commentateur
+CLIENTS_2=Kommentator
+CLIENTS_3=Cronista
+CLIENTS_4=Comentarista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We've got a wet-and-wild tag-team
+match at the Arena today! These
+marine monsters have an edge in
+watery terrain, so don't expect a
+day at the beach! You'll need to
+go deep to win this fight, but
+fabulous prizes await!
+DESCRIPTIONS_1=Un match en équipe aura lieu
+à l'arène aujourd'hui ! Ces
+monstres marins ont l'avantage
+dans l'eau, ce ne sera pas une
+partie de plaisir mais la
+récompense vous fera oublier
+vos efforts !
+DESCRIPTIONS_2=Heute haben wir einen nassen
+und wilden Kampf in der Arena!
+Diese Meeresmonster haben
+einen Vorteil im Wasser, das
+wird also kein lockerer Tag
+am Strand! Streng dich an,
+es warten tolle Preise!
+DESCRIPTIONS_3=Oggi all'Arena uno scontro a
+squadre da capogiro! I mostri
+marini sono avvantaggiati
+nei territori umidi. Vincere
+la battaglia e i nostri premi
+favolosi non sarà una
+passeggiata!
+DESCRIPTIONS_4=Hoje temos uma selvagem
+batalha em equipe na Arena!
+Essas feras marinhas têm
+vantagem na água, isso não
+vai ser um passeio. Será
+necessário mergulhar para
+ganhar um fabuloso prêmio!

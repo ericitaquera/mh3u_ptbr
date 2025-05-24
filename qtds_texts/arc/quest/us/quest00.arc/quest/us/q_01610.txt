@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Bully the Bullfango
+TITLES_1=Attaque de Bullfango
+TITLES_2=Bullfango-Bedrängnis
+TITLES_3=Fango sui Bullfango
+TITLES_4=Ataque ao Bullfango
+[OBJECTIVES]
+OBJECTIVES_0=Slay 15 Bullfango
+OBJECTIVES_1=Tuer 15 Bullfango
+OBJECTIVES_2=Erlege 15 Bullfango.
+OBJECTIVES_3=Uccidi 15 Bullfango
+OBJECTIVES_4=Matar 15 Bullfango
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Battered Yukumo Defender
+CLIENTS_1=Défenseur de Yukumo
+CLIENTS_2=Verltzt. Yukumo-Vertd.
+CLIENTS_3=Dif. Yukumo acciaccato
+CLIENTS_4=Guarda Yukumo ferido
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Ugh! My backside's seen better
+days. Blame the Bullfango! My
+mom sent me to the Misty Peaks to
+dig up mushrooms, see, and all of
+a sudden those beasts were behind
+me! Long story short, my butt
+needs avenging!
+DESCRIPTIONS_1=Aïe ! Mon derrière me fait
+souffrir. C'est à cause des
+Bullfango ! Je suis allé cueillir
+des champignons dans les Pics
+brumeux, et ces bêtes me sont
+tombées dessus. Mon arrière-
+train a du mal à s'en remettre.
+DESCRIPTIONS_2=Oh, meiner Rückseite ging es
+schon mal besser. Blöder
+Bullfango! Ich sollte für mei-
+ne Mutter Pilze in den Nebel-
+gipfeln sammeln, als sich die
+Bestien auf mich stürzten!
+Mein Hintern will Rache!
+DESCRIPTIONS_3=Ahi, il mio fondoschiena ha vissuto
+giorni migliori. Tutta colpa
+dei Bullfango! Stavo raccogliendo
+funghi per mia madre, quando
+all'improvviso queste belve
+mi hanno attaccato alle spalle!
+Il mio sedere grida vendetta!
+DESCRIPTIONS_4=Argh! Meu traseiro já viveu
+dias melhores… tudo culpa dos
+Bullfango! Mamãe me mandou
+pras Cumes Nebulosas pegar
+cogumelos, e de repente fui
+perseguido por aquelas feras!
+Meu traseiro exige vingança!

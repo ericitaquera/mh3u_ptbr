@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=Heaven and Earth
+TITLES_1=La terre et les cieux
+TITLES_2=Himmel und Erde
+TITLES_3=Doppio impegno
+TITLES_4=Céu e terra
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Pink Rathian
+and an Azure Rathalos
+OBJECTIVES_1=Chasser une Rathian rose
+et un Rathalos azur
+OBJECTIVES_2=Erjage 1 Rosa Rathian
+und 1 Azurnen Rathalos.
+OBJECTIVES_3=Caccia una Rathian rosa e
+un Rathalos azzurro
+OBJECTIVES_4=Caçar uma Rathian rosa
+e um Rathalos celeste
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Head of Island Guard
+CLIENTS_1=Garde de l'île en chef
+CLIENTS_2=Insel-Chefwächter
+CLIENTS_3=Capoguardia dell'isola
+CLIENTS_4=Chefe da guarda insular
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Veteran hunters know that
+tracking a Rathalos AND a
+Rathian isn't just a job --
+it's an adventure. And during
+mating season, it's suicide!
+The slightest slip could kill.
+Are you up to the challenge?
+DESCRIPTIONS_1=Les vétérans savent que
+traquer une Rathian ET un
+Rathalos, ce n'est pas un job,
+mais une aventure et pendant
+la saison des amours, du
+suicide ! La moindre erreur
+est fatale. Intéressé ?
+DESCRIPTIONS_2=Erfahrene Jäger wissen, dass
+das Aufspüren eines Rathalos
+UND einer Rathian nicht nur
+ein Job ist, sondern ein
+Abenteuer. Selbstmord in der
+Paarungszeit! Ein Ausrutscher
+wäre tödlich. Schaffst du das?
+DESCRIPTIONS_3=Ogni esperto sa che una battuta di
+caccia per Rathalos e Rathian non
+è solo un lavoro, ma un'avventura.
+Nella stagione degli amori, poi, si
+rischia la pelle al minimo errore.
+Ti senti all'altezza?
+DESCRIPTIONS_4=Caçadores veteranos sabem
+que caçar um Rathalos e uma
+Rathian não é só trabalho —
+é uma aventura. E na época de
+acasalamento… é um suicídio.
+O menor descuido pode ser
+fatal. Você aceita o desafio?

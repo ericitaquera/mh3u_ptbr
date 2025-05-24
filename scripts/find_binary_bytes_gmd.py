@@ -65,7 +65,7 @@ def main():
     search_bytes = get_search_bytes(search_string)
     print(search_bytes)
     #search_bytes=b'S\x47\x72\x61\x6E\x6A\x61\x00'
-    search_bytes=b'\xEF\xBB\xBF'
+    search_bytes=b'\x40\x0C\x6E'
     print(search_bytes)
     #input()
     print(f"🔍 Searching for UTF-8 bytes: {search_bytes.hex(' ').upper()}")

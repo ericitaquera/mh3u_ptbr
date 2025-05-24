@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Hungry Eyes
+TITLES_1=Les yeux voraces
+TITLES_2=Hungrige Augen
+TITLES_3=Occhi di fuoco
+TITLES_4=Olhos famintos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Nargacuga
+OBJECTIVES_1=Chasser un Nargacuga
+OBJECTIVES_2=Erjage einen Nargacuga.
+OBJECTIVES_3=Caccia un Nargacuga
+OBJECTIVES_4=Caçar um Nargacuga
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Battered Fisherman
+CLIENTS_1=Pêcheur meurtri
+CLIENTS_2=Verletzter Fischer
+CLIENTS_3=Pescatore acciaccato
+CLIENTS_4=Pescador machucado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Night fishing is pure bliss,
+I tell ya. It's cool. It's quiet.
+You can see the stars reflected in
+the water. Last time I saw two red
+shooting stars streak overhead.
+Next thing I know, I'm bruised and
+battered. Where'd my bliss go?
+DESCRIPTIONS_1=J'adore pêcher la nuit. Il
+fait frais, tout est calme.
+Les étoiles se reflètent dans
+l'eau. La dernière fois, j'ai vu
+deux étoiles rouges, et tout à
+coup, je me suis retrouvé
+couvert de bleus.
+DESCRIPTIONS_2=Nachtfischen ist das reinste
+Vergnügen. Diese Ruhe. Die
+Sterne spiegeln sich im
+Wasser. Beim letzten Mal sah
+ich zwei rote Sternschnuppen.
+Dann weiß ich nur noch, dass
+ich verletzt am Boden lag...
+DESCRIPTIONS_3=Pescare di notte è pura beatitudine.
+L'aria è fresca. Tutto tace. Le stelle
+luccicano sull'acqua. L'ultima volta
+due stelle cadenti rosse sono
+passate sopra la mia testa. Poi...
+quando ho ripreso i sensi, ero a
+pezzi! Dov'è finita la beatitudine?
+DESCRIPTIONS_4=Pescar à noite é uma delícia, de
+verdade. Relaxante. Tranquilo.
+Você vê o reflexo das estrelas
+na água. Recentemente, duas
+estrelas cadentes vermelhas
+passaram bem na minha frente.
+Acabei ferido. Uma delícia?

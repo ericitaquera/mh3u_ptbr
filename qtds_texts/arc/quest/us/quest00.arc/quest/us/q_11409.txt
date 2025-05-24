@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Four Horns
+TITLES_1=Quatre cornes
+TITLES_2=Vier Hörner
+TITLES_3=Quattro corna
+TITLES_4=Quatro chifres
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Diablos
+OBJECTIVES_1=Chasser 2 Diablos
+OBJECTIVES_2=Erjage 2 Diablos.
+OBJECTIVES_3=Caccia 2 Diablos
+OBJECTIVES_4=Caçar 2 Diablos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Spoiled Princess
+CLIENTS_1=Princesse gâtée
+CLIENTS_2=Verwöhnte Prinzessin
+CLIENTS_3=Principessa viziata
+CLIENTS_4=Princesa mimada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=*Sigh* Can NOTHING save me
+from the depths of my boredom?
+I know! I want two of those
+dual-horned monsters taken at
+the same time! Daddy says I
+can have whatever I want, so
+hop to it! Chop-chop!
+DESCRIPTIONS_1=*Soupir* Il n'y a RIEN pour me
+sauver de l'ennui ? Je sais !
+Je veux deux de ces monstres à
+cornes pris en même temps !
+Papa dit que je peux avoir ce
+que je veux, alors allez-y !
+Et que ça saute !
+DESCRIPTIONS_2=*seufz* Kann NICHTS mich vor
+den Tiefen meiner Langeweile
+retten? Doch! Ich will, dass
+zwei doppelhörnige Monster
+gleichzeitig gefangen werden!
+Ich darf mir alles wünschen,
+also, los geht's! Hopp, hopp!
+DESCRIPTIONS_3=*Sigh* Come posso sfuggire a
+questa noia? Ho trovato!
+Sai quei mostri con due corna?
+Voglio che me ne porti due
+contemporaneamente. Papà dice
+che posso avere tutto ciò che
+voglio, perciò via, in marcia!
+DESCRIPTIONS_4=*Suspiro*… Que tédio! Quero
+ver você derrotar dois
+monstros ao mesmo tempo!
+Papai disse que posso
+ter tudo que eu quiser!
+Então vai lá — me diverte!
+Estou esperando!

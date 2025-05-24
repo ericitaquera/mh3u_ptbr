@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=The Brilliant Darkness
+TITLES_1=Brillantes ténèbres
+TITLES_2=Strahlende Dunkelheit
+TITLES_3=Luce nell'oscurità
+TITLES_4=A escuridão brilhante
+[OBJECTIVES]
+OBJECTIVES_0=Slay an Alatreon
+OBJECTIVES_1=Tuer un Alatreon
+OBJECTIVES_2=Erlege einen Alatreon.
+OBJECTIVES_3=Uccidi un Alatreon
+OBJECTIVES_4=Mata um Alatreon
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Desert Mayor
+CLIENTS_1=Maire du désert
+CLIENTS_2=Wüsten-Bürgermeister
+CLIENTS_3=Sindaco del deserto
+CLIENTS_4=Prefeito do deserto
+[DESCRIPTIONS]
+DESCRIPTIONS_0="None can foresee disaster.
+It comes in darkness, leaving
+despair in its wake. Now comes
+such a time, when we as a race
+can only struggle or perish."
+Catchy, huh? My speechwriter
+wrote that. Anyway, save us!
+DESCRIPTIONS_1="Un désastre est imprévisible.
+Il vient des ténèbres, semant
+le désespoir sur son passage.
+Arrive le moment où une race
+ne peut que se battre ou
+périr." Accrocheur, non ? Ma
+plume l'a écrit. Sauvez-nous !
+DESCRIPTIONS_2="Keiner kann Unglück vorher-
+sehen. Es kommt im Dunkeln und
+hinterlässt Verzweiflung. In
+dieser Zeit kann unsere Rasse
+sich behaupten oder unter-
+gehen." Gut, oder? Von meinem
+Redenschreiber! Rette uns!
+DESCRIPTIONS_3="Un disastro non si prevede. Sbuca
+all'improvviso e non resta che
+lottare o perire!". Bello, eh? L'ha
+scritto il mio autore di discorsi, ma
+il succo è semplice: salvaci!
+DESCRIPTIONS_4=“Ninguém prevê o desastre. Ele
+chega à noite e amanhece com
+o gosto da desesperança. Chegou
+a hora de lutar ou morrer.”
+Bonito, né? Me escreveram isso!
+Enfim… salva a gente, vai!

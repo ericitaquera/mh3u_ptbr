@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Moving Mountain
+TITLES_1=Montagne mouvante
+TITLES_2=Berg in Bewegung
+TITLES_3=La montagna vivente
+TITLES_4=A montanha móvel
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Duramboros
+OBJECTIVES_1=Chasser un Duramboros
+OBJECTIVES_2=Erjage einen Duramboros.
+OBJECTIVES_3=Caccia un Duramboros
+OBJECTIVES_4=Caçar um Duramboros
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Old Landscape Artist
+CLIENTS_1=Vieux peintre
+CLIENTS_2=Alter Landschaftsmaler
+CLIENTS_3=Pittore di paesaggi
+CLIENTS_4=Paisagista ancião
+[DESCRIPTIONS]
+DESCRIPTIONS_0=That little moss-covered hill
+at the Misty Peaks was just
+begging to be painted. But the
+second I pulled out my easel and
+brush, it was gone! How can I be a
+landscape artist if the landscape
+won't cooperate?
+DESCRIPTIONS_1=Il fallait absolument que je
+peigne cette petite colline
+dans les Pics brumeux. Mais
+le temps d'installer mon
+chevalet, elle avait disparu...
+Comment peindre des paysages
+s'ils ne coopèrent pas ?
+DESCRIPTIONS_2=Dieser kleine, moosbewachsene
+Hügel der Nebelgipfel schrie
+nach einem Bild. Als ich meine
+Staffelei aufgestellt hatte,
+war er verschwunden! Wie soll
+ich Landschaften malen, wenn
+die Landschaft nicht mitmacht?
+DESCRIPTIONS_3=Quella collina ricoperta di muschio
+sulle Cime nebbiose implorava di
+essere dipinta ma, nel momento
+in cui ho estratto il cavalletto, era
+sparita! Come faccio a essere
+un artista dei paesaggi se
+il paesaggio non coopera?
+DESCRIPTIONS_4=Aquela colina verde das Cumes
+Nebulosas gritava pra ser
+pintada! Peguei o pincel e
+a tela, e... ela simplesmente
+sumiu! Como é que eu vou ser
+paisagista se até o paisagem
+foge de mim? Isso não é justo!

@@ -175,7 +175,7 @@ do que conseguimos consertar! A comida
 --- BLOCK ---
 Acho que é seu trabalho
 lidar com essa matilha. Já
-fiz a solicitação ao Gremio.
+fiz a solicitação à Guilda.
 --- BLOCK ---
 Ah, e não se preocupe. Você
 receberá uma boa recompensa. Já sei
@@ -187,7 +187,7 @@ Felyne também ficarão felizes com isso!
 --- BLOCK ---
 Você está aqui. Estou muito agradecido!
 --- BLOCK ---
-O Gremio me informou que você
+A Guilda me informou que você
 cuidou da matilha de Jaggi.
 --- BLOCK ---
 Está tudo bem que façam tudo

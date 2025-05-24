@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Volcanic Activity
+TITLES_1=Activité volcanique
+TITLES_2=Vulkanische Aktivitäten
+TITLES_3=Attività vulcanica
+TITLES_4=Actividad volcánica
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Rathalos and
+a Steel Uragaan
+OBJECTIVES_1=Chasser un Rathalos et un
+Uragaan d'acier
+OBJECTIVES_2=Erjage einen Rathalos und
+einen Stahl-Uragaan.
+OBJECTIVES_3=Caccia un Rathalos e
+un Uragaan d'acciaio
+OBJECTIVES_4=Caçar um Rathalos e
+um Uragaan de aço
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Eagle-eyed Observer
+CLIENTS_1=Observateur attentif
+CLIENTS_2=Scharfer Beobachter
+CLIENTS_3=Osservatore attento
+CLIENTS_4=Observador perspicaz
+[DESCRIPTIONS]
+DESCRIPTIONS_0=[REPORT BEGINS] A Rathalos and a
+Steel Uragaan have been spotted in
+the Volcano. [STOP] Requesting
+immediate support from all qualified
+hunters. [STOP] We'll sit this one
+out in the observation post,
+sipping Cool Drinks. [REPORT ENDS]
+DESCRIPTIONS_1=[DÉBUT DU RAPPORT] Un Rathalos
+et un Uragaan d'acier ont été
+vus dans le volcan. [STOP] Appel
+à tous les chasseurs qualifiés.
+[STOP] On sera au poste d'ob-
+servation avec des breuvages
+frais. [FIN DU RAPPORT]
+DESCRIPTIONS_2=[BERICHT ANFANG] Rathalos und
+Stahl-Uragaan im Vulkan
+gesichtet. [STOPP] Sofortige
+Unterstützung von fähigen
+Jägern erbeten. [STOPP] Sitzen
+die Sache bei kühlen Drinks
+im Posten aus. [BERICHT ENDE]
+DESCRIPTIONS_3=[INIZIO RAPPORTO] Un Rathalos
+e un Uragaan d'acciaio nel vulcano.
+[STOP] Richiesto supporto
+immediato di cacciatori qualificati.
+[STOP] Questa volta ce ne staremo
+nell'osservatorio a sorseggiare
+bevande fresche. [FINE RAPPORTO]
+DESCRIPTIONS_4=[INÍCIO DO RELATÓRIO] Rathalos
+e Uragaan de aço foram avistados
+no Vulcão. [STOP] Pedimos a
+ajuda imediata de todos os
+caçadores qualificados. [STOP]
+Todos aqui estarão bebendo
+no posto. [FIM DO RELATÓRIO]

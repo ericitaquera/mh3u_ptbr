@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Desert Desertion
+TITLES_1=Désertion désertique
+TITLES_2=Wüsten-Einsamkeit
+TITLES_3=Perso nel deserto
+TITLES_4=Deserção desértica
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Sand Barioth
+and a Diablos
+OBJECTIVES_1=Chasser un Barioth des
+sables et un Diablos
+OBJECTIVES_2=Erjage einen Sand-Barioth
+und einen Diablos.
+OBJECTIVES_3=Caccia un Barioth delle sabbie
+e un Diablos
+OBJECTIVES_4=Caçar um Barioth arenoso
+e um Diablos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Wandering Trader's Son
+CLIENTS_1=Fils du marchand itin.
+CLIENTS_2=Sohn des Händlers
+CLIENTS_3=Figlio mercante girov.
+CLIENTS_4=Filho vendedor ambul.
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I'm worried sick about my old man.
+He went to the Sandy Plains to
+rustle up some supplies, but he's
+been gone an awful long time.
+That ain't like him! Now I'm hearin'
+rumors about monsters roamin' the
+region. Mind checking up on him?  
+DESCRIPTIONS_1=Je suis inquiet pour mon père.
+Il est allé chercher des
+fournitures dans les plaines
+de sable, mais il devrait être
+rentré ! J'ai entendu parler
+de monstres qui rôdent là-bas.
+Vous pouvez aller voir ?
+DESCRIPTIONS_2=Ich mache mir große Sorgen
+um meinen Vater. Er wollte
+in der Sandebene Vorräte
+sammeln. Aber so lange wegzu-
+bleiben ist nicht seine Art!
+Es soll dort Monster geben.
+Könntest du nach ihm sehen?
+DESCRIPTIONS_3=Sono in ansia per il mio vecchio.
+È andato alle Piane sabbiose per
+procurarsi un po' di provviste e non
+è ancora tornato. Non è da lui!
+Mi è giunta voce di alcuni mostri
+che si aggirano nella regione.
+Potresti andare in suo aiuto?
+DESCRIPTIONS_4=Meu pai me preocupa. Ele
+foi buscar provisões nas
+Planícies arenosas, mas está
+fora há muito tempo. Isso
+não é normal! E agora surgem
+rumores de monstros na área.
+Você pode ir procurá-lo?

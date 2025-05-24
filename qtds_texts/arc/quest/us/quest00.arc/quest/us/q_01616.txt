@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Toxic Troublemaker
+TITLES_1=Rififi toxique
+TITLES_2=Giftiger Störenfried
+TITLES_3=Un piantagrane tossico
+TITLES_4=Agitador tóxico
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Great Wroggi
+OBJECTIVES_1=Chasser un Grand Wroggi
+OBJECTIVES_2=Erjage einen Großwroggi.
+OBJECTIVES_3=Caccia un Gran Wroggi
+OBJECTIVES_4=Caçar um Wroggi
+magnificente
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Brash Explorer
+CLIENTS_1=Explorateur effronté
+CLIENTS_2=Kecker Forscher
+CLIENTS_3=Esploratore insolente
+CLIENTS_4=Explorador insolente
+[DESCRIPTIONS]
+DESCRIPTIONS_0=No sooner had I stepped through
+the foliage than I spied the
+creature, standing in a sea of
+orange beasts. Sure, I could've
+handled it easily enough, but
+why hog all the fun? Have at
+it, hunter! 
+DESCRIPTIONS_1=Je venais d'entrer dans la
+forêt quand j'ai vu la bête
+entourée d'une horde de
+créatures orange. J'aurais
+pu m'en occuper, mais je
+n'allais pas garder ça pour
+moi. Profitez-en !
+DESCRIPTIONS_2=Kaum war ich aus dem Blätter-
+wald getreten, als ich das
+Wesen inmitten von orange-
+farbenen Bestien sah. Ich
+hätte es zwar leicht selbst
+erledigen können, aber andere
+wollen auch Spaß. Los, Jäger!
+DESCRIPTIONS_3=Avanzavo tra il fogliame quando
+ho visto la creatura, circondata
+da una marea di belve arancioni.
+Avrei potuto occuparmene con
+una certa facilità, ma perché
+prendermi tutto il divertimento?
+Provaci tu, cacciatore!
+DESCRIPTIONS_4=Mal abri caminho na mata
+e avistei a criatura no
+meio de um mar de feras
+laranjas. Eu mesmo teria
+caçado, mas… pra quê roubar a
+diversão? É com você, caçador!

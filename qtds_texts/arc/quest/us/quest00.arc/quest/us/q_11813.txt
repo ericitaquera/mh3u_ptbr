@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Mountain Massacre
+TITLES_1=Massacre en montagne
+TITLES_2=Gebirgs-Gemetzel
+TITLES_3=Massacro montano
+TITLES_4=Massacre nas montanhas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Frightened Valley Guard
+CLIENTS_1=Garde vallée effrayé
+CLIENTS_2=Ängstlicher Talwächter
+CLIENTS_3=Guardia terrorizzata
+CLIENTS_4=Guard. assustado do vale
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Bad news! A Nargacuga, a Rathian,
+and a Zinogre are converging at
+the Misty Peaks! The situation's
+at a simmer now, but it can boil
+over any second. Somebody,
+please help us before it's too late!
+DESCRIPTIONS_1=Un Nargacuga, une Rathian et
+un Zinogre se dirigent vers les
+Pics brumeux ! La situation
+peut dégénérer à tout moment.
+Aidez-nous avant qu'il ne soit
+trop tard !
+DESCRIPTIONS_2=Schlechte Nachrichten! Ein
+Nargacuga, eine Rathian und
+ein Zinogre versammeln sich
+am Nebelgipfel! Die Lage kann
+jederzeit außer Kontrolle
+geraten. Jemand muss uns
+helfen, bevor es zu spät ist!
+DESCRIPTIONS_3=Cattive notizie! Un Nargacuga,
+una Rathian e uno Zinogre si
+dirigono verso le Cime nebbiose.
+La situazione potrebbe
+precipitare da un momento
+all'altro. Qualcuno intervenga
+prima che sia troppo tardi!
+DESCRIPTIONS_4=Péssimas notícias! Uma
+Rathian, um Nargacuga e um
+Zinogre nos Cumes nebulosos!
+A situação está controlada,
+mas pode se complicar.
+Alguém nos ajude antes
+que seja tarde demais!

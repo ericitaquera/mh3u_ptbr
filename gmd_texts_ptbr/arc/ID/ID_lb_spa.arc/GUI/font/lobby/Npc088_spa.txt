@@ -167,7 +167,7 @@ público em suspense... inclusive eu!
 --- BLOCK ---
 Continue com o teatro. No final,
 precisamos encher as arquibancadas. É
-assim que o Gremio sobrevive!
+assim que a Guilda sobrevive!
 --- BLOCK ---
 Ótimo! Agora você precisa tentar
 o melhor tempo. Sabe
@@ -220,7 +220,7 @@ Ah, e também registraremos seus tempos
 nas Classificações. Será um prazer mostrar
 a você quando conversar comigo.
 --- BLOCK ---
-Pegue cartões do Gremio de caçadores
+Pegue cartões da Guilda de caçadores
 para que eles também apareçam. Talvez
 encontre um rival à sua altura!
 --- BLOCK ---
@@ -240,7 +240,7 @@ Na verdade são boas notícias: Você
 foi autorizado a caçar monstros mais
 poderosos nas missões da Arena.
 --- BLOCK ---
-Parece que o Gremio viu
+Parece que a Guilda viu
 algo em você, não é?
 --- BLOCK ---
 Acho que devo me desculpar.
@@ -258,7 +258,7 @@ Seja bem-vindo ao balcão da
 Arena. Ah, é você! O
 caçador que eu estava esperando.
 --- BLOCK ---
-Você é o assunto do Gremio nos
+Você é o assunto da Guilda nos
 dias de hoje. Todo mundo ouviu falar
 de suas façanhas únicas, e querem mais!
 --- BLOCK ---

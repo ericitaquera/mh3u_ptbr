@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Harvest Tour: Flooded Forest
+TITLES_1=Visite : Forêt inondée
+TITLES_2=Erntetour: Flutwald
+TITLES_3=Tour: Foresta inondata
+TITLES_4=Tour: Floresta inundada
+[OBJECTIVES]
+OBJECTIVES_0=Survive until time expires or
+deliver a Paw Pass Ticket
+OBJECTIVES_1=Survivre jusqu'à la fin ou
+livrer un ticket Passechat
+OBJECTIVES_2=Überlebe bis Zeitende oder
+gib einen Tatzenpass ab.
+OBJECTIVES_3=Sopravvivi fino allo scadere o
+consegna un Buono Pass-zampa
+OBJECTIVES_4=Sobreviva até o final
+ou entregue um Ticket garra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0.
+FAIL_CONDITIONS_1=Prime atteint 0.
+FAIL_CONDITIONS_2=Belohnung auf 0.
+FAIL_CONDITIONS_3=Premio a 0.
+FAIL_CONDITIONS_4=Recompensa cai a 0.
+[CLIENTS]
+CLIENTS_0=Felyne Tour Guide
+CLIENTS_1=Guide Felyne
+CLIENTS_2=Felyne-Reiseführer
+CLIENTS_3=Guida Felyne
+CLIENTS_4=Guia do Tour Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Everyone here, nya? Welcome
+to the Flooded Forest Harvest
+Tour -- a purrfect adventure
+through the trees! You'll
+receive a Paw Pass Ticket
+in two minutes for safe,
+easy passage home.
+DESCRIPTIONS_1=Tout le monde est là, nya ?
+Bienvenue à la visite de la
+forêt inondée. Une aventure
+parfaite dans les arbres !
+Dans 2 minutes, vous
+recevrez un ticket Passechat
+pour un retour sécurisé.
+DESCRIPTIONS_2=Sind alle da, miau? Willkommen
+zur Flutwald-Erntetour,
+dem perfekten Abenteuer
+zwischen den Bäumen!
+In zwei Minuten kann
+jeder einen Tatzenpass zur
+sicheren Heimreise abholen.
+DESCRIPTIONS_3=Ci siamo tutti, nya? Benvenuti
+al tour della Foresta inondata,
+una fantastica avventura in
+mezzo agli alberi! Tra due
+minuti riceverete un Buono
+Pass-zampa per un ritorno
+sicuro a casa.
+DESCRIPTIONS_4=Todos aqui, miau? Este
+é o Tour pela Floresta
+Alagada, uma aventura entre as
+árvores! Em dois minutinhos,
+vocês vão ganhar um Ticket
+Garra, perfeito pra viajar de
+volta pra casa com conforto!

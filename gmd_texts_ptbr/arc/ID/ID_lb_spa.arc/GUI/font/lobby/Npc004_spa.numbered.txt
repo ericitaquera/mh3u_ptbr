@@ -1,4 +1,4 @@
-﻿﻿TMSG_NPC004_0
+﻿TMSG_NPC004_0
 --- BLOCK [001] ---
 TMSG_NPC004_1
 --- BLOCK [002] ---
@@ -1505,3 +1505,5 @@ eu vou pegar.
 --- BLOCK [416] ---
 Legal, vamos ver como está esse bosque.
 --- BLOCK [417] ---
+
+

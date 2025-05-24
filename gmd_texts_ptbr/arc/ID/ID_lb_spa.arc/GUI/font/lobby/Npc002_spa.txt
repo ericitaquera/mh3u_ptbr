@@ -1,4 +1,4 @@
-﻿TMSG_NPC002_0
+TMSG_NPC002_0
 --- BLOCK ---
 TMSG_NPC002_1
 --- BLOCK ---
@@ -2266,3 +2266,5 @@ Vá fazer algo produtivo.
 --- BLOCK ---
 (!)
 --- BLOCK ---
+
+

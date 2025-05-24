@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Ode to Barroth
+TITLES_1=Ode au Barroth
+TITLES_2=Ode an den Barroth
+TITLES_3=Ode al Barroth
+TITLES_4=Ode ao Barroth
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barroth and
+a Jade Barroth
+OBJECTIVES_1=Chasser un Barroth et un
+et un Barroth de jade
+OBJECTIVES_2=Erjage einen Barroth
+und einen Jade-Barroth.
+OBJECTIVES_3=Caccia un Barroth e
+un Barroth di giada
+OBJECTIVES_4=Caçar um Barroth e
+um Barroth esmeralda
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Solitary Composer
+CLIENTS_1=Compositeur solitaire
+CLIENTS_2=Einsamer Komponist
+CLIENTS_3=Compositore solitario
+CLIENTS_4=Compositor solitário
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The ear-splitting crack of butting
+heads! The rumbling echo as ice
+and earth collide! Such discord
+creates a harmony, which I simply
+must recreate in my latest
+composition. Help inspire my
+pièce de résistance!
+DESCRIPTIONS_1=Le craquement des têtes
+qui s'entrechoquent !
+Le grondement de la glace qui
+percute la terre ! La discorde
+crée une harmonie que je dois
+retranscrire ! Aidez-moi à
+créer mon chef-d'œuvre !
+DESCRIPTIONS_2=Der ohrenbetäubende Lärm von
+krachenden Schädeln! Das don-
+nernde Echo, wenn Eis und Erde
+kollidieren! Missklang wird
+zur Harmonie, gut geeignet für
+meine Kompositionen. Hilf mir
+bei meinem Meisterwerk!
+DESCRIPTIONS_3=L'assordante rumore delle crepe che
+rompono i ghiacciai. L'eco roboante
+di iceberg che collidono. I suoni
+della tundra agitano la mia anima.
+Devo riprodurli nella mia musica!
+Mi scorteresti in una spedizione
+nelle terre ghiacciate?
+DESCRIPTIONS_4=O estalo das cabeçadas!
+O estrondo de gelo e terra
+colidindo! Tal discórdia
+cria uma harmonia que
+preciso capturar em minha
+última composição. Ajude-me
+a conseguir a inspiração!

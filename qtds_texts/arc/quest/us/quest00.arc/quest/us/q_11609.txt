@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Sweltering Showdown
+TITLES_1=Affrontement brûlant
+TITLES_2=Hitziger Showdown
+TITLES_3=Resa dei conti
+TITLES_4=Confronto sufocante
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Spoiled Princess
+CLIENTS_1=Princesse gâtée
+CLIENTS_2=Verwöhnte Prinzessin
+CLIENTS_3=Principessa viziata
+CLIENTS_4=Princesa mimada
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Could the Sandy Plains be any
+more... plain? There's nothing but
+sand, sand, and more sand, and the
+weather's either sweltering or icy
+cold. *Sigh* Maybe I'll watch a
+hunter take on some monsters.
+Entertain me, you peons!
+DESCRIPTIONS_1=Les plaines de sable sont
+ennuyeuses... Il n'y a que du
+sable et l'air est soit brûlant,
+soit glacé. *Soupir* Je vais
+peut-être regarder des
+chasseurs chasser des
+monstres. Amusez-moi !
+DESCRIPTIONS_2=Die Sandebene ist ziemlich...
+eben. Nichts als Sand, Sand
+und noch mehr Sand. Das Wetter
+ist entweder kochend heiß oder
+eiskalt. *seufz* Eine Monster-
+hatz wäre jetzt schön. Unter-
+haltet mich, ihr Nichtsnutze!
+DESCRIPTIONS_3=Le Piane sabbiose sono noiose!
+C'è solo sabbia, sabbia e ancora
+sabbia, e il tempo è sempre torrido
+o incredibilmente freddo. *Sigh*
+Forse potrei assistere a uno scontro
+tra un cacciatore e dei mostri.
+Intrattenetemi, buzzurri!
+DESCRIPTIONS_4=As planícies arenosas não
+podem ser mais... tediosas. Só
+tem areia, areia e mais areia,
+e o clima é ou sufocante,
+ou gelado. *Suspiro* Quem sabe
+vejo um caçador capturando
+monstros. Divirtam-me!

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Denizen of the Molten Deep
+TITLES_1=Profondeurs en fusion
+TITLES_2=Bewohner der Schmelztiefe
+TITLES_3=Abitatori delle profondità
+TITLES_4=Morador da lava
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Agnaktor
+OBJECTIVES_1=Chasser un Agnaktor
+OBJECTIVES_2=Erjage einen Agnaktor.
+OBJECTIVES_3=Caccia un Agnaktor
+OBJECTIVES_4=Caçar um Agnaktor
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cai a 0
+ou acaba o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Chieftain
+CLIENTS_1=Chef des terres de feu
+CLIENTS_2=Feuerland-Stammesfürst
+CLIENTS_3=Capo terre infuocate
+CLIENTS_4=Cacique do país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The molten heart of the volcano
+beats with a fell beast.
+A once-rare wyvern stirs in the
+lava. Half of my countrymen
+have perished; the rest live
+in fear... Please, release my
+people from this terror!
+DESCRIPTIONS_1=Le cœur fondu du volcan bat au
+rythme d'une bête cruelle. Un
+Wyvern autrefois rare remue
+dans la lave. La moitié de mes
+habitants ont péri, les autres
+ont peur... Libérez mon peuple
+de cette terreur !
+DESCRIPTIONS_2=Das geschmolzene Herz des
+Vulkans schlägt in einer
+tödlichen Bestie. Ein seltener
+Wyvern rührt die Lava. Die
+Hälfte meiner Landsleute ist
+tot, die Übrigen haben Angst.
+Erlöse sie von diesem Terror!
+DESCRIPTIONS_3=Nelle profondità del vulcano batte
+il cuore di una belva feroce.
+Il wyvern, creatura una volta rara,
+si muove nella lava. Metà dei miei
+conterranei sono già morti. Gli altri
+vivono nel terrore. Ti prego, ridona
+la pace a questa gente!
+DESCRIPTIONS_4=O coração fundido do vulcão
+pulsa com uma fera cruel.
+Um wyvern raro se agita
+na lava… Metade do vilarejo
+morreu. Os outros vivem com
+medo. Por favor… liberte
+meu povo desse terror!

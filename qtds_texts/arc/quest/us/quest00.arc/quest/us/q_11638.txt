@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=[Advanced] Troubling Tremors
+TITLES_1=[Avancé] Secousses gênantes
+TITLES_2=[Fortg.] Beunruhigende Beben
+TITLES_3=[Avanzata] Boato assordante
+TITLES_4=[Avançada] Tremor alarmante
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 3 Duramboros
+in succession
+OBJECTIVES_1=Chasser 3 Duramboros à la
+suite
+OBJECTIVES_2=Erjage 3 Duramboros
+in Folge.
+OBJECTIVES_3=Caccia 3 Duramboros
+di seguito
+OBJECTIVES_4=Caçar 3 Duramboros
+seguidos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Environmental Specialist
+CLIENTS_1=Spécialiste environn.
+CLIENTS_2=Umwelt-Experte
+CLIENTS_3=Specialista ambientale
+CLIENTS_4=Técnico meio-ambiental
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I was trying to map out the Misty
+Peaks habitat, but I kept getting
+distracted by this incredible
+rumbling. It would take some
+large monsters to produce those
+sounds. I can't work under
+these conditions!
+DESCRIPTIONS_1=J'essayais de cartographier
+les Pics brumeux, mais un
+grondement incroyable m'a
+dérangé. Seuls de gros monstres
+peuvent faire un tel bruit. Je
+ne peux pas travailler dans ces
+conditions !
+DESCRIPTIONS_2=Ich wollte eine Karte des
+Nebelgipfel-Habitats
+erstellen, aber ich wurde
+immer von diesem Grollen
+abgelenkt. Das müssen einige
+riesige Monster gewesen sein.
+So kann ich nicht arbeiten!
+DESCRIPTIONS_3=Volevo catalogare l'intero habitat
+delle Cime nebbiose, ma è
+arduo concentrarsi con quel
+frastuono. Solo mostri enormi
+sono in grado di emettere suoni
+simili. Non si può lavorare
+in queste condizioni!
+DESCRIPTIONS_4=Eu estava tentando estudar o
+habitat dos Cumes nebulosos,
+mas aquele estrondo só
+fazia me distrair. Apenas
+alguns monstros enormes
+produziriam esses sons.
+Assim não dá para trabalhar!

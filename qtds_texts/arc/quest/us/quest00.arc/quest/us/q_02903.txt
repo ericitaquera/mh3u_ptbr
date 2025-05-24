@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Into the Fire
+TITLES_1=Au feu
+TITLES_2=Ins Feuer
+TITLES_3=Nella brace
+TITLES_4=Na fogueira
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Deviljho
+OBJECTIVES_1=Chasser un Deviljho
+OBJECTIVES_2=Erjage einen Dämonjho.
+OBJECTIVES_3=Caccia un Deviljho
+OBJECTIVES_4=Caçar um Deviljho
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Fire Country Chieftain
+CLIENTS_1=Chef des terres de feu
+CLIENTS_2=Feuerland-Stammesfürst
+CLIENTS_3=Capo terre infuocate
+CLIENTS_4=Cacique do país do fogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=My country is a crucible of
+danger. Yet no threat tempers
+a hunter like a Deviljho on the
+rampage. There are but few who
+could stand the heat of such
+a challenge. I must have faith
+that you will prevail.
+DESCRIPTIONS_1=Mon pays est un puits de
+dangers. Aucune menace ne
+freine plus un chasseur qu'un
+Deviljho déchaîné. Rares
+sont ceux qui peuvent relever
+un tel défi. Je veux croire que
+vous réussirez.
+DESCRIPTIONS_2=Mein Land ist ein Gefahren-
+kessel. Keine Bedrohung härtet
+einen Jäger so ab wie ein
+tobender Dämonjho. Nur wenige
+halten der Hitze so einer He-
+rausforderung stand. Ich muss
+darauf bauen, dass du siegst.
+DESCRIPTIONS_3=Le mie terre sono un crogiolo di
+pericoli. Eppure nessuna minaccia
+preoccupa un cacciatore più di
+un Deviljho infuriato. Solo in pochi
+sono disposti ad affrontare
+una sfida simile. Non ho dubbi
+che tu ne uscirai vincitore.
+DESCRIPTIONS_4=Meu país é uma fonte constante
+de perigos. Mas nada fortalece
+um caçador como um Deviljho
+enfurecido. Poucos aguentam
+a intensidade de um desafio
+desses. Só me resta ter fé
+de que você sairá vitorioso.

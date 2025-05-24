@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=[Advanced] Forest Fracas
+TITLES_1=[Avancé] Charivari en forêt
+TITLES_2=[Fortg.] Wald-Wut
+TITLES_3=[Avanzata] Rissa in foresta
+TITLES_4=[Avançada] Briga na Floresta
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young General
+CLIENTS_1=Jeune général
+CLIENTS_2=Junger General
+CLIENTS_3=Giovane generale
+CLIENTS_4=Jovem General
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This battle in the Flooded Forest
+is gonna be a real quagmire, but
+it ain't my style to turn tail and
+run. We need your help, Guild
+Hunter. Come fight with us!
+DESCRIPTIONS_1=Ce combat dans la forêt
+inondée s'annonce difficile,
+mais je ne suis pas du genre à
+fuir. Nous aurons besoin de
+votre aide. Battez-vous à nos
+côtés !
+DESCRIPTIONS_2=Dieser Kampf in den Nebel-
+gipfeln wird die reinste
+Schlammschlacht! Aber ich bin
+kein Feigling. Wir brauchen
+deine Hilfe, Gildenjäger.
+Komm, kämpfe mit uns!
+DESCRIPTIONS_3=La battaglia nella Foresta inondata
+è un vero inferno, ma scappare non
+è certo il mio stile. Cacciatore
+della Gilda, abbiamo bisogno
+del tuo aiuto. Combatti
+al nostro fianco!
+DESCRIPTIONS_4=A batalha na Floresta
+Inundada vai ser coisa
+séria, mas não é meu estilo
+sair fugindo. Precisamos
+de você, caçador do
+Grêmio. Lute ao nosso lado!

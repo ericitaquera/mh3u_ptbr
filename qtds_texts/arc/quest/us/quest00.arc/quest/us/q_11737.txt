@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Advanced] Blue, Blue Skies
+TITLES_1=[Avancé] Ciel bleu
+TITLES_2=[Fortg.] Himmelblaues Blau
+TITLES_3=[Avanzata] Cieli azzurri
+TITLES_4=[Avançada] Azul como o céu
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Azure Rathalos
+OBJECTIVES_1=Chasser 2 Rathalos azur
+OBJECTIVES_2=Erjage 2 Azurne Rathalos.
+OBJECTIVES_3=Caccia 2 Rathalos azzurri
+OBJECTIVES_4=Caçar 2 Rathalos celestes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Pro Goldenfish Fisher
+CLIENTS_1=Pêcheur de Poissondor
+CLIENTS_2=Profi-Goldenfischer
+CLIENTS_3=Pesc. di pesce dorato
+CLIENTS_4=Pescador de Peixe dourado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I was walkin' through the woods to
+to my fishin' hole the other day
+when I spotted two Azure Rathalos.
+A turf war can't be far behind!
+Folks around here might get caught
+in the crossfire, so stop those
+beasts 'fore they wreck the woods!
+DESCRIPTIONS_1=Je traversais les bois pour
+aller pêcher quand j'ai vu
+deux Rathalos azur. Ils vont
+sûrement se battre, au risque
+de blesser les gens d'ici !
+Arrêtez ces monstres avant
+qu'ils ne détruisent la forêt !
+DESCRIPTIONS_2=Auf dem Weg zu meiner
+Angelstelle habe ich in den
+Wäldern zwei Azurne Rathalos
+gesehen. Ein Revierkampf ist 
+unvermeidlich! Die Bewohner
+der Umgebung sind in Gefahr! 
+Du musst etwas unternehmen!
+DESCRIPTIONS_3=L'altro giorno camminavo nel bosco
+per andare a pesca e ho visto
+due Rathalos azzurri. La lotta per
+il territorio dev'essere prossima!
+La gente di qui potrebbe subirne
+le conseguenze. Fermali prima
+che devastino la foresta!
+DESCRIPTIONS_4=Estava andando pela floresta rumo
+ao meu local de pesca e vi dois
+Rathalos celestes. Uma guerra
+territorial está se aproximando!
+As pessoas podem acabar no meio
+do fogo cruzado. Detenha-os
+ou eles arrasarão a floresta.

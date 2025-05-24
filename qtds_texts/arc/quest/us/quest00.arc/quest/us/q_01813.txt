@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Troubled Waters
+TITLES_1=Eaux troubles
+TITLES_2=Wogende Wasser
+TITLES_3=Acque agitate
+TITLES_4=Aguas turbulentas
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Lagiacrus
+and a Plesioth
+OBJECTIVES_1=Chasser un Lagiacrus et un
+Plesioth
+OBJECTIVES_2=Erjage einen Lagiacrus
+und einen Plesioth.
+OBJECTIVES_3=Caccia un Lagiacrus
+e un Plesioth
+OBJECTIVES_4=Caçar um Lagiacrus
+e um Plesioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Young Fisherwoman
+CLIENTS_1=Jeune pêcheuse
+CLIENTS_2=Junge Fischerin
+CLIENTS_3=Giovane pescatrice
+CLIENTS_4=Jovem pescadora
+[DESCRIPTIONS]
+DESCRIPTIONS_0=As if that phony flyin' fish
+weren't bad enough, now it's
+partnered up with a Lagiacrus!
+Made the'selves at home in my
+fishin' ground, they did. Left us
+fisherfolk high and dry. Mind
+gettin' us out of this fix?
+DESCRIPTIONS_1=Ce poisson volant collabore
+avec un Lagiacrus ! Ils se sont
+installés dans ma zone de
+pêche. Nous autres pêcheurs
+sommes complètement à sec.
+Vous pouvez faire quelque
+chose pour nous ?
+DESCRIPTIONS_2=Der fliegende Fisch allein war
+schlimm genug, aber jetzt hat
+er sich mit einem Lagiacrus
+zusammengetan. Sie haben es
+sich in meinem Angelgebiet
+gemütlich gemacht. Würdest
+du dich darum kümmern?
+DESCRIPTIONS_3=Come se quel falso pesce volante
+non fosse già un bel problema,
+ora si è alleato con un Lagiacrus!
+Infestano le nostre acque,
+lasciando i pescatori a bocca
+asciutta. Ti dispiacerebbe
+darci una mano?
+DESCRIPTIONS_4=Como se aquele Peixe voador já não
+fosse ruim o bastante, agora se
+juntou com um Lagiacrus! Eles se
+instalaram na minha área de pesca
+e deixaram todos os pescadores
+encalhados. Você se importaria
+em tirar a gente dessa enrascada?

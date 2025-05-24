@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Desert Warfare
+TITLES_1=Guerre du désert
+TITLES_2=Wüstenkrieg
+TITLES_3=Guerra nel deserto
+TITLES_4=Guerra no deserto
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Monster News Network
+CLIENTS_1=Actualité des monstres
+CLIENTS_2=Monsternachrichten
+CLIENTS_3=Notiziario dei mostri
+CLIENTS_4=Notícias de monstuos
+[DESCRIPTIONS]
+DESCRIPTIONS_0=This just in: A Rathian has
+invaded a Barroth's territory.
+Expect the Sandy Plains to become
+a battleground within the next few
+days. The danger zone begins 25
+meters from the monsters.
+Beware of charges and flames! 
+DESCRIPTIONS_1=Scoop : une Rathian a envahi
+le territoire d'un Barroth. Les
+plaines de sable vont trembler
+dans les jours qui viennent. Ne
+vous approchez pas à moins de
+25 mètres des monstres pour ne
+pas être chargé ou brûlé !
+DESCRIPTIONS_2=Neuigkeiten: Eine Rathian ist
+in ein Barroth-Gebiet einge-
+drungen. Bald wird die Sand-
+ebene zum Schlachtfeld. 25
+Meter um die Monster ist die
+Gefahrenzone. Achtung vor
+Ladungen und Flammen!
+DESCRIPTIONS_3=Ultime notizie: una Rathian ha
+invaso il territorio dei Barroth.
+Le Piane sabbiose saranno
+teatro di scontri cruenti.
+La zona del pericolo inizia
+a 25 metri dai mostri. Attenzione
+alle cariche e alle fiamme!
+DESCRIPTIONS_4=Última hora: uma Rathian
+invadiu território de
+Barroth! A batalha está
+rolando nas Planícies
+Arenosas. A zona de risco
+começa a 25 metros deles.
+Cuidado com chifres e fogo!

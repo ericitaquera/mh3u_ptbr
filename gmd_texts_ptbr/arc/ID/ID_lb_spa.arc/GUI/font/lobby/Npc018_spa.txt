@@ -425,7 +425,7 @@ Máscara total!... Kayamba não vê pessoalmente,
 mas sabe que está aí.
 --- BLOCK ---
 Kayamba já foi à bela dama
-do Gremio registrar a missão.
+da Guilda registrar a missão.
 --- BLOCK ---
 Vamos! Não fique de braços
 cruzados. Vamos atrás da máscara!
@@ -534,7 +534,7 @@ Yam-ba! Máscara teve grande reação!
 Maior que com estúpido Zinogre.
 --- BLOCK ---
 Agora que Kayamba pensa, bela dama
-do Gremio disse que Lagi-algo
+da Guilda disse que Lagi-algo
 marmóreo ia vir por aqui.
 --- BLOCK ---
 Lagicrudo? Latitudinoso? Como for. A Kayamba

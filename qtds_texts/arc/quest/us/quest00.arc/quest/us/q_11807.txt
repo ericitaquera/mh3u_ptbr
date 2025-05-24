@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Eyes of the Storm
+TITLES_1=L'œil du cyclone
+TITLES_2=Augen des Sturms
+TITLES_3=Occhio ai cicloni
+TITLES_4=O olho do furacão
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Barioth and
+a Sand Barioth
+OBJECTIVES_1=Chasser un Barioth et un
+Barioth des sables
+OBJECTIVES_2=Erjage einen Barioth
+und einen Sand-Barioth.
+OBJECTIVES_3=Caccia un Barioth e
+un Barioth delle sabbie
+OBJECTIVES_4=Caçar um Barioth e
+um Barioth arenoso
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Eccentric Meteorologist
+CLIENTS_1=Météorologue farfelu
+CLIENTS_2=Spleeniger Meteorologe
+CLIENTS_3=Meteorologo eccentrico
+CLIENTS_4=Meteorólogo excêntrico
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The forecast calls for two
+blowhard beasts, a Barioth and a
+Sand Barioth -- and these tornado
+makers are on a collision course!
+Will we see a perfect storm? I
+must know. I WILL know! Hunters,
+help me with my weather report!
+DESCRIPTIONS_1=Les prévisions parlent de deux
+monstres arrogants, un Barioth
+et un Barioth des sables.
+Vont-ils créer une tempête
+parfaite ? Chasseurs, aidez-
+moi à élaborer mon bulletin
+météo !
+DESCRIPTIONS_2=Die Prognosen kündigen zwei
+stürmische Bestien an, einen
+Barioth und einen Sand-Bari-
+oth. Sie sind auf Kollisions-
+kurs! Sehen wir einen perfek-
+ten Sturm? Das MUSS ich sehen!
+Helft mir beim Wetterbericht!
+DESCRIPTIONS_3=Le previsioni parlano di due belve
+aggressive, un Barioth e un Barioth
+delle sabbie... in rotta di collisione!
+Assisteremo alla tempesta
+perfetta? Voglio sapere. DEVO
+sapere! Cacciatori, aiutatemi
+con le previsioni del tempo!
+DESCRIPTIONS_4=Anunciam-se duas bestas
+arrogantes, um Barioth e
+um Barioth arenoso: dois
+tornados prestes a colidir!
+Veremos a tempestade perfeita?
+Preciso saber. Saberei!
+Ajude-me com a previsão!

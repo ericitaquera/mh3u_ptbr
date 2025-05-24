@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=A Royal Rumble
+TITLES_1=Affrontement royal
+TITLES_2=Königliches Grollen
+TITLES_3=Lotta selvaggia
+TITLES_4=Una tarea real
+[OBJECTIVES]
+OBJECTIVES_0=Capture a Rathian
+OBJECTIVES_1=Capturer une Rathian
+OBJECTIVES_2=Fange eine Rathian.
+OBJECTIVES_3=Cattura una Rathian
+OBJECTIVES_4=Captura una Rathian
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, time expires,
+or accidentally slay the target.
+FAIL_CONDITIONS_1=Prime att. 0, temps écoulé
+ou cible tuée par hasard.
+FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
+oder Ziel irrtüml. erlegt.
+FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
+o bersaglio ucciso per errore.
+FAIL_CONDITIONS_4=Recomp. a 0, fim tempo
+ou mata obj. por acidente.
+[CLIENTS]
+CLIENTS_0=Middle-aged Knight
+CLIENTS_1=Chevalier d'âge mûr
+CLIENTS_2=Ritter mittl. Alters
+CLIENTS_3=Cavaliere di mezza età
+CLIENTS_4=Cavaleiro de meia idade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Pardon my discretion in this
+matter, my good hunter, but
+my liege lord -- who shall
+remain nameless -- desires a
+Rathian of his own. I fear I
+am not up to the task, but I
+cannot refuse his request.
+DESCRIPTIONS_1=Pardonnez-moi ma discrétion
+dans cette affaire, mon bon
+chasseur, mais mon seigneur,
+qui doit rester anonyme, veut
+une Rathian. Je crains de ne
+pas être à la hauteur, mais je
+ne peux refuser sa demande.
+DESCRIPTIONS_2=Entschuldige meine Diskretion
+in der Angelegenheit, werter
+Jäger, aber mein Lehnsherr –
+sein Name ist unerheblich – 
+wünscht eine eigene Rathian.
+Dem bin ich nicht gewachsen,
+muss aber den Wunsch erfüllen.
+DESCRIPTIONS_3=Mi spiace per la mia
+discrezione sull'argomento, ma
+il mio signore, che deve restare
+anonimo, desidera una Rathian
+personale. Temo di non essere
+all'altezza del compito ma non
+posso assolutamente rifiutare.
+DESCRIPTIONS_4=Perdão por interrompê-lo, nobre
+caçador, mas meu senhor feudal
+— cujo nome não posso revelar —
+deseja ter sua própria Rathian.
+Receio não ter habilidade
+pra isso, mas também não
+posso recusar um pedido dele…

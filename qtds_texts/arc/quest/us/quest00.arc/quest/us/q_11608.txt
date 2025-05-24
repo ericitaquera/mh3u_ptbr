@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Supply Constraints
+TITLES_1=Rupture de stock
+TITLES_2=Lieferschwierigkeiten
+TITLES_3=Problemi di rifornimento
+TITLES_4=Escassez de suprimentos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Great Wroggi
+OBJECTIVES_1=Chasser 2 Grands Wroggi
+OBJECTIVES_2=Erjage 2 Großwroggi.
+OBJECTIVES_3=Caccia 2 Gran Wroggi
+OBJECTIVES_4=Caçar 2 Wroggi
+magnificentes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Sand City Tool Shop
+CLIENTS_1=Quincaillerie Cité s.
+CLIENTS_2=Sandst.-Werkzeugladen
+CLIENTS_3=Ferramenta Sand City
+CLIENTS_4=Armazém Cidade Arenosa
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Drat! Great Wroggi are wreaking
+havoc with our store's supply
+line, and now the only thing on
+our shelves is dust. That doesn't
+exactly fit with our tagline: "The
+store with more." This could put 
+us out of business! Save us!
+DESCRIPTIONS_1=De Grands Wroggi sèment la
+pagaille dans notre chaîne de
+ravitaillement, et il n'y a plus
+rien sur nos étagères. Nous
+sommes censés vendre "Tout
+ce qu'on ne trouve pas
+ailleurs !" Aidez-nous !
+DESCRIPTIONS_2=Verflixt! Großwroggi über-
+fallen unser Versorgungsnetz!
+Jetzt haben wir nur noch Staub
+in den Regalen. Das wider-
+spricht unserem Slogan: "Volle
+Regale, kleine Preise." Das
+ist unser Ruin! Hilf uns!
+DESCRIPTIONS_3=No! I Gran Wroggi impediscono
+i rifornimenti e gli scaffali
+del negozio sono pieni di
+polvere, in barba al nostro
+slogan "Di tutto, di più".
+Questa situazione potrebbe
+mandarci in rovina. Salvaci!
+DESCRIPTIONS_4=Caramba! Os Grandes Wroggis
+estão causando estragos
+na loja, e só resta pó nas
+prateleiras. Isso contradiz
+nosso lema: "Ninguém te
+dá mais". Isso pode acabar
+com o negócio! Ajuda!

@@ -1,0 +1,62 @@
+[TITLES]
+TITLES_0=[Advanced] Today's Special
+TITLES_1=[Avancé] Menu du jour
+TITLES_2=[Fortg.] Tagesgericht
+TITLES_3=[Avanzata] Piatto del giorno
+TITLES_4=[Avançada] Prato do dia
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Nibelsnarf
+OBJECTIVES_1=Chasser 2 Nibelsnarf
+OBJECTIVES_2=Erjage 2 Nibelsnarf.
+OBJECTIVES_3=Caccia 2 Nibelsnarf
+OBJECTIVES_4=Caçar 2 Nibelsnarf
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Enthusiastic Cook
+CLIENTS_1=Cuisinier enthousiaste
+CLIENTS_2=Begeisterter Koch
+CLIENTS_3=Cuoco fanatico
+CLIENTS_4=Cozinheiro entusiasta
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I came to the Sandy Plains to
+gather ingredients for my next
+feast -- not to become a feast for
+two Nibelsnarf! I feel like the
+special of the day out here! Help
+me get off the menu, hunter!
+DESCRIPTIONS_1=Je suis venu dans les plaines
+de sable pour trouver des
+ingrédients pour mon prochain
+festin, pas pour servir de
+repas à deux Nibelsnarf !
+Aidez-moi à m'en tirer !
+DESCRIPTIONS_2=Ich kam in die Sandebene, um
+Zutaten für mein Festmahl
+zu sammeln, und nicht, um als
+Festmahl für zwei Nibelsnarf
+zu enden! Ich fühle mich wie
+das Tagesgericht hier draußen.
+Hol mich von der Speisekarte!
+DESCRIPTIONS_3=Ho raggiunto le Piane sabbiose
+per raccogliere ingredienti per
+il mio prossimo banchetto... non
+per diventare il banchetto di
+due Nibelsnarf! Non voglio essere
+la specialità del giorno! Toglimi
+dal menu, cacciatore!
+DESCRIPTIONS_4=Vim às Planícies arenosas atrás
+de ingredientes para um banquete,
+e vou ficar sem ele por causa
+de dois Nibelsnarf! Eu me sinto
+como o prato do dia! Ajude-me
+a sair deste cardápio, caçador.

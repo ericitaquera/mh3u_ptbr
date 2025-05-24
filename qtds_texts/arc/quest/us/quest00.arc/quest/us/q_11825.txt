@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Abyssal Awakening
+TITLES_1=Éveil abyssal
+TITLES_2=Tiefsee-Erwachen
+TITLES_3=Risveglio negli abissi
+TITLES_4=Despertar abissal
+[OBJECTIVES]
+OBJECTIVES_0=Slay an Abyssal Lagiacrus
+OBJECTIVES_1=Tuer un Lagiacrus des
+abysses
+OBJECTIVES_2=Erlege einen
+Tiefsee-Lagiacrus.
+OBJECTIVES_3=Uccidi un Lagiacrus degli abissi
+OBJECTIVES_4=Mata um Lagiacrus
+abissal
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Black-clad Prophet
+CLIENTS_1=Prophète en noir
+CLIENTS_2=Schwarzer Prophet
+CLIENTS_3=Profeta in nero
+CLIENTS_4=Profeta de negro
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Sensing the tidal pull of the
+planets aligning, the king of the
+abyss stirs deep in the Undersea
+Ruins. Wrapped in black lightning,
+this ancient Lagiacrus judges
+harshly all who approach. Only you
+might face it. But will you?
+DESCRIPTIONS_1=Le roi des abysses s'agite
+dans les ruines sous-marines,
+attiré par l'alignement des
+planètes. Le Lagiacrus juge
+cruellement ceux qui l'approchent.
+Vous seul pouvez l'affronter.
+DESCRIPTIONS_2=Tief in den Ruinen des Meeres
+spürt der König der Tiefsee
+die Gezeiten. Von schwarzen
+Blitzen umhüllt, fällt der
+alte Lagriacrus sein Urteil 
+über jene, die ihn aufsuchen.
+Willst du ihm gegenübertreten?
+DESCRIPTIONS_3=Il re dell'abisso si sveglia in fondo
+alle Rovine sommerse, avvertendo
+la forza astrale dell'allineamento
+dei pianeti. Avvolto da fulmini neri,
+l'antico Lagiacrus giudica tutti
+coloro che osano avvicinarsi. Solo
+tu potresti affrontarlo, ma lo farai?
+DESCRIPTIONS_4=O rei do abismo, sentindo a
+influência dos planetas, desce
+às ruínas submarinas. Envolto
+em raios negros, o Lagiacrus
+julga severamente aqueles
+que se aproximam dele. Você
+será capaz de enfrentá-lo?

@@ -1,0 +1,69 @@
+[TITLES]
+TITLES_0=A Sea of Wyverns
+TITLES_1=Une mer de Wyvern
+TITLES_2=Ein Wyvern-Meer
+TITLES_3=Un mare di wyvern
+TITLES_4=Um mar de wyverns
+[OBJECTIVES]
+OBJECTIVES_0=Hunt an Ivory Lagiacrus
+and a Gobul
+OBJECTIVES_1=Chasser un Lagiacrus
+ivoire et un Gobul
+OBJECTIVES_2=Erjage einen Elfenbein-
+Lagiacrus und einen Gobul.
+OBJECTIVES_3=Caccia un Lagiacrus d'avorio
+e un Gobul
+OBJECTIVES_4=Caçar um Lagiacrus
+marmóreo e um Gobul
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=City Guild Representative
+CLIENTS_1=Représentant guilde
+CLIENTS_2=Stadtgilden-Vertreter
+CLIENTS_3=Delegato Gilda cittad.
+CLIENTS_4=Repres. Guilda na cidade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=A boat sailing in the Flooded
+Forest has been attacked by a
+huge leviathan! And that's
+not the worst of it: the beast
+was reportedly accompanied by
+a second massive monster...
+They must be taken out, ASAP!
+DESCRIPTIONS_1=Un navire traversant la forêt
+inondée a été attaqué par un
+énorme léviathan. Et ce n'est
+pas le pire : la bête était
+accompagnée par un autre
+monstre... Il faut les
+éliminer. Vite !
+DESCRIPTIONS_2=Ein Boot auf dem Weg durch den
+Flutwald wurde von einem
+großen Leviathan angegriffen!
+Es kommt schlimmer: Die Bestie
+wurde wohl von einem zweiten
+Riesenmonster begleitet. Sie
+müssen rasch beseitigt werden!
+DESCRIPTIONS_3=Un'imbarcazione nella Foresta
+inondata è stata attaccata da
+un enorme leviathan! E non è
+tutto! La belva è accompagnata
+da un secondo, possente mostro...
+Bisogna abbatterli subito!
+DESCRIPTIONS_4=Um enorme leviatã atacou
+um barco que navegava pelo
+Bosque inundado! E isso
+não é o pior: diz-se que a
+besta estava acompanhada por
+um segundo monstro... Temos
+que acabar com eles já!

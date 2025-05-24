@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Fell the Lagiacrus!
+TITLES_1=À bas le Lagiacrus !
+TITLES_2=Nieder mit dem Lagiacrus!
+TITLES_3=Abbatti il Lagiacrus!
+TITLES_4=Derrote os Lagiacrus!
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Lagiacrus
+OBJECTIVES_1=Chasser un Lagiacrus
+OBJECTIVES_2=Erjage einen Lagiacrus.
+OBJECTIVES_3=Caccia un Lagiacrus
+OBJECTIVES_4=Caçar um Lagiacrus
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Moga Village Chief
+CLIENTS_1=Chef du village Moga
+CLIENTS_2=Moga-Dorfchef
+CLIENTS_3=Capo villaggio di Moga
+CLIENTS_4=Chefe da Vila Moga
+[DESCRIPTIONS]
+DESCRIPTIONS_0=You did good against the
+Lagiacrus, kid. Now that ya
+got a taste of its power, it's
+time to seal the deal. This'll
+be the ultimate battle. I have
+to say, I'm almost jealous.
+Do us proud, kid.
+DESCRIPTIONS_1=Vous avez fait du bon travail
+avec le Lagiacrus, petit.
+Après cet avant-goût de son
+pouvoir, c'est le moment de
+remplir le contrat. Ce sera le
+combat suprême. Je vous envie
+presque. Rendez-moi fier.
+DESCRIPTIONS_2=Gegen den Lagiacrus hast du
+dich gut behauptet. Da
+du jetzt seine Stärke kennst,
+machen wir Nägel mit Köpfen.
+Das ist der letzte Kampf. Ich
+bin fast schon neidisch.
+Mach mir alle Ehre.
+DESCRIPTIONS_3=Ben fatto contro il Lagiacrus!
+Hai visto la sua potenza, ora
+avrai l'onore di chiudere
+i conti con un assalto finale.
+Sono quasi invidioso. Vai e
+riempimi di orgoglio!
+DESCRIPTIONS_4=Você mandou muito bem contra
+o Lagiacrus, garoto. Agora
+que já provou o poder dele,
+é hora de ir até o fim. Essa
+será a batalha definitiva.
+Confesso que até te invejo.
+Me encha de orgulho, garoto!

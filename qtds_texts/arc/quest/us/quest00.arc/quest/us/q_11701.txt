@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Harvest Tour: Volcano
+TITLES_1=Visite : Volcan
+TITLES_2=Erntetour: Vulkan
+TITLES_3=Tour: Vulcano
+TITLES_4=Tour: Vulcão
+[OBJECTIVES]
+OBJECTIVES_0=Survive until time expires or
+deliver a Paw Pass Ticket
+OBJECTIVES_1=Survivre jusqu'à la fin ou
+livrer un ticket Passechat
+OBJECTIVES_2=Überlebe bis Zeitende oder
+gib einen Tatzenpass ab.
+OBJECTIVES_3=Sopravvivi fino allo scadere o
+consegna un Buono Pass-zampa
+OBJECTIVES_4=Sobreviver até o final
+ou entregar um Ticket garra
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0.
+FAIL_CONDITIONS_1=Prime atteint 0.
+FAIL_CONDITIONS_2=Belohnung auf 0.
+FAIL_CONDITIONS_3=Premio a 0.
+FAIL_CONDITIONS_4=Recompensa cair a 0.
+[CLIENTS]
+CLIENTS_0=Felyne Tour Guide
+CLIENTS_1=Guide Felyne
+CLIENTS_2=Felyne-Reiseführer
+CLIENTS_3=Guida Felyne
+CLIENTS_4=Guia do Tour Felyne
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Everyone here, nya? Welcome to the
+Volcano Harvest Tour. Keep an eye
+out for ore you can only find
+here! If you get too hot under
+the collar, you'll receive a Paw
+Pass Ticket in two minutes. Use
+it for safe, easy passage home.
+DESCRIPTIONS_1=Tout le monde est là, nya ?
+Bienvenue à la visite du
+volcan. Cherchez les minerais
+typiques d'ici. Si vous avez
+trop chaud, vous recevrez dans
+2 minutes un ticket Passechat
+pour un retour sécurisé.
+DESCRIPTIONS_2=Sind alle da, miau? Willkommen
+zur Vulkan-Erntetour. Einige
+Erze sind nur hier zu finden!
+Wem es zu heiß wird, der kann
+innerhalb von zwei Minuten
+einen Tatzenpass für die
+sichere Heimreise erhalten.
+DESCRIPTIONS_3=Ci siamo tutti, nya? Benvenuti
+al tour del vulcano. Potreste trovare
+minerali presenti solo qui! Se
+il caldo vi dà alla testa, riceverete
+un Buono Pass-zampa tra due
+minuti. Usatelo per un sicuro
+ritorno a casa.
+DESCRIPTIONS_4=Todos aqui, miau? Este é o
+Tour do Vulcão. Fiquem atentos
+a um mineral que só pode ser
+encontrado aqui! Caso suem
+muito, receberão um Ticket garra
+em dois minutos. Usem-no para
+ir confortavelmente para casa.

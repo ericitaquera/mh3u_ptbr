@@ -1,0 +1,68 @@
+[TITLES]
+TITLES_0=Island Warfare
+TITLES_1=Guerre insulaire
+TITLES_2=Inselkrieg
+TITLES_3=Guerra sull'isola
+TITLES_4=Guerra na ilha
+[OBJECTIVES]
+OBJECTIVES_0=Hunt all large monsters
+OBJECTIVES_1=Chasser tous les grands
+monstres
+OBJECTIVES_2=Erjage alle
+großen Monster.
+OBJECTIVES_3=Caccia tutti i mostri grandi
+OBJECTIVES_4=Caçar todos os monstros
+grandes
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Blowhard Noble
+CLIENTS_1=Noble vantard
+CLIENTS_2=Prahlender Adeliger
+CLIENTS_3=Nobile sbruffone
+CLIENTS_4=Nobre fanfarrão
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Although monsters beyond count may
+have taken over our island, we
+shall not lose hope. We will not
+flag or fail. We shall fight on
+the beaches, we shall fight in the
+fields, we shall fight in the
+hills... We will never surrender!
+DESCRIPTIONS_1=D'innombrables monstres ont
+envahi notre île, mais nous
+devons garder espoir. Nous ne
+faiblirons pas. Nous lutterons
+sur les plages, dans les prés
+et sur les collines. Nous
+n'abandonnerons jamais !
+DESCRIPTIONS_2=Obwohl unzählige Monster
+unsere Insel heimsuchen,
+dürfen wir die Hoffnung nicht
+verlieren. Wir werden auf den
+Stränden, auf den Feldern und
+in den Bergen kämpfen.
+Wir werden nicht aufgeben!
+DESCRIPTIONS_3=Nonostante gli innumerevoli
+mostri sulla nostra isola, non
+dobbiamo perdere la speranza.
+Non dobbiamo mollare.
+Combatteremo sulle spiagge,
+nei campi, sulle colline.
+Non ci arrenderemo mai!
+DESCRIPTIONS_4=Apesar de muitos monstros
+terem tomado a ilha,
+não devemos perder a
+esperança. Não vacilaremos.
+Lutaremos em praias,
+em planícies, em colinas...
+Nunca nos renderemos!

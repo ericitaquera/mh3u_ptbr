@@ -1,0 +1,67 @@
+[TITLES]
+TITLES_0=Throne of the Abyss
+TITLES_1=Trône des abysses
+TITLES_2=Thron der Tiefsee
+TITLES_3=Il sovrano degli abissi
+TITLES_4=Trono do abismo
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Goldbeard Ceadeus
+OBJECTIVES_1=Tuer un Ceadeus barbedor
+OBJECTIVES_2=Erlege einen
+Goldbart-Ceadeus.
+OBJECTIVES_3=Uccidi un Ceadeus barbadoro
+OBJECTIVES_4=Mata um Ceadeus
+barba dourada
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Undersea Explorer
+CLIENTS_1=Explorateur ss-marin
+CLIENTS_2=Unterwasser-Forscher
+CLIENTS_3=Esploratore subacqueo
+CLIENTS_4=Explorador marinho
+[DESCRIPTIONS]
+DESCRIPTIONS_0=How curious. Our colleagues in the
+first expedition encountered a
+marine beast of colossal size.
+My suspicion is it's a Ceadeus
+subspecies that's made its home
+in the abyss. For the sake of the
+ecosystem, it must be slain.
+DESCRIPTIONS_1=Nos collègues de la première
+expédition sont tombés sur
+une énorme bête marine. Je
+pense qu'il s'agit d'une sous-
+espèce de Ceadeus installée
+dans les abysses. Elle doit
+être éliminée.
+DESCRIPTIONS_2=Seltsam. Die erste Expedition
+entdeckte eine Meeresbestie
+von enormer Größe. Ich glaube,
+es ist eine Ceadeus-Unterart,
+die in der Tiefsee lebt. Zur
+Sicherheit des Ökosystems
+muss sie erlegt werden.
+DESCRIPTIONS_3=Che strano. I nostri colleghi
+nella prima spedizione hanno
+incontrato un mostro marino di
+dimensioni colossali. Sospetto
+che sia una sottospecie dei
+Ceadeus che abita gli abissi.
+Uccidilo e salva l'ecosistema!
+DESCRIPTIONS_4=Que curioso. Nossos
+companheiros de expedição
+encontraram uma besta marinha
+de tamanho colossal. Suspeito
+que seja um tipo de Ceadeus
+que habita no abismo. Mate-o
+para proteger o ecossistema.

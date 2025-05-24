@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=Secret of the Crystal Bones
+TITLES_1=Secret des os de cristal
+TITLES_2=Kristallknochen-Geheimnis
+TITLES_3=Misteri delle ossa cristallo
+TITLES_4=Os ossos de cristal
+[OBJECTIVES]
+OBJECTIVES_0=Deliver 4 Crystal Bones
+OBJECTIVES_1=Livrer 4 os de cristal
+OBJECTIVES_2=Besorge 4 Kristallknochen.
+OBJECTIVES_3=Consegna 4 Ossa cristallo
+OBJECTIVES_4=Entrega 4 Ossos de
+cristal
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Archeologist
+CLIENTS_1=Archéologue
+CLIENTS_2=Archäologe
+CLIENTS_3=Archeologo
+CLIENTS_4=Arqueólogo
+[DESCRIPTIONS]
+DESCRIPTIONS_0=You brawny hunter-types scoff
+at my studies of crystallized
+bones. Hmph! They have much to
+say about life in the far past
+and the mysteries of today!
+My progress has stalled here on
+the frontier. You must help!
+DESCRIPTIONS_1=Les chasseurs se moquent de
+mon étude des os cristallisés.
+Ils nous apprennent beaucoup
+de choses sur le passé et les
+mystères d'aujourd'hui ! Mes
+progrès se sont arrêtés ici,
+à la frontière. Aidez-moi !
+DESCRIPTIONS_2=Ihr starken Jäger spottet über
+meine Studien zu
+kristallisierten Knochen. Pf!
+Die erzählen viel über das
+Leben damals und Rätsel heute!
+Ich komme hier an der Grenze
+nicht weiter. Helft mir!
+DESCRIPTIONS_3=I cacciatori come te non fanno
+che ridere delle mie ricerche
+sulle ossa cristallizzate. Non
+sapete quante cose ci dicono
+sul passato e sui misteri di
+oggi! Le mie ricerche sono
+a un punto morto: aiutami!
+DESCRIPTIONS_4=Caçadores fortes, vocês
+zombam dos meus estudos sobre
+ossos cristalizados. É possível
+extrair muitas informações sobre
+o passado e os mistérios de
+hoje. Meu progresso parou
+na fronteira. Ajude-me!

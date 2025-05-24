@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=[Advanced] Miracle Drug
+TITLES_1=[Avancé] Remède miracle
+TITLES_2=[Fortg.] Wundermittel
+TITLES_3=[Avanzata] Cura miracolosa
+TITLES_4=[Avançada] Medicina milagrosa
+[OBJECTIVES]
+OBJECTIVES_0=Hunt 2 Purple Ludroth
+OBJECTIVES_1=Chasser 2 Ludroth pourpres
+OBJECTIVES_2=Erjage 2 Lila Ludrothe.
+OBJECTIVES_3=Caccia 2 Ludroth purpurei
+OBJECTIVES_4=Caçar 2 Ludroth púrpuras
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Youthful Merchant
+CLIENTS_1=Jeune marchand
+CLIENTS_2=Jugendlicher Händler
+CLIENTS_3=Giovane mercante
+CLIENTS_4=Jovem comerciante
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Think poison is good for nothing?
+Think again, hunter. It has a
+million-and-one uses! A Purple
+Ludroth's toxin actually has
+medicinal properties. It's prized
+as a panacea in foreign lands!
+Act now and hunt down two of them!
+DESCRIPTIONS_1=Vous croyez que le poison ne
+sert à rien ? C'est faux, il a
+de nombreux usages ! Une
+toxine de Ludroth pourpre sert
+même de panacée dans des
+régions lointaines ! Chassez
+deux spécimens pour moi.
+DESCRIPTIONS_2=Du glaubst, Gift sei nutzlos?
+Irrtum, Jäger. Es hat unendli-
+che Anwendungsmöglichkeiten!
+Gift des Lila Ludroth hat
+heilende Wirkung. Es gilt als
+Allheilmittel in fremden
+Ländern! Erlege zwei für mich!
+DESCRIPTIONS_3=Pensi che il veleno sia solo
+dannoso? Dovrai ricrederti! Puoi
+usarlo in mille modi. La tossina
+del Ludroth purpureo ha proprietà
+terapeutiche. Ha il valore di
+una panacea nelle terre straniere!
+Ora muoviti e cacciane due!
+DESCRIPTIONS_4=Você acha que o veneno não
+serve para nada? Você está
+enganado, caçador. Tem milhares
+de usos! A toxina de um Ludroth
+roxo tem propriedades curativas.
+É um remédio milagroso no
+exterior! Vá e cace dois!

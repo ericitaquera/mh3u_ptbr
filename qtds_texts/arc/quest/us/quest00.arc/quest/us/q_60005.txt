@@ -1,0 +1,60 @@
+[TITLES]
+TITLES_0=Grudge Match: Pink Rathian
+TITLES_1=Revanche : Rathian rose
+TITLES_2=Zweikampf: Rosa Rathian
+TITLES_3=Scontro: Rathian rosa
+TITLES_4=Ajuste cuentas: Rathian rosa
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Pink Rathian
+OBJECTIVES_1=Tuer une Rathian rose
+OBJECTIVES_2=Erlege eine Rosa Rathian.
+OBJECTIVES_3=Uccidi una Rathian rosa
+OBJECTIVES_4=Mate una Rathian rosa
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
+or time expires.
+FAIL_CONDITIONS_1=3 évanouissements (prime
+atteint 0) ou tps écoulé.
+FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
+auf 0) o. Zeit läuft ab.
+FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
+o tempo scaduto.
+FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
+a 0) o acaba el tiempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Greetings, rumble rousers! Today
+we're thinking pink: a Pink
+Rathian! Don't hate this beast
+because she's a beauty. Who will
+be the Queen's partner in this
+dance party we call a hunt?
+DESCRIPTIONS_1=Bienvenue, chers spectateurs !
+Aujourd'hui, vous allez voir
+une magnifique Rathian rose !
+Qui sera le partenaire de la
+reine dans ce combat, ou
+plutôt cette danse ?
+DESCRIPTIONS_2=Seid gegrüßt, Schaulustige!
+Heute ist alles so schön rosa:
+eine Rosa Rathian! Hasst sie
+nicht, nur weil sie so schön
+ist. Wer wird ihr Tanzpartner
+bei dieser Jagd sein?
+DESCRIPTIONS_3=Saluti a tutto il pubblico festante!
+Oggi nell'Arena avremo una Rathian
+rosa! Non odiatela per la sua
+bellezza. Chi sarà il partner
+della regina in questa danza
+che chiamiamo caccia?
+DESCRIPTIONS_4=¡Saludos, fanáticos! Hoy
+lo vemos todo de rosa:
+¡una Rathian rosa! No la
+odiéis, es una belleza.
+¿Quién acompañará a la
+reina en este baile-cacería?

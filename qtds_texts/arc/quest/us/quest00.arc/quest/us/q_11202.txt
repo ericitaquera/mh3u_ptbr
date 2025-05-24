@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Cull the Herd
+TITLES_1=Rassemblement du troupeau
+TITLES_2=Herdendezimierung
+TITLES_3=Abbattimento selettivo
+TITLES_4=Dizimando a manada
+[OBJECTIVES]
+OBJECTIVES_0=Slay 15 Rhenoplos
+OBJECTIVES_1=Tuer 15 Rhenoplos
+OBJECTIVES_2=Erlege 15 Rhenoplos.
+OBJECTIVES_3=Uccidi 15 Rhenoplos
+OBJECTIVES_4=Mate 15 Rhenoplos
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=City Protector
+CLIENTS_1=Protecteur de la ville
+CLIENTS_2=Stadtbeschützer
+CLIENTS_3=Difensore della città
+CLIENTS_4=Protetor da cidade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=The Rhenoplos population has
+exploded -- and so have the
+number of attacks! The ornery
+beasts keep ramming the city
+walls too, wrecking 'em faster
+than we can fix 'em! Help save
+our property values!
+DESCRIPTIONS_1=La population de Rhenoplos a
+explosé, comme le nombre
+d'attaques ! Ces bêtes
+enfoncent les murs de la
+ville. Ils s'effondrent avant
+qu'on puisse les réparer !
+Sauvez nos biens !
+DESCRIPTIONS_2=Die Rhenoplos-Population ist
+explodiert – auch die Zahl der
+Angriffe! Die Bestien rammen
+auch die Stadtmauern und
+ruinieren sie schneller als
+wir reparieren können! Hilf,
+unsere Immobilien zu schützen!
+DESCRIPTIONS_3=Il numero di Rhenoplos è cresciuto
+vertiginosamente, così come i loro
+attacchi! Colpiscono anche le mura
+della città e non riusciamo più a
+contenere i danni! Le nostre case
+perdono valore, aiuto!
+DESCRIPTIONS_4=A população de Rhenoplos
+cresceu, e os ataques também!
+Essas feras teimosas continuam
+investindo contra o muro
+da cidade, destruindo tudo
+com facilidade. Ajude a gente a
+proteger nossas casas e fazendas!

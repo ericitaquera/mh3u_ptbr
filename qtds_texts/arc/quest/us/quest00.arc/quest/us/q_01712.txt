@@ -1,0 +1,70 @@
+[TITLES]
+TITLES_0=Rumble in the Great Desert
+TITLES_1=Affrontement grand désert
+TITLES_2=Grollen in der großen Wüste
+TITLES_3=Lotta nel Grande deserto
+TITLES_4=Estrondo no grande deserto
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Jhen Mohran
+or repel it
+OBJECTIVES_1=Tuer un Jhen Mohran
+ou le repousser
+OBJECTIVES_2=Erlege einen Jhen Mohran
+oder wehre ihn ab.
+OBJECTIVES_3=Uccidi un Jhen Mohran
+o respingilo
+OBJECTIVES_4=Matar um Jhen Mohran
+ou afastá-lo
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward or Dragonship Integrity
+hits 0, or time expires.
+FAIL_CONDITIONS_1=Prime ou intégrité drakkar
+atteint 0 ou temps écoulé.
+FAIL_CONDITIONS_2=Belohnung o. Drachenschf.-
+Zustand auf 0 o. Zeit um.
+FAIL_CONDITIONS_3=Premio o integrità dragoniera
+a 0, oppure tempo scaduto.
+FAIL_CONDITIONS_4=Recomp. ou integr. caçadr.
+cair a 0, ou fim tempo.
+[CLIENTS]
+CLIENTS_0=Guildmaster
+CLIENTS_1=Maître de guilde
+CLIENTS_2=Gildenmeister
+CLIENTS_3=Maestro Gilda
+CLIENTS_4=Mestre da Guilda
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Callin' all hunters and Dragonships!
+The Jhen Mohran -- that sultan of
+the desert sands -- is upon us!
+We gotta hit it with guns
+blazin'! You fancy yerself an
+ultimate hunter? Then hop aboard,
+'cause this is the ultimate hunt!
+DESCRIPTIONS_1=Rassemblez les chasseurs et
+les drakkars ! Le Jhen Mohran,
+sultan du désert, arrive ! Nous
+devons attaquer ! Vous pensez
+être un excellent chasseur ?
+Alors prenez part à la grande
+chasse !
+DESCRIPTIONS_2=Jäger und Drachenschiffe! Ein
+Jhen Mohran – Herrscher der
+Wüste – hat es auf uns abge-
+sehen! Bereiten wir ihm einen
+heißen Empfang! Du willst der
+ultimative Jäger sein? Dann
+komm an Bord für die Jagd!
+DESCRIPTIONS_3=Cacciatori e navi dragoniere,
+adunata! Il Jhen Mohran, sultano
+del deserto, è alle nostre calcagna!
+Dobbiamo fargli assaggiare la furia
+delle pistole! Sei un cacciatore
+infallibile? Fatti avanti! Questa
+è l'occasione che aspettavi!
+DESCRIPTIONS_4=Caçadores e caçadores de dragões!
+O Jhen Mohran, o sultão das areias,
+já está entre nós! Precisamos
+atacá-lo com toda a artilharia
+disponível. Você se considera
+o caçador supremo? Então suba a
+bordo! Essa é a verdadeira caçada!

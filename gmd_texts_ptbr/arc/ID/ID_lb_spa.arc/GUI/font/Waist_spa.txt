@@ -60,9 +60,9 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Cinto de Gremio
+Cinto da Guilda
 --- BLOCK ---
-Malha de Gremio
+Malha da Guilda
 --- BLOCK ---
 Saia de Colegiala
 --- BLOCK ---

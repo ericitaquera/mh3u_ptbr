@@ -1,0 +1,66 @@
+[TITLES]
+TITLES_0=The Fisherman's Tale
+TITLES_1=L'histoire du pêcheur
+TITLES_2=Anglerlatein
+TITLES_3=Il racconto del pescatore
+TITLES_4=História de pescador
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Royal Ludroth
+OBJECTIVES_1=Chasser un Ludroth royal
+OBJECTIVES_2=Erjage einen
+Königs-Ludroth.
+OBJECTIVES_3=Caccia un Ludroth reale
+OBJECTIVES_4=Caçar um Ludroth real
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Middle-aged Fisherman
+CLIENTS_1=Pêcheur d'âge mûr
+CLIENTS_2=Fischer mittl. Alters
+CLIENTS_3=Pescatore di mezza età
+CLIENTS_4=Pescador meia idade
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Once we made eye contact, it
+hit me with some foul fluid
+and I got really exhausted!
+If a Felyne hadn't passed by,
+I'd still be stuck out there.
+Just thinking of the color
+orange makes me shiver...
+DESCRIPTIONS_1=J'ai croisé son regard et il
+m'a lancé un fluide infect. Je
+me suis senti épuisé ! Si un
+Felyne n'était pas passé, je
+serais toujours bloqué. La
+pensée de cette couleur
+orange me donne des frissons.
+DESCRIPTIONS_2=Kaum hatten wir Augenkontakt,
+traf mich eine faulige
+Flüssigkeit und ich war völlig
+erschöpft! Wenn nicht ein
+Felyne aufgetaucht wäre, wäre
+ich verloren gewesen. Wenn ich
+nur an dieses Orange denke...
+DESCRIPTIONS_3=Una volta stabilito un contatto
+visivo, m'ha sfinito colpendomi
+con un liquido disgustoso. Se non
+fosse passato un Felyne, sarei
+ancora inerme lì. Al solo pensiero
+del colore arancione ho
+ancora i brividi...
+DESCRIPTIONS_4=Ao cruzar nossos olhares,
+ele me lançou um líquido
+nojento e me senti exausto!
+Se não fosse por um Felyne
+que passou, eu ainda estaria
+lá. Sinto calafrios só de
+pensar na cor laranja...

@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=Pain in the Plains
+TITLES_1=Plaines de douleur
+TITLES_2=Schmerz in der Ebene
+TITLES_3=Terrore nelle piane
+TITLES_4=Sufrimiento en los llanos
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Great Jaggi
+OBJECTIVES_1=Chasser un Grand Jaggi
+OBJECTIVES_2=Erjage einen Großjaggi.
+OBJECTIVES_3=Caccia un Gran Jaggi
+OBJECTIVES_4=Caçar um Grande Jaggi
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair
+a 0 ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Injured Villager
+CLIENTS_1=Villageois blessé
+CLIENTS_2=Verletzter Dörfler
+CLIENTS_3=Paesano ferito
+CLIENTS_4=Aldeão ferido
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Not only did that beast whup all
+us villagers with its army of
+Jaggi -- now it's traipsing
+around the Sandy Plains like it
+owns the joint. Insult to injury,
+that is! Time to call in a
+professional. Meaning you!
+DESCRIPTIONS_1=Cette bête a attaqué tous les
+villageois avec son armée de
+Jaggi, et maintenant elle se
+balade tranquillement dans les
+plaines de sable ! C'est un
+affront ! Il est temps qu'un
+professionnel s'en occupe !
+DESCRIPTIONS_2=Nicht nur, dass die Bestie mit
+ihrer Jaggi-Armee uns alle
+vermöbelt hat, jetzt treibt
+sie sich in der Sandebene rum,
+als wäre sie dort daheim! Eine
+Frechheit! Ein Profi muss her!
+Und damit meine ich dich!
+DESCRIPTIONS_3=Quella bestia attacca i paesani con
+il suo esercito di Jaggi e ora si
+aggira tra le Piane sabbiose come
+se fossero sue. Oltre al danno,
+la beffa! Questo è un lavoro per
+un professionista come te!
+DESCRIPTIONS_4=Essa fera não só nos atacou
+com seu exército de Jaggi,
+como agora desfila pelos
+Planaltos Arenosos como se
+fosse dona do lugar. Que
+insulto! É hora de chamar um
+profissional. Ou seja... você!

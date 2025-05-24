@@ -1,0 +1,64 @@
+[TITLES]
+TITLES_0=The Fisherman's Fiend
+TITLES_1=Le démon du pêcheur
+TITLES_2=Fischers Feind
+TITLES_3=Il nemico del pescatore
+TITLES_4=O demônio do pescador
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Lagiacrus
+OBJECTIVES_1=Chasser un Lagiacrus
+OBJECTIVES_2=Erjage einen Lagiacrus.
+OBJECTIVES_3=Caccia un Lagiacrus
+OBJECTIVES_4=Caçar um Lagiacrus
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Frontier Baron
+CLIENTS_1=Baron de la frontière
+CLIENTS_2=Grenz-Baron
+CLIENTS_3=Barone di frontiera
+CLIENTS_4=Barão da fronteira
+[DESCRIPTIONS]
+DESCRIPTIONS_0=I've learned the most dreadful
+financial news! The Lagiacrus
+has appeared in our waters.
+That beast will destroy the
+fishery! I'll pay anything if
+you save our economy... Oh,
+and the people, too. Right.
+DESCRIPTIONS_1=Quelle mauvaise nouvelle pour
+nos finances ! Le Lagiacrus
+est apparu dans nos eaux.
+Il va détruire la pêche !
+Je vous payerai si vous sauvez
+notre économie... et les
+habitants aussi. Évidemment.
+DESCRIPTIONS_2=Furchtbare Neuigkeiten!
+Der Lagiacrus ist in unseren
+Gewässern aufgetaucht. Diese
+Bestie wird unsere Fischerei
+ruinieren! Ich zahle alles,
+rette nur unsere Wirtschaft –
+und auch die Leute. Klar.
+DESCRIPTIONS_3=Ho ricevuto una notizia terribile!
+Un Lagiacrus si aggira nelle nostre
+acque. Distruggerà la pesca!
+Pagherei qualunque cifra per
+salvare la nostra economia...
+E gli abitanti, certo!
+DESCRIPTIONS_4=Péssimas notícias financeiras!
+Um Lagiacrus apareceu em
+nossas águas. A besta destruirá
+a pesca! Vou te pagar o
+que for necessário se salvar
+nossa economia... Ah, e
+as pessoas também, claro.

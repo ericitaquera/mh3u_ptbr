@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Grudge Match: Barioth
+TITLES_1=Revanche : Barioth
+TITLES_2=Zweikampf: Barioth
+TITLES_3=Scontro: Barioth
+TITLES_4=Ajus contas: Barioth
+[OBJECTIVES]
+OBJECTIVES_0=Slay a Barioth
+OBJECTIVES_1=Tuer un Barioth
+OBJECTIVES_2=Erlege einen Barioth.
+OBJECTIVES_3=Uccidi un Barioth
+OBJECTIVES_4=Mate um Barioth
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
+or time expires.
+FAIL_CONDITIONS_1=3 évanouissements (prime
+atteint 0) ou tps écoulé.
+FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
+auf 0) o. Zeit läuft ab.
+FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
+o tempo scaduto.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou terminar o tempo.
+[CLIENTS]
+CLIENTS_0=Announcer/Receptionist
+CLIENTS_1=Présentatrice/Récept.
+CLIENTS_2=Ansagerin/Rezeption.
+CLIENTS_3=Annunciatrice
+CLIENTS_4=Locutora/recepcionista
+[DESCRIPTIONS]
+DESCRIPTIONS_0=We're in for a dark and stormy
+fight, so bundle up! Today's star:
+a Barioth! This cold-hearted
+Tundra assassin is famous for its
+punishing aerial strikes! Or so I
+have read... Let's see if our
+hunters can weather this storm!
+DESCRIPTIONS_1=Un combat orageux s'annonce,
+préparez-vous ! La star du
+jour est un Barioth ! Le tueur
+de la toundra est célèbre pour
+ses attaques aériennes. Voyons
+si les chasseurs pourront faire
+face à la tempête !
+DESCRIPTIONS_2=Uns steht ein dunkler und
+stürmischer Kampf bevor! Der
+heutige Star: ein Barioth! Der
+kaltherzige Killer der Tundra
+ist für seine Schläge aus der
+Luft bekannt. Können unsere
+Jäger dem Sturm standhalten?
+DESCRIPTIONS_3=Copritevi bene: stiamo per assistere
+a una battaglia buia e tempestosa!
+Il protagonista di oggi è un Barioth!
+L'assassino della tundra è famoso
+per i suoi letali colpi volanti.
+Vediamo se i nostri cacciatori
+sopravvivranno alla tempesta!
+DESCRIPTIONS_4=Agasalhem-se — vem tempestade
+por aí! A estrela de hoje: um
+Barioth! Esse assassino gelado
+da Tundra é famoso por seus
+ataques aéreos… Ou pelo menos
+foi o que eu li. Vamos ver
+se vocês aguentam o temporal!

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=Ring of the Golden Lune
+TITLES_1=Anneau de lune dorée
+TITLES_2=Ring des Goldmonds
+TITLES_3=Anello della luna dorata
+TITLES_4=Círculo da lua dourada
+[OBJECTIVES]
+OBJECTIVES_0=Hunt a Gold Rathian
+OBJECTIVES_1=Chasser une Rathian dorée
+OBJECTIVES_2=Erjage eine
+Goldene Rathian.
+OBJECTIVES_3=Caccia una Rathian dorata
+OBJECTIVES_4=Caçar uma Rathian dourada
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Bored King
+CLIENTS_1=Roi las
+CLIENTS_2=Gelangweilter König
+CLIENTS_3=Re annoiato
+CLIENTS_4=Rei entediado
+[DESCRIPTIONS]
+DESCRIPTIONS_0=*Sigh* It is not good to be the
+king. Life is just one council
+meeting after another. I long to
+see the sights from my beloved
+minstrel's ballads, such as that
+golden wyvern I've heard so much
+about. Seek it out, hunter!
+DESCRIPTIONS_1=*Soupir* Il ne fait pas bon
+être roi. Ma vie est une
+succession de réunions.
+J'aimerais tant voir ce Wyvern
+doré dont parlent les ballades
+de mon ménestrel ! Allez le
+chercher !
+DESCRIPTIONS_2=*seufz* Ein König hat es schon
+schwer. Eine Ratsversammlung
+folgt der anderen. Ich würde
+gerne die Goldwyvern sehen,
+die mein Barde besungen hat.
+Suche sie, Jäger!
+DESCRIPTIONS_3=*Sigh* Non è piacevole essere re.
+La vita è solo un susseguirsi di
+riunioni. Mi piacerebbe vedere
+le creature descritte nelle ballate
+del mio amato menestrello, come
+il wyvern dorato di cui ho sentito
+tanto parlare. Dagli la caccia!
+DESCRIPTIONS_4=*Suspiro* Não é bom ser rei. Na
+minha vida só existe conselho
+após conselho. Anseio por
+contemplar as histórias do
+meu querido menestrel, como
+o wyvern dourado do qual tanto
+ouvi falar. Procure-o, caçador!

@@ -1,0 +1,65 @@
+[TITLES]
+TITLES_0=The Jaggia Menace
+TITLES_1=La menace Jaggia
+TITLES_2=Die Jaggia-Plage
+TITLES_3=Minaccia Jaggia
+TITLES_4=A ameaça Jaggia
+[OBJECTIVES]
+OBJECTIVES_0=Slay 10 Jaggia
+OBJECTIVES_1=Tuer 10 Jaggia
+OBJECTIVES_2=Erlege 10 Jaggia.
+OBJECTIVES_3=Uccidi 10 Jaggia
+OBJECTIVES_4=Matar 10 Jaggia
+[FAIL_CONDITIONS]
+FAIL_CONDITIONS_0=Reward hits 0, or time
+expires.
+FAIL_CONDITIONS_1=Prime atteint 0 ou temps
+écoulé.
+FAIL_CONDITIONS_2=Belohnung auf 0 oder Zeit
+läuft ab.
+FAIL_CONDITIONS_3=Premio a 0
+o tempo scaduto.
+FAIL_CONDITIONS_4=Recompensa cair a 0
+ou acabar o tempo.
+[CLIENTS]
+CLIENTS_0=Female Farmer
+CLIENTS_1=Fermière
+CLIENTS_2=Farmerin
+CLIENTS_3=Contadina
+CLIENTS_4=Fazendeira
+[DESCRIPTIONS]
+DESCRIPTIONS_0=Jeepers! Jaggia have been wreaking
+havoc on our crops this season!
+At this rate, we won't have enough
+food to survive the winter...
+The Jaggia must have a big warren
+nearby -- please, do something
+about it before we starve!
+DESCRIPTIONS_1=Non ! Les Jaggia détruisent nos
+récoltes ! À ce rythme, on
+n'aura pas assez de réserves
+pour l'hiver... L'antre des
+Jaggia ne doit pas être loin.
+Faites quelque chose avant
+qu'on meure de faim !
+DESCRIPTIONS_2=Meine Güte! Jaggia sind über
+unsere Ernte hergefallen! So
+kommen wir nicht über den
+Winter... Ganz in der Nähe
+muss ein großer Jaggia-Bau
+sein. Bitte unternimm etwas,
+bevor wir verhungern!
+DESCRIPTIONS_3=No! Le Jaggia stanno devastando
+il raccolto di questa stagione!
+Così non avremo le provviste
+necessarie per superare l'inverno.
+La tana delle Jaggia deve essere
+nelle vicinanze. Ti prego,
+occupatene o moriremo di fame!
+DESCRIPTIONS_4=Maldição! As Jaggia
+estão destruindo nossas
+plantações! Desse jeito,
+ninguém vai ter comida
+pro inverno. A toca delas
+fica perto… Faça algo
+ou vamos morrer de fome!
