@@ -17,37 +17,37 @@ as pessoas não sabem o que esperar.
 --- BLOCK ---
 <SUBS 2>
 --- BLOCK ---
-<SUBS 0>Miau! Nós
-Felyne também
+<SUBS 0>
+Miau! Nós Felyne também
 comemos vegetais!
 --- BLOCK ---
-<SUBS 0>Às vezes encontramos
-coisas estranhas quando
-aramos os campos...
+<SUBS 0>
+Às vezes encontramos coisas estranhas
+quando aramos os campos...
 --- BLOCK ---
-<SUBS 0>É tão caro importar
-comida que nossa Fazenda é
-mais importante do que nunca!
+<SUBS 0>
+É tão caro importar comida que nossa
+Fazenda é mais importante do que nunca!
 --- BLOCK ---
-<SUBS 0>Fazer grandes esforços com
-a enxada é o
+<SUBS 0>
+azer grandes esforços com a enxada é o
 exercício aeróbico perfeito, miau!
 --- BLOCK ---
-<SUBS 0>É preciso comer vegetais!
-Eles trazem brilho à pelagem
-e afiam as garras!
+<SUBS 0>
+É preciso comer vegetais! Eles trazem
+brilho à pelagem e afiam as garras!
 --- BLOCK ---
-<SUBS 0>Nós Felyne gostamos de
-estar limpos, mas eu
-adoro me sujar trabalhando!
+<SUBS 0>
+Nós Felyne gostamos de estar limpos,
+mas eu adoro me sujar trabalhando!
 --- BLOCK ---
-<SUBS 0>Marramiau, estou
-cansado! Mas no
+<SUBS 0>
+Marramiau, estou cansado! Mas no
 bom sentido, miau.
 --- BLOCK ---
-<SUBS 0>Olha! É como se
-a Fazenda estivesse ronronando de
-alegria... e eu também! Miau!
+<SUBS 0> Olha!
+É como se a Fazenda estivesse ronronando
+de alegria... e eu também! Miau!
 --- BLOCK ---
 Vegetais! Vegetais! VEGETAIS!
 --- BLOCK ---

@@ -24,7 +24,7 @@ Zoom
 --- BLOCK ---
 Girar
 --- BLOCK ---
-Provar
+Testar
 --- BLOCK ---
 Sim
 --- BLOCK ---
@@ -32,13 +32,13 @@ Não
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Sexo
+Gênero
 --- BLOCK ---
 Roupa
 --- BLOCK ---
 Rosto
 --- BLOCK ---
-Características
+Traços
 --- BLOCK ---
 Cor do cabelo
 --- BLOCK ---
@@ -56,9 +56,9 @@ Nome
 --- BLOCK ---
 Avançar
 --- BLOCK ---
-Característica 1
+Traço 1
 --- BLOCK ---
-Característica 2
+Traço 2
 --- BLOCK ---
 Sim
 --- BLOCK ---
@@ -68,7 +68,7 @@ Cor
 --- BLOCK ---
 Cor
 --- BLOCK ---
-Selecionar peça
+Selecionar roupa
 --- BLOCK ---
 Cabeça
 --- BLOCK ---
@@ -82,41 +82,41 @@ Pernas
 --- BLOCK ---
 Alterar
 --- BLOCK ---
-Pigmento: cabeça
+Colorido: cabeça
 --- BLOCK ---
-Pigmento: peito
+Colorido: peito
 --- BLOCK ---
-Pigmento: braços
+Colorido: braços
 --- BLOCK ---
-Pigmento: cintura
+Colorido: cintura
 --- BLOCK ---
-Pigmento: pernas
+Colorido: pernas
 --- BLOCK ---
-Pigmento: todo
+Colorido: tudo
 --- BLOCK ---
 (Sem dados)
 --- BLOCK ---
-Sexo
+Gênero
 --- BLOCK ---
-Tmp jog.
+Tmp. jog.
 --- BLOCK ---
-Fundo
+Dinheiro
 --- BLOCK ---
-RC
+NC
 --- BLOCK ---
 Padrão
 --- BLOCK ---
 Dinâmico
 --- BLOCK ---
-Pan. tácteis
+Touchscreen
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Homem
+Masc.
 --- BLOCK ---
-Mulher
+Femi.
 --- BLOCK ---
 Tipo 1
 --- BLOCK ---

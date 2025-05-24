@@ -16,142 +16,142 @@ TMSG_NPC009_4
 Sabia que trocar
 ajuda na caça?
 --- BLOCK ---
-¡Ja, ótima pergunta! A Vila de Moga
-é famosa por seus objetos raros; os
-Bens alcançam um bom preço no ultramar.
+Ja, ótima pergunta! A Vila de Moga é
+famosa por seus objetos raros; os Bens
+alcançam um bom preço no ultramar.
 --- BLOCK ---
 <SUBS 0>
-Chefe da vila e capitão do Argosy, velho
-nakama. "Nakama" significa amigos!
+Chefe da vila e capitão do Argosy,
+velho nakama. "Nakama" significa amigos!
 --- BLOCK ---
 No passado, aprontamos muitas travessuras.
 *Suspiro* Que tempos, aqueles...
 --- BLOCK ---
 <SUBS 0>
-Tem confiança em seu kenjutsu? "Kenjutsu"
-significa a arte da espada!
+Tem confiança em seu kenjutsu?
+"Kenjutsu" significa a arte da espada!
 --- BLOCK ---
 Eu também manuseio a espada. Estudei
-e dominei a Esgrima de Baixa.
-Era muito popular naquela época, sabias?
+e dominei a Esgrima de Baixa. Era
+muito popular naquela época, sabias?
 --- BLOCK ---
-Moga está distante da cidade. Entrar em
-contato com a Guilda não é um
+Moga está distante da cidade. Entrar
+em contato com a Guilda não é um
 passeio no parque, quer dizer, no koen!
 --- BLOCK ---
-Acredito que a moça do balcão
-de missões trabalha mais do que
-é reconhecido. Merece um aumento... tabun.
+Acredito que a moça do balcão de
+missões trabalha mais do que é
+reconhecido. Merece um aumento... tabun.
 --- BLOCK ---
-Queres trocar algo? Primeiro, escolhe os Itens
-que desejas. Seu valor aparece em
-um indicador ao lado de "Cap.".
+Queres trocar algo? Primeiro, escolhe
+os Itens que desejas. Seu valor aparece
+em um indicador ao lado de "Cap.".
 --- BLOCK ---
 Em seguida, oferece Bens de igual ou
-maior valor, seleciona "Negócio feito!" e faremos
-a troca. É fácil e direto!
+maior valor, seleciona "Negócio feito!"
+e faremos a troca. É fácil e direto!
 --- BLOCK ---
-O valor dos teus Bens e
-o valor dos meus Itens aparecem
-em indicadores chamados "Você" e "Cap.".
+O valor dos teus Bens e o valor dos
+meus Itens aparecem em indicadores
+chamados "Você" e "Cap.".
 --- BLOCK ---
 O valor dos teus Bens deve ser
-igual ou superior ao dos Itens;
-caso contrário, não há negócio. ¡Kyakka!
+igual ou superior ao dos Itens; caso
+contrário, não há negócio. Kyakka!
 --- BLOCK ---
 <SUBS 0>
-Itens vêm de terras distantes, por isso o
-Argosy viaja por muitos lugares.
+Itens vêm de terras distantes, por
+isso o Argosy viaja por muitos lugares.
 --- BLOCK ---
-Cada destino tem Itens diferentes. Se desejas
-os Itens de uma terra, diz
-ao Argosy para onde ir. ¿Yoroshi?
+Cada destino tem Itens diferentes.
+Se desejas os Itens de uma terra,
+diz ao Argosy para onde ir. Yoroshi?
 --- BLOCK ---
 <SUBS 0>
-Neko, meu melhor marinheiro. Comercia com o
-Porto de Tanzia. Você conhece?
+Neko, meu melhor marinheiro. Comercia
+com o Porto de Tanzia. Você conhece?
 --- BLOCK ---
 Mukashi mukashi, salvei Neko de se afogar
 nas gélidas águas do mar. Gato grato
 logo se tornou um bom marinheiro, honto.
 --- BLOCK ---
-Muito bem, caçador, procurando o
-capitão do Argosy? Pois... Não
+Muito bem, caçador, procurando
+o capitão do Argosy? Pois... Não
 procures mais, porque sou eu!
 --- BLOCK ---
-Questionas por que um homem conhecido como
-o Gigante do Oriente traz seu
+Questionas por que um homem conhecido
+como o Gigante do Oriente traz seu
 navio mercante para esta diminuta vila?
 --- BLOCK ---
-¡Ja, ótima pergunta! A Vila de Moga
-é famosa por seus objetos raros; os
-Bens alcançam um bom preço no ultramar.
+Ja, ótima pergunta! A Vila de Moga é
+famosa por seus objetos raros; os Bens
+alcançam um bom preço no ultramar.
 --- BLOCK ---
-Se me trouxeres esses Bens, ofereço
-Itens de todo o mundo
-em koukan. ¡"Koukan" significa "troca"!
+Se me trouxeres esses Bens,
+ofereço Itens de todo o mundo em
+koukan. "Koukan" significa "troca"!
 --- BLOCK ---
-Desejas uma explicação de
-como funciona a troca?
+Desejas uma explicação
+de como funciona a troca?
 --- BLOCK ---
-¡Sokonakucha! Funciona assim: quando quiseres
-usar teus Bens para trocá-los
-por Itens, escolha "Trocar".
+Sokonakucha! Funciona assim:
+quando quiseres usar teus Bens para
+trocá-los por Itens, escolha "Trocar".
 --- BLOCK ---
-Naturalmente, nem todos os Bens
-ou Itens valem o mesmo.
+Naturalmente, nem todos os
+Bens ou Itens valem o mesmo.
 Deves encontrar o equilíbrio!
 --- BLOCK ---
-O valor dos teus Bens deve ser
-igual ou superior ao valor dos meus
-Itens. Caso contrário, não há negócio. ¡Kyakka!
+O valor dos teus Bens deve ser igual
+ou superior ao valor dos meus Itens.
+Caso contrário, não há negócio. Kyakka!
 --- BLOCK ---
-Cada valor é mostrado em um
-indicador diferente. É fácil compará-los!
+Cada valor é mostrado em um indicador
+diferente. É fácil compará-los!
 --- BLOCK ---
-Oferecendo Bens de pouco valor suficientes,
-podes trocá-los por Itens de
-grande valor. Pensa bem, ¿né?
+Oferecendo Bens de pouco valor
+suficientes, podes trocá-los por
+Itens de grande valor. Pensa bem, né?
 --- BLOCK ---
 Vamos lá, caçador, vamos praticar
-a troca. Pega este
-purezento. ¡"Purezento" significa "presente"!
+a troca. Pega este purezento.
+"Purezento" significa "presente"!
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-Pois... Muito bem. Entendeste o
-processo de troca sem minha
+Pois... Muito bem. Entendeste
+o processo de troca sem minha
 ajuda. Não foi tão difícil.
 --- BLOCK ---
 Vamos lá, caçador, vamos praticar
-a troca. Pega este
-purezento. ¡"Purezento" significa "presente"!
+a troca. Pega este purezento.
+"Purezento" significa "presente"!
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-¡Olá, caçador! ¡Yoku kita! Tu e
-Neko já se dão bem?
+Olá, caçador! Yoku kita!
+Tu e Neko já se dão bem?
 --- BLOCK ---
-Neko (significa "gato") meu melhor marinheiro. O
-chefe da vila pediu ao Gigante do
+Neko (significa "gato") meu melhor marinheiro.
+O chefe da vila pediu ao Gigante do
 Oriente (eu) para negociar em Porto Tanzia.
 --- BLOCK ---
 Fiz de Neko um tanto. Ele manda!
-Se quiseres ir a Tanzia, fala
-com o Felyne cheirando a aventura!
+Se quiseres ir a Tanzia, fala com
+o Felyne cheirando a aventura!
 --- BLOCK ---
-Ele te levará a Tanzia porque
-ajudar é um shugyo importante. ¡"Shugyo"
+Ele te levará a Tanzia porque ajudar
+é um shugyo importante. "Shugyo"
 significa treinamento! Tu treinas, não é?
 --- BLOCK ---
-Vamos lá! A
-brisa marinha chama!
+Vamos lá! A brisa
+marinha chama!
 --- BLOCK ---
-Caçador, falaste com aquele Felyne? Pois...
-É um Cozinheiro ambulante, viaja por
-muitas terras para aprender receitas.
+Caçador, falaste com aquele Felyne?
+Pois... É um Cozinheiro ambulante, viaja
+por muitas terras para aprender receitas.
 --- BLOCK ---
 Mas ainda fica enjoado ao navegar.
 Aprende a receita, prova e
@@ -162,77 +162,77 @@ Moga, então ficará por um tempo.
 Pode ser que fique para sempre!
 --- BLOCK ---
 Não te preocupes, já tenho
-a shonin do Chefe da
-vila. ¡"Shonin" significa "bênção"!
+a shonin do Chefe da vila.
+"Shonin" significa "bênção"!
 --- BLOCK ---
-Tens que visitar a Cantina do
-Felyne cozinheiro. Trabalhou em um restaurante
+Tens que visitar a Cantina do Felyne
+cozinheiro. Trabalhou em um restaurante
 de primeira, enchia muitas barrigas!
 --- BLOCK ---
-Toma, este Vale é
-do seu antigo restaurante.
+Toma, este Vale é do
+seu antigo restaurante.
 --- BLOCK ---
 Entrega-o e ele preparará um banquete
-digno de um rei. Nem
-precisarás pensar nos ingredientes! ¡Anshin!
+digno de um rei. Nem precisarás
+pensar nos ingredientes! Anshin!
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
 <SUBS 0>
-O Argosy ancora com frequência
-nesta vila.
+O Argosy ancora com
+frequência nesta vila.
 --- BLOCK ---
-Não deixes de conferir meu menu.
-Te dirá quanto tempo falta
+Não deixes de conferir meu
+menu. Te dirá quanto tempo falta
 para o Argosy zarpar novamente.
 --- BLOCK ---
-Mas é melhor ter os
-Bens prontos antes da chegada.
-Assim, não precisarás te apressar!
+Mas é melhor ter os Bens
+prontos antes da chegada. Assim,
+não precisarás te apressar!
 --- BLOCK ---
 <SUBS 0>
-Então... Jovem viajante em
-busca da máscara?
+Então... Jovem viajante
+em busca da máscara?
 --- BLOCK ---
-¡Sokonakucha! Estarei atento às
-máscaras e as trarei
-para trocar, né?
+Sokonakucha! Estarei
+atento às máscaras e as
+trarei para trocar, né?
 --- BLOCK ---
-Se quiseres obter uma máscara, tenha
-Bens prontos antes da chegada
-do Argosy. É o melhor!
+Se quiseres obter uma máscara,
+tenha Bens prontos antes da
+chegada do Argosy. É o melhor!
 --- BLOCK ---
-¡Olá, caçador! ¡Yoku kita! Com boa
-caça, há boa troca, né?
+Olá, caçador! Yoku kita! Com
+boa caça, há boa troca, né?
 --- BLOCK ---
 No momento certo. A pomba mensageira
 trouxe boas notícias. Há mais terras
 querendo trocar teus Bens de Moga!
 --- BLOCK ---
 Por exemplo, o Reino caça.
-Seus Itens serão úteis
-em tuas caçadas, ¡kakujitsu!
+Seus Itens serão úteis em
+tuas caçadas, kakujitsu!
 --- BLOCK ---
 Um detalhe: agora que outras terras
-querem negociar contigo, é preciso fazer
-um "keikaku", ¡ou seja, um plano!
+querem negociar contigo, é preciso
+fazer um "keikaku", ou seja, um plano!
 --- BLOCK ---
-Queres que te explique como
-escolher o destino e
-a duração das viagens?
+Queres que te explique
+como escolher o destino
+e a duração das viagens?
 --- BLOCK ---
-¡Sokonakucha! Escuta com atenção.
+Sokonakucha! Escuta com atenção.
 --- BLOCK ---
-¡Regra número um! Os Itens
+Regra número um! Os Itens
 são diferentes em cada porto.
 --- BLOCK ---
-Presta atenção na lista de Itens
-ao escolher a terra que visitaremos.
-É tua "responsabilidade". ¡Tu responsável!
+Presta atenção na lista de Itens ao
+escolher a terra que visitaremos. É
+tua "responsabilidade". Tu responsável!
 --- BLOCK ---
-¡Regra número dois! Atracar em mais
-de um porto tornará a
+Regra número dois! Atracar
+em mais de um porto tornará a
 viagem do Argosy mais longa.
 --- BLOCK ---
 Podes escolher: viagem longa e acúmulo
@@ -241,140 +241,140 @@ conseguir somente o que precisas.
 --- BLOCK ---
 Escolhe com sabedoria, colega.
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-Pois... Muito bem. Entendeste
-sem minha ajuda, né?
-Não foi tão difícil.
+Pois... Muito bem.
+Entendeste sem minha ajuda,
+né? Não foi tão difícil.
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-¡Olá, caçador! ¡Yoku kita! Com boa
-caça, há boa troca, né?
+Olá, caçador! Yoku kita! Com
+boa caça, há boa troca, né?
 --- BLOCK ---
 No momento certo. Outra pomba mensageira
 nos avisou que há outras terras
 querendo trocar teus Bens de Moga!
 --- BLOCK ---
-Desta vez é o reino wyvern.
-Tem Itens muito especiais, difíceis de
-conseguir em outro lugar. ¡Tokubetsu!
+Desta vez é o reino wyvern. Tem
+Itens muito especiais, difíceis de
+conseguir em outro lugar. Tokubetsu!
 --- BLOCK ---
 Queres que te conte um
 segredinho sobre o reino wyvern?
 --- BLOCK ---
-¡Sokonakucha! Escuta bem.
+Sokonakucha! Escuta bem.
 --- BLOCK ---
 Eu também sou wyveriano. Surpreso?
 No Reino Wyvern, minha família
 aguarda meu triunfal retorno.
 --- BLOCK ---
-O capitão do Argosy ficará muito contente
-se me mandares para casa. Trarei coisas
-que maximizarão a Frota de caça!
+O capitão do Argosy ficará muito
+contente se me mandares para casa. Trarei
+coisas que maximizarão a Frota de caça!
 --- BLOCK ---
 Mas, por ora, mostra-me os
 Bens, certo? São negócios!
 --- BLOCK ---
-Pois... Bem... Há segredos que é
-melhor manter ocultos. O mistério é
-o tempero da vida, né?
+Pois... Bem... Há segredos
+que é melhor manter ocultos. O
+mistério é o tempero da vida, né?
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-¡Taihen! Se a vista não
-me engana, a situação
-da vila tornou-se desastrosa!
+Taihen! Se a vista não
+me engana, a situação da
+vila tornou-se desastrosa!
 --- BLOCK ---
-Em tempos de perigo, as terras devem se
-apoiar... se o dinheiro bater! O amor
-e a troca salvam o mundo, né?
+Em tempos de perigo, as terras devem
+se apoiar... se o dinheiro bater! O
+amor e a troca salvam o mundo, né?
 --- BLOCK ---
 Ofereço objetos que te ajudarão a
-enfrentar o monstro marinho. Consulta a
-lista de Itens do reino wyvern.
+enfrentar o monstro marinho. Consulta
+a lista de Itens do reino wyvern.
 --- BLOCK ---
-Pode ser que não precises de ajuda. Mas
-é melhor prevenir do que remediar. ¡Anshin!
+Pode ser que não precises de ajuda. Mas é
+melhor prevenir do que remediar. Anshin!
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-¡Goran! Atenção! Desfruta
+Goran! Atenção! Desfruta
 contemplando esta beleza!
 --- BLOCK ---
 Te dou esta magnífica Espada longa
-para te ajudar na batalha com
-o Ceadeus. ¡"Batalha" significa "batalha"!
+para te ajudar na batoru com o
+Ceadeus. "Batoru" significa "batalha"!
 --- BLOCK ---
 Que teus deuses te favoreçam, caçador.
 --- BLOCK ---
 Como?
 --- BLOCK ---
-Terminaste tua batalha?
-¿Nani? Saíste vitorioso?
+Terminaste tua batoru?
+Nani? Saíste vitorioso?
 --- BLOCK ---
 Pois...
 --- BLOCK ---
-¡Ja, não importa! Podes ficar
-com a Espada longa.
+Ja, não importa! Podes
+ficar com a Espada longa.
 --- BLOCK ---
 Parabéns por afugentar o grande dragão
-marinho. Contaremos a história de teus
-feitos onde quer que atraquemos!
+marinho. Contaremos a história de
+teus feitos onde quer que atraquemos!
 --- BLOCK ---
 Tem boas conversas enquanto o capitão do
-Argosy negocia. Mantenha boas relações. Assim,
-mais objetos raros em troca, ¿entendes?
+Argosy negocia. Mantenha boas relações.
+Assim, mais objetos raros em troca, entendes?
 --- BLOCK ---
 Enfim, tu, caçador lendário!
 Caçador de lendas! Todos
 conhecerão tuas proezas.
 --- BLOCK ---
-¡De wa! A brisa
+De wa! A brisa
 marinha me chama!
 --- BLOCK ---
-¡Olá, caçador! ¡Yoku kita! Com
-a vila já segura, talvez
+Olá, caçador! Yoku kita!
+Com a vila já segura, talvez
 te aborreças muito, não?
 --- BLOCK ---
-Deves visitar Porto Tanzia. As missões
-do porto são muito mais desafiadoras
-que as da vila. ¡Taihen!
+Deves visitar Porto Tanzia. As
+missões do porto são muito mais
+desafiadoras que as da vila. Taihen!
 --- BLOCK ---
 Caso te esqueças, Neko está lá
-e te levará ao porto. ¡"Neko"
-significa gato! ¡Neko É um gato!
+e te levará ao porto. "Neko"
+significa gato! Neko É um gato!
 --- BLOCK ---
 A brisa marinha
 me chama!
 --- BLOCK ---
-Olá, caçador! Bem-vindo! Segundo os
-rumores, um novo monstro muito
-poderoso está à solta.
+Olá, caçador! Bem-vindo! Segundo
+os rumores, um novo monstro
+muito poderoso está à solta.
 --- BLOCK ---
 "Rumores", nome da minha rede de serviço
-secreto. Ela me conta tudo o que
-acontece no mundo: os melhores restaurantes,...
+secreto. Ela me conta tudo o que acontece
+no mundo: os melhores restaurantes,...
 --- BLOCK ---
 O quê? Ir direto ao
 ponto, você diz? Bem...
 --- BLOCK ---
-Muito bem. Os rumores dizem que
-o novo monstro é muito violento,
-capaz de causar grandes explosões. ¡BOOOM!
+Muito bem. Os rumores dizem que o
+novo monstro é muito violento, capaz
+de causar grandes explosões. BOOOM!
 --- BLOCK ---
 Isso é tudo o que os rumores têm a dizer por agora.
 --- BLOCK ---
 A brisa marinha
 me chama!
 --- BLOCK ---
-Olá, caçador! Bem-vindo! Finalmente, os
-rumores forneceram informações confiáveis
-sobre o novo monstro!
+Olá, caçador! Bem-vindo! Finalmente,
+os rumores forneceram informações
+confiáveis sobre o novo monstro!
 --- BLOCK ---
 O quê? Como se chama o monstro,
 você diz? Ele se chama "sariyu".
@@ -389,64 +389,64 @@ Por isso estou procurando o monstro.
 E olhe só! Encontrei o Brachydios
 no kazan. "Kazan" significa vulcão!
 --- BLOCK ---
-Esse monstro é muito
-estranho... Pode causar explosões
-espontâneas por razões desconhecidas.
+Esse monstro é muito estranho...
+Pode causar explosões espontâneas
+por razões desconhecidas.
 --- BLOCK ---
-E na pele do monstro, há
-um fungo parasita viscoso... Muito mistério!
+E na pele do monstro, há um fungo
+parasita viscoso... Muito mistério!
 --- BLOCK ---
 Enfim! O Gigante do Oriente sabe que você vai
-resolver o mistério, não é mesmo? Peça à
-Garota do gremio uma missão exclusiva para você.
+resolver o mistério, não é mesmo? Peça à Garota
+da Guilda uma missão exclusiva para você.
 --- BLOCK ---
 A brisa marinha
 me chama!
 --- BLOCK ---
-Ha, ha, ha! "Ha, ha,
-ha" significa riso. E isso
+Ha, ha, ha! "Ha, ha, ha"
+significa riso. E isso
 não é motivo de risada!
 --- BLOCK ---
 Ouviu isso? Um monstro muito
-estranho está na costa da
-vila. Parece ser um Lagiacrus...
+estranho está na costa da vila.
+Parece ser um Lagiacrus...
 --- BLOCK ---
 Um amigo mercador do capitão
 do Argosy tentou navegar
 por essa região... BOOOM!
 --- BLOCK ---
 O monstro destroçou o barco do amigo!
-Por sorte, ele sabe nadar bem, mas
-a carga não sabe nadar. Tudo perdido.
+Por sorte, ele sabe nadar bem, mas a
+carga não sabe nadar. Tudo perdido.
 --- BLOCK ---
-Os rumores dizem que o monstro é de
-cor mármore e muito violento. Talvez nem mesmo
-minha baixa esgrima seja suficiente contra ele.
+Os rumores dizem que o monstro é de cor mármore
+e muito violento. Talvez nem mesmo minha
+baixa esgrima seja suficiente contra ele.
 --- BLOCK ---
 Estou muito preocupado se o Argosy
 será o próximo a cair. BOOOM!
 --- BLOCK ---
-Mas saiba! Você é um
-grande caçador. Talvez consiga derrotar
+Mas saiba! Você é um grande
+caçador. Talvez consiga derrotar
 essa ameaça. Apenas talvez...
 --- BLOCK ---
 Veja, veja! Lagiacrus
 marmóreo chegou!
 --- BLOCK ---
 O monstro está vindo, e o Gigante
-do Oriente já conhece seu terrível poder.
-Agora é sua vez de lutar!
+do Oriente já conhece seu terrível
+poder. Agora é sua vez de lutar!
 --- BLOCK ---
-Mas isso não te deterá.
-Vejo determinação em seus
-olhos... "Determinação" significa olhar!
+Mas isso não te deterá. Vejo
+determinação em seus olhos...
+"Determinação" significa olhar!
 --- BLOCK ---
-Vá caçar esse monstro. Teste
-suas habilidades de caçador, certo?
+Vá caçar esse monstro. Teste suas
+habilidades de caçador, certo?
 --- BLOCK ---
 Lembre-se que o Gigante do
-Oriente está torcendo por você
-em segurança. Kuwabara, kuwabara...
+Oriente está torcendo por você em
+segurança. Kuwabara, kuwabara...
 --- BLOCK ---
 Avante! A brisa
 marinha me chama!
@@ -454,13 +454,13 @@ marinha me chama!
 Olá, caçador! Bem-vindo! Bem-vindo,
 bem-vindo, bem-vindo! Quatro "bem-vindos"!
 --- BLOCK ---
-Os rumores dizem que você caçou o
-terrível Lagiacrus marmóreo! O Gigante do
-Oriente está muito impressionado. Que honra!
+Os rumores dizem que você caçou o terrível
+Lagiacrus marmóreo! O Gigante do Oriente
+está muito impressionado. Que honra!
 --- BLOCK ---
-Faço muitas viagens, conheço muitos caçadores. Mas, por
-todos os que conheci, nenhum é como
-você... Você é o melhor de todos!
+Faço muitas viagens, conheço muitos caçadores.
+Mas, por todos os que conheci, nenhum é
+como você... Você é o melhor de todos!
 --- BLOCK ---
 Avante! A brisa
 marinha me chama!
@@ -488,8 +488,8 @@ Até logo, até mais!
 --- BLOCK ---
 (!)
 --- BLOCK ---
-Diga, qual é o seu
-desejo? Como posso te ajudar?
+Diga, qual é o seu desejo?
+Como posso te ajudar?
 --- BLOCK ---
 Bem, diga o que deseja, certo?
 --- BLOCK ---

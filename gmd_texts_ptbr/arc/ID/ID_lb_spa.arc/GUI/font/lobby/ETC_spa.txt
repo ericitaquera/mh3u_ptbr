@@ -36,9 +36,9 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Muer
+Mortes
 --- BLOCK ---
-Capt
+Captur
 --- BLOCK ---
 Nv.
 --- BLOCK ---
@@ -62,7 +62,7 @@ Eventos
 --- BLOCK ---
 Missões de Arena
 --- BLOCK ---
-RC req: %d
+NC req: %d
 --- BLOCK ---
 Marina
 --- BLOCK ---

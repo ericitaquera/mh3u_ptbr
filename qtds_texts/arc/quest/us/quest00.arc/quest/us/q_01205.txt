@@ -3,7 +3,7 @@ TITLES_0=Pain in the Plains
 TITLES_1=Plaines de douleur
 TITLES_2=Schmerz in der Ebene
 TITLES_3=Terrore nelle piane
-TITLES_4=Sufrimiento en los llanos
+TITLES_4=Sofrimento na Planície
 [OBJECTIVES]
 OBJECTIVES_0=Hunt a Great Jaggi
 OBJECTIVES_1=Chasser un Grand Jaggi

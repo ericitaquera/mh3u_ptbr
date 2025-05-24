@@ -446,7 +446,7 @@ Detalhes
 --- BLOCK ---
 %d/6
 --- BLOCK ---
-RC
+NC
 --- BLOCK ---
 %3d
 --- BLOCK ---

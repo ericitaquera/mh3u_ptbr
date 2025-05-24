@@ -58,9 +58,9 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Bolero do bardo do gremio
+Bolero do bardo da Guilda
 --- BLOCK ---
-Colete do bardo do gremio
+Colete do bardo da Guilda
 --- BLOCK ---
 Blusa de colegial
 --- BLOCK ---
@@ -760,7 +760,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Jaqueta Cazaaverno
+Jaqueta Caçaaverno
 --- BLOCK ---
-Couro Cazaaverno
+Couro Caçaaverno
 --- BLOCK ---

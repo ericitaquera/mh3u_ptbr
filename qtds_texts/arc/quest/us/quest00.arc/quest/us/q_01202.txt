@@ -3,7 +3,7 @@ TITLES_0=Bug Hunt
 TITLES_1=Chasse aux insectes
 TITLES_2=Käferjagd
 TITLES_3=Caccia all'insetto
-TITLES_4=Cazando bichos
+TITLES_4=Caçando bichos
 [OBJECTIVES]
 OBJECTIVES_0=Slay 12 Altaroth
 OBJECTIVES_1=Tuer 12 Altaroth

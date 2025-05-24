@@ -58,9 +58,9 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Botas bardo gremio
+Botas bardo Guilda
 --- BLOCK ---
-Polainas bardo grem.
+Polainas bardo Guil.
 --- BLOCK ---
 Meias colegiala
 --- BLOCK ---
@@ -240,9 +240,9 @@ Joelheiras de Gobul S
 --- BLOCK ---
 Perneiras de Gobul S
 --- BLOCK ---
-Botas bardo gremio S
+Botas bardo Guilda S
 --- BLOCK ---
-Polainas bardo gr. S
+Polain bardo Guil. S
 --- BLOCK ---
 Meias coleg. S
 --- BLOCK ---
@@ -692,9 +692,9 @@ Perneiras montanhosas
 --- BLOCK ---
 Perneiras de atirador
 --- BLOCK ---
-Botas do bardo gremio X
+Botas do bardo Guilda X
 --- BLOCK ---
-Polainas do bardo gr. X
+Polain bardo Guilda X
 --- BLOCK ---
 Meias colegiais X
 --- BLOCK ---

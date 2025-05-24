@@ -97,7 +97,7 @@ Mercado
 --- BLOCK ---
 Armeiro/Ferreiro
 --- BLOCK ---
-Ferry (Neko)
+Balsa (Neko)
 --- BLOCK ---
 Sua casa
 --- BLOCK ---
