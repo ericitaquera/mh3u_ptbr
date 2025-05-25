@@ -9,9 +9,9 @@ This repository contains scripts, tools, and documentation to extract, translate
 
 > 📄 See [DISCLAIMER.md](DISCLAIMER.md) for important legal and usage terms.
 
-[![Watch the video](https://img.youtube.com/vi/x7ZFINt657s/maxresdefault.jpg)](https://youtu.be/x7ZFINt657s)
+[![Watch the video](https://img.youtube.com/vi/tMayulQo3zo/maxresdefault.jpg)](https://youtu.be/tMayulQo3zo)
 
-### [Demo do início da tradução](https://youtu.be/x7ZFINt657s)
+### [Demo do início da tradução](https://youtu.be/tMayulQo3zo)
 
 ---
 
