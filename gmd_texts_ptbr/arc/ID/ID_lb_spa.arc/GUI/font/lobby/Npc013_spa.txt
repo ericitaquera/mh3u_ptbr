@@ -221,7 +221,7 @@ caçada. Quando volta, acabou!
 --- BLOCK ---
 Então, tenho que preparar a Cantina para
 servir à boa gente da Vila
-de Moga. Tenha paciência, por favor.
+Moga. Tenha paciência, por favor.
 --- BLOCK ---
 Mon Dieu! O Bistrô está
 funcionando perfeitamente! E tudo graças
@@ -250,7 +250,7 @@ pratos aumentam ainda mais sua Saúde.
 É o máximo na alta gastronomia!
 --- BLOCK ---
 Oh lá lá... Parece que o
-famoso leite da Vila de Moga
+famoso leite da Vila Moga
 vai estragar... Estamos perdidos, miau...
 --- BLOCK ---
 Mas não! Em momentos difíceis como

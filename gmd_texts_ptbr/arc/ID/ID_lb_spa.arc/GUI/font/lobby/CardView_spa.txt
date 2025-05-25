@@ -247,7 +247,7 @@ os melhores ingredientes. Utensílio
 típico de Tanzia.
 --- BLOCK ---
 Prova de sua contribuição para a
-vila de Moga. Joia rara
+Vila Moga. Joia rara
 feita de um caranguejo Atlantis.
 --- BLOCK ---
 Prova de ter conseguido
@@ -344,7 +344,7 @@ Também caçou:
 --- BLOCK ---
  <COLO 36>O Nível do caçador aumenta para %d!
 --- BLOCK ---
- <COLO 33>Você caçou na Floresta de Moga!
+ <COLO 33>Você caçou na Floresta Moga!
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

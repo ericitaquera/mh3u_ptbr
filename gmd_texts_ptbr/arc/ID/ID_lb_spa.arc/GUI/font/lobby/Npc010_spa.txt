@@ -251,7 +251,7 @@ Calma, calma e respire. Uff.
 O Lagiacrus! Finalmente disse...
 --- BLOCK ---
 O Lagiacrus está na costa
-da Floresta de Moga. Vi!
+da Floresta Moga. Vi!
 --- BLOCK ---
 Acha que VOCÊ pode fazer algo?
 Se nem a força combinada de
@@ -282,7 +282,7 @@ O que acha de se juntar à
 orgulhosa e ilustre Frota de caça?
 --- BLOCK ---
 Pense nisso! Será um herói da
-Vila de Moga! Talvez até passe
+Vila Moga! Talvez até passe
 no teste físico sem vomitar.
 --- BLOCK ---
 Hein? Por que está balançando a cabeça
@@ -343,7 +343,7 @@ ignorar um feito tão grandioso. Os
 três conversamos e tomamos uma decisão.
 --- BLOCK ---
 Vamos renunciar ao título de
-heróis da Vila de Moga!
+heróis da Vila Moga!
 Não merecemos! Não merecemos!
 --- BLOCK ---
 Ei, por que está tão triste?

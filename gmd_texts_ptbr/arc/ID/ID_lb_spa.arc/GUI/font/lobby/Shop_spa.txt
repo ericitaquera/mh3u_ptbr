@@ -636,7 +636,7 @@ e mercadorias ao Argosy.
 --- BLOCK ---
 Terra de caçadores com armas
 e ferramentas difíceis de encontrar
-na Vila de Moga.
+na Vila Moga.
 --- BLOCK ---
 Terra natal dos wyverns: um
 tesouro oculto de medicinas e

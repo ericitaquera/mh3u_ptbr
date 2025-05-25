@@ -16,7 +16,7 @@ TMSG_NPC009_4
 Sabia que trocar
 ajuda na caça?
 --- BLOCK ---
-Ja, ótima pergunta! A Vila de Moga é
+Ja, ótima pergunta! A Vila Moga é
 famosa por seus objetos raros; os Bens
 alcançam um bom preço no ultramar.
 --- BLOCK ---
@@ -83,7 +83,7 @@ Questionas por que um homem conhecido
 como o Gigante do Oriente traz seu
 navio mercante para esta diminuta vila?
 --- BLOCK ---
-Ja, ótima pergunta! A Vila de Moga é
+Ja, ótima pergunta! A Vila Moga é
 famosa por seus objetos raros; os Bens
 alcançam um bom preço no ultramar.
 --- BLOCK ---
@@ -473,7 +473,7 @@ O Gigante do Oriente voltou!
 --- BLOCK ---
 Bem-vindo, caçador!
 --- BLOCK ---
-Vila de Moga, estou de volta!
+Vila Moga, estou de volta!
 --- BLOCK ---
 Até nos encontrarmos novamente!
 --- BLOCK ---

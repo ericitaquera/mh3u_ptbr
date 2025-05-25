@@ -75,10 +75,10 @@ para te ajudarmos.
 --- BLOCK ---
 Acho que devo dar uma mão. Ok!
 Apenas desta vez, vou te contar um
-segredo sobre a Floresta de Moga.
+segredo sobre a Floresta Moga.
 --- BLOCK ---
 Você sabe que há uma caverna na
-Fazenda que leva à Floresta de Moga,
+Fazenda que leva à Floresta Moga,
 não é? Vamos, você deve saber disso!
 --- BLOCK ---
 Bem, há montes de passagens
@@ -167,8 +167,8 @@ dente. Tundra! Uau, que sabor terá?
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0> Meu irmão jura que
-há um duende na Floresta de
-Moga. Que contador de histórias!
+há um duende na Floresta Moga.
+Que contador de histórias!
 --- BLOCK ---
 Duendes não existem! Meu
 irmão é muito estranho!
@@ -234,12 +234,12 @@ ele fica bravo, é melhor ter cuidado!
 --- BLOCK ---
 Provavelmente estará no centro da vila,
 perto dos armazéns. Se não, ele deve ter
-ido para a Floresta de Moga.
+ido para a Floresta Moga.
 --- BLOCK ---
 É um ótimo lugar para encontrar
 Recursos! Todo mundo sabe disso!
 --- BLOCK ---
-Sim, coletar Recursos na Floresta de Moga é
+Sim, coletar Recursos na Floresta Moga é
 o primeiro passo para se destacar nesta
 vila. É o que o Chefe diz.
 --- BLOCK ---
@@ -247,7 +247,7 @@ Ei, você viu o
 Filho do Chefe?
 --- BLOCK ---
 Se ele não estiver aqui, vá dar uma
-olhada na Floresta de Moga. A ponte no
+olhada na Floresta Moga. A ponte no
 final da vila te levará até lá.
 --- BLOCK ---
 Mas, se você sair, tenha cuidado

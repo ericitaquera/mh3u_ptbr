@@ -1291,7 +1291,7 @@ escama nunca seca. Use
 em trocas raras.
 --- BLOCK ---
 Ovo misterioso, só encontrado
-na floresta de Moga.
+na Floresta Moga.
 Pode se tornar Recursos.
 --- BLOCK ---
 Fertilizante para a fazenda.
@@ -1331,11 +1331,11 @@ Frota de caça. Caso
 contrário, é menos eficaz.
 --- BLOCK ---
 Dente de wyvern da
-Floresta de Moga de
+Floresta Moga de
 pouco valor. Venda barato.
 --- BLOCK ---
 Dente de monstro da Floresta
-de Moga. Muito valioso.
+Moga. Muito valioso.
 Faça valer o preço.
 --- BLOCK ---
 Ferrão de certos
@@ -1786,7 +1786,7 @@ anos de crescimento.
 --- BLOCK ---
 Pena com um toque tropical.
 Usada para fazer lembranças
-da vila de Moga.
+da Vila Moga.
 --- BLOCK ---
 Pena colorida com brilho
 elegante. De um Qurupeco
@@ -1794,7 +1794,7 @@ que habita certas regiões.
 --- BLOCK ---
 Pena com toque tropical.
 Usada para fazer lembranças
-da vila de Moga.
+da Vila Moga.
 --- BLOCK ---
 Asa especial do
 Qurupeco incrivelmente endurecida
@@ -5441,7 +5441,7 @@ Ferrão de platina de
 um monstro específico. Vendido
 por um bom preço.
 --- BLOCK ---
-Presa de monstro da Floresta de
+Presa de monstro da Floresta
 Moga. Vale seu peso em
 ouro e tem alto valor.
 --- BLOCK ---

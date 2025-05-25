@@ -18,24 +18,24 @@ Miau? Ainda em missão! Se querer
 ir ao porto, precisa kyanseru antes
 da missão. "Kyanseru" é cancelar!
 --- BLOCK ---
-<SUBS 0>Neko com ciúmes
-cabelo do Capitão, tenta fazer
-mesmo penteado! Fica ondulado...
+<SUBS 0>
+Neko com ciúmes cabelo do Capitão, tenta
+fazer mesmo penteado! Fica ondulado...
 --- BLOCK ---
 Lâmina de Neko presente do capitão.
 Neko trabalhar no Argosy, mas aprender
 também Esgrima suja... Nhá! Ha! Ma!
 --- BLOCK ---
-<SUBS 0>Neko e capitão gostar
-de Moga, chamar de "Makaimura".
-Significa vila do oceano!
+<SUBS 0>
+Neko e capitão gostar de Moga, chamar
+de "Makaimura". Significa vila do oceano!
 --- BLOCK ---
-<SUBS 0>Barco não muito grande,
-honto, mas Neko usa para
-entregar artigos e material.
+<SUBS 0>
+Barco não muito grande, honto, mas Neko usa
+para entregar artigos e material.
 --- BLOCK ---
-<SUBS 0>Você fez torihiki
-com o capitão do Argosy?
+<SUBS 0>
+Você fez torihiki com o capitão do Argosy?
 "Torihiki" significa negócio!
 --- BLOCK ---
 Tanzia tem vários sabores. Tem Porto
@@ -45,9 +45,9 @@ Lobo solitário como Neko preferir jogar
 Porto Solo. Caçador com muitos amigos
 deve jogar Porto Multi, miau.
 --- BLOCK ---
-<SUBS 0>Quando bravo caçador no
-Porto, Neko te ajudar
-com a Fazenda. Promessa!
+<SUBS 0>
+Quando bravo caçador no Porto, Neko te
+ajudar com a Fazenda. Promessa!
 --- BLOCK ---
 Saudações, caçador! Estar diante
 do melhor tripulante do
@@ -74,7 +74,7 @@ como Tigre do Extremo Oriente.
 --- BLOCK ---
 Capitão do Argosy confiar a Neko
 ninmu especial aqui na Vila
-de Moga. "Ninmu" significa encargo!
+Moga. "Ninmu" significa encargo!
 --- BLOCK ---
 Neko não ser quem cortar bacalhau,
 bens e artigos principais

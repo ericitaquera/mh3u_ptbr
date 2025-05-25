@@ -109,8 +109,8 @@ apaixonados. Ha, ha, ha!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Na Vila de
-Moga é comum usar a
+<SUBS 0>
+Na Vila Moga é comum usar a
 Lista de combinações para combinar.
 --- BLOCK ---
 Se você tem os itens, pode fazer suas
@@ -123,9 +123,9 @@ costumam combinar enquanto atiram.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Você conhece a
-cachoeira que fica ao lado
-da Fazenda da vila?
+<SUBS 0>
+Você conhece a cachoeira que fica
+ao lado da Fazenda da vila?
 --- BLOCK ---
 Bem, aposto que você não sabia que
 atrás dela há um estranho altar.
@@ -137,9 +137,9 @@ Tentei fazê-lo contar algo,
 mas ele não se
 entregou. Ha, ha, entendeu?
 --- BLOCK ---
-<SUBS 0> Quando os monstros
-se aproximam muito da vila,
-nós os afugentamos com bombas.
+<SUBS 0>
+Quando os monstros se aproximam muito da
+vila, nós os afugentamos com bombas.
 --- BLOCK ---
 Basta colocar uma Erva de fogo dentro
 de um Barril pequeno e voilà! Você
@@ -155,16 +155,16 @@ armazenar a Pólvora com segurança.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Já viu
-alguma vez um Jaggia
+<SUBS 0>
+Já viu alguma vez um Jaggia
 sentar-se para descansar?
 --- BLOCK ---
 Pois é uma visão
 que te deixará sentado.
 Ha, ha, entendeu?
 --- BLOCK ---
-<SUBS 0> Se combinar
-um Inseto amargo com
+<SUBS 0>
+Se combinar um Inseto amargo com
 Mel, terá um Catalisador.
 --- BLOCK ---
 Um Catalisador serve para aumentar
@@ -173,8 +173,8 @@ Possibilita mais combinações avançadas!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> O que fazes
-com os bifes mal passados
+<SUBS 0>
+O que fazes com os bifes mal passados
 que não estão bem cozidos?
 --- BLOCK ---
 Veja, eu gosto de combiná-los com
@@ -183,8 +183,8 @@ tem muitos nutrientes de Resistência.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sabe do
-que precisa para capturar
+<SUBS 0>
+Sabe do que precisa para capturar
 monstros, não é? Tranquilizantes.
 --- BLOCK ---
 Alguém tão esperto saberá que pode
@@ -266,8 +266,8 @@ Como você aguenta isso? Haha, você entende?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> "Qurupeco" é
-um nome muito fofo
+<SUBS 0>
+"Qurupeco" é um nome muito fofo
 para um monstro!
 --- BLOCK ---
 Dizem que os Qurupeco têm passos de dança
@@ -288,8 +288,8 @@ cancelar sua atuação. ¡Actus interruptus!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sabia disso? O
-Chefe era antes um
+<SUBS 0>
+Sabia disso? O Chefe era antes um
 caçador famoso da Guilda!
 --- BLOCK ---
 Agora entendo por que ele tem
@@ -348,8 +348,8 @@ um pouco de felicidade em sua vida? Haha!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sempre se
-nota quando o
+<SUBS 0>
+Sempre se nota quando o
 chefe está pensativo.
 --- BLOCK ---
 Ele fica parado no cais da
@@ -358,9 +358,9 @@ fácil encontrá-lo lá! Ha, ha, ENTENDEU?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sabia disso? A
-Guilda está procurando alguém para
-caçar Vísceras de monstro.
+<SUBS 0>
+Sabia disso? A Guilda está procurando
+alguém para caçar Vísceras de monstro.
 --- BLOCK ---
 São deliciosas! Daquelas gostosuras que
 derretem na boca! Experimente se
@@ -374,9 +374,9 @@ que conheça bem a floresta saberá.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Você sabe o
-que é necessário para
-capturar monstros, certo? Tranquilizantes.
+<SUBS 0>
+Você sabe o que é necessário para capturar
+monstros, certo? Tranquilizantes.
 --- BLOCK ---
 Alguém tão esperto saberá que pode
 ser feito combinando uma Erva sonífera
@@ -392,8 +392,8 @@ Algo maluco! Ha, ha, ENTENDEU?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> "Qurupeco" é um
-nome muito fofo para um
+<SUBS 0>
+"Qurupeco" é um nome muito fofo para um
 monstro! Como "Rex", ou "Bichano".
 --- BLOCK ---
 Dizem que os Qurupeco têm passos de dança

@@ -383,7 +383,7 @@ plantas... Tudo o que é indispensável.
 --- BLOCK ---
 Você precisará de um bom equipamento se
 quiser sobreviver por muito tempo na
-Floresta de Moga. Está cheia de monstros!
+Floresta Moga. Está cheia de monstros!
 --- BLOCK ---
 Os terremotos afetaram o comércio, mas
 estou fazendo novos contatos e
@@ -400,7 +400,7 @@ Tem certeza? Tudo bem...
 Se não está na vila, deve
 ter ido para a floresta.
 --- BLOCK ---
-A Floresta de Moga fica
+A Floresta Moga fica
 nos arredores da vila.
 --- BLOCK ---
 O filho do Chefe é responsável por

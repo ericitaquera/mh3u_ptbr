@@ -380,7 +380,7 @@ como um Sharq faminto.
 --- BLOCK ---
 Espada longa feita de uma
 arma estrangeira pelo melhor ferreiro
-da vila de Moga.
+da Vila Moga.
 --- BLOCK ---
 Espada longa que encarna a
 morte. Pode fazer o mundo

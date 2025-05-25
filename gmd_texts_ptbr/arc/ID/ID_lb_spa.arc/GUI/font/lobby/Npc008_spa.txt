@@ -293,7 +293,7 @@ equipado antes de entrar nas florestas!
 Ei? Tem
 alguma ideia?
 --- BLOCK ---
-Escute. Na Floresta de Moga,
+Escute. Na Floresta Moga,
 você pode encontrar todos
 os recursos naturais imagináveis.
 --- BLOCK ---
@@ -302,7 +302,7 @@ e caçando monstros, você
 obterá muitos desses recursos.
 --- BLOCK ---
 Vamos lá, se você vai viver
-na vila de Moga, é melhor
+na Vila Moga, é melhor
 começar dando um passeio pela floresta.
 --- BLOCK ---
 Não entende algo? Consulte

@@ -22,14 +22,14 @@ Era algo tão importante...
 --- BLOCK ---
 <SUBS 0>No menu do jogo,
 você encontrará uma opção
-de Vila de Moga.
+de Vila Moga.
 --- BLOCK ---
 Que prático! Você pode ver tudo relacionado ao
 estado da vila. Muito conveniente, não é?
 --- BLOCK ---
 <SUBS 0>Após os campos, há
 um caminho em direção
-à Floresta de Moga.
+à Floresta Moga.
 --- BLOCK ---
 Use quando quiser!
 --- BLOCK ---
@@ -39,7 +39,7 @@ algo mais, não é?
 --- BLOCK ---
 Há uma caverna atrás, com uma estátua
 antiga. Acho que tem algo a ver
-com as ruínas da Floresta de Moga.
+com as ruínas da Floresta Moga.
 --- BLOCK ---
 <SUBS 0>No tempo que você
 leva para completar uma missão,
@@ -47,7 +47,7 @@ fazemos uma rodada de cultivo.
 --- BLOCK ---
 Isso é mais ou menos um dia inteiro
 aqui na Fazenda, então planeje suas viagens
-para a Floresta de Moga de acordo.
+para a Floresta Moga de acordo.
 --- BLOCK ---
 <SUBS 0>Colhemos a safra
 todos os dias.
@@ -95,7 +95,7 @@ caçador do qual todo
 mundo fala. Que honra!
 --- BLOCK ---
 Você vê esta Fazenda, caçador? Ela alimenta
-toda a Vila de Moga. Bem,
+toda a Vila Moga. Bem,
 não está faltando nada, não é?
 --- BLOCK ---
 Isso mesmo: mão de obra! Este lugar

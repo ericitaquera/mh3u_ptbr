@@ -1261,7 +1261,7 @@ Tipos de Bebida
 --- BLOCK ---
 Outros Objetos Comuns
 --- BLOCK ---
-Floresta de Moga
+Floresta Moga
 --- BLOCK ---
 Ecologia de Moga
 --- BLOCK ---
@@ -2419,7 +2419,7 @@ Para cortar materiais de peixes,
 precisará de um Gancho. Aproxime-se
 de um peixe e ataque!
 --- BLOCK ---
-A Floresta de Moga é uma
+A Floresta Moga é uma
 fonte de recursos para a vila
 e o habitat natural de monstros.
 --- BLOCK ---
@@ -2429,13 +2429,13 @@ monstros ou coletar materiais.
 --- BLOCK ---
 Ao contrário das missões, não
 há limite de tempo para
-explorar a Floresta de Moga.
+explorar a Floresta Moga.
 --- BLOCK ---
 Informando a morte de monstros e a
 coleta de materiais ao filho do
 Chefe, você ganha pontos de Recursos.
 --- BLOCK ---
-A Floresta de Moga é um
+A Floresta Moga é um
 habitat em constante mudança, cheio
 de flora e fauna únicas.
 --- BLOCK ---
@@ -2449,7 +2449,7 @@ prever com dois dias de antecedência.
 --- BLOCK ---
 Conforme você se desenvolve como
 caçador, verá também a
-Floresta de Moga mudar.
+Floresta Moga mudar.
 --- BLOCK ---
 Os materiais coletados pela população
 (peixes, ossos, etc.) são
@@ -2469,7 +2469,7 @@ ou a Frota de caça.
 --- BLOCK ---
 Os Bens são itens únicos de
 Moga que podem ser coletados ou
-obtidos caçando na Floresta de Moga.
+obtidos caçando na Floresta Moga.
 --- BLOCK ---
 Os Bens podem ser usados
 como Recursos e também para
@@ -2492,7 +2492,7 @@ o processo custará um certo
 número de pontos de Recursos.
 --- BLOCK ---
 Também pode usar Adubo da
-Floresta de Moga ou o
+Floresta Moga ou o
 Argosy para melhorar a colheita.
 --- BLOCK ---
 A Frota de caça apoia o

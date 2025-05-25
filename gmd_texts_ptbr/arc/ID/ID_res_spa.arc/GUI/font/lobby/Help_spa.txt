@@ -13,10 +13,10 @@ TMSG_RESULT
 TMSG_ARENA
 --- BLOCK ---
 Leia sobre os monstros que
-habitam na Floresta de Moga.
+habitam na Floresta Moga.
 --- BLOCK ---
 Ofereça monstros caçados na Floresta
-de Moga para o
+Moga para o
 povo transformá-los em Recursos.
 --- BLOCK ---
 Ofereça itens ao povo
@@ -29,14 +29,14 @@ Entregue aos habitantes locais
 os itens que solicitaram.
 --- BLOCK ---
 Ainda não há informações sobre a
-Floresta de Moga. Volte mais tarde.
+Floresta Moga. Volte mais tarde.
 --- BLOCK ---
 Veja a previsão do tempo para a
-Floresta de Moga nos próximos três dias.
+Floresta Moga nos próximos três dias.
 <COLO 5>Botão Y: Mapa Botão X: Dia/Noite
 --- BLOCK ---
 Veja uma previsão do tempo para
-a Floresta de Moga durante três
+a Floresta Moga durante três
 dias. <COLO 5>Botão Y: Ver mapa
 --- BLOCK ---
 Veja suas façanhas de caça.

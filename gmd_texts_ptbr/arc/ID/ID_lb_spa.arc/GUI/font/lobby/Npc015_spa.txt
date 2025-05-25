@@ -168,7 +168,7 @@ Tudo bem.
 Desculpe... Caçador?
 --- BLOCK ---
 Se quiser chegar à Floresta
-de Moga, atravesse esta ponte.
+Moga, atravesse esta ponte.
 --- BLOCK ---
 Pode voltar do mesmo jeito,
 então tente lembrar da entrada!
@@ -235,7 +235,7 @@ armazenar objetos/trocar de equipamento.
 Caçador? Quero te dar uma coisa. É
 uma Rede de insetos feita por mim.
 --- BLOCK ---
-Na Floresta de Moga, há muitos
+Na Floresta Moga, há muitos
 insetos. Se vir algum em um
 arbusto, basta lançar isso nele!
 --- BLOCK ---
@@ -263,7 +263,7 @@ em um livro de ciências de sua casa.
 --- BLOCK ---
 Pelo que li, estou bastante certo de que
 ele vive em algum lugar da Área
-10 no mapa da Floresta de Moga.
+10 no mapa da Floresta Moga.
 --- BLOCK ---
 Descobri que sua isca favorita é feita
 combinando uma Larva serpente com... algo.
@@ -277,7 +277,7 @@ irmão mais velho!
 --- BLOCK ---
 Tenho certeza de que o Peixe dourado que
 procuramos vive em algum lugar da Área
-10 no mapa da Floresta de Moga.
+10 no mapa da Floresta Moga.
 --- BLOCK ---
 Meu irmão terá que parar de
 me chamar de apelidos se eu
@@ -311,7 +311,7 @@ peça me jogando em uma... não achei graça.
 --- BLOCK ---
 Vi um duende vivo
 e se movendo na
-Floresta de Moga. Sério!
+Floresta Moga. Sério!
 --- BLOCK ---
 Fez um dança estranha e tudo!
 Mas ninguém acredita em mim.

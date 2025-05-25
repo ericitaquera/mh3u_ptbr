@@ -208,7 +208,7 @@ Ataque de monstro pequeno
 quase sempre rebate! Nhá-bam!
 --- BLOCK ---
 <SUBS 0>
-Vila de, o portador de Máscara total
+Vai ver, o portador de Máscara total
 nunca colhe. Ao que parece, se esquece.
 --- BLOCK ---
 Mas sua força e defesa aumentam!
@@ -351,7 +351,7 @@ Mas lembre de levar Máscara antiga!
 Yam-baaaaaaaa!
 --- BLOCK ---
 Ganhamos! Ganhamos! Amor e paz já podem
-voltar para Vila de Moga! E tudo
+voltar para Vila Moga! E tudo
 graças ao grande esforço de Kayamba!
 --- BLOCK ---
 Ah, sim. Kayamba imagina que

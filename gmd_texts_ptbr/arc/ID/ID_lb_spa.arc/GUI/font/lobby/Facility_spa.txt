@@ -1501,7 +1501,7 @@ Multijogador
 --- BLOCK ---
 Buscar amigos
 --- BLOCK ---
-Vila de Moga
+Vila Moga
 --- BLOCK ---
 Porto
 --- BLOCK ---
@@ -1509,7 +1509,7 @@ Taverna
 --- BLOCK ---
 Menu superior
 --- BLOCK ---
-Vila de Moga
+Vila Moga
 --- BLOCK ---
 Solic. Fazenda
 --- BLOCK ---
@@ -2282,25 +2282,25 @@ Vulcão
 CuBorr
 --- BLOCK ---
 Às vezes, esses insetos voadores
-povoam a Floresta de
+povoam a Floresta
 Moga, e alguns são
 gigantes. Saque: Feromônios loucos,
 Ferrão de rainha, etc.
 --- BLOCK ---
 Esses insetos constroem ninhos
 por toda a Floresta
-de Moga. Saque: Semente
+Moga. Saque: Semente
 de cogumelo, Busca-peixes, etc.
 --- BLOCK ---
 Esses pequenos herbívoros povoam o
-sul da Floresta de
+sul da Floresta
 Moga com grandes espécimes.
 Saque: Semente de cogumelo,
 Pele de qualidade, etc.
 --- BLOCK ---
 Esses pequenos herbívoros povoam
 o sul da Floresta
-de Moga com grandes
+Moga com grandes
 espécimes. Saque: Carne crua,
 Esterco, Crânio gigante, etc.
 --- BLOCK ---
@@ -2325,7 +2325,7 @@ Remo potente, etc.
 É melhor caçar esses
 wyverns pássaro quando criam
 no centro da Floresta
-de Moga. Saque: Presa
+Moga. Saque: Presa
 curvada, Presa escassa, etc.
 --- BLOCK ---
 Esses wyverns pássaro são
@@ -2341,7 +2341,7 @@ ao norte. Saque: Remo
 potente, Remo perfeito, etc.
 --- BLOCK ---
 Esses wyverns pássaro chegaram à
-Floresta de Moga com seu
+Floresta Moga com seu
 líder. Fuja de seu
 hálito venenoso! Saque: Presa
 curvada, Presa escassa, etc.
@@ -2358,7 +2358,7 @@ carne e pele têm
 diversos usos. Saque: Pele
 comum, Presa suprema, etc.
 --- BLOCK ---
-Líderes Jaggi da Floresta de
+Líderes Jaggi da Floresta
 Moga. O filho do Chefe
 lutou com um e salvou
 uma criança. Saque: Fígado
@@ -2396,7 +2396,7 @@ uma, haha! Saque: Presa
 --- BLOCK ---
 Wyverns terrestres que fugiram das
 secas e do calor para
-a Floresta de Moga.
+a Floresta Moga.
 Ainda não se sabe
 que bens podem deixar.
 --- BLOCK ---
@@ -2413,12 +2413,12 @@ Ainda não se sabe
 que bens podem deixar.
 --- BLOCK ---
 Wyverns venenosos, ampliaram território
-na Floresta de Moga
+na Floresta Moga
 em busca de novas
 presas. Saque: Megapele de
 armadura, Crânio sólido, etc.
 --- BLOCK ---
-Wyverns pássaro da Floresta de
+Wyverns pássaro da Floresta
 Moga, induzem ao sono.
 Antes habitavam apenas em
 áreas frias. Saque: Presa
@@ -2460,44 +2460,44 @@ por muitos dos últimos
 desastres. Desconhece-se que
 bens podem trazer.
 --- BLOCK ---
-Wyverns cornudos da Floresta de
+Wyverns cornudos da Floresta
 Moga. É um mistério por
 que deixaram seu habitat seco.
 Ainda não se sabe
 que bens podem deixar.
 --- BLOCK ---
 Ferozes wyverns brutos da Floresta
-de Moga. O mineral que
+Moga. O mineral que
 os cobre tem muitos usos.
 Ainda não se sabe
 que bens podem deixar.
 --- BLOCK ---
-Criaturas cruéis da Floresta de
+Criaturas cruéis da Floresta
 Moga. Caçam presas com seu
 engenho e uma baba explosiva.
 Ainda não se sabe
 que bens podem deixar.
 --- BLOCK ---
-Criaturas lobunas da Floresta de
+Criaturas lobunas da Floresta
 Moga. As crianças da vila
 as adoram e as temem.
 Ainda não se sabe
 que bens podem deixar.
 --- BLOCK ---
 Wyverns de Chifres Negros da
-Floresta de Moga. Eles chegaram
+Floresta Moga. Eles chegaram
 sem aviso durante a época
 de reprodução. Ainda não se
 sabe quais itens podem deixar.
 --- BLOCK ---
 Predadores noturnos velozes da Floresta
-de Moga. Eles aterrorizam todos
+Moga. Eles aterrorizam todos
 que vão à floresta à
 noite. Ainda não se sabe
 quais itens podem deixar.
 --- BLOCK ---
 Wyverns de fogo majestosos vistos
-na Floresta de Moga. Você
+na Floresta Moga. Você
 prefere azul ou vermelho?
 Ainda não se sabe
 quais itens podem deixar.

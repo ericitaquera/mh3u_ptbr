@@ -930,7 +930,7 @@ Muita água! Se você for
 enfrentar um monstro aquático,
 você terá que molhar seus pés.
 --- BLOCK ---
-Então ouça: atravesse a Floresta de
+Então ouça: atravesse a Floresta
 Moga até chegar à costa.
 Entre e tente pescar algo pequeno.
 --- BLOCK ---
@@ -1046,7 +1046,7 @@ coletar objetos úteis ou reunir
 Recursos para a vila...
 --- BLOCK ---
 Lembre-se: se você reordenar as letras em
-"Floresta de Moga" não vira:
+"Floresta Moga" não vira:
 "Gelo da festa Roma." Sério.
 --- BLOCK ---
 <SUBS 1>
@@ -1057,7 +1057,7 @@ nossa ligação com o mundo exterior.
 --- BLOCK ---
 O Argosy é um navio mercante.
 Os bens que encontramos na Floresta
-de Moga, valem seu peso no exterior.
+Moga, valem seu peso no exterior.
 --- BLOCK ---
 Quanto ao capitão do Argosy, ele é um rico
 comerciante do Oriente que conheço

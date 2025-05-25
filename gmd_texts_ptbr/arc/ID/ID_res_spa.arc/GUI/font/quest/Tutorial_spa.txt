@@ -245,7 +245,7 @@ da porta te leva para a vila.
 Conseguiste! Pressione o botão A
 para voltar para a vila.
 --- BLOCK ---
-Ao retornar para a vila de
+Ao retornar para a Vila
 Moga, fale com meu filho.
 --- BLOCK ---
 Além disso, gostaria de te dar algo
@@ -330,7 +330,7 @@ Pode coletar objetos como as
 Ervas várias vezes, sabe?
 --- BLOCK ---
 Além das Ervas, encontrará todo tipo
-de coisinhas na Floresta de Moga.
+de coisinhas na Floresta Moga.
 Lembre-se de coletá-las ao caçar...
 --- BLOCK ---
 Dê uma olhada na Bolsa de
@@ -469,7 +469,7 @@ criar novas ferramentas de caça.
 --- BLOCK ---
 "O bom caçador nunca deixa de explorar",
 diziam meus antepassados. Siga o conselho
-e não se perderá na Floresta de Moga.
+e não se perderá na Floresta Moga.
 --- BLOCK ---
 Bom, me pergunto se o velho
 ferreiro gostará do Minério de ferro
@@ -487,7 +487,7 @@ filho do Chefe. Olha, fiquei sabendo
 que extraiu minério. Não está mal!
 --- BLOCK ---
 Bom, dê uma olhada em seu mapa... Vê
-aquilo? Toda a Floresta de Moga está ao
+aquilo? Toda a Floresta Moga está ao
 seu alcance! Bem feito, precisava sair.
 --- BLOCK ---
 Agora poderá percorrer toda a
@@ -891,7 +891,7 @@ um interruptor lá em cima.
 --- BLOCK ---
 Se conseguir arrancar o chifre dele, estará
 mais perto de acabar! Nos salve,
-caçador! Salve a Vila de Moga!
+caçador! Salve a Vila Moga!
 --- BLOCK ---
 Muito bem! Alguma pergunta para mim?
 Porque eu tenho respostas para você!
@@ -996,8 +996,8 @@ o que vale, caçador!
 Os monstros desta caçada são todos
 difíceis, mas eu acredito em você!
 --- BLOCK ---
-Você é o orgulho da Vila de
-Moga! Mas não se sinta pressionado. Apenas
+Você é o orgulho da Vila Moga!
+Mas não se sinta pressionado. Apenas
 vá e faça o que sabe fazer!
 --- BLOCK ---
 Chefe da vila
@@ -1028,7 +1028,7 @@ Artesão Wyveriano na vila.
 --- BLOCK ---
 Lições básicas de caça:
 Cace 1 Mólido na
-Floresta de Moga.
+Floresta Moga.
 --- BLOCK ---
  <COLO 6>Não há missões iniciadas.
 --- BLOCK ---

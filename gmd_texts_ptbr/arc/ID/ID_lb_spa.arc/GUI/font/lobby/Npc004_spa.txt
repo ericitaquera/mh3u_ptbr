@@ -110,7 +110,7 @@ esmagá-los facilmente.
 Às vezes, é bom apenas dar uma volta
 pela floresta, sabe?
 --- BLOCK ---
-A Floresta de Moga é linda e o ar é muito
+A Floresta Moga é linda e o ar é muito
 puro. Faça um passeio e vá coletando.
 Isso será útil em caçadas futuras.
 --- BLOCK ---
@@ -200,7 +200,7 @@ remover pulgas. Precisamos de Recursos.
 --- BLOCK ---
 Sabe o que são? Você pode aumentar nossos
 Recursos caçando monstros na Floresta
-de Moga ou procurando objetos.
+Moga ou procurando objetos.
 --- BLOCK ---
 Os aldeões não podem se aventurar
 muito na floresta. Os monstros
@@ -496,7 +496,7 @@ o Capitão do Argosy tem a dizer.
 --- BLOCK ---
 Saudações, caçador. Sabia? As pessoas
 ouviram gritos estranhos vindo
-da Floresta de Moga.
+da Floresta Moga.
 --- BLOCK ---
 Aposto que são os gritos do
 Qurupeco. Talvez a besta tenha construído
@@ -516,7 +516,7 @@ Confira as solicitações da população!
 Ah, aqui está você, caçador! No momento
 certo. Tenho algo para te contar.
 --- BLOCK ---
-Estava patrulhando a Floresta de
+Estava patrulhando a Floresta
 Moga quando avistei um Ludroth
 real. É novo nesta área...
 --- BLOCK ---
@@ -811,7 +811,7 @@ que você pode ficar nesta vila o tempo
 que quiser. Você é um bom caçador.
 --- BLOCK ---
 Ei, amigo! Você foi recentemente
-para a Floresta de Moga?
+para a Floresta Moga?
 --- BLOCK ---
 O que você diz? Que a floresta é muito
 entediante para um ás da caça como você?
@@ -821,7 +821,7 @@ algo para você. E se eu
 te dissesse que...? Rufar de tambores...
 --- BLOCK ---
 Agora você pode ir à noite
-para a Floresta de Moga!
+para a Floresta Moga!
 --- BLOCK ---
 A diferença entre a noite e o dia é como
 a noite e o dia! As bestas diurnas se
@@ -1185,7 +1185,7 @@ Arzuros que caçaste recentemente?
 --- BLOCK ---
 Desde então, as pessoas avistaram
 Arzuros andando à noite
-na Floresta de Moga.
+na Floresta Moga.
 --- BLOCK ---
 Eu sempre fico de olho nessa floresta.
 Certifique-se de verificar o Clima de
@@ -1193,7 +1193,7 @@ Moga antes de sair da vila.
 --- BLOCK ---
 Oi, caçador. As pessoas voltaram a ouvir
 estranhos lamentos vindos da Floresta
-de Moga, e à noite...
+Moga, e à noite...
 --- BLOCK ---
 Com certeza são os gritos
 de um Qurupeco carmesim. Deve
@@ -1211,7 +1211,7 @@ Que momento oportuno. Há algo que
 eu quero te dizer, caçador.
 --- BLOCK ---
 As pessoas começaram a avistar Rathian rosa
-à noite na Floresta de Moga.
+à noite na Floresta Moga.
 Aposto que têm um ninho lá.
 --- BLOCK ---
 Não esqueça de sempre consultar o
@@ -1221,7 +1221,7 @@ Ah, na hora certa.
 Quero te dizer algo.
 --- BLOCK ---
 Ultimamente, as pessoas têm visto Barroths
-vagando pela Floresta de Moga.
+vagando pela Floresta Moga.
 --- BLOCK ---
 Dê uma olhada no Clima de Moga
 antes de se dirigir à floresta.
@@ -1229,7 +1229,7 @@ antes de se dirigir à floresta.
 Ah, aí está você, caçador!
 Que pontual. Tenho novidades.
 --- BLOCK ---
-Estava patrulhando a Floresta de Moga
+Estava patrulhando a Floresta Moga
 à noite quando vi um Ludroth
 roxo. Uma novidade por essas bandas.
 --- BLOCK ---
@@ -1247,7 +1247,7 @@ Saber dele te dará meia caçada!
 Olá! Tenho notícias fresquinhas.
 --- BLOCK ---
 À noite, começamos a ver Wroggi
-magníficos na Floresta de Moga. Você
+magníficos na Floresta Moga. Você
 caçou um deles, não foi?
 --- BLOCK ---
 Procure verificar o Clima de Moga
@@ -1258,7 +1258,7 @@ Ah, olá! Tem algo
 que preciso te contar.
 --- BLOCK ---
 Começaram a aparecer Gran Baggi à
-noite na Floresta de Moga. Você
+noite na Floresta Moga. Você
 vai encontrá-los a partir de agora.
 --- BLOCK ---
 Acostume-se a verificar o Clima de
@@ -1294,7 +1294,7 @@ aventurar na floresta à noite.
 Ah, é você, caçador. Chegou na hora certa.
 --- BLOCK ---
 Olha, estava pescando na outra
-noite na Floresta de Moga,
+noite na Floresta Moga,
 e peguei um Plesioth!
 --- BLOCK ---
 Isso significa que você também verá
@@ -1306,7 +1306,7 @@ Moga antes de se dirigir à floresta.
 Ah, é você.
 Tem um minutinho?
 --- BLOCK ---
-Estava patrulhando à noite na Floresta de
+Estava patrulhando à noite na Floresta
 Moga quando me deparei com um Duramboros.
 --- BLOCK ---
 Acho que a partir de
@@ -1320,14 +1320,14 @@ Ei!
 Tem algo que preciso te dizer.
 --- BLOCK ---
 Estava fazendo minha ronda noturna pela
-Floresta de Moga quando avistei um Diablos.
+Floresta Moga quando avistei um Diablos.
 --- BLOCK ---
 Pode ser que você também comece a
 vê-los a partir de agora. Não esqueça
 de consultar o Clima de Moga!
 --- BLOCK ---
 Yuju! Tenho novidades sobre
-a Floresta de Moga.
+a Floresta Moga.
 --- BLOCK ---
 Me deparei com um Uragaan em uma das minhas
 excursões noturnas. Cuidado com eles se 
@@ -1338,7 +1338,7 @@ de Moga!
 --- BLOCK ---
 Ah, caçador! Vimos um novo
 monstro vagando à noite
-pela Floresta de Moga.
+pela Floresta Moga.
 --- BLOCK ---
 Estava fazendo minha ronda noturna
 quando avistei um Brachydios. Ele
@@ -1352,7 +1352,7 @@ Estava te esperando.
 --- BLOCK ---
 Já perseguiste um Zinogre outras vezes,
 não é? Pois começamos a vê-los
-à noite na Floresta de Moga.
+à noite na Floresta Moga.
 --- BLOCK ---
 Não esqueça de dar uma olhada no
 Clima de Moga antes de partir.
@@ -1360,7 +1360,7 @@ Clima de Moga antes de partir.
 Olá, caçador! Tens
 um minuto?
 --- BLOCK ---
-Estava investigando na Floresta de Moga
+Estava investigando na Floresta Moga
 quando me deparei com uma Diablos negra.
 --- BLOCK ---
 Você deveria se acostumar a verificar a
@@ -1369,7 +1369,7 @@ se dirigir à floresta à noite.
 --- BLOCK ---
 Ah, oi. Tenho que te
 contar o que vi
-na Floresta de Moga.
+na Floresta Moga.
 --- BLOCK ---
 Estava fazendo patrulha à noite quando
 me deparei com um Nargacuga.
@@ -1385,7 +1385,7 @@ antes de se aventurar na floresta.
 Oi!
 Podemos conversar um momento?
 --- BLOCK ---
-Estava passeando pela Floresta de Moga à
+Estava passeando pela Floresta Moga à
 noite quando vi uma sombra passar sobre
 minha cabeça. Era um Rathalos celeste!
 --- BLOCK ---
@@ -1399,7 +1399,7 @@ se pretende ir caçar lá.
 --- BLOCK ---
 Ei, caçador!
 Apareceu outro monstro à noite na
-Floresta de Moga. Até quando isso?
+Floresta Moga. Até quando isso?
 --- BLOCK ---
 Estava procurando Recursos à noite na
 floresta, quando vi um Uragaan de aço.
@@ -1412,7 +1412,7 @@ de Moga. Cace com responsabilidade!
 Ah, aí está você, caçador! Bem na
 hora. Há algo que preciso te dizer.
 --- BLOCK ---
-Patrulhando a Floresta de Moga na
+Patrulhando a Floresta Moga na
 outra noite, vi um Lagiacrus marmorizado.
 Provavelmente se instalou por lá.
 --- BLOCK ---
@@ -1422,11 +1422,11 @@ Lagiacrus marmorizado. Fique alerta, ok?
 --- BLOCK ---
 É mais seguro verificar a Previsão
 do Clima de Moga antes de
-partir para a Floresta de Moga.
+partir para a Floresta Moga.
 --- BLOCK ---
 Ei, caçador! Tenho mais informações sobre
 a criatura que vagueia à
-noite pela Floresta de Moga.
+noite pela Floresta Moga.
 --- BLOCK ---
 Consegui vislumbrar um Deviljho em uma das
 minhas rondas noturnas. Fique de olho,

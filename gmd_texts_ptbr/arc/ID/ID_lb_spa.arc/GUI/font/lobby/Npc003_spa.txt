@@ -41,7 +41,7 @@ tivesse acontecido! <SUBS 1>
 --- BLOCK ---
 Tsc, tsc. Os covardes nunca vencem!
 --- BLOCK ---
-A Guilda caça na Floresta de Moga
+A Guilda caça na Floresta Moga
 e investiga e, em troca, atendemos
 às necessidades de defesa da vila.
 --- BLOCK ---
@@ -157,7 +157,7 @@ Aff. Pelo menos poderia sorrir.
 --- BLOCK ---
 <SUBS 0> Vou te contar um
 segredo: há mais lugares de caça
-além da Floresta de Moga.
+além da Floresta Moga.
 --- BLOCK ---
 Continue assim e poderá
 acabar viajando pelo mundo!
@@ -483,7 +483,7 @@ Hmm... Devo estar ficando surda.
 --- BLOCK ---
 <SUBS 0>
 O perigo passou e a paz voltou para
-a Vila de Moga. Ótimo!
+a Vila Moga. Ótimo!
 --- BLOCK ---
 De volta ao trabalho, herói.
 --- BLOCK ---
@@ -508,7 +508,7 @@ me superaram.
 --- BLOCK ---
 O que se vai fazer? Hehe.
 --- BLOCK ---
-Olá, esta é a Vila de Moga!
+Olá, esta é a Vila Moga!
 Você deve ser o novo caçador de
 quem todos estão falando sem parar.
 --- BLOCK ---
@@ -531,7 +531,7 @@ pedi para prepararem uma missão para você.
 Sabe o que mandaram? Nada! Zero!
 --- BLOCK ---
 Como deve ter percebido na viagem até
-aqui, a Vila de Moga está muito
+aqui, a Vila Moga está muito
 longe do que chamamos de "civilização".
 --- BLOCK ---
 Talvez a Guilda tenha nos esquecido.
@@ -547,7 +547,7 @@ Alto, o quê? O chefe quer que
 cuide de seu filho?
 --- BLOCK ---
 Por que não disse antes? Ele foi para
-a Floresta de Moga não faz muito tempo.
+a Floresta Moga não faz muito tempo.
 --- BLOCK ---
 Desça pela ponte, além da Ferraria,
 e aperte o "botão" quando
@@ -746,7 +746,7 @@ Bom! Foi um prazer
 trabalhar com você!
 --- BLOCK ---
 Q-quero dizer... calma! É um monstro da
-Floresta de Moga, o que eles
+Floresta Moga, o que eles
 sabem? Tudo vai ficar bem. Provavelmente.
 --- BLOCK ---
 Mas tome cuidado, especialmente com
@@ -792,7 +792,7 @@ Legal! Foi um
 prazer trabalhar contigo!
 --- BLOCK ---
 Q-quero dizer... Calma! É um monstro da
-Floresta de Moga, o que eles
+Floresta Moga, o que eles
 sabem? Tudo vai dar certo. Provavelmente.
 --- BLOCK ---
 Mas você tenha cuidado, especialmente com
@@ -806,7 +806,7 @@ está aqui! Como você não
 o viu... Mas é enorme.
 --- BLOCK ---
 O Argosy é um navio mercante. Faz
-parte da vida da Vila de Moga
+parte da vida da Vila Moga
 desde que me entendo por gente.
 --- BLOCK ---
 Mas as histórias eu deixo
@@ -1252,7 +1252,7 @@ furioso, quem diria!
 --- BLOCK ---
 Todos os relatórios das testemunhas
 indicam que ele está vindo direto para
-a Vila de Moga. Oh, oh...
+a Vila Moga. Oh, oh...
 --- BLOCK ---
 A boa notícia é que você já
 tem o que queria! Agora pode
@@ -1475,7 +1475,7 @@ para Moga. Deixe-me ler para você...
 com o representante da Guilda
 e evacuar a ilha imediatamente".
 --- BLOCK ---
-"Estamos desistindo da Vila de Moga
+"Estamos desistindo da Vila Moga
 e das áreas de caça circundantes".
 --- BLOCK ---
 "Por fim, todos os caçadores
@@ -1589,7 +1589,7 @@ Ele é um monstro perigoso que vive
 no Vulcão, que também é perigoso. Mas
 é isso que você gosta, não é?
 --- BLOCK ---
-A Vila de Moga enfrenta
+A Vila Moga enfrenta
 um desastre como nunca viu.
 Mas veja só! Ninguém fugiu.
 --- BLOCK ---
@@ -1700,7 +1700,7 @@ Ceadeus e salvaram a vila.
 --- BLOCK ---
 Decidimos que o caçador e a
 ligação devem continuar com seu bom
-trabalho pela Vila de Moga!
+trabalho pela Vila Moga!
 --- BLOCK ---
 Fim!
 --- BLOCK ---
@@ -2296,7 +2296,7 @@ E nem mesmo sei o
 que isso último significa!
 --- BLOCK ---
 Você completou todas as missões
-da Vila de Moga! Todas!
+da Vila Moga! Todas!
 --- BLOCK ---
 ¡POR TODAS LAS BESTIAS!
 --- BLOCK ---

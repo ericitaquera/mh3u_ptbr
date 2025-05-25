@@ -293,7 +293,7 @@ Mostra mais informações sobre seu equipamento.
 Veja, edite ou envie seu Cartão da Guilda.
 --- BLOCK ---
 Mostra o que está acontecendo
-na vila de Moga.
+na Vila Moga.
 --- BLOCK ---
 Altere as configurações do jogo.
 --- BLOCK ---
@@ -625,8 +625,8 @@ ou ele será perdido!</COLO>
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Em direção à Floresta de
-Moga. Quando deseja chegar?
+Em direção à Floresta Moga.
+Quando deseja chegar?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -664,7 +664,7 @@ Habilidades
 --- BLOCK ---
 Equipamento
 --- BLOCK ---
-Vila de Moga
+Vila Moga
 --- BLOCK ---
 Chamberlyne
 --- BLOCK ---
