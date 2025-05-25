@@ -55,9 +55,10 @@ meravigliose rarità riuscirete a
 trovare? Tra due minuti avrete
 un Buono Pass-zampa per
 un sicuro ritorno a casa.
-DESCRIPTIONS_4=¿Estamos todos, miau? Este es
-el Tour de la Isla desierta.
-¿Qué rarezas encontraréis en
-la isla? Recibiréis un Ticket
-zarpa en dos minutos con el
-que volver cómodamente a casa.
+DESCRIPTIONS_4=Todo mundo a postos, miau?
+Este é o Tour da Ilha Deserta!
+Que coisas raras será que vocês vão
+encontrar por lá, hein?
+Daqui dois minutos vocês recebem
+um Ticket Garra pra voltar pra
+casa bem tranquilos.
