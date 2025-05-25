@@ -11,15 +11,26 @@ def get_target_directory():
 
 def find_txt_counterpart(gmd_path):
     arc_root = os.getenv("ARC_EXTRACTED_DIR")
-    txt_root = os.getenv("GMD_TXT_PTBR_DIR")
+    gmd_txt_root = os.getenv("GMD_TXT_PTBR_DIR")
+    qtds_txt_root = os.getenv("QTDS_TEXT_DIR")
 
-    if not arc_root or not txt_root:
+    if not arc_root or not gmd_txt_root or not qtds_txt_root:
         return None
 
     rel_path = os.path.relpath(gmd_path, arc_root)
-    txt_path = os.path.join(txt_root, os.path.splitext(rel_path)[0] + ".txt")
+    txt_rel_path = os.path.splitext(rel_path)[0] + ".txt"
 
-    return txt_path if os.path.isfile(txt_path) else None
+    # Check in GMD folder
+    gmd_txt_path = os.path.join(gmd_txt_root, txt_rel_path)
+    if os.path.isfile(gmd_txt_path):
+        return gmd_txt_path
+
+    # Check in QTDS folder
+    qtds_txt_path = os.path.join(qtds_txt_root, txt_rel_path)
+    if os.path.isfile(qtds_txt_path):
+        return qtds_txt_path
+
+    return None
 
 def preview_txt_match(txt_file, search_string):
     try:
@@ -31,7 +42,7 @@ def preview_txt_match(txt_file, search_string):
     except Exception as e:
         print(f"   ⚠️  Could not read sample from {txt_file}: {e}")
 
-def search_gmd_files(search_bytes, directory, search_string):
+def search_bin_files(search_bytes, directory, search_string):
     for root, _, files in os.walk(directory):
         for filename in files:
             if filename.lower().endswith((".gmd", ".qtds")):
@@ -68,7 +79,7 @@ def main():
     #print(search_bytes)
     #input()
     print(f"🔍 Searching for UTF-8 bytes: {search_bytes.hex(' ').upper()}")
-    search_gmd_files(search_bytes, directory, search_string)
+    search_bin_files(search_bytes, directory, search_string)
 
 if __name__ == "__main__":
     main()
