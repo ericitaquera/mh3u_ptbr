@@ -81,7 +81,7 @@ você está em uma área de coleta.
 --- BLOCK ---
 Pressione o botão e coletará materiais.
 Use-os para fabricar equipamentos, combinar
-objetos... O que você quiser!
+itens... O que você quiser!
 --- BLOCK ---
 <SUBS 0>
 Os Jaggi temem o fogo. Os aldeões sempre
@@ -139,7 +139,7 @@ Outros protegem seus filhotes. Eles
 têm personalidades distintas. É fascinante.
 --- BLOCK ---
 <SUBS 0> 
-Você encontrará os objetos que os monstros comem
+Você encontrará os itens que os monstros comem
 espalhados pelos campos.
 --- BLOCK ---
 Como carniça ou restos de
@@ -200,7 +200,7 @@ remover pulgas. Precisamos de Recursos.
 --- BLOCK ---
 Sabe o que são? Você pode aumentar nossos
 Recursos caçando monstros na Floresta
-Moga ou procurando objetos.
+Moga ou procurando itens.
 --- BLOCK ---
 Os aldeões não podem se aventurar
 muito na floresta. Os monstros
@@ -867,7 +867,7 @@ os materiais. Mãos à obra! Dê
 uma olhada nas solicitações da população!
 --- BLOCK ---
 Oi, caçador! Segundo os
-rumores, um Lagiacrus marmóreo
+rumores, um Lagiacrus marfim
 ergueu sua traseira horrível.
 --- BLOCK ---
 Sabia que meu pai foi um
@@ -876,7 +876,7 @@ não falasse daquela época, estaria mudo!
 --- BLOCK ---
 Mas nem nos seus melhores dias
 era rival para um monstro em
-particular. Sim, o Lagiacrus marmóreo.
+particular. Sim, o Lagiacrus marfim.
 --- BLOCK ---
 Será uma batalha épica, mas com certeza
 você vai vencer. Como meu nome é Junior...
@@ -896,7 +896,7 @@ O valente herói voltou inteiro!
 --- BLOCK ---
 Você é de outro planeta, caçador!
 Conseguiste o que meu pai nunca
-conseguiu: caçar um Lagiacrus marmorizado!
+conseguiu: caçar um Lagiacrus marfim!
 --- BLOCK ---
 Tomara que tivesse visto a
 cara do meu pai. Parece
@@ -1413,12 +1413,12 @@ Ah, aí está você, caçador! Bem na
 hora. Há algo que preciso te dizer.
 --- BLOCK ---
 Patrulhando a Floresta Moga na
-outra noite, vi um Lagiacrus marmorizado.
+outra noite, vi um Lagiacrus marfim.
 Provavelmente se instalou por lá.
 --- BLOCK ---
 Sei que você já caçou um
 desses, mas estamos falando de um
-Lagiacrus marmorizado. Fique alerta, ok?
+Lagiacrus marfim. Fique alerta, ok?
 --- BLOCK ---
 É mais seguro verificar a Previsão
 do Clima de Moga antes de

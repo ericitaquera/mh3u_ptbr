@@ -1,0 +1,207 @@
+TMSG_QNTALK007_000
+--- BLOCK ---
+TMSG_QNTALK007_001
+--- BLOCK ---
+Atenção! Que espetáculo curioso diante de
+mim? Poderias avaliar a situação?
+--- BLOCK ---
+Cha-Cha treme de medo! Ai de
+mim! Tomara eu fosse mais resistente!
+--- BLOCK ---
+Cha-Cha não pode viver apenas de
+carne. Talvez possa comer salada?
+--- BLOCK ---
+Oh, Cha-Cha se deixou levar pela raiva
+e pela ira, mas agora está melhor.
+--- BLOCK ---
+Cha-Cha sente oferecer
+tão pouca coisa...
+--- BLOCK ---
+Se não se importar, talvez Cha-Cha
+possa fazer os honores? Mil perdões!
+--- BLOCK ---
+Minhas desculpas, mas Cha-Cha não tem
+outra opção senão render-se à dança...
+--- BLOCK ---
+Ah, ritmos primitivos de minha tribo.
+Deixe que Cha-Cha te guie!
+--- BLOCK ---
+Que a modesta dança de Cha-Cha
+tenha sido do teu agrado!
+--- BLOCK ---
+Ai de mim! Tomara Cha-Cha
+nunca tivesse tentado tal loucura!
+--- BLOCK ---
+Uma Armadilha de choque com certeza
+funcionará! Onde Cha-Cha terá guardado?
+--- BLOCK ---
+Cha, ja! Cha-Cha retorna
+das garras da morte!
+--- BLOCK ---
+Cha-Cha fez tudo o que
+pôde... Até mais ver!
+--- BLOCK ---
+Os covardes morrem muitas vezes...
+Cha-Cha morre apenas uma vez!
+--- BLOCK ---
+Cha-Cha pede que saias um momento!
+--- BLOCK ---
+Não tenhas medo de partir! Faz
+isso se precisas de curar!
+--- BLOCK ---
+Que fera furiosa cresce dentro
+de Cha-Cha? É a raiva!
+--- BLOCK ---
+Olá, bom caçador! Os ouvidos de
+Cha-Cha ainda zumbem. Provas mais tarde?
+--- BLOCK ---
+Não digas mais, bom
+caçador... Apenas escutar...
+--- BLOCK ---
+Umm... é uma
+delícia! Agradeço profundamente.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Muito obrigado, bom caçador. Tua generosidade
+a torna ainda mais deliciosa!
+--- BLOCK ---
+Delicioso! Um sabor selvagem e
+impulsivo, ao mesmo tempo decadente.
+--- BLOCK ---
+Desculpe, mas... com todo o respeito
+pela tua gentileza, a comida... escassa.
+--- BLOCK ---
+Ta-chán, que sucesso! Eu tiro o chapéu
+para ti por um trabalho bem feito.
+--- BLOCK ---
+Não temas, bom caçador! O sucesso saberá
+mais doce temperado com este fracasso.
+--- BLOCK ---
+Bom monstro, perdoa Cha-Cha por colocar
+um item incendiário diante de ti.
+--- BLOCK ---
+Estás aflito? Cha-Cha
+te ajudará instantaneamente!
+--- BLOCK ---
+Cha-Cha reunirá todas as suas forças
+e investirá contra teu inimigo!
+--- BLOCK ---
+Ao ataque! Nada se compara ao
+poder do trabalho em equipe!
+--- BLOCK ---
+O quê? Monstros? Nós exploraremos
+e manteremos os olhos abertos!
+--- BLOCK ---
+Ah, esta grandiosa vista traz um sorriso ao
+rosto de Cha-Cha e música ao coração!
+--- BLOCK ---
+Nossas diferenças são irreconciliáveis.
+Vamos encerrar nossa amizade.
+--- BLOCK ---
+Agora Cha-Cha se sente generoso.
+Prefere lutar a fugir.
+--- BLOCK ---
+Se permitires a audácia de
+Cha-Cha, cha-chi, concede-me esta dança!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Alto! Kayamba avista a besta
+lá! Prepara-te e olha!
+--- BLOCK ---
+Coração abençoado! Kayamba carece de
+força para esses trabalhos.
+--- BLOCK ---
+Kayamba costuma escolher carne, mas
+algo vegetal ajuda na digestão.
+--- BLOCK ---
+Kayamba pede desculpas pelo
+acesso de raiva.
+--- BLOCK ---
+Kayamba espera que esta pequena coisa
+seja suficiente para o que precisas.
+--- BLOCK ---
+Kayamba pede para te deixar cortar por ele!
+--- BLOCK ---
+O coração de Kayamba se alegra
+com a dança! Não pode resistir!
+--- BLOCK ---
+Se a música alimenta o amor, que toque!
+--- BLOCK ---
+Kayamba espera que encontres certo prazer
+nas alegres brincadeiras de Kayamba.
+--- BLOCK ---
+O plano de Kayamba só
+encontra aflição e pesar...
+--- BLOCK ---
+Cuidado, Armadilha de choque! Talvez
+assim Kayamba submeta a besta...
+--- BLOCK ---
+A morte não levará Kayamba!
+--- BLOCK ---
+Apaga-te, chama fugaz... O fim
+de Kayamba se aproxima...
+--- BLOCK ---
+Dormir... talvez sonhar...
+--- BLOCK ---
+Seria loucura demorar mais!
+--- BLOCK ---
+Kayamba enfrenta os golpes e dardos da
+adversa fortuna a uma boa distância!
+--- BLOCK ---
+A fúria consome Kayamba! Não suportará
+mais as correntes da paz!
+--- BLOCK ---
+Kayamba pede paciência ao caçador!
+Não quer estourar tímpanos novamente...
+--- BLOCK ---
+Não é hora para palavras bonitas.
+É hora para ação sonora!
+--- BLOCK ---
+Ah, ||! Kayamba não é
+digno de tal gentileza.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Uma delícia! Kayamba se curva
+em agradecimento ao cozinheiro.
+--- BLOCK ---
+Melhor carne mal pode ser imaginada.
+--- BLOCK ---
+Tu és caçador, mas as
+artes culinárias te escapam.
+--- BLOCK ---
+Maravilhoso! Kayamba quase
+explode de alegria!
+--- BLOCK ---
+Carne como esta deve ser infecta.
+Talvez nos esperem dias melhores.
+--- BLOCK ---
+Perdoa o incômodo, amado monstro, farias
+a honra de explodir para Kayamba?
+--- BLOCK ---
+Kayamba oferece socorro e amparo!
+--- BLOCK ---
+A coragem de Kayamba neste
+dia será cantada em versos!
+--- BLOCK ---
+Nossa força unida dará a
+esta besta uma morte rápida!
+--- BLOCK ---
+Onde vivem as bestas?
+Aqui? Ali?... Acolá?
+--- BLOCK ---
+Tal grandeza é suficiente para
+incendiar o coração de Kayamba.
+--- BLOCK ---
+Kayamba não tolera um patife tão nauseabundo.
+--- BLOCK ---
+Aquele que derramar sangue com
+Kayamba será irmão de Kayamba!
+--- BLOCK ---
+Seria uma honra dançar com
+uma parceira como tu!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

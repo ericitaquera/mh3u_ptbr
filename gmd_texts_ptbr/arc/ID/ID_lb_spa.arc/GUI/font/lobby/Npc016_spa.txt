@@ -13,20 +13,20 @@ Enfim, bem-vindo!
 Passe por aqui em breve!
 --- BLOCK ---
 <SUBS 0> Alguma vez encontrou
-objetos com os quais não
+itens com os quais não
 sabe o que fazer?
 --- BLOCK ---
 Não se preocupe. À medida
 que ganha experiência como caçador,
-descobrirá como aproveitar esses objetos.
+descobrirá como aproveitar esses itens.
 --- BLOCK ---
 Por isso colocamos uma Caixa de
-objetos em sua casa. Assim,
+Itens em sua casa. Assim,
 pode guardá-los para outro momento!
 --- BLOCK ---
 Afinal, nunca se sabe o que
 o dia nos reserva. Ha, ha, ENTENDEU?
-Objetos reservados! Na caixa! Buf.
+Itens reservados! Na caixa! Buf.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -55,8 +55,8 @@ lhes importe um chifre? Não entendo...
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0> Sabia que pode
-combinar objetos sem retirá-los
-da Caixa de objetos?
+combinar Itens sem retirá-los
+da Caixa de Itens?
 --- BLOCK ---
 ¡É verdade! Use "Combinar
 itens da Caixa" e
@@ -168,7 +168,7 @@ Se combinar um Inseto amargo com
 Mel, terá um Catalisador.
 --- BLOCK ---
 Um Catalisador serve para aumentar
-a força de vários objetos.
+a força de vários itens.
 Possibilita mais combinações avançadas!
 --- BLOCK ---
 <SUBS 1>

@@ -39,7 +39,7 @@ combinar elementos dentro da sua
 Caixa de itens, chefe?
 --- BLOCK ---
 É muito prático, pois não precisa
-mover os objetos para a
+mover os itens para a
 Bolsa de itens. Experimente! Miau.
 --- BLOCK ---
 <SUBS 0>Além disso, você

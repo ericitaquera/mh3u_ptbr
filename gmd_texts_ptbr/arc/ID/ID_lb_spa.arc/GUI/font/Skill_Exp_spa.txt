@@ -228,7 +228,7 @@ gasto de Resistência máxima.
 Aumenta a eficácia da carne,
 que aumenta a Resistência máxima.
 --- BLOCK ---
-Confere a qualquer objeto que
+Confere a qualquer item que
 comer ou beber o poder
 de aumentar sua Resistência máxima.
 --- BLOCK ---
@@ -388,15 +388,15 @@ DUMMY
 DUMMY
 --- BLOCK ---
 Às vezes aumenta as ocasiões
-em que objetos podem ser
+em que itens podem ser
 coletados em áreas de coleta.
 --- BLOCK ---
 Frequentemente aumenta as ocasiões em
-que objetos podem ser coletados
+que itens podem ser coletados
 em áreas de coleta.
 --- BLOCK ---
 Às vezes reduz as ocasiões
-em que objetos podem ser
+em que itens podem ser
 coletados em áreas de coleta.
 --- BLOCK ---
 Mensagem inválida
@@ -422,19 +422,19 @@ quebra de Picaretas, Redes de
 insetos, Bumerangues e Flautas.
 --- BLOCK ---
 Às vezes aumenta o número
-de objetos de recompensa
+de itens de recompensa
 ao completar uma missão.
 --- BLOCK ---
 Frequentemente aumenta o número
-de objetos de recompensa
+de itens de recompensa
 ao completar uma missão.
 --- BLOCK ---
 Às vezes reduz o número
-de objetos de recompensa
+de itens de recompensa
 ao completar uma missão.
 --- BLOCK ---
 Frequentemente reduz o número
-de objetos de recompensa
+de itens de recompensa
 ao completar uma missão.
 --- BLOCK ---
 DUMMY
@@ -448,10 +448,10 @@ no mapa, como
 se estivessem marcados.
 --- BLOCK ---
 Aumenta a eficácia dos
-objetos que concedem Vida.
+itens que concedem Vida.
 --- BLOCK ---
 Reduz a eficácia dos
-objetos que concedem Vida.
+itens que concedem Vida.
 --- BLOCK ---
 Melhora as opções de sucesso
 de combinação em 20%.
@@ -473,7 +473,7 @@ de combinação em 20%.
 --- BLOCK ---
 Garante os melhores resultados com
 combinações que produzem mais de
-um objeto de uma vez.
+um item de uma vez.
 --- BLOCK ---
 Estende a invulnerabilidade
 ao esquivar.
@@ -499,10 +499,10 @@ Ataque quando o nível de Vida
 é inferior a 40% do total.
 --- BLOCK ---
 Aumenta o tempo de
-efeito de certos objetos.
+efeito de certos itens.
 --- BLOCK ---
 Reduz o tempo de
-efeito de certos objetos.
+efeito de certos itens.
 --- BLOCK ---
 Retarda o uso de Resistência
 em ações que requerem
@@ -532,7 +532,7 @@ Aumenta a velocidade de
 consumo de carne.
 --- BLOCK ---
 Aumenta a velocidade de consumo
-de carne e objetos.
+de carne e itens.
 --- BLOCK ---
 Reduz a velocidade de
 consumo de carne.
@@ -577,7 +577,7 @@ de Resistência ao
 esquivar, bloquear, etc.
 --- BLOCK ---
 Aumenta muito a probabilidade
-de obter mais objetos
+de obter mais itens
 de recompensa por capturas.
 --- BLOCK ---
 Fornece conhecimento sobre quando
@@ -638,7 +638,7 @@ você estivesse carregando uma Tocha,
 mesmo que não esteja.
 --- BLOCK ---
 Anula a Doença da baba e
-evita bloqueios de uso de objetos
+evita bloqueios de uso de itens
 causados pelo estado de Fedor.
 --- BLOCK ---
 Permite usar Revestimentos de veneno

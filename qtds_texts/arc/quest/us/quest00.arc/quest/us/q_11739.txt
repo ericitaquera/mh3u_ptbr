@@ -3,7 +3,7 @@ TITLES_0=[Advanced] Ivory Indignation
 TITLES_1=[Avancé] Indignation ivoire
 TITLES_2=[Fortg.] Elfenbein-Empörung
 TITLES_3=[Avanzata] Minaccia d'avorio
-TITLES_4=[Avançada] Ira marmórea
+TITLES_4=[Avançada] Ira marfim
 [OBJECTIVES]
 OBJECTIVES_0=Hunt 2 Ivory Lagiacrus
 OBJECTIVES_1=Chasser 2 Lagiacrus ivoire
@@ -11,7 +11,7 @@ OBJECTIVES_2=Erjage
 2 Elfenbein-Lagiacri.
 OBJECTIVES_3=Caccia 2 Lagiacrus d'avorio
 OBJECTIVES_4=Caçar 2 Lagiacrus
-marmóreos
+marfim
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Reward hits 0, or time
 expires.
@@ -56,7 +56,7 @@ grande per quelle bestie?
 Difendiamo il nostro territorio
 e ricacciamoli in acqua!
 DESCRIPTIONS_4=Incrível! Dois Lagiacrus
-marmorizados surgiram do mar e
+marfim surgiram do mar e
 estão causando danos em terra!
 O oceano não é suficiente
 para eles? Que voltem ao mar,

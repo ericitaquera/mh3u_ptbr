@@ -16,49 +16,49 @@ Capanga, lembre-se de fazer sempre uma
 pausa! Veja como até o Cha-Cha também
 precisa descansar às vezes.
 --- BLOCK ---
-Crie um personagem e comece a jogar
+Crie uma personagem e comece a jogar
 desde o início.
 --- BLOCK ---
-Selecione um dos personagens já
+Selecione uma das personagens já
 existentes e continua de onde
 você parou.
 --- BLOCK ---
 Ajuste as configurações do jogo.
-A configuração afeta a todos
-os personagens do jogo.
+A configuração afeta a todas
+as personagens do jogo.
 --- BLOCK ---
 Conecte-se à Internet para descobrir o
 conteúdo para download disponível.
 --- BLOCK ---
-Dê um nome ao seu personagem.
+Dê um nome à sua personagem.
 <COLO 02>(Os nomes não podem ter
 mais que 10 caracteres).
 --- BLOCK ---
-Escolha o gênero do seu personagem.
+Escolha o gênero da sua personagem.
 --- BLOCK ---
 Selecione o gênero.
 --- BLOCK ---
-Escolha o tom de pele do seu personagem.
+Escolha o tom de pele da sua personagem.
 --- BLOCK ---
 Selecione um tom de pele.
 --- BLOCK ---
-Escolha as roupas do seu personagem
+Escolha as roupas da sua personagem
 (ele vestirá sob sua armadura).
 --- BLOCK ---
 Escolha o tipo de roupa.
 --- BLOCK ---
 Escolha a cor das roupas
-do seu personagem.
+da sua personagem.
 --- BLOCK ---
 Escolha a cor das roupas.
 --- BLOCK ---
 Escolha o formato do rosto
-do seu personagem.
+da sua personagem.
 --- BLOCK ---
 Escolha um rosto.
 --- BLOCK ---
-Escolha as características faciais de
-seu personagem.
+Escolha as características faciais da
+sua personagem.
 --- BLOCK ---
 Selecione as características faciais que
 você deseja ativar. Use a opção Cor para
@@ -69,15 +69,15 @@ DUMMY
 Selecione uma cor para esta
 característica do rosto.
 --- BLOCK ---
-Escolha o penteado do seu personagem.
+Escolha o penteado da sua personagem.
 --- BLOCK ---
 Escolha um penteado.
 --- BLOCK ---
-Escolha a cor do cabelo do personagem.
+Escolha a cor do cabelo da personagem.
 --- BLOCK ---
 Escolha uma cor de cabelo.
 --- BLOCK ---
-Escolha uma voz para seu personagem.
+Escolha uma voz para sua personagem.
 --- BLOCK ---
 Escolha uma voz.
 --- BLOCK ---
@@ -98,7 +98,7 @@ informações aparecerão na tela inferior.
 DUMMY
 --- BLOCK ---
 Defina onde você deseja salvar
-informações sobre esse personagem.
+informações sobre esta personagem.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -108,12 +108,12 @@ Monster Hunter!
 Escolha os dados de jogo que você deseja
 utilizar.
 --- BLOCK ---
-Cancela a criação do personagem.
+Cancela a criação da personagem.
 --- BLOCK ---
-Deseja cancelar a criação do
+Deseja cancelar a criação da
 personagem e retornar ao menu principal?
 --- BLOCK ---
-Continue com este personagem.
+Continue com esta personagem.
 --- BLOCK ---
 Ajuste o controle de volume.
 --- BLOCK ---
@@ -132,8 +132,8 @@ os direitos dos outros.
 --- BLOCK ---
 Escreva um nome.
 --- BLOCK ---
-Já existe um personagem salvo aqui.
-Se você substituí-lo, o personagem se
+Já existe uma personagem salva aqui.
+Se você substituí-la, a personagem se
 perderá para sempre. Tem certeza de que
 deseja substituir essas informações?
 --- BLOCK ---
@@ -197,7 +197,7 @@ Pad Pro.
 --- BLOCK ---
 Calibra o Circle Pad Pro.
 --- BLOCK ---
-Utilizar este personagem?
+Utilizar esta personagem?
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

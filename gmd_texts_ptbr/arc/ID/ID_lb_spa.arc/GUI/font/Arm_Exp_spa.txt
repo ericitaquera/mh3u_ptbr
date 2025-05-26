@@ -551,11 +551,11 @@ a força da natureza
 aos dedos ao apontar.
 --- BLOCK ---
 Guarda-braços de osso
-de Lagiacrus marmóreo.
+de Lagiacrus marfim.
 São muito protetores.
 --- BLOCK ---
 Guarda-braços de osso de
-Lagiacrus marmóreo. Guardam o
+Lagiacrus marfim. Guardam o
 ponto cego do Atirador.
 --- BLOCK ---
 Guarda-braços imbuidos com a fúria
@@ -955,11 +955,11 @@ Lagiacrus. Protegem o ponto
 cego do Atirador.
 --- BLOCK ---
 Guarda-braços de partes
-de Lagiacrus marmóreo.
+de Lagiacrus marfim.
 São muito protetores.
 --- BLOCK ---
 Guarda-braços de osso de
-Lagiacrus marmóreo. Protegem o
+Lagiacrus marfim. Protegem o
 ponto cego do Atirador.
 --- BLOCK ---
 Guarda-braços de Lagiacrus do

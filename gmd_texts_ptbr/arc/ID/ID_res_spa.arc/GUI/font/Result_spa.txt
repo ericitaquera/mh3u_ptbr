@@ -40,7 +40,7 @@ Recom. missão
 --- BLOCK ---
 Bon. caça livre
 --- BLOCK ---
-Recomp. objetos
+Recomp. itens
 --- BLOCK ---
 Total
 --- BLOCK ---
@@ -155,7 +155,7 @@ Seu Ranking de caçador aumentou para
 --- BLOCK ---
 Uma gama de cores RVA foi
 adicionada à seção de Pigmentos de
-armadura na Caixa de objetos.
+armadura na Caixa de Itens.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---

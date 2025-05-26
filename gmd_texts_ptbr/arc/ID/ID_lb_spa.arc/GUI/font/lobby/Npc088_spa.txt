@@ -177,7 +177,7 @@ Deve vir à Arena ainda
 mais frequentemente. Até logo, caçador!
 --- BLOCK ---
 O quê? Não há espaço para sua
-equipe na sua Caixa de objetos.
+equipe na sua Caixa de itens.
 --- BLOCK ---
 Um bom caçador está sempre organizado.
 Volte quando tiver organizado sua caixa.

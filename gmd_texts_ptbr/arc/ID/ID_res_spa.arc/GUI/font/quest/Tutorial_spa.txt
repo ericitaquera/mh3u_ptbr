@@ -305,7 +305,7 @@ para mexer na salada, sabe?
 --- BLOCK ---
 Quando tiver Carne crua, selecione a
 Grelha de churrasco na janela de
-objetos do canto inferior direito.
+itens do canto inferior direito.
 --- BLOCK ---
 Aperte o botão A quando a
 carne estiver dourada. Calcule bem!
@@ -322,11 +322,11 @@ e sua Resistência máxima aumentará antes
 que possa dizer "Jaggi flambeado".
 --- BLOCK ---
 Vamos, coma! Selecione o Bife ao
-ponto na janela de objetos e
+ponto na janela de itens e
 use. E mastigue de boca fechada!
 --- BLOCK ---
 Ei, parece que encontrou Ervas!
-Pode coletar objetos como as
+Pode coletar itens como as
 Ervas várias vezes, sabe?
 --- BLOCK ---
 Além das Ervas, encontrará todo tipo
@@ -334,8 +334,8 @@ de coisinhas na Floresta Moga.
 Lembre-se de coletá-las ao caçar...
 --- BLOCK ---
 Dê uma olhada na Bolsa de
-objetos no menu do jogo para
-saber a utilidade dos objetos encontrados.
+itens no menu do jogo para
+saber a utilidade dos itens encontrados.
 --- BLOCK ---
 Certo. Quando estiver pronto, é hora de
 caçar carnívoros. Lembre-se: a Área 6 do
@@ -461,7 +461,7 @@ na vila está relacionada com a
 terra ao redor". Eles tinham razão.
 --- BLOCK ---
 Conforme explorar, coletar Recursos
-e cortar objetos, verá como sua vida
+e cortar itens, verá como sua vida
 em Moga vai se enriquecendo.
 --- BLOCK ---
 Até pode combinar materiais para
@@ -977,7 +977,7 @@ Ah, Deviljho! É assim que se chama
 esse monstro! Mas não importa! Corra! Fuja!
 --- BLOCK ---
 Bem, parece um bom momento para
-você enfrentar o Lagiacrus marmóreo. É
+você enfrentar o Lagiacrus marfim. É
 uma subespécie do Lagiacrus, sabe?
 --- BLOCK ---
 Não vou mentir: essa caçada é complicada.

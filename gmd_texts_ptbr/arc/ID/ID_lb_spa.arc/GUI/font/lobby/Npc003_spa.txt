@@ -840,7 +840,7 @@ Pouco depois de iniciar, um bilhete
 de retorno aparece entre seus suprimentos.
 --- BLOCK ---
 Entregue quando quiser voltar. Até
-lá, reúna todos os objetos
+lá, reúna todos os itens
 que puder, ok? Divirta-se!
 --- BLOCK ---
 Também há uma missão para caçar
@@ -2113,9 +2113,9 @@ Voilà! Chegou a solicitação para
 caçar o bicho mais colossal!
 --- BLOCK ---
 O Governante dos dois
-reinos, o Lagiacrus marmóreo!
+reinos, o Lagiacrus marfim!
 --- BLOCK ---
-Que surpresa o Lagiacrus marmóreo terá
+Que surpresa o Lagiacrus marfim terá
 preparada? Um caçador curioso gostaria de
 saber! Vamos ver o meu guia...
 --- BLOCK ---
@@ -2151,7 +2151,7 @@ E UUUUUUUU,
 UUUUUUUUUUUUUUUUUU UUUUUUUUUUUUUUUUUUUU!
 --- BLOCK ---
 Você derrotou o lendário Lagiacrus
-marmóreo! certeza de que meus chefes da
+marfim! certeza de que meus chefes da
 Guilda tiveram um susto ao saber disso!
 --- BLOCK ---
 Vou me gabar disso por anos! E daí
@@ -2176,7 +2176,7 @@ que tivemos um bom dia.
 He, he, he...
 --- BLOCK ---
 Você caçou o Lagiacrus
-marmóreo e completou todas
+marfim e completou todas
 as missões da vila.
 --- BLOCK ---
 Sim, acho que podemos dizer que você
@@ -2201,7 +2201,7 @@ Uma missão de resistência na Arena!
 Vamos ver contra quais monstros você irá
 enfrentar hoje... O primeiro da lista é...
 --- BLOCK ---
-Um Lagiacrus marmóreo.
+Um Lagiacrus marfim.
 --- BLOCK ---
 ... Bueeenooo.
 Boa sorte.

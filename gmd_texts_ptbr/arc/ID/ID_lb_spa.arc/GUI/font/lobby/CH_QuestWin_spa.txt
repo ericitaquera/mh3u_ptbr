@@ -148,7 +148,7 @@ Cace um Uragaan acerado
 --- BLOCK ---
 Cace um Agnaktor glacial
 --- BLOCK ---
-Cace um Lagiacrus marmóreo
+Cace um Lagiacrus marfim
 --- BLOCK ---
 Cace um Deviljho
 --- BLOCK ---
@@ -240,7 +240,7 @@ Cace um Zinogre estigio
 --- BLOCK ---
 Cace um Lagiacrus
 --- BLOCK ---
-Cace um Lagiacrus marmóreo
+Cace um Lagiacrus marfim
 --- BLOCK ---
 Cace um Brachydios
 --- BLOCK ---

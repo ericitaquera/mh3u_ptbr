@@ -1,0 +1,216 @@
+TMSG_QNTALK002_000
+--- BLOCK ---
+TMSG_QNTALK002_001
+--- BLOCK ---
+"O valente se destaca na
+adversidade". Cha-Cha para de beber.
+--- BLOCK ---
+"Conta o que resta, não o que falta".
+Cha-Cha não vai fugir desta vez... Ainda.
+--- BLOCK ---
+"A fome não é uma boa conselheira".
+Menos mal que Cha-Cha está satisfeito!
+--- BLOCK ---
+"Quem brinca com fogo, se queima".
+Acredite, Cha-Cha está pegando fogo!
+--- BLOCK ---
+"O mundo é um oásis".
+Cha-Cha quer ver isso!
+--- BLOCK ---
+"A ganância quebra o saco".
+Cha-Cha só valoriza carne!
+--- BLOCK ---
+"Que a dança continue! Alegria
+total!". Cha-Cha está nisso!
+--- BLOCK ---
+"Estamos loucos, vamos dançar ou não...".
+Cha-Cha escolhe a primeira opção!
+--- BLOCK ---
+"Não esconda seu talento, use-o bem".
+Cha-Cha não tem nada a esconder!
+--- BLOCK ---
+"Domine suas paixões, não seja dominado
+por elas". Cha-Cha se sente dominado...
+--- BLOCK ---
+"A ocasião faz o ladrão".
+Mas Cha-Cha está firme!
+--- BLOCK ---
+"Se cair sete vezes, levante-se oito".
+Cha-Cha luta até o fim!
+--- BLOCK ---
+"Em cem anos, todos carecas".
+Cha-Cha reflete sobre isso.
+--- BLOCK ---
+"Tudo que vive, morre". Cha-Cha
+não se arrepende de nada!
+--- BLOCK ---
+"Um dia de lazer é um dia
+imortal". Cha-Cha precisa de um descanso.
+--- BLOCK ---
+"A Deus pedindo e com o
+martelo batendo". Cha-Cha prefere escapatória!
+--- BLOCK ---
+"A vingança é doce!".
+E Cha-Cha adora doces!
+--- BLOCK ---
+"A sorte sorri para quem se prepara".
+Cha-Cha se prepara para se preparar!
+--- BLOCK ---
+"Você deve tolerar o que não pode
+mudar". Se Cha-Cha não está! Chaka-ho!
+--- BLOCK ---
+"Um presente vale mais que mil
+palavras". Exatamente o que Cha-Cha queria!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+"A comida do estranho é o melhor
+presente". Receita exclusiva do seguidor total!
+--- BLOCK ---
+"Se você compartilha carne, restam ossos".
+Por isso Cha-Cha come tudo!
+--- BLOCK ---
+"Com menos comida, você prolonga a
+vida". Cha-Cha não acredita nisso.
+--- BLOCK ---
+"Habilidade e determinação te tornam invencível".
+E também um bom cozinheiro! Cha-ja!
+--- BLOCK ---
+"Uma boa tentativa é meio caminho andado". Acho
+que você deve buscar a outra metade.
+--- BLOCK ---
+"Quem muito abrange, pouco aperta". A
+menos que use uma bomba!
+--- BLOCK ---
+"A morte cura tudo". Para
+isso você tem Cha-Cha!
+--- BLOCK ---
+"Se você perde a coragem, perde tudo".
+Cha-Cha só teme o próprio medo!
+--- BLOCK ---
+"Este é um plano perverso e
+inalterável". Cha-Cha planeja perfeitamente: não perder!
+--- BLOCK ---
+"A união faz a força". Cha-Cha,
+seu amigo até o fim!
+--- BLOCK ---
+"A árvore grande pega o vento". Cha-Cha
+é sincero: isso ele não entende.
+--- BLOCK ---
+"A confiança dá nojo". Cha-Cha
+confia nos pés! E corre!
+--- BLOCK ---
+"A força do lobo está na matilha".
+E Cha-Cha está faminto como um lobo!
+--- BLOCK ---
+"Não se pode aplaudir com uma mão".
+Cha-Cha não te deixa dançar sozinho!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+"O valente se destaca na adversidade".
+Kayamba não gosta do som disso.
+--- BLOCK ---
+"Conta o que resta, não o
+que falta". Kayamba conta monstros. Muitos!
+--- BLOCK ---
+"A fome não é uma boa
+conselheira". Mas Kayamba já está satisfeito!
+--- BLOCK ---
+"Quem brinca com fogo, se queima".
+Tudo bem! Kayamba já se acalmou.
+--- BLOCK ---
+"O mundo é um oásis".
+E Kayamba colhe tudo!
+--- BLOCK ---
+"A ganância quebra o saco". O
+que eu preciso cortar, não é?
+--- BLOCK ---
+"Que a dança continue! Alegria total!".
+Kayamba pronto para o chachachá!
+--- BLOCK ---
+"Estamos loucos, vamos dançar ou não...". E
+Kayamba é o mais louco de todos!
+--- BLOCK ---
+"Não esconda seu talento, use-o
+bem". Kayamba dança! Dança bem!
+--- BLOCK ---
+"Domine suas paixões, não seja dominado
+por elas". Kayamba domina paixão fracassada...
+--- BLOCK ---
+"A ocasião faz o ladrão".
+Kayamba diz vamos lá!
+--- BLOCK ---
+"Se cair sete vezes, levante-se oito".
+Caia oito, não levante! Yam-ba!
+--- BLOCK ---
+"Em cem anos, todos carecas".
+Kayamba finalmente vê um limite...
+--- BLOCK ---
+"Tudo que vive, morre".
+Kayamba não gosta disso...
+--- BLOCK ---
+"Um dia de lazer é um dia
+imortal". Kayamba gosta de lazer. Vamos lá!
+--- BLOCK ---
+"A Deus pedindo e com o
+martelo batendo". Kayamba só cura!
+--- BLOCK ---
+"A vingança é doce!". E a
+torta. Mas vingança é melhor!
+--- BLOCK ---
+"A sorte sorri para quem se
+prepara". Deixe Kayamba se preparar então!
+--- BLOCK ---
+"Você deve tolerar o que não
+pode mudar". Kayamba não tolera doença!
+--- BLOCK ---
+"Um presente vale mais que mil
+palavras". Kayamba adora todos os presentes!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+"A comida do estranho é o melhor
+presente". Kayamba dá quatro estrelas para isso!
+--- BLOCK ---
+"Se você compartilha carne, restam ossos". Mas
+o osso tem tutano! O melhor!
+--- BLOCK ---
+"Com menos comida, você prolonga a vida".
+Não é difícil com comida assim!
+--- BLOCK ---
+"Habilidade e determinação te tornam invencível".
+Bom trabalho! Kayamba está orgulhoso!
+--- BLOCK ---
+"Uma boa tentativa é meio caminho andado".
+E saber grelhar é metade da batalha.
+--- BLOCK ---
+"Quem muito abrange, pouco aperta".
+Deveria tentar com uma bomba!
+--- BLOCK ---
+"A morte cura tudo".
+Kayamba cobra depois.
+--- BLOCK ---
+"Se você perde a coragem, perde tudo".
+Kayamba se perdeu na floresta um dia!
+--- BLOCK ---
+"Este é um plano perverso e
+inalterável". Kayamba sem tempo! Apenas caça!
+--- BLOCK ---
+"A união faz a força". A
+Kayamba gosta muito da força.
+--- BLOCK ---
+"A árvore grande pega o vento".
+Às vezes Kayamba corta o vento.
+--- BLOCK ---
+"A confiança dá nojo". Kayamba aprende
+isso da maneira mais difícil!
+--- BLOCK ---
+"A força do lobo está na
+matilha". E os dentes. Mas entendi.
+--- BLOCK ---
+"Não se pode aplaudir com uma mão".
+E Kayamba não deixa você dançar sozinho!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

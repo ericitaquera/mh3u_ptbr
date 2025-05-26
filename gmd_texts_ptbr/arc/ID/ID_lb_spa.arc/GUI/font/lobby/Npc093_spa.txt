@@ -1,0 +1,138 @@
+TMSG_NPC093_0
+--- BLOCK ---
+TMSG_NPC093_1
+--- BLOCK ---
+TMSG_NPC093_2
+--- BLOCK ---
+TMSG_NPC093_3
+--- BLOCK ---
+TMSG_NPC093_4
+--- BLOCK ---
+<SUBS 0>
+Quer que o Kayamba se junte a
+você nesta grande aventura?
+--- BLOCK ---
+Kayamba! Esmagamos monstros
+como uvas!
+--- BLOCK ---
+Kayamba não está com vontade
+de aventuras. <SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Você quer que Kayamba fique para trás?
+Mesmo que Kayamba se sinta sozinho?
+--- BLOCK ---
+Perfeito. Kayamba aproveita a
+chance de dar uma
+volta. <SUBS 1>
+--- BLOCK ---
+Kayamba! Você é mais esperto do que parece.
+--- BLOCK ---
+<SUBS 0> 
+Você quer que Kayamba se una a você
+em uma aventura multiplayer?
+--- BLOCK ---
+Kayamba! Deixe seus
+amigos verdes
+de inveja!
+--- BLOCK ---
+Kayamba não gosta de
+festa igualmente. <SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+O quê? Deixando Kayamba para trás
+enquanto você curte a socialização?
+--- BLOCK ---
+Tudo bem. Kayamba não estava
+com vontade de enfrentar
+monstros hoje. <SUBS 1>
+--- BLOCK ---
+Kayamba adorou isso!
+--- BLOCK ---
+<SUBS 0>
+Quando Kayamba chega, a probabilidade de
+sucesso na missão é de 99,9%!
+--- BLOCK ---
+Sei o que você diz. 99,9% é um
+número bobo. Por que não arredondar para 100?
+--- BLOCK ---
+Porque Kayamba é rigoroso com os dados! E
+se o número for revisado por pares?
+--- BLOCK ---
+<SUBS 0>
+Os Shakalaka sempre usam máscaras.
+Em todos os momentos, todos os dias.
+--- BLOCK ---
+Hum? Está curioso sobre a aparência de
+Kayamba? Tente dar uma olhada na próxima
+vez que Kayamba trocar de máscara!
+--- BLOCK ---
+Mas Kayamba avisa: Kayamba é o
+melhor trocador de história Shakalaka! Ninguém
+viu o rosto verdadeiro de Kayamba!
+--- BLOCK ---
+<SUBS 0>
+Kayamba é um caçador honrado. Kayamba
+nunca ataca monstros adormecidos.
+--- BLOCK ---
+Kayamba joga limpo como um
+verdadeiro cavaleiro Shakalaka! Geralmente.
+--- BLOCK ---
+<SUBS 0>
+Kayamba pode cortar e coletar até oito
+tipos de itens durante a caçada.
+--- BLOCK ---
+Kayamba traz loot suficiente para
+montar seu próprio mercado!
+--- BLOCK ---
+<SUBS 0>
+Máscara de Kayamba feita de coco e pinça
+de caranguejo. Cheira a brisa marinha.
+--- BLOCK ---
+Não tem poder especial, mas tudo bem.
+Às vezes, Kayamba quer usar a máscara
+que mais gosta. A Máscara Tenaz!
+--- BLOCK ---
+<SUBS 0>
+A máscara garra é a máscara mais
+querida e antiga de Kayamba.
+--- BLOCK ---
+Se Kayamba espiar monstros usando ela, Kayamba
+parte para o ataque corpo a corpo!
+--- BLOCK ---
+Kayamba!
+--- BLOCK ---
+Kayamba!
+--- BLOCK ---
+Kayamba!
+--- BLOCK ---
+Como vai, amigo?
+--- BLOCK ---
+Kayamba está cheio de energia hoje!
+--- BLOCK ---
+Oh! Kayamba não te vi ali...
+--- BLOCK ---
+Kayamba te deseja um bom dia.
+--- BLOCK ---
+O que você precisa dos Shakalaka?
+--- BLOCK ---
+Kayamba!
+--- BLOCK ---
+Ah, você de novo...
+--- BLOCK ---
+Kayamba! Kayamba!
+--- BLOCK ---
+Olá, seguidor!
+--- BLOCK ---
+Até logo!
+--- BLOCK ---
+Até logo!
+--- BLOCK ---
+Tchauzinho!
+--- BLOCK ---
+Adeus!
+--- BLOCK ---
+!
+--- BLOCK ---
+!
+--- BLOCK ---

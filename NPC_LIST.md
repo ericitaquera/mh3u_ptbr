@@ -2,6 +2,8 @@
 
 This list maps all NPCs appearing in the game with their Portuguese display names as found in the translated localization files.
 
+WARNING!!!! Not a good list. =)
+
 ## 🧍 NPCs by ID and Display Name
 
 * Npc001: Menino Shak perdido
@@ -24,80 +26,78 @@ This list maps all NPCs appearing in the game with their Portuguese display name
 * Npc018: Menino Shak perdido
 * Npc019: Fazendeiro jefe
 * Npc020: Primeiro Felyne que volta à Fazenda
-* Npc021: Invalid Message
-* Npc022: Invalid Message
-* Npc023: Cha-Cha
-* Npc024: Kayamba
-* Npc025: Chamberlyne
-* Npc026: Menino
-* Npc027: Cumprimentador
+* Npc021: Cha-Cha
+* Npc022: Kayamba
+* Npc023: Chamberlyne
+* Npc024: Menino
+* Npc025: Cumprimentador
+* Npc026: Guia de Loc Lac
+* Npc027: Empregada da Arena
 * Npc028: Guia de Loc Lac
-* Npc029: Empregada da Arena
-* Npc030: Guia de Loc Lac
-* Npc031: Guia de Loc Lac
-* Npc032: Frequentador da Arena
-* Npc033: Caçadora novata
-* Npc034: Cidadã amável
-* Npc035: Nativa Estilosa
-* Npc036: Marinheiro Caça-dragão
-* Npc037: Marinheiro Caça-dragão
-* Npc038: Dama do comércio
-* Npc039: Vendedor Pequenino
-* Npc040: O Combinador
-* Npc041: Capitão Útil
-* Npc042: Adivino interior
-* Npc043: Guia de Loc Lac
-* Npc044: Sabia ambiciosa
-* Npc045: DUMMY045
-* Npc046: Marinheiro Caça-dragão
-* Npc047: Marinheiro Caça-dragão
-* Npc048: Mestre da Guilda
-* Npc049: Recepcionista
-* Npc050: Vendedora da Guilda
-* Npc051: Empregada da Arena
-* Npc052: Marinheiro Caça-dragão
-* Npc053: Instrutor orgulhoso
-* Npc054: Caçador incrível
-* Npc055: Marino cazadragones
-* Npc056: Mestre herrero
-* Npc057: Vendedor de armas
-* Npc058: Guia de Loc Lac
-* Npc059: Ferreiro
-* Npc060: Aprendiz hábil
-* Npc061: Aprendiz genial
-* Npc062: Caçador sagaz
-* Npc063: Caçadora Opulenta
-* Npc064: Dono da pensão
-* Npc065: Guia de Loc Lac
-* Npc066: Poogie
-* Npc067: Caçador intrépido
-* Npc068: Caçadora gruñona
-* Npc069: Chamberlyne
-* Npc070: Caçador tímido
-* Npc071: Leitão do patrão
-* Npc072: Neko (gato)
-* Npc073: Mensageiro Felyne
-* Npc074: Menino nervoso
-* Npc075: Abuela para todo
-* Npc076: Mestre Ferreiro
-* Npc077: Vendedor de armas
-* Npc078: Cidadã amável
-* Npc079: Instructor ufano
-* Npc080: Marinheiro amigable
-* Npc081: Gata sagaz
-* Npc082: Mestre del Gremio
-* Npc083: Chica del gong
-* Npc084: Recepcionista
-* Npc085: Empregada da Arena
-* Npc086: Vendedora da guilda
-* Npc087: Mestre churrasqueiro
-* Npc088: Camareiro
-* Npc089: Cha-Cha
-* Npc090: Kayamba
-* Npc091: Puerto Cha-Cha (TMP)
-* Npc092: Puerto Cha-Cha (TMP)
-* Npc093: Puerto Cha-Cha (TMP)
+* Npc029: Guia de Loc Lac
+* Npc030: Frequentador da Arena
+* Npc031: Caçadora novata
+* Npc032: Cidadã amável
+* Npc033: Nativa Estilosa
+* Npc034: Marinheiro Caça-dragão
+* Npc035: Marinheiro Caça-dragão
+* Npc036: Dama do comércio
+* Npc037: Vendedor Pequenino
+* Npc038: O Combinador
+* Npc039: Capitão Útil
+* Npc040: Adivino interior
+* Npc041: Guia de Loc Lac
+* Npc042: Sabia ambiciosa
+* Npc043: DUMMY045
+* Npc044: Marinheiro Caça-dragão
+* Npc045: Marinheiro Caça-dragão
+* Npc046: Mestre da Guilda
+* Npc047: Recepcionista
+* Npc048: Vendedora da Guilda
+* Npc049: Empregada da Arena
+* Npc050: Marinheiro Caça-dragão
+* Npc051: Instrutor orgulhoso
+* Npc052: Caçador incrível
+* Npc053: Marino cazadragones
+* Npc054: Mestre herrero
+* Npc055: Vendedor de armas
+* Npc056: Guia de Loc Lac
+* Npc057: Ferreiro
+* Npc058: Aprendiz hábil
+* Npc059: Aprendiz genial
+* Npc060: Caçador sagaz
+* Npc061: Caçadora Opulenta
+* Npc062: Dono da pensão
+* Npc063: Guia de Loc Lac
+* Npc064: Poogie
+* Npc065: Caçador intrépido
+* Npc066: Caçadora gruñona
+* Npc067: Chamberlyne
+* Npc068: Caçador tímido
+* Npc069: Leitão do patrão
+* Npc070: Neko (gato)
+* Npc071: Mensageiro Felyne
+* Npc072: Menino nervoso
+* Npc073: Abuela para todo
+* Npc074: Mestre Ferreiro
+* Npc075: Vendedor de armas
+* Npc076: Cidadã amável
+* Npc077: Instructor ufano
+* Npc078: Marinheiro amigable
+* Npc079: Gata sagaz
+* Npc080: Mestre del Gremio
+* Npc081: Chica del gong
+* Npc082: Recepcionista
+* Npc083: Empregada da Arena
+* Npc089: Vendedora da guilda
+* Npc090: Mestre churrasqueiro
+* Npc091: Camareiro
+* Npc092: Cha-Cha
+* Npc093: Kayamba
 * Npc094: Puerto Cha-Cha (TMP)
+* Npc095: Puerto Cha-Cha (TMP)
+* Npc096: Puerto Cha-Cha (TMP)
+* Npc097: Puerto Cha-Cha (TMP)
 
 ---
 

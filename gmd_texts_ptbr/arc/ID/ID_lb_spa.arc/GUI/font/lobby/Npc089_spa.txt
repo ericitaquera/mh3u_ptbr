@@ -1,0 +1,83 @@
+TMSG_NPC089_0
+--- BLOCK ---
+TMSG_NPC089_1
+--- BLOCK ---
+TMSG_NPC089_2
+--- BLOCK ---
+TMSG_NPC089_3
+--- BLOCK ---
+TMSG_NPC089_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Você sabia que o Suco de Força é feito
+com um Bife malpassado e um Catalisador?
+--- BLOCK ---
+<SUBS 0>
+Combine Mel e um Inseto amargo para fazer
+um Catalisador, a base de tudo!
+--- BLOCK ---
+Os Catalizadores são feitos com Insetos
+amargos, mas são mais doces que o Mel.
+Será que vão vender como balas?
+--- BLOCK ---
+Ah, olá! Sou a vendedora
+da loja da Guilda.
+--- BLOCK ---
+Os da Guilda dizem que eu poderia vender
+um casaco de pele para um Felyne.
+Mas não sou uma comerciante! De verdade!
+--- BLOCK ---
+Uma comerciante te lembraria de levar Poções
+e Pedras de amolar para caçar?
+E munição se você for Atirador!
+--- BLOCK ---
+Você precisa lembrar de levar de tudo.
+Só estou olhando pelo seu interesse!
+--- BLOCK ---
+É isso que a loja da Guilda
+faz! Fazemos o que podemos para apoiá-los...
+Da segurança do balcão, é claro.
+--- BLOCK ---
+Não posso te ajudar quando
+está caçando, então deixe tudo
+preparado aqui antes de sair!
+--- BLOCK ---
+Aqui está a loja da Guilda!
+--- BLOCK ---
+A loja da Guilda abre suas portas para você!
+--- BLOCK ---
+Olá, caçador. Bom, bonito e barato!
+--- BLOCK ---
+Estava te esperando! Aliás...
+--- BLOCK ---
+Volte logo! Estarei te esperando!
+--- BLOCK ---
+É elegante comprar algo antes de partir.
+--- BLOCK ---
+Obrigada pelo apoio.
+--- BLOCK ---
+Volte logo. Para olhar, conversar, gastar
+suas economias... o que quiser!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+Não tem problema se quiser só
+olhar um pouco. Mas compre bastante!
+--- BLOCK ---
+Hoje temos ótimos itens à venda.
+Dê uma olhada por aí!
+--- BLOCK ---
+Este é meu novo slogan: "Arrase
+na loja da Guilda antes
+que os monstros te arrasem!"
+--- BLOCK ---
+Ótimo! Vamos ver o
+que temos hoje!
+--- BLOCK ---
+Tem certeza de que não está esquecendo nada?
+Não tenho problema em aceitar seus zenis!
+--- BLOCK ---

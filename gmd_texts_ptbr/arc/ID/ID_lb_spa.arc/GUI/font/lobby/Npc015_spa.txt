@@ -214,7 +214,7 @@ frequência... por precaução!
 --- BLOCK ---
 Talvez eu não tenha entendido direito...
 Ah! E há uma Caixa de itens lá para
-armazenar objetos/trocar de equipamento.
+armazenar itens/trocar de equipamento.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -228,7 +228,7 @@ Por precaução!
 --- BLOCK ---
 Talvez eu não tenha entendido direito...
 Ah! E há uma Caixa de itens lá para
-armazenar objetos/trocar de equipamento.
+armazenar itens/trocar de equipamento.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---

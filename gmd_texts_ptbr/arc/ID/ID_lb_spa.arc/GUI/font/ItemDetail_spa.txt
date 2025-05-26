@@ -26,11 +26,11 @@ as opções de sucesso.
 --- BLOCK ---
 Edição da revista "Vida de
 caça" com um artigo sobre
-a Caixa de objetos.
+a Caixa de itens.
 --- BLOCK ---
 Edição da revista "Vida de
 caça" com artigo sobre
-o transporte de objetos.
+o transporte de itens.
 --- BLOCK ---
 Restaura levemente
 a Saúde.
@@ -611,7 +611,7 @@ Essencial se quiser
 materiais de peixes.
 Enfraquece e arpoeia.
 --- BLOCK ---
-Objeto essencial para todo
+Item essencial para todo
 caçador. Serve para
 cozinhar a carne.
 --- BLOCK ---
@@ -787,7 +787,7 @@ lançada. Testado.
 --- BLOCK ---
 Mineral muito férreo. Pode
 ser fundido para
-forjar diferentes objetos.
+forjar diferentes itens.
 --- BLOCK ---
 Microorganismos cristalizados usados
 como abrasivo na
@@ -1102,7 +1102,7 @@ Forte e flexível ao mesmo
 tempo, é tão confiável quanto
 o aço ou a madeira.
 --- BLOCK ---
-Crucial para criar objetos
+Crucial para criar itens
 grandes. Certo item pode
 uni-lo a uma concha.
 --- BLOCK ---
@@ -1181,7 +1181,7 @@ um wyvern pássaro. Difícil de
 cortar devido a sua fragilidade.
 --- BLOCK ---
 Contém um ingrediente
-desconhecido. Objeto de
+desconhecido. Item de
 estudos acadêmicos.
 --- BLOCK ---
 DUMMY 28
@@ -2305,7 +2305,7 @@ Mudou de cor quando
 seu proprietário estava vivo.
 Agradável aos colecionadores.
 --- BLOCK ---
-Objeto difícil de obter. Cortar
+Item difícil de obter. Cortar
 as garras de um Gigginox
 não é nada fácil.
 --- BLOCK ---
@@ -2379,7 +2379,7 @@ Lança descargas elétricas.
 --- BLOCK ---
 Não é muito durável, mas
 é macia e maleável. Faça
-valiosos objetos de couro.
+valiosos itens de couro.
 --- BLOCK ---
 Pele boa de
 Lagiacrus. Bastante resistente
@@ -2426,19 +2426,19 @@ escama de Lagiacrus. Aumenta
 a eficácia do equipamento.
 --- BLOCK ---
 Escama de Lagiacrus forte
-marmorizado. Brilha à luz.
+marfim. Brilha à luz.
 Famosa e muito valiosa.
 --- BLOCK ---
 Exemplar final de escama
-de Lagiacrus marmorizado. Requer
+de Lagiacrus marfim. Requer
 habilidades para usar.
 --- BLOCK ---
 Fonte de eletricidade de
-um Lagiacrus marmorizado. Bom
+um Lagiacrus marfim. Bom
 condutor; não superaquece.
 --- BLOCK ---
 Concha grossa de poucos
-Lagiacrus marmorizados. Provoca
+Lagiacrus marfim. Provoca
 tempestades de raios.
 --- BLOCK ---
 Pele não durável, mas
@@ -2457,12 +2457,12 @@ DUMMY 57
 --- BLOCK ---
 DUMMY 58
 --- BLOCK ---
-Chifre de Lagiacrus marmorizado.
+Chifre de Lagiacrus marfim.
 Muito procurado por sua
 força e beleza.
 --- BLOCK ---
 Chifre sublime de Lagiacrus
-marmorizado. Nobres o adoram
+marfim. Nobres o adoram
 por sua elegância impecável.
 --- BLOCK ---
 DUMMY 59
@@ -2481,7 +2481,7 @@ uma arma elétrica letal.
 --- BLOCK ---
 Pele rara de Lagiacrus do
 abismo. Dá aspecto divino a
-objetos criados com ela.
+itens criados com ela.
 --- BLOCK ---
 DUMMY 62
 --- BLOCK ---
@@ -2942,7 +2942,7 @@ a pena forjá-la.
 --- BLOCK ---
 Dura: mais do que pelos,
 parece espinhas. Por isso, é
-mais útil para criar objetos.
+mais útil para criar itens.
 --- BLOCK ---
 DUMMY 73
 --- BLOCK ---
@@ -3171,7 +3171,7 @@ a torna um luxo.
 --- BLOCK ---
 O melhor pelo de
 Lagombi, duradouro e supermacio.
-Um objeto cobiçado.
+Um item cobiçado.
 --- BLOCK ---
 Orelha longa de um Lagombi.
 Muito tempo no frio; é
@@ -3269,7 +3269,7 @@ partes de equipamento superior.
 --- BLOCK ---
 Garra afiada Nibelsnarf, adaptada
 para cavar na areia.
-Objeto de qualidade.
+Item de qualidade.
 --- BLOCK ---
 Parte do crânio que possui
 vários órgãos. As peças devem
@@ -4712,7 +4712,7 @@ DUMMY 152
 --- BLOCK ---
 Casca rígida de Agnaktor.
 Resistente ao calor, produz
-objetos ígneos quando forjada.
+itens ígneos quando forjada.
 --- BLOCK ---
 Pele incomum de Gigginox.
 Combinação perfeita entre
@@ -5013,7 +5013,7 @@ rara com essa iguaria.
 --- BLOCK ---
 Bem raro ★★★. Garganta de
 Qurupeco. Faça uma troca rara
-com esse objeto barulhento.
+com esse item barulhento.
 --- BLOCK ---
 Bem raro ★★★. Pelagem fofa
 de um Ludroth real. Use
@@ -5089,7 +5089,7 @@ chama cerúlea consome tudo.
 --- BLOCK ---
 Muito raro ★★★★★★★. Escama
 nívea de Lagiacrus
-marmóreo. Chamará atenção.
+marfim. Chamará atenção.
 --- BLOCK ---
 Muito raro ★★★★★★★. O
 estômago de Deviljho

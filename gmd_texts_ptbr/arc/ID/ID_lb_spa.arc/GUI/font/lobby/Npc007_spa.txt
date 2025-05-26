@@ -242,7 +242,7 @@ ou simplesmente escolha uma que goste.
 --- BLOCK ---
 Conhece as armaduras de
 couro que vendo? São
-boas para coletar objetos.
+boas para coletar itens.
 --- BLOCK ---
 Com o set completo, aumenta a velocidade
 de coleta, o Machado e a Rede

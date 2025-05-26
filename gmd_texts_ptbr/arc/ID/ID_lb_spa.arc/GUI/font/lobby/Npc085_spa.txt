@@ -71,11 +71,11 @@ nas missões de alto escalão. Cuidado!"
 --- BLOCK ---
 <SUBS 0>
 Ah, sabia que outros caçadores
-podem lhe fornecer objetos?
+podem lhe fornecer itens?
 --- BLOCK ---
 É mais fácil que tomar um gole.
 *Cá* Simplesmente pressione o botão em frente
-ao objeto que lhe entregam para aceitar.
+ao item que lhe entregam para aceitar.
 --- BLOCK ---
 Tem um inexperiente em seu grupo
 com poucos materiais? Dê itens

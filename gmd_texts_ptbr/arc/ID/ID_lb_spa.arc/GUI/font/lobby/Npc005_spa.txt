@@ -446,7 +446,7 @@ Tenho certeza de que você tem
 combinado itens, não é? VERDADE?
 --- BLOCK ---
 Com um Livro de combinações em seu
-Saco de objetos, a taxa de sucesso
+Saco de itens, a taxa de sucesso
 da combinação aumenta. É prático, não é?
 --- BLOCK ---
 Um livro aumenta sua taxa de sucesso
@@ -501,7 +501,7 @@ favorito: o Guia organizador!
 --- BLOCK ---
 Esta revista permitirá que você tire
 o máximo proveito, ou coloque,
-em sua Caixa de objetos.
+em sua Caixa de itens.
 --- BLOCK ---
 Você não precisará mais se preocupar em
 ficar sem espaço! Vocês, caçadores, têm
@@ -540,7 +540,7 @@ Com isso em mente, apresento a
 você o Guia de catador.
 --- BLOCK ---
 Da mesma série do Guia anterior. Tem
-dicas sobre como usar a Caixa de objetos.
+dicas sobre como usar a Caixa de itens.
 --- BLOCK ---
 Sinceramente, acredito que este livro
 pode mudar sua vida...

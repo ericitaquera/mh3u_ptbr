@@ -855,7 +855,7 @@ de enfurecer os oceanos. Podem
 ser vistos em terra descansando.
 --- BLOCK ---
 Subespécie de Lagiacrus com
-belo casco marmóreo. Move-se
+belo casco marfim. Move-se
 fenomenalmente pela terra e
 seus arremessos e ataques
 em área são devastadores.
@@ -1259,7 +1259,7 @@ Tipos de Bomba
 --- BLOCK ---
 Tipos de Bebida
 --- BLOCK ---
-Outros Objetos Comuns
+Outros Itens Comuns
 --- BLOCK ---
 Floresta Moga
 --- BLOCK ---
@@ -1599,14 +1599,14 @@ O tempo exato restante pode
 ser visto selecionando Informações da
 missão no menu do jogo.
 --- BLOCK ---
-A barra de objetos exibida na
+A barra de itens exibida na
 tela superior ajudará você a escolher
 os itens que pode usar.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Às vezes, um ícone aparece
-sobre a cabeça do personagem.
+sobre a cabeça da personagem.
 --- BLOCK ---
 O ícone que você vê depende
 de sua localização e circunstâncias.
@@ -1766,9 +1766,9 @@ câmera e posicioná-la atrás do jogador.
 --- BLOCK ---
 Mantenha pressionado o botão L e pressione
 o botão A ou o botão Y
-para percorrer a lista de objetos.
+para percorrer a lista de itens.
 --- BLOCK ---
-Para usar o objeto selecionado, solte o
+Para usar o item selecionado, solte o
 botão L e pressione o botão Y.
 --- BLOCK ---
 Pressione o botão B ao se
@@ -2085,7 +2085,7 @@ Por exemplo, uma arma com um elemento
 de fogo forte pode causar dano extra
 a monstros fracos contra o fogo.
 --- BLOCK ---
-Os Amuletos são objetos
+Os Amuletos são itens
 misteriosos e poderosos criados
 usando antigas artes esquecidas.
 --- BLOCK ---
@@ -2184,7 +2184,7 @@ Por exemplo, suaviza os efeitos
 de Doença de dragão, que
 anula propriedades elementares das armas.
 --- BLOCK ---
-Use a Caixa de objetos de
+Use a Caixa de itens de
 sua casa para mudar a cor
 de algumas partes de sua armadura.
 --- BLOCK ---
@@ -2227,7 +2227,7 @@ Forja com dinheiro e materiais.
 --- BLOCK ---
 Os adornos podem ser colocados ou
 removidos na Forja ou usando a
-Caixa de objetos de sua casa.
+Caixa de itens de sua casa.
 --- BLOCK ---
 As Guildas da vila e do porto têm
 muitas missões para caçadores
@@ -2261,18 +2261,18 @@ monstro que tenha sido enfraquecido antes.
 Se conseguir, receberá uma recompensa.
 --- BLOCK ---
 A Combinação é a delicada arte de
-fundir dois objetos para criar um novo.
+fundir dois itens para criar um novo.
 --- BLOCK ---
-Você pode combinar objetos pelo menu
+Você pode combinar itens pelo menu
 de jogo ou pela Caixa
-de objetos em sua casa.
+de itens em sua casa.
 --- BLOCK ---
 Os comandos da Lista de Combinações
 permitem escolher uma receita da lista
-e criar o objeto selecionado.
+e criar o item selecionado.
 --- BLOCK ---
 A Churrasqueira é uma arte dos
-verdadeiros caçadores, e objetos como o
+verdadeiros caçadores, e itens como o
 Espeto são sua tela e cavalete.
 --- BLOCK ---
 Dependendo do tempo que você investir
@@ -2315,14 +2315,14 @@ mas quando encontradas, podem
 proporcionar itens muito valiosos.
 --- BLOCK ---
 No acampamento base, descanse, pegue
-objetos da Caixa de
+itens da Caixa de
 suprimentos e entregue missões.
 --- BLOCK ---
 O Ancião Vegetal, onde quer que
-esteja, trocará objetos com você
+esteja, trocará itens com você
 ou dará alguns de graça.
 --- BLOCK ---
-Os Anciões Vegetais adoram objetos
+Os Anciões Vegetais adoram itens
 lucrativos como Cogumelos especiais
 ou Tripas de monstro.
 --- BLOCK ---
@@ -2331,18 +2331,18 @@ ou um Ovo de monstro,
 entrará no modo Transportador.
 --- BLOCK ---
 No modo Transportador, use as duas
-mãos para carregar o objeto e
+mãos para carregar o item e
 só poderá andar e correr.
 --- BLOCK ---
 Se realizar outras ações, cair de
 uma altura ou esgotar a
-Resistência, deixará cair o objeto.
+Resistência, deixará cair o item.
 --- BLOCK ---
 Se for atacado por um monstro, também
-perderá o objeto. Portanto, tenha cuidado!
+perderá o item. Portanto, tenha cuidado!
 --- BLOCK ---
 O modo Transportador termina quando levar
-o objeto à Caixa de
+o item à Caixa de
 entrega vermelha do acampamento base.
 --- BLOCK ---
 Golpear monstros com Bolas de
@@ -2358,7 +2358,7 @@ aparecerão no mapa se estiverem
 na mesma área que você.
 --- BLOCK ---
 As Armadilhas de pedra e as Armadilhas de
-choque podem ser criadas combinando objetos.
+choque podem ser criadas combinando itens.
 --- BLOCK ---
 São usadas para temporariamente impedir
 o movimento de monstros grandes.

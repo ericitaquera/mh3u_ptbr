@@ -179,11 +179,11 @@ Enviar para caixa de itens
 Vender itens e sair
 --- BLOCK ---
 Coloque na bolsa de itens
-os objetos coletados por
+os itens coletados por
 seu parceiro.
 --- BLOCK ---
 Enviar para caixa de
-itens os objetos coletados
+itens os itens coletados
 por seu parceiro.
 --- BLOCK ---
 Vender os outros itens
@@ -195,7 +195,7 @@ Coletar recompensas
 --- BLOCK ---
 Enviar para caixa de itens
 --- BLOCK ---
-Vender objetos e sair
+Vender itens e sair
 --- BLOCK ---
 Coloque itens de recompensa
 na Bolsa de Itens.
@@ -216,7 +216,7 @@ HARDUMMY
 --- BLOCK ---
 9-16
 --- BLOCK ---
-17-24: 17-24
+17-24
 --- BLOCK ---
 Mensagem inválida
 --- BLOCK ---
@@ -642,10 +642,10 @@ Bebida adicionada aos seus ingredientes!
 Parabéns! Você
 recebe: %s!
 --- BLOCK ---
-Enviado para Caixa de objetos: %s.
+Enviado para Caixa de itens: %s.
 --- BLOCK ---
 Impossível receber. Caixa
-de objetos cheia.
+de itens cheia.
 --- BLOCK ---
 Cultivo
 --- BLOCK ---
@@ -691,7 +691,7 @@ Capit.
 --- BLOCK ---
 Sua oferta
 --- BLOCK ---
-Objetos de compra
+Itens de compra
 --- BLOCK ---
 Você
 --- BLOCK ---
@@ -1421,7 +1421,7 @@ Rec. natural +1
 --- BLOCK ---
 Proteção auditiva
 --- BLOCK ---
-Efeito objeto +1
+Efeito item +1
 --- BLOCK ---
 Pot. atq. elem.
 --- BLOCK ---

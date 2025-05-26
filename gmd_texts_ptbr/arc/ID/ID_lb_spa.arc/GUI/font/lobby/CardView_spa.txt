@@ -208,7 +208,7 @@ tornaram amigos de alma.
 --- BLOCK ---
 Um pergaminho com segredos
 de combinação. Prova de
-ter criado muitos objetos.
+ter criado muitos itens.
 --- BLOCK ---
 Prova de ter capturado
 muitos tipos de monstros.
@@ -306,7 +306,7 @@ infligiu muitos ataques.
 --- BLOCK ---
 desferiu muitos golpes.
 --- BLOCK ---
-obteve muitos objetos.
+obteve muitos itens.
 --- BLOCK ---
 quase não desmaiou.
 --- BLOCK ---

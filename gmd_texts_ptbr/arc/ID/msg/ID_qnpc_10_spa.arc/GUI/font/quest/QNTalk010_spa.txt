@@ -1,0 +1,68 @@
+TMSG_QNTALK010_000
+--- BLOCK ---
+TMSG_QNTALK010_001
+--- BLOCK ---
+Cha-Cha acredita lembrar de um atalho para o interior. Em
+frente à tenda de acampamento, olhe para a esquerda.
+--- BLOCK ---
+Cha-Cha sabe de um atalho dentro das ruínas!
+Olhe nas rochas à direita da tenda.
+--- BLOCK ---
+Você ataca! Você enfraquece!... Como?
+Você é inteligente. Você descobrirá!
+--- BLOCK ---
+Já... já! Bata nos
+chifres! Chifres! Faça cra-cra!
+--- BLOCK ---
+Shaka-ho! Agora que o chifre
+quebrou, mais ataque! Persiga-o!
+--- BLOCK ---
+Cha, ha, ha! Sim! Você
+não é tão ruim, parece...
+--- BLOCK ---
+Oh, não! Ele está irritado! Bata com
+o Matadragões antes que ele se acalme!
+--- BLOCK ---
+Cuidado com as patas dianteiras e a cauda!
+Dê a volta para não ser despedaçado!
+--- BLOCK ---
+Cha, ha! Shakaleado em toda a
+juba! Agora, persiga até a toca!
+--- BLOCK ---
+Não pare agora! Ele é todo
+seu! Não o deixe escapar!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Kayamba conhece um atalho para as ruínas. Olhe
+para a tenda e depois para a esquerda!
+--- BLOCK ---
+Olhe nas rochas à direita da tenda.
+Kayamba encontrou o caminho para as ruínas!
+--- BLOCK ---
+Kayamba sabe um truque para isso! Ataque
+e depois... Bem, Kayamba não faz ideia.
+--- BLOCK ---
+Yam-ba-ba! Sua chance de
+quebrar os chifres!
+--- BLOCK ---
+Soco e tapa! Esgote o idiota! Kayamba
+gosta de como você o afasta!
+--- BLOCK ---
+Kayamba está impressionado! Onde você
+aprendeu uma técnica assim?
+--- BLOCK ---
+Parece muito bravo! Aproveite! Use o
+Matadragões quando ele se irritar!
+--- BLOCK ---
+Procure as patas dianteiras e a
+cauda! Caçador morto, caçador inútil!
+--- BLOCK ---
+Yam-ba! Você estraga o dia da
+besta! Agora, persiga até a toca!
+--- BLOCK ---
+Não desista! Continue atrás!
+Não o deixe escapar!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

@@ -112,7 +112,7 @@ verdadeiro cavaleiro Shakalaka! Geralmente.
 --- BLOCK ---
 <SUBS 0>
 Kayamba pode cortar e coletar até oito
-tipos de objetos durante a caçada.
+tipos de itens durante a caçada.
 --- BLOCK ---
 Kayamba traz loot suficiente
 para montar próprio mercadinho!
@@ -280,7 +280,7 @@ levar Kayamba para caçar.
 Mas não esqueça que tu és capanga
 de Kayamba! Nada de se pavonear.
 --- BLOCK ---
-Se capanga quer objeto
+Se capanga quer item
 que Kayamba encontra, só
 precisa pedir. Com educação.
 --- BLOCK ---
@@ -535,7 +535,7 @@ Maior que com estúpido Zinogre.
 --- BLOCK ---
 Agora que Kayamba pensa, bela dama
 da Guilda disse que Lagi-algo
-marmóreo ia vir por aqui.
+marfim ia vir por aqui.
 --- BLOCK ---
 Lagicrudo? Latitudinoso? Como for. A Kayamba
 não importa o nome. A Kayamba

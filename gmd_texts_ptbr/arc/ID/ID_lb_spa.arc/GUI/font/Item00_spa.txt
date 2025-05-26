@@ -2056,7 +2056,7 @@ Bomba antidragão
 --- BLOCK ---
 Tocha
 --- BLOCK ---
-Bilhete zarpa
+Bilhete garra
 --- BLOCK ---
 Geleia real
 --- BLOCK ---

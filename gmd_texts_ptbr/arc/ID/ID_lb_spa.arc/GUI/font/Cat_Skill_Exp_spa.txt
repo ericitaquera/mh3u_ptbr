@@ -30,7 +30,7 @@ dano recebido.
 o dano recebido.
 --- BLOCK ---
 Reduz a probabilidade de quebra
-de objetos de Flauta.
+de itens de Flauta.
 --- BLOCK ---
 Reduz a probabilidade de quebra de
 Picaretas e Redes de insetos.
@@ -47,17 +47,17 @@ combinação em 10%.
 --- BLOCK ---
 Às vezes aumenta as ocasiões
 em que podem ser coletados
-objetos em áreas de coleta.
+itens em áreas de coleta.
 --- BLOCK ---
 Aumenta a força
 dos disparos normais.
 --- BLOCK ---
 Geralmente aumenta o número de
-objetos de recompensa recebidos ao
+itens de recompensa recebidos ao
 final de uma missão.
 --- BLOCK ---
 Às vezes aumenta o número
-de objetos de recompensa ao
+de itens de recompensa ao
 final de uma missão.
 --- BLOCK ---
 Aumenta significativamente o Ataq. quando o
@@ -83,7 +83,7 @@ e reduz o gasto
 de Resistência ao correr.
 --- BLOCK ---
 Previne empurrões ao
-transportar um objeto.
+transportar um item.
 --- BLOCK ---
 Aumenta a probabilidade de que
 os monstros grandes em

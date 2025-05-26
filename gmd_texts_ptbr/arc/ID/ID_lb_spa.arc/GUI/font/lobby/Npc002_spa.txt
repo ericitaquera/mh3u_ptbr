@@ -196,7 +196,7 @@ Deixe as missões de vez em quando e
 explore a Floresta Moga.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
-coletar objetos úteis ou reunir
+coletar itens úteis ou reunir
 Recursos para a vila...
 --- BLOCK ---
 Lembre-se que a Floresta Moga tem
@@ -1042,7 +1042,7 @@ as missões um pouco de lado e explorar
 a Floresta Moga no seu próprio ritmo.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
-coletar objetos úteis ou reunir
+coletar itens úteis ou reunir
 Recursos para a vila...
 --- BLOCK ---
 Lembre-se: se você reordenar as letras em
@@ -2078,7 +2078,7 @@ Eu suspeito que o mesmo monstro atacou
 o amigo do capitão. É uma fera
 lendária que raramente aparece...
 --- BLOCK ---
-O Lagiacrus marmorizado, também conhecido
+O Lagiacrus marfim, também conhecido
 como o "Conquistador do Mundo".
 --- BLOCK ---
 Essa fera é incomparável.
@@ -2086,7 +2086,7 @@ Essa fera é incomparável.
 --- BLOCK ---
 ...Huh? Como ele me venceu?
 --- BLOCK ---
-O Lagiacrus marmoreus é diferente das
+O Lagiacrus marfim é diferente das
 outras feras. Eu estava tranquilo com as
 habilidades subaquáticas. Assim pensava.
 --- BLOCK ---
@@ -2098,7 +2098,7 @@ Essa besta é invencível, em terra ou
 em alto mar. Ele é um super predador!!
 --- BLOCK ---
 Aquele Ceadeus que você derrotou? O
-Lagiacrus marmorizado o jantaria!
+Lagiacrus marfim o jantaria!
 --- BLOCK ---
 Meu primeiro encontro com um Lagiacrus
 mármoreo terminou em uma batalha épica.
@@ -2121,7 +2121,7 @@ derrota te faz desistir. Fim da história...
 --- BLOCK ---
 <SUBS 0>
 Bem, sim, meu primeiro encontro com o
-Lagiacrus marmóreo foi épico...
+Lagiacrus marfim foi épico...
 --- BLOCK ---
 Eu tropecei nele por acaso, enquanto
 estava perseguindo outro monstro. Nossa
@@ -2143,7 +2143,7 @@ Perdendo o tempo todo para aquele monstro
 me custou caro, sabia? Mas eu acho
 que tirei algo positivo de tudo isso...
 --- BLOCK ---
-No final, o Lagiacrus marmóreo foi a
+No final, o Lagiacrus marfim foi a
 única fera que não consegui derrotar. Não
 Pode-se dizer que é um mau inimigo...
 --- BLOCK ---
@@ -2155,7 +2155,7 @@ Perdendo o tempo todo para aquele monstro
 me custou caro, sabia? Mas eu acho
 que tirei algo positivo de tudo isso...
 --- BLOCK ---
-No final, o Lagiacrus marmóreo foi a
+No final, o Lagiacrus marfim foi a
 única fera que não consegui derrotar. Não
 Pode-se dizer que é um mau inimigo...
 --- BLOCK ---
@@ -2163,7 +2163,7 @@ E quando me aposentei, concentrei esforços
 em cuidar deste lugar. Meus ancestrais
 diziam para olhar o lado positivo.
 --- BLOCK ---
-Então o Lagiacrus marmóreo está de volta
+Então o Lagiacrus marfim está de volta
 por aqui.
 --- BLOCK ---
 Você sente a eletricidade no ar?
@@ -2201,7 +2201,7 @@ para a ação!
 ...Ou talvez não. He he.
 --- BLOCK ---
 Primeiro você livra a vila do Ceadeus,
-e agora você caça o Lagiacrus marmóreo,
+e agora você caça o Lagiacrus marfim,
 meu inimigo.
 --- BLOCK ---
 Você é muito mais que o Herói de Moga!

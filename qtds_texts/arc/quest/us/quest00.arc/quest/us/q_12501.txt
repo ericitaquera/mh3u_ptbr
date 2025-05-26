@@ -11,7 +11,7 @@ OBJECTIVES_2=Erjage einen
 Elfenbein-Lagiacrus.
 OBJECTIVES_3=Caccia un Lagiacrus d'avorio
 OBJECTIVES_4=Caçar um Lagiacrus
-marmóreo
+marfim
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Reward hits 0, or time
 expires.

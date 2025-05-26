@@ -74,7 +74,7 @@ seu nome ou suas Habilidades associadas.
 --- BLOCK ---
 <SUBS 0>
 Você também pode brincar com os Enfeites
-na Caixa de objetos da sua casa.
+na Caixa de itens da sua casa.
 --- BLOCK ---
 Alguns Enfeites ocupam vários espaços. Conte
 os espaços que você tem

@@ -1,0 +1,138 @@
+TMSG_NPC093_0
+--- BLOCK [001] ---
+TMSG_NPC093_1
+--- BLOCK [002] ---
+TMSG_NPC093_2
+--- BLOCK [003] ---
+TMSG_NPC093_3
+--- BLOCK [004] ---
+TMSG_NPC093_4
+--- BLOCK [005] ---
+<SUBS 0>
+¿Quieres Kayamba unirse a ti
+en gran aventura?
+--- BLOCK [006] ---
+¡Yam-ba!
+¡Aplastamos monstruos como uvas!
+--- BLOCK [007] ---
+Kayamba no tiene ganas de aventuras.
+<SUBS 1>
+--- BLOCK [008] ---
+<SUBS 0>
+¿Quieres que Kayamba quede atrás?
+¿Aunque Kayamba siente solo?
+--- BLOCK [009] ---
+Vale. Kayamba aprovecha su
+oportunidad de pasear.
+<SUBS 1>
+--- BLOCK [010] ---
+¡Yam-ba! Tú más listo que pareces.
+--- BLOCK [011] ---
+<SUBS 0>
+¿Quieres Kayamba unirse a ti
+en aventura multijugador?
+--- BLOCK [012] ---
+¡Yam-ba!
+¡Kayamba pone tus amigos
+verdes de envidia!
+--- BLOCK [013] ---
+Kayamba no ganas de fiesta igualmente.
+<SUBS 1>
+--- BLOCK [014] ---
+<SUBS 0>
+¿Qué? ¿Dejas atrás Kayamba mientras
+disfrutas de socialización?
+--- BLOCK [015] ---
+Vale. Kayamba no tenía ganas hoy
+de pinchar monstruos.
+<SUBS 1>
+--- BLOCK [016] ---
+¡Yam-ba! ¡Kayamba gusta mucho esto!
+--- BLOCK [017] ---
+<SUBS 0>
+¡Cuando Kayamba viene, probabilidad
+de éxito en misión es 99,9%!
+--- BLOCK [018] ---
+Sé qué dices. 99,9% es número tonto.
+¿Por qué no redondear a 100?
+--- BLOCK [019] ---
+¡Porque Kayamba riguroso con datos!
+¿Y si número revisado por pares?
+--- BLOCK [020] ---
+<SUBS 0>
+Los Shakalaka siempre llevar máscara.
+A todas horas, todos los días.
+--- BLOCK [021] ---
+¿Mmm? ¿Tú preguntarte sobre aspecto
+de Kayamba? ¡Intenta echar vistazo
+próxima vez que Kayamba cambia máscara!
+--- BLOCK [022] ---
+Pero Kayamba avisa: ¡Kayamba cambiador
+más rápido de historia Shakalaka!
+¡Nadie ha visto cara real de Kayamba!
+--- BLOCK [023] ---
+<SUBS 0>
+Kayamba ser cazador honrado. Kayamba
+nunca ataca monstruo que duerme.
+--- BLOCK [024] ---
+¡Kayamba juega limpio como verdadero
+caballero Shakalaka! Generalmente.
+--- BLOCK [025] ---
+<SUBS 0>
+Kayamba puede cortar y recoger hasta
+ocho clases de objetos durante caza.
+--- BLOCK [026] ---
+¡Kayamba trae suficiente botín para
+montar mercadillo propio!
+--- BLOCK [027] ---
+<SUBS 0>
+Máscara tenaza de Kayamba hecha de coco
+y pinza de cangrejo. Huele a brisa marina.
+--- BLOCK [028] ---
+No tiene poder especial, pero está bien.
+A veces Kayamba quiere llevar máscara
+que mejor sienta. ¡La Máscara tenaza!
+--- BLOCK [029] ---
+<SUBS 0>
+Máscara tenaza es máscara más
+querida y antigua de Kayamba.
+--- BLOCK [030] ---
+¡Si Kayamba espía monstruos llevándola,
+Kayamba realiza ataque cuerpo a cuerpo! 
+--- BLOCK [031] ---
+¡Yam-ba! 
+--- BLOCK [032] ---
+¡Yam-ba-ba!
+--- BLOCK [033] ---
+¡Ka-yam-ba-baa!
+--- BLOCK [034] ---
+¿Cómo vas, amigo?
+--- BLOCK [035] ---
+¡Kayamba hoy con pilas cargadas!
+--- BLOCK [036] ---
+¡Oh! Kayamba no te ve ahí...
+--- BLOCK [037] ---
+Kayamba te da buenos días.
+--- BLOCK [038] ---
+¿Qué necesitas de Shakalaka?
+--- BLOCK [039] ---
+¡Yam-ba!
+--- BLOCK [040] ---
+Ah. Tú otra vez...
+--- BLOCK [041] ---
+¡Yam-ba! ¡Yam-ba!
+--- BLOCK [042] ---
+¡Buenas, secuaz!
+--- BLOCK [043] ---
+¡Ya-sta luego!
+--- BLOCK [044] ---
+¡Hasta luego!
+--- BLOCK [045] ---
+¡Yam-badiós!
+--- BLOCK [046] ---
+¡Adiós!
+--- BLOCK [047] ---
+!
+--- BLOCK [048] ---
+!
+--- BLOCK [049] ---

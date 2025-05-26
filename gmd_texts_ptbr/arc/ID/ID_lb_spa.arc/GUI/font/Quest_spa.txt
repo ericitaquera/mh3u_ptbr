@@ -391,9 +391,9 @@ Entrega obj. conta
 --- BLOCK ---
 : Proteção para os ouvidos (G)
 --- BLOCK ---
-: Prolonga o efeito de um objeto (P)
+: Prolonga o efeito de um item (P)
 --- BLOCK ---
-: Prolonga o efeito de um objeto (G)
+: Prolonga o efeito de um item (G)
 --- BLOCK ---
 : Melhora os ataques elementais
 --- BLOCK ---
@@ -408,9 +408,9 @@ Caixa de suprimentos
 Sua bolsa está cheia.
 --- BLOCK ---
 Você não pode carregar
-mais desse objeto.
+mais desse item.
 --- BLOCK ---
-Selecione os objetos
+Selecione os itens
 que deseja coletar.
 --- BLOCK ---
 Caixa de recompensas

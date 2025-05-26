@@ -14,7 +14,7 @@ Lagiacrus und einen Gobul.
 OBJECTIVES_3=Caccia un Lagiacrus d'avorio
 e un Gobul
 OBJECTIVES_4=Caçar um Lagiacrus
-marmóreo e um Gobul
+marfim e um Gobul
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Reward hits 0, or time
 expires.
