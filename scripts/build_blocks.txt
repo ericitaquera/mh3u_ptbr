@@ -1611,6 +1611,17 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
 
 ---
 
+Npc093_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc093_spa.txt
+
+copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc093_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc093_spa.gmd
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
 NpcName_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\NpcName_spa.txt
@@ -1725,6 +1736,102 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_02_spa.arc
 
 ---
 
+QNTalk003_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_03_spa.arc\GUI\font\quest\QNTalk003_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_03_spa.arc
+
+---
+
+QNTalk004_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_04_spa.arc\GUI\font\quest\QNTalk004_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_04_spa.arc
+
+---
+
+QNTalk005_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_05_spa.arc\GUI\font\quest\QNTalk005_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_05_spa.arc
+
+---
+
+QNTalk006_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_06_spa.arc\GUI\font\quest\QNTalk006_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_06_spa.arc
+
+---
+
+QNTalk007_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_07_spa.arc\GUI\font\quest\QNTalk007_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_07_spa.arc
+
+---
+
+QNTalk008_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_08_spa.arc\GUI\font\quest\QNTalk008_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_08_spa.arc
+
+---
+
+QNTalk009_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_09_spa.arc\GUI\font\quest\QNTalk009_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_09_spa.arc
+
+---
+
+QNTalk010_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_10_spa.arc\GUI\font\quest\QNTalk010_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_10_spa.arc
+
+---
+
+QNTalk011_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_11_spa.arc\GUI\font\quest\QNTalk011_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_11_spa.arc
+
+---
+
+QNTalk012_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_12_spa.arc\GUI\font\quest\QNTalk012_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_12_spa.arc
+
+---
+
+QNTalk013_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_13_spa.arc\GUI\font\quest\QNTalk013_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_13_spa.arc
+
+---
+
+QNTalk014_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_14_spa.arc\GUI\font\quest\QNTalk014_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_14_spa.arc
+
+---
+
 QNTalk015_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_15_spa.arc\GUI\font\quest\QNTalk015_spa.txt
@@ -1733,11 +1840,43 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_15_spa.arc
 
 ---
 
+QNTalk016_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_16_spa.arc\GUI\font\quest\QNTalk016_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_16_spa.arc
+
+---
+
+QNTalk017_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_17_spa.arc\GUI\font\quest\QNTalk017_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_17_spa.arc
+
+---
+
 QNTalk022_L_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_22_spa.arc\GUI\font\quest\QNTalk022_L_spa.txt
 
 py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_22_spa.arc
+
+---
+
+QNTalk025_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_25_spa.arc\GUI\font\quest\QNTalk025_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_25_spa.arc
+
+---
+
+QNTalk026_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_26_spa.arc\GUI\font\quest\QNTalk026_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_26_spa.arc
 
 ---
 
@@ -2042,12 +2181,12 @@ copy $env:BASE_DIR\images\tex_files\st_menu_01_fre.tex $env:ARC_EXTRACTED_DIR\ar
 copy $env:BASE_DIR\images\tex_files\st_menu_01_ger.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_ger.arc\GUI\Texture\startmenu\st_menu_01_ger.tex
 copy $env:BASE_DIR\images\tex_files\st_menu_01_ita.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_ita.arc\GUI\Texture\startmenu\st_menu_01_ita.tex
 copy $env:BASE_DIR\images\tex_files\st_menu_01_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_spa.arc\GUI\Texture\startmenu\st_menu_01_spa.tex
-copy $env:BASE_DIR\images\tex_files\st_menu_01_eng.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_res_spa.arc\GUI\Texture\quest\td_M_v_reward02_ID_spa.tex
-copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_gallery_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_v_reward02_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_res_spa.arc\GUI\Texture\quest\td_M_v_reward02_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_arena_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
-copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_dl_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_gallery_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_lb_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_v_c8_00_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_gallerydm_spa.arc\GUI\Texture\lobby\td_M_v_c8_00_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_que_res3_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\quest\ID_hanko_03_spa.arc\GUI\Texture\quest\td_M_que_res3_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_que_res3_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\quest\ID_hanko_02_spa.arc\GUI\Texture\quest\td_M_que_res3_ID_spa.tex
@@ -2086,6 +2225,7 @@ copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\
 copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_cock_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_lb_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
 copy $env:BASE_DIR\images\tex_files\td_M_load_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_spa.arc\GUI\Texture\common\td_M_load_ID_spa.tex
+copy $env:BASE_DIR\images\tex_files\td_cock_ID_spa.tex $env:ARC_EXTRACTED_DIR\arc\ID\ID_cock_spa.arc\GUI\Texture\quest\td_cock_ID_spa.tex
 
 py .\repack_arc.py $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_eng.arc
 py .\repack_arc.py $env:ARC_EXTRACTED_DIR\arc\ID\ID_stmenu_fre.arc
