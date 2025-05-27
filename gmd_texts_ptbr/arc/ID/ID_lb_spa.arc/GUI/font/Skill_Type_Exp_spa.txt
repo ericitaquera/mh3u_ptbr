@@ -211,11 +211,11 @@ Resistência ao dragão.
 --- BLOCK ---
 Habilidades que afetam a
 velocidade de perda de
-Afiamento da arma ao
+Afiação da arma ao
 atacar. <COLO 05>(Apenas Espadachim)
 --- BLOCK ---
 Habilidades que aumentam em um
-nível o Afiamento da sua
+nível a Afiação da sua
 arma. <COLO 05>(Apenas Espadachín)
 --- BLOCK ---
 Habilidades que evitam que
@@ -419,7 +419,7 @@ e Geleia real.
 --- BLOCK ---
 Habilidades que aumentam
 sua capacidade de
-extrair amuletos.
+extrair talismãs.
 --- BLOCK ---
 Habilidades que afetam as
 recompensas de missão, exceto
@@ -530,8 +530,8 @@ duras penas a um
 golpe mortal sem desmaiar.
 --- BLOCK ---
 Habilidades que aumentam em um
-nível o Ataq. e o
-Afiamento. <COLO 05>(Apenas Esgrimista)
+nível o Ataq. e a
+Afiação. <COLO 05>(Apenas Esgrimista)
 --- BLOCK ---
 Habilidades que afetam a
 potência de vários tipos

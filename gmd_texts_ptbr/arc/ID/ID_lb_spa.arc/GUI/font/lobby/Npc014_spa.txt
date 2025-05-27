@@ -12,9 +12,9 @@ Cuidado com os monstros na Floresta Moga!
 --- BLOCK ---
 Não subestime a força do Lagombi!
 --- BLOCK ---
-<SUBS 0> Você pode cancelar
-as conversas quando as pessoas
-estão falando. Sabia disso?
+<SUBS 0>
+Você pode cancelar as conversas quando as
+pessoas estão falando. Sabia disso?
 --- BLOCK ---
 Quando estiver conversando com alguém,
 aperte o mesmo botão que
@@ -36,8 +36,8 @@ Ah, e também: há coisas que você não poderá
 cancelar, como informações importantes da
 vila e os sermões de sua mãe...
 --- BLOCK ---
-<SUBS 0> Viu aquele
-fogo boni... boni...
+<SUBS 0>
+Viu aquele fogo boni... boni...
 fora da vila?
 --- BLOCK ---
 Dê uma olhada. Você encontrará
@@ -50,9 +50,9 @@ Se os adultos descobrirem que
 eu estava brincando com fogo,
 estou ferrado! <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Viu aqueles moinhos
-espalhados por toda parte?
-São para o arroz.
+<SUBS 0>
+Viu aqueles moinhos espalhados por
+toda parte? São para o arroz.
 --- BLOCK ---
 Você não sabe o que é moer?
 --- BLOCK ---
@@ -69,8 +69,8 @@ onde você acha que eles o levam?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> O chefe
-sempre fica nos enchendo
+<SUBS 0>
+O chefe sempre fica nos enchendo
 para te ajudarmos.
 --- BLOCK ---
 Acho que devo dar uma mão. Ok!
@@ -87,9 +87,9 @@ a floresta e você verá!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Ei, já te
-contei sobre os detalhes das
-minhas Notas de menino "gênio"?
+<SUBS 0>
+Ei, já te contei sobre os detalhes
+das minhas Notas de menino "gênio"?
 --- BLOCK ---
 Posso abrir meu menu do jogo
 sempre que quiser e descobrir tudo
@@ -105,9 +105,9 @@ suas próprias Notas de caçador!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Conhece as Ferramentas de
-armadilha? Elas são usadas para
-armar armadilhas para caçar monstros.
+<SUBS 0>
+Conhece Ferramentas de armadilha? São usadas
+para armar armadilhas para caçar monstros.
 --- BLOCK ---
 Combinar uma Ferramenta de armadilha
 com um Inseto elétrico cria
@@ -122,9 +122,9 @@ Os monstros podem ser bem espertos.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Quer capturar um monstro?
-Combine Hera com Teia de
-aranha para fazer uma Rede!
+<SUBS 0>
+Quer capturar um monstro? Combine Hera com
+Teia de aranha para fazer uma Rede!
 --- BLOCK ---
 Depois, use a Rede para criar uma Armadilha
 de laço. DEPOIS, coloque a armadilha em um
@@ -136,8 +136,8 @@ mãe me deixasse brincar com bombas.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Já te contei
-isso? Uma vez me deparei
+<SUBS 0>
+Já te contei isso? Uma vez me deparei
 com um monstro enorme.
 --- BLOCK ---
 Eu estava tentando escapar dele e
@@ -156,9 +156,9 @@ Acho que os adultos chamam
 isso de ser invulnerável... vulnerável...
 Ah, esqueci. <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sabia que a
-Tundra fica sempre gelada? É
-o que o chefe diz!
+<SUBS 0>
+Sabia que a Tundra fica sempre gelada?
+É o que o chefe diz!
 --- BLOCK ---
 Tenho certeza que se você comê-la
 muito rápido, vai dar dor de
@@ -166,9 +166,9 @@ dente. Tundra! Uau, que sabor terá?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Meu irmão jura que
-há um duende na Floresta Moga.
-Que contador de histórias!
+<SUBS 0>
+Meu irmão jura que há um duende na
+Floresta Moga. Que contador de histórias!
 --- BLOCK ---
 Duendes não existem! Meu
 irmão é muito estranho!
@@ -179,8 +179,8 @@ bronca foi para mim! Ah, é insuportável!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Oh! Já ouviu
-o rugido poderoso de
+<SUBS 0>
+Oh! Já ouviu o rugido poderoso de
 um grande monstro? Rarr!
 --- BLOCK ---
 Ouvi dizer que é tão potente
@@ -194,9 +194,9 @@ Mas os meus já têm
 buracos! Então não vai acontecer
 nada comigo. <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Quando tivemos
-aquele terremoto enorme,
-cortei a testa.
+<SUBS 0>
+Quando tivemos aquele terremoto
+enorme, cortei a testa.
 --- BLOCK ---
 Minha casa estava tremendo muito e uma
 grande panela começou a cair da prateleira
@@ -273,8 +273,8 @@ a melhor isca de todas!
 Ei, tenho muitas Megamoscas de
 pesca. Você quer alguma? Aqui!
 --- BLOCK ---
-<SUBS 0> Que legal,
-a Frota de
+<SUBS 0>
+Que legal, a Frota de
 Pesca voltou! Yupii!
 --- BLOCK ---
 O capitão disse que
@@ -283,9 +283,9 @@ escaparam por um triz.
 Uau, não sabia que dava para ter
 pelo nas orelhas! Que tipos mais estranhos!
 --- BLOCK ---
-<SUBS 0> Você conhece as Ferramentas
-de Armadilha? Elas são usadas para
-armar armadilhas para caçar monstros.
+<SUBS 0>
+Conhece as Ferramentas de Armadilha? São usadas
+para criar armadilhas para caçar monstros.
 --- BLOCK ---
 Ouvi dizer que combinar Ferramentas de
 Armadilha com outros materiais para criar
@@ -295,8 +295,8 @@ Mas mamãe disse que não posso brincar
 com elas porque são "muito perigosas". Ah,
 ela nunca me deixa me divertir.
 --- BLOCK ---
-<SUBS 0> Não pense que
-basta acertar um monstro
+<SUBS 0>
+Não pense que basta acertar um monstro
 na cabeça para derrotá-lo.
 --- BLOCK ---
 Alguns monstros têm cabeças muito duras!
@@ -306,9 +306,9 @@ Se quiser derrotar monstros
 de verdade, precisa acertá-los
 onde dói! <SUBS 1>
 --- BLOCK ---
-<SUBS 0> O Lagiacrus é
-realmente tão forte? Quanto, exatamente?
-Mais forte do que eu?
+<SUBS 0>
+O Lagiacrus é realmente tão forte? Quanto,
+exatamente? Mais forte do que eu?
 --- BLOCK ---
 Se quiser derrotar alguém realmente forte,
 traga muitas poções! Mas só cabem

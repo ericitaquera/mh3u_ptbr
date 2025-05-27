@@ -1,0 +1,101 @@
+TMSG_NPC021_0
+--- BLOCK ---
+TMSG_NPC021_1
+--- BLOCK ---
+TMSG_NPC021_2
+--- BLOCK ---
+TMSG_NPC021_3
+--- BLOCK ---
+TMSG_NPC021_4
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+A ver, cazador, ¿me ayudas a pensar
+un nombre nuevo para miau?
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que los Felyne también comemos
+cereales? ¡Sí, sí! ¡No miauento!
+--- BLOCK ---
+<SUBS 0>
+Los cereales son una fuente de energía.
+¡Deberías relamerlos más a menudo!
+--- BLOCK ---
+<SUBS 0>
+Todo Cazador debería comer cuatro tipos
+de comida: cereales... No recuerdo más.
+--- BLOCK ---
+<SUBS 0>
+De vez en cuando me encuentro cosas
+muy extrañas cuando aro el campo.
+--- BLOCK ---
+<SUBS 0>
+¡Después de unas horas con la azada,
+le cojo el ritmo totalmente, miau!
+--- BLOCK ---
+<SUBS 0>
+Cuando me haga mayor y tenga canas,
+quiero retirarme y cuidar mi huerto.
+--- BLOCK ---
+<SUBS 0>
+¡Mau! Nada supera una cena de Moga
+tras un duro día de trabajo, ¡miau!
+--- BLOCK ---
+<SUBS 0>
+¡Trabajar en una granja es uno de los
+mayores placeres de la vida, marramiau!
+--- BLOCK ---
+¡Grano! ¡Grano! ¡GRANO!
+--- BLOCK ---
+Si quieres algo de energía, ¡no hay
+nada como el grano!
+--- BLOCK ---
+¡La Aldea de Moga se prrrecia de estar
+librrre de pesticidas! Jamás fumigaremos
+con insecticida de Hongo, ¿miau?
+--- BLOCK ---
+No te engañes al ver que los cultivos
+no tienen un aspecto perrrfecto.
+¡El trigo y el arroz son para relamerse!
+--- BLOCK ---
+Siento haber huido con el rabo entre
+las patas cuando llegó el terremoto...
+¡Una vergüenza, lo sé, miau!
+--- BLOCK ---
+Pero, en adelante, estaré aquí
+jugándome el pellejo... ¡Lo juro!
+--- BLOCK ---
+¡Me alegro de verte, miau!
+--- BLOCK ---
+¡Grano! ¡Grano! ¡GRANO!
+--- BLOCK ---
+¡Tres miaus por los cultivos! ¡Miahurra!
+--- BLOCK ---
+¡Miau, compi!
+--- BLOCK ---
+Buen tiempo hoy, ¿miau?
+--- BLOCK ---
+Adiós. ¡Te echaré de miaunos!
+--- BLOCK ---
+¡Adiós, miau!
+--- BLOCK ---
+¡Cuídate! ¿Por qué? ¡Miau caes bien!
+--- BLOCK ---
+¡Perrrfecto! ¡Me gusta!
+--- BLOCK ---
+¡Miauya!
+¡Una brillante elección!
+--- BLOCK ---
+¡Rrrr! ¿Qué te hizo pensarlo?
+--- BLOCK ---
+¿Comiau? ¡Vaya un nombre parrrticular!
+--- BLOCK ---
+¿Te gustaría cambiarme el nombre?
+--- BLOCK ---
+Por cierto, ¿no quieres cambiarmiau
+el nombre?
+--- BLOCK ---

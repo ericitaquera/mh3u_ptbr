@@ -1084,7 +1084,7 @@ o dono de atirar.
 --- BLOCK ---
 Guarda-braços de partes de Jhen
 Mohran. Com boa aderência
-e aumentam o Afiamento.
+e aumentam a Afiação.
 --- BLOCK ---
 Guarda-braços de partes de
 Jhen Mohran. Absorvem o
@@ -1092,7 +1092,7 @@ recuo da Balista.
 --- BLOCK ---
 Guarda-braços de partes de Jhen
 Mohran. Com boa aderência
-e aumentam o Afiamento.
+e aumentam a Afiação.
 --- BLOCK ---
 Guarda-braços de partes de
 Jhen Mohran. Protegem os

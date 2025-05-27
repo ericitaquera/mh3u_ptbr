@@ -398,7 +398,7 @@ tão afiada. Vamos resolver isso...
 --- BLOCK ---
 Tem uma Pedra de amolar? São
 ótimas para restaurar o nível de
-Afiamento da arma e deixá-la pronta!
+Afiação da arma e deixá-la pronta!
 --- BLOCK ---
 Agora que penso nisso, ainda não lhe falei
 sobre a Lista de monstros, não é?
@@ -660,7 +660,7 @@ Vamos ver o que tem aqui... Sim,
 é uma cama! Sua habilidade em
 encontrar móveis não tem igual, caçador!
 --- BLOCK ---
-Ao dormir nesta cama, sua saúde será
+Ao dormir nesta cama, sua Saúde será
 restaurada e você será curado se estiver
 envenenado. Você vai acordar como novo!
 --- BLOCK ---
@@ -753,7 +753,7 @@ muito importante. Pode ajudar a
 obter o reconhecimento da Guilda!
 --- BLOCK ---
 Seu objetivo será um monstro aquático:
-o Ludroth. Pode ser um pouco
+uma Ludroth. Pode ser um pouco
 mais forte do que o normal.
 --- BLOCK ---
 Deixe-me adivinhar: você está pronto e

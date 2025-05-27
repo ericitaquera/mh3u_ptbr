@@ -86,7 +86,7 @@ Mate um grupo de Bnahabra
 --- BLOCK ---
 Cace um Ludroth real
 --- BLOCK ---
-Cace um Ludroth púrpura
+Cace uma Ludroth púrpura
 --- BLOCK ---
 Mate um grupo de Rhenoplos
 --- BLOCK ---
@@ -172,7 +172,7 @@ Cace um Qurupeco carmesim
 --- BLOCK ---
 Cace um Ludroth real
 --- BLOCK ---
-Cace um Ludroth púrpura
+Cace uma Ludroth púrpura
 --- BLOCK ---
 Cace um Barroth
 --- BLOCK ---

@@ -60,13 +60,13 @@ Homenagem ao serviçal
 --- BLOCK ---
 Certificado de subordinado
 --- BLOCK ---
-Amuleto de amizade
+Talismã de amizade
 --- BLOCK ---
 Pergaminho do Sábio
 --- BLOCK ---
 Relatório bionômico
 --- BLOCK ---
-Amuleto do xamã
+Talismã do xamã
 --- BLOCK ---
 Viagens do caçador
 --- BLOCK ---
@@ -215,7 +215,7 @@ muitos tipos de monstros.
 Possui dados sobre eles.
 --- BLOCK ---
 Prova de ter descoberto
-inúmeros amuletos. Nenhuma pedra
+inúmeros talismãs. Nenhuma pedra
 escapa a você.
 --- BLOCK ---
 Prova de ter viajado para

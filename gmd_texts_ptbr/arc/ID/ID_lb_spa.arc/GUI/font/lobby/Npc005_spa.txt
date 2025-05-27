@@ -12,69 +12,69 @@ TMSG_NPC005_4
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0>Um Esgrimista sem Amolar
-Pedras não vale nada. Os
-caçadores espertos se abastecem.
+<SUBS 0>
+Um Esgrimista sem Amolar Pedras não vale
+nada. Os caçadores espertos se abastecem.
 --- BLOCK ---
-<SUBS 0>Não precisa acumular
-tralhas! Venda o
-que não precisa.
+<SUBS 0>
+Não precisa acumular tralhas!
+Venda o que não precisa.
 --- BLOCK ---
-<SUBS 0>Meu mercado é o
-mais barato da Vila Moga,
-além de ser o único.
+<SUBS 0>
+Meu mercado é o mais barato da Vila
+Moga, além de ser o único.
 --- BLOCK ---
-<SUBS 0>Nem a chuva nem
-a atividade sísmica me
-farão fechar a loja.
+<SUBS 0>
+Nem a chuva nem a atividade sísmica
+me farão fechar a loja.
 --- BLOCK ---
-<SUBS 0>Itens pela metade do
-preço quando o Argosy estiver
-no porto! Uma loucura!
+<SUBS 0>
+Itens pela metade do preço quando o
+Argosy estiver no porto! Uma loucura!
 --- BLOCK ---
-<SUBS 0>As poções são essenciais
-para a caça, por isso
-sempre tenho na loja.
+<SUBS 0>
+As poções são essenciais para a caça,
+por isso sempre tenho na loja.
 --- BLOCK ---
-<SUBS 0>O Picaretas e a Rede de insetos
-combinam bem com os Insetos Amargos
-e o Mel. Não se esqueça.
+<SUBS 0>
+O Picaretas e a Rede de insetos combinam bem
+com os Insetos Amargos e o Mel. Não se esqueça.
 --- BLOCK ---
-<SUBS 0>Quer um conselho? Combine
-uma Erva com um Cogumelo
-Azul para criar uma Poção.
+<SUBS 0>
+Quer um conselho? Combine uma Erva com
+um Cogumelo Azul para criar uma Poção.
 --- BLOCK ---
-<SUBS 0>Combine mel em
-uma poção para criar
+<SUBS 0>
+Combine mel em uma poção para criar
 a super saudável Megapoción!
 --- BLOCK ---
-<SUBS 0>Combine uma Erva de Fogo
-e um Barril Pequeno para
-criar a Bomba Barril PC.
+<SUBS 0>
+Combine uma Erva de Fogo e um Barril
+Pequeno para criar a Bomba Barril PC.
 --- BLOCK ---
-<SUBS 0>Você pode usar as
-Bombas Barril até mesmo debaixo
-d'água. Uma conquista da ciência!
+<SUBS 0>
+Você pode usar as Bombas Barril até mesmo
+debaixo d'água. Uma conquista da ciência!
 --- BLOCK ---
-<SUBS 0>Os Bichos Amargos
-podem ser combinados para
+<SUBS 0>
+Os Bichos Amargos podem ser combinados para
 criar medicamentos. Consiga-os!
 --- BLOCK ---
-<SUBS 0>Se você comer Sushi de Peixe
-cru, você vai recuperar sua Saúde. Uma
-delícia se você estiver em apuros!
+<SUBS 0>
+Se comer Sushi de Peixe cru, recupera sua
+Saúde. Uma delícia se você estiver em apuros!
 --- BLOCK ---
-<SUBS 0>Crie munição para Balestra
-com frutas ou peixes quando
-estiver com pouca munição.
+<SUBS 0>
+Crie munição para Balestra com frutas ou
+peixes quando estiver com pouca munição.
 --- BLOCK ---
-<SUBS 0>As Lanças de Arremesso facilitam a
-captura de peixes no mar. Tenho certeza
-de que você é um profissional!
+<SUBS 0>
+Lanças de Arremesso facilitam captura de peixes
+no mar. Estou certo que você é um profissional!
 --- BLOCK ---
-<SUBS 0>Se você combinar com
-Livros de Combos, terá uma
-maior probabilidade de sucesso.
+<SUBS 0>
+Se você combinar com Livros de Combos, terá
+uma maior probabilidade de sucesso.
 --- BLOCK ---
 Existem diferentes tipos de Picaretas, desde
 os antigos até os mega-picaretas. Os
@@ -84,248 +84,248 @@ Existem diferentes tipos de Redes de
 insetos, desde as antigas às mega-redes.
 As melhores quebram com menos facilidade.
 --- BLOCK ---
-<SUBS 0>Sabe, eu prefiro uma Carne
-bem tostada e crocante do
-que um Bife bem passado.
+<SUBS 0>
+Sabe, eu prefiro uma Carne bem tostada e
+crocante do que um Bife bem passado.
 --- BLOCK ---
-<SUBS 0>Dica para casa: As
-Plantas de Sábio são ideais
-para limpar o pó.
+<SUBS 0>
+Dica para casa: As Plantas de Sábio
+são ideais para limpar o pó.
 --- BLOCK ---
-<SUBS 0>*Suspiro* Por que só
-piso em Bayas Pintura quando
-estou de sapatos novos?
+<SUBS 0>
+*Suspiro* Por que só piso em Bagas de
+Pintura quando estou de sapatos novos?
 --- BLOCK ---
-<SUBS 0>Aplique uma Bagia Agulha
-em seus pontos de pressão
-para eliminar o estresse.
+<SUBS 0>
+Aplique uma Bagia Agulha em seus pontos
+de pressão para eliminar o estresse.
 --- BLOCK ---
-<SUBS 0>Qual é o mistério
-do Osso Misterioso? Será o
-mistério de seu mistério?
+<SUBS 0>
+Qual é o mistério do Osso Misterioso?
+Será o mistério de seu mistério?
 --- BLOCK ---
-<SUBS 0>Oferecer Carne Envenenada
-ou Tóxica a um
+<SUBS 0>
+Oferecer Carne Envenenada ou Tóxica a um
 monstro facilitará sua caça.
 --- BLOCK ---
-<SUBS 0>Um Disparo cortador é uma
-bola de lâminas que corta
-a cauda de uma vez.
+<SUBS 0>
+Um Disparo cortador é uma bola de lâminas
+que corta a cauda de uma vez.
 --- BLOCK ---
-<SUBS 0>Se você atacar um
-monstro grande com Tiros de
-fadiga, ele ficará cansado.
+<SUBS 0>
+Se você atacar um monstro grande com Tiros
+de fadiga, ele ficará cansado.
 --- BLOCK ---
-<SUBS 0>Não sonhe em capturar
-monstros. Faça isso de
-verdade com uma Armadilha!
+<SUBS 0>
+Não sonhe em capturar monstros. Faça isso
+de verdade com uma Armadilha!
 --- BLOCK ---
-<SUBS 0>O Suco de Poder
-previne a perda de
+<SUBS 0>
+O Suco de Poder previne a perda de
 Resistência. Beba enquanto ataca!
 --- BLOCK ---
-<SUBS 0>Os monstros grandes
-odeiam o cheiro das
+<SUBS 0>
+Os monstros grandes odeiam o cheiro das
 Bombas de Estrume. Assuste-os!
 --- BLOCK ---
-<SUBS 0>Aprenda como é uma área
-e coloque o Mapa na Bolsa
-de Itens para liberar espaço.
+<SUBS 0>
+Aprenda como é uma área e coloque o Mapa
+na Bolsa de Itens para liberar espaço.
 --- BLOCK ---
-<SUBS 0>Os produtos perecíveis
-estão salgados. Tomara que
-inventassem a refrigeração.
+<SUBS 0>
+Os produtos perecíveis estão salgados.
+Tomara que inventassem a refrigeração.
 --- BLOCK ---
-<SUBS 0>Adoro as Bombas
-Sonoras. Às vezes as
+<SUBS 0>
+Adoro as Bombas Sonoras. Às vezes as
 lanço só para ouvi-las.
 --- BLOCK ---
-<SUBS 0>Se as coisas ficarem
-difíceis, coma uma Semente de
-Armadura. Aumenta suas defesas.
+<SUBS 0>
+Se as coisas ficarem difíceis, coma uma
+Semente de Armadura. Aumenta suas defesas.
 --- BLOCK ---
-<SUBS 0>Uma Bomba barril
-com fogo pode ser
+<SUBS 0>
+Uma Bomba barril com fogo pode ser
 uma explosão. Hehe.
 --- BLOCK ---
-<SUBS 0>Os mapas são
-Suprimentos, então não escreva
-informações pessoais neles.
+<SUBS 0>
+Os mapas são Suprimentos, então não
+escreva informações pessoais neles.
 --- BLOCK ---
-<SUBS 0>Não importa o quão quente
-você esteja, não tente se refrescar
-com um Disparo de Água.
+<SUBS 0>
+Não importa o quão quente você esteja,
+não tente se refrescar com um Disparo de Água.
 --- BLOCK ---
-<SUBS 0>Quando lanço uma Pedra,
-quero usar Minério de Ferro
-ou Minério de Machalita.
+<SUBS 0>
+Quando lanço uma Pedra, quero usar Minério
+de Ferro ou Minério de Machalita.
 --- BLOCK ---
 Às vezes, os Ossos de monstro são muito
 grandes para serem pequenos e muito
 pequenos para serem médios. *Suspiro*
 --- BLOCK ---
-<SUBS 0>Apesar do seu nome, o
-Isca de peixe sushi NÃO é
-usado em sushi. Muito mercúrio.
+<SUBS 0>
+Apesar do seu nome, o Isca de peixe sushi
+NÃO é usado em sushi. Muito mercúrio.
 --- BLOCK ---
 Eu prefiro bife malpassado, mas restaura
 menos Resistência do que um
 bempassado. Dou mais importância ao sabor.
 --- BLOCK ---
-<SUBS 0>A munição normal de Nv3
-é feita para ricochetear e uma
-boa pontaria causa dano contínuo.
+<SUBS 0>
+A munição normal de Nv3 é feita para ricochetear
+e uma boa pontaria causa dano contínuo.
 --- BLOCK ---
-<SUBS 0>Já pensou se uma
-Armadilha de Choque mínimo daria
-uma boa massagem? Pois não.
+<SUBS 0>
+Já pensou se uma Armadilha de Choque mínimo
+daria uma boa massagem? Pois não.
 --- BLOCK ---
-<SUBS 0>Se você é bom com
-as Lâminas de Arremesso, vou
-deixar você me lançar! Hehe.
+<SUBS 0>
+Se você é bom com as Lâminas de Arremesso,
+vou deixar você me lançar! Hehe.
 --- BLOCK ---
-<SUBS 0>Ouvi dizer que um homem
-tomou Suco de Força para evitar
-a execução de seu amigo.
+<SUBS 0>
+Ouvi dizer que um homem tomou Suco de Força
+para evitar a execução de seu amigo.
 --- BLOCK ---
-<SUBS 0>A Droga demoníaca é
-um medicamento que concede o
-poder de um demônio benevolente.
+<SUBS 0>
+A Droga demoníaca é um medicamento que
+concede o poder de um demônio benevolente.
 --- BLOCK ---
-<SUBS 0>Fico pensando no que
-mais poderia endurecer a Pele
-de Armadura. Talvez nunca saibamos.
+<SUBS 0>
+Fico pensando no que mais poderia endurecer
+a Pele de Armadura. Talvez nunca saibamos.
 --- BLOCK ---
-<SUBS 0>Para os Artilheiros é
-injusto não poderem se atingir
-com Munição de Cura.
+<SUBS 0>
+Para os Artilheiros é injusto não poderem
+se atingir com Munição de Cura.
 --- BLOCK ---
-<SUBS 0>Até o Disparo Normal
-Nv1 pode derrubar um dragão,
-de acordo com os Atiradores.
+<SUBS 0>
+Até o Disparo Normal Nv1 pode derrubar um
+dragão, de acordo com os Atiradores.
 --- BLOCK ---
-<SUBS 0>Uso Pedras de afiar
-nas cutículas, mas elas não
-transformam minhas unhas em armas.
+<SUBS 0>
+Uso Pedras de afiar nas cutículas, mas
+elas não transformam minhas unhas em armas.
 --- BLOCK ---
-<SUBS 0>Dizem que os Monstros
-Divinos vivem milhares de anos,
-mas me parece muito estranho.
+<SUBS 0>
+Dizem que os Monstros Divinos vivem milhares
+de anos, mas me parece muito estranho.
 --- BLOCK ---
-<SUBS 0>É claro que os
-Nutrientes são bons, mas você
-precisa de uma dieta equilibrada.
+<SUBS 0>
+É claro que os Nutrientes são bons, mas
+você precisa de uma dieta equilibrada.
 --- BLOCK ---
 Sabia que as raízes do Cogumelo
 dragão têm forma humana? Certamente são
 perfeitas para encantar as pessoas. Hehe.
 --- BLOCK ---
-<SUBS 0>Uma Bomba de Estrume foi
-ativada dentro de uma loja e
-tivemos que fechar o estabelecimento.
+<SUBS 0>
+Uma Bomba de Estrume foi ativada dentro de
+uma loja e tivemos que fechar o estabelecimento.
 --- BLOCK ---
-<SUBS 0>O que é o
-Fluido Monstro? Muco, suor,
+<SUBS 0>
+O que é o Fluido Monstro? Muco, suor,
 lágrimas? Melhor nem saber.
 --- BLOCK ---
-<SUBS 0>Agora os pesquisadores da
-Guilda estão procurando formas
-de reutilizar o Lixo.
+<SUBS 0>
+Agora os pesquisadores da Guilda estão
+procurando formas de reutilizar o Lixo.
 --- BLOCK ---
 Dizem que Psicosoro desperta sexto sentido
 deixa ver o invisível. Pelo menos é o que
 diz o Jaggi que está atrás de você.
 --- BLOCK ---
-<SUBS 0>A um caçador proibiram
-de competir em arm wrestling
-por usar Sementes de poder.
+<SUBS 0>
+A um caçador proibiram de competir em queda
+de braço por usar Sementes de poder.
 --- BLOCK ---
-<SUBS 0>Alguns caçadores gostam
-do cheiro das Bombas
-de pintura. Enlouquecem.
+<SUBS 0>
+Alguns caçadores gostam do cheiro das
+Bombas de pintura. Enlouquecem.
 --- BLOCK ---
-<SUBS 0>A Flauta atrativa
-requer bons pulmões. Eu
-não consigo soprar...
+<SUBS 0>
+A Flauta atrativa requer bons pulmões.
+Eu não consigo soprar...
 --- BLOCK ---
-<SUBS 0>Olha como essa poção
-é verde! Isso significa que
-o alquimista era habilidoso.
+<SUBS 0>
+Olha como essa poção é verde! Isso significa
+que o alquimista era habilidoso.
 --- BLOCK ---
-<SUBS 0>Já sentiu o
-cheiro de uma Paraliseta
+<SUBS 0>
+Já sentiu o cheiro de uma Paraliseta
 antes? Cheira-me o nariz.
 --- BLOCK ---
-<SUBS 0>Sabe o que eu não
-entendo? Por que é tão difícil
-lançar as Bombas de luz.
+<SUBS 0>
+Sabe o que eu não entendo? Por que é tão
+difícil lançar as Bombas de luz.
 --- BLOCK ---
-<SUBS 0>Minhas bebidas quentes são
-de chocolate, mas ouvi dizer
-que também tem de maçã.
+<SUBS 0>
+Minhas bebidas quentes são de chocolate,
+mas ouvi dizer que também tem de maçã.
 --- BLOCK ---
-<SUBS 0>Há um novo sabor
-de Bebida gelada. Agora você
-pode tomá-la de Inseto doce!
+<SUBS 0>
+Há um novo sabor de Bebida gelada.
+Agora você pode tomá-la de Inseto doce!
 --- BLOCK ---
-<SUBS 0>A Carne Envenenada tem uma
-tonalidade lilás muito bonita. Fico
-pensando em qual será o seu sabor.
+<SUBS 0>
+Carne Envenenada tem uma tonalidade lilás muito
+bonita. Fico pensando em qual será o seu sabor.
 --- BLOCK ---
-<SUBS 0>Combine Minério de
-Machalita com Osso para
-criar um Megamachado!
+<SUBS 0>
+Combine Minério de Machalita com Osso
+para criar um Megamachado!
 --- BLOCK ---
-<SUBS 0>Eu poderia capturar um
-caçador gordo com a Armadilha
-Escarpa, mas nenhum está gordo.
+<SUBS 0>
+Eu poderia capturar um caçador gordo com
+a Armadilha Escarpa, mas nenhum está gordo.
 --- BLOCK ---
-<SUBS 0>Não quero comprar mais
-Esterco do que devo. Leve-o
-para outro lugar, por favor.
+<SUBS 0>
+Não quero comprar mais Esterco do que devo.
+Leve-o para outro lugar, por favor.
 --- BLOCK ---
-<SUBS 0>A Poção máx. é
-um soro supersecreto. Se a
-encontrar, não diga nada.
+<SUBS 0>
+A Poção máx. é um soro supersecreto.
+Se a encontrar, não diga nada.
 --- BLOCK ---
 Sou uma grande admiradora do Herói
 de Kokoto. Ele ousaria chutar uma
 Grande Bomba Barril por diversão!
 --- BLOCK ---
-<SUBS 0>Dizem que na cidade
-usam moeda falsa, mas em
-Moga não haverá problemas.
+<SUBS 0>
+Dizem que na cidade usam moeda falsa,
+mas em Moga não haverá problemas.
 --- BLOCK ---
-<SUBS 0>Quando as coisas
-saírem do controle, chute
-um Barril Bomba grande.
+<SUBS 0>
+Quando as coisas saírem do controle,
+chute um Barril Bomba grande.
 --- BLOCK ---
-<SUBS 0>Às vezes sinto dor
-de cabeça quando coloco um
-Cristal Gelo na boca. Ai...
+<SUBS 0>
+Às vezes sinto dor de cabeça quando
+coloco um Cristal Gelo na boca. Ai...
 --- BLOCK ---
 A equipe forense da Guilda pode saber
 o tipo de projétil de Balestra usado,
 analisando a Carapaça de osso gasta!
 --- BLOCK ---
-<SUBS 0>Se uma pessoa surda como
-uma parede tocar a Flauta
-da Saúde, ela vai tocar?
+<SUBS 0>
+Se uma pessoa surda como uma parede
+tocar a Flauta da Saúde, ela vai tocar?
 --- BLOCK ---
-<SUBS 0>Vi um artista de
-rua comer Semente de Fogo
-e cuspir chamas! Não tente!
+<SUBS 0>
+Vi um artista de rua comer Semente
+de Fogo e cuspir chamas! Não tente!
 --- BLOCK ---
-<SUBS 0>Entre você e eu:
-não suporto o sabor dos
+<SUBS 0>
+Entre você e eu: não suporto o sabor dos
 Antídotos... É tão medicinal!
 --- BLOCK ---
-<SUBS 0>Um glutão poderia pegar
-um Peixe sushi e cozinhá-lo
-ou ferver... Que erro terrível.
+<SUBS 0>
+Um glutão poderia pegar um Peixe sushi e
+cozinhá-lo ou ferver... Que erro terrível.
 --- BLOCK ---
-<SUBS 0>O Chefe prefere a
-Medicina herbal às Poções.
+<SUBS 0>
+O Chefe prefere a Medicina herbal às Poções.
 Cachorro velho, truque novo.
 --- BLOCK ---
 Uma vez que você segurou uma Pedra de fogo
@@ -393,9 +393,9 @@ Você precisa vir todos os dias
 ver minhas mercadorias! Não me
 faça persegui-lo! Hehe, é brincadeira...
 --- BLOCK ---
-<SUBS 0>Ah, procurando pelo filho
-do Chefe? Não por mim?
-Tem certeza? Tudo bem...
+<SUBS 0>
+Ah, procurando pelo filho do Chefe?
+Não por mim? Tem certeza? Tudo bem...
 --- BLOCK ---
 Se não está na vila, deve
 ter ido para a floresta.
@@ -559,9 +559,9 @@ O quê? Dois anões mascarados!
 Por um momento pensei que tinham me dado
 psicosoro e eu estava vendo dobrado!
 --- BLOCK ---
-<SUBS 0>Você está se preparando
-para sair, certo? Ouvi você
-conversando com o Chefe.
+<SUBS 0>
+Você está se preparando para sair, certo?
+Ouvi você conversando com o Chefe.
 --- BLOCK ---
 Passe mais uma hora, ou dez, comprando
 antes de sair, por favor. Pode encontrar

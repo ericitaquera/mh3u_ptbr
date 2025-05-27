@@ -491,11 +491,11 @@ Parece que poderia ser
 combinada com seu escudo...
 --- BLOCK ---
 Fio curto com atributos de
-água que melhoram o Afiamento.
+água que melhoram o Afiação.
 O sangue se limpa sozinho.
 --- BLOCK ---
 Fio curto com atributos de
-água que melhoram o Afiamento.
+água que melhoram o Afiação.
 O sangue se limpa sozinho.
 --- BLOCK ---
 De potencial ignorado. Talvez

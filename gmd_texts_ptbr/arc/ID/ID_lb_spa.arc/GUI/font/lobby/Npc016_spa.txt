@@ -12,9 +12,9 @@ Enfim, bem-vindo!
 --- BLOCK ---
 Passe por aqui em breve!
 --- BLOCK ---
-<SUBS 0> Alguma vez encontrou
-itens com os quais não
-sabe o que fazer?
+<SUBS 0>
+Alguma vez encontrou itens com os quais
+não sabe o que fazer?
 --- BLOCK ---
 Não se preocupe. À medida
 que ganha experiência como caçador,
@@ -30,8 +30,8 @@ Itens reservados! Na caixa! Buf.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sempre se
-percebe quando o
+<SUBS 0>
+Sempre se percebe quando o
 chefe está pensativo.
 --- BLOCK ---
 Ele para no cais da esquerda
@@ -40,8 +40,8 @@ não o encontrar, procure lá.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> O que é
-isso? Você se sente mal
+<SUBS 0>
+O que é isso? Você se sente mal
 por matar aqueles Kelbi pequeninos?
 --- BLOCK ---
 Oh, que fofo! Bem, sempre pode
@@ -54,9 +54,9 @@ lhes importe um chifre? Não entendo...
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Sabia que pode
-combinar Itens sem retirá-los
-da Caixa de Itens?
+<SUBS 0>
+Sabia que pode combinar Itens sem
+retirá-los da Caixa de Itens?
 --- BLOCK ---
 ¡É verdade! Use "Combinar
 itens da Caixa" e
@@ -68,8 +68,8 @@ as coisas naquela bagunça. *Risadinha*
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> O chefe
-nunca fala muito sobre
+<SUBS 0>
+O chefe nunca fala muito sobre
 seu próprio passado.
 --- BLOCK ---
 Como ele terá aprendido tanto
@@ -82,9 +82,9 @@ zenis que foi há muito tempo...
 Nosso chefe era
 bibliotecário! <SUBS 1>
 --- BLOCK ---
-<SUBS 0> Se você parar
-para pensar, o chefe deve
-ter muitos amigos na Guilda.
+<SUBS 0>
+Se você parar para pensar, o chefe
+deve ter muitos amigos na Guilda.
 --- BLOCK ---
 Quer dizer, como ele conseguiria fazer com
 que um caçador como você viesse para
@@ -95,9 +95,9 @@ te digo, ele mexeu alguns pauzinhos.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0> O chefe tem um
-filho, não é? Então é lógico
-supor que ele já foi casado.
+<SUBS 0>
+O chefe tem um filho, não é? Então é
+lógico supor que ele já foi casado.
 --- BLOCK ---
 Me pergunto como seria a Sra. Chefe...
 --- BLOCK ---

@@ -550,12 +550,12 @@ HARDUMMY
 HARDUMMY
 --- BLOCK ---
 Pressione o botão START para chutar.
-Use a tela sensível ao toque
-para abrir o menu do jogo.
+Use o touchscreen para
+abrir o menu do jogo. 
 --- BLOCK ---
 Pressione o botão START para abrir
-o menu do jogo. Use a
-tela sensível ao toque para chutar.
+o menu do jogo. Use o touchscreen
+para chutar.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -766,7 +766,7 @@ Arma
 --- BLOCK ---
 Armadura
 --- BLOCK ---
-Amuleto
+Talismã
 --- BLOCK ---
 DUMMY
 --- BLOCK ---

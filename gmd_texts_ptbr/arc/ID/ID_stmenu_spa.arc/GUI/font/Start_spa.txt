@@ -88,7 +88,7 @@ Você pode ajustar as configurações do
 touchpad no menu do jogo.
 --- BLOCK ---
 Baseado em outros Monster Hunter. 
-Indicador de saúde e outras informações
+Indicador de Saúde e outras informações
 aparecerão na tela superior.
 --- BLOCK ---
 Experimente Monster Hunter de uma outra

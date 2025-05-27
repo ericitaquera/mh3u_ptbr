@@ -164,7 +164,7 @@ Gaita Brasavone
 --- BLOCK ---
 Gaita Fundevone
 --- BLOCK ---
-Amuleto mágico
+Talismã mágico
 --- BLOCK ---
 Campana mágica
 --- BLOCK ---

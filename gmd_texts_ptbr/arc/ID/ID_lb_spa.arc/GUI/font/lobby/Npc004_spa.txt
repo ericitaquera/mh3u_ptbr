@@ -517,7 +517,7 @@ Ah, aqui está você, caçador! No momento
 certo. Tenho algo para te contar.
 --- BLOCK ---
 Estava patrulhando a Floresta
-Moga quando avistei um Ludroth
+Moga quando avistei uma Ludroth
 real. É novo nesta área...
 --- BLOCK ---
 Não sei se tem algo a ver
@@ -1230,15 +1230,15 @@ Ah, aí está você, caçador!
 Que pontual. Tenho novidades.
 --- BLOCK ---
 Estava patrulhando a Floresta Moga
-à noite quando vi um Ludroth
-roxo. Uma novidade por essas bandas.
+à noite quando vi uma Ludroth
+púrpura. Uma novidade por essas bandas.
 --- BLOCK ---
 Não sei se é por causa do
 Ceadeus, mas a cadeia alimentar de
 toda a floresta saiu do controle.
 --- BLOCK ---
 Por isso, é possível que você encontre
-Ludroth roxos na floresta à noite,
+Ludroth púrpuras na floresta à noite,
 mesmo sem ter aceitado uma missão.
 --- BLOCK ---
 Consulte regularmente o Clima de Moga.

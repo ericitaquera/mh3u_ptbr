@@ -164,7 +164,7 @@ aqueles que desejam poder.
 --- BLOCK ---
 Balestra pesada de recarga
 muito rápida. Sua excelente
-mira melhora a afinidade.
+mira melhora a Afinidade.
 --- BLOCK ---
 Balestra pesada de um
 assassino que matava suas

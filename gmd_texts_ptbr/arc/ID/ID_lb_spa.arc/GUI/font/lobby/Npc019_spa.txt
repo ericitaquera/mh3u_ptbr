@@ -20,53 +20,54 @@ Havia algo que queria te
 dizer, mas esqueci completamente.
 Era algo tão importante...
 --- BLOCK ---
-<SUBS 0>No menu do jogo,
-você encontrará uma opção
-de Vila Moga.
+<SUBS 0>
+No menu do jogo, você encontrará uma
+opção de Vila Moga.
 --- BLOCK ---
-Que prático! Você pode ver tudo relacionado ao
-estado da vila. Muito conveniente, não é?
+Que prático! Você pode ver tudo relacionado
+ao estado da vila. Muito conveniente, não é?
 --- BLOCK ---
-<SUBS 0>Após os campos, há
-um caminho em direção
-à Floresta Moga.
+<SUBS 0>
+Após os campos, há um caminho em
+direção à Floresta Moga.
 --- BLOCK ---
 Use quando quiser!
 --- BLOCK ---
-<SUBS 0>Dê uma olhada na
-cachoeira à direita. Há
-algo mais, não é?
+<SUBS 0>
+Dê uma olhada na cachoeira à direita.
+Há algo mais, não é?
 --- BLOCK ---
 Há uma caverna atrás, com uma estátua
 antiga. Acho que tem algo a ver
 com as ruínas da Floresta Moga.
 --- BLOCK ---
-<SUBS 0>No tempo que você
-leva para completar uma missão,
-fazemos uma rodada de cultivo.
+<SUBS 0>
+No tempo que você leva para completar uma
+missão, fazemos uma rodada de cultivo.
 --- BLOCK ---
 Isso é mais ou menos um dia inteiro
 aqui na Fazenda, então planeje suas viagens
 para a Floresta Moga de acordo.
 --- BLOCK ---
-<SUBS 0>Colhemos a safra
+<SUBS 0>
+Colhemos a safra
 todos os dias.
 --- BLOCK ---
 Vamos guardar algumas colheitas para você,
 se estiver ocupado demais para vir
 buscar. Colha antes que estraguem!
 --- BLOCK ---
-<SUBS 0>Para aumentar a
-colheita, nos dê algo
+<SUBS 0>
+Para aumentar a colheita, nos dê algo
 para usarmos como fertilizante.
 --- BLOCK ---
 Solte junto com as ervas ou
 sementes. Hum... Agora não me lembro
 do que funciona como fertilizante...
 --- BLOCK ---
-<SUBS 0>Sabe? Existe um
-tipo especial de fertilizante.
-E se você usá-lo...
+<SUBS 0>
+Sabe? Existe um tipo especial de
+fertilizante. E se você usá-lo...
 --- BLOCK ---
 (...)
 --- BLOCK ---
@@ -74,17 +75,17 @@ Aconteceu... algo bom. Eu esqueci o
 que era, mas é algo.
 Estou ficando velho para isso.
 --- BLOCK ---
-<SUBS 0>Você pode conseguir
-verdadeiras raridades negociando
-fora da vila.
+<SUBS 0>
+Você pode conseguir verdadeiras
+raridades negociando fora da vila.
 --- BLOCK ---
 Se conseguir algo que possamos
 cultivar, não deixe de trazer.
 Colheitas exóticas são muito interessantes.
 --- BLOCK ---
-<SUBS 0>Você pode usar nossa
-Caixa de Insetos para
-criar criaturas se quiser.
+<SUBS 0>
+Você pode usar nossa Caixa de Insetos
+para criar criaturas se quiser.
 --- BLOCK ---
 Mas nem todos os insetos podem ser
 criados em uma caixa. Se encontrar um

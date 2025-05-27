@@ -104,7 +104,7 @@ um aviso de missão da
 Guilda, para você. Vamos ver!
 --- BLOCK ---
 Acha que pode lidar com
-um Ludroth, hein? Vejo que
+uma Ludroth, hein? Vejo que
 gosta de se exibir, caçador.
 --- BLOCK ---
 Se a Frota de caça recuperasse
@@ -117,10 +117,10 @@ nós somos os heróis desta cidade!
 --- BLOCK ---
 Caçar na água pode ser novo
 para você. O melhor seria atrair
-o Ludroth para a terra firme!
+a Ludroth para a terra firme!
 --- BLOCK ---
 Argh! Por que estou te ajudando a roubar
-nossa fama? Se pegar um Ludroth, diga a
+nossa fama? Se pegar uma Ludroth, diga a
 todos que foi graças ao meu conselho.
 --- BLOCK ---
 <SUBS 1>
@@ -133,10 +133,10 @@ Planejamos a restauração da Frota
 de caça. O primeiro passo
 é reparar o Lanzavermelha, mas...
 --- BLOCK ---
-Os materiais de um Ludroth
+Os materiais de uma Ludroth
 comum não são suficientemente grandes.
 --- BLOCK ---
-Felizmente, alguns Ludroth são maiores
+Felizmente, algumas Ludroth são maiores
 que a média. As pessoas
 os chamam de Ludroth reais.
 --- BLOCK ---
@@ -167,10 +167,10 @@ Planejamos a restauração da Frota
 de caça. O primeiro passo
 é reparar o Lanzavermelha, mas...
 --- BLOCK ---
-Os materiais de um Ludroth
+Os materiais de uma Ludroth
 comum não são suficientemente grandes.
 --- BLOCK ---
-Felizmente, alguns Ludroth são maiores
+Felizmente, algumas Ludroth são maiores
 que a média. As pessoas
 os chamam de Ludroth reais.
 --- BLOCK ---

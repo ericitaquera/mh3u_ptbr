@@ -143,8 +143,8 @@ Quantos deseja vender?
 Serão %d z.
 Deseja continuar?
 --- BLOCK ---
-Total de %d
-z. Continuar venda?
+Total de %d z.
+Continuar venda?
 --- BLOCK ---
 Compra realizada.
 --- BLOCK ---
@@ -881,7 +881,7 @@ Selecione o primeiro ingrediente.
 Selecione um segundo ingrediente.
 --- BLOCK ---
 <COLO 5>(Ingredientes com alto ★ irão
-melhorar sua saúde).</COLO>
+melhorar sua Saúde).</COLO>
 --- BLOCK ---
 <COLO 5>(Cada combinação de ingredientes
 tem um efeito diferente.).</COLO>

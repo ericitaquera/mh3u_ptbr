@@ -63,13 +63,13 @@ dano temporário (parte vermelha
 do indicador de Vida).
 --- BLOCK ---
 Divide por 2 a velocidade de
-perda de Afiamento da arma.
+perda de Afiação da arma.
 --- BLOCK ---
 Dobra a velocidade de perda
-de Afiamento da arma.
+de Afiação da arma.
 --- BLOCK ---
-Aumenta um nível o
-Afiamento da sua arma.
+Aumenta um nível a
+Afiação da sua arma.
 --- BLOCK ---
 Evita que seus
 ataques sejam rejeitados.
@@ -516,7 +516,7 @@ Aumenta a capacidade de munição de
 Balestras e Lanças pistola e
 o ataque carregado em Arcos.
 --- BLOCK ---
-Reduz a Desvio
+Reduz o Desvio
 ao mirar.
 --- BLOCK ---
 Reduz significativamente o
@@ -801,8 +801,8 @@ Evita o desmaio ao receber
 um golpe mortal se houver
 uma certa quantidade de Vida.
 --- BLOCK ---
-Aumenta muito o Ataque e eleva o
-Afiamento de sua arma em um nível.
+Aumenta muito o Ataque e eleva a
+Afiação de sua arma em um nível.
 --- BLOCK ---
 Aumenta a potência de disparo
 normal, perfurante e dispersão, e
@@ -826,7 +826,7 @@ eles se foram ou desmaiaram.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Permite extrair dois amuletos
+Permite extrair dois talismãs
 ao mesmo tempo... Talvez.
 --- BLOCK ---
 Aumenta a probabilidade de

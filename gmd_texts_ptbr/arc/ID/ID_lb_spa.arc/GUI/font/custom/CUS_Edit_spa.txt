@@ -124,43 +124,43 @@ Controles da câmera (grande)
 Mova-a com um direcional virtual.
 --- BLOCK ---
 Estado do jogador
-Mostra seu estado na tela sensível ao toque.
+Mostra seu estado no touchscreen.
 --- BLOCK ---
 Estado do jogador (grande)
-Mostra seu estado na tela sensível ao toque.
+Mostra seu estado no touchscreen.
 --- BLOCK ---
 Estado dos companheiros
-Estado dos companheiros na tela sensível ao toque.
+Estado dos companheiros no touchscreen.
 --- BLOCK ---
 Mapa
-Mostra o mapa na tela sensível ao toque.
+Mostra o mapa no touchscreen.
 --- BLOCK ---
 Barra de itens
-Percorra a lista na tela sensível ao toque.
+Percorra a lista no touchscreen.
 --- BLOCK ---
 Barra de itens (grande)
-Percorra a lista na tela sensível ao toque.
+Percorra a lista no touchscreen.
 --- BLOCK ---
 Munição/Revestimentos
-Percorra a lista na tela sensível ao toque.
+Percorra a lista no touchscreen.
 --- BLOCK ---
 Bolsa de itens
-Use os itens com a tela sensível ao toque.
+Use os itens com o touchscreen.
 --- BLOCK ---
 Lista de combinações
-Acesse a lista na tela sensível ao toque.
+Acesse a lista no touchscreen.
 --- BLOCK ---
 Gestos
-Realize gestos com a tela sensível ao toque.
+Realize gestos com o touchscreen.
 --- BLOCK ---
 Câmera de foco
 Rastreie monstros grandes com o botão L.
 --- BLOCK ---
 Ataques especiais
-Patadas/ataques especiais com tela sensível ao toque.
+Chutes/ataques especiais com tela sensível ao toque.
 --- BLOCK ---
 Sinais
-Dê sinais com a tela sensível ao toque.
+Dê sinais com o touchscreen.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -295,7 +295,7 @@ Os painéis facilitam funções, como os
 controles da câmera, ajustes do mapa...
 --- BLOCK ---
 Use o seletor de <COLO 2>categorias <COLO 0>à
-esquerda da tela sensível ao toque para selecionar
+esquerda do touchscreen para selecionar
 o tipo de painel que deseja colocar.
 --- BLOCK ---
 Os painéis aparecem na <COLO 2>barra de seleção
@@ -315,7 +315,7 @@ podem ser colocados ao mesmo tempo.
 Para mover um painel, deslize-o para fora da
 área dos painéis visíveis. Os que você
 remover irão para a <COLO 2>lixeira <COLO
-0>à direita da tela sensível ao toque.
+0>à direita do touchscreen.
 --- BLOCK ---
 Ao fechar um painel, ele reaparecerá na
 barra de seleção de painéis. E você
@@ -346,7 +346,7 @@ foco. Toque em um dos dois
 para mirar e focar nele.
 --- BLOCK ---
 Este painel mostra na tela sensível
-ao toque a Vida, Resistência, Afiamento,
+ao toque a Vida, Resistência, Afiação,
 Munição e outros dados. Ao colocá-lo,
 os dados desaparecem da tela superior.
 --- BLOCK ---
@@ -395,13 +395,13 @@ ao toque. Toque no item que deseja
 criar para iniciar o processo de combinação.
 --- BLOCK ---
 Toque neste painel para ver uma lista de
-gestos na tela sensível ao toque. Toque
+gestos no touchscreen. Toque
 em um gesto do painel para realizá-lo.
 --- BLOCK ---
 Toque neste painel para realizar o
 ataque especial da arma que está
-equipada (se estiver desembainhada) ou uma
-patada (se não estiver desembainhada).
+equipada (se estiver desembainhada) ou um
+chute (se não estiver desembainhada).
 --- BLOCK ---
 Toque em um ícone de sinal neste
 painel para dar o sinal selecionado.

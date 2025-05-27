@@ -49,56 +49,56 @@ Não é ótimo? Agora só
 falta encontrar alguém que atenda
 MINHAS necessidades. Conhece alguém?
 --- BLOCK ---
-<SUBS 0> Você não
-pode caçar sem um
+<SUBS 0>
+Você não pode caçar sem um
 bom acampamento base.
 --- BLOCK ---
 Isso sim, quando tiver, poderá pegar
 os trabalhos que quiser e
 impressionar a Guilda. Estou ansiosa!
 --- BLOCK ---
-<SUBS 0> A Floresta
-Moga é um lugar
+<SUBS 0>
+A Floresta Moga é um lugar
 esplêndido para caçar.
 --- BLOCK ---
 Assim que o acampamento base estiver
 pronto, receberá muitos trabalhos de
 fora da vila. Será ótimo!
 --- BLOCK ---
-<SUBS 0> Fazer missões não
-ajuda apenas as pessoas. Melhora
-sua posição na Guilda!
+<SUBS 0>
+Fazer missões não ajuda apenas as pessoas.
+Melhora sua posição na Guilda!
 --- BLOCK ---
 Claro, isso depende de como se
 comporta comigo, então já está
 cuidando de suas maneiras, camarada.
 --- BLOCK ---
-<SUBS 0> Quando iniciar uma
-missão, um ícone de ingresso
-aparecerá sobre sua cabeça.
+<SUBS 0>
+Quando iniciar uma missão, um ícone de
+ingresso aparecerá sobre sua cabeça.
 --- BLOCK ---
 A cor do ingresso indica o tipo
 de missão. Verde é de coleta, vermelho
 de caça e branco de captura.
 --- BLOCK ---
-<SUBS 0> Deve estar se perguntando
-o que significa o ícone de
-interrogação na lista de missões.
+<SUBS 0>
+Deve estar se perguntando o que significa
+o ícone de interrogação na lista de missões.
 --- BLOCK ---
 Quando aparecer, indica que outros
 monstros podem se intrometer durante
 sua missão. Surpresa garantida!
 --- BLOCK ---
-<SUBS 0> As Armadilhas de
-Escolho podem deter os monstros,
-mas há um problema.
+<SUBS 0>
+As Armadilhas de Escolho podem deter os
+monstros, mas há um problema.
 --- BLOCK ---
 Se usar a armadilha várias vezes com
 o mesmo monstro, ele se acostuma. A
 armadilha será eficaz por menos tempo.
 --- BLOCK ---
-<SUBS 0> Ei, sabia que
-toda a vila considera o
+<SUBS 0>
+Ei, sabia que toda a vila considera o
 chefe um grande conselheiro?
 --- BLOCK ---
 E Junior, seu filho, sabe
@@ -113,24 +113,24 @@ Quando criança, passei tanto tempo na
 Floresta Moga que sou como uma atleta
 estudiosa. Como ainda estou solteira?
 --- BLOCK ---
-<SUBS 0> Como vai a caçada?
-Estou cheia de coisas para fazer.
-Fiz uma caminhada, fiz yoga...
+<SUBS 0>
+Como vai a caçada? Estou cheia de coisas
+para fazer. Fiz uma caminhada, fiz yoga...
 --- BLOCK ---
 Ah! E brinquei com o Poogie na
 fazenda. Que fofo e rechonchudo! Sim,
 foi um dia cansativo, te juro.
 --- BLOCK ---
-<SUBS 0> Se diverte
-caçando? Eu estive
+<SUBS 0>
+Se diverte caçando? Eu estive
 superocupada: manicure, soneca...
 --- BLOCK ---
 Até levei o Poogie da fazenda para a
 vila. Brincamos o dia todo! Mas logo depois
 foi a vez da manicure, é claro.
 --- BLOCK ---
-<SUBS 0> Diga-me uma
-criança que não queira
+<SUBS 0>
+Diga-me uma criança que não queira
 ser caçador quando crescer.
 --- BLOCK ---
 Até eu quase fui! Quer tocar
@@ -139,8 +139,8 @@ posso te partir ao meio!
 --- BLOCK ---
 ¡Hi yaa! ¡Guac! ¡Achís!
 --- BLOCK ---
-<SUBS 0> A
-Guilda fornece aos
+<SUBS 0>
+A Guilda fornece aos
 funcionários três uniformes.
 --- BLOCK ---
 Mesmo que não sequem
@@ -155,16 +155,16 @@ Anda, que sorte a sua...
 --- BLOCK ---
 Aff. Pelo menos poderia sorrir.
 --- BLOCK ---
-<SUBS 0> Vou te contar um
-segredo: há mais lugares de caça
-além da Floresta Moga.
+<SUBS 0>
+Vou te contar um segredo: há mais
+lugares de caça além da Floresta Moga.
 --- BLOCK ---
 Continue assim e poderá
 acabar viajando pelo mundo!
 --- BLOCK ---
-<SUBS 0> Você tem nojo
-dos Giggi? Eles espreitam na
-escuridão e tentam te sugar.
+<SUBS 0>
+Você tem nojo dos Giggi? Eles espreitam
+na escuridão e tentam te sugar.
 --- BLOCK ---
 Mas eu adoro como eles
 são fofinhos. Poderia... Ei, não
@@ -733,8 +733,8 @@ pequena conversa com a Guilda.
 Adivinha o que tenho para você...
 Um pedido para matar um monstro!
 --- BLOCK ---
-Desta vez é um Ludroth! E o
-que é um Ludroth, você pergunta? Bem,
+Desta vez é uma Ludroth! E o
+que é uma Ludroth, você pergunta? Bem,
 de acordo com o meu extenso guia...
 --- BLOCK ---
 "Ludroth. Monstros carnívoros que vivem
@@ -779,8 +779,8 @@ pequena conversa com a Guilda.
 Adivinha o que tenho para você...
 Um pedido para matar um monstro!
 --- BLOCK ---
-Desta vez é um Ludroth! E o
-que é um Ludroth, você pergunta? Bem,
+Desta vez é uma Ludroth! E o
+que é uma Ludroth, você pergunta? Bem,
 de acordo com o meu extenso guia...
 --- BLOCK ---
 "Ludroth. Monstros carnívoros que vivem
@@ -819,7 +819,7 @@ TERRENO DE CAÇA!
 Olha, os caçadores de elite não ficam
 em casa. Eles vão longe caçar!
 --- BLOCK ---
-Com o Ludroth você conquistou seus méritos,
+Com a Ludroth você conquistou seus méritos,
 então já tem permissão para caçar
 em um local novo e incrível.
 --- BLOCK ---
@@ -1731,7 +1731,7 @@ Parece muito pitoresco! Boa sorte!
 --- BLOCK ---
 E olha só! Acabou de
 chegar um pedido para
-caçar um Ludroth púrpura!
+caçar uma Ludroth púrpura!
 --- BLOCK ---
 É uma subespécie autêntica, sabia?
 É especial e tudo mais!
@@ -1748,14 +1748,14 @@ Quer emoção? Então vá conhecer essas
 subespécies. Você não ficará entediado,
 mas talvez leve uma chifrada!
 --- BLOCK ---
-Hora de caçar aquele Ludroth púrpura!
+Hora de caçar aquela Ludroth púrpura!
 --- BLOCK ---
 A página "Alta" foi adicionada
 ao quadro de missões, verifique
 lá as missões urgentes.
 --- BLOCK ---
 Receio que se não completar a
-missão do Ludroth púrpura, não poderá
+missão da Ludroth púrpura, não poderá
 aceitar mais missões de alto nível.
 --- BLOCK ---
 <SUBS 0>

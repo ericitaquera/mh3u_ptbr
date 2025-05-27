@@ -1041,7 +1041,7 @@ narizes sensíveis!
 --- BLOCK ---
 Máscara com uma Pedra
 de amolar gigante. Pode
-restaurar o Afiamento e
+restaurar o Afiação e
 dá habilidade de caça,
 útil até para Atiradores.
 Aponta para monstros
@@ -1169,15 +1169,15 @@ Doença +1
 --- BLOCK ---
 Ataque atordoante
 --- BLOCK ---
-Potenciador de afinidade
+Potenciador de Afinidade
 --- BLOCK ---
-Potenciador de ataque
+Potenciador de Ataque
 --- BLOCK ---
-Potenciador de defesa
+Potenciador de Defesa
 --- BLOCK ---
-Potenciador de guarda
+Potenciador de Guarda
 --- BLOCK ---
-Potenciador de agilidade
+Potenciador de Ggilidade
 --- BLOCK ---
 Recuperação rápida
 --- BLOCK ---

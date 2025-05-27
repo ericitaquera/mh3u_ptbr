@@ -9,7 +9,7 @@ OBJECTIVES_0=Deliver 2 Kelbi Horns
 OBJECTIVES_1=Livrer 2 cornes de Kelbi
 OBJECTIVES_2=Besorge 2 Kelbi-Hörner.
 OBJECTIVES_3=Consegna 2 Corna di Kelbi
-OBJECTIVES_4=Entregas 2 Chifres de Kelbi
+OBJECTIVES_4=Entregar 2 Chifres de Kelbi
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Reward hits 0, or time
 expires.

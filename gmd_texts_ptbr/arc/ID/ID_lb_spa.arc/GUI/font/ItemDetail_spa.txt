@@ -141,35 +141,35 @@ Medicamento feito de Cristais
 de vida. Cura instantaneamente
 a todos ao alcance.
 --- BLOCK ---
-Amuleto modesto de sorte.
+Talismã modesto de sorte.
 O que faz? Termine
 a aventura e descobrirá.
 --- BLOCK ---
-Amuleto curioso de sorte.
+Talismã curioso de sorte.
 O que faz? Termine
 a aventura e descobrirá.
 --- BLOCK ---
-Amuleto poderoso de sorte.
+Talismã poderoso de sorte.
 O que faz? Termine
 a aventura e descobrirá.
 --- BLOCK ---
-Amuleto misterioso de sorte.
+Talismã misterioso de sorte.
 O que faz? Termine
 a aventura e descobrirá.
 --- BLOCK ---
-Amuleto que aumenta o poder
+Talismã que aumenta o poder
 de Ataque. Concede a
 força de um demônio.
 --- BLOCK ---
-Amuleto que aumenta o
+Talismã que aumenta o
 Ataque. Feito com a
 garra de um Deviljho.
 --- BLOCK ---
-Amuleto que aumenta a
+Talismã que aumenta a
 Defesa. A pele endurece
 como uma pedra.
 --- BLOCK ---
-Amuleto que aumenta a
+Talismã que aumenta a
 Defesa. Feito com a
 garra de um Deviljho.
 --- BLOCK ---
@@ -525,8 +525,8 @@ o Ataque ao ser
 disparada. Disp. máx. 50.
 --- BLOCK ---
 Revestimento que aumenta a potência
-a curto alcance e o
-Afiamento. Disp. máx. 20.
+a curto alcance e a
+Afiação. Disp. máx. 20.
 --- BLOCK ---
 Revestimento que aplica veneno
 às flechas disparadas.
@@ -621,7 +621,7 @@ corrida durante a churrasqueira.
 --- BLOCK ---
 Pedra de afiar padrão. Ao
 polir armas com ela,
-o Afiamento é restaurado.
+a Afiação é restaurado.
 --- BLOCK ---
 Permitem observar
 de longe.
@@ -903,7 +903,7 @@ para afiar armas.
 --- BLOCK ---
 Peixe delicioso que restaura
 um pouco da
-saúde ao consumi-lo.
+Saúde ao consumi-lo.
 --- BLOCK ---
 Peixe com
 propriedades soníferas.
@@ -2636,7 +2636,7 @@ DUMMY 65
 --- BLOCK ---
 Presa grande e robusta
 que tem diversos usos:
-de armas a enfeites.
+de armas a adornos.
 --- BLOCK ---
 Chifre retorcido de Diablos.
 Nesta região, tem muitos
@@ -3764,9 +3764,9 @@ Bomba sonora de
 alta frequência.
 <COLO 05>(Suprimento)
 --- BLOCK ---
-Recupera a saúde e aumenta
+Recupera a Saúde e aumenta
 a capacidade da barra
-de saúde. <COLO 05>(Suprimento)
+de Saúde. <COLO 05>(Suprimento)
 --- BLOCK ---
 Ative uma armadilha
 para capturar monstros.
@@ -3808,7 +3808,7 @@ para casa... <COLO 05>(Suprimento)
 --- BLOCK ---
 Alimento para a rainha das abelhas.
 Também é bom para a
-sua saúde! <COLO 05>(Item contado)
+sua Saúde! <COLO 05>(Item contado)
 --- BLOCK ---
 Flecha de pequeno porte
 valorizada por seu aroma

@@ -38,24 +38,24 @@ Ah, e você pode consultar
 suas Notas de caçador para
 ver todos os detalhes.
 --- BLOCK ---
-<SUBS 0> O sonho da minha
-vida? Criar uma arma que
-ninguém nunca tenha visto, suponho.
+<SUBS 0>
+O sonho da minha vida? Criar uma arma
+que ninguém nunca tenha visto, suponho.
 --- BLOCK ---
 Perdi a conta de quantas vezes
 tentei e falhei, tentei e falhei.
 Vou conseguir um dia, você verá!
 --- BLOCK ---
-<SUBS 0> Para decidir que
-equipamento deseja forjar ou
-comprar, use "Ver informação"!
+<SUBS 0>
+Para decidir que equipamento deseja
+forjar ou comprar, use "Ver informação"!
 --- BLOCK ---
 Toque em "Ver informação", pesquise,
 compare e escolha. É essencial!
 --- BLOCK ---
-<SUBS 0> Armas corpo a
-corpo cortam melhor peles duras
-com alto Nível de afiação.
+<SUBS 0>
+Armas corpo a corpo cortam melhor
+peles duras com alto Nível de afiação.
 --- BLOCK ---
 O Nível de afiação usa uma escala
 de cores. Laranja corta mais que amarelo,
@@ -141,7 +141,7 @@ Você já reparou nos
 espaços que usa
 com as armas?
 --- BLOCK ---
-Você pode enchê-los com enfeites, sabia
+Você pode enchê-los com adornos, sabia
 Dessa forma, suas habilidades aumentarão
 consideravelmente!
 --- BLOCK ---
@@ -340,8 +340,9 @@ A seção Informações do Caçador
 contém montes de dicas para
 ganhar a vida caçando!
 --- BLOCK ---
-<SUBS 0> Ah? Veio conhecer
-meu negócio, não é?
+<SUBS 0>
+Ah? Veio conhecer meu negócio,
+não é?
 --- BLOCK ---
 Tudo bem, tudo bem! Vou te
 explicar, mas só desta vez,
@@ -445,19 +446,19 @@ detalhes nas suas Notas de caçador.
 Vamos lá, é para você!
 --- BLOCK ---
 Mil diabos, camarada! Ouvi dizer
-que acabaste com um Ludroth!
+que acabaste com uma Ludroth!
 Nada mal, nada mal...
 --- BLOCK ---
 Na verdade, você está tão bem que me deu
 vontade de experimentar algo diferente...
 --- BLOCK ---
-Eu os chamo de "amuletos"! Você
+Eu os chamo de "talismãs"! Você
 ganha Pontos de habilidade apenas por
 usá-los, como com qualquer equipamento.
 --- BLOCK ---
 Digamos que você tem uma habilidade
 que está faltando alguns pontos para
-ativar. Bem, aí entra o amuleto!
+ativar. Bem, aí entra o talismã!
 --- BLOCK ---
 Este é um presente, mas
 se quiser mais, terá
@@ -487,7 +488,7 @@ pode preenchê-los todos com adornos.
 Pontos de habilidade instantaneamente!
 --- BLOCK ---
 Entendido? Você não equipa diretamente
-os adornos, como os amuletos.
+os adornos, como os talismãs.
 Você os atribui ao equipamento.
 --- BLOCK ---
 Se você entendeu tudo...

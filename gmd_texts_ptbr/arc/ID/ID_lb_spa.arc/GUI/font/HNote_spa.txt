@@ -637,7 +637,7 @@ produzido em um órgão em
 sua garganta. Se for destruído,
 perderão a habilidade de cuspir.
 --- BLOCK ---
-Balestras que habitam florestas e
+Feras que habitam florestas e
 montanhas, normalmente úmidas. Conhecidos por
 pescar e ficar de
 pé para colher mel,
@@ -1031,9 +1031,9 @@ Balestras
 --- BLOCK ---
 Arcos
 --- BLOCK ---
-Armadura e Amuletos
+Armadura e Talismãs
 --- BLOCK ---
-Habilidade e enfeites
+Habilidade e Adornos
 --- BLOCK ---
 Iniciar missões
 --- BLOCK ---
@@ -1217,13 +1217,13 @@ Habilidades
 --- BLOCK ---
 Habilidades comida
 --- BLOCK ---
-Entalhes e enfeites
+Entalhes e Adornos
 --- BLOCK ---
 Dados de habilidades
 --- BLOCK ---
-Forjar enfeite
+Forjar Adorno
 --- BLOCK ---
-Gerenciar enfeites
+Gerenciar Adornos
 --- BLOCK ---
 Nível de missão
 --- BLOCK ---
@@ -1793,7 +1793,7 @@ Para coletar ou extrair materiais, guarde a
 arma e pressione o botão A.
 --- BLOCK ---
 Para dar um chute, toque no painel de
-Ataque especial na tela sensível ao toque.
+Ataque especial no touchscreen.
 --- BLOCK ---
 Você também pode usar a configuração
 "botão START" em Opções para dar
@@ -1804,14 +1804,14 @@ HARDUMMY
 HARDUMMY
 --- BLOCK ---
 Quando estiver debaixo d'água, toque no
-painel de Ataque especial na tela sensível
-ao toque para fazer um tackle.
+painel de Ataque especial no
+touchscreen para um Golpe de corpo.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
 Pressione START para abrir o menu do jogo.
 Use a configuração do botão START para
-abri-lo a partir da tela sensível ao toque.
+abri-lo a partir do touchscreen.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -1886,9 +1886,9 @@ A armadura possui valores de Resistência
 a fogo, água, gelo, trovão e
 dragão. Quanto maior o valor, melhor.
 --- BLOCK ---
-Por exemplo, uma Resistência ao fogo alta
-reduz a gravidade do dano por
-Doença de fogo quando estiver ardendo.
+Por exemplo, uma Resistência ao fogo
+alta reduz a gravidade do dano por
+Praga de fogo quando estiver queimando.
 --- BLOCK ---
 Quando sua Afinidade for positiva, você
 poderá realizar ataques muito danosos em
@@ -1971,15 +1971,15 @@ As armas com Afinidade
 negativa têm mais chances
 de causar "golpes fracos".
 --- BLOCK ---
-Quanto maior for o Afiamento de uma
+Quanto maior for a Afiação de uma
 arma, maior será o dano causado.
-O Afiamento diminui com o uso.
+A Afiação diminui com o uso.
 --- BLOCK ---
 Os monstros repelirão mais facilmente as
 armas pouco afiadas. Use uma Pedra
 ou uma Mini pedra de afiar.
 --- BLOCK ---
-Existem diferentes níveis de Afiamento:
+Existem diferentes níveis de Afiação:
 Vermelho >> Laranja >> Amarelo >> Verde.
 O poder muda de acordo com a cor.
 --- BLOCK ---
@@ -2032,7 +2032,7 @@ varia de acordo com a
 Balestra que você estiver usando.
 --- BLOCK ---
 A precisão da Balestra
-depende de sua Desvio.
+depende de seu Desvio.
 --- BLOCK ---
 A magnitude e a direção do Desvio
 da Balestra variam de acordo com
@@ -2085,7 +2085,7 @@ Por exemplo, uma arma com um elemento
 de fogo forte pode causar dano extra
 a monstros fracos contra o fogo.
 --- BLOCK ---
-Os Amuletos são itens
+Os Talismãs são itens
 misteriosos e poderosos criados
 usando antigas artes esquecidas.
 --- BLOCK ---
@@ -2095,13 +2095,13 @@ pontos de habilidade quando equipados.
 --- BLOCK ---
 As técnicas de forja atuais não
 são avançadas o suficiente para
-criar novos Amuletos do zero.
+criar novos Talismãs do zero.
 --- BLOCK ---
-Por isso, é necessário obter Amuletos
+Por isso, é necessário obter Talismãs
 de outras maneiras, como extrair de
 minas ou como recompensas de missão.
 --- BLOCK ---
-Os Amuletos são avaliados automaticamente
+Os Talismãs são avaliados automaticamente
 ao solicitar sua recompensa de
 missão, revelando seu verdadeiro valor.
 --- BLOCK ---
@@ -2193,7 +2193,7 @@ que os caçadores possuem.
 --- BLOCK ---
 Elas são ativadas quando pontos de habilidade
 são atribuídos à armadura e quando você
-tem um certo número de Amuletos.
+tem um certo número de Talismãs.
 --- BLOCK ---
 As habilidades de alimento
 são bônus especiais
@@ -2235,7 +2235,7 @@ ambiciosos... mas não imediatamente.
 --- BLOCK ---
 Primeiro você deve completar as missões
 disponíveis para aumentar seu nível
-de missão e desbloquear mais.
+de caçador e desbloquear mais.
 --- BLOCK ---
 Ao começar uma missão, fique de
 olho no ícone "PERIGO". Significa que
@@ -2665,7 +2665,7 @@ enquanto mantém pressionado o botão R.
 --- BLOCK ---
 Com a Grande espada sacada, você pode dar
 um chute se tocar no Painel de
-Ataque especial na tela sensível ao toque.
+Ataque especial no touchscreen.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -2697,8 +2697,8 @@ botão A ao mesmo tempo no
 meio de um combo, também funcionará.
 --- BLOCK ---
 Outra forma de realizar o movimento é
-tocando no Painel de Ataque especial na
-tela sensível ao toque (durante o combo).
+tocando no Painel de Ataque especial
+no touchscreen (durante o combo).
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -2753,8 +2753,8 @@ Pressione o botão X e o botão
 A para atacar com a Lança lateralmente.
 --- BLOCK ---
 Com a Lança sacada, toque no Painel
-de Ataque especial na tela sensível ao
-toque para realizar um ataque em corrida.
+de Ataque especial no touchscreen
+para realizar um ataque em corrida.
 --- BLOCK ---
 Você também pode correr se pressionar o
 botão X e o botão A
@@ -2839,8 +2839,8 @@ pressionado o botão L e pressione o
 botão X ou o botão B.
 --- BLOCK ---
 Com a Balestra sacada, toque no Painel
-de Ataque especial na tela sensível ao
-toque para um ataque de curto alcance.
+de Ataque especial no touchscreen
+para um ataque de curto alcance.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -2891,7 +2891,7 @@ para atacar com seu Machado espada para cima.
 --- BLOCK ---
 Você também pode atacar com o Machado
 espada para cima tocando no Painel de
-Ataque especial na tela sensível ao toque.
+Ataque especial no touchscreen.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -2927,7 +2927,7 @@ com a Espada para cima.
 --- BLOCK ---
 Você também pode atacar com a Espada
 para cima tocando o painel de
-Ataque especial na tela de toque.
+Ataque especial no touchscreen.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

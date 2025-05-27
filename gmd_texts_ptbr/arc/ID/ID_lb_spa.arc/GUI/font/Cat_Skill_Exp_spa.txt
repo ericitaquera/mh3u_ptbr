@@ -64,7 +64,7 @@ Aumenta significativamente o Ataq. quando o
 nível de Vida é muito baixo.
 --- BLOCK ---
 Ajuda sua arma a
-conservar o Afiamento
+conservar a Afiação
 quando rejeita ataques.
 --- BLOCK ---
 Reduz o gasto de Resistência
@@ -131,7 +131,7 @@ Potencializa temporariamente o
 Ataque ao usar
 o gesto Devolver.
 --- BLOCK ---
-Aumenta o Afiamento quando
+Aumenta a Afiação quando
 você acerta logo após
 rejeitar um ataque.
 --- BLOCK ---

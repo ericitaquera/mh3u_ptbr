@@ -59,7 +59,7 @@ Ora muoviti e cacciane due!
 DESCRIPTIONS_4=Você acha que o veneno não
 serve para nada? Você está
 enganado, caçador. Tem milhares
-de usos! A toxina de um Ludroth
-roxo tem propriedades curativas.
+de usos! A toxina de uma Ludroth
+púrpura tem propriedades curativas.
 É um remédio milagroso no
 exterior! Vá e cace dois!
