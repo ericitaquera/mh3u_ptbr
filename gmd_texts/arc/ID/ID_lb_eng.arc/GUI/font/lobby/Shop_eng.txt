@@ -1,0 +1,1366 @@
+TMSG_LOBBYSHOP
+--- BLOCK ---
+TMSG_LOBBY_LEVELUP
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_TOPMENU
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_MOGAINFO
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_MOGAINFO_FINFO
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_REPORT
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_REPORT_SUBTITLE
+--- BLOCK ---
+TMSG_LOBBY_EXCHANGE_EXPLAIN
+--- BLOCK ---
+TMSG_LOBBY_GUILD_RULES
+--- BLOCK ---
+TMSG_LOBBY_KAKOPARTS
+--- BLOCK ---
+TMSG_LOBBY_GUILD_DLQ
+--- BLOCK ---
+TMSG_LOBBY_KAKO_KYOUKA
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Owned
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+No Boost
+--- BLOCK ---
+Health
+--- BLOCK ---
+Stamina
+--- BLOCK ---
+Oxygen
+--- BLOCK ---
+Attack
+--- BLOCK ---
+Defense
+--- BLOCK ---
+Fire Res
+--- BLOCK ---
+Water Res
+--- BLOCK ---
+ThunderRes
+--- BLOCK ---
+Ice Res
+--- BLOCK ---
+Dragon Res
+--- BLOCK ---
+Tipsy
+--- BLOCK ---
+---
+--- BLOCK ---
+? ? ?
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Buy
+--- BLOCK ---
+Sell
+--- BLOCK ---
+Buy, Send to Box
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Weaponcraft
+--- BLOCK ---
+Armorcraft
+--- BLOCK ---
+Decorations
+--- BLOCK ---
+Villager Requests
+--- BLOCK ---
+Forge Weapons
+--- BLOCK ---
+Upgrade Weapons
+--- BLOCK ---
+Forge Armor
+--- BLOCK ---
+Upgrade Armor
+--- BLOCK ---
+Forge Decorations
+--- BLOCK ---
+Set Decorations
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Weapons
+--- BLOCK ---
+Armor
+--- BLOCK ---
+Head
+--- BLOCK ---
+Chest
+--- BLOCK ---
+Arms
+--- BLOCK ---
+Waist
+--- BLOCK ---
+Legs
+--- BLOCK ---
+Great Sword
+--- BLOCK ---
+Long Sword
+--- BLOCK ---
+Sword & Shield
+--- BLOCK ---
+Dual Blades
+--- BLOCK ---
+Hammer
+--- BLOCK ---
+Hunting Horn
+--- BLOCK ---
+Lance
+--- BLOCK ---
+Gunlance
+--- BLOCK ---
+Switch Axe
+--- BLOCK ---
+Light Bowgun
+--- BLOCK ---
+Heavy Bowgun
+--- BLOCK ---
+Bow
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+FI
+--- BLOCK ---
+WA
+--- BLOCK ---
+LI
+--- BLOCK ---
+DR
+--- BLOCK ---
+IC
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+PO
+--- BLOCK ---
+PA
+--- BLOCK ---
+SLP
+--- BLOCK ---
+SLM
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+View Mode
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+View Mode
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Fire Res
+--- BLOCK ---
+Water Res
+--- BLOCK ---
+Ice Res
+--- BLOCK ---
+ThunderRes
+--- BLOCK ---
+Dragon Res
+--- BLOCK ---
+Defense
+--- BLOCK ---
+Attack
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Moga Forecast
+--- BLOCK ---
+Hunt Report
+--- BLOCK ---
+Generate Resources
+--- BLOCK ---
+Resource Info
+--- BLOCK ---
+Villager Requests
+--- BLOCK ---
+Today
+--- BLOCK ---
+Tomorrow
+--- BLOCK ---
+Day After
+--- BLOCK ---
+Large Monsters
+--- BLOCK ---
+Field Conditions
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Herbivores Breeding
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Jaggi Breeding
+--- BLOCK ---
+Bnahabra Outbreak
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Ludroth Breeding
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Dispatch
+--- BLOCK ---
+Check Haul Box
+--- BLOCK ---
+View Fleet Status
+--- BLOCK ---
+Cap'n
+--- BLOCK ---
+Red
+--- BLOCK ---
+Black
+--- BLOCK ---
+Res Cost
+--- BLOCK ---
+Region
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Days Away
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+1d
+--- BLOCK ---
+2d
+--- BLOCK ---
+3d
+--- BLOCK ---
+4d
+--- BLOCK ---
+5d
+--- BLOCK ---
+6d
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+%s? Weather's
+fair. Oughta be a good haul!
+--- BLOCK ---
+%s? Storms are
+brewing. Feeling lucky?
+--- BLOCK ---
+%s? Good waves.
+Could be a nice catch!
+--- BLOCK ---
+We made a few upgrades. Today
+we can journey somewhere new!
+--- BLOCK ---
+The seas are calm! This voyage
+might even end early.
+--- BLOCK ---
+Nice waves today. We could get
+a good catch almost anywhere!
+--- BLOCK ---
+Not much to report,
+I'm afraid.
+--- BLOCK ---
+Feeling great today! We might
+be able to hunt some monsters.
+--- BLOCK ---
+And we're off!
+--- BLOCK ---
+Fishing
+--- BLOCK ---
+Treasure
+--- BLOCK ---
+Hunting
+--- BLOCK ---
+Moga Coast
+--- BLOCK ---
+Moga Shallows
+--- BLOCK ---
+Moga Deep
+--- BLOCK ---
+Legendary Tides
+--- BLOCK ---
+Dark Waters
+--- BLOCK ---
+Moga Strait
+--- BLOCK ---
+Abyssal Volcano
+--- BLOCK ---
+Pirate's Tomb
+--- BLOCK ---
+Nearby Island
+--- BLOCK ---
+Distant Isle
+--- BLOCK ---
+No-Man's Land
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(Fishing) A spot the villagers
+often visit. Common Moga fish
+can be found here.
+--- BLOCK ---
+(Fishing) Valuable fish can be
+caught in this popular spot
+only a short trip away.
+--- BLOCK ---
+(Fishing) A difficult spot to
+get to, but its unusual fish
+make the trip worth it.
+--- BLOCK ---
+(Fishing) A spot said to have
+once drawn a fisherman of
+legend. Fish paradise.
+--- BLOCK ---
+(Treasure) A terrible place.
+Items can be salvaged from
+ships that ran aground here.
+--- BLOCK ---
+(Treasure) A strait with
+unique tides. Said to hide
+unusual treasures.
+--- BLOCK ---
+(Treasure) Even veteran
+fishermen fear for their
+lives here. Riches abound.
+--- BLOCK ---
+(Treasure) A cursed place
+that drives men mad. Said to
+be brimming with treasure.
+--- BLOCK ---
+(Hunting) An island near the
+village. Relatively easy-to-
+hunt monsters inhabit it.
+--- BLOCK ---
+(Hunting) The waters near
+an isolated island. Only full-
+fledged hunters succeed here.
+--- BLOCK ---
+(Hunting) Dangerous monsters
+even veteran hunters are wary
+of live on this island.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Spoils:
+--- BLOCK ---
+Sources
+--- BLOCK ---
+Fertilizer
+--- BLOCK ---
+Cultivate
+--- BLOCK ---
+Check Crop Box
+--- BLOCK ---
+View Farm Status
+--- BLOCK ---
+Fields
+--- BLOCK ---
+Shrooms
+--- BLOCK ---
+Honey
+--- BLOCK ---
+Insects
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Res Cost:
+--- BLOCK ---
+Trade
+--- BLOCK ---
+Rare Trade
+--- BLOCK ---
+Request Stopovers
+--- BLOCK ---
+Trade
+--- BLOCK ---
+Rare Trade
+--- BLOCK ---
+Review Stopovers
+--- BLOCK ---
+Select Goods
+--- BLOCK ---
+Select Commodity
+--- BLOCK ---
+Select Rare Goods
+--- BLOCK ---
+Select Rare Commodity
+--- BLOCK ---
+Farmer Realm
+--- BLOCK ---
+Hunter Realm
+--- BLOCK ---
+Wyverian Hub
+--- BLOCK ---
+Destinations
+--- BLOCK ---
+Voyage Aid
+--- BLOCK ---
+Duration
+--- BLOCK ---
+A fertile land that is home to
+self-sufficient farmers who trade
+crops and wares with the Argosy.
+--- BLOCK ---
+A land of hunters whose tools and
+weapons are hard to come by in
+Moga Village outside of trading.
+--- BLOCK ---
+The homeland of the Wyverian race:
+a treasure trove of rare medicines
+and otherworldly knowledge.
+--- BLOCK ---
+Visit
+--- BLOCK ---
+Bypass
+--- BLOCK ---
+Time Left
+--- BLOCK ---
+%dd Left
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Departing
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+Item Info
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+HARDUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+OK
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Arena Quests
+--- BLOCK ---
+Challenge Quests
+--- BLOCK ---
+Leaderboards
+--- BLOCK ---
+Qualifying Times
+--- BLOCK ---
+S Rank
+--- BLOCK ---
+A Rank
+--- BLOCK ---
+B Rank
+--- BLOCK ---
+Your Best
+--- BLOCK ---
+Time
+--- BLOCK ---
+Partners
+--- BLOCK ---
+Items
+--- BLOCK ---
+Additional
+Skill Info
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Target
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(No Slots)
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Learned "%s".
+--- BLOCK ---
+Pick Up
+--- BLOCK ---
+Snuggle
+--- BLOCK ---
+Change Costume
+--- BLOCK ---
+Emperor's New Duds
+--- BLOCK ---
+Memorial Stripes
+--- BLOCK ---
+Pretty in Pink
+--- BLOCK ---
+Pygmelion
+--- BLOCK ---
+Angel Leotard
+--- BLOCK ---
+Sleepy Sheepy
+--- BLOCK ---
+Hog in a Frog
+--- BLOCK ---
+Black Honey
+--- BLOCK ---
+Furnishings
+--- BLOCK ---
+Gallery
+--- BLOCK ---
+DLC (Downloadable Content)
+--- BLOCK ---
+Place
+--- BLOCK ---
+Remove
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+The Quest is already full.
+--- BLOCK ---
+Entry for this Quest has concluded.
+--- BLOCK ---
+You're already signed up for a Quest.
+--- BLOCK ---
+Received %s!
+--- BLOCK ---
+%s placed in Pouch.
+--- BLOCK ---
+Your Pouch is full.
+--- BLOCK ---
+%s sent to Item Box.
+--- BLOCK ---
+Your Item Box is full.
+--- BLOCK ---
+Received %dz!
+--- BLOCK ---
+%s sent to your Box.
+--- BLOCK ---
+Your Box is full.
+--- BLOCK ---
+You don't meet the requirements.
+--- BLOCK ---
+Owned:
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Req Slots:
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Store Items
+--- BLOCK ---
+Remove Items
+--- BLOCK ---
+Combine/Manage Items
+--- BLOCK ---
+Manage Equipment
+--- BLOCK ---
+Change Appearance
+--- BLOCK ---
+Equipment Sets
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Item Box
+--- BLOCK ---
+Item Box
+--- BLOCK ---
+Blademaster's Pouch
+--- BLOCK ---
+Gunner's Pouch
+--- BLOCK ---
+Combine Box Items
+--- BLOCK ---
+Combo List
+--- BLOCK ---
+Reorder
+--- BLOCK ---
+Sell
+--- BLOCK ---
+Sort By
+--- BLOCK ---
+Rarity
+--- BLOCK ---
+Innate Skill 1
+--- BLOCK ---
+Innate Skill 2
+--- BLOCK ---
+# of Slots
+--- BLOCK ---
+Value
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+- - - - -
+--- BLOCK ---
+Remove Decoration
+--- BLOCK ---
+Displaying:
+--- BLOCK ---
+Decoration Names
+--- BLOCK ---
+Skill Names
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Change Clothing
+--- BLOCK ---
+Change Hairstyle
+--- BLOCK ---
+Facial Features
+--- BLOCK ---
+Change Armor Pigment
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Equip
+--- BLOCK ---
+View Talismans
+--- BLOCK ---
+Set Decorations
+--- BLOCK ---
+Reorder
+--- BLOCK ---
+Sell
+--- BLOCK ---
+Equip a Set
+--- BLOCK ---
+Register Equipment
+--- BLOCK ---
+Reorder
+--- BLOCK ---
+Remove a Set
+--- BLOCK ---
+Equip a Set
+--- BLOCK ---
+Register Equipment
+--- BLOCK ---
+Reorder
+--- BLOCK ---
+Remove a Set
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+1
+--- BLOCK ---
+2
+--- BLOCK ---
+3
+--- BLOCK ---
+4
+--- BLOCK ---
+5
+--- BLOCK ---
+6
+--- BLOCK ---
+7
+--- BLOCK ---
+8
+--- BLOCK ---
+9
+--- BLOCK ---
+10
+--- BLOCK ---
+11
+--- BLOCK ---
+12
+--- BLOCK ---
+Type 1
+--- BLOCK ---
+Type 2
+--- BLOCK ---
+Type 3
+--- BLOCK ---
+Type 4
+--- BLOCK ---
+Type 5
+--- BLOCK ---
+Type 6
+--- BLOCK ---
+Type 7
+--- BLOCK ---
+Type 8
+--- BLOCK ---
+Type 9
+--- BLOCK ---
+Type10
+--- BLOCK ---
+Type11
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Level Up
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Qty.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Item Box storage capacity increased!
+--- BLOCK ---
+Item Box reached maximum capacity!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Total
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Item List
+--- BLOCK ---
+Category
+--- BLOCK ---
+Great Sword
+--- BLOCK ---
+Sword & Shield
+--- BLOCK ---
+Hammer
+--- BLOCK ---
+Lance
+--- BLOCK ---
+Light Bowgun
+--- BLOCK ---
+Heavy Bowgun
+--- BLOCK ---
+Switch Axe
+--- BLOCK ---
+Long Sword
+--- BLOCK ---
+Bow
+--- BLOCK ---
+Gunlance
+--- BLOCK ---
+Dual Blades
+--- BLOCK ---
+Hunting Horn
+--- BLOCK ---
+Weaponcraft
+--- BLOCK ---
+Category
+--- BLOCK ---
+Head
+--- BLOCK ---
+Chest
+--- BLOCK ---
+Arms
+--- BLOCK ---
+Waist
+--- BLOCK ---
+Legs
+--- BLOCK ---
+Armorcraft
+--- BLOCK ---
+Decorations
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Forge Decorations
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Name List
+--- BLOCK ---
+Sound the Gong
+--- BLOCK ---
+Cancel Companion Search
+--- BLOCK ---
+Seeking Companions
+--- BLOCK ---
+Hide Menu
+--- BLOCK ---
+Show Menu
+--- BLOCK ---
+The Monster List has been updated!
+--- BLOCK ---
+Cha-Cha's Level has increased!
+--- BLOCK ---
+Kayamba's Level has increased!
+--- BLOCK ---
+Cha-Cha's Valor has increased!
+--- BLOCK ---
+Kayamba's Valor has increased!
+--- BLOCK ---
+%s Mastery increased!
+--- BLOCK ---
+Cha-Cha and Kayamba's Chum-Chum increased!
+--- BLOCK ---
+%s obtained!
+--- BLOCK ---
+Ultimate Mask (?) obtained.
+--- BLOCK ---
+The Unfortunate Mask has improved!
+--- BLOCK ---
+ 
+--- BLOCK ---
+Arena Quests
+--- BLOCK ---
+Rotate
+--- BLOCK ---
+Moga Forecast
+--- BLOCK ---
+Hunt Report
+--- BLOCK ---
+Generate Resources
+--- BLOCK ---
+Resource Info
+--- BLOCK ---
+Villager Requests
+--- BLOCK ---
+Today
+--- BLOCK ---
+Tomorrow
+--- BLOCK ---
+Day After
+--- BLOCK ---
+Large Monsters
+--- BLOCK ---
+Field Conditions
+--- BLOCK ---
+No large monsters have
+been sighted.
+--- BLOCK ---
+Resrces
+--- BLOCK ---
+North
+--- BLOCK ---
+Central
+--- BLOCK ---
+South
+--- BLOCK ---
+Show
+Map
+--- BLOCK ---
+Day
+--- BLOCK ---
+Night
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Herbivores Breedng
+--- BLOCK ---
+Bullfango Breeding
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Jaggi Breeding
+--- BLOCK ---
+Bnahabra Outbreak
+--- BLOCK ---
+Baggi Breeding
+--- BLOCK ---
+Wroggi Breeding
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Ludroth Breeding
+--- BLOCK ---
+Resources: Tranquil
+--- BLOCK ---
+Abundant Commodities
+--- BLOCK ---
+Hunt Report
+--- BLOCK ---
+Pt Total
+--- BLOCK ---
+Res Gain
+--- BLOCK ---
+Large Monsters
+--- BLOCK ---
+Small Monsters
+--- BLOCK ---
+Resource Items
+--- BLOCK ---
+Small Monsters
+--- BLOCK ---
+Large Monsters
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Attach Silencer
+--- BLOCK ---
+Attach Long Barrel
+--- BLOCK ---
+Attach V.Zoom Scope
+--- BLOCK ---
+Attach Shield
+--- BLOCK ---
+Attach Power Barrel
+--- BLOCK ---
+Remove Limiter
+--- BLOCK ---
+Remove Limiter
+--- BLOCK ---
+Remove Silencer
+--- BLOCK ---
+Remove Long Barrel
+--- BLOCK ---
+Attach Fixed Scope
+--- BLOCK ---
+Remove Shield
+--- BLOCK ---
+Remove Power Barrel
+--- BLOCK ---
+Reinstall Limiter
+--- BLOCK ---
+Reinstall Limiter
+--- BLOCK ---
+A part loaned from the Armory.
+Dampens sound, making it hard
+for monsters to target the user.
+Also slightly reduces recoil.
+--- BLOCK ---
+A part loaned from the Armory.
+It increases Attack.
+--- BLOCK ---
+A part loaned from the Armory.
+It can be zoomed in and out by
+using the +Control Pad.
+--- BLOCK ---
+A part loaned from the Armory.
+Adding a Shield makes it possible
+to Auto-Guard.
+--- BLOCK ---
+A part loaned from the Armory.
+It increases Attack.
+--- BLOCK ---
+For Light Bowguns of Rarity 6 and up.
+Guns stay loaded even when ammo is
+switched. All ammo can be reloaded
+at once by pressing X and A Buttons.
+Shots cannot be fired rapidly.
+--- BLOCK ---
+For Heavy Bowguns of Rarity 6 and up.
+Further boosts Attack and permits
+WyvernFire ammo to be loaded.
+Handling is tougher, however, and
+Crouching Fire is not possible.
+--- BLOCK ---
+Removes the Silencer attachment
+from the weapon and returns it
+to the Armory.
+--- BLOCK ---
+Removes the Long Barrel attachment
+from the weapon and returns it
+to the Armory.
+--- BLOCK ---
+Removes the Variable Zoom Scope
+attachment from the weapon and
+restores the standard scope.
+--- BLOCK ---
+Removes the Shield attachment
+from the weapon and returns it
+to the Armory.
+--- BLOCK ---
+Removes the Power Barrel attachment
+from the weapon and returns it
+to the Armory.
+--- BLOCK ---
+For Light Bowguns of Rarity 6
+and up. Reinstalls the Limiter
+to the weapon.
+--- BLOCK ---
+For Heavy Bowguns of Rarity 6
+and up. Reinstalls the Limiter
+to the weapon.
+--- BLOCK ---
+(No Quests available.)
+--- BLOCK ---
+Upgrade
+--- BLOCK ---
+This equipment cannot be upgraded.
+--- BLOCK ---
+Cannot be upgraded any further.
+--- BLOCK ---
+Change Parts
+--- BLOCK ---
+Level Up
+--- BLOCK ---

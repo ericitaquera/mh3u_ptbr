@@ -3,7 +3,7 @@ TITLES_0=Grudge Match: R. Duramboros
 TITLES_1=Revanche : Duramboros r.
 TITLES_2=Zweikampf: Rost-Duramboros
 TITLES_3=Scontro: Duramboros ruggin.
-TITLES_4=Ajuste cuentas: Duramboros-H
+TITLES_4=Ajuste de contas: Duramboros-H
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Rust Duramboros
 OBJECTIVES_1=Tuer un Duramboros
@@ -22,8 +22,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -58,10 +58,11 @@ evolutiva dell'orribile coda ad ascia
 nel corpo di una creatura così
 nobile! Serve a uccidere i cacciatori
 divenuti troppo forti? Chi può dirlo!
-DESCRIPTIONS_4=¿Algún monstruólogo? Me
-muero por saber qué pinta esa
-fea cola con forma de hacha
-en el cuerpo de tan noble
-bestia. ¿Será para matar
-a los cazadores más fuertes?
-¡Solo los dioses lo saben!
+DESCRIPTIONS_4=“Algum monstrólogo por aqui?
+Morro de curiosidade pra saber
+o que faz esse rabo feioso em
+forma de machado no corpo de
+uma besta tão nobre.
+Será que é pra derrubar
+os caçadores mais fortes?
+Só os deuses sabem!”

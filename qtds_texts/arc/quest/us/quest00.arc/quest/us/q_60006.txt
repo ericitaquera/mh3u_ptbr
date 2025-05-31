@@ -3,13 +3,13 @@ TITLES_0=Grudge Match: Rathalos
 TITLES_1=Revanche : Rathalos
 TITLES_2=Zweikampf: Rathalos
 TITLES_3=Scontro: Rathalos
-TITLES_4=Ajuste de cuentas: Rathalos
+TITLES_4=Ajuste de contas: Rathalos
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Rathalos
 OBJECTIVES_1=Tuer un Rathalos
 OBJECTIVES_2=Erlege einen Rathalos.
 OBJECTIVES_3=Uccidi un Rathalos
-OBJECTIVES_4=Mata um Rathalos
+OBJECTIVES_4=Matar um Rathalos
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
 or time expires.
@@ -19,8 +19,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -56,10 +56,11 @@ così focosa che sputa fiamme
 dalle fauci! Stiamo aspettando
 un cacciatore che non abbia paura...
 e che indossi biancheria ignifuga!
-DESCRIPTIONS_4=¿Listos para una inyección
-bestial? La estrella de hoy
-es el rey de los cielos, una
-bestia tan caliente ¡que las
-llamas le salen de las fauces!
-Buscamos un cazador sin miedo
-que lleve calzones ignífugos.
+DESCRIPTIONS_4=Preparado pra uma injeção
+bestial? A estrela de hoje é o
+rei dos céus, uma fera tão
+quente que cospe fogo
+pelas ventas! Procuramos
+um caçador destemido — 
+e de preferência com
+cueca à prova de fogo!

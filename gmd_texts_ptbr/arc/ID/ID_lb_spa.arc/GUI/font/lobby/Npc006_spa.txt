@@ -143,13 +143,13 @@ Ah, já sei. Você é aquele caçador
 do qual não param de falar. Sou
 a responsável pela Pesca. Não se esqueça!
 --- BLOCK ---
-Tenho sorte de não termos nos conhecido
+Você tem sorte de não termos nos conhecido
 antes. O último terremoto me deixou de mau
 humor. Passei a metade da noite limpando!
 --- BLOCK ---
-E não é só isso, meus rapazes
-da Frota de Caça deveriam ter
-chegado faz tempo. Nunca demoram tanto.
+E não é só isso, meus rapazes da Frota de
+Caça deveriam ter chegado faz tempo.
+Nunca demoram tanto.
 --- BLOCK ---
 Estou muito preocupada! Se eu não soubesse
 que são feitos de ferro e fogo,

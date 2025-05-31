@@ -61,4 +61,10 @@ esaminare un Gigginox e
 un Gigginox malefico. Gli antidoti
 sono vitali fino a quando non
 perfezioniamo la medicina!
-DESCRIPTIONS_4=Não! A pesquisa do antídoto está estagnada. A próxima fase requer a dissecção de um Gigginox e um Gigginox aterrorizante. Não esqueça os antídotos até que aperfeiçoemos a medicina.
+DESCRIPTIONS_4=Não! A pesquisa do antídoto está
+estagnada. A próxima fase
+requer a dissecção de um
+Gigginox e um Gigginox
+aterrorizante. Não esqueça
+os antídotos até que
+aperfeiçoemos a medicina.

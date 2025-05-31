@@ -43,8 +43,8 @@ mover os itens para a
 Bolsa de itens. Experimente! Miau.
 --- BLOCK ---
 <SUBS 0>
-Além disso, você pode organizar sua equipe
-e seus Talismãs na Caixa de Itens, miau.
+Além disso, você pode organizar seus Talismãs
+e seu equipamento na Caixa de Itens, miau.
 --- BLOCK ---
 Se você organizar o conteúdo
 de vez em quando, sempre
@@ -104,7 +104,7 @@ e salvar o progresso.
 --- BLOCK ---
 Os itens coletados, excesso de armadura e
 coisas do tipo podem ser guardados
-na Caixa de itens do canto.
+na Caixa de itens ali no canto.
 --- BLOCK ---
 A Caixa de itens tem
 outro serviço: permite trocar de
@@ -124,9 +124,9 @@ Eu a tenho perfeitamente organizada.
 Também ajudo a ficar por dentro
 dos seus DLC (conteúdos para download).
 --- BLOCK ---
-Conecte-se à internet para encarar as
-missões e outros extras. É
-um jogo de filhotes, né?
+Conecte-se à internet para encarar
+as missões e outros extras. É
+brincadeira de criança, né?
 --- BLOCK ---
 Acho que já expliquei
 tudo. Será um prazer

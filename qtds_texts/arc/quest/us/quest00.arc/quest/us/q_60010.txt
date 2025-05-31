@@ -3,7 +3,7 @@ TITLES_0=Grudge Match: Sea Power
 TITLES_1=Revanche : pouvoir des mers
 TITLES_2=Zweikampf: Meeresmacht
 TITLES_3=Scontro: La forza del mare
-TITLES_4=Aj. cuentas: Poder marino
+TITLES_4=Aj. contas: Poder marinho
 [OBJECTIVES]
 OBJECTIVES_0=Slay all large monsters
 OBJECTIVES_1=Tuer tous les grands
@@ -11,7 +11,7 @@ monstres
 OBJECTIVES_2=Erlege alle großen
 Monster.
 OBJECTIVES_3=Uccidi tutti i mostri grandi
-OBJECTIVES_4=Mate todos los monstruos
+OBJECTIVES_4=Matar todos os monstros
 grandes
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
@@ -22,8 +22,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -59,10 +59,11 @@ wyvern subacquei anche se hanno
 le gambe, mentre i Gobul sono più
 simili ai pesci? Bisognerebbe
 chiederlo um wyvern.
-DESCRIPTIONS_4=¡Esto no son juegos de agua!
-Es un placer disfrutar de un
-Plesioth verde y de un Gobul.
-¿Sabéis que los Plesioth
-tienen patas, pero son wyverns
-piscine, y que los Gobul
-son peces? Estos wyverns...
+DESCRIPTIONS_4=“Isso não é brincadeira
+de pescaria! É um prazer
+ver um Plesioth Verde
+e um Gobul em ação.
+Sabiam que os Plesioth têm patas,
+mas são wyverns aquáticos,
+e que os Gobul são... peixes?
+Esses wyverns, viu...”

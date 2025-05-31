@@ -106,7 +106,7 @@ Arte de Armaduras
 --- BLOCK ---
 Adornos
 --- BLOCK ---
-Solic. Pop.
+Pedidos da Vila
 --- BLOCK ---
 Forjar Armas
 --- BLOCK ---
@@ -354,7 +354,7 @@ Gerar Recursos
 --- BLOCK ---
 Info de Recursos
 --- BLOCK ---
-Solic. Pop.
+Pedidos da Vila
 --- BLOCK ---
 Hoje
 --- BLOCK ---
@@ -761,7 +761,7 @@ Aprendeu: %s.
 --- BLOCK ---
 Pegar
 --- BLOCK ---
-Jogar
+Brincar
 --- BLOCK ---
 Mudar traje
 --- BLOCK ---
@@ -1173,7 +1173,7 @@ Gerar Recursos
 --- BLOCK ---
 Informações de Recursos
 --- BLOCK ---
-Solicitações pendentes
+Pedidos da Vila
 --- BLOCK ---
 Hoje
 --- BLOCK ---

@@ -34,8 +34,8 @@ direção à Floresta Moga.
 Use quando quiser!
 --- BLOCK ---
 <SUBS 0>
-Dê uma olhada na cachoeira à direita.
-Há algo mais, não é?
+Dê uma olhada na cachoeira à
+direita. Há algo mais, não é?
 --- BLOCK ---
 Há uma caverna atrás, com uma estátua
 antiga. Acho que tem algo a ver
@@ -45,8 +45,8 @@ com as ruínas da Floresta Moga.
 No tempo que você leva para completar uma
 missão, fazemos uma rodada de cultivo.
 --- BLOCK ---
-Isso é mais ou menos um dia inteiro
-aqui na Fazenda, então planeje suas viagens
+Isso é mais ou menos um dia inteiro aqui
+na Fazenda, então planeje suas viagens
 para a Floresta Moga de acordo.
 --- BLOCK ---
 <SUBS 0>
@@ -95,28 +95,28 @@ Oh, se não é o
 caçador do qual todo
 mundo fala. Que honra!
 --- BLOCK ---
-Você vê esta Fazenda, caçador? Ela alimenta
-toda a Vila Moga. Bem,
-não está faltando nada, não é?
+Você vê esta Fazenda, caçador? Ela
+alimenta toda a Vila Moga. Bem,
+não está faltando nada?
 --- BLOCK ---
 Isso mesmo: mão de obra! Este lugar
-costuma estar cheio de Felyne agricultores,
-miando para cá e para lá.
+costuma estar cheio de Felyne
+agricultores, miando para cá e para lá.
 --- BLOCK ---
 Mas o terremoto os assustou
 tanto que saíram daqui correndo.
 Os gatos medrosos me abandonaram.
 --- BLOCK ---
-Por isso os campos estão um
-verdadeiro chiqueiro... oh, desculpe, Sr. Porco.
+Por isso os campos estão um verdadeiro
+chiqueiro... oh, desculpe, Sr. Porco.
 Agora tenho que trabalhar sozinho!
 --- BLOCK ---
-Isso aqui é o que resta da
-antiga colheita. Vê esse brilho azul? Significa
-que é um cogumelo de alta qualidade.
+Isso aqui é o que resta da antiga colheita.
+Vê esse brilho azul? Significa que é um
+cogumelo de alta qualidade.
 --- BLOCK ---
-Você pode comê-lo sozinho. Eu
-recomendaria combiná-lo com algo. Vamos,
+Você pode comê-lo sozinho. Recomendaria
+combiná-lo com algo. Vamos,
 pegue e faça algo bom.
 --- BLOCK ---
 Olhe só!

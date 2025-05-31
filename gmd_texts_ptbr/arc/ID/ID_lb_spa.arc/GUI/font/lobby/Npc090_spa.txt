@@ -28,24 +28,24 @@ Reconheço que a única coisa que me
 preocupa é queimar a língua. Acho que
 sou um gato medroso! Ha, ha, ha!
 --- BLOCK ---
-Por isso, às vezes nem mesmo
-provo minhas próprias iguarias. Espero que
+Por isso, às vezes nem mesmo provo
+minhas próprias iguarias. Espero que
 possa perdoar este Felyne por isso.
 --- BLOCK ---
-Tanzia é sagrada para os chefs. Há
-pessoas que vêm de todos os cantos
-para negociar, e isso são provisões raras!
+Tanzia é sagrada para os chefs. Há pessoas
+que vêm de todos os cantos para negociar,
+e isso são provisões raras!
 --- BLOCK ---
-Foi isso que me trouxe a este
-rodeio, tigre. Um chef é tão
-bom quanto seu pior ingrediente, miau?
+Foi isso que me trouxe a este rodeio,
+tigre. Um chef é tão bom quanto seu
+pior ingrediente, miau?
 --- BLOCK ---
-Então você deveria experimentar os pratos
-mais saborosos de Tanzia antes
+Então você deveria experimentar os
+pratos mais saborosos de Tanzia antes
 de sair para uma caçada!
 --- BLOCK ---
-Miauu! Eu AMO falar de
-comida, tigre. Fico empolgado rapidinho!
+Miauu! Eu AMO falar de comida, tigre.
+Fico empolgado rapidinho!
 É um assunto PICANTE!
 --- BLOCK ---
 *Cheira* Falando em picante, você
@@ -67,40 +67,40 @@ Mas também não exagere. Algumas
 combinações podem ser um pouco
 perigosas para a Saúde.
 --- BLOCK ---
-Quando você e seus colegas voltarem da caçada,
-nada melhor do que uma caneca gelada
+Quando você e seus colegas voltarem da
+caçada, nada melhor do que uma caneca gelada
 de Mosto de Tanzia para contar histórias!
 --- BLOCK ---
-Trocar histórias! Vender lixo. Compartilhar suas
-melhores dicas. Ah, ISSO é
+Trocar histórias! Vender lixo. Compartilhar
+suas melhores dicas. Ah, ISSO é
 a vida de um caçador!
 --- BLOCK ---
-E deixe-nos trazer comida fresquinha para
-você! Nada nos agrada mais! Miauu!
+E deixe-nos trazer comida fresquinha
+para você! Nada nos agrada mais! Miauu!
 --- BLOCK ---
-Miauu, tigre! Ei, já se perguntou
-por que a Guilda nos permitiu
-abrir este grande estabelecimento culinário?
+Miauu, tigre! Ei, já se perguntou por que
+a Guilda nos permitiu abrir este grande
+estabelecimento culinário?
 --- BLOCK ---
 Porque a Guilda gosta que nossa comida
 traga o melhor dos seus caçadores!
 --- BLOCK ---
-Claro que fazemos mais do que
-aprimorar suas habilidades. Aqui os moradores
+Claro que fazemos mais do que aprimorar
+suas habilidades. Aqui os moradores
 relaxam e comem junto à fogueira!
 --- BLOCK ---
 Dê uma passada e pegue um petisco antes
 de partir. Vou te colocar no melhor lugar!
 --- BLOCK ---
-Bem, veja só o que os
-Felyne trouxeram. Bem-vindo ao churrasco Tanzyne!
+Bem, veja só o que os Felyne trouxeram.
+Bem-vindo ao churrasco Tanzyne!
 --- BLOCK ---
 Conhece nosso lema, não é? "Preparamos
 nossos rabos no ponto, mas nossa
 carne está sempre no ponto!"
 --- BLOCK ---
-Agora relaxe e deixe o mestre
-da churrasqueira fazer sua mágica. Miauu!
+Agora relaxe e deixe o mestre da
+churrasqueira fazer sua mágica. Miauu!
 --- BLOCK ---
 Miau miau miau, miau miau miau ♪
 Miau miau miau, miau miau miau ♪
@@ -114,11 +114,11 @@ Miau miau miau! ♪
 --- BLOCK ---
 Delicioso, delicioso!
 --- BLOCK ---
-Sabe que a carne está pronta
-quando adquire aquele lindo tom dourado.
+Sabe que a carne está pronta quando
+adquire aquele lindo tom dourado.
 --- BLOCK ---
-Quando avivar o fogo da sua grelha,
-não perca de vista a cor!
+Quando avivar o fogo da sua
+grelha, não perca de vista a cor!
 --- BLOCK ---
 Miau miau miau, miau miau miau ♪
 --- BLOCK ---
@@ -134,10 +134,10 @@ Miau miau miau! ♪
 Delicioso, delicioso!
 --- BLOCK ---
 Sabe? Até o melhor chef de churrasco
-tem dias ruins. Céus, antes eu
-fazia bifes mal passados por acidente.
+tem dias ruins. Céus, antes eu fazia
+bifes mal passados por acidente.
 --- BLOCK ---
-Mas então combinava o bife mal
+Mas então combinava o bife mal 
 passado com um Catalisador para fazer
 o saboroso Suco de poder! Mmmmmiau!
 --- BLOCK ---
@@ -184,11 +184,11 @@ Delicioso, delicioso!
 Miauu! Você sempre será
 bem-vindo por aqui, tigre!
 --- BLOCK ---
-Passei toda a minha vida assando carne.
-Você não pode superar uma experiência assim.
+Passei toda a vida assando carne. Você
+não pode superar uma experiência assim.
 --- BLOCK ---
-E hoje vou assar como um
-gato andando sobre brasas! Não perca!
+E hoje vou assar como um gato
+andando sobre brasas! Não perca!
 --- BLOCK ---
 Miau miau miau, miau miau miau ♪
 --- BLOCK ---
@@ -246,9 +246,9 @@ Delicioso, delicioso!
 --- BLOCK ---
 Ah! Espere um momento!
 --- BLOCK ---
-Tenho que me concentrar, tigre! Vou deixar
-meu chef interior rugir como um
-leão! O tempo é tudo, sabe?
+Tenho que me concentrar, tigre! Vou
+deixar meu chef interior rugir como
+um leão! O tempo é tudo, sabe?
 --- BLOCK ---
 Preciso da sua ajuda, tigre! Você
 tem que cantar esta solitária
@@ -299,8 +299,8 @@ fiz isso para ti!
 Dou-te as boas-vindas! O
 que vai ser, tigre?
 --- BLOCK ---
-Tome! Prove esta
-obra-prima culinária, tigre!
+Tome! Prove esta obra-prima
+culinária, tigre!
 --- BLOCK ---
 (!)
 --- BLOCK ---

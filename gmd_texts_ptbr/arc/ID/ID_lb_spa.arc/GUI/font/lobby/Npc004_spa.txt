@@ -240,13 +240,13 @@ Venha me ver quando tiver o suficiente.
 Primeiro, transforme suas presas em
 Recursos selecionando Relatório de caça.
 --- BLOCK ---
-Depois, selecione Pedidos pob. e
+Depois, selecione Pedidos da Vila e
 você poderá dedicar os Recursos
 às necessidades da vila.
 --- BLOCK ---
 Os aldeões podem fazer outras
 solicitações no futuro. Você também
-usará Pedidos pob. para consultá-las.
+usará Pedidos da Vila para consultá-las.
 --- BLOCK ---
 <SUBS 0>
 O Artesão wyverniano estava te procurando.
@@ -262,11 +262,11 @@ machuquei procurando mineral para ele um dia.
 --- BLOCK ---
 Siga os conselhos de Juni... digo, meus
 conselhos. Primeiro, sempre leve uma Picareta,
-porque não dá para picar com as mãos.
+porque não dá para minerar com as mãos.
 --- BLOCK ---
 Em cavernas e áreas rochosas, explore
-ao redor. Olhe bem e você
-notará pedaços de cores diferentes.
+ao redor. Olhe bem e você notará
+pedaços de cores diferentes.
 --- BLOCK ---
 Se o ícone de uma Picareta aparecer sobre sua
 cabeça quando se aproximar, bingo!

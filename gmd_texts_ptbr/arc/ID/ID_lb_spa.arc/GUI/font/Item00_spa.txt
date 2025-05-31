@@ -392,7 +392,7 @@ Cogumelo dragão
 --- BLOCK ---
 Paracogumelo
 --- BLOCK ---
-Bag. tinta
+Baga tinta
 --- BLOCK ---
 Semente poder
 --- BLOCK ---
@@ -402,11 +402,11 @@ Semente dragão
 --- BLOCK ---
 Noz frágil
 --- BLOCK ---
-Baguio agulha
+Baga agulha
 --- BLOCK ---
 DUMMY 12
 --- BLOCK ---
-Baguio bomba
+Baga bomba
 --- BLOCK ---
 DUMMY 13
 --- BLOCK ---

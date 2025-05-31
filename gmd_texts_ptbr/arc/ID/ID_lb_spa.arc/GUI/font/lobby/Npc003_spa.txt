@@ -175,7 +175,7 @@ Antes de poder trabalhar para a
 Guilda, deve pagar uma Taxa.
 --- BLOCK ---
 Recupera se completar a missão. É uma
-espécie de seguro. Coçar o chão com
+espécie de seguro. Raspar o chão com
 uma espátula custa caro! He, he.
 --- BLOCK ---
 Para ser sincera, muitos caçadores

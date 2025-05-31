@@ -733,7 +733,7 @@ nicioso que acaba de se mudar pra cá.
 --- BLOCK ---
 Com um tirano assim nos agredindo, 
 nossa frota de pesca teria sorte de
-sobrevivesse e voltar com uma boa pesca.
+sobreviver e voltar com uma boa pesca.
 --- BLOCK ---
 Pelo menos não morreremos de fome. 
 Estes malditos terremotos nos afundarão
@@ -741,14 +741,14 @@ primeiro! Veja, este é o nosso problema.
 --- BLOCK ---
 Você percebeu estes tremores? Quem sabe
 o que os está causando e o por quê de
-começarem, mas o mar está enfurecido.
+começarem? Mas o mar está enfurecido.
 --- BLOCK ---
 De qualquer modo, estamos cansados.
 É aqui que você entra, jovem. Na minha
 opinião, precisamos de um caçador
 --- BLOCK ---
 Sim, o Lagiacrus é poderoso, muito 
-poderoso. Demais para qualquer humano. 
+poderoso. "Demais para qualquer humano."
 São as fofocas dos aldeões. Bah!!!
 --- BLOCK ---
 Forte é uma coisa, mas invencível é 
@@ -759,7 +759,7 @@ E um dia, assim como todos nós, terá que
 morrer... Sim, se eu tivesse 30 anos a
 menos, eu mesmo me encarregaria dele.
 --- BLOCK ---
-Porém também sou mortal, logo vou deixar
+Porém também sou mortal, logo, vou deixar
 o prazer de dominar o inimigo mais selvagem
 do mar a alguém jovem como você.
 --- BLOCK ---
@@ -839,7 +839,7 @@ causas mais perdidas do que esta! Você
 acha que esta vila se construiu sozinha?
 --- BLOCK ---
 Só é preciso um pouco de trabalho em
-equipamento. Se você e os aldeões unirem
+equipe. Se você e os aldeões unirem
 forças, você conseguirá o que quer!
 --- BLOCK ---
 Sabe de uma coisa: você reúne os Recursos
@@ -860,7 +860,7 @@ melhor que você vá caçar monstros.
 --- BLOCK ---
 Não se esqueça de itens como as ervas.
 Herbívoros e insetos não são grande
-coisa, mas os carnívoros MORDERAM.
+coisa, mas os carnívoros MORDEM.
 --- BLOCK ---
 Estar preparado não faz mal, não estar,
 sim! Então lembre-se: leve alguma coisa
@@ -942,8 +942,8 @@ alguns conselhos. Saia quando quiser!
 Para pescar você precisará de um arpão.
 Eles são fáceis de usar.
 --- BLOCK ---
-É como mover uma picareta ou uma redinha
-de mosquito. Procure peixinhos com cara de
+É como mover uma Picareta ou uma Rede de
+insetos. Procure peixinhos com cara de
 peixes-lua debaixo d'água e fure-os!
 --- BLOCK ---
 Com o Arpão, um bom caçador como você,

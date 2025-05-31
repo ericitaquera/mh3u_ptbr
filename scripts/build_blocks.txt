@@ -81,14 +81,14 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
 
 Applet_Text_spa.gmd
 
-echo "Este GMD não pode ser editado com os scripts!!!"
+echo "Este GMD não pode ser extraído com os scripts!!! É necessário extrair o cabeçalho manualmente"
 
-#py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\ngword\Applet_Text_spa.txt
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\ngword\Applet_Text_spa.txt
 
-#copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\ngword\Applet_Text_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_stmenu_spa.arc\GUI\font\ngword\Applet_Text_spa.gmd
+copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\ngword\Applet_Text_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_stmenu_spa.arc\GUI\font\ngword\Applet_Text_spa.gmd
 
-#py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_stmenu_spa.arc
-#py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_stmenu_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
 
 ---
 
@@ -1092,6 +1092,8 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
 
 NG_Word_US_spa.gmd
 
+echo "Não é necessário traduzir nenhuma linha deste GMD."
+
 #py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\ngword\NG_Word_US_spa.txt
 
 #copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\ngword\NG_Word_US_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_stmenu_spa.arc\GUI\font\ngword\NG_Word_US_spa.gmd
@@ -1413,6 +1415,17 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
 
 ---
 
+Npc073_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc073_spa.txt
+
+copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc073_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc073_spa.gmd
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
+
+---
+
 Npc074_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc074_spa.txt
@@ -1534,14 +1547,14 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
 
 ---
 
-#Npc086_spa.gmd
+Npc086_spa.gmd
 
-#py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc086_spa.txt
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc086_spa.txt
 
-#copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc086_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc086_spa.gmd
+copy $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc\GUI\font\lobby\Npc086_spa.gmd $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc\GUI\font\lobby\Npc086_spa.gmd
 
-#py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
-#py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_lb_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_arena_spa.arc
 
 ---
 
@@ -1788,7 +1801,12 @@ QNTalk009_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_09_spa.arc\GUI\font\quest\QNTalk009_spa.txt
 
+copy C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\msg\ID_qnpc_09_spa.arc\GUI\font\quest\QNTalk009_spa.gmd C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\ID_res_spa.arc\GUI\font\quest\QNTalk009_spa.gmd
+copy C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\msg\ID_qnpc_09_spa.arc\GUI\font\quest\QNTalk009_spa.gmd C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\ID_cock_spa.arc\GUI\font\quest\QNTalk009_spa.gmd
+
 py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_09_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_res_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_cock_spa.arc
 
 ---
 
@@ -1796,7 +1814,12 @@ QNTalk010_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_10_spa.arc\GUI\font\quest\QNTalk010_spa.txt
 
+copy C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\msg\ID_qnpc_10_spa.arc\GUI\font\quest\QNTalk010_spa.gmd C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\ID_cock_spa.arc\GUI\font\quest\QNTalk010_spa.gmd
+copy C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\msg\ID_qnpc_10_spa.arc\GUI\font\quest\QNTalk010_spa.gmd C:\tmp\mh3u_ptbr\arc_extracted\arc\ID\ID_res_spa.arc\GUI\font\quest\QNTalk010_spa.gmd
+
 py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_10_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_cock_spa.arc
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\ID_res_spa.arc
 
 ---
 
@@ -1856,11 +1879,59 @@ py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_17_spa.arc
 
 ---
 
+QNTalk018_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_18_spa.arc\GUI\font\quest\QNTalk018_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_18_spa.arc
+
+---
+
+QNTalk019_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_19_spa.arc\GUI\font\quest\QNTalk019_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_19_spa.arc
+
+---
+
+QNTalk020_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_20_spa.arc\GUI\font\quest\QNTalk020_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_20_spa.arc
+
+---
+
+QNTalk021_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_21_spa.arc\GUI\font\quest\QNTalk021_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_21_spa.arc
+
+---
+
 QNTalk022_L_spa.gmd
 
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_22_spa.arc\GUI\font\quest\QNTalk022_L_spa.txt
 
 py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_22_spa.arc
+
+---
+
+QNTalk023_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_23_spa.arc\GUI\font\quest\QNTalk023_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_23_spa.arc
+
+---
+
+QNTalk024_L_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_24_spa.arc\GUI\font\quest\QNTalk024_L_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_24_spa.arc
 
 ---
 
@@ -1877,6 +1948,14 @@ QNTalk026_spa.gmd
 py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_26_spa.arc\GUI\font\quest\QNTalk026_spa.txt
 
 py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_26_spa.arc
+
+---
+
+QNTalk027_spa.gmd
+
+py .\repack_gmd.py $env:BASE_DIR\gmd_texts_ptbr\arc\ID\msg\ID_qnpc_27_spa.arc\GUI\font\quest\QNTalk027_spa.txt
+
+py .\repack_arc.py $env:BASE_DIR\arc_extracted\arc\ID\msg\ID_qnpc_27_spa.arc
 
 ---
 

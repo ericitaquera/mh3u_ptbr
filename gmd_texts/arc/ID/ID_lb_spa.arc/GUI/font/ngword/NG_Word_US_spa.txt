@@ -1,0 +1,240 @@
+ENG1
+--- BLOCK ---
+ENG1_END
+--- BLOCK ---
+Ā
+--- BLOCK ---
+ā
+--- BLOCK ---
+Ă
+--- BLOCK ---
+ă
+--- BLOCK ---
+Ą
+--- BLOCK ---
+ą
+--- BLOCK ---
+Ć
+--- BLOCK ---
+ć
+--- BLOCK ---
+Ċ
+--- BLOCK ---
+ċ
+--- BLOCK ---
+Č
+--- BLOCK ---
+č
+--- BLOCK ---
+Ď
+--- BLOCK ---
+ď
+--- BLOCK ---
+Ē
+--- BLOCK ---
+ē
+--- BLOCK ---
+Ė
+--- BLOCK ---
+ė
+--- BLOCK ---
+Ę
+--- BLOCK ---
+ę
+--- BLOCK ---
+Ě
+--- BLOCK ---
+ě
+--- BLOCK ---
+Ğ
+--- BLOCK ---
+ğ
+--- BLOCK ---
+Ġ
+--- BLOCK ---
+ġ
+--- BLOCK ---
+Ģ
+--- BLOCK ---
+ģ
+--- BLOCK ---
+Ħ
+--- BLOCK ---
+ħ
+--- BLOCK ---
+Ī
+--- BLOCK ---
+ī
+--- BLOCK ---
+Į
+--- BLOCK ---
+į
+--- BLOCK ---
+İ
+--- BLOCK ---
+ı
+--- BLOCK ---
+Ĳ
+--- BLOCK ---
+ĳ
+--- BLOCK ---
+Ķ
+--- BLOCK ---
+ķ
+--- BLOCK ---
+Ĺ
+--- BLOCK ---
+ĺ
+--- BLOCK ---
+Ļ
+--- BLOCK ---
+ļ
+--- BLOCK ---
+Ľ
+--- BLOCK ---
+ľ
+--- BLOCK ---
+Ł
+--- BLOCK ---
+ł
+--- BLOCK ---
+Ń
+--- BLOCK ---
+ń
+--- BLOCK ---
+Ņ
+--- BLOCK ---
+ņ
+--- BLOCK ---
+Ň
+--- BLOCK ---
+ň
+--- BLOCK ---
+Ő
+--- BLOCK ---
+ő
+--- BLOCK ---
+Ŕ
+--- BLOCK ---
+ŕ
+--- BLOCK ---
+Ř
+--- BLOCK ---
+ř
+--- BLOCK ---
+Ś
+--- BLOCK ---
+ś
+--- BLOCK ---
+Ş
+--- BLOCK ---
+ş
+--- BLOCK ---
+Ť
+--- BLOCK ---
+ť
+--- BLOCK ---
+Ū
+--- BLOCK ---
+ū
+--- BLOCK ---
+Ů
+--- BLOCK ---
+ů
+--- BLOCK ---
+Ű
+--- BLOCK ---
+ű
+--- BLOCK ---
+Ų
+--- BLOCK ---
+ų
+--- BLOCK ---
+Ź
+--- BLOCK ---
+ź
+--- BLOCK ---
+Ż
+--- BLOCK ---
+ż
+--- BLOCK ---
+Ž
+--- BLOCK ---
+ž
+--- BLOCK ---
+ǅ
+--- BLOCK ---
+ǆ
+--- BLOCK ---
+ǲ
+--- BLOCK ---
+ǳ
+--- BLOCK ---
+Ț
+--- BLOCK ---
+ț
+--- BLOCK ---
+ˇ
+--- BLOCK ---
+˘
+--- BLOCK ---
+˙
+--- BLOCK ---
+˛
+--- BLOCK ---
+;
+--- BLOCK ---
+΄
+--- BLOCK ---
+΅
+--- BLOCK ---
+Ά
+--- BLOCK ---
+·
+--- BLOCK ---
+Έ
+--- BLOCK ---
+Ή
+--- BLOCK ---
+Ί
+--- BLOCK ---
+Ό
+--- BLOCK ---
+Ύ
+--- BLOCK ---
+Ώ
+--- BLOCK ---
+ΐ
+--- BLOCK ---
+Ϊ
+--- BLOCK ---
+Ϋ
+--- BLOCK ---
+ά
+--- BLOCK ---
+έ
+--- BLOCK ---
+ή
+--- BLOCK ---
+ί
+--- BLOCK ---
+ΰ
+--- BLOCK ---
+ς
+--- BLOCK ---
+ϊ
+--- BLOCK ---
+ϋ
+--- BLOCK ---
+ό
+--- BLOCK ---
+ύ
+--- BLOCK ---
+ώ
+--- BLOCK ---
+‛
+--- BLOCK ---
+&<;
+--- BLOCK ---
+&>;
+--- BLOCK ---

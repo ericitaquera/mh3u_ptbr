@@ -125,7 +125,7 @@ Querem chorar, monstros? Venham!
 Oh, hmmm.
 --- BLOCK ---
 Quer matar monstros à
-distância? Aqui está sua
+distância? Aqui está suapicar
 amiga, a Balestra!
 --- BLOCK ---
 As Balestras são muito diferentes das
@@ -216,8 +216,8 @@ Toque melodias inspiradoras misturando tons
 que fortaleçam você e seus aliados. É
 mais do que apenas apoio moral!
 --- BLOCK ---
-¿Quer voar como um Bnahabra
-e picar como um
+Quer voar como um Bnahabra
+e ferroar como um
 Vespoid? Use Espadas duplas!
 --- BLOCK ---
 Essas espadas picam e cortam no ar.
