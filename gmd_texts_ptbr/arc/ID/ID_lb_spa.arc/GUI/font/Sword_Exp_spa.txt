@@ -283,11 +283,11 @@ raio; seu portador se
 torna um furioso redemoinho.
 --- BLOCK ---
 Espada branca que parece
-um Lagiacrus marmóreo. Faz
+um Lagiacrus marfim. Faz
 tremer os sete mares.
 --- BLOCK ---
 Espada branca que parece
-um Lagiacrus marmóreo. Faz
+um Lagiacrus marfim. Faz
 tremer os sete mares.
 --- BLOCK ---
 Encarnação de um Lagiacrus
@@ -491,11 +491,11 @@ Parece que poderia ser
 combinada com seu escudo...
 --- BLOCK ---
 Fio curto com atributos de
-água que melhoram o Afiamento.
+água que melhoram o Afiação.
 O sangue se limpa sozinho.
 --- BLOCK ---
 Fio curto com atributos de
-água que melhoram o Afiamento.
+água que melhoram o Afiação.
 O sangue se limpa sozinho.
 --- BLOCK ---
 De potencial ignorado. Talvez

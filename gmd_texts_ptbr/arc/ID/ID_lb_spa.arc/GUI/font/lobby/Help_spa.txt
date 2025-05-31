@@ -13,10 +13,10 @@ TMSG_RESULT
 TMSG_ARENA
 --- BLOCK ---
 Leia sobre os monstros que
-habitam na Floresta de Moga.
+habitam na Floresta Moga.
 --- BLOCK ---
 Ofereça monstros caçados na Floresta
-de Moga para o
+Moga para o
 povo transformá-los em Recursos.
 --- BLOCK ---
 Ofereça itens ao povo
@@ -29,14 +29,14 @@ Entregue aos habitantes locais
 os itens que solicitaram.
 --- BLOCK ---
 Ainda não há informações sobre a
-Floresta de Moga. Volte mais tarde.
+Floresta Moga. Volte mais tarde.
 --- BLOCK ---
 Veja a previsão do tempo para a
-Floresta de Moga nos próximos três dias.
+Floresta Moga nos próximos três dias.
 <COLO 5>Botão Y: Mapa Botão X: Dia/Noite
 --- BLOCK ---
 Veja uma previsão do tempo para
-a Floresta de Moga durante três
+a Floresta Moga durante três
 dias. <COLO 5>Botão Y: Ver mapa
 --- BLOCK ---
 Veja suas façanhas de caça.
@@ -143,8 +143,8 @@ Quantos deseja vender?
 Serão %d z.
 Deseja continuar?
 --- BLOCK ---
-Total de %d
-z. Continuar venda?
+Total de %d z.
+Continuar venda?
 --- BLOCK ---
 Compra realizada.
 --- BLOCK ---
@@ -457,13 +457,13 @@ Selecione o que deseja levar.
 --- BLOCK ---
 Quantos deseja?
 --- BLOCK ---
-Escolha onde colocar o objeto.
+Escolha onde colocar o item.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Você pegou o objeto.
+Você pegou o item.
 --- BLOCK ---
-Ordenar objetos conforme mostrado?
+Ordenar itens conforme mostrado?
 --- BLOCK ---
 Selecione o primeiro
 material para combinar.
@@ -475,15 +475,15 @@ Continue com a combinação escolhida.
 --- BLOCK ---
 Cancelar o processo de combinação.
 --- BLOCK ---
-Escolha qual objeto alterar.
+Escolha qual item alterar.
 --- BLOCK ---
 Mover para qual posição?
 --- BLOCK ---
-Selecione o objeto que deseja vender.
+Selecione o item que deseja vender.
 --- BLOCK ---
 Quantos deseja vender?
 --- BLOCK ---
-Ordenar objetos?
+Ordenar itens?
 --- BLOCK ---
  <COLO 2>A bolsa está cheia.
 --- BLOCK ---
@@ -526,7 +526,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Ordenar objetos conforme mostrado?
+Ordenar itens conforme mostrado?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -542,7 +542,7 @@ Trocando equipamento...
 --- BLOCK ---
 Selecione o talismã para equipar.
 --- BLOCK ---
-Este objeto possui adornos. O
+Este item possui adornos. O
 total, incluindo adornos, é de
 %d z. Deseja continuar?
 --- BLOCK ---
@@ -699,7 +699,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Cultive novos objetos na Fazenda.
+Cultive novos itens na Fazenda.
 --- BLOCK ---
 Mostre e colha a colheita.
 --- BLOCK ---
@@ -711,11 +711,11 @@ Continuar com o cultivo?
 --- BLOCK ---
 Qual Felyne deseja designar para a tarefa?
 --- BLOCK ---
-Escolha um objeto para cultivar.
+Escolha um item para cultivar.
 --- BLOCK ---
-Escolha o objeto que deseja cultivar.
+Escolha o item que deseja cultivar.
 --- BLOCK ---
-Você não tem objetos para cultivar.
+Você não tem itens para cultivar.
 --- BLOCK ---
 Escolha quantas unidades deseja cultivar.
 --- BLOCK ---
@@ -727,7 +727,7 @@ Escolha o Fertilizante que deseja usar.
 --- BLOCK ---
 (Não possui Fertilizante).
 --- BLOCK ---
-Serão usados o objeto e o
+Serão usados o item e o
 Fertilizante escolhidos para o cultivo.
 --- BLOCK ---
 Cancelar uma solicitação de cultivo.
@@ -798,7 +798,7 @@ Cancelar troca?
 --- BLOCK ---
 Escolha os locais para o Argosy ir.
 --- BLOCK ---
-Escolha um objeto para auxiliar na viagem.
+Escolha um item para auxiliar na viagem.
 --- BLOCK ---
 Solicitar uma viagem com estas paradas.
 --- BLOCK ---
@@ -824,11 +824,11 @@ Escolher esta missão?
 <COLO 5>(Selecione a mesma Ajuda novamente
 em uma viagem para removê-lo).</COLO>
 --- BLOCK ---
-Selecione os objetos para entrega.
+Selecione os itens para entrega.
 --- BLOCK ---
  <COLO 2>(Você não cumpre os requisitos de entrega).
 --- BLOCK ---
-Entregar os objetos necessários?
+Entregar os itens necessários?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -881,7 +881,7 @@ Selecione o primeiro ingrediente.
 Selecione um segundo ingrediente.
 --- BLOCK ---
 <COLO 5>(Ingredientes com alto ★ irão
-melhorar sua saúde).</COLO>
+melhorar sua Saúde).</COLO>
 --- BLOCK ---
 <COLO 5>(Cada combinação de ingredientes
 tem um efeito diferente.).</COLO>
@@ -1126,11 +1126,11 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Selecione os objetos
+Selecione os itens
 que deseja levar.
 --- BLOCK ---
-Escolha os objetos para enviar
-para a Caixa de objetos.
+Escolha os itens para enviar
+para a Caixa de itens.
 --- BLOCK ---
 Concluir a coleta.
 --- BLOCK ---
@@ -1247,29 +1247,29 @@ Entrar
 Ajustar suas preferências de missão
 de Caçadores a Soldo.
 --- BLOCK ---
-Colocar objetos de recompensa
-na Bolsa de objetos.
+Colocar itens de recompensa
+na Bolsa de itens.
 --- BLOCK ---
-Colocar objetos de recompensa
-na Caixa de objetos.
+Colocar itens de recompensa
+na Caixa de itens.
 --- BLOCK ---
-Vender todos os objetos
+Vender todos os itens
 de recompensa restantes.
 --- BLOCK ---
 Concluir a coleta.
 --- BLOCK ---
-Selecione os objetos
+Selecione os itens
 que deseja levar.
 --- BLOCK ---
-Escolha os objetos para enviar
-para a Caixa de objetos.
+Escolha os itens para enviar
+para a Caixa de itens.
 --- BLOCK ---
 Total de %d z.
 Continuar a venda?
 --- BLOCK ---
-Escolha o objeto a ser substituído.
+Escolha o item a ser substituído.
 --- BLOCK ---
-Avaliar qualquer objeto não avaliado.
+Avaliar qualquer item não avaliado.
 --- BLOCK ---
 Avaliando...
 --- BLOCK ---
@@ -1281,7 +1281,7 @@ para sua Caixa de equipamentos.
 Sua seleção será enviada para
 sua Caixa de equipamentos.
 --- BLOCK ---
-Objetos não avaliados serão enviados
+Itens não avaliados serão enviados
 para a Caixa de avaliação.
 --- BLOCK ---
  <COLO 2>Você não pode carregar mais.

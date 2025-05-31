@@ -1,0 +1,83 @@
+TMSG_NPC089_0
+--- BLOCK ---
+TMSG_NPC089_1
+--- BLOCK ---
+TMSG_NPC089_2
+--- BLOCK ---
+TMSG_NPC089_3
+--- BLOCK ---
+TMSG_NPC089_4
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Sabías que el Zumo de poder se hace con
+un Filete poco hecho y un Catalizador?
+--- BLOCK ---
+<SUBS 0>
+¡Combina Miel y un Bicho amargo para
+hacer un Catalizador, la base de todo!
+--- BLOCK ---
+Qué raro. Los Catalizadores se hacen con
+Bichos amargos, pero son más dulces que
+la Miel. ¿Se venderán como caramelos?
+--- BLOCK ---
+¡Oh, hola! Soy la vendedora
+de la tienda del Gremio.
+--- BLOCK ---
+Los del Gremio dicen que podría vender
+un abrigo de piel a un Felyne. ¡Pero no
+soy una mercachifle! ¡De verdad!
+--- BLOCK ---
+¿Acaso una mercachifle te recordaría
+llevar Pociones y Piedras de afilar a
+cazar? ¡Y munición si eres Artillero!
+--- BLOCK ---
+Tienes que recordar llevarte todo tipo
+de cosas. ¡Solo miro por tu interés!
+--- BLOCK ---
+¡En eso consiste la tienda del Gremio!
+Hacemos lo que podemos para apoyaros...
+Desde la seguridad del mostrador, claro.
+--- BLOCK ---
+No puedo ayudarte cuando estás cazando,
+¡así que deja todo preparado aquí
+antes de partir!
+--- BLOCK ---
+¡Aquí está la tienda del Gremio!
+--- BLOCK ---
+¡La tienda del Gremio te abre su puerta!
+--- BLOCK ---
+Hola, cazador. ¡Bueno, bonito y barato!
+--- BLOCK ---
+¡Te estaba esperando! Por cierto...
+--- BLOCK ---
+¡Vuelve pronto! ¡Te estaré esperando!
+--- BLOCK ---
+Es elegante comprar algo antes de irte.
+--- BLOCK ---
+Gracias por el apoyo.
+--- BLOCK ---
+Vuelve pronto. Para mirar, charlar,
+gastar tus ahorros... ¡lo que sea!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+No importa si quieres mirar un poco.
+¡Pero compra mucho!
+--- BLOCK ---
+Hoy tenemos grandes artículos a la
+venta. ¡Mira por ahí!
+--- BLOCK ---
+Este es mi nuevo eslogan: "¡Arrasa la
+tienda del Gremio antes de que los
+monstruos te arrasen a ti!"
+--- BLOCK ---
+¡Bien! ¡Vamos a echar un vistazo
+a lo que tenemos hoy!
+--- BLOCK ---
+¿Seguro que no se te olvida nada?
+¡No tengo problema en aceptar tus zenis!
+--- BLOCK ---

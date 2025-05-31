@@ -571,11 +571,11 @@ duras de Lagiacrus.
 Agudizam os sentidos.
 --- BLOCK ---
 Joelheiras de osso de
-Lagiacrus marmóreo. Brilham com
+Lagiacrus marfim. Brilham com
 um tom roxo.
 --- BLOCK ---
 Joelheiras de osso de
-Lagiacrus marmóreo. Para
+Lagiacrus marfim. Para
 caçar debaixo d'água.
 --- BLOCK ---
 Joelheiras de Rathalos.
@@ -979,11 +979,11 @@ de Lagiacrus. Para
 caçar debaixo d'água.
 --- BLOCK ---
 Joelheiras de osso de
-Lagiacrus marmóreo. Brilham com
+Lagiacrus marfim. Brilham com
 um tom roxo.
 --- BLOCK ---
 Joelheiras de osso de
-Lagiacrus marmóreo. Para
+Lagiacrus marfim. Para
 caçar debaixo d'água.
 --- BLOCK ---
 Joelheiras de Lagiacrus

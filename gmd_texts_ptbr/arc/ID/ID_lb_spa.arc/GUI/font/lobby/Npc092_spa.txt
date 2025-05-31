@@ -1,0 +1,459 @@
+TMSG_NPC092_0
+--- BLOCK ---
+TMSG_NPC092_1
+--- BLOCK ---
+TMSG_NPC092_2
+--- BLOCK ---
+TMSG_NPC092_3
+--- BLOCK ---
+TMSG_NPC092_4
+--- BLOCK ---
+<SUBS 0>
+Você quer ir com Cha-Cha
+em uma missão-missão?
+--- BLOCK ---
+Shaka-laka-bing-bang! A vitória
+será nossa!
+--- BLOCK ---
+Cha-Cha não quer missão-missão
+agora. <SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Cha-chá? Você deixar Cha-Chá para
+trás? Manter bem-forte?
+--- BLOCK ---
+Chaah. Cha-Cha gosta
+de relaxar
+às vezes.
+--- BLOCK ---
+Oga-oga-cha-cha. Ótima escolha!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Você quer seguir a Cha-Cha em
+uma missão multijogador?
+--- BLOCK ---
+Shaka-laka, bing-bang! Sozinho ou
+com amigo, Cha-Cha
+garante vitória definitiva!
+--- BLOCK ---
+Cha-Cha não quer
+missão de multijogador
+agora. <SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+Cha-qué? Você quer deixar Cha-Cha
+para trás e ir festejar?
+--- BLOCK ---
+Cha-Cha entende. Ok.
+Cha-Cha não está
+muito social hoje.
+--- BLOCK ---
+Oga-oga-cha-cha. Você tomou a decisão certa!
+--- BLOCK ---
+Seu amigo de confiança de Cha-Cha?
+--- BLOCK ---
+Oga-oga! Você é um bom juiz de talento!
+Melhor que você e seu amigo jogam limpo.
+--- BLOCK ---
+O amigo de Cha-Cha ainda está verde. Às
+vezes falha nas missões, às vezes esquece
+de cortar o monstro... Não é bonito.
+--- BLOCK ---
+Cha-Cha espera que você tenha um coração
+compassivo. Seu amigo tem boas intenções!
+--- BLOCK ---
+Cha-Cha vai acompanhar na caçada!
+Pronto para quebrar ossos shaka!
+--- BLOCK ---
+Se estiver com muitos problemas com seu
+amigo, Cha-Cha está aqui para ajudar.
+--- BLOCK ---
+Cha-quê? Quer se juntar
+aos seguidores de Cha-Cha?
+--- BLOCK ---
+Pena. Cha-Cha aprecia o gesto,
+mas já está ocupado
+com o seguidor atual!
+--- BLOCK ---
+Amigo do seguidor é amigo de Cha-Cha.
+É assim que os Shakalaka fazem!
+--- BLOCK ---
+Você parece ser um caçador experiente. Treine
+com o seguidor de Cha-Cha. Concorda?
+--- BLOCK ---
+Ei, campeão! Cha-Cha te dá
+isso como agradecimento por cuidar
+bem do seguidor inútil.
+--- BLOCK ---
+Cha-Cha vê um futuro de
+sucesso na caça e no
+cuidado dos seguidores juntos! Opa-opa!
+--- BLOCK ---
+Seu amigo do seguidor de Kayamba?
+--- BLOCK ---
+Bem, Kayamba acha que você é legal.
+Kayamba está feliz em te conhecer!
+--- BLOCK ---
+O seguidor de Kayamba ainda
+está aprendendo. Comete muitos erros.
+Perde a presa de vista.
+--- BLOCK ---
+Então não exagere com seu seguidor,
+ok? Como um favor a Kayamba.
+--- BLOCK ---
+Ok! Você e o seguidor
+de Kayamba! Vamos caçar!
+--- BLOCK ---
+Kayamba também vai! Não se preocupe,
+Kayamba consegue acompanhar o ritmo.
+--- BLOCK ---
+Ah? Você também quer
+ser seguidor de Kayamba?
+--- BLOCK ---
+Infelizmente, Kayamba já tem
+a vaga preenchida. Mas
+Kayamba agradece pelo interesse!
+--- BLOCK ---
+Amigo do seguidor de Kayamba
+é amigo de Kayamba!
+--- BLOCK ---
+Kayamba pede como amigo:
+traga o seguidor inteiro!
+--- BLOCK ---
+Cuide bem do seguidor indefeso de Kayamba.
+Kayamba sabe que não é fácil. Por
+isso, Kayamba te dá um presente.
+--- BLOCK ---
+Continue cuidando do seguidor.
+Eles podem ser travessos...
+--- BLOCK ---
+<SUBS 0>
+Com Cha-Cha ao seu lado,
+você vai se sair muito bem!
+--- BLOCK ---
+Cha-quê? Dizendo que já
+fez muito? Você
+me faz rir!
+--- BLOCK ---
+Você se tornará um caçador campeão
+quando adquirir a modéstia de Cha-Cha.
+Caçador, seja mais como eu!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha sempre usa máscara. É assim
+que os Shakalaka fazem.
+--- BLOCK ---
+Por que? No caso de Cha-Cha, máscara
+por segurança. Sou tão bonitão que todos
+desmaiariam se eu não usasse máscara.
+--- BLOCK ---
+Cha-cha-oga-oga. Se gosta de
+Cha-Cha, cuidado. Eu tenho
+sangue quente! Você verá!
+--- BLOCK ---
+Se quiser um item que Cha-Cha tem,
+ou ver as habilidades de Cha-Cha, ou
+ouvir a voz suave de Cha-Cha...
+--- BLOCK ---
+Primeiro, fale com Cha-Cha!
+A comunicação é crucial!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha percebe que você não ataca todos
+os monstros que vê. Cha-Cha entende.
+--- BLOCK ---
+Então Cha-Cha pensa em um plano.
+Quando você tiver a arma guardada,
+Cha-Cha não vai machucar nada!
+--- BLOCK ---
+É melhor esconder a arma se não
+quiser ser detectado, se o monstro estiver
+calmo ou se colocar uma bomba-bum-bum!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha pode parecer vegetariano, mas tem
+um grande amor por carne!
+--- BLOCK ---
+Dê carne a Cha-Cha durante a
+missão. Aceito com muita alegria! Opa-opa!
+--- BLOCK ---
+O suco da carne tem um efeito secundário em
+Cha-Cha. Entra nos poros e se transforma em
+pontos de experiência! A menos que esteja cheio.
+--- BLOCK ---
+Quando Kayamba vem, a probabilidade de
+sucesso na missão é de 99,9%!
+--- BLOCK ---
+Sei o que está dizendo. 99,9% é um
+número bobo. Por que não arredondar para 100?
+--- BLOCK ---
+Porque Kayamba é rigoroso com os dados! E
+se o número for revisado em pares?
+--- BLOCK ---
+Os Shakalaka sempre usam máscara. A
+todo momento, todos os dias.
+--- BLOCK ---
+Hum? Quer saber sobre a aparência de
+Kayamba? Tente dar uma olhada na próxima
+vez que Kayamba trocar de máscara!
+--- BLOCK ---
+Mas Kayamba avisa: Kayamba é o mais
+rápido trocador da história dos Shakalaka! Ninguém
+viu o verdadeiro rosto de Kayamba!
+--- BLOCK ---
+Kayamba é um caçador honrado.
+Nunca ataca um monstro adormecido.
+--- BLOCK ---
+Kayamba joga limpo como um
+verdadeiro cavaleiro Shakalaka! Geralmente.
+--- BLOCK ---
+Kayamba pode cortar e coletar até oito
+tipos de itens durante a caçada.
+--- BLOCK ---
+Kayamba traz loot suficiente para
+abrir sua própria feira!
+--- BLOCK ---
+A máscara tenaz de Kayamba é feita de coco
+e garra de caranguejo. Cheira a brisa marinha.
+--- BLOCK ---
+Não tem poder especial, mas tudo bem.
+Às vezes, Kayamba quer usar uma máscara
+que combine melhor. A Máscara tenaz!
+--- BLOCK ---
+<SUBS 0>
+Com Cha-Cha ao seu lado,
+você vai fazer muito!
+--- BLOCK ---
+Cha-quê? Dizendo que já
+fez muito? Você
+me faz rir!
+--- BLOCK ---
+Você se tornará um caçador campeão
+quando adquirir a modéstia de Cha-Cha.
+Caçador, seja mais como eu!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha sempre usa máscara. É assim que
+os Shakalaka fazem.
+--- BLOCK ---
+Por que? No caso de Cha-Cha, máscara
+por segurança. Sou tão bonitão que todos
+desmaiariam se eu não usasse máscara.
+--- BLOCK ---
+Cha-cha-oga-oga. Se gosta de
+Cha-Cha, cuidado. Eu tenho
+sangue quente! Você verá!
+--- BLOCK ---
+Se quiser um item que Cha-Cha tem,
+ou ver as habilidades de Cha-Cha, ou
+ouvir a voz suave de Cha-Cha...
+--- BLOCK ---
+Primeiro, fale com Cha-Cha!
+A comunicação é crucial!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha percebe que você não ataca todos
+os monstros que vê. Cha-Cha entende.
+--- BLOCK ---
+Então Cha-Cha pensa em um plano.
+Quando você tiver a arma guardada,
+Cha-Cha não vai machucar nada!
+--- BLOCK ---
+É melhor esconder a arma se não
+quiser ser detectado, se o monstro estiver
+calmo ou se colocar uma bomba-bum-bum!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha pode parecer vegetariano, mas
+tem um grande amor por carne-carne!
+--- BLOCK ---
+Dê carne a Cha-Cha durante a
+missão. Aceito com muita alegria! Opa-opa!
+--- BLOCK ---
+O suco da carne tem um efeito secundário em
+Cha-Cha. Entra nos poros e se transforma em
+pontos de experiência! A menos que esteja cheio.
+--- BLOCK ---
+<SUBS 0>
+Você conhece o "gesto" que pode
+enviar pelo menu do jogo?
+--- BLOCK ---
+O sinal é música para os ouvidos
+de Cha-Cha. Quando Cha-Cha ouvir "ping-ping", eu
+correr ao seu lado como o vento.
+--- BLOCK ---
+Se sentir falta da ternura de Cha-Cha ou
+da minha astúcia, abra o menu a
+qualquer momento e envie um sinal. Cha-ping!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha tem a reputação de ser um Shakalaka
+muito tolerante. Mas ele também tem seus limites.
+--- BLOCK ---
+Se Cha-Cha estiver muito machucado, a fúria
+atingirá o máximo! Cha-Cha fica bravo!
+Monstros não gostam de Cha-Cha bravo.
+--- BLOCK ---
+Cha-Cha enfurecido pode usar uma técnica
+de ataque secreta. Cha-Cha bravo não
+se responsabiliza por suas ações!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha sofreu muitos danos, Cha-Cha
+fica bravo! Depois se sente culpado.
+--- BLOCK ---
+A fúria de Cha-Cha é tão esgotante
+que fico surdo como uma porta. Não
+ouço nada do que você diz!
+--- BLOCK ---
+É melhor ler "Vida de
+caça" até que a terrível
+fúria de Cha-Cha seja saciada.
+--- BLOCK ---
+<SUBS 0>
+Bombas! Poderosas mas passageiras, como
+ensinamentos do mestre filósofo Cha-Cha!
+--- BLOCK ---
+Quando você coloca uma bomba, Cha-Cha também
+coloca uma ao lado da sua para
+um bum-bum máximo. Cha-Cha adora bum-bum!
+--- BLOCK ---
+Cha-Cha deixa você acender a mecha.
+Porque você é seguidor de Cha-Cha!
+--- BLOCK ---
+<SUBS 0>
+Todos sabem que Cha-Cha é muito
+aficionado a dançar!
+--- BLOCK ---
+Quando Cha-Cha vê seus gestos,
+o corpo de Cha-Cha se
+rende ao ritmo! Bum-ba, bum-ba!
+--- BLOCK ---
+Cha-Cha sugere que você escolha gestos do menu
+do jogo de vez em quando. Você não
+pode resistir à dança de Cha-Cha! Sha-ka! La-ka!
+--- BLOCK ---
+<SUBS 0>
+Pergunta de Cha-Cha: O que você faria se o monstro
+te paralisasse, colocasse para dormir ou te derrubasse?
+--- BLOCK ---
+Oga-oga... Sua única
+esperança é Cha-Cha!
+--- BLOCK ---
+Quando Cha-Cha oferecer a mão benevolente
+para resgatar, ofereça uma quantidade
+adequada de lágrimas de agradecimento!
+--- BLOCK ---
+<SUBS 0>
+Alguém supera Cha-Cha em coragem e
+valor? Pergunta retórica.
+--- BLOCK ---
+Quando um monstro grande aparecer, Cha-Cha às
+vezes lembra de um compromisso importante ou
+precisa ir ao banheiro. É natural!
+--- BLOCK ---
+Cha-Cha diz: se meu Valor estiver baixo,
+isso acontecerá com mais frequência. Cha-Cha
+não foge! Cha-Cha está apenas ocupado!
+--- BLOCK ---
+<SUBS 0>
+A atitude Shakalaka de Cha-Cha é lógica se
+você focar nos valores estatísticos.
+--- BLOCK ---
+A experiência é o mais importante!
+Quando Cha-Cha participa de missões
+muito longas, o Valor aumenta.
+--- BLOCK ---
+Após muitas jornadas, um dia Cha-Cha
+alcançará o verdadeiro limite da valentia!
+--- BLOCK ---
+<SUBS 0>
+O nível de Cha-Cha é simplesmente uma demonstração
+da força de Cha-Cha! Oh-pa oh-pa!
+--- BLOCK ---
+Quando Cha-Cha derrota monstros, o nível
+aumenta. A taxa de aumento
+depende do monstro que derrotou!
+--- BLOCK ---
+Ah, mas não é necessário que Cha-Cha
+dê o golpe final. Cha-Cha observa
+você e sua técnica de campeão!
+--- BLOCK ---
+<SUBS 0>
+Na coleção de máscaras do Cha-Cha, algumas
+possuem poderes shakEspeciais.
+--- BLOCK ---
+Se Cha-Cha usar uma máscara assim no
+rosto, o nível de Maestria aumenta!
+--- BLOCK ---
+Quando a Maestria aumenta, o poder
+especial da máscara também cresce. E
+então, feitos poderosos virão! Cha-guau!
+--- BLOCK ---
+<SUBS 0>
+Quando Cha-Cha derrota um monstro e sobe de
+nível, às vezes aprende uma Habilidade.
+--- BLOCK ---
+Ao vencer um monstro forte,
+às vezes Cha-Cha aprende habilidades
+não relacionadas ao nível. Cha-guau!
+--- BLOCK ---
+Cha-cha-chuu! Cha-Cha usa muitas
+habilidades, cortando muitos monstros!
+--- BLOCK ---
+<SUBS 0
+Linda Máscara de bolota feita de fruto
+esvaziado, cheirando a natureza!
+--- BLOCK ---
+Quando Cha-Cha coloca a máscara, sente a
+necessidade de coletar materiais de plantas!
+--- BLOCK ---
+A melhor parte da máscara é o conforto.
+A máscara de bolota pode não ter poder,
+mas é a melhor para o rosto!
+--- BLOCK ---
+<SUBS 0>
+A máscara de bolota é a máscara artesanal
+mais básica de Cha-Cha.
+--- BLOCK ---
+Quando estou com ela, Cha-Cha coleta
+materiais e também ataca corpo a
+corpo os monstros grandes! Cha-já!
+--- BLOCK ---
+¡Cha-Cha!
+--- BLOCK ---
+¡Oga-oga!
+--- BLOCK ---
+¡Ta-ta-cha-chán!
+--- BLOCK ---
+¡Shaka-hola-laka!
+--- BLOCK ---
+¡Cha-Cha está se sentindo brincalhão hoje!
+--- BLOCK ---
+A barriga do Cha-Cha está roncando. Está esperando para comer.
+--- BLOCK ---
+Cha-Cha dança depois de uma conversa.
+--- BLOCK ---
+Cha-Cha se sente como um jovem selvagem!
+--- BLOCK ---
+¡Cha! Você interrompeu os pensamentos do Cha-Cha!
+--- BLOCK ---
+Cha-Cha teve um dia ruim... Enfim!
+--- BLOCK ---
+Dançar faz o coração saudável, entende?
+--- BLOCK ---
+Shh, Cha-Cha está ocupado agora...
+--- BLOCK ---
+¡Cha-Cha!
+--- BLOCK ---
+Até logo-laka!
+--- BLOCK ---
+¡Oga-oga! ¡Cha-chau!
+--- BLOCK ---
+Até logo-outro!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

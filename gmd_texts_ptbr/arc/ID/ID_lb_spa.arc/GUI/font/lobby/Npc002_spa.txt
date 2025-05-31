@@ -196,7 +196,7 @@ Deixe as missões de vez em quando e
 explore a Floresta Moga.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
-coletar objetos úteis ou reunir
+coletar itens úteis ou reunir
 Recursos para a vila...
 --- BLOCK ---
 Lembre-se que a Floresta Moga tem
@@ -733,7 +733,7 @@ nicioso que acaba de se mudar pra cá.
 --- BLOCK ---
 Com um tirano assim nos agredindo, 
 nossa frota de pesca teria sorte de
-sobrevivesse e voltar com uma boa pesca.
+sobreviver e voltar com uma boa pesca.
 --- BLOCK ---
 Pelo menos não morreremos de fome. 
 Estes malditos terremotos nos afundarão
@@ -741,14 +741,14 @@ primeiro! Veja, este é o nosso problema.
 --- BLOCK ---
 Você percebeu estes tremores? Quem sabe
 o que os está causando e o por quê de
-começarem, mas o mar está enfurecido.
+começarem? Mas o mar está enfurecido.
 --- BLOCK ---
 De qualquer modo, estamos cansados.
 É aqui que você entra, jovem. Na minha
 opinião, precisamos de um caçador
 --- BLOCK ---
 Sim, o Lagiacrus é poderoso, muito 
-poderoso. Demais para qualquer humano. 
+poderoso. "Demais para qualquer humano."
 São as fofocas dos aldeões. Bah!!!
 --- BLOCK ---
 Forte é uma coisa, mas invencível é 
@@ -759,7 +759,7 @@ E um dia, assim como todos nós, terá que
 morrer... Sim, se eu tivesse 30 anos a
 menos, eu mesmo me encarregaria dele.
 --- BLOCK ---
-Porém também sou mortal, logo vou deixar
+Porém também sou mortal, logo, vou deixar
 o prazer de dominar o inimigo mais selvagem
 do mar a alguém jovem como você.
 --- BLOCK ---
@@ -839,7 +839,7 @@ causas mais perdidas do que esta! Você
 acha que esta vila se construiu sozinha?
 --- BLOCK ---
 Só é preciso um pouco de trabalho em
-equipamento. Se você e os aldeões unirem
+equipe. Se você e os aldeões unirem
 forças, você conseguirá o que quer!
 --- BLOCK ---
 Sabe de uma coisa: você reúne os Recursos
@@ -860,7 +860,7 @@ melhor que você vá caçar monstros.
 --- BLOCK ---
 Não se esqueça de itens como as ervas.
 Herbívoros e insetos não são grande
-coisa, mas os carnívoros MORDERAM.
+coisa, mas os carnívoros MORDEM.
 --- BLOCK ---
 Estar preparado não faz mal, não estar,
 sim! Então lembre-se: leve alguma coisa
@@ -930,7 +930,7 @@ Muita água! Se você for
 enfrentar um monstro aquático,
 você terá que molhar seus pés.
 --- BLOCK ---
-Então ouça: atravesse a Floresta de
+Então ouça: atravesse a Floresta
 Moga até chegar à costa.
 Entre e tente pescar algo pequeno.
 --- BLOCK ---
@@ -942,8 +942,8 @@ alguns conselhos. Saia quando quiser!
 Para pescar você precisará de um arpão.
 Eles são fáceis de usar.
 --- BLOCK ---
-É como mover uma picareta ou uma redinha
-de mosquito. Procure peixinhos com cara de
+É como mover uma Picareta ou uma Rede de
+insetos. Procure peixinhos com cara de
 peixes-lua debaixo d'água e fure-os!
 --- BLOCK ---
 Com o Arpão, um bom caçador como você,
@@ -1042,11 +1042,11 @@ as missões um pouco de lado e explorar
 a Floresta Moga no seu próprio ritmo.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
-coletar objetos úteis ou reunir
+coletar itens úteis ou reunir
 Recursos para a vila...
 --- BLOCK ---
 Lembre-se: se você reordenar as letras em
-"Floresta de Moga" não vira:
+"Floresta Moga" não vira:
 "Gelo da festa Roma." Sério.
 --- BLOCK ---
 <SUBS 1>
@@ -1057,7 +1057,7 @@ nossa ligação com o mundo exterior.
 --- BLOCK ---
 O Argosy é um navio mercante.
 Os bens que encontramos na Floresta
-de Moga, valem seu peso no exterior.
+Moga, valem seu peso no exterior.
 --- BLOCK ---
 Quanto ao capitão do Argosy, ele é um rico
 comerciante do Oriente que conheço
@@ -2078,7 +2078,7 @@ Eu suspeito que o mesmo monstro atacou
 o amigo do capitão. É uma fera
 lendária que raramente aparece...
 --- BLOCK ---
-O Lagiacrus marmorizado, também conhecido
+O Lagiacrus marfim, também conhecido
 como o "Conquistador do Mundo".
 --- BLOCK ---
 Essa fera é incomparável.
@@ -2086,7 +2086,7 @@ Essa fera é incomparável.
 --- BLOCK ---
 ...Huh? Como ele me venceu?
 --- BLOCK ---
-O Lagiacrus marmoreus é diferente das
+O Lagiacrus marfim é diferente das
 outras feras. Eu estava tranquilo com as
 habilidades subaquáticas. Assim pensava.
 --- BLOCK ---
@@ -2098,7 +2098,7 @@ Essa besta é invencível, em terra ou
 em alto mar. Ele é um super predador!!
 --- BLOCK ---
 Aquele Ceadeus que você derrotou? O
-Lagiacrus marmorizado o jantaria!
+Lagiacrus marfim o jantaria!
 --- BLOCK ---
 Meu primeiro encontro com um Lagiacrus
 mármoreo terminou em uma batalha épica.
@@ -2121,7 +2121,7 @@ derrota te faz desistir. Fim da história...
 --- BLOCK ---
 <SUBS 0>
 Bem, sim, meu primeiro encontro com o
-Lagiacrus marmóreo foi épico...
+Lagiacrus marfim foi épico...
 --- BLOCK ---
 Eu tropecei nele por acaso, enquanto
 estava perseguindo outro monstro. Nossa
@@ -2143,7 +2143,7 @@ Perdendo o tempo todo para aquele monstro
 me custou caro, sabia? Mas eu acho
 que tirei algo positivo de tudo isso...
 --- BLOCK ---
-No final, o Lagiacrus marmóreo foi a
+No final, o Lagiacrus marfim foi a
 única fera que não consegui derrotar. Não
 Pode-se dizer que é um mau inimigo...
 --- BLOCK ---
@@ -2155,7 +2155,7 @@ Perdendo o tempo todo para aquele monstro
 me custou caro, sabia? Mas eu acho
 que tirei algo positivo de tudo isso...
 --- BLOCK ---
-No final, o Lagiacrus marmóreo foi a
+No final, o Lagiacrus marfim foi a
 única fera que não consegui derrotar. Não
 Pode-se dizer que é um mau inimigo...
 --- BLOCK ---
@@ -2163,7 +2163,7 @@ E quando me aposentei, concentrei esforços
 em cuidar deste lugar. Meus ancestrais
 diziam para olhar o lado positivo.
 --- BLOCK ---
-Então o Lagiacrus marmóreo está de volta
+Então o Lagiacrus marfim está de volta
 por aqui.
 --- BLOCK ---
 Você sente a eletricidade no ar?
@@ -2201,7 +2201,7 @@ para a ação!
 ...Ou talvez não. He he.
 --- BLOCK ---
 Primeiro você livra a vila do Ceadeus,
-e agora você caça o Lagiacrus marmóreo,
+e agora você caça o Lagiacrus marfim,
 meu inimigo.
 --- BLOCK ---
 Você é muito mais que o Herói de Moga!

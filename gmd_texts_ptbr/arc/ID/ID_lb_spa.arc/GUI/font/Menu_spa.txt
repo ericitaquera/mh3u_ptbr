@@ -267,11 +267,11 @@ Espadachim
 Artilheiro
 --- BLOCK ---
 Abra o inventário do seu Espadachim para
-ver os objetos que está carregando.
+ver os itens que está carregando.
 --- BLOCK ---
-Combina objetos.
+Combina itens.
 --- BLOCK ---
-Combine objetos diretamente da
+Combine itens diretamente da
 Lista de Combinação.
 --- BLOCK ---
 Acesse informações úteis sobre a caçada.
@@ -281,19 +281,19 @@ Cumprimente, aplauda ou faça outros gestos.
 Saia da partida.
 --- BLOCK ---
 Abra o inventário do seu Artilheiro para
-ver os objetos que está carregando.
+ver os itens que está carregando.
 --- BLOCK ---
 Mostra o estado e as condições
 da missão em que você está.
 --- BLOCK ---
-Mostra o estado do seu personagem.
+Mostra o estado da sua personagem.
 --- BLOCK ---
 Mostra mais informações sobre seu equipamento.
 --- BLOCK ---
 Veja, edite ou envie seu Cartão da Guilda.
 --- BLOCK ---
 Mostra o que está acontecendo
-na vila de Moga.
+na Vila Moga.
 --- BLOCK ---
 Altere as configurações do jogo.
 --- BLOCK ---
@@ -539,7 +539,7 @@ debaixo d'água ou com uma Balestra).
 --- BLOCK ---
 Mover o controle analógico para cima
 corresponde à direção para a
-qual seu personagem está olhando.
+qual sua personagem está olhando.
 --- BLOCK ---
 Mover o controle analógico para cima
 corresponde à direção para a
@@ -550,12 +550,12 @@ HARDUMMY
 HARDUMMY
 --- BLOCK ---
 Pressione o botão START para chutar.
-Use a tela sensível ao toque
-para abrir o menu do jogo.
+Use o touchscreen para
+abrir o menu do jogo. 
 --- BLOCK ---
 Pressione o botão START para abrir
-o menu do jogo. Use a
-tela sensível ao toque para chutar.
+o menu do jogo. Use o touchscreen
+para chutar.
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -625,8 +625,8 @@ ou ele será perdido!</COLO>
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Em direção à Floresta de
-Moga. Quando deseja chegar?
+Em direção à Floresta Moga.
+Quando deseja chegar?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -640,11 +640,11 @@ Info
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Caixa de objetos
+Caixa de itens
 --- BLOCK ---
 Caixa de equipamentos
 --- BLOCK ---
-Lista de objetos
+Lista de itens
 --- BLOCK ---
 Munição/Rev.
 --- BLOCK ---
@@ -664,7 +664,7 @@ Habilidades
 --- BLOCK ---
 Equipamento
 --- BLOCK ---
-Vila de Moga
+Vila Moga
 --- BLOCK ---
 Chamberlyne
 --- BLOCK ---
@@ -766,7 +766,7 @@ Arma
 --- BLOCK ---
 Armadura
 --- BLOCK ---
-Amuleto
+Talismã
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1437,18 +1437,18 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Descartar objeto escolhido.
+Descartar item escolhido.
 --- BLOCK ---
-Mover o objeto escolhido para
+Mover o item escolhido para
 outra posição na lista.
 --- BLOCK ---
-Dar o objeto escolhido a outro jogador.
+Dar o item escolhido a outro jogador.
 --- BLOCK ---
-Entregar o objeto selecionado.
+Entregar o item selecionado.
 --- BLOCK ---
 Mover para qual posição?
 --- BLOCK ---
-O objeto escolhido será descartado. Tem
+O item escolhido será descartado. Tem
 certeza de que deseja continuar?
 --- BLOCK ---
 Quantos deseja entregar?
@@ -1457,9 +1457,9 @@ Selecione um recipiente.
 --- BLOCK ---
 Quantos deseja entregar?
 --- BLOCK ---
-Entregar os objetos solicitados?
+Entregar os itens solicitados?
 --- BLOCK ---
-Ordenar objetos?
+Ordenar itens?
 --- BLOCK ---
 <COLO 2>(Você só pode colocar
 munição na lista de munição).

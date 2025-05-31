@@ -199,11 +199,11 @@ Emitindo raios que as tornam
 ainda mais brilhantes.
 --- BLOCK ---
 Armas feitas de Lagiacrus
-marmóreo. Ceifam vida e alma
+marfim. Ceifam vida e alma
 com um único golpe.
 --- BLOCK ---
 Armas feitas de Lagiacrus
- marmóreo.Ceifam vida e alma
+marfim. Ceifam vida e alma
 com um único golpe.
 --- BLOCK ---
 Lâminas duplas puramente

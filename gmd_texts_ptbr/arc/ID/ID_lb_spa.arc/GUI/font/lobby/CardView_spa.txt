@@ -60,13 +60,13 @@ Homenagem ao serviçal
 --- BLOCK ---
 Certificado de subordinado
 --- BLOCK ---
-Amuleto de amizade
+Talismã de amizade
 --- BLOCK ---
 Pergaminho do Sábio
 --- BLOCK ---
 Relatório bionômico
 --- BLOCK ---
-Amuleto do xamã
+Talismã do xamã
 --- BLOCK ---
 Viagens do caçador
 --- BLOCK ---
@@ -208,14 +208,14 @@ tornaram amigos de alma.
 --- BLOCK ---
 Um pergaminho com segredos
 de combinação. Prova de
-ter criado muitos objetos.
+ter criado muitos itens.
 --- BLOCK ---
 Prova de ter capturado
 muitos tipos de monstros.
 Possui dados sobre eles.
 --- BLOCK ---
 Prova de ter descoberto
-inúmeros amuletos. Nenhuma pedra
+inúmeros talismãs. Nenhuma pedra
 escapa a você.
 --- BLOCK ---
 Prova de ter viajado para
@@ -247,7 +247,7 @@ os melhores ingredientes. Utensílio
 típico de Tanzia.
 --- BLOCK ---
 Prova de sua contribuição para a
-vila de Moga. Joia rara
+Vila Moga. Joia rara
 feita de um caranguejo Atlantis.
 --- BLOCK ---
 Prova de ter conseguido
@@ -306,7 +306,7 @@ infligiu muitos ataques.
 --- BLOCK ---
 desferiu muitos golpes.
 --- BLOCK ---
-obteve muitos objetos.
+obteve muitos itens.
 --- BLOCK ---
 quase não desmaiou.
 --- BLOCK ---
@@ -344,7 +344,7 @@ Também caçou:
 --- BLOCK ---
  <COLO 36>O Nível do caçador aumenta para %d!
 --- BLOCK ---
- <COLO 33>Você caçou na Floresta de Moga!
+ <COLO 33>Você caçou na Floresta Moga!
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---

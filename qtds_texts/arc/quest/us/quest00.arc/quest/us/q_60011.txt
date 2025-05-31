@@ -3,14 +3,14 @@ TITLES_0=Grudge Match: S. Zinogre
 TITLES_1=Revanche : Zinogre s.
 TITLES_2=Zweikampf: Höllen-Zinogre
 TITLES_3=Scontro: Zinogre stigeo
-TITLES_4=Ajuste de cuentas: Zinogre-E
+TITLES_4=Ajuste de contas: Zinogre-E
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Stygian Zinogre
 OBJECTIVES_1=Tuer un Zinogre stygien
 OBJECTIVES_2=Erlege einen
 Höllen-Zinogre.
 OBJECTIVES_3=Uccidi uno Zinogre stigeo
-OBJECTIVES_4=Mata um Zinogre estigio
+OBJECTIVES_4=Matar um Zinogre Estígio
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
 or time expires.
@@ -20,8 +20,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -57,10 +57,10 @@ la sfida quando vogliono. Posso
 solo immaginare le rivincite che
 garantirà la nostra bestia
 del giorno: lo Zinogre stigeo!
-DESCRIPTIONS_4=¿Qué nos da la Arena? Una
-palabra: ¡oportunidades!
-Un cazador humillado puede
-pedir la revancha, así de
-fácil. Algo me dice que vamos
-a ver muchas con la bestia
-del día: ¡el Zinogre estigio!
+DESCRIPTIONS_4=“O que a Arena nos oferece?
+Uma palavra: oportunidades!
+Um caçador humilhado pode pedir
+a revanche, simples assim.
+Algo me diz que veremos muitas
+hoje, contra a fera do dia:
+Zinogre Estígio!”

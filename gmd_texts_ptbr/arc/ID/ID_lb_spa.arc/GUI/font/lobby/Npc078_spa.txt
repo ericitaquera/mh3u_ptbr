@@ -37,7 +37,7 @@ Os adornos são pequenos itens muito úteis
 que adicionam Pontos de habilidade.
 --- BLOCK ---
 <SUBS 0>
-Você pode adicionar Enfeites ao seu
+Você pode adicionar Adornos ao seu
 equipamento sempre que tiver espaços livres.
 --- BLOCK ---
 <SUBS 0>
@@ -73,10 +73,10 @@ Você pode ordenar a Lista de adornos por
 seu nome ou suas Habilidades associadas.
 --- BLOCK ---
 <SUBS 0>
-Você também pode brincar com os Enfeites
-na Caixa de objetos da sua casa.
+Você também pode brincar com os Adornos
+na Caixa de itens da sua casa.
 --- BLOCK ---
-Alguns Enfeites ocupam vários espaços. Conte
+Alguns Adornos ocupam vários espaços. Conte
 os espaços que você tem
 antes de fazer qualquer alteração.
 --- BLOCK ---
@@ -106,7 +106,7 @@ armas incríveis com essas pequenas.
 --- BLOCK ---
 Sim, você pode bloquear com uma Grande
 espada, mas não se acostume muito,
-pois a cada bloqueio perde Afiamento.
+pois a cada bloqueio perde Afiação.
 --- BLOCK ---
 O Ataque de escudo da Espada e
 Escudo é um poderoso ataque contundente.
@@ -120,7 +120,7 @@ As lanças têm boa precisão, mas
 seus golpes não são tão fortes.
 A chave é acertar repetidamente.
 --- BLOCK ---
-Se seu medidor de Afiamento ficar vermelho,
+Se seu medidor de Afiação ficar vermelho,
 não poderá disparar conchas com uma Lança
 pistola. Não se esqueça de sua Pedra de afiar.
 --- BLOCK ---

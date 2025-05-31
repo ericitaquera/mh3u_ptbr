@@ -29,7 +29,7 @@ ou na lama.
 Habilidades que anulam Doença
 de baba e evitam
 os bloqueios de uso
-de objetos provocados
+de itens provocados
 pelo estado Fedor.
 --- BLOCK ---
 Habilidades que anulam os
@@ -43,7 +43,7 @@ de sucesso ao combinar.
 Habilidades que aumentam a
 eficácia da Bomba esterco
 e evitam os bloqueios
-de uso de objetos
+de uso de itens
 provocados pelo estado Fedor.
 --- BLOCK ---
 Habilidades que afetam
@@ -211,11 +211,11 @@ Resistência ao dragão.
 --- BLOCK ---
 Habilidades que afetam a
 velocidade de perda de
-Afiamento da arma ao
+Afiação da arma ao
 atacar. <COLO 05>(Apenas Espadachim)
 --- BLOCK ---
 Habilidades que aumentam em um
-nível o Afiamento da sua
+nível a Afiação da sua
 arma. <COLO 05>(Apenas Espadachín)
 --- BLOCK ---
 Habilidades que evitam que
@@ -342,7 +342,7 @@ de gosma. <COLO
 05>(Somente Arco)
 --- BLOCK ---
 Habilidades que reduzem a probabilidade
-de quebra de objetos
+de quebra de itens
 de Flauta e aumentam
 o tempo de efeito
 de melodias de Flauta.
@@ -360,41 +360,41 @@ e melhoram as opções
 de sucesso ao combinar.
 --- BLOCK ---
 Habilidades que afetam a
-eficácia dos objetos de
+eficácia dos itens de
 recuperação de Vida.
 --- BLOCK ---
 Habilidades que transferem os
 efeitos de certos
-objetos para os
+itens para os
 companheiros na área.
 --- BLOCK ---
 Habilidades que afetam o
 tempo de efeito
-de certos objetos.
+de certos itens.
 --- BLOCK ---
 Habilidades que afetam a
 velocidade de gasto de
 sua Resistência máxima.
 --- BLOCK ---
 Habilidades que afetam a
-eficácia de objetos que
+eficácia de itens que
 aumentam sua Resistência.
 --- BLOCK ---
 Habilidades que afetam a
 velocidade de consumo de
-carne e outros objetos.
+carne e outros itens.
 --- BLOCK ---
 Habilidades que permitem consumir
 Carne crua e aumentam
 a eficácia de
-objetos de carne.
+itens de carne.
 --- BLOCK ---
 Habilidades que afetam
 suas opções de
 sucesso ao combinar.
 --- BLOCK ---
 Habilidades que maximizam o
-número de objetos criados
+número de itens criados
 ao realizar uma
 combinação com sucesso.
 --- BLOCK ---
@@ -419,7 +419,7 @@ e Geleia real.
 --- BLOCK ---
 Habilidades que aumentam
 sua capacidade de
-extrair amuletos.
+extrair talismãs.
 --- BLOCK ---
 Habilidades que afetam as
 recompensas de missão, exceto
@@ -429,7 +429,7 @@ Habilidades que facilitam
 o corte.
 --- BLOCK ---
 Habilidades que afetam o
-número de objetos
+número de itens
 de recompensa obtidos
 ao capturar monstros.
 --- BLOCK ---
@@ -445,7 +445,7 @@ mostrados no mapa.
 --- BLOCK ---
 Habilidades que facilitam
 o transporte de
-objetos como ovos.
+itens como ovos.
 --- BLOCK ---
 Habilidades que eliminam a
 necessidade de um mapa
@@ -454,7 +454,7 @@ da pesca e
 cozinha em missões.
 --- BLOCK ---
 Habilidades que evitam que
-roubem seus objetos.
+roubem seus itens.
 --- BLOCK ---
 Habilidades que aumentam a
 velocidade das bombas e
@@ -530,8 +530,8 @@ duras penas a um
 golpe mortal sem desmaiar.
 --- BLOCK ---
 Habilidades que aumentam em um
-nível o Ataq. e o
-Afiamento. <COLO 05>(Apenas Esgrimista)
+nível o Ataq. e a
+Afiação. <COLO 05>(Apenas Esgrimista)
 --- BLOCK ---
 Habilidades que afetam a
 potência de vários tipos

@@ -14,20 +14,20 @@ TMSG_NPC074_4
 --- BLOCK ---
 <SUBS 2>
 --- BLOCK ---
-<SUBS 0>Neko com ciúmes do
-cabelo do capitão, tenta fazer
-o mesmo penteado! Fica ondulado...
+<SUBS 0>
+Neko ciúmes cabelo do capitão, tentar
+fazer o mesmo penteado! Fica ondulado...
 --- BLOCK ---
 Lâmina de Neko, presente do capitão.
 Neko trabalhar no Argosy, mas também
 aprender Esgrima suja... Nha! Iá! Ma!
 --- BLOCK ---
-<SUBS 0>Barco não muito grande,
-honto, mas Neko usar para
-entregar artigos e material.
+<SUBS 0>
+Barco não muito grande, honto, mas Neko
+usar para entregar artigos e material.
 --- BLOCK ---
-<SUBS 0>Você torihiki com
-o Capitão do Argosy?
+<SUBS 0>
+Você torihiki com o Capitão do Argosy?
 "Torihiki" significa negócio!
 --- BLOCK ---
 Tanzia ter vários sabores. Tem Porto

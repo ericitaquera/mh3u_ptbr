@@ -114,7 +114,7 @@ Introdução do MH3U
 --- BLOCK ---
 Introdução do MH3
 --- BLOCK ---
-Vila de Moga
+Vila Moga
 --- BLOCK ---
 Sempre lembrado
 --- BLOCK ---
@@ -177,7 +177,7 @@ apesar de seu tamanho.
 Peixes multicoloridos nadam nestas águas. Podem
 chegar a 2,5 m de comprimento.
 São parte insubstituível e muito valiosa
-da vida na vila Moga.
+da vida na Vila Moga.
 --- BLOCK ---
 Lagiacrus, senhor dos mares, aparece
 em um local inesperado. Será
@@ -304,8 +304,8 @@ conhecido como o "gigante brilhante" pela
 luz que emite. Há séculos
 não se vê um exemplar.
 --- BLOCK ---
-O Ceadeus ameaça a vila
-de Moga com desastre. O
+O Ceadeus ameaça a Vila
+Moga com desastre. O
 caçador sai para desafiá-lo determinado
 a não decepcionar os aldeões.
 --- BLOCK ---

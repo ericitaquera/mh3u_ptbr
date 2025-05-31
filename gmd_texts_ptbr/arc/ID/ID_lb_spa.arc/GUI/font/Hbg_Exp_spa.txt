@@ -164,7 +164,7 @@ aqueles que desejam poder.
 --- BLOCK ---
 Balestra pesada de recarga
 muito rápida. Sua excelente
-mira melhora a afinidade.
+mira melhora a Afinidade.
 --- BLOCK ---
 Balestra pesada de um
 assassino que matava suas
@@ -215,11 +215,11 @@ O canhão eletrificado evita que
 as balas se tornem lentas.
 --- BLOCK ---
 Balestra pesada que se assemelha
-a um Lagiacrus marmóreo. O
+a um Lagiacrus marfim. O
 raio potencializa os disparos.
 --- BLOCK ---
 Balestra pesada que se assemelha
-a um Lagiacrus marmóreo. O
+a um Lagiacrus marfim. O
 raio potencializa os disparos.
 --- BLOCK ---
 Balestra pesada feita com partes

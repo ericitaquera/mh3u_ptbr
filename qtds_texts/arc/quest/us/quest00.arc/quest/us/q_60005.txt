@@ -3,7 +3,7 @@ TITLES_0=Grudge Match: Pink Rathian
 TITLES_1=Revanche : Rathian rose
 TITLES_2=Zweikampf: Rosa Rathian
 TITLES_3=Scontro: Rathian rosa
-TITLES_4=Ajuste cuentas: Rathian rosa
+TITLES_4=Ajuste de contas: Rathian rosa
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Pink Rathian
 OBJECTIVES_1=Tuer une Rathian rose
@@ -19,8 +19,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tiempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -52,9 +52,9 @@ rosa! Non odiatela per la sua
 bellezza. Chi sarà il partner
 della regina in questa danza
 che chiamiamo caccia?
-DESCRIPTIONS_4=¡Saludos, fanáticos! Hoy
-lo vemos todo de rosa:
-¡una Rathian rosa! No la
-odiéis, es una belleza.
-¿Quién acompañará a la
-reina en este baile-cacería?
+DESCRIPTIONS_4=“Saudações, caçadores!
+Hoje vemos tudo cor-de-rosa:
+uma Rathian Rosa!
+Nada de odiá-la, ela é uma beleza.
+Quem irá acompanhar a rainha
+neste baile-caçada?”

@@ -63,8 +63,8 @@ com os pacientes! Todos me adoram!
 O que acha do tempo lá fora? Me dá
 vontade de fazer um piquenique!
 --- BLOCK ---
-E se comermos uma cesta dos famosos sanduíches
-de intestino de Giggi do Chef da
+E se comermos uma cesta dos famosos
+sanduíches de intestino de Giggi do Chef da
 Cantina? Não? Tudo bem, nem todos gostam.
 --- BLOCK ---
 <SUBS 0>
@@ -76,8 +76,8 @@ Neko. Deve ser ótimo dormir naquela cama
 macia. Quem me dera ter tanto estilo!
 --- BLOCK ---
 <SUBS 0>
-Você sabe que precisa pagar uma taxa estipulada
-pela Guilda para começar, certo?
+Você sabe que precisa pagar uma taxa
+estipulada pela Guilda para começar, certo?
 --- BLOCK ---
 O dinheiro cobre despesas de transporte e
 suprimentos, bem como o salário dos Felyne
@@ -87,9 +87,9 @@ que te resgatam se você for derrotado.
 Já comeu no restaurante Tanzyne Grill?
 É o restaurante oficial da Guilda.
 --- BLOCK ---
-O salão com vista para o mar é
-o lugar perfeito para um encontro. Você
-vai pela vista, mas fica pela comida!
+O salão com vista para o mar é o lugar
+perfeito para um encontro. Você vai
+pela vista, mas fica pela comida!
 --- BLOCK ---
 <SUBS 0>
 Você sabia que a Guilda possui uma frota
@@ -119,8 +119,8 @@ os que já coletamos. Queremos todos!
 Ah, você já usou aquele grande gongo
 que está atrás de mim?
 --- BLOCK ---
-Seu som é ouvido em todo o mundo
-e assim você pode conhecer caçadores de todos
+Seu som é ouvido em todo o mundo e assim
+você pode conhecer caçadores de todos
 os tipos. Pergunte ao mestre da Guilda!
 --- BLOCK ---
 <SUBS 0>
@@ -134,8 +134,8 @@ Ah, desculpe. Quis dizer, não babar.
 O restaurante distribui folhetos para
 recrutar novos chefs Felyne. Vamos ver...
 --- BLOCK ---
-"Procuramos Felyne com bom paladar. Os chefs
-recebem três pratos por dia". Não
+"Procuramos Felyne com bom paladar. Os
+chefs recebem três pratos por dia". Não
 é justo, os humanos também cozinham!
 --- BLOCK ---
 <SUBS 0>
@@ -169,8 +169,8 @@ Você não diria pela atitude mandona,
 mas ela é muito feminina. Até
 me faz tranças de manhã!
 --- BLOCK ---
-Disse a ela para relaxar. Até que siga
-meu conselho, você terá que acreditar em mim
+Disse a ela para relaxar. Até que siga meu
+conselho, você terá que acreditar em mim
 quando digo que ela é muito gentil.
 --- BLOCK ---
 <SUBS 0>
@@ -185,25 +185,25 @@ Então você só vai acreditar?
 Você comeu, caçador? Se você colocar um
 pouco de Queijo real em um Megabolinho...
 --- BLOCK ---
-Ou joga um Tomate gordo com um
-pouco de Porco de musgo, terá um
-hambúrguer especial! De preço *ahem* "especial"...
+Ou joga um Tomate gordo com um pouco de
+Porco de musgo, terá um hambúrguer
+especial! De preço *ahem* "especial"...
 --- BLOCK ---
 <SUBS 0>
 Você sabia que os uniformes da Guilda
 variam de acordo com a região?
 --- BLOCK ---
 A Guilda usa tecidos adequados para cada
-clima para sempre serem confortáveis. Mais
-um motivo para amar meu trabalho!
+clima para sempre serem confortáveis.
+Mais um motivo para amar meu trabalho!
 --- BLOCK ---
 <SUBS 0>
 Sabia que ser a Garota do gongo é um cargo
 muito importante entre as funcionárias?
 --- BLOCK ---
 Espero que um dia meu gongo seja ouvido
-em todo o porto. Meu objetivo é
-ser uma super funcionária da Guilda, sabe?
+em todo o porto. Meu objetivo é ser uma
+super funcionária da Guilda, sabe?
 --- BLOCK ---
 <SUBS 0>
 E agora, algumas palavras dos nossos
@@ -212,8 +212,8 @@ patrocinadores da Guilda...
 Beba, engula, aproveite! Miau! Viva
 o Mosto de Tanzia!
 --- BLOCK ---
-Refresque-se na taverna da cidade! Miau!
-Viva o Mosto de Tanzia!
+Refresque-se na taverna da cidade!
+Miau! Viva o Mosto de Tanzia!
 --- BLOCK ---
 *Gole* *Gole* *Gole*
 Miau! Refrescante!
@@ -292,24 +292,24 @@ As missões de três a cinco ★ são
 de nível alto. São mais difíceis que as
 de nível baixo. Faz sentido, não é?
 --- BLOCK ---
-Agora, algumas missões são AINDA mais difíceis,
-embora, de acordo com o mestre da
+Agora, algumas missões são AINDA mais
+difíceis, embora, de acordo com o mestre da
 Guilda, não tenhamos tido nenhuma em anos.
 --- BLOCK ---
 Qualquer um pode participar de uma missão
-de uma ou duas ★. São para
-novatos, com "monstros" que mal são monstros.
+de uma ou duas ★. São para novatos,
+com "monstros" que mal são monstros.
 --- BLOCK ---
 Mas você precisa ter um Nível de
 caçador (NC) igual ou superior ao número
 de ★ da missão para aceitá-la.
 --- BLOCK ---
-Ou seja, caçadores de NC 1 só podem aceitar
-missões de uma ★, mas os de NC
+Ou seja, caçadores de NC 1 só podem
+aceitar missões de uma ★, mas os de NC
 2 podem aceitar de uma e duas ★!
 --- BLOCK ---
-Aumentar seu NC é mais fácil
-do que parece. Primeiro, complete várias
+Aumentar seu NC é mais fácil do que
+parece. Primeiro, complete várias
 missões importantes de seu NC atual.
 --- BLOCK ---
 Depois, ao completar essas missões,
@@ -324,8 +324,8 @@ repetir. Você será um Caçador
 de elite antes que perceba!
 --- BLOCK ---
 Como acabou de se registrar, começará
-como NC 1. Oh, os caçadores
-novatos transbordam tanta energia e entusiasmo!
+como NC 1. Oh, os caçadores novatos
+transbordam tanta energia e entusiasmo!
 --- BLOCK ---
 Na verdade, também sou nova por
 aqui. Farei o possível para
@@ -348,17 +348,17 @@ Mas terá que lembrar de algumas
 coisas ao aceitar missões de nível
 alto, então preste atenção, por favor...
 --- BLOCK ---
-Os terrenos de caça de nível
-alto são habitados por bestas muito
-perigosas, então é arriscado levar provisões.
+Os terrenos de caça de nível alto são
+habitados por bestas muito perigosas,
+então é arriscado levar provisões.
 --- BLOCK ---
 Isso significa que talvez não
 possamos entregar seus suprimentos
 no início da missão.
 --- BLOCK ---
-Faremos todos os esforços para que
-seus suprimentos cheguem o mais rápido
-possível, mas não crie muitas expectativas.
+Faremos todos os esforços para que seus
+suprimentos cheguem o mais rápido possível,
+mas não crie muitas expectativas.
 --- BLOCK ---
 Outro problema é que quase sempre
 os enviaremos para uma localização
@@ -368,9 +368,9 @@ Pode ser que você se separe dos
 outros caçadores, ou que acabe bem em
 frente ao grande monstro! É irritante.
 --- BLOCK ---
-Por isso pedimos aos caçadores que
-não saiam em missões de alto
-escalão até estarem completamente preparados.
+Por isso pedimos aos caçadores que não
+saiam em missões de alto escalão até
+estarem completamente preparados.
 --- BLOCK ---
 E com isso encerro o aspecto formal...
 Uau, quase soei como minha irmã
@@ -379,16 +379,16 @@ ali. Espero ter me feito entender!
 Uau! Você tem permissão para aceitar
 missões de escalão G! Parabéns!
 --- BLOCK ---
-Nossa. Lembro-me quando você era um novato.
+Uau. Lembro quando você era um novato.
 Agora você é um veterano completo!
 --- BLOCK ---
 Não muda muito entre as missões de
 alto escalão e as de escalão G,
 então não tenho muito o que explicar.
 --- BLOCK ---
-Apenas lembre-se de que os monstros
-serão muito mais temíveis e formidáveis,
-embora provavelmente você já soubesse disso.
+Apenas lembre-se de que os monstros serão
+muito mais temíveis e formidáveis, embora
+provavelmente você já soubesse disso.
 --- BLOCK ---
 Tenha muito cuidado. E acima de tudo,
 prepare-se! Não deixe de levar Poções e
@@ -423,20 +423,20 @@ Eu sabia... Não vou dizer para
 não ir, mas isso é o
 que menos gosto no meu trabalho...
 --- BLOCK ---
-Na Guilda, incentivamos que retorne inteiro.
-Não faça nenhuma besteira, como
-morrer... ou evacuar a cidade!
+Na Guilda, incentivamos que retorne
+inteiro. Não faça nenhuma besteira,
+como morrer... ou evacuar a cidade!
 --- BLOCK ---
 Mas não tenho medo. Não acredito
 que haja algum monstro, real ou
 lendário, que possa te vencer.
 --- BLOCK ---
 Vi você crescer como caçador desde o
-início e sei do que é
-feito. Uma massa muito resistente, caçador!
+início e sei do que é feito.
+Uma massa muito resistente, caçador!
 --- BLOCK ---
-Mesmo assim, pode confiar que cumprirei
-minhas funções até o final.
+Mesmo assim, pode confiar que
+cumprirei minhas funções até o final.
 --- BLOCK ---
 Excelente caçador! Bem-vindo
 de volta!
@@ -445,12 +445,12 @@ Sabia que ficaria bem. Eu sabia...
 Mas ainda assim me alivia ver
 que está bem. Uf... Respire fundo...
 --- BLOCK ---
-*Ofegante* *Gole* Estou bem, estou bem...
-A paz retornou ao porto,
+*Ofegante* *Gole* Estou bem, estou
+bem... A paz retornou ao porto,
 então pode voltar a caçar.
 --- BLOCK ---
-Eu também não vou me
-aposentar! Tenho muitas missões para
+Eu também não vou me aposentar!
+Tenho muitas missões para
 te oferecer, então se segure!
 --- BLOCK ---
 Ah, isso é o que
@@ -488,8 +488,8 @@ Adeus!
 --- BLOCK ---
 Entendi. Bem, volte logo!
 --- BLOCK ---
-Compreendo. Volte quando quiser para
-ver as últimas missões.
+Compreendo. Volte quando quiser
+para ver as últimas missões.
 --- BLOCK ---
 Espero te ver em breve!
 --- BLOCK ---

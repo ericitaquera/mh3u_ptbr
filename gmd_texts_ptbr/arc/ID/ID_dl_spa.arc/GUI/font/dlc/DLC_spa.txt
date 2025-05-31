@@ -350,7 +350,7 @@ HARDUMMY
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Verificando o cartão de jogo...
+Verificando o cartão SD...
 Não desligue o console.
 --- BLOCK ---
 Salvando... Não desligue
@@ -391,11 +391,11 @@ cartão SD: %d Deseja
 salvar as missões selecionadas
 em sua coleção atual?
 --- BLOCK ---
-Verificando o cartão de jogo
+Verificando o cartão SD
 em busca de extras baixados...
 --- BLOCK ---
 Verificação do cartão
-de jogo concluída.
+SD concluída.
 --- BLOCK ---
 Extras baixados encontrados:
 --- BLOCK ---

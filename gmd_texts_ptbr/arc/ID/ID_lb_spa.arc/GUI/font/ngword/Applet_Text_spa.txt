@@ -1,15 +1,3 @@
-GMD
---- BLOCK ---
-Vila
---- BLOCK ---
-Floresta
---- BLOCK ---
-Fazenda
---- BLOCK ---
-Lâmina
---- BLOCK ---
-
---- BLOCK ---
 Applet_Text
 --- BLOCK ---
 Mensagem Inválida

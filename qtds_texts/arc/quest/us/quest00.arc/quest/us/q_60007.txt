@@ -3,13 +3,13 @@ TITLES_0=Grudge Match: Nargacuga
 TITLES_1=Revanche : Nargacuga
 TITLES_2=Zweikampf: Nargacuga
 TITLES_3=Scontro: Nargacuga
-TITLES_4=Ajuste de cuentas: Nargacuga
+TITLES_4=Ajuste de contas: Nargacuga
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Nargacuga
 OBJECTIVES_1=Tuer un Nargacuga
 OBJECTIVES_2=Erlege einen Nargacuga.
 OBJECTIVES_3=Uccidi un Nargacuga
-OBJECTIVES_4=Mata um Nargacuga
+OBJECTIVES_4=Matar um Nargacuga
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
 or time expires.
@@ -19,8 +19,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -56,10 +56,11 @@ il suono del Nargacuga che lancia
 gli aculei. È come le unghie
 sulla lavagna". Ecco il mio consiglio
 per te: alla larga dall'Arena, oggi!
-DESCRIPTIONS_4=¡Mensajes de los fans! Este es
-del cazador Antinarga: "¡Odio
-el sonido del Nargacuga al
-lanzar sus espinas! ¡Es como
-pasar la uña por la pizarra!".
-Mi consejo, Antinarga: hoy
-no te acerques a la Arena.
+DESCRIPTIONS_4=Mensagem dos fãs!
+Esta veio do caçador Antinarga:
+"Eu odeio o som que o Nargacuga
+faz quando dispara os espinhos!
+É pior que unha na lousa!".
+Meu conselho, Antinarga:
+hoje não chegue perto
+da Arena.

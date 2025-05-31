@@ -258,12 +258,12 @@ entregar vários produtos baratos
 em vez de um de maior valor.
 --- BLOCK ---
 Se você quiser itens raros, você precisa
-entregar produtos raros. Esses objetos
+entregar produtos raros. Esses itens
 são marcados com ☆. Tenha em mente que
 Você só pode usar um bem raro por vez.
 --- BLOCK ---
 Os bens raros oferecidos devem ser de
-valor igual ou maior que o objeto
+valor igual ou maior que o item
 desejado.
 --- BLOCK ---
 Muitos dos bens raros são obtidos
@@ -447,7 +447,7 @@ e você verá!
 Assim que o cultivo estiver concluído,
 verifique a Caixa de Colheita para
 colher. Você não será capaz de crescer
-novos objetos até esvaziá-la.
+novos itens até esvaziá-la.
 --- BLOCK ---
 Toque no painel Vila Moga para visualizar
 o estado de cada Felyne, como quais

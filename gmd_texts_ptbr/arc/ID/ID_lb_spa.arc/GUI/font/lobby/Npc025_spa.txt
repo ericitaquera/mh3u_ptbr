@@ -12,77 +12,77 @@ TMSG_NPC025_4
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-<SUBS 0>Antes de sair, tire
-um cochilo na cama
-para salvar o jogo.
+<SUBS 0>
+Antes de sair, tire um cochilo
+na cama para salvar o jogo.
 --- BLOCK ---
 Até um gato recém-nascido sabe disso!
 --- BLOCK ---
-<SUBS 0>A Caixa de
-itens vem com um
+<SUBS 0>
+A Caixa de itens vem com um
 kit de beleza, miau.
 --- BLOCK ---
 Penteie o cabelo de acordo com seu humor.
 Você não tem pelo de gato! Então,
 mude de roupa e de penteado, miau.
 --- BLOCK ---
-<SUBS 0>Quando você for
-ganhando equipamento, poderá criar
-conjuntos de equipamento personalizados.
+<SUBS 0>
+Quando você for ganhando equipamento, poderá
+criar conjuntos de equipamento personalizados.
 --- BLOCK ---
 Você pode salvar conjuntos completos,
 da cabeça aos pés. Assim,
 trocar de equipamento será moleza!
 --- BLOCK ---
-<SUBS 0>Sabia que dá pra
-combinar elementos dentro da sua
-Caixa de itens, chefe?
+<SUBS 0>
+Sabia que dá pra combinar elementos dentro
+da sua Caixa de itens, chefe?
 --- BLOCK ---
 É muito prático, pois não precisa
-mover os objetos para a
+mover os itens para a
 Bolsa de itens. Experimente! Miau.
 --- BLOCK ---
-<SUBS 0>Além disso, você
-pode organizar sua equipe e seus Amuletos
-na Caixa de Itens, miau.
+<SUBS 0>
+Além disso, você pode organizar seus Talismãs
+e seu equipamento na Caixa de Itens, miau.
 --- BLOCK ---
 Se você organizar o conteúdo
 de vez em quando, sempre
 encontrará o que procura.
 --- BLOCK ---
-<SUBS 0>Faço tua caminha todo
-dia pra sempre estar
-prontinha pras tuas sonecas.
+<SUBS 0>
+Faço tua caminha todo dia pra sempre
+estar prontinha pras tuas sonecas.
 --- BLOCK ---
 Também faço a limpeza geral.
 Miau! Você tem sorte de
 os Felyne gostarem de limpeza.
 --- BLOCK ---
-<SUBS 0>Consegue ver
-aquele grande moinho
-ali atrás, miau?
+<SUBS 0>
+Consegue ver aquele grande
+moinho ali atrás, miau?
 --- BLOCK ---
-É meu dever consertar, se
-necessário. É bastante trabalho, verdade.
+É meu dever consertar, se necessário.
+É bastante trabalho, verdade.
 --- BLOCK ---
-<SUBS 0>A brisa do mar é
-tão gostosa... exceto se você
-for feito de ferro, miau!
+<SUBS 0>
+A brisa do mar é tão gostosa...
+exceto se você for feito de ferro, miau!
 --- BLOCK ---
 Tem que limpar o metal do quarto
 todos os dias para não enferrujar.
 --- BLOCK ---
-<SUBS 0>Essa janela deixa a
-brisa fresquinha entrar, mas deixa
-todo o quarto à mostra.
+<SUBS 0>
+Essa janela deixa a brisa fresquinha entrar,
+mas deixa todo o quarto à mostra.
 --- BLOCK ---
 Miau... Dá para ver tudo o que
 você faz aqui dentro, como trocar de
 roupa, o que poderia ser escandaloso, miau.
 --- BLOCK ---
-<SUBS 0>Você pode adquirir
-diferentes e refinados
-móveis no Argosy.
+<SUBS 0>
+Você pode adquirir diferentes e
+refinados móveis no Argosy.
 --- BLOCK ---
 Coloque e recoloque do jeito
 que quiser. Prometo não arranhar.
@@ -104,7 +104,7 @@ e salvar o progresso.
 --- BLOCK ---
 Os itens coletados, excesso de armadura e
 coisas do tipo podem ser guardados
-na Caixa de itens do canto.
+na Caixa de itens ali no canto.
 --- BLOCK ---
 A Caixa de itens tem
 outro serviço: permite trocar de
@@ -124,9 +124,9 @@ Eu a tenho perfeitamente organizada.
 Também ajudo a ficar por dentro
 dos seus DLC (conteúdos para download).
 --- BLOCK ---
-Conecte-se à internet para encarar as
-missões e outros extras. É
-um jogo de filhotes, né?
+Conecte-se à internet para encarar
+as missões e outros extras. É
+brincadeira de criança, né?
 --- BLOCK ---
 Acho que já expliquei
 tudo. Será um prazer

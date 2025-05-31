@@ -41,7 +41,7 @@ tivesse acontecido! <SUBS 1>
 --- BLOCK ---
 Tsc, tsc. Os covardes nunca vencem!
 --- BLOCK ---
-A Guilda caça na Floresta de Moga
+A Guilda caça na Floresta Moga
 e investiga e, em troca, atendemos
 às necessidades de defesa da vila.
 --- BLOCK ---
@@ -49,56 +49,56 @@ Não é ótimo? Agora só
 falta encontrar alguém que atenda
 MINHAS necessidades. Conhece alguém?
 --- BLOCK ---
-<SUBS 0> Você não
-pode caçar sem um
+<SUBS 0>
+Você não pode caçar sem um
 bom acampamento base.
 --- BLOCK ---
 Isso sim, quando tiver, poderá pegar
 os trabalhos que quiser e
 impressionar a Guilda. Estou ansiosa!
 --- BLOCK ---
-<SUBS 0> A Floresta
-Moga é um lugar
+<SUBS 0>
+A Floresta Moga é um lugar
 esplêndido para caçar.
 --- BLOCK ---
 Assim que o acampamento base estiver
 pronto, receberá muitos trabalhos de
 fora da vila. Será ótimo!
 --- BLOCK ---
-<SUBS 0> Fazer missões não
-ajuda apenas as pessoas. Melhora
-sua posição na Guilda!
+<SUBS 0>
+Fazer missões não ajuda apenas as pessoas.
+Melhora sua posição na Guilda!
 --- BLOCK ---
 Claro, isso depende de como se
 comporta comigo, então já está
 cuidando de suas maneiras, camarada.
 --- BLOCK ---
-<SUBS 0> Quando iniciar uma
-missão, um ícone de ingresso
-aparecerá sobre sua cabeça.
+<SUBS 0>
+Quando iniciar uma missão, um ícone de
+ingresso aparecerá sobre sua cabeça.
 --- BLOCK ---
 A cor do ingresso indica o tipo
 de missão. Verde é de coleta, vermelho
 de caça e branco de captura.
 --- BLOCK ---
-<SUBS 0> Deve estar se perguntando
-o que significa o ícone de
-interrogação na lista de missões.
+<SUBS 0>
+Deve estar se perguntando o que significa
+o ícone de interrogação na lista de missões.
 --- BLOCK ---
 Quando aparecer, indica que outros
 monstros podem se intrometer durante
 sua missão. Surpresa garantida!
 --- BLOCK ---
-<SUBS 0> As Armadilhas de
-Escolho podem deter os monstros,
-mas há um problema.
+<SUBS 0>
+As Armadilhas de Escolho podem deter os
+monstros, mas há um problema.
 --- BLOCK ---
 Se usar a armadilha várias vezes com
 o mesmo monstro, ele se acostuma. A
 armadilha será eficaz por menos tempo.
 --- BLOCK ---
-<SUBS 0> Ei, sabia que
-toda a vila considera o
+<SUBS 0>
+Ei, sabia que toda a vila considera o
 chefe um grande conselheiro?
 --- BLOCK ---
 E Junior, seu filho, sabe
@@ -113,24 +113,24 @@ Quando criança, passei tanto tempo na
 Floresta Moga que sou como uma atleta
 estudiosa. Como ainda estou solteira?
 --- BLOCK ---
-<SUBS 0> Como vai a caçada?
-Estou cheia de coisas para fazer.
-Fiz uma caminhada, fiz yoga...
+<SUBS 0>
+Como vai a caçada? Estou cheia de coisas
+para fazer. Fiz uma caminhada, fiz yoga...
 --- BLOCK ---
 Ah! E brinquei com o Poogie na
 fazenda. Que fofo e rechonchudo! Sim,
 foi um dia cansativo, te juro.
 --- BLOCK ---
-<SUBS 0> Se diverte
-caçando? Eu estive
+<SUBS 0>
+Se diverte caçando? Eu estive
 superocupada: manicure, soneca...
 --- BLOCK ---
 Até levei o Poogie da fazenda para a
 vila. Brincamos o dia todo! Mas logo depois
 foi a vez da manicure, é claro.
 --- BLOCK ---
-<SUBS 0> Diga-me uma
-criança que não queira
+<SUBS 0>
+Diga-me uma criança que não queira
 ser caçador quando crescer.
 --- BLOCK ---
 Até eu quase fui! Quer tocar
@@ -139,8 +139,8 @@ posso te partir ao meio!
 --- BLOCK ---
 ¡Hi yaa! ¡Guac! ¡Achís!
 --- BLOCK ---
-<SUBS 0> A
-Guilda fornece aos
+<SUBS 0>
+A Guilda fornece aos
 funcionários três uniformes.
 --- BLOCK ---
 Mesmo que não sequem
@@ -155,16 +155,16 @@ Anda, que sorte a sua...
 --- BLOCK ---
 Aff. Pelo menos poderia sorrir.
 --- BLOCK ---
-<SUBS 0> Vou te contar um
-segredo: há mais lugares de caça
-além da Floresta de Moga.
+<SUBS 0>
+Vou te contar um segredo: há mais
+lugares de caça além da Floresta Moga.
 --- BLOCK ---
 Continue assim e poderá
 acabar viajando pelo mundo!
 --- BLOCK ---
-<SUBS 0> Você tem nojo
-dos Giggi? Eles espreitam na
-escuridão e tentam te sugar.
+<SUBS 0>
+Você tem nojo dos Giggi? Eles espreitam
+na escuridão e tentam te sugar.
 --- BLOCK ---
 Mas eu adoro como eles
 são fofinhos. Poderia... Ei, não
@@ -175,7 +175,7 @@ Antes de poder trabalhar para a
 Guilda, deve pagar uma Taxa.
 --- BLOCK ---
 Recupera se completar a missão. É uma
-espécie de seguro. Coçar o chão com
+espécie de seguro. Raspar o chão com
 uma espátula custa caro! He, he.
 --- BLOCK ---
 Para ser sincera, muitos caçadores
@@ -483,7 +483,7 @@ Hmm... Devo estar ficando surda.
 --- BLOCK ---
 <SUBS 0>
 O perigo passou e a paz voltou para
-a Vila de Moga. Ótimo!
+a Vila Moga. Ótimo!
 --- BLOCK ---
 De volta ao trabalho, herói.
 --- BLOCK ---
@@ -508,7 +508,7 @@ me superaram.
 --- BLOCK ---
 O que se vai fazer? Hehe.
 --- BLOCK ---
-Olá, esta é a Vila de Moga!
+Olá, esta é a Vila Moga!
 Você deve ser o novo caçador de
 quem todos estão falando sem parar.
 --- BLOCK ---
@@ -531,7 +531,7 @@ pedi para prepararem uma missão para você.
 Sabe o que mandaram? Nada! Zero!
 --- BLOCK ---
 Como deve ter percebido na viagem até
-aqui, a Vila de Moga está muito
+aqui, a Vila Moga está muito
 longe do que chamamos de "civilização".
 --- BLOCK ---
 Talvez a Guilda tenha nos esquecido.
@@ -547,7 +547,7 @@ Alto, o quê? O chefe quer que
 cuide de seu filho?
 --- BLOCK ---
 Por que não disse antes? Ele foi para
-a Floresta de Moga não faz muito tempo.
+a Floresta Moga não faz muito tempo.
 --- BLOCK ---
 Desça pela ponte, além da Ferraria,
 e aperte o "botão" quando
@@ -733,8 +733,8 @@ pequena conversa com a Guilda.
 Adivinha o que tenho para você...
 Um pedido para matar um monstro!
 --- BLOCK ---
-Desta vez é um Ludroth! E o
-que é um Ludroth, você pergunta? Bem,
+Desta vez é uma Ludroth! E o
+que é uma Ludroth, você pergunta? Bem,
 de acordo com o meu extenso guia...
 --- BLOCK ---
 "Ludroth. Monstros carnívoros que vivem
@@ -746,7 +746,7 @@ Bom! Foi um prazer
 trabalhar com você!
 --- BLOCK ---
 Q-quero dizer... calma! É um monstro da
-Floresta de Moga, o que eles
+Floresta Moga, o que eles
 sabem? Tudo vai ficar bem. Provavelmente.
 --- BLOCK ---
 Mas tome cuidado, especialmente com
@@ -779,8 +779,8 @@ pequena conversa com a Guilda.
 Adivinha o que tenho para você...
 Um pedido para matar um monstro!
 --- BLOCK ---
-Desta vez é um Ludroth! E o
-que é um Ludroth, você pergunta? Bem,
+Desta vez é uma Ludroth! E o
+que é uma Ludroth, você pergunta? Bem,
 de acordo com o meu extenso guia...
 --- BLOCK ---
 "Ludroth. Monstros carnívoros que vivem
@@ -792,7 +792,7 @@ Legal! Foi um
 prazer trabalhar contigo!
 --- BLOCK ---
 Q-quero dizer... Calma! É um monstro da
-Floresta de Moga, o que eles
+Floresta Moga, o que eles
 sabem? Tudo vai dar certo. Provavelmente.
 --- BLOCK ---
 Mas você tenha cuidado, especialmente com
@@ -806,7 +806,7 @@ está aqui! Como você não
 o viu... Mas é enorme.
 --- BLOCK ---
 O Argosy é um navio mercante. Faz
-parte da vida da Vila de Moga
+parte da vida da Vila Moga
 desde que me entendo por gente.
 --- BLOCK ---
 Mas as histórias eu deixo
@@ -819,7 +819,7 @@ TERRENO DE CAÇA!
 Olha, os caçadores de elite não ficam
 em casa. Eles vão longe caçar!
 --- BLOCK ---
-Com o Ludroth você conquistou seus méritos,
+Com a Ludroth você conquistou seus méritos,
 então já tem permissão para caçar
 em um local novo e incrível.
 --- BLOCK ---
@@ -840,7 +840,7 @@ Pouco depois de iniciar, um bilhete
 de retorno aparece entre seus suprimentos.
 --- BLOCK ---
 Entregue quando quiser voltar. Até
-lá, reúna todos os objetos
+lá, reúna todos os itens
 que puder, ok? Divirta-se!
 --- BLOCK ---
 Também há uma missão para caçar
@@ -1252,7 +1252,7 @@ furioso, quem diria!
 --- BLOCK ---
 Todos os relatórios das testemunhas
 indicam que ele está vindo direto para
-a Vila de Moga. Oh, oh...
+a Vila Moga. Oh, oh...
 --- BLOCK ---
 A boa notícia é que você já
 tem o que queria! Agora pode
@@ -1475,7 +1475,7 @@ para Moga. Deixe-me ler para você...
 com o representante da Guilda
 e evacuar a ilha imediatamente".
 --- BLOCK ---
-"Estamos desistindo da Vila de Moga
+"Estamos desistindo da Vila Moga
 e das áreas de caça circundantes".
 --- BLOCK ---
 "Por fim, todos os caçadores
@@ -1589,7 +1589,7 @@ Ele é um monstro perigoso que vive
 no Vulcão, que também é perigoso. Mas
 é isso que você gosta, não é?
 --- BLOCK ---
-A Vila de Moga enfrenta
+A Vila Moga enfrenta
 um desastre como nunca viu.
 Mas veja só! Ninguém fugiu.
 --- BLOCK ---
@@ -1700,7 +1700,7 @@ Ceadeus e salvaram a vila.
 --- BLOCK ---
 Decidimos que o caçador e a
 ligação devem continuar com seu bom
-trabalho pela Vila de Moga!
+trabalho pela Vila Moga!
 --- BLOCK ---
 Fim!
 --- BLOCK ---
@@ -1731,7 +1731,7 @@ Parece muito pitoresco! Boa sorte!
 --- BLOCK ---
 E olha só! Acabou de
 chegar um pedido para
-caçar um Ludroth púrpura!
+caçar uma Ludroth púrpura!
 --- BLOCK ---
 É uma subespécie autêntica, sabia?
 É especial e tudo mais!
@@ -1748,14 +1748,14 @@ Quer emoção? Então vá conhecer essas
 subespécies. Você não ficará entediado,
 mas talvez leve uma chifrada!
 --- BLOCK ---
-Hora de caçar aquele Ludroth púrpura!
+Hora de caçar aquela Ludroth púrpura!
 --- BLOCK ---
 A página "Alta" foi adicionada
 ao quadro de missões, verifique
 lá as missões urgentes.
 --- BLOCK ---
 Receio que se não completar a
-missão do Ludroth púrpura, não poderá
+missão da Ludroth púrpura, não poderá
 aceitar mais missões de alto nível.
 --- BLOCK ---
 <SUBS 0>
@@ -2113,9 +2113,9 @@ Voilà! Chegou a solicitação para
 caçar o bicho mais colossal!
 --- BLOCK ---
 O Governante dos dois
-reinos, o Lagiacrus marmóreo!
+reinos, o Lagiacrus marfim!
 --- BLOCK ---
-Que surpresa o Lagiacrus marmóreo terá
+Que surpresa o Lagiacrus marfim terá
 preparada? Um caçador curioso gostaria de
 saber! Vamos ver o meu guia...
 --- BLOCK ---
@@ -2151,7 +2151,7 @@ E UUUUUUUU,
 UUUUUUUUUUUUUUUUUU UUUUUUUUUUUUUUUUUUUU!
 --- BLOCK ---
 Você derrotou o lendário Lagiacrus
-marmóreo! certeza de que meus chefes da
+marfim! certeza de que meus chefes da
 Guilda tiveram um susto ao saber disso!
 --- BLOCK ---
 Vou me gabar disso por anos! E daí
@@ -2176,7 +2176,7 @@ que tivemos um bom dia.
 He, he, he...
 --- BLOCK ---
 Você caçou o Lagiacrus
-marmóreo e completou todas
+marfim e completou todas
 as missões da vila.
 --- BLOCK ---
 Sim, acho que podemos dizer que você
@@ -2201,7 +2201,7 @@ Uma missão de resistência na Arena!
 Vamos ver contra quais monstros você irá
 enfrentar hoje... O primeiro da lista é...
 --- BLOCK ---
-Um Lagiacrus marmóreo.
+Um Lagiacrus marfim.
 --- BLOCK ---
 ... Bueeenooo.
 Boa sorte.
@@ -2296,7 +2296,7 @@ E nem mesmo sei o
 que isso último significa!
 --- BLOCK ---
 Você completou todas as missões
-da Vila de Moga! Todas!
+da Vila Moga! Todas!
 --- BLOCK ---
 ¡POR TODAS LAS BESTIAS!
 --- BLOCK ---

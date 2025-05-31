@@ -74,19 +74,19 @@ Cristais vida
 --- BLOCK ---
 Pó vida
 --- BLOCK ---
-Amuleto mistério
+Talismã mistério
 --- BLOCK ---
 Amul. brilhante
 --- BLOCK ---
-Amuleto gasto
+Talismã gasto
 --- BLOCK ---
-Amuleto eterno
+Talismã eterno
 --- BLOCK ---
-Amuleto de poder
+Talismã de poder
 --- BLOCK ---
 Garra de poder
 --- BLOCK ---
-Amuleto armadura
+Talismã armadura
 --- BLOCK ---
 Garra armadura
 --- BLOCK ---
@@ -180,7 +180,7 @@ Bomba ricochete +
 --- BLOCK ---
 Bomba vida Felyne
 --- BLOCK ---
-Baguio
+Baga oca
 --- BLOCK ---
 Casc. osso pq
 --- BLOCK ---
@@ -392,7 +392,7 @@ Cogumelo dragão
 --- BLOCK ---
 Paracogumelo
 --- BLOCK ---
-Bag. tinta
+Baga tinta
 --- BLOCK ---
 Semente poder
 --- BLOCK ---
@@ -402,11 +402,11 @@ Semente dragão
 --- BLOCK ---
 Noz frágil
 --- BLOCK ---
-Baguio agulha
+Baga agulha
 --- BLOCK ---
 DUMMY 12
 --- BLOCK ---
-Baguio bomba
+Baga bomba
 --- BLOCK ---
 DUMMY 13
 --- BLOCK ---
@@ -2028,7 +2028,7 @@ Ração
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Mini pedra afiada
+Mini pedra de afiar
 --- BLOCK ---
 Armadilha choque Sm
 --- BLOCK ---
@@ -2056,7 +2056,7 @@ Bomba antidragão
 --- BLOCK ---
 Tocha
 --- BLOCK ---
-Bilhete zarpa
+Bilhete garra
 --- BLOCK ---
 Geleia real
 --- BLOCK ---
@@ -2442,9 +2442,9 @@ J. desembainhado 2
 --- BLOCK ---
 Joia armadilha 1
 --- BLOCK ---
-Joia saúde 1
+Joia Saúde 1
 --- BLOCK ---
-Joia saúde 2
+Joia Saúde 2
 --- BLOCK ---
 Joia boxeador 1
 --- BLOCK ---
@@ -3056,7 +3056,7 @@ Presa Áurea
 --- BLOCK ---
 Veio Ouro Wyvern
 --- BLOCK ---
-Joia Amuleto 1
+Joia Talismã 1
 --- BLOCK ---
 Criatura Dragoenerg
 --- BLOCK ---

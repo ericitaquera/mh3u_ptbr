@@ -82,7 +82,7 @@ Feito de colmillo de
 Jhen Mohran. Poder
 e resistência únicos.
 --- BLOCK ---
-Objeto sagrado que
+Item sagrado que
 invoca águas para
 melhorar a colheita.
 --- BLOCK ---

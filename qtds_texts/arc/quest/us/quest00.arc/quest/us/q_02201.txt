@@ -3,7 +3,7 @@ TITLES_0=No Love for Ludroth
 TITLES_1=Pas d'amour pour les Ludroth
 TITLES_2=Keine Liebe für Ludrothe
 TITLES_3=Nessuno ama le Ludroth
-TITLES_4=Sem amor para o Ludroth
+TITLES_4=Sem amor para a Ludroth
 [OBJECTIVES]
 OBJECTIVES_0=Slay 6 Ludroth
 OBJECTIVES_1=Tuer 6 Ludroth

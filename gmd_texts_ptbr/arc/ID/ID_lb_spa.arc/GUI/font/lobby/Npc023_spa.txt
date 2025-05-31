@@ -60,11 +60,11 @@ TMSG_NPC023_4
 --- BLOCK ---
 *Ronco*
 --- BLOCK ---
-*Grunhido largo*
+*Grunhido longo*
 --- BLOCK ---
 *Ooooink*
 --- BLOCK ---
-*Ronco largo*
+*Ronco longo*
 --- BLOCK ---
 *Oink oink*
 --- BLOCK ---

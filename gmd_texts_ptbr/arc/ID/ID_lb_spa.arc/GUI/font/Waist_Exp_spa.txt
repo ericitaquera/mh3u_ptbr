@@ -563,11 +563,11 @@ matam um Lagiacrus. Um
 verdadeiro emblema de honra.
 --- BLOCK ---
 Protetor de Coxa de
-Lagiacrus marmóreo.
+Lagiacrus marfim.
 Usou-se Conchas de Choque.
 --- BLOCK ---
 Protetor de Coxa de
-Lagiacrus marmóreo. Tem
+Lagiacrus marfim. Tem
 espaços para munição.
 --- BLOCK ---
 Cinta carmesim impregnada de
@@ -967,11 +967,11 @@ com osso de Lagiacrus.
 Possui espaços para munição.
 --- BLOCK ---
 Cinta de Lagiacrus
-marmóreo. Utilizou-se Conchas
+marfim. Utilizou-se Conchas
 de Descarga.
 --- BLOCK ---
 Cinta de Lagiacrus
-marmóreo. Possui espaços
+marfim. Possui espaços
 para munição.
 --- BLOCK ---
 Cinta de Lagiacrus

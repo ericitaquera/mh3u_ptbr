@@ -1,0 +1,68 @@
+TMSG_QNTALK010_000
+--- BLOCK ---
+TMSG_QNTALK010_001
+--- BLOCK ---
+Cha-Cha creer recordar atajo a interior.
+Frente tienda campaña y mirar izquierda.
+--- BLOCK ---
+¡Cha-Cha sabe atajo adentro de ruinas!
+Mira en rocas a la derecha de tienda.
+--- BLOCK ---
+¡Tú ataca! ¡Tú debilita!... ¿Cómo?
+Tú inteligente. ¡Lo averiguarás!
+--- BLOCK ---
+¡Ya... ya! ¡Golpear cuernos! ¡Cuernos!
+¡Hacer crac-crac!
+--- BLOCK ---
+¡Shaka-ho! Ahora que cuerno se rompe,
+¡más ataque! ¡Persíguelo!
+--- BLOCK ---
+¡Cha, ja, ja! ¡Sí! Tú no tan malo,
+parece...
+--- BLOCK ---
+¡Oh, no! ¡Él enfadado! ¡Golpear con
+Matadragones antes de volver en sí!
+--- BLOCK ---
+¡Cuidado con patas delanteras y cola!
+¡Tú dar la vuelta para no ser trizas!
+--- BLOCK ---
+¡Cha, ja! ¡Shakaleado en toda la
+melena! ¡Ahora perseguir a guarida!
+--- BLOCK ---
+¡Tú no parar ahora! ¡Él todo tuyo!
+¡No dejar escapar!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Kayamba sabe atajo a ruinas.
+¡Mira a tienda y luego a la izquierda!
+--- BLOCK ---
+Mira en rocas a la derecha de tienda. 
+¡Kayamba encuentra camino a ruinas!
+--- BLOCK ---
+¡Kayamba sabe truco para eso! Ataca
+y luego... Bueno, Kayamba ni idea.
+--- BLOCK ---
+¡Yam-ba-ba!
+¡Tu ocasión de destrozar cuernos!
+--- BLOCK ---
+¡Porrazo y tortazo! ¡Agota al idiota!
+¡Kayamba gusta cómo lo ahuyentas!
+--- BLOCK ---
+¡Kayamba impresionado! ¿Dónde aprendes
+una técnica así?
+--- BLOCK ---
+¡Parece muy malo! ¡Aprovecha!
+¡Usa Matadragones cuando él enfada!
+--- BLOCK ---
+¡Busca patas delanteras y cola!
+¡Cazador muerto, cazador inútil!
+--- BLOCK ---
+¡Yam-ba! ¡Tú estropeas día de bestia!
+¡Ahora, persigue hasta guarida!
+--- BLOCK ---
+¡No cedas! ¡Sigue detrás!
+¡Que no escape!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---

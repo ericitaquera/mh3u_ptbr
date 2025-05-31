@@ -1,0 +1,90 @@
+TMSG_NPC022_0
+--- BLOCK ---
+TMSG_NPC022_1
+--- BLOCK ---
+TMSG_NPC022_2
+--- BLOCK ---
+TMSG_NPC022_3
+--- BLOCK ---
+TMSG_NPC022_4
+--- BLOCK ---
+<SUBS 1>
+--- BLOCK ---
+Perrrdona, buen cazador...
+¿Me pones un nombre?
+--- BLOCK ---
+<SUBS 3>
+--- BLOCK ---
+<SUBS 2>
+--- BLOCK ---
+<SUBS 0>
+Ojalá pudiera comer algo con un poco
+de proteínas, miau.
+--- BLOCK ---
+<SUBS 0>
+Las verduras no dan demasiada
+energía, ¿verdad?
+--- BLOCK ---
+<SUBS 0>
+Espero que se acaben los terremotos...
+--- BLOCK ---
+<SUBS 0>
+Miaaoou... ¡Qué cansancio! ¿No hay
+una forma más fácil de ganarse la vida?
+--- BLOCK ---
+¡Los sabrosos pescados rojos!
+El aroma del pescado blanco. Miau...
+Perdona que babee, cazador.
+--- BLOCK ---
+Miau...
+La verdad es que prefiero la carne a
+las verduras...
+--- BLOCK ---
+Pero soy algo torpe...
+No sé pescar.
+--- BLOCK ---
+Por eso trabajo en la Granja y llevo
+una vida vegetariana, ¡miau!
+--- BLOCK ---
+¿A que no sabías que los Felyne somos
+sensibles a los terremotos? Es por las
+almohadillas de las patas, miau.
+--- BLOCK ---
+Por eso me dio miedo y huí. Pero vamos a
+hacer como si no hubiera pasado nada.
+--- BLOCK ---
+Lo que sí soy es currante. Bueno, por lo
+menos, hago el trabajo, ¿vale? ¿Toca ya
+el descanso? Pues a dormir...
+--- BLOCK ---
+Miaaaau.
+--- BLOCK ---
+¿Verduras? están bien, pero mejor carne.
+--- BLOCK ---
+Prefiero comer pescado que verduras...
+--- BLOCK ---
+Buen día, miau.
+--- BLOCK ---
+Buen día para trabajar fuera, ¿miau?
+--- BLOCK ---
+Adiós... Hasta la próxima.
+--- BLOCK ---
+¡Adiós, miau!
+--- BLOCK ---
+No te desanimes ahora.
+--- BLOCK ---
+¡Supongo que ese es mi nuevo yo!
+--- BLOCK ---
+¡Miau! ¡Qué nombre tan bonito!
+--- BLOCK ---
+¡Qué nombres tan elegantes eliges!
+--- BLOCK ---
+Miau...
+Qué nombre tan... vanguardista.
+--- BLOCK ---
+Entonces...
+¿Quieres intentar cambiarme de nombre?
+--- BLOCK ---
+Por cierto...
+¿Te interesa cambiarme de nombre?
+--- BLOCK ---

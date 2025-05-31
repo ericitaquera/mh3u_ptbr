@@ -3,13 +3,13 @@ TITLES_0=Grudge Match: Lagiacrus
 TITLES_1=Revanche : Lagiacrus
 TITLES_2=Zweikampf: Lagiacrus
 TITLES_3=Scontro: Lagiacrus
-TITLES_4=Ajuste de cuentas: Lagiacrus
+TITLES_4=Ajuste de contas: Lagiacrus
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Lagiacrus
 OBJECTIVES_1=Tuer un Lagiacrus
 OBJECTIVES_2=Erlege einen Lagiacrus.
 OBJECTIVES_3=Uccidi un Lagiacrus
-OBJECTIVES_4=Mata um Lagiacrus
+OBJECTIVES_4=Matar um Lagiacrus
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
 or time expires.
@@ -19,8 +19,8 @@ FAIL_CONDITIONS_2=3 Mal ohnmächtig (Belohn.
 auf 0) o. Zeit läuft ab.
 FAIL_CONDITIONS_3=3 svenimenti (premio a 0)
 o tempo scaduto.
-FAIL_CONDITIONS_4=3 desmayos (Recompensa cae
-a 0) o acaba el tiempo.
+FAIL_CONDITIONS_4=3 desmaios (Recompensa cair
+a 0) ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Announcer/Receptionist
 CLIENTS_1=Présentatrice/Récept.
@@ -55,10 +55,11 @@ arrivato! Uccidere la bestia è già
 un compito arduo, ma farlo entro
 un limite di tempo? Solo i cacciatori
 più astuti possono riuscirci.
-DESCRIPTIONS_4=¡Cerrad las escotillas,
-queridos! El señor de los
-mares, el Lagiacrus, llega a
-puerto. Matar a la bestia ya
-es duro, pero ¿hacerlo dentro
-del tiempo? Solo los más
-"salaos" saldrán victoriosos.
+DESCRIPTIONS_4=Fechem as escotilhas,
+marujos! O senhor dos mares,
+Lagiacrus, acaba de atracar
+no porto. Derrotar essa
+fera já é osso...
+mas dentro do tempo limite?
+Só os mais “cascudos” saem
+vitoriosos!

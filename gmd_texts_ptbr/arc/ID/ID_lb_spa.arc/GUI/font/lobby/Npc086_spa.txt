@@ -1,0 +1,24 @@
+TMSG_NPC086_0
+--- BLOCK ---
+TMSG_NPC086_1
+--- BLOCK ---
+TMSG_NPC086_2
+--- BLOCK ---
+TMSG_NPC086_3
+--- BLOCK ---
+TMSG_NPC086_4
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---
+Mensagem inválida
+--- BLOCK ---

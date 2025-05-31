@@ -303,13 +303,13 @@ Entrega obj. conta
 --- BLOCK ---
  <COLO 00>Proteção contra bloqueio de ataques.
 --- BLOCK ---
- <COLO 00>Aumento de afinidade + recuperação de saúde (SP)
+ <COLO 00>Aumento de Afinidade + recuperação de Saúde (SP)
 --- BLOCK ---
  <COLO 00>Potência Afinidade + recuperação de Saúde (P)
 --- BLOCK ---
- <COLO 00>Bônus de potência, Afinidade + recuperação de Saúde (SP)
+ <COLO 00>Bônus de Potência, Afinidade + recuperação de Saúde (SP)
 --- BLOCK ---
- <COLO 00>Bônus de potência, afinidade e recuperação de saúde (P)
+ <COLO 00>Bônus de Potência, Afinidade e recuperação de Saúde (P)
 --- BLOCK ---
  <COLO 00>Melhora os ataques de estados anormais.
 --- BLOCK ---
@@ -391,13 +391,13 @@ Entrega obj. conta
 --- BLOCK ---
 : Proteção para os ouvidos (G)
 --- BLOCK ---
-: Prolonga o efeito de um objeto (P)
+: Prolonga o efeito de um item (P)
 --- BLOCK ---
-: Prolonga o efeito de um objeto (G)
+: Prolonga o efeito de um item (G)
 --- BLOCK ---
 : Melhora os ataques elementais
 --- BLOCK ---
-: Bônus de potência de ataques elementais
+: Bônus de Potência de ataques elementais
 --- BLOCK ---
 
 --- BLOCK ---
@@ -408,9 +408,9 @@ Caixa de suprimentos
 Sua bolsa está cheia.
 --- BLOCK ---
 Você não pode carregar
-mais desse objeto.
+mais desse item.
 --- BLOCK ---
-Selecione os objetos
+Selecione os itens
 que deseja coletar.
 --- BLOCK ---
 Caixa de recompensas

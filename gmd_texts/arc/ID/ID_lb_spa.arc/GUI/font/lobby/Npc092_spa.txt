@@ -1,0 +1,457 @@
+TMSG_NPC092_0
+--- BLOCK ---
+TMSG_NPC092_1
+--- BLOCK ---
+TMSG_NPC092_2
+--- BLOCK ---
+TMSG_NPC092_3
+--- BLOCK ---
+TMSG_NPC092_4
+--- BLOCK ---
+<SUBS 0>
+¿Tú querer ir con Cha-Cha a
+misión-misión?
+--- BLOCK ---
+¡Shaka-laka-bing-bang!
+¡La victoria ser nuestra!
+--- BLOCK ---
+Cha-Cha no querer misión-misión ahora.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Cha-qué? ¿Tú dejar Cha-Cha atrás?
+¿Mantener fuerte-fuerte?
+--- BLOCK ---
+Chaah.
+Cha-Cha parecer bien sentar y
+relaka-jar a veces.
+--- BLOCK ---
+Oga-oga-cha-cha. ¡Sabia decisión!
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Tú querer seguir a Cha-Cha en
+misión-misión multijugador?
+--- BLOCK ---
+¡Shaka-laka, bing-bang!
+¡Solo o con amigo, Cha-Cha garantía
+de victoria definitiva!
+--- BLOCK ---
+Cha-Cha no querer misión-misión
+multijugador ahora.
+<SUBS 1>
+--- BLOCK ---
+<SUBS 0>
+¿Cha-qué? ¿Tú querer dejar atrás a
+Cha-Cha para ir de fiesta?
+--- BLOCK ---
+Cha-Cha entender.
+De acuerdo. Cha-Cha no sentirse
+muy social hoy igualmente.
+--- BLOCK ---
+Oga-oga-cha-cha. ¡Tú tomar decisión correcta!
+--- BLOCK ---
+¿Tú amigo-amigo de secuaz de Cha-Cha?
+--- BLOCK ---
+¡Oga-oga! ¡Tú buen juez de talento!
+Mejor que tú y secuaz jugar limpio.
+--- BLOCK ---
+Secuaz de Cha-Cha seguir verde.
+A veces fallar misiones, a veces olvidar
+cortar monstruo... No bonito.
+--- BLOCK ---
+Cha-Cha esperar tú tener corazón
+compasivo. ¡Secuaz buena intención!
+--- BLOCK ---
+¡Cha-Cha acompañar en cacería!
+¡Listo para romper shaka-huesos!
+--- BLOCK ---
+Si tú tener muchos problemas para
+secuaz, Cha-Cha ahí para ayudar.
+--- BLOCK ---
+¿Cha-qué? ¿Tú querer unirte a
+filas de secuaces de Cha-Cha?
+--- BLOCK ---
+Lástima. Cha-Cha apreciar el gesto,
+¡pero ya tener manos llenas 
+con secuaz actual!
+--- BLOCK ---
+Amigo de secuaz es amigo de Cha-Cha.
+¡Así hacer los Shakalaka!
+--- BLOCK ---
+Tú parecer experto cazador.
+Tú entrenar con secuaz de Cha-Cha. ¿Sí?
+--- BLOCK ---
+¡Eh, campeón! Cha-Cha darte esto
+como gracias por cuidar bien
+de secuaz inútil.
+--- BLOCK ---
+¡Cha-Cha mirar hacia largo futuro de
+éxitos en caza y cuidado de secuaces
+juntos! ¡Opa-opa!
+--- BLOCK ---
+¿Tú amigo de secuaz de Kayamba?
+--- BLOCK ---
+Bueno, Kayamba cree que tú bien.
+¡Kayamba encantado de conocerte!
+--- BLOCK ---
+Secuaz de Kayamba sigue verde.
+Comete errores a menudo.
+Pierde de vista la presa.
+--- BLOCK ---
+Así que tú no pasarte con secuaz, ¿vale?
+Como favor a Kayamba. 
+--- BLOCK ---
+¡Vale! ¡Tú y secuaz de Kayamba!
+¡A cazar!
+--- BLOCK ---
+¡Kayamba también va! No preocupes,
+Kayamba puede seguir ritmo.
+--- BLOCK ---
+¿Eh? ¿Tú también quieres ser
+secuaz de Kayamba?
+--- BLOCK ---
+Por desgracia, Kayamba ya cubrió puesto
+de secuaz. ¡Pero Kayamba da gracias por
+tu interés!
+--- BLOCK ---
+¡Amigo de secuaz de Kayamba es
+amigo de Kayamba!
+--- BLOCK ---
+Kayamba pide como amigo:
+¡trae secuaz de una pieza!
+--- BLOCK ---
+Tú cuidas bien de secuaz indefenso
+de Kayamba. Kayamba sabe que no fácil.
+Por eso Kayamba te da regalo.
+--- BLOCK ---
+Sigue cuidando de secuaz.
+Secuaz puede ser travieso...
+--- BLOCK ---
+<SUBS 0>
+¡Con Cha-Cha en tu lado, tú hacer mucho!
+--- BLOCK ---
+¿Cha-qué?
+¿Tú decir que YA hacer mucho?
+¡Tú hacer Cha-Cha reír!
+--- BLOCK ---
+Tú convertir en un cazador campeón
+cualificado cuando conseguir modestia
+Cha-Cha. ¡Cazador, tú ser más como yo!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha siempre llevar máscara. Así
+hacen los Shakalaka.
+--- BLOCK ---
+¿Tú preguntar por qué? En caso Cha-Cha,
+máscara por seguridad. Yo tan guapetón
+que todos desmayar si no máscara.
+--- BLOCK ---
+Cha-cha-oga-oga.
+Si te gusta Cha-Cha, tú quemar.
+¡Yo sangre caliente! ¡Ya verás!
+--- BLOCK ---
+Si tú querer objeto que Cha-Cha tiene,
+o querer ver Habilidades de Cha-Cha,
+o escuchar suave voz de Cha-Cha... 
+--- BLOCK ---
+¡Primero deber hablar con Cha-Cha!
+¡La comunicación es crucial-laka!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha ver que tú no atacar todos los
+monstruos que ver. Cha-Cha entender.
+--- BLOCK ---
+Así que Cha-Cha pensar un plan.
+Cuando tú tener arma en funda,
+¡Cha-Cha no macha-chacar nada!
+--- BLOCK ---
+Mejor esconder arma si no querer ser
+detectado, si monstruo tranquilizado
+¡o si colocas bum-bum bomba!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha parecer vegetariano, ¡pero
+tener mucho amor por carne-carne!
+--- BLOCK ---
+Da carne a Cha-Cha en misión. ¡Yo
+aceptar con mucha alegría! ¡Opa-opa!
+--- BLOCK ---
+Jugo de carne tener efecto secundario en
+Cha-Cha. ¡Entra en poros y se transforma
+en puntos experiencia! Excepto si lleno.
+--- BLOCK ---
+¡Cuando Kayamba viene, probabilidad
+de éxito en misión es 99,9%!
+--- BLOCK ---
+Sé qué dices. 99,9% es número tonto.
+¿Por qué no redondear a 100?
+--- BLOCK ---
+¡Porque Kayamba riguroso con datos!
+¿Y si número revisado por pares?
+--- BLOCK ---
+Los Shakalaka siempre llevar máscara.
+A todas horas, todos los días.
+--- BLOCK ---
+¿Mmm? ¿Tú preguntarte sobre aspecto
+de Kayamba? ¡Intenta echar vistazo
+próxima vez que Kayamba cambia máscara!
+--- BLOCK ---
+Pero Kayamba avisa: ¡Kayamba cambiador
+más rápido de historia Shakalaka!
+¡Nadie ha visto cara real de Kayamba!
+--- BLOCK ---
+Kayamba es cazador honrado. Kayamba
+nunca ataca a monstruo que duerme.
+--- BLOCK ---
+¡Kayamba juega limpio como verdadero
+caballero Shakalaka! Generalmente.
+--- BLOCK ---
+Kayamba puede cortar y recoger hasta
+ocho clases de objetos durante caza.
+--- BLOCK ---
+¡Kayamba trae suficiente botín para
+montar mercadillo propio!
+--- BLOCK ---
+Máscara tenaza de Kayamba hecha de coco
+y pinza de cangrejo. Huele a brisa marina.
+--- BLOCK ---
+No tiene poder especial, pero está bien.
+A veces Kayamba quiere llevar máscara
+que mejor sienta. ¡La Máscara tenaza!
+--- BLOCK ---
+<SUBS 0>
+¡Con Cha-Cha en tu lado, tú hacer mucho!
+--- BLOCK ---
+¿Cha-qué?
+¿Tú decir que YA hacer mucho?
+¡Tú hacer Cha-Cha reír!
+--- BLOCK ---
+Tú convertir en un cazador campeón
+cualificado cuando conseguir modestia
+Cha-Cha. ¡Cazador, tú ser más como yo!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha siempre llevar máscara. Así
+hacen los Shakalaka.
+--- BLOCK ---
+¿Tú preguntar por qué? En caso Cha-Cha,
+máscara por seguridad. Yo tan guapetón
+que todos desmayar si no máscara.
+--- BLOCK ---
+Cha-cha-oga-oga.
+Si te gusta Cha-Cha, tú quemar.
+¡Yo sangre caliente! ¡Ya verás!
+--- BLOCK ---
+Si tú querer objeto que Cha-Cha tiene,
+o querer ver Habilidades de Cha-Cha,
+o escuchar suave voz de Cha-Cha... 
+--- BLOCK ---
+¡Primero deber hablar con Cha-Cha!
+¡La comunicación es crucial-laka!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha ver que tú no atacar todos los
+monstruos que ver. Cha-Cha entender.
+--- BLOCK ---
+Así que Cha-Cha pensar un plan.
+Cuando tú tener arma en funda,
+¡Cha-Cha no macha-chacar nada!
+--- BLOCK ---
+Mejor esconder arma si no querer ser
+detectado, si monstruo tranquilizado
+¡o si colocas bum-bum bomba!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha parecer vegetariano, ¡pero
+tener mucho amor por carne-carne!
+--- BLOCK ---
+Da carne a Cha-Cha en misión. ¡Yo
+aceptar con mucha alegría! ¡Opa-opa!
+--- BLOCK ---
+Jugo de carne tener efecto secundario en
+Cha-Cha. ¡Entra en poros y se transforma
+en puntos experiencia! Excepto si lleno.
+--- BLOCK ---
+<SUBS 0>
+¿Tú conocer "señal" que poder enviar
+desde menú del juego?
+--- BLOCK ---
+Señal es música para oídos de Cha-Cha.
+Cuando Cha-Cha oír el "ping-ping", yo
+correr como el viento a tu lado.
+--- BLOCK ---
+Cuando tú echar de menos ternura Cha-Cha
+o mi astucia, abre menú en cualquier
+momento y envía señal. ¡Cha-ping!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha tener reputación de Shakalaka muy
+tolerante. Pero también tener laka-límites.
+--- BLOCK ---
+Si Cha-Cha tiene mucha pupa, ¡furia
+alcanzar el máximo! ¡Cha-Cha enfadar!
+Monstruos no gustar Cha-Cha si enfadar.
+--- BLOCK ---
+Cha-Cha enfadado puede ejercer técnica
+de ataque secreta. ¡Cha-Cha enfadado
+no se responsabiliza de sus actos!
+--- BLOCK ---
+<SUBS 0>
+Cha-Cha sufrir muchos daños, ¡Cha-Cha
+enfadarse! Después sentirse culpable.
+--- BLOCK ---
+Furia de Cha-Cha tan agotadora que yo
+sordo como tapia. ¡Yo no oír
+nada que tú decir!
+--- BLOCK ---
+Tú mejor leer "Vida de
+caza" hasta que furia terrible de
+Cha-Cha estar saciada.
+--- BLOCK ---
+<SUBS 0>
+¡Bombas! ¡Potentes pero fugaces, como
+enseñanzas de maestro filósofo Cha-Cha!
+--- BLOCK ---
+Cuando tú colocar bomba, Cha-Cha también
+poner bomba al lado de tuya para máximo
+bum-bum. ¡Cha-Cha gustar bum-bum!
+--- BLOCK ---
+Cha-Cha dejar encender mecha a ti.
+¡Porque tú ser secuaz de Cha-Cha!
+--- BLOCK ---
+<SUBS 0>
+¡Todos saber que Cha-Cha muy
+aficionado a bailakalar!
+--- BLOCK ---
+Cuando Cha-Cha ver tus gestos,
+¡el cuerpo de Cha-Cha se rinde
+al ritmo! ¡Bum-ba, bum-ba!
+--- BLOCK ---
+Cha-Cha sugerir que tú elegir gestos del
+menú del juego a veces. ¡No puedes negar
+la danza de Cha-Cha! ¡Sha-ka! ¡La-ka!
+--- BLOCK ---
+<SUBS 0>
+Pregunta de Cha-Cha: ¿Qué hacer tú si
+monstruo paralizar, dormir, o derribar?
+--- BLOCK ---
+Oga-oga...
+¡Tu única esperanza ser Cha-Cha!
+--- BLOCK ---
+Cuando Cha-Cha ofrecer mano benevolente
+para rescatar, ¡tú ofrecer cantidad
+adecuada de lágrimas de agradecimiento!
+--- BLOCK ---
+<SUBS 0>
+¿Nadie superior a Cha—Cha en valor
+y agallas? Pregunta retórica.
+--- BLOCK ---
+Cuando monstruo grande aparecer, Cha-Cha
+a veces recordar cita importante o tener
+que ir a bum-bum en baño. ¡Es natural!
+--- BLOCK ---
+Cha-Cha dice: si yo tener bajo Valor,
+esto ocurrir más a menudo. ¡Cha-Cha no
+huir! ¡Cha-Cha solo estar ocupado!
+--- BLOCK ---
+<SUBS 0>
+Shakalactitud de Cha-Cha lógica si tú
+poner ojos en estadística de Valor. 
+--- BLOCK ---
+¡La experiencia es lo más importante!
+Cuando Cha-Cha pasear en misión muy
+lampa-larga, el Valor subir.
+--- BLOCK ---
+¡Tras mucho pasear, un día Cha-Cha
+alcanzar verdadero límite de valentía!
+--- BLOCK ---
+<SUBS 0>
+¡"Nivel" de Cha-Cha es simple muestra
+de fuerza de Cha-Cha! ¡Oh-pa oh-pa!
+--- BLOCK ---
+Cuando Cha-Cha derrotar a monstruos,
+nivel subir. ¡Ritmo de subida depender
+del monstruo que macha-chacar!
+--- BLOCK ---
+Ah, pero no necesario Cha-Cha dar
+golpe final. ¡Cha-Cha mirar a ti y ver
+tu técnica de golpes de campeón!
+--- BLOCK ---
+<SUBS 0>
+Entre colección de máscaras de Cha-Cha,
+algunas tener poder shakaespecial.
+--- BLOCK ---
+¡Si Cha-Cha poner máscara así en cara,
+nivel de Maestría aumentar!
+--- BLOCK ---
+Cuando Maestría subir, poder especial
+de máscara subir. ¡Después llegar
+hazañas poderosas! ¡Cha-guau!
+--- BLOCK ---
+<SUBS 0>
+Cuando Cha-Cha vencer monstruo y subir
+nivel, a veces aprender Habilidad.
+--- BLOCK ---
+Cuando vencer a monstruo fuerte,
+a veces Cha-Cha aprender habilidad
+no relacionada con nivel. ¡Cha-guau!
+--- BLOCK ---
+¡Cha-cha-chuu! Cha-Cha usar mucha
+habilidad, ¡cortar muchos monstruos!
+--- BLOCK ---
+<SUBS 0>
+¡Bonita Máscara de bellota hecha de
+fruto vaciado, oler a naturaleza!
+--- BLOCK ---
+Cuando Cha-Cha poner máscara, ¡sentir
+necesidad de reunir material de plantas!
+--- BLOCK ---
+Lo mejor de máscara es comodidad.
+Máscara bellota no tener poder, ¡pero
+es la mejor para la cara!
+--- BLOCK ---
+<SUBS 0>
+Máscara de bellota ser máscara hecha
+a mano más básica de Cha-Cha.
+--- BLOCK ---
+Cuando yo llevar, Cha-Cha reunir
+material, ¡y también hacer ataque cuerpo
+a cuerpo a monstruo grande! ¡Cha-já!
+--- BLOCK ---
+¡Cha-Cha!
+--- BLOCK ---
+¡Oga-oga!
+--- BLOCK ---
+¡Ta-ta-cha-chán!
+--- BLOCK ---
+¡Shaka-hola-laka!
+--- BLOCK ---
+¡Cha-Cha sentir juguetón hoy!
+--- BLOCK ---
+Tripa de Cha-Cha rugir. Esperar comer.
+--- BLOCK ---
+Cha-Cha bailar después de cha-charla.
+--- BLOCK ---
+¡Cha-Cha sentir como cha-chaval salvaje!
+--- BLOCK ---
+¡Cha! ¡Tú interrumpir Cha-Cha pensar!
+--- BLOCK ---
+Cha-Cha tener mal día... ¡En fin!
+--- BLOCK ---
+Danza hacer corazón sano, ¿lo ves?
+--- BLOCK ---
+Chu, Cha-Cha ahora estar ocupado...
+--- BLOCK ---
+¡Cha-Cha!
+--- BLOCK ---
+¡Hasta laka-luego!
+--- BLOCK ---
+¡Oga-oga! ¡Cha-chao!
+--- BLOCK ---
+¡Hasta laka-otra!
+--- BLOCK ---
+(!)
+--- BLOCK ---
+(!)
+--- BLOCK ---

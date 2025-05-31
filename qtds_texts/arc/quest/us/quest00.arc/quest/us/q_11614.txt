@@ -9,7 +9,7 @@ OBJECTIVES_0=Hunt a Purple Ludroth
 OBJECTIVES_1=Chasser un Ludroth pourpre
 OBJECTIVES_2=Erjage einen Lila Ludroth.
 OBJECTIVES_3=Caccia un Ludroth purpureo
-OBJECTIVES_4=Caçar um Ludroth púrpura
+OBJECTIVES_4=Caçar uma Ludroth púrpura
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Reward hits 0, or time
 expires.
@@ -57,7 +57,7 @@ della Gilda?
 DESCRIPTIONS_4=Nossa, que típico. Volto de
 uma caminhada de 10 dias pela
 floresta, e o que eu encontro?
-A ordem de caçar um Ludroth
+A ordem de caçar uma Ludroth
 purpúra! Preciso descansar!
 Você se importaria de cuidar
 disso, caçador do Grêmio?

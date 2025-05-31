@@ -9,7 +9,7 @@ OBJECTIVES_0=Slay a Purple Ludroth
 OBJECTIVES_1=Tuer un Ludroth pourpre
 OBJECTIVES_2=Erlege einen Lila Ludroth.
 OBJECTIVES_3=Uccidi un Ludroth purpureo
-OBJECTIVES_4=Mate um Ludroth púrpura
+OBJECTIVES_4=Mate uma Ludroth púrpura
 púrpura
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),

@@ -30,7 +30,7 @@ quando aramos os campos...
 Fazenda é mais importante do que nunca!
 --- BLOCK ---
 <SUBS 0>
-azer grandes esforços com a enxada é o
+Fazer grandes esforços com a enxada é o
 exercício aeróbico perfeito, miau!
 --- BLOCK ---
 <SUBS 0>
@@ -55,7 +55,7 @@ Não se vive só de carne, miau!
 Quando se tornou moda comer saudável,
 muitos Felyne mudaram para comida orgânica.
 --- BLOCK ---
-Por isso, a Fazenda da Vila de Moga é
+Por isso, a Fazenda da Vila Moga é
 livre de produtos químicos e aditivos.
 Nunca usamos pesticidas!
 --- BLOCK ---

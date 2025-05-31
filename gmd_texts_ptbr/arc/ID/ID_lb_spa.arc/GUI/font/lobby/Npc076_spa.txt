@@ -13,7 +13,7 @@ TMSG_NPC076_4
 <SUBS 1>
 --- BLOCK ---
 Ei, você! Vim com meu pai da
-Vila de Moga para vender peixe!
+Vila Moga para vender peixe!
 --- BLOCK ---
 Meu pai está ocupado trabalhando,
 mas disse que eu poderia explorar a

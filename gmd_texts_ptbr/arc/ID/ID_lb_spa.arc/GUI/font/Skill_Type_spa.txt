@@ -194,7 +194,7 @@ Capricho
 --- BLOCK ---
 Caçamel
 --- BLOCK ---
-Amuleto
+Talismã
 --- BLOCK ---
 Sorte
 --- BLOCK ---
@@ -490,7 +490,7 @@ Res. gelo
 --- BLOCK ---
 Res. dragão
 --- BLOCK ---
-Afiamento
+Afiação
 --- BLOCK ---
 Artesão
 --- BLOCK ---
@@ -578,7 +578,7 @@ Capricho
 --- BLOCK ---
 Mel coletado
 --- BLOCK ---
-Amuleto
+Talismã
 --- BLOCK ---
 Sorte
 --- BLOCK ---

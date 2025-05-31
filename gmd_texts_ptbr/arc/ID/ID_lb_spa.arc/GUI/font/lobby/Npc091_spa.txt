@@ -27,17 +27,17 @@ Já viu nossa ampla variedade de
 ingredientes raros? Tanzia sempre tem
 os mais frescos e requintados.
 --- BLOCK ---
-Claro, aqui no restaurante Tanzyne só usamos
-o melhor do melhor! Por isso
+Claro, aqui no restaurante Tanzyne só
+usamos o melhor do melhor! Por isso
 é um restaurante de três estrelas.
 --- BLOCK ---
 Nosso Mestre assador também é o melhor.
 O chef touro da churrasqueira! Embora
 às vezes queime o rabo, miau.
 --- BLOCK ---
-Muitos caçadores visitam este lugar para encher
-a barriga antes de caçar ou celebrar
-o sucesso depois. Por que não?
+Muitos caçadores visitam este lugar para
+encher a barriga antes de caçar ou
+celebrar o sucesso depois. Por que não?
 --- BLOCK ---
 Às vezes você quer ir
 onde todos sabem seu nome!
@@ -61,13 +61,13 @@ seu verdadeiro fogo interior surge!
 Suponho que o caminho para o gênio
 culinário é longo e perigoso, miau.
 --- BLOCK ---
-Ei! Você! Já experimentou a Sopa de
-peixe de Tanzia? É o prato que
-colocou o restaurante Tanzyne no mapa culinário!
+Ei! Você! Já experimentou a Sopa de peixe
+de Tanzia? É o prato que colocou o
+restaurante Tanzyne no mapa culinário!
 --- BLOCK ---
-Tem muito sabor! E é
-tão picante! E também
-altamente nutritiva e rejuvenescedora!
+Tem muito sabor! E é tão picante!
+E também altamente nutritiva
+e rejuvenescedora!
 --- BLOCK ---
 Somente nossos melhores chefs Felyne
 conhecem a receita. Que mistério!
@@ -88,8 +88,8 @@ O sabor é fascinante! Tanto
 que alguns não conseguem engolir...
 --- BLOCK ---
 <SUBS 0>
-A língua de Popo é... a língua de um Popo.
-É um herbívoro de clima frio.
+A língua de Popo é... a língua de
+um Popo. É um herbívoro de clima frio.
 --- BLOCK ---
 Ah? Sabia disso? Claro. Ninguém
 te supera! Ha, ha! Entende?
@@ -103,31 +103,31 @@ A maioria gosta de ir direto para
 a carne. Eu não. Gosto da cartilagem!
 --- BLOCK ---
 <SUBS 0>
-Me indique um ingrediente mais deliciosamente
-macabro do que a Cabeça de Dragão!
+Indique um ingrediente mais deliciosamente
+macabro que a Cabeça de Dragão!
 --- BLOCK ---
-Pode usá-la para lembrar batalhas épicas.
-Ou para brincar de sério.
+Pode usá-la para lembrar batalhas
+épicas. Ou para brincar de sério.
 Pelo menos não morde! Miau!
 --- BLOCK ---
 <SUBS 0>
 A Manteiga de búfalo é feita com seu
 doce leite. E com gordura de focinho.
 --- BLOCK ---
-As pessoas perguntam se é necessário. Sabe
-o que digo a elas? "De
+As pessoas perguntam se é necessário.
+Sabe o que digo a elas? "De
 onde preferem que venha a gordura?"
 --- BLOCK ---
 <SUBS 0>
-O Mosto de Tanzia é uma Master Cola especial
-que é vendida apenas em Tanzia!
+O Mosto de Tanzia é uma Master Cola
+especial que é vendida apenas em Tanzia!
 --- BLOCK ---
 A Master Cola é o ápice  das melhores
 bebidas carbonatadas. Adoramos!
 Foi feita apenas para nós!
 --- BLOCK ---
-A Master Cola é a bebida
-definitiva! Foi inventada por um instrutor
+A Master Cola é a bebida definitiva!
+Foi inventada por um instrutor
 de caça que viajava pelo mundo.
 --- BLOCK ---
 O segredo de seu sabor? Ninguém sabe! Bem,
@@ -138,8 +138,8 @@ ouvi é que se aposentou para uma cidade...
 O Licor é uma bebida estrangeira
 com um sabor distintivo.
 --- BLOCK ---
-Parece fazer sucesso entre os
-mais jovens. Principalmente entre elas!
+Parece fazer sucesso entre os mais
+jovens. Principalmente entre elas!
 --- BLOCK ---
 <SUBS 0>
 Vinho abençoado... O ápice
@@ -150,20 +150,20 @@ formando uma pirâmide e esbanjam
 suas fortunas pelo ralo!
 --- BLOCK ---
 <SUBS 0>
-O Caldo de Peixe Dourado é uma bebida feita
-com a rara Batata de Peixe Dourado.
+O Caldo de Peixe Dourado é uma bebida
+feita com a rara Batata de Peixe Dourado.
 --- BLOCK ---
 Só cresce uma a cada século.
 Então, só conseguimos uma ou duas
 garrafas por milênio! Não derrame! Ai!
 --- BLOCK ---
-Ei! Olá! Bem-vindo ao restaurante Tanzyne,
-o único restaurante de três estrelas
-de Tanzia com aval da Guilda!
+Ei! Olá! Bem-vindo ao restaurante
+Tanzyne, o único restaurante de três
+estrelas de Tanzia com aval da Guilda!
 --- BLOCK ---
-Sou o novo camareiro, e você é
-meu primeiro cliente! Por isso, aceite
-um presentinho. Como gorjeta! Ao contrário.
+Sou o novo camareiro, e você é meu
+primeiro cliente! Por isso, aceite um
+presentinho. Como gorjeta! Ao contrário.
 --- BLOCK ---
 Bem-vindo ao restaurante Tanzyne!
 --- BLOCK ---
@@ -195,8 +195,8 @@ que goste!
 Bem-vindo! Sente-se,
 por favor!
 --- BLOCK ---
-Nosso especial de hoje é Mosto de
-Tanzia gelado! Bem, esse é nosso especial
+Nosso especial de hoje é Mosto de Tanzia
+gelado! Bem, esse é nosso especial
 TODOS os dias! Miau, ha, ha!
 --- BLOCK ---
 (!)

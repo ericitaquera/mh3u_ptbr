@@ -16,8 +16,8 @@ TMSG_NPC009_4
 Sabia que trocar
 ajuda na caça?
 --- BLOCK ---
-Ja, ótima pergunta! A Vila de Moga é
-famosa por seus objetos raros; os Bens
+Ja, ótima pergunta! A Vila Moga é
+famosa por seus itens raros; os Bens
 alcançam um bom preço no ultramar.
 --- BLOCK ---
 <SUBS 0>
@@ -83,8 +83,8 @@ Questionas por que um homem conhecido
 como o Gigante do Oriente traz seu
 navio mercante para esta diminuta vila?
 --- BLOCK ---
-Ja, ótima pergunta! A Vila de Moga é
-famosa por seus objetos raros; os Bens
+Ja, ótima pergunta! A Vila Moga é
+famosa por seus itens raros; os Bens
 alcançam um bom preço no ultramar.
 --- BLOCK ---
 Se me trouxeres esses Bens,
@@ -138,7 +138,7 @@ Neko (significa "gato") meu melhor marinheiro.
 O chefe da vila pediu ao Gigante do
 Oriente (eu) para negociar em Porto Tanzia.
 --- BLOCK ---
-Fiz de Neko um tanto. Ele manda!
+Deixei por conta do Neko. Ele manda!
 Se quiseres ir a Tanzia, fala com
 o Felyne cheirando a aventura!
 --- BLOCK ---
@@ -293,7 +293,7 @@ Em tempos de perigo, as terras devem
 se apoiar... se o dinheiro bater! O
 amor e a troca salvam o mundo, né?
 --- BLOCK ---
-Ofereço objetos que te ajudarão a
+Ofereço itens que te ajudarão a
 enfrentar o monstro marinho. Consulta
 a lista de Itens do reino wyvern.
 --- BLOCK ---
@@ -328,7 +328,7 @@ teus feitos onde quer que atraquemos!
 --- BLOCK ---
 Tem boas conversas enquanto o capitão do
 Argosy negocia. Mantenha boas relações.
-Assim, mais objetos raros em troca, entendes?
+Assim, mais itens raros em troca, entendes?
 --- BLOCK ---
 Enfim, tu, caçador lendário!
 Caçador de lendas! Todos
@@ -431,7 +431,7 @@ caçador. Talvez consiga derrotar
 essa ameaça. Apenas talvez...
 --- BLOCK ---
 Veja, veja! Lagiacrus
-marmóreo chegou!
+marfim chegou!
 --- BLOCK ---
 O monstro está vindo, e o Gigante
 do Oriente já conhece seu terrível
@@ -455,7 +455,7 @@ Olá, caçador! Bem-vindo! Bem-vindo,
 bem-vindo, bem-vindo! Quatro "bem-vindos"!
 --- BLOCK ---
 Os rumores dizem que você caçou o terrível
-Lagiacrus marmóreo! O Gigante do Oriente
+Lagiacrus marfim! O Gigante do Oriente
 está muito impressionado. Que honra!
 --- BLOCK ---
 Faço muitas viagens, conheço muitos caçadores.
@@ -473,7 +473,7 @@ O Gigante do Oriente voltou!
 --- BLOCK ---
 Bem-vindo, caçador!
 --- BLOCK ---
-Vila de Moga, estou de volta!
+Vila Moga, estou de volta!
 --- BLOCK ---
 Até nos encontrarmos novamente!
 --- BLOCK ---

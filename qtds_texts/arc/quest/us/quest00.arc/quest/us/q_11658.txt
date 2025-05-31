@@ -57,7 +57,7 @@ bene assieme. Ora basta! Non
 permetterò che mi rubino
 la scena! Che qualcuno li
 uccida immediatamente!
-DESCRIPTIONS_4=Desde que o Ludroth roxo
+DESCRIPTIONS_4=Desde que a Ludroth púrpura
 e a Rathian rosa se juntaram,
 todos falam do lindo casal
 que eles formam. Estou cansada

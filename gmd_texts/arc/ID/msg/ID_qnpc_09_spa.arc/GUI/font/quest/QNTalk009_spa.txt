@@ -1,0 +1,64 @@
+TMSG_QNTALK009_000
+--- BLOCK ---
+TMSG_QNTALK009_001
+--- BLOCK ---
+¡Chaa! ¡Socorro! ¡Ayudar a Cha-Cha!
+¡Yo ser comida de monstruo!
+--- BLOCK ---
+¡Chaah! ¡Cha-choque llena de monstruos!
+--- BLOCK ---
+Chaa...
+Cha-Cha seguro. Cha-Cha muy aliviado.
+--- BLOCK ---
+¡Ah! ¡Campeón cazador fuerte!
+¡Cha-Cha en peligro! ¡Salvar a Cha-Cha!
+--- BLOCK ---
+¿Cha? ¡Tú otra vez! ¡Echa-cha a los
+monstruos, por favor! ¡Salvar a Cha-Cha!
+--- BLOCK ---
+¡Oh, campeón fuerte otra vez!
+¡Salvar a Cha-Cha, porfa!
+--- BLOCK ---
+¡Ay! ¡Ay, ay, ay, ay, ay!
+¿Por qué daño a Cha-Cha? ¡Yo en paz!
+--- BLOCK ---
+Aj...
+¡Cha-Cha pensando en cambiar trabajo!
+--- BLOCK ---
+¿Ser esto el fin de Cha-Cha?
+¡Ayudar, por favor!
+--- BLOCK ---
+Chaa... Cha-Cha pensó que era el final. 
+¡Muchas, muchas gracias, cazador!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Ayuda! ¡Ayuuuda! ¡Kayamba perdido!
+¡Olvidó mapa en la mesa!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Eh, tú! ¡Persona rara!
+¡Ven y ayuda a Kayamba!
+--- BLOCK ---
+¡Ya casi está! ¡Acaba tú!
+Kayamba espera aquí y hace guardia.
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+¡Ay! ¿Qué haces?
+¡Violencia nunca arregla nada!
+--- BLOCK ---
+Ooh... Kayamba recibe golpazo...
+Siente todo entumecido...
+--- BLOCK ---
+Vida de Kayamba... se agota...
+Tienes que... dar prisa...
+--- BLOCK ---
+Ooh... Salvaste vida de Kayamba.
+¡Kayamba en deuda contigo!
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
