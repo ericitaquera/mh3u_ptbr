@@ -53,13 +53,21 @@ Até a próxima versão!!
 
 Changelog 
 
-v.0.0.3-beta
-- 100% das missões traduzidas
-- Corrigidas alguns textos e imagens
+v0.0.0.4-beta
+- 100% das missões (quests) traduzidas
+- 100% de todos os diálogos de NPC, tanto nos lobbys e missões, traduzidos.
+- Alguns ajustes em nomes de monstros e ítens.
+- Alguns ajustes no alinhamento e balanceamento de diálogos e menus.
 
 ---
 
-v.0.0.3-beta
+v0.0.0.0.3-beta
+- 100% das missões traduzidas
+- Corrigid0s alguns textos e imagens
+
+---
+
+v0.0.0.2-beta
 - 100% das missões traduzidas
 - 100% dos ítens, armas, monstros, tutorials, lojas estão traduzidos.
 - Quase todos os diálogos de NPC´s traduzidos
@@ -67,7 +75,7 @@ v.0.0.3-beta
 
 ---
 
-v.0.0.1-beta:
+v0.0.0.1-beta:
 - 30% das missões traduzidas
 - 100% dos ítens, armas, monstros, tutorials, lojas estão traduzidos.
 - Vários NPC´s traduzidos
