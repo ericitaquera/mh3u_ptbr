@@ -935,8 +935,8 @@ Se ele construir, você poderá
 pegar insetos diretamente da
 Fazenda para fabricar equipamento.
 --- BLOCK ---
-Mas serão necessários Recursos e materiais.
-Por isso precisamos de você.
+Mas serão necessários Recursos e
+materiais. Por isso precisamos de você.
 --- BLOCK ---
 Claro, você poderá usar a Caixa
 de insetos sempre que quiser. Já
@@ -1200,8 +1200,8 @@ de um Qurupeco carmesim. Deve
 ter um ninho por aí.
 --- BLOCK ---
 A partir de agora, você avistará
-Qurupecos carmesins na floresta, mesmo que
-não esteja em uma missão.
+Qurupecos carmesins na floresta, mesmo
+que não esteja em uma missão.
 --- BLOCK ---
 Vou te ajudar a ficar
 por dentro, então continue consultando
@@ -1210,8 +1210,8 @@ o Clima de Moga.
 Que momento oportuno. Há algo que
 eu quero te dizer, caçador.
 --- BLOCK ---
-As pessoas começaram a avistar Rathian rosa
-à noite na Floresta Moga.
+As pessoas começaram a avistar Rathian
+rosa à noite na Floresta Moga.
 Aposto que têm um ninho lá.
 --- BLOCK ---
 Não esqueça de sempre consultar o
@@ -1277,8 +1277,8 @@ encontrar os Volvidon em uma
 de suas excursões noturnas.
 --- BLOCK ---
 Não se esqueça de recorrer a mim se
-precisar de informações locais. Consulte o
-Clima de Moga antes de partir.
+precisar de informações locais. Consulte
+o Clima de Moga antes de partir.
 --- BLOCK ---
 Ah, sim. Tenho que
 te informar de algo.
@@ -1405,8 +1405,8 @@ Estava procurando Recursos à noite na
 floresta, quando vi um Uragaan de aço.
 Se tem um, é porque há mais por aí.
 --- BLOCK ---
-Já te disse várias vezes, mas
-verifique regularmente a Previsão do Clima
+Já te disse várias vezes, mas verifique
+regularmente a Previsão do Clima
 de Moga. Cace com responsabilidade!
 --- BLOCK ---
 Ah, aí está você, caçador! Bem na
