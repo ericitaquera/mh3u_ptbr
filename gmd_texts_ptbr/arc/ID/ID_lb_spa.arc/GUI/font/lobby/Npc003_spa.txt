@@ -2208,7 +2208,7 @@ Boa sorte.
 --- BLOCK ---
 E como se trata de uma missão de
 resistência, há mais coisa a ser feita.
-Ao capturar o Lagiacrus de mármore...
+Ao capturar o Lagiacrus marfim...
 --- BLOCK ---
 ... Sério? Você terá que
 caçar um Brachydios e um
@@ -2228,7 +2228,7 @@ A menos que acabe se tornando
 uma lenda morta. Não ouse morrer!
 --- BLOCK ---
 Caramba. Não só capturou o Lagiacrus
-de mármore, mas também pegou o
+marfim mas também pegou o
 Brachydios e o Rathalos celeste!
 --- BLOCK ---
 Pode alguém ser mais poderoso?

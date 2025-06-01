@@ -204,37 +204,37 @@ Quer atirar e bloquear
 ao mesmo tempo? Então
 consiga uma Lança-canhão!
 --- BLOCK ---
-O Fogo de Wyvern e o Fogo Explosivo atacam
-com força; um escudo robusto te defende.
-A eficácia do yin e do yang!
+O Fogo de Wyvern e o Fogo Explosivo
+atacam com força; um escudo robusto
+te defende.A eficácia do yin e do yang!
 --- BLOCK ---
-Uma melodia sugestiva para
-ir caçar? Você terá
-com a Flauta!
+Uma melodia sugestiva
+para ir caçar? Você
+terá com a Flauta!
 --- BLOCK ---
-Toque melodias inspiradoras misturando tons
-que fortaleçam você e seus aliados. É
-mais do que apenas apoio moral!
+Toque melodias inspiradoras misturando
+tons que fortaleçam você e seus aliados.
+É mais do que apenas apoio moral!
 --- BLOCK ---
 Quer voar como um Bnahabra
-e ferroar como um
-Vespoid? Use Espadas duplas!
+e ferroar como um Vespoid?
+Use Espadas duplas!
 --- BLOCK ---
-Essas espadas picam e cortam no ar.
-E no modo Demoníaco, você potencializa suas
+Essas espadas picam e cortam no ar. E no
+modo Demoníaco, você potencializa suas
 habilidades para atacar com fúria veloz.
 --- BLOCK ---
-Não só os caçadores
-carregam armas. Os monstros
-têm presas e garras!
+Não só os caçadores carregam
+armas. Os monstros têm
+presas e garras!
 --- BLOCK ---
 Então, vista uma armadura! O
 melhor ataque não vale quase
 nada sem uma boa defesa!
 --- BLOCK ---
-Você pode usar armadura
-em cinco partes: cabeça,
-peito, braços, cintura, pernas.
+Você pode usar armadura em
+cinco partes: cabeça, peito,
+braços, cintura, pernas.
 --- BLOCK ---
 Você pode misturar armaduras como quiser.
 Procure por Defesa ou Pontos de habilidade,
@@ -244,38 +244,38 @@ Conhece as armaduras de
 couro que vendo? São
 boas para coletar itens.
 --- BLOCK ---
-Com o set completo, aumenta a velocidade
-de coleta, o Machado e a Rede
-de insetos ficam mais fortes. Legal, né?
+O set completo, aumenta a velocidade
+de coleta, o Machado e a Rede de
+insetos ficam mais fortes. Legal, né?
 --- BLOCK ---
-Uma dica para sua
-Saúde! Conhece as armaduras
+Uma dica para sua Saúde!
+Conhece as armaduras
 de malha que vendo?
 --- BLOCK ---
-Com o set completo, sua Saúde
-máxima aumenta e você se torna
-uma máquina exterminadora e imparável.
+Com o set completo, sua Saúde máxima
+aumenta e você se torna uma máquina
+exterminadora e imparável.
 --- BLOCK ---
 ¡RARR! ¡RARGH! Um wyvern! Nos salve,
 fornece! SHHH! O Golpe carregado da
 minha Grande espada atravessa suas escamas!
 --- BLOCK ---
 O wyvern cambaleia. Todos enlouquecem!
-RAT-TAT-TAT! Atiro na fera
-com minha Balestra perfurante!
+RAT-TAT-TAT! Atiro na fera com
+minha Balestra perfurante!
 --- BLOCK ---
-Depois faço um ataque com a
-Lança! SNIKT! Pegue isso, wyvern!
-Fujo enquanto todos me aplaudem...
+Depois faço um ataque com a Lança!
+SNIKT! Pegue isso, wyvern! Fujo
+enquanto todos me aplaudem...
 --- BLOCK ---
 Oh.
 --- BLOCK ---
-Está... carregando muito aí? Você
-me pegou imaginando combates "virtuais"
+Está... carregando muito aí? Você me
+pegou imaginando combates "virtuais"
 para determinar a melhor arma.
 --- BLOCK ---
-Trabalho numa armaria! Como vou ajudar
-os caçadores se não sei
+Trabalho numa armaria! Como vou
+ajudar os caçadores se não sei
 qual é a melhor arma?
 --- BLOCK ---
 As provas virtuais são
@@ -302,13 +302,13 @@ Quer comprar?!
 Que bom te
 ver. Sabe?
 --- BLOCK ---
-Quero comemorar a reparação do acampamento
-base. Acabei de receber umas armaduras
-que não podem ser perdidas!
+Quero comemorar a reparação do
+acampamento base. Acabei de receber
+umas armaduras que não podem ser perdidas!
 --- BLOCK ---
-Este material foi o primeiro nas
-minhas batalhas virtuais. Você precisa de
-uma dessas armaduras. Comece a economizar!
+Este material foi o primeiro nas minhas
+batalhas virtuais. Você precisa de uma
+dessas armaduras. Comece a economizar!
 --- BLOCK ---
 Que bom te ver. Sabe
 o que acabou de chegar?
@@ -318,8 +318,8 @@ SPLASH! Imagine a matança que você
 pode fazer com elas... sério!
 --- BLOCK ---
 Elas são muito melhores que as
-antigas. E são "pegar e
-matar"! Não precisam de configuração!
+antigas. E são "pegar e matar"!
+Não precisam de configuração!
 --- BLOCK ---
 Também chegaram umas armaduras que...
 Espero que tenha a carteira cheia...
@@ -328,8 +328,8 @@ porque é hora de esvaziá-la!
 Que bom te
 ver. Sabe?
 --- BLOCK ---
-Vou comemorar a derrota do Ceadeus
-com uma grande venda! Minhas prateleiras
+Vou comemorar a derrota do Ceadeus com
+uma grande venda! Minhas prateleiras
 estão cheias de itens novos!
 --- BLOCK ---
 Sabe aquele momento na caça em que
@@ -337,7 +337,7 @@ você diz "agora ou nunca"? Bem, este
 é o equivalente nas compras. Aproveite!
 --- BLOCK ---
 Me disseram que você caçou
-o lendário Lagiacrus de mármore!
+o lendário Lagiacrus marfim
 --- BLOCK ---
 É possível? Finalmente temos um caçador
 com verdadeira maestria nas armas?
@@ -346,11 +346,11 @@ Mas como? Pelo que sei,
 nem experimentou meus cenários
 de combate virtual ainda!
 --- BLOCK ---
-Não fique arrogante, caçador. ...
+Não fique arrogante, caçador.
 Meu pai costumava dizer isso.
 --- BLOCK ---
-Talvez devesse seguir o exemplo dele
-e experimentar uma arma nova.
+Talvez devesse seguir o exemplo
+dele e experimentar uma arma nova.
 --- BLOCK ---
 Olá! Esta não é uma loja para velhinhos.
 --- BLOCK ---
@@ -395,8 +395,8 @@ o trabalho.
 Ok, nos vemos! E-espera,
 compre algo antes!
 --- BLOCK ---
-Ah, sempre acabamos conversando e eu
-esqueço que isso é um trabalho!
+Ah, sempre acabamos conversando e
+eu esqueço que isso é um trabalho!
 --- BLOCK ---
 Entende? As armas são
 um assunto complexo.

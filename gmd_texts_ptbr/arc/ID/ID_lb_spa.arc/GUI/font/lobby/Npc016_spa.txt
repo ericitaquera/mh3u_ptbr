@@ -13,19 +13,19 @@ Enfim, bem-vindo!
 Passe por aqui em breve!
 --- BLOCK ---
 <SUBS 0>
-Alguma vez encontrou itens com os quais
-não sabe o que fazer?
+Alguma vez encontrou itens com
+os quais não sabe o que fazer?
 --- BLOCK ---
-Não se preocupe. À medida
-que ganha experiência como caçador,
-descobrirá como aproveitar esses itens.
+Não se preocupe. À medida que ganha
+experiência como caçador, descobrirá
+como aproveitar esses itens.
 --- BLOCK ---
 Por isso colocamos uma Caixa de
-Itens em sua casa. Assim,
-pode guardá-los para outro momento!
+Itens em sua casa. Assim, pode
+guardá-los para outro momento!
 --- BLOCK ---
-Afinal, nunca se sabe o que
-o dia nos reserva. Ha, ha, ENTENDEU?
+Afinal, nunca se sabe o que o dia
+nos reserva. Ha, ha, ENTENDEU?
 Itens reservados! Na caixa! Buf.
 --- BLOCK ---
 <SUBS 1>
@@ -48,9 +48,9 @@ Oh, que fofo! Bem, sempre pode
 bater neles com um escudo ou
 outra coisa para que desmaiem.
 --- BLOCK ---
-Então, arranca os chifres deles e...
-O quê? Você não acha que
-lhes importe um chifre? Não entendo...
+Então, arranca os chifres deles
+e... O quê? Você não acha que lhes
+importe um chifre? Não entendo...
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -58,26 +58,26 @@ lhes importe um chifre? Não entendo...
 Sabia que pode combinar Itens sem
 retirá-los da Caixa de Itens?
 --- BLOCK ---
-¡É verdade! Use "Combinar
-itens da Caixa" e
-você economizará muuuito trabalho.
+É verdade! Use "Combinar
+itens da Caixa" e você
+economizará muuuito trabalho.
 --- BLOCK ---
-Organize sua Caixa de itens com
-frequência ou terá dificuldade em encontrar
-as coisas naquela bagunça. *Risadinha*
+Organize sempre sua Caixa de itens
+ou terá dificuldade em encontrar as
+coisas naquela bagunça. *Risadinha*
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-O chefe nunca fala muito sobre
-seu próprio passado.
+O chefe nunca fala muito
+sobre seu próprio passado.
 --- BLOCK ---
 Como ele terá aprendido tanto
 sobre a caça de monstros?
 --- BLOCK ---
-Bem, eu não sou do tipo
-que aponta dedos, mas apostaria mil
-zenis que foi há muito tempo...
+Bem, eu não sou do tipo que aponta
+dedos, mas apostaria mil zenis
+que foi há muito tempo...
 --- BLOCK ---
 Nosso chefe era
 bibliotecário! <SUBS 1>
@@ -86,7 +86,7 @@ bibliotecário! <SUBS 1>
 Se você parar para pensar, o chefe
 deve ter muitos amigos na Guilda.
 --- BLOCK ---
-Quer dizer, como ele conseguiria fazer com
+Digo, como ele conseguiria fazer com
 que um caçador como você viesse para
 uma minúscula vila perdida do mundo?
 --- BLOCK ---
@@ -110,8 +110,8 @@ apaixonados. Ha, ha, ha!
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Na Vila Moga é comum usar a
-Lista de combinações para combinar.
+Na Vila Moga é comum usar a Lista
+de combinações para combinar.
 --- BLOCK ---
 Se você tem os itens, pode fazer suas
 combinações favoritas em um passo. Você
@@ -124,30 +124,30 @@ costumam combinar enquanto atiram.
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Você conhece a cachoeira que fica
-ao lado da Fazenda da vila?
+Você conhece a cachoeira que
+fica ao lado da Fazenda da vila?
 --- BLOCK ---
 Bem, aposto que você não sabia que
 atrás dela há um estranho altar.
 --- BLOCK ---
-Na minha opinião, a história desta
-vila é anterior ao Chefe.
+Na minha opinião, a história
+desta vila é anterior ao Chefe.
 --- BLOCK ---
 Tentei fazê-lo contar algo,
-mas ele não se
-entregou. Ha, ha, entendeu?
+mas ele não se entregou.
+Ha, ha, entendeu?
 --- BLOCK ---
 <SUBS 0>
-Quando os monstros se aproximam muito da
-vila, nós os afugentamos com bombas.
+Quando os monstros se aproximam muito
+da vila, nós os afugentamos com bombas.
 --- BLOCK ---
 Basta colocar uma Erva de fogo dentro
 de um Barril pequeno e voilà! Você
 tem uma Bomba de barril pequena.
 --- BLOCK ---
-Ou, se você realmente quer ser
-a "bomba", ha, ha, "bomba",
-entendeu?, você pode fabricar Pólvora.
+Ou, se você realmente quer ser a
+"bomba", ha, ha, "bomba", entendeu?,
+você pode fabricar Pólvora.
 --- BLOCK ---
 Basta combinar Erva de fogo com
 Nitroseta. Mas é preciso algo para
@@ -164,18 +164,18 @@ que te deixará sentado.
 Ha, ha, entendeu?
 --- BLOCK ---
 <SUBS 0>
-Se combinar um Inseto amargo com
-Mel, terá um Catalisador.
+Se combinar um Inseto amargo
+com Mel, terá um Catalisador.
 --- BLOCK ---
 Um Catalisador serve para aumentar
-a força de vários itens.
-Possibilita mais combinações avançadas!
+a força de vários itens. Possibilita
+mais combinações avançadas!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-O que fazes com os bifes mal passados
-que não estão bem cozidos?
+O que fazes com os bifes mal
+passados que não estão bem cozidos?
 --- BLOCK ---
 Veja, eu gosto de combiná-los com
 Catalisadores para fazer Suco de poder,
@@ -191,19 +191,19 @@ Alguém tão esperto saberá que pode
 fazer combinando uma Erva sonífera
 com uma Paraliseta, não é?
 --- BLOCK ---
-Então, aplica-se o Tranquilizante a uma
-Faca de arremesso ou a Material
+Então, aplica-se o Tranquilizante a
+uma Faca de arremesso ou a Material
 bomba para fazer armas arremessáveis.
 --- BLOCK ---
-Os artilheiros colocam isso em
-Cascas de osso pequenas para fazer munição.
+Os artilheiros colocam isso em Cascas
+de osso pequenas para fazer munição.
 Algo maluco! Haha, você entende?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-O quê? A garota
-do balcão de missões não está fazendo
-seu trabalho?
+O quê? A garota do balcão
+de missões não está
+fazendo seu trabalho?
 --- BLOCK ---
 Ah, por favor. Esse encanto? Ela é viciada
 em trabalho! Quando você não está, ela se
@@ -213,22 +213,22 @@ Na verdade, nunca a vi sair do
 balcão de missões, o que faz
 pensar sobre sua higiene.
 --- BLOCK ---
-Pode haver outra razão para a falta
-de informação sobre monstros e áreas de
+Pode haver outra razão para a falta de
+informação sobre monstros e áreas de
 caça. Não seja tão duro com ela!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-Olá. Um dos viajantes me
-disse que meus jogos de palavras são
+Olá. Um dos viajantes me disse que
+meus jogos de palavras são 
 terríveis... Mas você gosta, não é?
 --- BLOCK ---
-Quero dizer, eu só tento fazer a gente
-rir um pouco. *Risada* O que há de errado
-em um pouco de humor?
+Quero dizer, eu só tento fazer a
+gente rir um pouco. *Risada* O que
+há de errado em um pouco de humor?
 --- BLOCK ---
-Sem essas divertidas trocas, eu
-não acho que poderia seguir *ronco*
+Sem essas divertidas trocas, eu não
+acho que poderia seguir *ronco*
 viva e "comicoleando"!
 --- BLOCK ---
 E-espera, não vá embora!
@@ -237,8 +237,8 @@ Você pegou a piada, certo? VERDADE?
 Eu descobri um terrível segredo.
 Não pretendia espionar, mas...
 --- BLOCK ---
-Bem, acho que você deveria
-saber. Ouvi barulhos estranhos vindo
+Bem, acho que você deveria saber.
+Ouvi barulhos estranhos vindo
 da sua casa e olhei. E vi...
 --- BLOCK ---
 Vi seu Chamberlyne se olhando
@@ -249,65 +249,65 @@ dizer, não é que ele seja um "ladrão"...
 Pff, HA, HA, HA! Oh, não consigo parar.
 --- BLOCK ---
 <SUBS 0>
-Outro dia, os meninos foram
-brincar na Fazenda.
+Outro dia, os meninos
+foram brincar na Fazenda.
 --- BLOCK ---
-Imagine, eles voltaram cobertos de
-lama da cabeça aos pés!
+Imagine, eles voltaram cobertos
+de lama da cabeça aos pés!
 Pareciam um casal de Poogie!
 --- BLOCK ---
-Tivemos que mergulhá-los bem no
-mar para limpá-los. Onde mais poderíamos
+Tivemos que mergulhá-los bem no mar
+para limpá-los. Onde mais poderíamos
 ter tirado toda essa sujeira deles?
 --- BLOCK ---
-Hum, com certeza aqueles monstros que você
-caça se beneficiariam de um banho.
+Hum, com certeza aqueles monstros que
+você caça se beneficiariam de um banho.
 Como você aguenta isso? Haha, você entende?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-"Qurupeco" é um nome muito fofo
-para um monstro!
+"Qurupeco" é um nome muito
+fofo para um monstro!
 --- BLOCK ---
 Dizem que os Qurupeco têm passos de dança
 impressionantes. Dançam para se curar,
 para se defender, quando ficam bravos...
 --- BLOCK ---
-Nem consigo imaginar vê-los no seu ritmo!
-Ha, ha, entendeu? Ah... Bem, eu
-também sei um par de danças.
+Nem consigo imaginar vê-los no seu
+ritmo! Ha, ha, entendeu? Ah... Bem,
+eu também sei um par de danças.
 --- BLOCK ---
 E se tem algo que não suporto é ser
-interrompida quando estou inspirada para
-dançar. Sou uma fera do ritmo!
+interrompida quando estou inspirada
+para dançar. Sou uma fera do ritmo!
 --- BLOCK ---
-Olha, se um monstro quer
-dançar, antecipe-se e mova-se para
-cancelar sua atuação. ¡Actus interruptus!
+Olha, se um monstro quer dançar,
+antecipe-se e mova-se para cancelar
+sua atuação. Actus interruptus!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Sabia disso? O Chefe era antes um
-caçador famoso da Guilda!
+Sabia disso? O Chefe era antes
+um caçador famoso da Guilda!
 --- BLOCK ---
-Agora entendo por que ele tem
-tanta influência. E isso explica por
-que ele sabe tanto sobre monstros.
+Agora entendo por que ele tem tanta
+influência. E isso explica por que
+ele sabe tanto sobre monstros.
 --- BLOCK ---
-Nesta vila, ele pode moldar seus
-sonhos. Afinal, ele tem todo o
-"Barroth" do mundo! Ha, ha, entendeu?
+Nesta vila, ele pode moldar seus sonhos.
+Afinal, ele tem todo o "Barroth"
+do mundo! Ha, ha, entendeu?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 Ah, oi! Vejo que está
 atento e cheio de energia!
 --- BLOCK ---
-Não te agradeci por me ajudar a
-limpar após o terremoto. Com o tremor,
-esqueci de apertar sua mão. Ha, entendeu?
+Não te agradeci por me ajudar a limpar
+após o terremoto. Com o tremor, esqueci
+de apertar sua mão. Ha, entendeu?
 --- BLOCK ---
 Ainda há muito para organizar,
 mas poderia ter sido pior.
@@ -317,22 +317,22 @@ ali com a cortina colorida?
 É a sua nova casa.
 --- BLOCK ---
 Dentro você encontrará a Caixa
-de itens. Nela tem todo
-tipo de armas e armaduras.
+de itens. Nela tem todo tipo
+de armas e armaduras.
 --- BLOCK ---
-Use a Caixa de itens
-quando quiser trocar de equipamento.
+Use a Caixa de itens quando quiser
+trocar de equipamento.
 --- BLOCK ---
 Além disso, dentro tem um Felyne que pode
 te orientar. Não esqueça de apertar a
 patinha dele. Hi, hi, "apertar a patinha".
 --- BLOCK ---
-Sei por que você veio. O Chefe quer
-que você resolva o problema do terremoto.
+Sei por que você veio. O Chefe quer que
+você resolva o problema do terremoto.
 --- BLOCK ---
 Não me admira! Viu o que aconteceu
-com a Fazenda? Não paramos de
-colher problemas. Ha, ha, colher, entendeu?
+com a Fazenda? Não paramos de colher
+problemas. Ha, ha, colher, entendeu?
 --- BLOCK ---
 Eeh? E essa cara? Você foi para a Fazenda,
 não foi? Aquela que fica do outro lado da
@@ -352,9 +352,9 @@ um pouco de felicidade em sua vida? Haha!
 Sempre se nota quando o
 chefe está pensativo.
 --- BLOCK ---
-Ele fica parado no cais da
-esquerda e contempla o mar. É
-fácil encontrá-lo lá! Ha, ha, ENTENDEU?
+Ele fica parado no cais da esquerda
+e contempla o mar. É fácil encontrá-lo
+lá! Ha, ha, ENTENDEU?
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -362,14 +362,14 @@ fácil encontrá-lo lá! Ha, ha, ENTENDEU?
 Sabia disso? A Guilda está procurando
 alguém para caçar Vísceras de monstro.
 --- BLOCK ---
-São deliciosas! Daquelas gostosuras que
-derretem na boca! Experimente se
+São deliciosas! Daquelas gostosuras
+que derretem na boca! Experimente se
 tiver estômago. Ha, ha, ENTENDEU?
 --- BLOCK ---
 ... Tudo bem, foi um pouco nojento.
 --- BLOCK ---
-Bem, não me lembro de que monstro
-são as Vísceras de monstro, mas alguém
+Bem, não me lembro de que monstro são
+as Vísceras de monstro, mas alguém
 que conheça bem a floresta saberá.
 --- BLOCK ---
 <SUBS 1>
@@ -378,9 +378,9 @@ que conheça bem a floresta saberá.
 Você sabe o que é necessário para capturar
 monstros, certo? Tranquilizantes.
 --- BLOCK ---
-Alguém tão esperto saberá que pode
-ser feito combinando uma Erva sonífera
-com uma Paraliseta, não é?
+Alguém tão esperto saberá que pode ser
+feito combinando uma Erva sonífera com
+uma Paraliseta, não é?
 --- BLOCK ---
 Então, o Tranquilizante é aplicado a uma
 Faca de arremesso ou um Material explosivo
@@ -393,24 +393,24 @@ Algo maluco! Ha, ha, ENTENDEU?
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-"Qurupeco" é um nome muito fofo para um
-monstro! Como "Rex", ou "Bichano".
+"Qurupeco" é um nome muito fofo para
+um monstro! Como "Rex", ou "Bichano".
 --- BLOCK ---
 Dizem que os Qurupeco têm passos de dança
-impressionantes. Dançam para curar,
-para se defender, quando estão zangados...
+impressionantes. Dançam para curar, para
+se defender, quando estão zangados...
 --- BLOCK ---
-Não consigo nem imaginar vê-los em ação!
-Ha, ha, ENTENDEU? Ah... Bem, eu
-também sei um par de danças.
+Não consigo nem imaginar vê-los em
+ação! Ha, ha, ENTENDEU? Ah... Bem,
+eu também sei um par de danças.
 --- BLOCK ---
 E se há algo que não suporto é ser
-interrompida quando estou inspirada para
-a dança. Sou uma fera do ritmo!
+interrompida quando estou inspirada
+para a dança. Sou uma fera do ritmo!
 --- BLOCK ---
-Mira, se um monstro quiser dançar,
-adiante-se para se mover e cancelarás sua
-atuação. ¡Atuação interrompida!
+Mira, se um monstro quiser dançar, adiante-
+-se para se mover e cancelarás sua atuação.
+Atuação interrompida!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -428,8 +428,8 @@ Oh! Essa fofura conseguiu
 voltar! Será que ele
 se encontrou? Ha!
 --- BLOCK ---
-Hein? É outro amigo
-mascarado? Diferente do anterior?
+Hein? É outro amigo mascarado?
+Diferente do anterior?
 --- BLOCK ---
 Bem, é surpreendente em dobro!
 Entendeu? Porque são dois
@@ -441,14 +441,14 @@ quase se afogou, certo?
 Então, aparece o segundo garoto e
 todos o confundem com o primeiro?
 --- BLOCK ---
-Não me surpreende. São como duas gotas 
-d'água! Serão gêmeos separados?
+Não me surpreende. São como duas
+gotas d'água! Serão gêmeos separados?
 --- BLOCK ---
 Mas o que termina bem, tudo bem,
 não é? Este final me satisfaz muito!
 --- BLOCK ---
 Dizem que você caçou o Lagiacrus
-de mármore, o terrível rival do
+marfim, o terrível rival do
 chefe! Acabou! Ha, ha, entendeu?
 --- BLOCK ---
 Deve ser por isso que o chefe

@@ -419,7 +419,7 @@ O monstro destroçou o barco do amigo!
 Por sorte, ele sabe nadar bem, mas a
 carga não sabe nadar. Tudo perdido.
 --- BLOCK ---
-Os rumores dizem que o monstro é de cor mármore
+Os rumores dizem que o monstro é de cor marfim
 e muito violento. Talvez nem mesmo minha
 baixa esgrima seja suficiente contra ele.
 --- BLOCK ---

@@ -19,28 +19,28 @@ na cama para salvar o jogo.
 Até um gato recém-nascido sabe disso!
 --- BLOCK ---
 <SUBS 0>
-A Caixa de itens vem com um
-kit de beleza, miau.
+A Caixa de itens vem com
+um kit de beleza, miau.
 --- BLOCK ---
 Penteie o cabelo de acordo com seu humor.
-Você não tem pelo de gato! Então,
-mude de roupa e de penteado, miau.
+Você não tem pelo de gato! Então, mude
+de roupa e de penteado, miau.
 --- BLOCK ---
 <SUBS 0>
 Quando você for ganhando equipamento, poderá
 criar conjuntos de equipamento personalizados.
 --- BLOCK ---
 Você pode salvar conjuntos completos,
-da cabeça aos pés. Assim,
-trocar de equipamento será moleza!
+da cabeça aos pés. Assim, trocar
+de equipamento será moleza!
 --- BLOCK ---
 <SUBS 0>
-Sabia que dá pra combinar elementos dentro
-da sua Caixa de itens, chefe?
+Sabia que dá pra combinar elementos
+dentro da sua Caixa de itens, chefe?
 --- BLOCK ---
 É muito prático, pois não precisa
-mover os itens para a
-Bolsa de itens. Experimente! Miau.
+mover os itens para a Bolsa de
+itens. Experimente! Miau.
 --- BLOCK ---
 <SUBS 0>
 Além disso, você pode organizar seus Talismãs
@@ -55,8 +55,8 @@ Faço tua caminha todo dia pra sempre
 estar prontinha pras tuas sonecas.
 --- BLOCK ---
 Também faço a limpeza geral.
-Miau! Você tem sorte de
-os Felyne gostarem de limpeza.
+Miau! Você tem sorte de os
+Felyne gostarem de limpeza.
 --- BLOCK ---
 <SUBS 0>
 Consegue ver aquele grande
@@ -66,23 +66,23 @@ moinho ali atrás, miau?
 É bastante trabalho, verdade.
 --- BLOCK ---
 <SUBS 0>
-A brisa do mar é tão gostosa...
-exceto se você for feito de ferro, miau!
+A brisa do mar é tão gostosa... exceto
+se você for feito de ferro, miau!
 --- BLOCK ---
 Tem que limpar o metal do quarto
 todos os dias para não enferrujar.
 --- BLOCK ---
 <SUBS 0>
-Essa janela deixa a brisa fresquinha entrar,
-mas deixa todo o quarto à mostra.
+Essa janela deixa a brisa fresquinha
+entrar, mas deixa todo o quarto à mostra.
 --- BLOCK ---
-Miau... Dá para ver tudo o que
-você faz aqui dentro, como trocar de
-roupa, o que poderia ser escandaloso, miau.
+Miau... Dá para ver tudo o que você
+faz aqui dentro, como trocar de roupa,
+o que poderia ser escandaloso, miau.
 --- BLOCK ---
 <SUBS 0>
-Você pode adquirir diferentes e
-refinados móveis no Argosy.
+Você pode adquirir diferentes
+e refinados móveis no Argosy.
 --- BLOCK ---
 Coloque e recoloque do jeito
 que quiser. Prometo não arranhar.
@@ -91,38 +91,38 @@ Embora vá deixar pelos, miau.
 Miau, miau, miau, miau!
 Chefe, já voltou.
 --- BLOCK ---
-Sou responsável por este lugar. Enquanto
-for hóspede da Vila Moga,
-vou cuidar das suas coisas.
+Sou responsável por este lugar.
+Enquanto for hóspede da Vila
+Moga, vou cuidar das suas coisas.
 --- BLOCK ---
 Um aviso: caçadores que não salvam o
 progresso correm o risco de perder
 a fortuna e a fama conquistadas.
 --- BLOCK ---
-Acostume-se a descansar na cama
-e salvar o progresso.
+Acostume-se a descansar na
+cama e salvar o progresso.
 --- BLOCK ---
-Os itens coletados, excesso de armadura e
-coisas do tipo podem ser guardados
+Os itens coletados, excesso de armadura
+e coisas do tipo podem ser guardados
 na Caixa de itens ali no canto.
 --- BLOCK ---
-A Caixa de itens tem
-outro serviço: permite trocar de
+A Caixa de itens tem outro
+serviço: permite trocar de
 equipamento, miau. À vontade...
 --- BLOCK ---
-Coloquei uma Lâmpada cogumelo na
-sua Caixa de itens. É
+Coloquei uma Lâmpada cogumelo
+na sua Caixa de itens. É
 um presente de boas-vindas.
 --- BLOCK ---
-Estou sempre pronto para ajudar
-a organizar os móveis.
+Estou sempre pronto para
+ajudar a organizar os móveis.
 --- BLOCK ---
-Se quiser rever um vídeo,
-vá até a Galeria, miau!
-Eu a tenho perfeitamente organizada.
+Se quiser rever um vídeo, vá
+até a Galeria, miau! Eu a
+tenho perfeitamente organizada.
 --- BLOCK ---
-Também ajudo a ficar por dentro
-dos seus DLC (conteúdos para download).
+Também ajudo a ficar por dentro dos
+seus DLC (conteúdos para download).
 --- BLOCK ---
 Conecte-se à internet para encarar
 as missões e outros extras. É
@@ -145,8 +145,8 @@ olhada e dar um toque pessoal.
 Miau, miau, miau, miau!
 Chefe, já voltou.
 --- BLOCK ---
-O terremoto me afetou bastante,
-e não é só
+O terremoto me afetou
+bastante, e não é só
 da boca para fora.
 --- BLOCK ---
 Mas agora você está aqui para nos proteger.
@@ -159,29 +159,29 @@ miau! É... verdade?
 Ouvi dizer que decidiu caçar
 um monstro terrivelmente grande.
 --- BLOCK ---
-Mas... e o perigo que vai
-enfrentar? Receio que não volte, miau!
+Mas... e o perigo que vai enfrentar?
+Receio que não volte, miau!
 --- BLOCK ---
-Mrrr... Acho que devo
-fazer essa promessa
-por pura profissionalismo...
+Mrrr... Acho que devo 
+fazer essa promessa por
+puro profissionalismo...
 --- BLOCK ---
 Quando voltar, e vai voltar,
-terá a cama arrumada
-e o quarto brilhando.
+terá a cama arrumada e
+o quarto brilhando.
 --- BLOCK ---
-Então, não se preocupe. Vou
-manter a lareira acesa.
-Concentre-se em sobreviver, miau.
+Então, não se preocupe. Vou manter
+a lareira acesa. Concentre-se
+em sobreviver, miau.
 --- BLOCK ---
 Miau, miau, miau, miau!
 Você conseguiu! Voltou!
 --- BLOCK ---
 Não foi desmembrado!
 --- BLOCK ---
-*Ejem* Desculpe pelo entusiasmo... Como vê,
-o quarto está arrumado, a cama
-limpa e quase sem pulgas.
+*Ejem* Desculpe pelo entusiasmo...
+Como vê, o quarto está arrumado, a
+cama limpa e quase sem pulgas.
 --- BLOCK ---
 Espero que sempre considere este
 lugar como sua casa. Estarei
@@ -191,7 +191,7 @@ Miau miau miarramiauu!
 Chefe, voltou! Sobreviveu!
 --- BLOCK ---
 Desculpe a surpresa, mas ouvi dizer que
-estava atrás de um monstro muito perigoso!
+estava atrás de um monstro muitoperigoso!
 Estou tão feliz que continua vivo!
 --- BLOCK ---
 Sempre roo as unhas quando

@@ -570,11 +570,11 @@ que confere coragem.
 Resistente ao trovão.
 --- BLOCK ---
 Armadura de peito feita com
-osso de Lagiacrus mármore.
+osso de Lagiacrus marfim.
 Resistente como um wyvern.
 --- BLOCK ---
 Armadura de peito feita com
-osso de Lagiacrus mármore.
+osso de Lagiacrus marfim.
 Sua superfície é abaulada.
 --- BLOCK ---
 Armadura de peito que carrega

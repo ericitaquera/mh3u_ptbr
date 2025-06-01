@@ -574,9 +574,9 @@ DUMMY
 --- BLOCK ---
 Protótipo de arma forjada em
 terras distantes. Por enquanto
-funciona como uma lanza.
+funciona como uma lança.
 --- BLOCK ---
 Protótipo de arma forjada em
 terras distantes. Por enquanto
-funciona como uma lanza.
+funciona como uma lança.
 --- BLOCK ---
