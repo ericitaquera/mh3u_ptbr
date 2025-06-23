@@ -3,7 +3,7 @@ TITLES_0=My Lord's Errand
 TITLES_1=Pour mon Seigneur
 TITLES_2=Auftrag für den Herrn
 TITLES_3=Una commissione pericolosa
-TITLES_4=El recado de mi señor
+TITLES_4=O recado do meu senhor
 [OBJECTIVES]
 OBJECTIVES_0=Hunt an Arzuros
 OBJECTIVES_1=Chasser un Arzuros

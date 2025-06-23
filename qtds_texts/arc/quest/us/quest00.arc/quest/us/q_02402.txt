@@ -20,7 +20,7 @@ läuft ab.
 FAIL_CONDITIONS_3=Premio a 0
 o tempo scaduto.
 FAIL_CONDITIONS_4=Recompensa cai a 0
-ou acaba o tiempo.
+ou acaba o tempo.
 [CLIENTS]
 CLIENTS_0=Moga Village Chief
 CLIENTS_1=Chef du village Moga

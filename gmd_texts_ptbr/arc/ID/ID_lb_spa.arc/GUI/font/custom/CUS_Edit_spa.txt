@@ -314,8 +314,8 @@ podem ser colocados ao mesmo tempo.
 --- BLOCK ---
 Para mover um painel, deslize-o para fora da
 área dos painéis visíveis. Os que você
-remover irão para a <COLO 2>lixeira <COLO
-0>à direita do touchscreen.
+remover irão para a <COLO 2>lixeira <COLO 0>
+à direita do touchscreen.
 --- BLOCK ---
 Ao fechar um painel, ele reaparecerá na
 barra de seleção de painéis. E você

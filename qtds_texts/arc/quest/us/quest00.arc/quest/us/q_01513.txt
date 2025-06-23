@@ -19,7 +19,7 @@ FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
 oder Ziel irrtüml. erlegt.
 FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
 o bersaglio ucciso per errore.
-FAIL_CONDITIONS_4=Recomp. a 0, fim tiempo
+FAIL_CONDITIONS_4=Recomp. a 0, fim tempo
 ou mata obj. por acidente.
 [CLIENTS]
 CLIENTS_0=Brainy Biologist

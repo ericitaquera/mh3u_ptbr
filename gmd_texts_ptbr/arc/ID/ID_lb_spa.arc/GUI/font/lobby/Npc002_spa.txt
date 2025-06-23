@@ -1145,12 +1145,12 @@ Mas não fique muito animado, ouviu? O
 Arzuros é moleza. Mas lá fora
 existem muitos monstros mais fortes.
 --- BLOCK ---
-Bem, enquanto você estava fora,
-perdeu a emoção que é
+Bem, enquanto você estava
+fora, perdeu a emoção que
 rolou na vila.
 --- BLOCK ---
-Um dos nossos rapazes voltou dizendo
-que tinha visto uma criatura estranha na
+Um dos nossos rapazes voltou dizendo que
+tinha visto uma criatura estranha na
 floresta, nem humana nem monstro.
 --- BLOCK ---
 Claro que poderíamos assumir que foi
@@ -1198,9 +1198,9 @@ Ha ha, brincadeira! Na Vila Moga
 Damos as boas-vindas a todos os de 
 braços abertos, seja Shakalaka ou Lynian.
 --- BLOCK ---
-Além disso, eu gosto dele. Faz sentido a
-piada! Ouviu ele dizer que quer que você
-seja seu capanga? Ha ha ha!
+Além disso, eu gosto dele. Faz sentido
+a piada! Ouviu ele dizer que quer que
+você seja seu capanga? Ha ha ha!
 --- BLOCK ---
 Bem... o que você acha de cuidar
 dele por um tempo?
@@ -1212,7 +1212,7 @@ para toda a da vida.
 Que?
 Não me olhe assim!
 --- BLOCK ---
-Há há! Relaxa! Olha o ótima equipe vocês
+Há há! Relaxa! Olha que ótima equipe vocês
 são. Vocês são uma dupla arrasadora!
 --- BLOCK ---
 <SUBS 0>

@@ -839,7 +839,7 @@ DUMMY
 --- BLOCK ---
 Armazenar itens
 --- BLOCK ---
-Remover itens
+Pegar itens
 --- BLOCK ---
 Combinar/Gerenciar itens
 --- BLOCK ---

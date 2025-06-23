@@ -78,7 +78,7 @@ tesouro. Ser ritual da vila Shakalaka
 para virar adulto.
 --- BLOCK ---
 Em longa caminhada de Cha-Cha, se perder
-e... *cha-jem* eu mudar de assunto.
+e... *cha-hem* eu mudar de assunto.
 Com certeza tesouro estar aqui, venha!
 --- BLOCK ---
 O tipo de tesouro que Cha-Cha
@@ -573,7 +573,7 @@ GRRROOOORR! Cha-Cha fazer som ssustador
 ao cuspir fogo! Caçador não ficar bravo
 se for atingido. Pode acontecer.
 --- BLOCK ---
-Cha ja!
+Cha ha!
 Um caçador que quer tudo, tudo!
 --- BLOCK ---
 Cha-Cha tentar machucar monstro,
@@ -586,8 +586,8 @@ Cha quê?
 Você perguntar quem é Cha-Cha?
 --- BLOCK ---
 Shaka-laka-cha!
-Não conhecer Cha-Cha? Sua cabeça
-doer muito?
+Não conhecer Cha-Cha?
+Sua cabeça doer muito?
 --- BLOCK ---
 Eu ser orgulhoso lobo solitário
 grande campeão da tribo Shakalaka.
@@ -597,18 +597,18 @@ Agora escuta-cha: Cha-Cha não estar
 perdido! Eu dar passeio muito longo.
 --- BLOCK ---
 É tradição do povo Shakalaka...
-para virar adulto, fazer
-jornada para encontrar própria máscara.
+para virar adulto, fazer jornada
+para encontrar própria máscara.
 --- BLOCK ---
 Cha quê?
-Perguntar por que Cha-Cha caminhar
-aqui na floresta?
+Perguntar por que Cha-Cha
+caminhar aqui na floresta?
 --- BLOCK ---
 Está shaka-claro que Cha-Cha
 se perder assim que sair
-da alde...
+da vil...
 --- BLOCK ---
-Cha-jem!
+Cha-hem!
 --- BLOCK ---
 Cha-Cha ir direto ao ponto. Em viagens
 lendárias, descobrir incrível máscara
@@ -627,8 +627,8 @@ equipe de busca... Ahem! Até fazer
 muitas máscaras. Fim da história.
 --- BLOCK ---
 Você perseguir comida de Cha-Cha
-e eu exigir compensação:
-você agora ajudante de Cha-Cha! Oga-oga!
+e eu exigir compensação: você
+agora ajudante de Cha-Cha! Oga-oga!
 --- BLOCK ---
 Mas eu amar-laka bom. Quando você
 precisar cha-conversar, venha visitar
@@ -655,8 +655,8 @@ Um, dois, três, quatro! Ideia para nova
 máscara chegar na cabeça de Cha-Cha
 como cometa do céu!
 --- BLOCK ---
-Uma máscara com grandes orelhas caídas,
-de pelúcia, para dar carinho!
+Uma máscara com grandes orelhas
+caídas, de pelúcia, para dar carinho!
 --- BLOCK ---
 Cha-Cha deixar planos para filho do
 chefe da vila, Junior. Você ver já?
@@ -674,8 +674,8 @@ Cha-ah?
 Como ter Cha-Cha essas palavras
 na cabeça?
 --- BLOCK ---
-É fácil: Cha-Cha ouvir Flota de Caça falar,
-*cha-jem*. Digo...
+É fácil: Cha-Cha ouvir Flota de Caça
+falar, *cha-hem*. Digo...
 Cha-Cha mais esperto do que parecer.
 --- BLOCK ---
 Oga-oga! Ideia para nova máscara entrar
@@ -763,8 +763,8 @@ Cha-Cha a cada passo do caminho!
 --- BLOCK ---
 Cha-Cha não esquecer aquele dia fatídico...
 --- BLOCK ---
-Herói Cha-Cha usar até última gota
-de astúcia para descobrir melhor máscara
+Herói Cha-Cha usar até última gota de
+astúcia para descobrir melhor máscara
 do mundo, a Máscara Definitiva!
 --- BLOCK ---
 Mas...
@@ -1068,7 +1068,7 @@ Não ser trabalho fácil, mas Cha-Cha
 fazer. Altruísmo de Cha-Cha brilhar mais
 que máscara estúpida-laka!
 --- BLOCK ---
-Chajaja!
+Chahaha!
 Desastrado Kayamba só tropeçar
 quando viajar com Cha-Cha!
 --- BLOCK ---
@@ -1078,7 +1078,7 @@ Kayamba quase não tropeçar.
 Continuar assim, ajudante!
 Continuar cuidando de Kayamba!
 --- BLOCK ---
-Chajaja!
+Chahaha!
 Parece que Kayamba vai ficar
 um tiquinho mais útil!
 --- BLOCK ---
@@ -1090,7 +1090,7 @@ Se continuar levando desastrado Kayamba
 para caçar, cada vez tropeçar menos!
 Em teoria.
 --- BLOCK ---
-Chajaja!
+Chahaha!
 Oga-oga chaka-chaka-laka!
 --- BLOCK ---
 Cha-Cha ter química-laka incrível com

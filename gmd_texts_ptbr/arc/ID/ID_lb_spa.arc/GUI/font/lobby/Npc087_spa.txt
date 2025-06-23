@@ -186,7 +186,7 @@ Você comeu, caçador? Se você colocar um
 pouco de Queijo real em um Megabolinho...
 --- BLOCK ---
 Ou joga um Tomate gordo com um pouco de
-Porco de musgo, terá um hambúrguer
+Porco ao musgo, terá um hambúrguer
 especial! De preço *ahem* "especial"...
 --- BLOCK ---
 <SUBS 0>

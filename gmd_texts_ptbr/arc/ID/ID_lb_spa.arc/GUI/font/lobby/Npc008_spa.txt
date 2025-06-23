@@ -525,16 +525,16 @@ Aqui está!
 Olá! Você não poderia ter
 chegado em melhor hora.
 --- BLOCK ---
-Estava lendo um pouco sobre Ballestas.
+Estava lendo um pouco sobre Balestras.
 Você pode remover os limitadores
 quando a raridade aumenta.
 --- BLOCK ---
 Sem limitador, você pode melhorar
-a Ballesta e isso é sério. Agora
+a Balestra e isso é sério. Agora
 vou te contar os detalhes.
 --- BLOCK ---
 Vamos primeiro falar sobre
-as Ballestas leves.
+as Balestras leves.
 --- BLOCK ---
 Ao remover o limitador, você
 se move mais devagar e perde o
@@ -548,7 +548,7 @@ O melhor disso: se pressionar os botões X
 e A ao mesmo tempo, recarrega todos os
 tipos de munição de uma vez. Oh!
 --- BLOCK ---
-E quanto às Ballestas pesadas...
+E quanto às Balestras pesadas...
 --- BLOCK ---
 Ao remover o limitador, você se
 moverá mais devagar e não poderá
@@ -571,7 +571,7 @@ te deixou de boca aberta?
 a uma arma completamente nova, não é?
 Você deve estar pensando: "Eu quero isso".
 --- BLOCK ---
-Então você precisa trazer uma Ballesta
+Então você precisa trazer uma Balestra
 com uma raridade mínima de 6... e não
 seria ruim se me pagasse algo também!
 --- BLOCK ---

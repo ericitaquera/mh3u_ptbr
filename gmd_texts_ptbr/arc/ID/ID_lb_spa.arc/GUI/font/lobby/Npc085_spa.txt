@@ -73,8 +73,8 @@ nas missões de alto escalão. Cuidado!"
 Ah, sabia que outros caçadores
 podem lhe fornecer itens?
 --- BLOCK ---
-É mais fácil que tomar um gole.
-*Cá* Simplesmente pressione o botão em frente
+É mais fácil que tomar um gole. *Cá*
+Simplesmente pressione o botão em frente
 ao item que lhe entregam para aceitar.
 --- BLOCK ---
 Tem um inexperiente em seu grupo
@@ -85,12 +85,12 @@ Curioso sobre dar itens: se o item
 for uma parte de monstro cara
 ou muito rara, não poderá vendê-lo.
 --- BLOCK ---
-A entrada de hoje do seu Diário de
-Caçador novato: "É melhor dar do que
-receber, embora receber também não seja ruim".
+A entrada de hoje do seu Diário de Caçador
+novato: "É melhor dar do que receber,
+embora receber também não seja ruim".
 --- BLOCK ---
 <SUBS 0>
- Chegou a hora de você aprender sobre os
+Chegou a hora de você aprender sobre os
 cartões e títulos da Guilda, não é verdade? Sim.
 --- BLOCK ---
 Os cartões da Guilda contam sua vida
@@ -140,8 +140,8 @@ Se bater no gongo, convocará
 todos os caçadores da
 região até este porto.
 --- BLOCK ---
-Nada melhor do que caçar com
-amigos. É uma experiência transcendental!
+Nada melhor do que caçar com amigos.
+É uma experiência transcendental!
 --- BLOCK ---
 Se estiver em seu próprio Porto
 Multi, pode bater no gongo quando
@@ -151,12 +151,12 @@ Há muitas outras regras e rituais e
 tal. Olhe suas Notas de caçador
 se quiser ir direto ao ponto.
 --- BLOCK ---
-*Ehm* Aqui e agora te declaro
-caçador oficial desta cidade. Não manche
+*Ehm* Aqui e agora te declaro caçador
+oficial desta cidade. Não manche
 agora nosso bom nome, hein? *Arroto*
 --- BLOCK ---
-A entrada de hoje do seu Diário
-de Caçador novato: "Toda grande jornada
+A entrada de hoje do seu Diário de
+Caçador novato: "Toda grande jornada
 começa com um passo. Não tropece!"
 --- BLOCK ---
 ... *Arroto* Que cabeça! Quase
@@ -165,9 +165,9 @@ esqueci de um detalhe crucial!
 Já conheceu o Mensageiro
 Felyne nos cais?
 --- BLOCK ---
-Ele pode ajudar na configuração de seu
-StreetPass. Se ainda não falou com
-ele, por que não o visita?
+Ele pode ajudar na configuração de
+seu StreetPass. Se ainda não falou
+com ele, por que não o visita?
 --- BLOCK ---
 Ative o StreetPass e poderá trocar
 cartões da Guilda com um monte
@@ -193,15 +193,15 @@ Cada caçador escolhe uma missão
 diferente. Escolha com cuidado quem
 vai para cada missão.
 --- BLOCK ---
-Claro, tem que pagar toda vez
-que enviar um caçador para uma
-missão. Afinal, são Caçadores de aluguel.
+Claro, tem que pagar toda vez que
+enviar um caçador para uma missão.
+Afinal, são Caçadores de aluguel.
 --- BLOCK ---
-Lembre-se, não encontrará nenhum Caçador de
-aluguel se não trocar cartões!
+Lembre-se, não encontrará nenhum Caçador
+de aluguel se não trocar cartões!
 --- BLOCK ---
-Espero que se depare com um grupo variado de
-guerreiros e heróis e o que sei lá!
+Espero que se depare com um grupo variado
+de guerreiros e heróis e o que sei lá!
 --- BLOCK ---
 *Cá, cá* Ah, acabou de
 chegar e já está
@@ -242,8 +242,8 @@ encontrou Caçadores de aluguel?
 Se tiver alguma missão em mente para
 os Caçadores de aluguel, venha me ver.
 --- BLOCK ---
-Baseado em suas preferências, posso reduzir
-os tipos de missões que
+Baseado em suas preferências, posso
+reduzir os tipos de missões que
 oferecem quando passam pela Taverna.
 --- BLOCK ---
 *Cá, cá* Agora deve estar ansioso para
@@ -261,8 +261,8 @@ Me dá arrepios só de pensar.
 Encurralando um só faz o outro
 ficar ainda mais furioso e incontrolável.
 --- BLOCK ---
-Ah, disse que é época de
-acasalamento? Essas feras quentes atacarão
+Ah, disse que é época de acasalamento?
+Essas feras quentes atacarão
 tudo que estiver pela frente.
 --- BLOCK ---
 Mas imagino que ainda possa
@@ -275,16 +275,16 @@ Rathian e Rathalos! Triunfo ou morte?"
 Isso te dá vontade
 de caçar, garoto? Mostre!
 --- BLOCK ---
-E se precisar de um pouco de
-motivação, seu Rank de caçador subirá assim
+E se precisar de um pouco de motivação,
+seu Rank de caçador subirá assim
 que completar a missão! *Cá, cá*
 --- BLOCK ---
 Dizem que caçou o Rathian e
 o Rathalos! Que tal um brinde
 pelo seu sucesso? *Cá* *Arroto*
 --- BLOCK ---
-Sempre acreditei que tinha potencial, jovem,
-mas não TANTO! É um
+Sempre acreditei que tinha potencial,
+jovem, mas não TANTO! É um
 caçador habilidoso! Ou era prodígio?
 --- BLOCK ---
 *Ehm* Seja como for, a Guilda
@@ -305,9 +305,9 @@ Não deixe os perigos te derrubarem.
 Essas missões são um bilhete só
 de ida para fama e fortuna!
 --- BLOCK ---
-A entrada de hoje do seu Diário
-de Caçador experiente: "A sorte favorece o
-audacioso. Seja audacioso e acumule fortunas!"
+A entrada de hoje do seu Diário de Caçador
+experiente: "A sorte favorece o audacioso.
+Seja audacioso e acumule fortunas!"
 --- BLOCK ---
 Queria lhe perguntar uma coisa.
 Já conheceu o Instrutor ufanado?
@@ -387,12 +387,12 @@ que esse alguém deve ser você.
 Mas não lutará às cegas. A
 Guilda estará atrás de você, apoiando-o!
 --- BLOCK ---
-Sei que é uma grande exigência, mas
-pense na recompensa! Você não será conhecido
+Sei que é uma grande exigência, mas pense
+na recompensa! Você não será conhecido
 apenas em Tanzia. Terá fama mundial!
 --- BLOCK ---
-Seu olhar me diz que você irá
-conseguir, jovem. Sabia que sim! Vamos brindar
+Seu olhar me diz que você irá conseguir,
+jovem. Sabia que sim! Vamos brindar
 pelo seu sucesso! *Gole, gole* *Arroto*
 --- BLOCK ---
 A entrada no seu Diário de Caçador

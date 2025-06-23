@@ -3,7 +3,7 @@ TITLES_0=Bear Trap
 TITLES_1=Piège à ours
 TITLES_2=Bärenfalle
 TITLES_3=Trappola per orsi
-TITLES_4=Trampa para osos
+TITLES_4=Armadilha de urso
 [OBJECTIVES]
 OBJECTIVES_0=Capture an Arzuros
 OBJECTIVES_1=Capturer un Arzuros
@@ -19,7 +19,7 @@ FAIL_CONDITIONS_2=Belohnung auf 0, Zeit um
 oder Ziel irrtüml. erlegt.
 FAIL_CONDITIONS_3=Premio a 0, tempo scaduto
 o bersaglio ucciso per errore.
-FAIL_CONDITIONS_4=Recomp. a 0, fim tiempo
+FAIL_CONDITIONS_4=Recomp. a 0, fim tempo
 ou mata obj. por acidente.
 [CLIENTS]
 CLIENTS_0=Sunbaked Fisherman

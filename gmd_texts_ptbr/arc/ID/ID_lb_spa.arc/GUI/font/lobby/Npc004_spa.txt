@@ -76,10 +76,10 @@ Mas não consigo obter essa informação até
 que a floresta se acalme um pouco.
 --- BLOCK ---
 <SUBS 0>
-Quando vir um ícone com ? sobre sua cabeça,
-você está em uma área de coleta.
+Quando vir um ícone com "?" sobre sua
+cabeça, você está em uma área de coleta.
 --- BLOCK ---
-Pressione o botão e coletará materiais.
+Pressione o botão "A" e coletará materiais.
 Use-os para fabricar equipamentos, combinar
 itens... O que você quiser!
 --- BLOCK ---
