@@ -896,11 +896,11 @@ Lista de danzas
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Maestro
+Mestre
 --- BLOCK ---
-Habilidad
+Habilidade
 --- BLOCK ---
-Danzas
+Danças
 --- BLOCK ---
 Efeitos da dança
 --- BLOCK ---
@@ -910,7 +910,7 @@ Dança A
 --- BLOCK ---
 Dança B
 --- BLOCK ---
-M. bellota
+M. bolota
 --- BLOCK ---
 M. lâmpada
 --- BLOCK ---
@@ -960,33 +960,31 @@ Máscara astral
 --- BLOCK ---
 Picadillooo
 --- BLOCK ---
-Máscara infantil da
-Vila Cha-Cha. Feita
-de uma bolota
-gigante. Como Cha-Cha
-é impulsivo, ataca
-de perto e
-principalmente monstros grandes.
+Máscara infantil da Vila 
+Cha-Cha. Feita de uma
+bolota gigante. Como
+Cha-Cha é impulsivo, ataca
+de perto, principalmente
+monstros grandes.
 --- BLOCK ---
 Máscara de lâmpada de
-óleo. Dá o sinal
-e sua luz iluminará
-seu caminho. Ao
-usá-la, seu fogo
-faz atacar incessantemente
+óleo. Dá o sinal e sua
+luz iluminará seu caminho.
+Ao usá-la, seu fogo faz
+atacar incessantemente
 os monstros pequenos.
 --- BLOCK ---
-Máscara com a sabedoria
-dos anciões. Usá-la proporciona
-velocidade na água e
-um rastro de oxigênio
-ao dar o sinal.
-Quem a usa ataca
-grandes monstros com ferocidade.
+Máscara com a sabedoria dos
+anciãos. Usá-la proporciona
+velocidade na água e um
+rastro de oxigênio ao
+dar o sinal. Quem a usa
+ataca grandes monstros
+com ferocidade.
 --- BLOCK ---
-Máscara feita com uma panela
-misteriosa. Tire um item
-e o lançará com
+Máscara feita com uma
+panela misteriosa. Tire um
+item e o lançará com
 uma fumaça. Quando a
 fumaça se dissipar, um
 novo item! Geralmente ataca
@@ -1000,13 +998,13 @@ ser segurada. Quem a
 usa ataca de longe
 os monstros pequenos.
 --- BLOCK ---
-Máscara com orelhas grandes e
-bonitas. Com um sinal,
-marca no mapa os
-grandes monstros. Mas suas
-orelhas te tornam sensível
-e nervoso, e você
-não luta. Que pena!
+Máscara com orelhas grandes
+e bonitas. Com um sinal,
+marca no mapa os grandes
+monstros. Mas suas orelhas
+te tornam sensível e nervoso,
+e você não luta.
+Que pena!
 --- BLOCK ---
 Máscara na imagem de
 um Felyne muito famoso

@@ -302,7 +302,7 @@ A Floresta Inundada está cheia de
 cogumelos! Embora os fungos me assustem.
 --- BLOCK ---
 Uma vez me assustaram dizendo que,
-se eu respirasse as esporas, cresceria
+se eu respirasse as esporos, cresceria
 um cogumelo no meu umbigo...
 --- BLOCK ---
 <SUBS 0>
