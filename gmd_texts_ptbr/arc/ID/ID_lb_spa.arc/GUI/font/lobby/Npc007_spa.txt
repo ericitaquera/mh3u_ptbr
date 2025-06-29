@@ -256,7 +256,7 @@ Com o set completo, sua Saúde máxima
 aumenta e você se torna uma máquina
 exterminadora e imparável.
 --- BLOCK ---
-¡RARR! ¡RARGH! Um wyvern! Nos salve,
+RARR! RARGH! Um wyvern! Nos salve,
 fornece! SHHH! O Golpe carregado da
 minha Grande espada atravessa suas escamas!
 --- BLOCK ---
@@ -366,7 +366,7 @@ Gosto de você, então preste atenção!
 --- BLOCK ---
 Vamos levar isso a sério.
 --- BLOCK ---
-¡BOOM! ¡CRACK! Ah... Oh, oi!
+BOOM! CRACK! Ah... Oh, oi!
 --- BLOCK ---
 Até logo, caçador!
 --- BLOCK ---

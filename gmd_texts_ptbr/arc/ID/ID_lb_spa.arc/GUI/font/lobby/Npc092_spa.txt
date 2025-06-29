@@ -421,15 +421,15 @@ Quando estou com ela, Cha-Cha coleta
 materiais e também ataca corpo a
 corpo os monstros grandes! Cha-já!
 --- BLOCK ---
-¡Cha-Cha!
+Cha-Cha!
 --- BLOCK ---
-¡Oga-oga!
+Oga-oga!
 --- BLOCK ---
-¡Ta-ta-cha-chán!
+Ta-ta-cha-chán!
 --- BLOCK ---
-¡Shaka-hola-laka!
+Shaka-hola-laka!
 --- BLOCK ---
-¡Cha-Cha está se sentindo brincalhão hoje!
+Cha-Cha está se sentindo brincalhão hoje!
 --- BLOCK ---
 A barriga do Cha-Cha está roncando. Está esperando para comer.
 --- BLOCK ---
@@ -437,7 +437,7 @@ Cha-Cha dança depois de uma conversa.
 --- BLOCK ---
 Cha-Cha se sente como um jovem selvagem!
 --- BLOCK ---
-¡Cha! Você interrompeu os pensamentos do Cha-Cha!
+Cha! Você interrompeu os pensamentos do Cha-Cha!
 --- BLOCK ---
 Cha-Cha teve um dia ruim... Enfim!
 --- BLOCK ---
@@ -445,11 +445,11 @@ Dançar faz o coração saudável, entende?
 --- BLOCK ---
 Shh, Cha-Cha está ocupado agora...
 --- BLOCK ---
-¡Cha-Cha!
+Cha-Cha!
 --- BLOCK ---
 Até logo-laka!
 --- BLOCK ---
-¡Oga-oga! ¡Cha-chau!
+Oga-oga! Cha-chau!
 --- BLOCK ---
 Até logo-outro!
 --- BLOCK ---

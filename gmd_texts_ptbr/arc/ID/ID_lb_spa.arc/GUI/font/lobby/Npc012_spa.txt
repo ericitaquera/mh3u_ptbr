@@ -8,11 +8,11 @@ TMSG_NPC012_3
 --- BLOCK ---
 TMSG_NPC012_4
 --- BLOCK ---
-¡Ohé, companheiro!
+Ahoy, companheiro!
 --- BLOCK ---
 Volte logo por aqui, camarada!
 --- BLOCK ---
-¡Ohé, camarada! Sou Lançanegra,
+Ahoy, camarada! Sou Lançanegra,
 o homem do ritmo.
 --- BLOCK ---
 A canção de hoje é em homenagem aos
@@ -104,7 +104,7 @@ que grande tripulação! (Ha, ha, ha)".
 (E chimpón!)"
 <SUBS 1>
 --- BLOCK ---
-¡Ohé, camarada caçador! Tenho a mãe
+Ahoy, camarada caçador! Tenho a mãe
 das canções em honra às tuas
 proezas: "O senhor do terremoto"!
 --- BLOCK ---
@@ -227,7 +227,7 @@ Ah! Desculpa, colega. Me deixo
 levar tanto pela nostalgia, que
 me esqueço de respirar...
 --- BLOCK ---
-¡Ohé, camarada caçador! Tenho a mãe
+Ahoy, camarada caçador! Tenho a mãe
 das canções em honra às tuas
 proezas: "O senhor do terremoto"!
 --- BLOCK ---

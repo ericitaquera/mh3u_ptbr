@@ -414,7 +414,7 @@ Atuação interrompida!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-¿Eh? O que aconteceu com aquele garotinho
+Eh? O que aconteceu com aquele garotinho
 encantador que sempre estava contigo?
 --- BLOCK ---
 Ele saiu da cidade! E você diz que

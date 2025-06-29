@@ -108,7 +108,7 @@ irmão mais velho.
 --- BLOCK ---
 Não causam dano ao explodir, mas
 fazem um barulho enooooorme que soa
-como "¡Iiiiiiii!". Li em um livro.
+como "Iiiiiiii!". Li em um livro.
 --- BLOCK ---
 O barulho se propaga sob
 a terra e pela
@@ -124,7 +124,7 @@ um Catalisador com muito cuidado.
 --- BLOCK ---
 Se for brusco, o Peixe
 Trovejante explode e te
-cobre de tripas. ¡Eca!
+cobre de tripas. Eca!
 --- BLOCK ---
 Se encontrar plantas
 e cogumelos raros

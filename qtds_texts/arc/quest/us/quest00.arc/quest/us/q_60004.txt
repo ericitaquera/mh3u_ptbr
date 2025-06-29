@@ -3,13 +3,13 @@ TITLES_0=Grudge Match: Gigginox
 TITLES_1=Revanche : Gigginox
 TITLES_2=Zweikampf: Gigginox
 TITLES_3=Scontro: Gigginox
-TITLES_4=Ajuste de cuentas: Gigginox
+TITLES_4=Ajuste de contas: Gigginox
 [OBJECTIVES]
 OBJECTIVES_0=Slay a Gigginox
 OBJECTIVES_1=Tuer un Gigginox
 OBJECTIVES_2=Erlege einen Gigginox.
 OBJECTIVES_3=Uccidi un Gigginox
-OBJECTIVES_4=Mata um Gigginox
+OBJECTIVES_4=Mate um Gigginox
 [FAIL_CONDITIONS]
 FAIL_CONDITIONS_0=Faint 3 times (Reward hits 0),
 or time expires.
@@ -56,10 +56,10 @@ produttore di uova! Riusciranno
 i nostri cacciatori a rompergli
 le uova nel paniere? Sì, sono
 pagato per le mie battute, gente!
-DESCRIPTIONS_4=Espero que hayáis desayunado
-bien, porque el desafío
-de hoy consiste en matar
-a ese ponedor de huevos,
-¡el Gigginox! ¿Podrán nuestros
-cazadores echarle un par de
-huevos? Me pagan por esto, sí.
+DESCRIPTIONS_4=Espero que vocês tenham tomado
+um bom café da manhã, porque o
+desafio de hoje consiste em
+matar esse botador de ovos:
+o Gigginox! Será que nossos
+caçadores têm coragem de encarar?
+Sim, sou pago para isso.

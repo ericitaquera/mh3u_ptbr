@@ -5,34 +5,34 @@ TMSG_QNTALK008_001
 Olhe só, miau. Ninguém
 tão esperto quanto Cha-Cha!
 --- BLOCK ---
-¡MIAAAUU! Isso não é som de
+MIAAAUU! Isso não é som de
 gato. É Cha-Cha gritando, miau.
 --- BLOCK ---
 Miaaau... Cha-Cha Felyne não
 é muito comilão...
 --- BLOCK ---
-¡FU! ¡FU! ¡FU! Ops! Gato
-deveria ser doce... ¿Mm...miau?
+FU! FU! FU! Ops! Gato
+deveria ser doce... Mm...miau?
 --- BLOCK ---
-¡Cha-Cha encontrou algo bom! Enterrar, auau...
+Cha-Cha encontrou algo bom! Enterrar, auau...
 Ah, não, isso não é um gato, é um cachorro.
 --- BLOCK ---
-¡Ta cha-chán! Cha-Cha terminou de cortar.
-¿O quê? Ah, entendi. ¡MIAU!
+Ta cha-chán! Cha-Cha terminou de cortar.
+O quê? Ah, entendi. MIAU!
 --- BLOCK ---
 Veja Cha-Cha dançar a
-antiga dança Felyne, ¡miaaau!
+antiga dança Felyne, miaaau!
 --- BLOCK ---
-¿Marramao, marramao? Adivinha quem
+Marramao, marramao? Adivinha quem
 Cha-Cha está imitando!
 --- BLOCK ---
-¡Três hurras para mim! Cha-Cha
+Três hurras para mim! Cha-Cha
 Felyne sempre cai de pé!
 --- BLOCK ---
-¡Não e não! Isso quer dizer que...
+Não e não! Isso quer dizer que...
 Cha-Cha nunca foi um verdadeiro Felyne?
 --- BLOCK ---
-¡Felyne são especialistas em Armadilhas
+Felyne são especialistas em Armadilhas
 choque! Bem..., eu acabei de inventar isso.
 --- BLOCK ---
 Os gatos têm sete vidas!
@@ -49,10 +49,10 @@ Miau, Cha-Cha Felyne precisa de uma soneca.
 O que caracteriza os Felyne? Eles
 são rápidos para fugir, miau!
 --- BLOCK ---
-¡FU! ¡FU! ¡FU! Não há fúria pior do
+FU! FU! FU! Não há fúria pior do
 que a de um Cha-Cha Felyne desrespeitado!
 --- BLOCK ---
-¿Miau? Você
+Miau? Você
 chamou?
 --- BLOCK ---
 DUMMY
@@ -63,45 +63,45 @@ perfeito para mim!
 DUMMY
 --- BLOCK ---
 *Nhac* *Nhac* *Glup*
-¡Miau, delicioso!
+Miau, delicioso!
 --- BLOCK ---
-¡Hum... miau! Deixe os Felyne tomarem
+Hum... miau! Deixe os Felyne tomarem
 seu Vinho Felyne. Cha-Cha quer mais!
 --- BLOCK ---
-¡Mi... auco! Quem te
-ensinou a cozinhar? ¡Fu!
+Mi... auco! Quem te
+ensinou a cozinhar? Fu!
 --- BLOCK ---
-¡Oh! Funcionou, miau! O encanto
+Oh! Funcionou, miau! O encanto
 Felyne de Cha-Cha ajudou?
 --- BLOCK ---
 Miau, bom. Os encantos felinos de
 Cha-Cha Felyne são muito distraídos.
 --- BLOCK ---
-¡Bomba pronta! Preparados? Na contagem
-de três... Um, dois, ¡MIAU!
+Bomba pronta! Preparados? Na contagem
+de três... Um, dois, MIAU!
 --- BLOCK ---
-¡Espere! Cha-Cha vai te ajudar a
+Espere! Cha-Cha vai te ajudar a
 se recuperar das garras do perigo!
 --- BLOCK ---
-¡As garras de Cha-Cha estão
-sedentas de sangue! ¡Grrr!
+As garras de Cha-Cha estão
+sedentas de sangue! Grrr!
 --- BLOCK ---
-¡Ssss! Aranha! Morde! Aqui vem
+Ssss! Aranha! Morde! Aqui vem
 uma grande lata de gatástrofe!
 --- BLOCK ---
 Chiauu, chiauu... Viu? Cha-Cha soa
 igual a um Felyne!... Não?
 --- BLOCK ---
 Certamente "Cha-Cha" significa gato-gato em
-outra língua, ¿oui, oui? Miau.
+outra língua, oui, oui? Miau.
 --- BLOCK ---
-¡Ffff! Problema arranha Cha-Cha ao
+Ffff! Problema arranha Cha-Cha ao
 contrário! Cha-Cha está indo embora!
 --- BLOCK ---
-¡Cha-Cha salta para o resgate!
+Cha-Cha salta para o resgate!
 Certifique-se de que o amigo caia de pé!
 --- BLOCK ---
-¡Felyne se movem com graça felina!
+Felyne se movem com graça felina!
 Permita que Cha-Cha se junte à dança!
 --- BLOCK ---
 DUMMY
@@ -117,28 +117,28 @@ que um Felyne com gatinhos.
 --- BLOCK ---
 ... Tudo bem. Kayamba guarda as garras.
 --- BLOCK ---
-¡Kayamba encontrou algo! Agora Kayamba
+Kayamba encontrou algo! Agora Kayamba
 vai brincar com isso como um novelo de lã.
 --- BLOCK ---
 Kayamba já terminou, miau?
 Recebeu carinhos na cabeça?
 --- BLOCK ---
-¡Kayamba dança como um Felyne
+Kayamba dança como um Felyne
 no telhado quente de zinco!
 --- BLOCK ---
-¡Kayamba ensina passos
+Kayamba ensina passos
 de dança perfeitos!
 --- BLOCK ---
-¡A dança Felyne de Kayamba
+A dança Felyne de Kayamba
 é a última miadela!
 --- BLOCK ---
-¡Miauch! Talvez Kayamba não tenha nascido
+Miauch! Talvez Kayamba não tenha nascido
 para ser um Felyne, afinal...
 --- BLOCK ---
-¡Todos os Felyne adoram Armadilhas choque! É
+Todos os Felyne adoram Armadilhas choque! É
 por causa da eletricidade estática no pelo.
 --- BLOCK ---
-¡Kayamba voltou! Achava que
+Kayamba voltou! Achava que
 ele estava acabado.
 --- BLOCK ---
 Talvez Kayamba seja bonito demais
@@ -152,11 +152,11 @@ Kayamba está descansando agora. Talvez ronroneie.
 Kayamba utiliza a habilidade
 Felyne secreta: fugir!
 --- BLOCK ---
-¡Kayamba mostra as garras! Arranha
+Kayamba mostra as garras! Arranha
 como um móvel caro!
 --- BLOCK ---
-¿Sim? O que você quer agora?
-Uy, Kayamba quer dizer... ¿miau?
+Sim? O que você quer agora?
+Uy, Kayamba quer dizer... miau?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -168,10 +168,10 @@ DUMMY
 *Nhac, nhac, nhac! Tem
 mais para Kayamba?
 --- BLOCK ---
-¡Miau! Isso é melhor do que uma lata
+Miau! Isso é melhor do que uma lata
 de comida Felyne que Kayamba iria comer.
 --- BLOCK ---
-¡Puaj! Isso tem gosto de comida
+Puaj! Isso tem gosto de comida
 de gato. No pior sentido!
 --- BLOCK ---
 Felyne têm o poder de reduzir o estresse.
@@ -180,22 +180,22 @@ Por isso você cozinha tão bem, miau.
 Que pena. Você fará
 melhor da próxima vez.
 --- BLOCK ---
-¡Bombas prontas! Kayamba faz a
-contagem regressiva... Três, dois, ¡miuuu!
+Bombas prontas! Kayamba faz a
+contagem regressiva... Três, dois, miuuu!
 --- BLOCK ---
 A língua Felyne te pegou? Kayamba
 vai te ajudar de qualquer maneira!
 --- BLOCK ---
-¡Kayamba adora sangue entre
-as garras! ¡Rrrorrr!
+Kayamba adora sangue entre
+as garras! Rrrorrr!
 --- BLOCK ---
-¡Agora Kayamba leva
-a melhor! ¡Kayambaaaaaa!
+Agora Kayamba leva
+a melhor! Kayambaaaaaa!
 --- BLOCK ---
 Não vamos procurar três pés no gato. Kayamba
 é o Felyne mais fofo de todos!
 --- BLOCK ---
-¡Kayamba resolve qualquer gatunagem!
+Kayamba resolve qualquer gatunagem!
 --- BLOCK ---
 Kayamba deitado de barriga para cima como
 um Felyne. Kayamba está indo embora!

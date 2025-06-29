@@ -4,7 +4,7 @@ TMSG_QNTALK011_001
 --- BLOCK ---
 Cha-Cha com a barriga encolhida...
 --- BLOCK ---
-¿Eeh? Isso? Você lutar com ISSO?! Cha-Cha
+Eeh? Isso? Você lutar com ISSO?! Cha-Cha
 esperar você ter um bom plano...
 --- BLOCK ---
 Ah, Cha-Cha cheio!
@@ -150,7 +150,7 @@ Você manda sinal, Kayamba?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¿||? Kayamba animado! É
+||? Kayamba animado! É
 como aniversário de novo!
 --- BLOCK ---
 DUMMY

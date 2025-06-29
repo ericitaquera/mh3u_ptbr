@@ -35,21 +35,21 @@ TMSG_NPC023_4
 *Ronco. Ronco. gole*
 *Oink-oink... guincho*
 --- BLOCK ---
-*¡Grunhido! ¡Guincho!*
+*Grunhido! Guincho!*
 --- BLOCK ---
-*¡Ronco! ¡A-a-assovio!*
-*¡Grunhido ronco Grunhido!*
+*Ronco! A-a-assovio!*
+*Grunhido ronco Grunhido!*
 --- BLOCK ---
 *Ronco ronco*
 *Grunhido*
 --- BLOCK ---
-*¡Oink-oink! ¡Grunhido! ¡Roonquido!*
+*Oink-oink! Grunhido! Roonquido!*
 *Grunhido Grunhido Grunhido*
 --- BLOCK [021] ---
 *Grunhido Grunhido*
 *Ronco*
 --- BLOCK ---
-*¡Guincho! ¡Ronco!*
+*Guincho! Ronco!*
 *Grunhido*
 --- BLOCK ---
 *Grunhido*

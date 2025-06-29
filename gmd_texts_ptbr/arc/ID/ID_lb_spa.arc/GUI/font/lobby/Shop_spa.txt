@@ -468,13 +468,13 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¿%s? Bom tempo.
+%s? Bom tempo.
 Haverá boa pesca!
 --- BLOCK ---
-¿%s? Tempestade se
+%s? Tempestade se
 aproximando. Se atreve?
 --- BLOCK ---
-¿%s? Boas ondas.
+%s? Boas ondas.
 Pode haver sorte!
 --- BLOCK ---
 Fizemos melhorias. Hoje podemos ir

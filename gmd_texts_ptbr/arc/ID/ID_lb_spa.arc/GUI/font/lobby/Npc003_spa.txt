@@ -139,7 +139,7 @@ Até eu quase fui! Quer tocar
 meus bíceps? Tenho certeza que
 posso te partir ao meio!
 --- BLOCK ---
-¡Hi yaa! ¡Guac! ¡Achís!
+Hi yaa! Guac! Achís!
 --- BLOCK ---
 <SUBS 0>
 A Guilda fornece aos
@@ -365,18 +365,18 @@ O Gobul é conhecido principalmente pelo
 modo como ele se infla.
 --- BLOCK ---
 É tipo,
-¡pffffff! ¡Pffffffffffffffffffffffff!
+pffffff! Pffffffffffffffffffffffff!
 PFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF *buf*
 --- BLOCK ---
 Pode me parar quando quiser.
 --- BLOCK ---
-¡Brr! Na Tundra, seu maior inimigo é
+Brr! Na Tundra, seu maior inimigo é
 a temperatura. Acredite, uma área de caça
 não é o melhor lugar para congelar.
 --- BLOCK ---
 É um ciclo vicioso. O chão
 esfria seus pés, depois os joelhos,
-depois você não consegue dormir... ¡Ai!
+depois você não consegue dormir... Ai!
 --- BLOCK ---
 <SUBS 0>
 Na tundra há duas temperaturas. Uma é o
@@ -417,7 +417,7 @@ de lava letais.
 Se você se aproximar muito, começará a
 minar sua Vida. Cuide para não fritar!
 --- BLOCK ---
-¡CRACABUUM!
+CRACABUUM!
 --- BLOCK ---
 Brum brum bruum KERSLACABUUM!
 --- BLOCK ---
@@ -1192,7 +1192,7 @@ Se você assustá-lo o suficiente,
 com certeza ele não voltará. E sua
 braguilha está aberta. Haha, olhou!
 --- BLOCK ---
-¡YUJUUUUUU!
+YUJUUUUUU!
 --- BLOCK ---
 Você conseguiu! Expulsou aquele
 maldito Lagiacrus das imediações!
@@ -1605,23 +1605,23 @@ evacuada sem incidentes".
 "Caçador e ligação permanecem até
 o último rastreamento da ilha".
 --- BLOCK ---
-¡Ri, ri, ri! Agora não podem
+Ri, ri, ri! Agora não podem
 nos obrigar a voltar para a
 central. Estamos cuidando dos aldeões!
 --- BLOCK ---
 A operação "Desorientar a perdiz" está
 indo de acordo com o planejado.
 --- BLOCK ---
-¿Hmm? Vão me prender
+Hmm? Vão me prender
 pelo que estou fazendo?
 --- BLOCK ---
-¡Não se preocupe com
+Não se preocupe com
 isso, caçador destemido!
 --- BLOCK ---
 De verdade. Para mim, esta vila e
 seus habitantes são meu maior tesouro.
 --- BLOCK ---
-¡Então, para mim, "O Homem"
+Então, para mim, "O Homem"
 pode se perder na floresta!
 --- BLOCK ---
 Sim, estamos em recessão e é muito difícil
@@ -1657,12 +1657,12 @@ Aliás, se você guiar o Ceadeus para a
 parte de trás das ruínas, o dano que ele
 sofrer persistirá se falhar na missão.
 --- BLOCK ---
-¡Então insista! Enfrente-o quantas vezes
+Então insista! Enfrente-o quantas vezes
 forem necessárias e ele será seu!
 --- BLOCK ---
 Posso dizer algo?
 --- BLOCK ---
-¡¡¡JAAAAAAA, *suspiro*
+JAAAAAAA, *suspiro*
 JUUUUUUUUU UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUU!!!
 --- BLOCK ---
@@ -1676,7 +1676,7 @@ nenhuma bobagem, como se sacrificar!
 Tudo bem? Então vamos, tenho mais
 gritos de comemoração para dar!
 --- BLOCK ---
-¡LO HAS LOGRADO! ¡HAS VENCIDO!
+LO HAS LOGRADO! HAS VENCIDO!
 --- BLOCK ---
 SIIIIIIIIIIIIIM!!! Vitória,
 vitória, vitória...
@@ -2300,7 +2300,7 @@ que isso último significa!
 Você completou todas as missões
 da Vila Moga! Todas!
 --- BLOCK ---
-¡POR TODAS LAS BESTIAS!
+POR TODAS LAS BESTIAS!
 --- BLOCK ---
 Em todos os anos que
 estive na Guilda, nunca conheci

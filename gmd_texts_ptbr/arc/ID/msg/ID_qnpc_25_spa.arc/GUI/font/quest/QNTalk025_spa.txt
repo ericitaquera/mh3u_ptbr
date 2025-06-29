@@ -4,35 +4,35 @@ TMSG_QNTALK002_001
 --- BLOCK ---
 Cha-Cha com a barriga encolhida...
 --- BLOCK ---
-¿Eeh? ¿Isso? Você lutar COM ISSO?! Cha-Cha
+Eeh? Isso? Você lutar COM ISSO?! Cha-Cha
 esperar que você tenha um bom plano...
 --- BLOCK ---
 Aah, Cha-Cha cheio!
 --- BLOCK ---
-¡Oga-oga! ¡Toma
-essa! ¡Ohga!
+Oga-oga! Toma
+essa! Ohga!
 --- BLOCK ---
-Cha-Cha com um item! ¡Ta-cha-chán!
+Cha-Cha com um item! Ta-cha-chán!
 --- BLOCK ---
 Aah... Que bom fatiar
 monstro após caça-caça!
 --- BLOCK ---
 Cha-Cha com vontade de dançarrrr...
 --- BLOCK ---
-¡Um, dois, três, quatro!
+Um, dois, três, quatro!
 Vejam como Cha-Cha dança!
 --- BLOCK ---
-¡Ta-cha-chán! Quem dança melhor
+Ta-cha-chán! Quem dança melhor
 do que Cha-Cha?
 --- BLOCK ---
 Chuh... Cha-Cha age como se
 isso não tivesse acontecido!
 --- BLOCK ---
-¡Bzz-zzz-zzz-zzz-zzt! Monstro caiu na
+Bzz-zzz-zzz-zzz-zzt! Monstro caiu na
 armadilha de Cha-Cha!
 --- BLOCK ---
-¡Eu, Cha-Cha! ¡Eu, grande campeão da
-tribo Shakalaka! ¡Eu nunca desisto!
+Eu, Cha-Cha! Eu, grande campeão da
+tribo Shakalaka! Eu nunca desisto!
 --- BLOCK ---
 Cha-Cha... não... se arrepender...
 --- BLOCK ---
@@ -44,45 +44,45 @@ faz uma retirada estratégica!
 Cha-Cha lembra... Em... Deixar fogo
 aceso! Cha-Cha até logo!
 --- BLOCK ---
-¡Cha-Cha ESTÁ
-BRAVO! ¡CHAKALAKA-LAKA!
+Cha-Cha ESTÁ
+BRAVO! CHAKALAKA-LAKA!
 --- BLOCK ---
 Você chamar Cha-Cha?
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¡Mil obrigados! Fazer || deixa
+Mil obrigados! Fazer || deixa
 Cha-Cha feliz, viva, viva!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¡Mmm! Comida ñam ñam!
+Mmm! Comida ñam ñam!
 --- BLOCK ---
-¡Muito obrigado! A barriga de
+Muito obrigado! A barriga de
 Cha-Cha estava com fome!
 --- BLOCK ---
 Que ruim! O que é isso?
 Não é comida! Cha-Cha nojento!
 --- BLOCK ---
-¡Chupiii! Você fez bem! Agradecimento
+Chupiii! Você fez bem! Agradecimento
 à ajuda de Cha-Cha.
 --- BLOCK ---
-¡Ooh, ânimo! Logo
+Ooh, ânimo! Logo
 você consegue!
 --- BLOCK ---
-¡Cheh... eh... eh! Venha experimentar
+Cheh... eh... eh! Venha experimentar
 o bum-bum caseiro de Cha-Cha!
 --- BLOCK ---
-¡Che... je... je! Sim, sim!
+Che... je... je! Sim, sim!
 Vá! Você nunca diz morrer!
 --- BLOCK ---
 Voar como borboleta, fugir como
 barata! Assim fazem os Shakalaka!
 --- BLOCK ---
-¡Cha! ¡E cha! Tome, monstro! Tome o
-que Cha-Cha tem para você! ¡Cha!
+Cha! E cha! Tome, monstro! Tome o
+que Cha-Cha tem para você! Cha!
 --- BLOCK ---
-*¡Cha-chup!* Você vê algo
+*Cha-chup!* Você vê algo
 se mexendo por aí?
 --- BLOCK ---
 Chaa... Cha-Cha gosta
@@ -94,7 +94,7 @@ aquele tipo estranho!
 Ayyy... Cha-Cha nunca deixa Kacha-yaka
 na mão. A dançar-dançar!
 --- BLOCK ---
-¡Cha-pa-pa! ¡Cha-pa-pa! Cha-Cha
+Cha-pa-pa! Cha-pa-pa! Cha-Cha
 segue o ritmo-ritmo!
 --- BLOCK ---
 DUMMY
@@ -111,14 +111,14 @@ Como uma bola de praia grávida.
 Quer raiva, Kayamba
 mostra raiva!
 --- BLOCK ---
-¡Yam-ba! Kayamba encontrou um item!
+Yam-ba! Kayamba encontrou um item!
 --- BLOCK ---
 A sorte é que o estômago de Kayamba é
 resistente. Isso é como uma cena de crime.
 --- BLOCK ---
 Kayamba se move como Shakalaka!
 --- BLOCK ---
-¡Yam-ba-ba! ¡Yam-ba-ba! Kayamba com
+Yam-ba-ba! Yam-ba-ba! Kayamba com
 febre de dança!
 --- BLOCK ---
 Kayamba dança tão bem
@@ -155,13 +155,13 @@ ter aniversário de novo!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¡Yum-ba! Suave e molhado, suco
+Yum-ba! Suave e molhado, suco
 escorre pelo queixo de Kayamba!
 --- BLOCK ---
 Isso é bom. Kayamba estava morrendo de
 fome!... Não, não estava morrendo de verdade.
 --- BLOCK ---
-¡Puaj! O que é essa porcaria?
+Puaj! O que é essa porcaria?
 Kayamba disse algo que te incomoda?
 --- BLOCK ---
 Viva Kayamba! E um
@@ -176,7 +176,7 @@ Kayamba salva sua vida! Você retribui
 o favor depois. Com comida.
 --- BLOCK ---
 Kayamba carrega como
-um Bullfango! ¡Yam-baaaaaaaaa!
+um Bullfango! Yam-baaaaaaaaa!
 --- BLOCK ---
 Onde você vai? Venha aqui! Kayamba
 vai te dar uma surra!

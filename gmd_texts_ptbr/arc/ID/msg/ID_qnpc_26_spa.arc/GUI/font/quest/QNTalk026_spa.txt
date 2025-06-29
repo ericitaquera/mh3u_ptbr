@@ -4,12 +4,12 @@ TMSG_QNTALK002_001
 --- BLOCK ---
 Cha-Cha com barriga encolhida...
 --- BLOCK ---
-¿Eh? Isso? Você lutar COM ISSO?! Cha-Cha
+Eh? Isso? Você lutar COM ISSO?! Cha-Cha
 esperar que você tenha um bom plano...
 --- BLOCK ---
 Ah, Cha-Cha cheio!
 --- BLOCK ---
-¡Oga-oga! Tome
+Oga-oga! Tome
 isso! Ohga!
 --- BLOCK ---
 Cha-Cha tem item! Ta-cha-chán!
@@ -28,7 +28,7 @@ melhor que Cha-Cha?
 Chuh... Cha-Cha age como se
 isso não tivesse acontecido!
 --- BLOCK ---
-¡Bzz-zzz-zzz-zzz-zzt! Monstro caiu na
+Bzz-zzz-zzz-zzz-zzt! Monstro caiu na
 armadilha de Cha-Cha!
 --- BLOCK ---
 Eu, Cha-Cha! Eu, grande campeão da

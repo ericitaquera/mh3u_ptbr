@@ -14,7 +14,7 @@ TMSG_NPC084_4
 --- BLOCK ---
 <SUBS 0>
 --- BLOCK ---
-Ah, ¿ouviu? Aquele moinho aproveita a
+Ah, ouviu? Aquele moinho aproveita a
 brisa do oceano para alimentar
 a forja. É muito engenhoso!
 --- BLOCK ---

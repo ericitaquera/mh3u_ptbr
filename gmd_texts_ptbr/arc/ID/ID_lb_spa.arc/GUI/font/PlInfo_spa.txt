@@ -12,7 +12,7 @@ O poder da arma diminuiu!
 --- BLOCK ---
 O poder da arma aumentou!
 --- BLOCK ---
-A Afiação está no máximo!
+A nitidez está no máximo!
 --- BLOCK ---
 Sua bolsa de itens está cheia.
 --- BLOCK ---
@@ -72,7 +72,7 @@ A resistência ao frio aumentou!
 --- BLOCK ---
 O efeito frio acabou!
 --- BLOCK ---
-¡Se acabó el efecto de calor!
+O efeito de calor acabou!
 --- BLOCK ---
 %s desmaiou.
 --- BLOCK ---
@@ -92,13 +92,13 @@ O Arpão de Amarração está disponível.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¡%s queima muito!
+%s queima muito!
 --- BLOCK ---
 Enviado para a caixa de itens: %s.
 --- BLOCK ---
 %s saiu do jogo.
 --- BLOCK ---
-¡Gato desafortunado activado!
+Gato azarado ativado!
 --- BLOCK ---
 Você perdeu...
 --- BLOCK ---
