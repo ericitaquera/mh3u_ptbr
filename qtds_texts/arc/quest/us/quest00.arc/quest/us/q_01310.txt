@@ -57,7 +57,7 @@ che fanno il latte acido:
 uno schifo! Puoi sistemare
 quei mostri per me, amico?
 DESCRIPTIONS_4=Os Bnahabra estão rondando a
-Floresta Alagada atrás das minhas
+Floresta Inundada atrás das minhas
 vacas. Elas ficam tão assustadas
 que o leite sai talhado… e
 fica horrível! Será que você

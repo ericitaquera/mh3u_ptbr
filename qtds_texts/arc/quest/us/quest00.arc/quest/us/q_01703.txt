@@ -57,7 +57,7 @@ addio commercio! Qualcuno mi
 aiuti, quel mostro va fermato
 prima che faccia altri danni!
 DESCRIPTIONS_4=É uma tragédia! Uma tragédia!
-Tem um Gobul na Floresta Alagada!
+Tem um Gobul na Floresta Inundada!
 Ele esmagou meus companheiros
 e o comércio da região desabou.
 Por favor, alguém precisa

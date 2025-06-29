@@ -3,7 +3,7 @@ TITLES_0=Toxic Troublemaker
 TITLES_1=Rififi toxique
 TITLES_2=Giftiger Störenfried
 TITLES_3=Un piantagrane tossico
-TITLES_4=Alborotador tóxico
+TITLES_4=Agitador tóxico
 [OBJECTIVES]
 OBJECTIVES_0=Hunt a Great Wroggi
 OBJECTIVES_1=Chasser un Grand Wroggi

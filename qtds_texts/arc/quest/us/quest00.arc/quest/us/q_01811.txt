@@ -59,7 +59,7 @@ aggiungerò del buon cibo
 alla tua ricompensa. So che
 le operazioni in una zona così
 umida consumano le scorte.
-DESCRIPTIONS_4=A luta na Floresta Alagada
+DESCRIPTIONS_4=A luta na Floresta Inundada
 vai ser coisa séria — mas
 fugir não é meu estilo. Se
 nos ajudar, eu te recompenso

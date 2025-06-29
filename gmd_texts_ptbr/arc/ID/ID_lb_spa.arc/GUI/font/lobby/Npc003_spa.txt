@@ -989,8 +989,8 @@ Hmm? Que tipo de lugar
 é esse? E eu lá
 sei. Segundo meu guia detalhado...
 --- BLOCK ---
-"Floresta Inundada. Uma
-floresta alagada".
+"Floresta Inundada.
+Uma floresta alagada".
 --- BLOCK ---
 Ah. Uau.
 --- BLOCK ---

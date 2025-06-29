@@ -6,9 +6,9 @@ map_name_time_msg
 --- BLOCK ---
 IlhDes
 --- BLOCK ---
-ChaAre
+PlaAre
 --- BLOCK ---
-BosInu
+FloInu
 --- BLOCK ---
 Tundra
 --- BLOCK ---
@@ -18,17 +18,17 @@ GraDes
 --- BLOCK ---
 Ruinas
 --- BLOCK ---
-ArenaTerra
+Arena Terr
 --- BLOCK ---
-ArenaTerra
---- BLOCK ---
-Arena Agua
---- BLOCK ---
-TerraSagra
+Arena Terr
 --- BLOCK ---
 Arena Agua
 --- BLOCK ---
-CumBor
+Terr Sagra
+--- BLOCK ---
+Arena Agua
+--- BLOCK ---
+CumNub
 --- BLOCK ---
 Torre
 --- BLOCK ---

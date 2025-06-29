@@ -57,7 +57,7 @@ come il tuo piccolo amico. Perché
 non fermi il Duramboros e salvi
 questa misteriosa creaturina?
 DESCRIPTIONS_4=Um dos guardas da Floresta
-Alagada viu um Duramboros correndo
+Inundada viu um Duramboros correndo
 atrás de… algo. Era tão pequeno
 que mal chegava no joelho de
 um Vespoid, tipo aquele seu amigo.

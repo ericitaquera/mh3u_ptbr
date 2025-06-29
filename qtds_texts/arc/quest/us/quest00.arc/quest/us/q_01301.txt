@@ -57,7 +57,7 @@ minuti riceverete un Buono
 Pass-zampa per un ritorno
 sicuro a casa.
 DESCRIPTIONS_4=Todos aqui, miau? Este é o Tour
-pela Floresta Alagada, uma
+pela Floresta Inundada, uma
 aventura entre as árvores!
 Em dois minutinhos, vocês vão
 receber um Ticket Garra pra

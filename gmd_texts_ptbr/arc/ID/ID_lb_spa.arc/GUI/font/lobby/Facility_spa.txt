@@ -2267,11 +2267,11 @@ Cogumelos
 --- BLOCK ---
 Outros
 --- BLOCK ---
-IslDes
+IlhDes
 --- BLOCK ---
-LlaAre
+PlaAre
 --- BLOCK ---
-BsqInu
+FloInu
 --- BLOCK ---
 Tundra
 --- BLOCK ---
