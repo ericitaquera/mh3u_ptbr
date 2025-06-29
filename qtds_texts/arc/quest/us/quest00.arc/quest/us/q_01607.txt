@@ -20,7 +20,7 @@ läuft ab.
 FAIL_CONDITIONS_3=Premio a 0
 o tempo scaduto.
 FAIL_CONDITIONS_4=Recompensa cair a 0
-ou acabar o tiempo.
+ou acabar o tempo.
 [CLIENTS]
 CLIENTS_0=Shipmaster
 CLIENTS_1=Capitaine

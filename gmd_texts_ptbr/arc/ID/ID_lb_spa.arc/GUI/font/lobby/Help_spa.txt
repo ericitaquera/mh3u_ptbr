@@ -951,8 +951,8 @@ Mostrar ou mudar as habilidades.
 --- BLOCK ---
 Mostrar as estatísticas de %s.
 --- BLOCK ---
-Te acompanha em missões multijogador. <COLO
-2>(Apenas um Shakalaka pode te acompanhar
+Te acompanha em missões multijogador.
+<COLO 2>(Apenas um Shakalaka pode te acompanhar
 quando estiver jogando com outras pessoas).
 --- BLOCK ---
 Não te acompanha em missões multijogador.

@@ -804,7 +804,7 @@ fraqueza, como quando ele arrasta os pés.
 É nesse momento que você deve capturá-lo!
 --- BLOCK ---
 Quando seu alvo começar a fraquejar,
-use uma Armadilha escollo ou uma
+use uma Armadilha de queda ou uma
 Armadilha choque para imobilizá-lo.
 --- BLOCK ---
 Depois, lance uma Bomba tranquilizante

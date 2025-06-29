@@ -15,8 +15,8 @@ Volte logo por aqui, camarada!
 ¡Ohé, camarada! Sou Lançanegra,
 o homem do ritmo.
 --- BLOCK ---
-A canção de hoje é em homenagem
-aos meus camaradas da gloriosa Frota
+A canção de hoje é em homenagem aos
+meus camaradas da gloriosa Frota
 de caça. Já a ouviste antes?
 --- BLOCK ---
 É uma melodia enérgica, cheia de
@@ -31,7 +31,7 @@ Oh, deuses! Ficamos sem fôlego".
 quieto, Lançanegra! Cale-se e reme!
 É o Lagiacrus! REME!
 --- BLOCK ---
-"Ah, não. O que faremos? Ele está se aproximando.
+"Ah, não. O que faremos? Ele está chegando
 O Lagiacrus está *glub, glub, glub*".
 <SUBS 1>
 --- BLOCK ---
@@ -39,9 +39,9 @@ Sou Lançanegra, o homem do
 ritmo! Hoje tenho uma canção
 a mais para ti.
 --- BLOCK ---
-É uma melodia triste que fala
-de uma tragédia abismal. Sim, talvez
-até derramemos umas lágrimas... Esteja avisado.
+É uma melodia triste que fala de uma
+tragédia abismal. Sim, talvez até
+derramemos umas lágrimas... Esteja avisado.
 --- BLOCK ---
 Tire o lenço, camarada, que vou
 cantar "Um golpe de glória".
@@ -56,8 +56,8 @@ meu barco não aguentará!"
 "A água salgada voa (mas por sorte meus
 ossos não vão para o fundo do mar)".
 --- BLOCK ---
-*Sorbo* Adeus, barco que levava meu nome.
-Um dia navegaremos novamente.
+*Soluço* Adeus, barco que levava meu
+nome. Um dia navegaremos novamente.
 <SUBS 1>
 --- BLOCK ---
 Sou Lançanegra, o homem do ritmo!
@@ -65,8 +65,8 @@ Gostaria de te deleitar com uma
 canção, dedicada a um camarada querido.
 --- BLOCK ---
 Veja, Lançavermelha partiu para o mar
-por causa de um monstro muito
-especial. Apresento... "Parte da sua esponja".
+por causa de um monstro muito especial.
+Apresento... "Parte da sua esponja".
 --- BLOCK ---
 "Olhe que pele, feita para
 navegar, O que dizer dessas
@@ -79,8 +79,8 @@ no mar o Ludroth real
 "Em um casco navegamos ao
 som. Me dê essa esponja".
 --- BLOCK ---
-Bon voyage, Lançavermelha! Siga sem mim!
-Não te reprovo! Que importa se
+Bon voyage, Lançavermelha! Siga sem
+mim! Não te reprovo! Que importa se
 eu fico aqui... jogado em terra...
 --- BLOCK ---
 Sou Lançanegra, o homem do ritmo! E
@@ -97,8 +97,8 @@ te matou! (Ha, ha, ha)".
 "Agora que partiste, a frota voltou
 sem medo! (Ha, ha, ha, ha)".
 --- BLOCK ---
-"O capitão, Lançavermelha, Lançanegra, que
-grande tripulação! (Ha, ha, ha)".
+"O capitão, Lançavermelha, Lançanegra,
+que grande tripulação! (Ha, ha, ha)".
 --- BLOCK ---
 "Especialistas na pesca sem igual!
 (E chimpón!)"
@@ -108,8 +108,8 @@ grande tripulação! (Ha, ha, ha)".
 das canções em honra às tuas
 proezas: "O senhor do terremoto"!
 --- BLOCK ---
-"Senhor do terremoto, deu uma surra no
-Ceadeus salvou a vila, sim, e...
+"Senhor do terremoto, deu uma surra
+no Ceadeus salvou a vila, sim, e...
 hm...". O que rima com "deus"?
 --- BLOCK ---
 Ah! Não tem jeito! És o maior
@@ -119,13 +119,13 @@ eu não consigo compor uma letra!
 Começar de novo, não resta
 outra opção ao velho Lançanegra...
 --- BLOCK ---
-Minhas canções são conhecidas de um canto
-ao outro, mas nenhuma faz justiça
+Minhas canções são conhecidas de um
+canto ao outro, mas nenhuma faz justiça
 a uma figura como a tua.
 --- BLOCK ---
-Continuarei tentando, camarada. TUA canção será
-daquelas que comovem o mundo
-mais do que qualquer dragão!
+Continuarei tentando, camarada. TUA
+canção será daquelas que comovem o
+mundo mais do que qualquer dragão!
 --- BLOCK ---
 Pare! Vejo DOIS moleques! Uma dupla!
 Se conseguirem acompanhar a melodia,
@@ -135,13 +135,13 @@ Primeiro, um ensaio! Colega, cante
 as letras que mais te
 irritam. Eu farei o acompanhamento!
 --- BLOCK ---
-"Super-baggi-qurupeco-giggi-lagiacrus Se você
-disser de uma
-vez, soa terrível!"
+"Super-baggi-qurupeco-giggi-lagiacrus
+Se você disser de uma vez,
+soa terrível!"
 --- BLOCK ---
-"Mas é o melhor
-para uma linguagem monstruosa.
-Super-baggi-qurupeco-giggi-lagiaaaaaaAAAAAAH". *Tosse* *respiração*
+"Mas é o melhor para uma linguagem
+monstruosa. Super-baggi-qurupeco-giggi-
+-lagiaaaaaaAAAAAAH". *Tosse* *respiração*
 --- BLOCK ---
 Ah! Desculpe, colega. Me deixo
 levar tanto pela nostalgia, que
@@ -160,15 +160,15 @@ monstros não,/ quando o Ceadeus sacudiu
 a ilha, quanto os fizeste sofrer!"
 --- BLOCK ---
 "Lagiacrus... marfim... Um caçador te
-desmembrou./ Lagiacrus... marfim... Na
-equipe te incluo eu".
+desmembrou./ Lagiacrus... marfim...
+Na equipe te incluo eu".
 --- BLOCK ---
 Superei-me! Claro, tu também!
 Nunca deixes de ser
 o melhor, colega caçador!
 --- BLOCK ---
-Sou Lançanegra, o homem do ritmo!
-Estou em dívida contigo, camarada. Finalmente
+Sou Lançanegra, o homem do ritmo! Estou
+em dívida contigo, camarada. Finalmente
 posso voltar ao mar aberto!
 --- BLOCK ---
 Estou tão contente que vou compor uma
@@ -181,15 +181,15 @@ te matou! (Ha, ha, ha)".
 "Agora que partiste, a frota voltou
 sem medo! (Ha, ha, ha, ha)".
 --- BLOCK ---
-"O capitão, Lançavermelha, Lançanegra, que
-grande tripulação! (Ha, ha, ha)".
+"O capitão, Lançavermelha, Lançanegra,
+que grande tripulação! (Ha, ha, ha)".
 --- BLOCK ---
 "Especialistas na pesca sem
 igual! (E chimpón!)"
 --- BLOCK ---
-O que achas? Essa letra tão
-terna sai do meu coração.
-Tens minha gratidão, valente caçador!
+O que achas? Essa letra tão terna
+sai do meu coração. Tens minha
+gratidão, valente caçador!
 --- BLOCK ---
 Olá! O garoto tem estado estranho
 ultimamente. Mas acho que sei
@@ -203,9 +203,9 @@ canção: "É a noite da máscara".
 coração, e uma malvada arpia que
 o roubou o roubou porque..." *Cof*
 --- BLOCK ---
-"É a noite da máscara, um
-choro e um pesar./ Ele se
-apaixonou e fluem/ hormônios sem parar".
+"É a noite da máscara, um choro
+e um pesar./ Ele se apaixonou
+e fluem/ hormônios sem parar".
 --- BLOCK ---
 Dois moleques? Têm uma dupla!
 Se possuem ouvido musical, seremos
@@ -219,9 +219,9 @@ irritam. Eu farei o acompanhamento!
 disser de uma
 vez, soa terrível!"
 --- BLOCK ---
-"Mas é o melhor
-para uma linguagem monstruosa.
-Super-baggi-qurupeco-giggi-lagiaaaaaaAAAAAAH". *Tosse* *respiração*
+"Mas é o melhor para uma linguagem
+monstruosa. Super-baggi-qurupeco-giggi-
+-lagiaaaaaaAAAAAAH". *Tosse* *respiração*
 --- BLOCK ---
 Ah! Desculpa, colega. Me deixo
 levar tanto pela nostalgia, que
@@ -242,16 +242,16 @@ eu não consigo compor uma letra!
 Começar de novo, não resta
 outra opção ao velho Lançanegra...
 --- BLOCK ---
-Minhas canções são conhecidas de um canto
-ao outro, mas nenhuma faz justiça
-a uma figura como a tua.
+Minhas canções são conhecidas de um
+canto ao outro, mas nenhuma faz
+justiça a uma figura como a tua.
 --- BLOCK ---
-Continuarei tentando, camarada. TUA canção será
-daquelas que comovem o mundo
-mais do que qualquer dragão!
+Continuarei tentando, camarada. TUA
+canção será daquelas que comovem o
+mundo mais do que qualquer dragão!
 --- BLOCK ---
-Olá, herói da aldeia! Em tua
-honra, compus minha melhor canção! Chamo
+Olá, herói da aldeia! Em tua honra,
+compus minha melhor canção! Chamo
 minha obra de "Lagiacrus Superstar"!
 --- BLOCK ---
 "Por mais que tentem, não

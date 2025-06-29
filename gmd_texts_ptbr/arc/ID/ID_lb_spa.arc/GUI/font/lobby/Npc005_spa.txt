@@ -21,20 +21,20 @@ Não precisa acumular tralhas!
 Venda o que não precisa.
 --- BLOCK ---
 <SUBS 0>
-Meu mercado é o mais barato da Vila
-Moga, além de ser o único.
+Meu mercado é o mais barato da
+Vila Moga, além de ser o único.
 --- BLOCK ---
 <SUBS 0>
-Nem a chuva nem a atividade sísmica
-me farão fechar a loja.
+Nem a chuva nem a atividade
+sísmica me farão fechar a loja.
 --- BLOCK ---
 <SUBS 0>
 Itens pela metade do preço quando o
 Argosy estiver no porto! Uma loucura!
 --- BLOCK ---
 <SUBS 0>
-As poções são essenciais para a caça,
-por isso sempre tenho na loja.
+As poções são essenciais para a
+caça, por isso sempre tenho na loja.
 --- BLOCK ---
 <SUBS 0>
 O Picaretas e a Rede de insetos combinam bem
@@ -45,8 +45,8 @@ Quer um conselho? Combine uma Erva com
 um Cogumelo Azul para criar uma Poção.
 --- BLOCK ---
 <SUBS 0>
-Combine mel em uma poção para criar
-a super saudável Megapoción!
+Combine mel em uma poção para
+criar a super saudável Megapoción!
 --- BLOCK ---
 <SUBS 0>
 Combine uma Erva de Fogo e um Barril
@@ -57,8 +57,8 @@ Você pode usar as Bombas Barril até mesmo
 debaixo d'água. Uma conquista da ciência!
 --- BLOCK ---
 <SUBS 0>
-Os Bichos Amargos podem ser combinados para
-criar medicamentos. Consiga-os!
+Os Bichos Amargos podem ser combinados
+para criar medicamentos. Consiga-os!
 --- BLOCK ---
 <SUBS 0>
 Se comer Sushi de Peixe cru, recupera sua
@@ -73,24 +73,24 @@ Lanças de Arremesso facilitam captura de peixes
 no mar. Estou certo que você é um profissional!
 --- BLOCK ---
 <SUBS 0>
-Se você combinar com Livros de Combos, terá
-uma maior probabilidade de sucesso.
+Se você combinar com Livros de Combos,
+terá uma maior probabilidade de sucesso.
 --- BLOCK ---
-Existem diferentes tipos de Picaretas, desde
-as antigas até os Mega-Picaretas. As
-melhores têm menos chances de quebrar.
+Existem diferentes tipos de Picaretas,
+desde as antigas até os Mega-Picaretas.
+As melhores têm menos chances de quebrar.
 --- BLOCK ---
 Existem diferentes tipos de Redes de
 insetos, desde as antigas às mega-redes.
 As melhores quebram com menos facilidade.
 --- BLOCK ---
 <SUBS 0>
-Sabe, eu prefiro uma Carne bem tostada e
-crocante do que um Bife bem passado.
+Sabe, eu prefiro uma Carne bem tostada
+e crocante do que um Bife bem passado.
 --- BLOCK ---
 <SUBS 0>
-Dica para casa: As Plantas de Sábio
-são ideais para limpar o pó.
+Dica para casa: As Plantas de
+Sábio são ideais para limpar o pó.
 --- BLOCK ---
 <SUBS 0>
 *Suspiro* Por que só piso em Bagas de
@@ -105,28 +105,28 @@ Qual é o mistério do Osso Misterioso?
 Será o mistério de seu mistério?
 --- BLOCK ---
 <SUBS 0>
-Oferecer Carne Envenenada ou Tóxica a um
-monstro facilitará sua caça.
+Oferecer Carne Envenenada ou Tóxica
+a um monstro facilitará sua caça.
 --- BLOCK ---
 <SUBS 0>
-Um Disparo cortador é uma bola de lâminas
-que corta a cauda de uma vez.
+Um Disparo cortador é uma bola de
+lâminas que corta a cauda de uma vez.
 --- BLOCK ---
 <SUBS 0>
-Se você atacar um monstro grande com Tiros
-de fadiga, ele ficará cansado.
+Se você atacar um monstro grande com
+Tiros de fadiga, ele ficará cansado.
 --- BLOCK ---
 <SUBS 0>
-Não sonhe em capturar monstros. Faça isso
-de verdade com uma Armadilha!
+Não sonhe em capturar monstros. Faça
+isso de verdade com uma Armadilha!
 --- BLOCK ---
 <SUBS 0>
 O Suco de Poder previne a perda de
 Resistência. Beba enquanto ataca!
 --- BLOCK ---
 <SUBS 0>
-Os monstros grandes odeiam o cheiro das
-Bombas de Estrume. Assuste-os!
+Os monstros grandes odeiam o cheiro
+das Bombas de Estrume. Assuste-os!
 --- BLOCK ---
 <SUBS 0>
 Aprenda como é uma área e coloque o Mapa
@@ -137,28 +137,28 @@ Os produtos perecíveis estão salgados.
 Tomara que inventassem a refrigeração.
 --- BLOCK ---
 <SUBS 0>
-Adoro as Bombas Sonoras. Às vezes as
-lanço só para ouvi-las.
+Adoro as Bombas Sonoras. Às vezes
+as lanço só para ouvi-las.
 --- BLOCK ---
 <SUBS 0>
 Se as coisas ficarem difíceis, coma uma
 Semente de Armadura. Aumenta suas defesas.
 --- BLOCK ---
 <SUBS 0>
-Uma Bomba barril com fogo pode ser
-uma explosão. Hehe.
+Uma Bomba barril com fogo
+podeser uma explosão. Hehe.
 --- BLOCK ---
 <SUBS 0>
 Os mapas são Suprimentos, então não
 escreva informações pessoais neles.
 --- BLOCK ---
 <SUBS 0>
-Não importa o quão quente você esteja,
-não tente se refrescar com um Disparo de Água.
+Não importa o quão quente você esteja, não
+tente se refrescar com um Disparo de Água.
 --- BLOCK ---
 <SUBS 0>
-Quando lanço uma Pedra, quero usar Minério
-de Ferro ou Minério de Machalita.
+Quando lanço uma Pedra, quero usar
+Minério de Ferro ou Minério de Machalita.
 --- BLOCK ---
 Às vezes, os Ossos de monstro são muito
 grandes para serem pequenos e muito
@@ -169,16 +169,16 @@ Apesar do seu nome, o Isca de peixe sushi
 NÃO é usado em sushi. Muito mercúrio.
 --- BLOCK ---
 Eu prefiro bife malpassado, mas restaura
-menos Resistência do que um
-bempassado. Dou mais importância ao sabor.
+menos Resistência do que um bempassado.
+Dou mais importância ao sabor.
 --- BLOCK ---
 <SUBS 0>
 A munição normal de Nv3 é feita para ricochetear
 e uma boa pontaria causa dano contínuo.
 --- BLOCK ---
 <SUBS 0>
-Já pensou se uma Armadilha de Choque mínimo
-daria uma boa massagem? Pois não.
+Já pensou se uma Armadilha de Choque
+mínimo daria uma boa massagem? Pois não.
 --- BLOCK ---
 <SUBS 0>
 Se você é bom com as Lâminas de Arremesso,
@@ -197,12 +197,12 @@ Fico pensando no que mais poderia endurecer
 a Pele de Armadura. Talvez nunca saibamos.
 --- BLOCK ---
 <SUBS 0>
-Para os Artilheiros é injusto não poderem
-se atingir com Munição de Cura.
+Para os Artilheiros é injusto não
+poderem se atingir com Munição de Cura.
 --- BLOCK ---
 <SUBS 0>
-Até o Disparo Normal Nv1 pode derrubar um
-dragão, de acordo com os Atiradores.
+Até o Disparo Normal Nv1 pode derrubar
+um dragão, de acordo com os Atiradores.
 --- BLOCK ---
 <SUBS 0>
 Uso Pedras de afiar nas cutículas, mas
@@ -216,17 +216,17 @@ de anos, mas me parece muito estranho.
 É claro que os Nutrientes são bons, mas
 você precisa de uma dieta equilibrada.
 --- BLOCK ---
-Sabia que as raízes do Cogumelo
-dragão têm forma humana? Certamente são
-perfeitas para encantar as pessoas. Hehe.
+Sabia que as raízes do Cogumelo dragão
+têm forma humana? Certamente são perfeitas
+para encantar as pessoas. Hehe.
 --- BLOCK ---
 <SUBS 0>
-Uma Bomba de Estrume foi ativada dentro de
-uma loja e tivemos que fechar o estabelecimento.
+Uma Bomba de Estrume foi ativada dentro de uma
+loja e tivemos que fechar o estabelecimento.
 --- BLOCK ---
 <SUBS 0>
-O que é o Fluido Monstro? Muco, suor,
-lágrimas? Melhor nem saber.
+O que é o Fluido Monstro? Muco,
+suor, lágrimas? Melhor nem saber.
 --- BLOCK ---
 <SUBS 0>
 Agora os pesquisadores da Guilda estão
@@ -237,28 +237,28 @@ deixa ver o invisível. Pelo menos é o que
 diz o Jaggi que está atrás de você.
 --- BLOCK ---
 <SUBS 0>
-A um caçador proibiram de competir em queda
-de braço por usar Sementes de poder.
+A um caçador proibiram de competir em
+queda de braço por usar Sementes de poder.
 --- BLOCK ---
 <SUBS 0>
-Alguns caçadores gostam do cheiro das
-Bombas de pintura. Enlouquecem.
+Alguns caçadores gostam do cheiro
+das Bombas de pintura. Enlouquecem.
 --- BLOCK ---
 <SUBS 0>
-A Flauta atrativa requer bons pulmões.
-Eu não consigo soprar...
+A Flauta atrativa requer bons
+pulmões. Eu não consigo soprar...
 --- BLOCK ---
 <SUBS 0>
-Olha como essa poção é verde! Isso significa
-que o alquimista era habilidoso.
+Olha como essa poção é verde! Isso
+significa que o alquimista era habilidoso.
 --- BLOCK ---
 <SUBS 0>
 Já sentiu o cheiro de uma Paraliseta
 antes? Cheira-me o nariz.
 --- BLOCK ---
 <SUBS 0>
-Sabe o que eu não entendo? Por que é tão
-difícil lançar as Bombas de luz.
+Sabe o que eu não entendo? Por que é
+tão difícil lançar as Bombas de luz.
 --- BLOCK ---
 <SUBS 0>
 Minhas bebidas quentes são de chocolate,
@@ -273,16 +273,16 @@ Carne Envenenada tem uma tonalidade lilás muito
 bonita. Fico pensando em qual será o seu sabor.
 --- BLOCK ---
 <SUBS 0>
-Combine Minério de Machalita com Osso
-para criar um Megamachado!
+Combine Minério de Machalita com
+Osso para criar um Megamachado!
 --- BLOCK ---
 <SUBS 0>
 Eu poderia capturar um caçador gordo com
 a Armadilha Escarpa, mas nenhum está gordo.
 --- BLOCK ---
 <SUBS 0>
-Não quero comprar mais Esterco do que devo.
-Leve-o para outro lugar, por favor.
+Não quero comprar mais Esterco do que
+devo. Leve-o para outro lugar, por favor.
 --- BLOCK ---
 <SUBS 0>
 A Poção máx. é um soro supersecreto.
@@ -317,20 +317,20 @@ Vi um artista de rua comer Semente
 de Fogo e cuspir chamas! Não tente!
 --- BLOCK ---
 <SUBS 0>
-Entre você e eu: não suporto o sabor dos
-Antídotos... É tão medicinal!
+Entre você e eu: não suporto o sabor
+dos Antídotos... É tão medicinal!
 --- BLOCK ---
 <SUBS 0>
 Um glutão poderia pegar um Peixe sushi e
 cozinhá-lo ou ferver... Que erro terrível.
 --- BLOCK ---
 <SUBS 0>
-O Chefe prefere a Medicina herbal às Poções.
-Cachorro velho, truque novo.
+O Chefe prefere a Medicina herbal às
+Poções. Cachorro velho, truque novo.
 --- BLOCK ---
-Uma vez que você segurou uma Pedra de fogo
-em suas mãos, nunca mais se contentará
-com um Minério de machalita.
+Uma vez que você segurou uma Pedra de
+fogo em suas mãos, nunca mais se
+contentará com um Minério de machalita.
 --- BLOCK ---
 Ser avaliado com uma Pedra enferrujada
 é sempre muito emocionante! É como
@@ -341,12 +341,12 @@ suficiente, então vou fazer uma liquidação
 de encerramento! Vai achar bonito!
 --- BLOCK ---
 A verdade é que estamos bem. Só estou
-tentando fazer você se sentir culpado para
-comprar mais frequentemente. Hehe.
+tentando fazer você se sentir culpado
+para comprar mais frequentemente. Hehe.
 --- BLOCK ---
 Os medicamentos de Primeiros socorros
-estão envoltos em papel pouco resistente e
-não podem ser retirados do campo.
+estão envoltos em papel pouco resistente
+e não podem ser retirados do campo.
 --- BLOCK ---
 Parece crível, não é?
 Vai se virar sozinho...
@@ -357,12 +357,12 @@ e o verde de uma Megapoção.
 --- BLOCK ---
 Vê a diferença?
 --- BLOCK ---
-Não vai espalhar, mas existem dois tipos de
-Suprimento de oxigênio: um com ar puro
+Não vai espalhar, mas existem dois tipos
+de Suprimento de oxigênio: um com ar puro
 e outro feito nas fábricas dos Felyne.
 --- BLOCK ---
-É o que dizem. Sempre verifique se seu
-ar não tem bolas de pelo. Hehe.
+É o que dizem. Sempre verifique se
+seu ar não tem bolas de pelo. Hehe.
 --- BLOCK ---
 O que? Um cliente? Sério?
 --- BLOCK ---
@@ -373,25 +373,25 @@ não soe estranho: eu amo os caçadores!
 Sou como uma fã dos caçadores. Por
 isso tenho o Mercado, para conhecê-los!
 --- BLOCK ---
-Bem, não vendo armas ou
-armaduras, mas ofereço muitas ferramentas
+Bem, não vendo armas ou armaduras,
+mas ofereço muitas ferramentas
 indispensáveis para os caçadores.
 --- BLOCK ---
-Tenho o essencial para a coleta de
-itens como Picaretas, Redes de insetos, iscas,
+Tenho o essencial para a coleta de itens
+como Picaretas, Redes de insetos, iscas,
 plantas... Tudo o que é indispensável.
 --- BLOCK ---
 Você precisará de um bom equipamento se
 quiser sobreviver por muito tempo na
 Floresta Moga. Está cheia de monstros!
 --- BLOCK ---
-Os terremotos afetaram o comércio, mas
-estou fazendo novos contatos e
+Os terremotos afetaram o comércio,
+mas estou fazendo novos contatos e
 espero poder aumentar o inventário.
 --- BLOCK ---
-Você precisa vir todos os dias
-ver minhas mercadorias! Não me
-faça persegui-lo! Hehe, é brincadeira...
+Você precisa vir todos os dias ver
+minhas mercadorias! Não me faça
+persegui-lo! Hehe, é brincadeira...
 --- BLOCK ---
 <SUBS 0>
 Ah, procurando pelo filho do Chefe?
@@ -404,8 +404,8 @@ A Floresta Moga fica
 nos arredores da vila.
 --- BLOCK ---
 O filho do Chefe é responsável por
-coletar os Recursos lá. Está atravessando
-a ponte. Vá dar uma olhada.
+coletar os Recursos lá. Está
+atravessando a ponte. Vá dar uma olhada.
 --- BLOCK ---
 Caçador!
 --- BLOCK ---
@@ -426,8 +426,8 @@ menos que prefira carne crua mesmo.
 Vou te avisar quando receber
 coisas novas no inventário.
 --- BLOCK ---
-É melhor vir todos os dias.
-Não me faça persegui-lo, caçador. Hehe!
+É melhor vir todos os dias. Não
+me faça persegui-lo, caçador. Hehe!
 --- BLOCK ---
 Aqui está você! Onde esteve?
 --- BLOCK ---
@@ -450,8 +450,8 @@ Saco de itens, a taxa de sucesso
 da combinação aumenta. É prático, não é?
 --- BLOCK ---
 Um livro aumenta sua taxa de sucesso
-ligeiramente, dois livros ainda mais. Com
-três livros... bem, você já imagina.
+ligeiramente, dois livros ainda mais.
+Com três livros... bem, você já imagina.
 --- BLOCK ---
 Você terá que sacrificar espaço em
 seu Saco, mas terá menos chances
@@ -463,8 +463,8 @@ Compre. Ou não. Hehe, é brincadeira.
 --- BLOCK ---
 Dou as boas-vindas a você, caçador!
 --- BLOCK ---
-Os negócios melhoraram muito desde que o
-Argosy voltou para a vila. A partir
+Os negócios melhoraram muito desde que
+o Argosy voltou para a vila. A partir
 de agora, quando ele estiver atracado...
 --- BLOCK ---
 Certos itens estarão com metade
@@ -474,7 +474,7 @@ Recebi muitos itens novos. Que
 alívio! Antes do Argosy retornar,
 temia ficar sem estoque.
 --- BLOCK ---
-Acho que, se você for para lugares
+Acho que, se você for para lugares 
 mais quentes, deve levar Bebida gelada.
 --- BLOCK ---
 Passar muito tempo em áreas
@@ -488,20 +488,20 @@ Estou vendendo tão barato que dizem
 que estou louca. Mas não estou.
 É que gosto dos caçadores. Muito.
 --- BLOCK ---
-Olá, caçadorzinho! Como espera que eu fale
-sobre itens novos se você não
+Olá, caçadorzinho! Como espera que eu
+fale sobre itens novos se você não
 vem me ver a cada hora?
 --- BLOCK ---
-Tenho o sonho de todo Atirador:
-um arsenal de munição de Balestra!
-Até um Espadachim mudaria de especialidade.
+Tenho o sonho de todo Atirador: um
+arsenal de munição de Balestra! Até
+um Espadachim mudaria de especialidade.
 --- BLOCK ---
-E também tenho meu
-favorito: o Guia organizador!
+E também tenho meu favorito:
+o Guia organizador!
 --- BLOCK ---
-Esta revista permitirá que você tire
-o máximo proveito, ou coloque,
-em sua Caixa de itens.
+Esta revista permitirá que você
+tire o máximo proveito, ou
+coloque, em sua Caixa de itens.
 --- BLOCK ---
 Você não precisará mais se preocupar em
 ficar sem espaço! Vocês, caçadores, têm
@@ -526,30 +526,30 @@ Também tenho outros itens novos. Alguns
 parecem um pouco esotéricos, mas confie
 em mim, você vai precisar deles!
 --- BLOCK ---
-Examine minhas bugigangas o tempo que
-quiser. Sério. Fique um tempo ou
-PARA SEMPRE. Hehe, é brincadeira.
+Examine minhas bugigangas o tempo
+que quiser. Sério. Fique um tempo
+ou PARA SEMPRE. Hehe, é brincadeira.
 --- BLOCK ---
-Nossa. As coisas ficaram feias,
-mesmo com você aqui!
+Nossa. As coisas ficaram
+feias, mesmo com você aqui!
 --- BLOCK ---
 Em momentos como este, é muito importante
 trabalhar duro, não olhar pra trás, certo?
 --- BLOCK ---
-Com isso em mente, apresento a
-você o Guia de catador.
+Com isso em mente, apresento
+a você o Guia de catador.
 --- BLOCK ---
 Da mesma série do Guia anterior. Tem
 dicas sobre como usar a Caixa de itens.
 --- BLOCK ---
-Sinceramente, acredito que este livro
-pode mudar sua vida...
+Sinceramente, acredito que este
+livro pode mudar sua vida...
 --- BLOCK ---
 Eu li, e olha eu! Viu?
 --- BLOCK ---
-Olá, pequenino. Hoje você
-está com uma aparência
-diferente... Mudou de máscara?
+Olá, pequenino. Hoje você está
+com uma aparência diferente...
+Mudou de máscara?
 --- BLOCK ---
 Fica muito bem em você! Não é que sua
 máscara habitual ficasse mal. Hehe.
@@ -588,11 +588,11 @@ Não sabe o quanto me deixa feliz
 dizer essas cinco palavras de novo!
 --- BLOCK ---
 Afinal, nem o Chefe conseguiu lidar
-com um Lagiacrus de mármore.
+com um Lagiacrus marfim.
 --- BLOCK ---
-Temia que você voltasse todo machucado
-e com vontade de desistir,
-assim como o Chefe fez.
+Temia que você voltasse todo
+machucado e com vontade de
+desistir, assim como o Chefe fez.
 --- BLOCK ---
 Mas aqui está você, e bem na
 hora! Eu estava começando a tremer.
@@ -705,8 +705,8 @@ Ah, sim, a loja!
 --- BLOCK ---
 E agora, comprar, comprar e comprar!
 --- BLOCK ---
-Pode ficar à toa o tempo
-que quiser. Passaremos o dia conversando!
+Pode ficar à toa o tempo que quiser.
+Passaremos o dia conversando!
 --- BLOCK ---
 E agora... Escolha
 o que quiser.
@@ -726,6 +726,6 @@ comprar. Fique à vontade.
 Ei. Não é hora
 de ser mesquinho, sabe?
 --- BLOCK ---
-Nossa, olha só, falando, falando. Você
-está aqui para comprar, não é?
+Nossa, olha só, falando, falando.
+Você está aqui para comprar, não é?
 --- BLOCK ---

@@ -14,7 +14,8 @@ TMSG_NPC019_4
 --- BLOCK ---
 <SUBS 0>
 --- BLOCK ---
-Vila Moga é um lugar tranquilo para relaxar depois de caçar monstros.
+Vila Moga é um lugar tranquilo para
+relaxar depois de caçar monstros.
 --- BLOCK ---
 Havia algo que queria te
 dizer, mas esqueci completamente.
@@ -79,9 +80,9 @@ Estou ficando velho para isso.
 Você pode conseguir verdadeiras
 raridades negociando fora da vila.
 --- BLOCK ---
-Se conseguir algo que possamos
-cultivar, não deixe de trazer.
-Colheitas exóticas são muito interessantes.
+Se conseguir algo que possamos cultivar,
+não deixe de trazer. Colheitas exóticas
+são muito interessantes.
 --- BLOCK ---
 <SUBS 0>
 Você pode usar nossa Caixa de Insetos
@@ -144,8 +145,8 @@ Sabe de uma coisa? Como está
 ocupado, pode até pedir para
 cultivarmos várias plantas iguais seguidas.
 --- BLOCK ---
-Enquanto estiver na floresta ou em missão, podemos
-cuidar de uma planta. Faça mais pedidos
+Enquanto estiver na floresta ou em missão,
+podemos cuidar de uma planta. Faça pedidos
 e não precisará vir com tanta frequência!
 --- BLOCK ---
 Continue trazendo plantas úteis, como ervas

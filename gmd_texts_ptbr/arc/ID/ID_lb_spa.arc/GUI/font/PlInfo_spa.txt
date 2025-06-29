@@ -12,7 +12,7 @@ O poder da arma diminuiu!
 --- BLOCK ---
 O poder da arma aumentou!
 --- BLOCK ---
-A nitidez está no máximo!
+A Afiação está no máximo!
 --- BLOCK ---
 Sua bolsa de itens está cheia.
 --- BLOCK ---

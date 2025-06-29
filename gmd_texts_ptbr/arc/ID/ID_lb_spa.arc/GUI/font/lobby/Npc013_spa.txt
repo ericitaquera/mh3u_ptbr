@@ -18,8 +18,8 @@ Quer jantar, miau?
 A língua do Felyne é muito sensível aos
 sabores, e a minha, mais ainda!
 --- BLOCK ---
-Então, minha cozinha é realmente saborosa. Pode
-ser que outros te enganem, mas
+Então, minha cozinha é realmente saborosa.
+Pode ser que outros te enganem, mas
 este gato... rouba sua língua, haha!
 --- BLOCK ---
 <SUBS 0>
@@ -31,7 +31,7 @@ durante a travessia do Argosy, aprendi
 sua língua com o capitão, miau.
 --- BLOCK ---
 <SUBS 0>
-O Porco de musgo é uma delícia! As patinhas
+O Porco ao musgo é uma delícia! As patas
 são divinas, e ainda mais com feijões!
 --- BLOCK ---
 Mas tem que lavar bem,
@@ -39,8 +39,8 @@ senão acaba comendo mais musgo
 do que carne, certo?
 --- BLOCK ---
 <SUBS 0>
-A Carne espinhosa tem espinhos de verdade.
-Comê-la é muito emocionante!
+A Carne espinhosa tem espinhos de
+verdade. Comê-la é muito emocionante!
 --- BLOCK ---
 Diria que isso afastaria as pessoas,
 mas não! Para alguns, os espetos
@@ -81,13 +81,13 @@ não tem muitos seguidores...
 As sacolas de Arroz da Vila Kokoto têm o
 rosto de um caçador lendário.
 --- BLOCK ---
-Conseguiram permissão para usar seu rosto, mas não
-cometa o erro de pensar que ele
+Conseguiram permissão para usar seu rosto,
+mas não cometa o erro de pensar que ele
 mesmo come aquela coisa, não não não.
 --- BLOCK ---
 <SUBS 0>
-O Pão Gigante vem da Vila Gigante.
-Sim, é verdade.
+O Pão Gigante vem da Vila
+Gigante. Sim, é verdade.
 --- BLOCK ---
 Esse delicioso pão atraiu multidões de
 turistas famintos para suas portas e
@@ -97,7 +97,7 @@ O Pão celestial é muito
 popular. Já ouviu o slogan?
 "Morda os pãezinhos do paraíso".
 --- BLOCK ---
-Destruíram a concorrência. Os consumidores
+Destruíram a concorrência. Os clientes
 não engoliam aquela de "Mastigue
 as chamas da prisão eterna".
 --- BLOCK ---
@@ -105,9 +105,9 @@ as chamas da prisão eterna".
 As papilas gustativas de um nobre
 descobriram a Megarrosquinha.
 --- BLOCK ---
-Muitos doces menores ficaram pelo caminho
-antes que o nobre encontrasse a
-obra de um humilde padeiro.
+Muitos doces menores ficaram pelo
+caminho antes que o nobre encontrasse
+a obra de um humilde padeiro.
 --- BLOCK ---
 A Abóboraciru é uma planta
 resistente que cresce e engorda
@@ -160,8 +160,8 @@ o sabor deixa a desejar.
 A Salada de Leche surgiu quando um
 mordomo cometeu um erro simples.
 --- BLOCK ---
-Colocou sal em vez de açúcar e
-acabou surpreendentemente saborosa! Ou é o que
+Colocou sal em vez de açúcar e acabou
+surpreendentemente saborosa! Ou é o que
 dizem. A mim não agrada muito.
 --- BLOCK ---
 <SUBS 0>
@@ -219,12 +219,12 @@ Ah, cuidado! Os efeitos das
 minhas delícias duram apenas uma
 caçada. Quando volta, acabou!
 --- BLOCK ---
-Então, tenho que preparar a Cantina para
-servir à boa gente da Vila
+Então, tenho que preparar a Cantina
+para servir à boa gente da Vila
 Moga. Tenha paciência, por favor.
 --- BLOCK ---
-Mon Dieu! O Bistrô está
-funcionando perfeitamente! E tudo graças
+Mon Dieu! O Bistrô está funcionando
+perfeitamente! E tudo graças
 à sua gestão, miau!
 --- BLOCK ---
 Por isso, vou oferecer ingredientes
@@ -249,9 +249,9 @@ Com ingredientes de alto nível, os
 pratos aumentam ainda mais sua Saúde.
 É o máximo na alta gastronomia!
 --- BLOCK ---
-Oh lá lá... Parece que o
-famoso leite da Vila Moga
-vai estragar... Estamos perdidos, miau...
+Oh lá lá... Parece que o famoso
+ leite da Vila Moga vai estragar...
+ Estamos perdidos, miau...
 --- BLOCK ---
 Mas não! Em momentos difíceis como
 este, os talentosos para a cozinha

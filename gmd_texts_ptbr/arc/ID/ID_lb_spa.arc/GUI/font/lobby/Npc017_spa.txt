@@ -25,19 +25,19 @@ semanas no mar.
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Viagens com o Argosy são cheias de perigos.
-Monstros atacam uma vez ou mais a cada viagem.
+Viagens com o Argosy são cheias de
+perigos. Monstros atacam a cada viagem.
 --- BLOCK ---
 Mas não deixarei a vida de
 marinheiro. A água me chama,
 e consigo ver terras diferentes.
 --- BLOCK ---
-Os monstros não são tão ruins com o capitão.
-Você viu como ele negocia bem, né? Pois
-ele é tão bom com a espada quanto.
+Os monstros não são tão ruins com o
+capitão. Você viu como ele negocia bem?
+Pois ele é tão bom com a espada quanto.
 --- BLOCK ---
-Ele me ensinar a língua de vocês e salvar
-minha vida várias vezes.
+Ele me ensinar a língua de vocês e
+salvar minha vida várias vezes.
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
@@ -65,18 +65,18 @@ diz mesmo?, expandir seus horizontes?
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Conhece o Neko, né? Negocia no Porto Tanzia.
-Ele é outro marujo do capitão.
+Conhece o Neko, né? Negocia no Porto
+Tanzia. Ele é outro marujo do capitão.
 --- BLOCK ---
 Dizem que o capitão encontrou o Neko se
 afogando no mar e salvou sua vida.
 --- BLOCK ---
-O Neko quis agradecer e seguiu o
-capitão, até que o capitão finalmente cedeu
+O Neko quis agradecer e seguiu o capitão,
+até que o capitão finalmente cedeu
 e deixou o Neko se tornar tripulante.
 --- BLOCK ---
-Neko estudou muito as regras de troca. Agora
-cuida de todos os negócios em Tanzia.
+Neko estudou muito as regras de troca.
+Agora cuida de tudo em Tanzia.
 <SUBS 1>
 --- BLOCK ---
 Olá de novo, caçador.

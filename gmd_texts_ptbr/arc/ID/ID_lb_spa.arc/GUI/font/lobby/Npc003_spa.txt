@@ -34,10 +34,12 @@ Ei, você já tem uma
 missão? Ou veio cancelar?
 --- BLOCK ---
 Feito! Como se nada
-tivesse acontecido! <SUBS 1>
+tivesse acontecido!
+<SUBS 1>
 --- BLOCK ---
 Feito! Como se nada
-tivesse acontecido! <SUBS 1>
+tivesse acontecido!
+<SUBS 1>
 --- BLOCK ---
 Tsc, tsc. Os covardes nunca vencem!
 --- BLOCK ---
@@ -54,7 +56,7 @@ Você não pode caçar sem um
 bom acampamento base.
 --- BLOCK ---
 Isso sim, quando tiver, poderá pegar
-os trabalhos que quiser e
+os trabalhos que quiser e 
 impressionar a Guilda. Estou ansiosa!
 --- BLOCK ---
 <SUBS 0>
@@ -66,19 +68,19 @@ pronto, receberá muitos trabalhos de
 fora da vila. Será ótimo!
 --- BLOCK ---
 <SUBS 0>
-Fazer missões não ajuda apenas as pessoas.
-Melhora sua posição na Guilda!
+Fazer missões não ajuda apenas as
+pessoas. Melhora sua posição na Guilda!
 --- BLOCK ---
 Claro, isso depende de como se
 comporta comigo, então já está
-cuidando de suas maneiras, camarada.
+cuidando dos seus modos, camarada.
 --- BLOCK ---
 <SUBS 0>
 Quando iniciar uma missão, um ícone de
 ingresso aparecerá sobre sua cabeça.
 --- BLOCK ---
-A cor do ingresso indica o tipo
-de missão. Verde é de coleta, vermelho
+A cor do ingresso indica o tipo de
+missão. Verde é de coleta, vermelho
 de caça e branco de captura.
 --- BLOCK ---
 <SUBS 0>
@@ -90,8 +92,8 @@ monstros podem se intrometer durante
 sua missão. Surpresa garantida!
 --- BLOCK ---
 <SUBS 0>
-As Armadilhas de Escolho podem deter os
-monstros, mas há um problema.
+As Armadilhas de Escolho podem deter
+os monstros, mas há um problema.
 --- BLOCK ---
 Se usar a armadilha várias vezes com
 o mesmo monstro, ele se acostuma. A
@@ -126,8 +128,8 @@ Se diverte caçando? Eu estive
 superocupada: manicure, soneca...
 --- BLOCK ---
 Até levei o Poogie da fazenda para a
-vila. Brincamos o dia todo! Mas logo depois
-foi a vez da manicure, é claro.
+vila. Brincamos o dia todo! Mas logo
+depois foi a vez da manicure, é claro.
 --- BLOCK ---
 <SUBS 0>
 Diga-me uma criança que não queira
@@ -149,8 +151,8 @@ direito... Este está péssimo.
 Ei! Quando estudava na cidade,
 pediram para eu ser atriz!
 --- BLOCK ---
-Me ouve, lindeza? Conhece alguém que
-poderia ter sido uma estrela!
+Me ouve, lindeza? Conhece alguém
+que poderia ter sido uma estrela!
 Anda, que sorte a sua...
 --- BLOCK ---
 Aff. Pelo menos poderia sorrir.
@@ -197,11 +199,11 @@ se manter saudável! A desidratação
 Está se alimentando bem? Todos sabem
 que é preciso comer antes de caçar.
 --- BLOCK ---
-Fale com o Felyne ao
-lado, ele serve refeições miauravilhosas!
+Fale com o Felyne ao lado, Ele
+serve refeições miauravilhosas!
 --- BLOCK ---
-Para tu información, eu não sei
-fazer nem um ovo frito.
+Para sua informação, eu não
+sei fazer nem um ovo frito.
 --- BLOCK ---
 <SUBS 0>
 Nos Campos Arenosos nadam cardumes
@@ -212,8 +214,8 @@ sobre a areia. A tecnologia melhora dia
 após dia. Em breve teremos "subarenos"!
 --- BLOCK ---
 <SUBS 0>
-A lama dos Campos Arenosos é ideal
-para máscaras de beleza.
+A lama dos Campos Arenosos é
+ideal para máscaras de beleza.
 --- BLOCK ---
 Ouvi dizer que alguns monstros se
 escondem lá. Devem ter uma pele
@@ -234,7 +236,7 @@ O Argosy voltou, é época de
 comércio na vila...
 --- BLOCK ---
 Espere, isso é um pirata. Não, alto,
-é Lanzanegra. Ah, e eu que sei!
+é Lançanegra. Ah, e eu que sei!
 --- BLOCK ---
 <SUBS 0>
 Na fazenda você pode cultivar ou criar
@@ -248,8 +250,8 @@ ajudará com as colheitas.
 Ei, você tem usado a fazenda?
 Adoro passar por lá.
 --- BLOCK ---
-O cheiro terroso do estrume! Uma
-beleza pastoral emocionante! Todas as ervas
+O cheiro terroso do estrume! Uma beleza
+pastoral emocionante! Todas as ervas
 e cogumelos que você possa desejar!
 --- BLOCK ---
 <SUBS 0>
@@ -272,8 +274,8 @@ isso que os melhores fazem!
 Ultimamente tenho tido pesadelos
 com o Qurupeco.
 --- BLOCK ---
-Aquela bolsa laranja na garganta... E
-se ela encher e me atirar
+Aquela bolsa laranja na garganta...
+E se ela encher e me atirar
 uma chuva de agulhas? Ai!
 --- BLOCK ---
 <SUBS 0>
@@ -291,8 +293,8 @@ D-digo... a vida do Qurupeco.
 Se há algo que destaca no Grande
 Jaggi, é sua ornamentação!
 --- BLOCK ---
-Ouvi dizer que, quando venta muito, o
-adorno vira ao contrário e cobre
+Ouvi dizer que, quando venta muito,
+o adorno vira ao contrário e cobre
 todo o rosto dele. Que vergonha!
 --- BLOCK ---
 <SUBS 0>
@@ -316,16 +318,16 @@ A Floresta Inundada é conhecida
 por ter Arrowana.
 --- BLOCK ---
 Eu adorava a Arrowana até que uma
-explodiu na minha cara. Ninguém me disse
-que não podia ter como mascote!
+explodiu na minha cara. Ninguém me
+disse que não podia ter como mascote!
 --- BLOCK ---
 <SUBS 0>
 Ei, ca-campeão! A ca-atitude do seu
 ca-amigo mudou a vila!
 --- BLOCK ---
-Ai, ca-ramba, ca-cáspita! Não posso evitar!
-Quando ca-converso com seu ca-colega,
-mudo a forma de falar!
+Ai, ca-ramba, ca-cáspita! Não posso
+evitar! Quando ca-converso com seu
+ca-colega, mudo a forma de falar!
 --- BLOCK ---
 <SUBS 0>
 Uma vez fui a negócios
@@ -487,8 +489,8 @@ a Vila Moga. Ótimo!
 --- BLOCK ---
 De volta ao trabalho, herói.
 --- BLOCK ---
-Ouviu? Havia máscaras para respirar embaixo
-d'água há muito tempo. Imagine
+Ouviu? Havia máscaras para respirar
+embaixo d'água há muito tempo. Imagine
 aqueles belos peixes e corais...
 --- BLOCK ---
 Mas chega um monstro horrível,
@@ -498,9 +500,9 @@ E aparecem os corajosos caçadores!
 Hehe... Pensei em adicionar
 algo de minha autoria.
 --- BLOCK ---
-Ei! A Guilda sabia perfeitamente que não
-tínhamos evacuado. Estavam nos observando
-de um balão de observação!
+Ei! A Guilda sabia perfeitamente que
+não tínhamos evacuado. Estavam nos
+observando de um balão de observação!
 --- BLOCK ---
 Tentei enganá-los, mas
 dessa vez eles
@@ -512,12 +514,12 @@ Olá, esta é a Vila Moga!
 Você deve ser o novo caçador de
 quem todos estão falando sem parar.
 --- BLOCK ---
-Um prazer! Sou seu contato com a
-Guilda de caçadores. Apertaria sua mão, mas
+Um prazer! Sou seu contato com a Guilda
+de caçadores. Apertaria sua mão, mas
 não quero que a esmague! Grr!
 --- BLOCK ---
-Ei, é brincadeira. Então, basicamente, a
-Guilda te sustenta oferecendo os
+Ei, é brincadeira. Então, basicamente,
+a Guilda te sustenta oferecendo os
 trabalhos que chamamos de "missões".
 --- BLOCK ---
 Só precisa de um contato
@@ -526,8 +528,8 @@ ofertas de todos os lados!
 --- BLOCK ---
 Teoricamente!
 --- BLOCK ---
-Olha, sabia que você estava vindo e
-pedi para prepararem uma missão para você.
+Olha, sabia que você estava vindo e pedi
+para prepararem uma missão para você.
 Sabe o que mandaram? Nada! Zero!
 --- BLOCK ---
 Como deve ter percebido na viagem até
@@ -553,8 +555,8 @@ Desça pela ponte, além da Ferraria,
 e aperte o "botão" quando
 chegar à direita da "tela".
 --- BLOCK ---
-Linguagem da Guilda, é uma loucura. Ah!
-Antes de sair, passe em sua casa
+Linguagem da Guilda, é uma loucura.
+Ah! Antes de sair, passe em sua casa
 e "salve o jogo". Todos fazem isso!
 --- BLOCK ---
 Sua casa fica bem no centro
@@ -583,16 +585,16 @@ Com o acampamento base fora de serviço,
 não podes receber trabalho da Guilda.
 Nada de missões. São as regras.
 --- BLOCK ---
-O bom é que a Guilda
-parece ter-se esquecido por completo de
+O bom é que a Guilda parece
+ter-se esquecido por completo de
 nós, então não perdes nada! He...
 --- BLOCK ---
 Bom trabalho naquela entrega! Achas que
 já estás a apanhar o
 jeito de caçar na floresta?
 --- BLOCK ---
-É triste, mas sei que não estás
-aqui para conversa. Queres saber se tenho
+É triste, mas sei que não estás aqui
+para conversa. Queres saber se tenho
 trabalho de verdade para ti. Bem...
 --- BLOCK ---
 Rufar de tambores... A Guilda diz...
@@ -684,8 +686,8 @@ fraco demais! É cruel, eu sei.
 O PROBLEMA É...
 --- BLOCK ---
 Se as pessoas admiram os caçadores,
-é porque supostamente vocês podem lidar
-com qualquer coisa que pedirem.
+é porque supostamente vocês podem
+lidar com qualquer coisa que pedirem.
 --- BLOCK ---
 Sem pressão.
 --- BLOCK ---
@@ -693,15 +695,15 @@ Ah, quer ver as horas? São
 a NOVA MISSÃO e meia!
 --- BLOCK ---
 Desta vez temos um monte de trabalhos
-para você. Pode fazer na ordem
-que preferir, mas na minha opinião...
+para você. Pode fazer na ordem que
+preferir, mas na minha opinião...
 --- BLOCK ---
 Eu iria caçar Jaggias! Mas não
 se empolgue. Leve Poções, Pedras de
 amolar e munição, se usar Balestra.
 --- BLOCK ---
-Também tem a de Tripas de
-monstro. É quase toda subaquática, então
+Também tem a de Tripas de monstro.
+É quase toda subaquática, então
 pode ir se bronzear na praia...
 --- BLOCK ---
 Todas as missões são especiais à
@@ -722,8 +724,8 @@ aí, então preste muita atenção.
 O-oi? Já
 terminou?! Nossa!
 --- BLOCK ---
-Nunca imaginei que você progrediria tanto,
-e sou muito boa em avaliar
+Nunca imaginei que você progrediria
+tanto, e sou muito boa em avaliar
 as pessoas quando me esforço.
 --- BLOCK ---
 Bom, vamos aos negócios. Enquanto
@@ -733,8 +735,8 @@ pequena conversa com a Guilda.
 Adivinha o que tenho para você...
 Um pedido para matar um monstro!
 --- BLOCK ---
-Desta vez é uma Ludroth! E o
-que é uma Ludroth, você pergunta? Bem,
+Desta vez é uma Ludroth! E o que é
+uma Ludroth, você pergunta? Bem,
 de acordo com o meu extenso guia...
 --- BLOCK ---
 "Ludroth. Monstros carnívoros que vivem
@@ -746,8 +748,8 @@ Bom! Foi um prazer
 trabalhar com você!
 --- BLOCK ---
 Q-quero dizer... calma! É um monstro da
-Floresta Moga, o que eles
-sabem? Tudo vai ficar bem. Provavelmente.
+Floresta Moga, o que eles sabem?
+Tudo vai ficar bem. Provavelmente.
 --- BLOCK ---
 Mas tome cuidado, especialmente com
 inimigos cheios de dentes que você
@@ -768,8 +770,8 @@ aí, então preste muita atenção.
 --- BLOCK ---
 Dito isso...
 --- BLOCK ---
-Nunca imaginei que você completaria missões
-assim, e sou muito boa em
+Nunca imaginei que você completaria
+missões assim, e sou muito boa em
 avaliar as pessoas quando me esforço.
 --- BLOCK ---
 Bom, vamos aos negócios. Enquanto
@@ -792,11 +794,11 @@ Legal! Foi um
 prazer trabalhar contigo!
 --- BLOCK ---
 Q-quero dizer... Calma! É um monstro da
-Floresta Moga, o que eles
-sabem? Tudo vai dar certo. Provavelmente.
+Floresta Moga, o que eles sabem?
+Tudo vai dar certo. Provavelmente.
 --- BLOCK ---
-Mas você tenha cuidado, especialmente com
-inimigos cheios de dentes que
+Mas você tenha cuidado, especialmente
+com inimigos cheios de dentes que
 você não conhece. Vai lá.
 --- BLOCK ---
 Lembre-se, a preparação é tudo!
@@ -819,9 +821,9 @@ TERRENO DE CAÇA!
 Olha, os caçadores de elite não ficam
 em casa. Eles vão longe caçar!
 --- BLOCK ---
-Com a Ludroth você conquistou seus méritos,
-então já tem permissão para caçar
-em um local novo e incrível.
+Com a Ludroth você conquistou seus
+méritos, então já tem permissão para
+caçar em um local novo e incrível.
 --- BLOCK ---
 Chama-se... Planícies arenosas!
 --- BLOCK ---
@@ -897,8 +899,8 @@ Sim, posso ver nos seus olhos. "Como
 vou capturar um monstro gigante que
 é só dentes e mau humor?".
 --- BLOCK ---
-Bem, de acordo com o meu volumoso guia
-em profundidade... Hum. Quantas
+Bem, de acordo com o meu volumoso
+guia em profundidade... Hum. Quantas
 páginas para não contar nada útil...
 --- BLOCK ---
 Bem, não é nenhuma surpresa.
@@ -906,15 +908,15 @@ Veja: se prestar atenção...
 --- BLOCK ---
 90% das páginas estão em branco!
 --- BLOCK ---
-Oh, meu erro... É apenas um
-velho caderno! Daqui em diante,
-anotarei informações úteis que conseguir.
+Oh, meu erro... É apenas um velho
+caderno! Daqui em diante, anotarei
+informações úteis que conseguir.
 --- BLOCK ---
 O trabalho duro de hoje é a sabedoria de
 amanhã! Vá buscar conselhos com o Senhor
 Dicionário Ambulante.
 --- BLOCK ---
-As Armadilhas escolho servem
+As Armadilhas de queda servem
 para capturar monstros, mas
 há um problema.
 --- BLOCK ---
@@ -923,8 +925,8 @@ mesmo monstro, ele se acostuma. A
 armadilha será eficaz por menos tempo.
 --- BLOCK ---
 Uau, bom trabalho, caçador! Nem todos
-conseguem capturar um monstro tão
-feroz, principalmente sem boas informações!
+conseguem capturar um monstro tão feroz,
+principalmente sem boas informações!
 --- BLOCK ---
 Não deixe isso subir à cabeça, mas
 na Guilda todos estão falando de você
@@ -950,7 +952,7 @@ Seja legal e vá verificar,
 mesmo que pareça bobagem.
 --- BLOCK ---
 Cuidado para não virar uma
-Cirulabaza ou algo assim por
+Abóbora ou algo assim por
 causa desse duende... He, he.
 --- BLOCK ---
 Além disso, o garoto investiu todas
@@ -1413,8 +1415,8 @@ Considerando seu histórico, como não
 iam pedir para você investigar
 aquela questão do dragão?
 --- BLOCK ---
-Uma máscara... Hmm... Mascarita... Ah, oi!
-Ei, por que você acha que na vila
+Uma máscara... Hmm... Mascarita... Ah,
+oi! Ei, por que você acha que na vila
 tem uma capela com uma máscara?
 --- BLOCK ---
 Tenho uma teoria: talvez você já
@@ -1492,9 +1494,9 @@ Devemos confiar no julgamento da Guilda.
 --- BLOCK ---
 ...
 --- BLOCK ---
-Mas este é o nosso lar! Acham
-que podemos simplesmente partir em um barco
-e assistir enquanto ele afunda no oceano?
+Mas este é o nosso lar! Acham que podemos
+simplesmente partir em um barco e
+assistir enquanto ele afunda no oceano?
 --- BLOCK ---
 Deve haver algo que
 possamos fazer. Deve haver...
@@ -1652,8 +1654,8 @@ você... em espírito! Comece sua
 caça maior e mais perigosa.
 --- BLOCK ---
 Aliás, se você guiar o Ceadeus para a
-parte de trás das ruínas, o dano que
-ele sofrer persistirá se falhar na missão.
+parte de trás das ruínas, o dano que ele
+sofrer persistirá se falhar na missão.
 --- BLOCK ---
 ¡Então insista! Enfrente-o quantas vezes
 forem necessárias e ele será seu!
@@ -1668,8 +1670,8 @@ Ufa! Esse grito de encorajamento
 era só para você.
 --- BLOCK ---
 Sou a garota mais feliz do mundo!
-Você salvou a vila! E sem
-fazer nenhuma bobagem, como se sacrificar!
+Você sal vou a vila! E sem fazer
+nenhuma bobagem, como se sacrificar!
 --- BLOCK ---
 Tudo bem? Então vamos, tenho mais
 gritos de comemoração para dar!
@@ -1694,8 +1696,8 @@ gostaria de estar presente. Abro?
 Vamos ver... Sim... Sim...
 Oh! Resumo para você!
 --- BLOCK ---
-Desobedeceram ordens diretas, grave ofensa,
-blá blá... Mas venceram o
+Desobedeceram ordens diretas, grave
+ofensa, blá blá... Mas venceram o
 Ceadeus e salvaram a vila.
 --- BLOCK ---
 Decidimos que o caçador e a
@@ -1714,8 +1716,8 @@ A nota diz mais uma coisa...
 "O caçador está autorizado a realizar
 missões de alto nível". Uau!
 --- BLOCK ---
-Ah, e tem mais: uma descrição completa
-de uma nova área de caça!
+Ah, e tem mais: uma descrição
+completa de uma nova área de caça!
 --- BLOCK ---
 Seu nome... as Cumbres Tempestuosas!
 --- BLOCK ---
@@ -1790,19 +1792,19 @@ motivacionais. Bem, tenho algo para te dar.
 Pronto! Um pedido para
 caçar outra subespécie!
 --- BLOCK ---
-Chegam missões de subespécies por todos
-os lados! Vamos caçá-las todas!
+Chegam missões de subespécies por
+todos os lados! Vamos caçá-las todas!
 --- BLOCK ---
-Como vai, caçador? Não consegue parar
-de falar comigo, né? Vejo
+Como vai, caçador? Não consegue
+parar de falar comigo, né? Vejo
 que tenho um charme especial...
 --- BLOCK ---
 Tenho certeza que você está interessado em
 mudar o ritmo depois de caçar tantas
 subespécies. Vai encarar algo diferente?
 --- BLOCK ---
-Sua boca não diz nada, mas seus
-olhos dizem que sim. Então, aqui está...
+Sua boca não diz nada, mas seus olhos
+dizem que sim. Então, aqui está...
 --- BLOCK ---
 Ta-dá! Uma solicitação para
 caçar um monstro normal!
@@ -1826,8 +1828,8 @@ Não importa, boa caçada!
 Ei, caçador! Parabéns pela
 caça do Plesioth!
 --- BLOCK ---
-Aparentemente, você pode pescar um Plesioth
-usando um sapo. Já tentou?
+Aparentemente, você pode pescar um
+Plesioth usando um sapo. Já tentou?
 --- BLOCK ---
 Hum? Por que não te
 avisei? Qual parte de "paixão
@@ -1873,8 +1875,8 @@ Rathalos! E ainda conseguiu
 a Máscara sinistra!
 --- BLOCK ---
 Ou assim pensávamos... Mas você ouviu o
-que o garoto disse? Por algum
-motivo, ele perdeu sua forma original...
+que o garoto disse? Por algum motivo,
+ele perdeu sua forma original...
 --- BLOCK ---
 Que chato... Espero que haja
 uma maneira de consertar isso.
@@ -1882,8 +1884,8 @@ uma maneira de consertar isso.
 Não adianta lamentar por
 uma máscara deformada.
 --- BLOCK ---
-Se nos deixarmos afetar por essas
-coisas, nossos amiguinhos também sofrerão.
+Se nos deixarmos afetar por isso,
+nossos amiguinhos também sofrerão.
 --- BLOCK ---
 Sorria seu melhor sorriso, okay? Por bem
 deles. Finja que ganhou um monte de
@@ -1950,9 +1952,9 @@ Nem mesmo os nerds da Guilda
 conhecem essa besta. Você terá
 que ir às cegas, caçador!
 --- BLOCK ---
-Não faz parte da emoção da caça adentrar
-no desconhecido? Apenas balance
-a cabeça concordando e pronto.
+Não faz parte da emoção da caça
+adentrar no desconhecido? Apenas
+balance a cabeça concordando e pronto.
 --- BLOCK ---
 Bom trabalho com aquele Brachydios!
 --- BLOCK ---
@@ -1984,26 +1986,26 @@ Apareceu um Zinogre! É
 novidade por essas bandas.
 --- BLOCK ---
 Se você acredita no que esses garotos
-dizem, a Máscara Funesta e o
-Zinogre estão de alguma forma conectados.
+dizem, a Máscara Funesta e o Zinogre
+estão de alguma forma conectados.
 --- BLOCK ---
 Isso cheira a bomba de bosta, mas
-o que eu sei? Coloquem a
-máscara e vão caçar o monstro!
+o que eu sei? Coloquem a máscara
+e vão caçar o monstro!
 --- BLOCK ---
-Pelo chifre de um Aptonoth! Diz que
-a Máscara Funesta dos seus amigos reagiu
-ao trovão e começou a brilhar?
+Pelo chifre de um Aptonoth! Diz que a
+Máscara Funesta dos seus amigos
+reagiu ao trovão e começou a brilhar?
 --- BLOCK ---
 Mas então ele desapareceu, não é?
 Céus! Tínhamos ele! Estávamos tão perto!
 --- BLOCK ---
-*Ahem* Tomara que possamos encontrar um
-monstro com um Trovão mais potente
+*Ahem* Tomara que possamos encontrar
+um monstro com um Trovão mais potente
 que o de um Zinogre, mas...
 --- BLOCK ---
-Uma besta assim seria aterrorizante! Acho
-que temos que ter cuidado
+Uma besta assim seria aterrorizante!
+Acho que temos que ter cuidado
 com o que desejamos, né?
 --- BLOCK ---
 Claro, eu não ficaria responsável
@@ -2037,8 +2039,8 @@ acontecendo quando ele voltar para a vila.
 Ouviu as palavras do
 capitão do Argosy?
 --- BLOCK ---
-Aparentemente, um monstro parecido com um
-Lagiacrus atacou um amigo dele.
+Aparentemente, um monstro parecido com
+um Lagiacrus atacou um amigo dele.
 --- BLOCK ---
 O capitão é hábil na
 Espada longa, mas parece
@@ -2068,8 +2070,8 @@ Olá, caçador! Ou deveria dizer
 que você aparenta ser um!
 --- BLOCK ---
 Aliás, você percebeu que
-o Chefe da Vila
-parece muito distraído ultimamente?
+o Chefe da Vila parece
+muito distraído ultimamente?
 --- BLOCK ---
 É como se ele estivesse lembrando
 de coisas do passado ou algo
@@ -2083,8 +2085,8 @@ o amigo do capitão era o
 rival do Chefe, ou algo assim.
 --- BLOCK ---
 Deve ser uma besta enorme! O
-Chefe da vila era um dos
-melhores caçadores da região, sabia?
+Chefe da vila era um dos melhores
+caçadores da região, sabia?
 --- BLOCK ---
 E olha só! O Chefe quer que seja você o
 caçador que finalmente capture essa besta.
@@ -2097,8 +2099,8 @@ Mas ele nunca foi capaz de derrotar
 essa criatura, então se você vencer, sua
 vitória será um tanto amarga para ele.
 --- BLOCK ---
-Se a besta mostrar sua terrível
-face novamente, você terá que caçá-la.
+Se a besta mostrar sua terrível face
+novamente, você terá que caçá-la.
 Você deve fazer isso! Pelo Chefe!
 --- BLOCK ---
 Está aqui! Aqui! O monstro que
@@ -2116,12 +2118,12 @@ O Governante dos dois
 reinos, o Lagiacrus marfim!
 --- BLOCK ---
 Que surpresa o Lagiacrus marfim terá
-preparada? Um caçador curioso gostaria de
-saber! Vamos ver o meu guia...
+preparada? Um caçador curioso gostaria
+de saber! Vamos ver o meu guia...
 --- BLOCK ---
 A página só diz "a determinar". Acho que
-faz sentido. Se houvesse informações sobre
-a besta, ela não seria lendária!
+faz sentido. Se houvesse informações
+sobre a besta, ela não seria lendária!
 --- BLOCK ---
 O Chefe diz que ele domina não
 só o mar, mas também a terra.
@@ -2155,8 +2157,8 @@ marfim! certeza de que meus chefes da
 Guilda tiveram um susto ao saber disso!
 --- BLOCK ---
 Vou me gabar disso por anos! E daí
-se não fui eu quem o caçou! Eu
-fiz parte da equipe! Fui uma peça vital!
+se não fui eu quem o caçou! Eu fiz
+parte da equipe! Fui uma peça vital!
 --- BLOCK ---
 Nunca vi o Chefe tão radiante de
 felicidade. Parece um menino de novo!
@@ -2165,8 +2167,8 @@ Dá para imaginar como ele era em seus dias
 de caçador. Talvez mais musculoso, mais
 cabelo... Se esforçando para enxergar...
 --- BLOCK ---
-E veja só! A potência do
-trovão restaurou a Máscara definitiva! Não
+E veja só! A potência do trovão
+restaurou a Máscara definitiva! Não
 sei como! É outro mistério Shakalaka.
 --- BLOCK ---
 Terminamos com um chefe rejuvenescido e
@@ -2179,15 +2181,15 @@ Você caçou o Lagiacrus
 marfim e completou todas
 as missões da vila.
 --- BLOCK ---
-Sim, acho que podemos dizer que você
-é o melhor caçador da região!
+Sim, acho que podemos dizer que
+você é o melhor caçador da região!
 --- BLOCK ---
 Este lugar empoeirado está pequeno para
-você. É hora de que outras
-vilas conheçam suas incríveis habilidades.
+você. É hora de que outras vilas
+conheçam suas incríveis habilidades.
 --- BLOCK ---
-Falei para a Guilda sobre suas
-proezas. Normalmente exagero, mas desta vez
+Falei para a Guilda sobre suas proezas.
+Normalmente exagero, mas desta vez
 a realidade superou a ficção!
 --- BLOCK ---
 Embora não parecessem convencidos. Eles
@@ -2208,7 +2210,7 @@ Boa sorte.
 --- BLOCK ---
 E como se trata de uma missão de
 resistência, há mais coisa a ser feita.
-Ao capturar o Lagiacrus de mármore...
+Ao capturar o Lagiacrus marfim...
 --- BLOCK ---
 ... Sério? Você terá que
 caçar um Brachydios e um
@@ -2217,8 +2219,8 @@ Rathalos celeste ao mesmo tempo!
 Espero não ter exagerado sobre
 suas habilidades para a Guilda.
 --- BLOCK ---
-Mas é uma boa oportunidade para mostrar
-ao mundo do que você é capaz!
+Mas é uma boa oportunidade para
+mostrar ao mundo do que você é capaz!
 --- BLOCK ---
 Pense nisso como um novo
 obstáculo no caminho para ser
@@ -2228,7 +2230,7 @@ A menos que acabe se tornando
 uma lenda morta. Não ouse morrer!
 --- BLOCK ---
 Caramba. Não só capturou o Lagiacrus
-de mármore, mas também pegou o
+marfim mas também pegou o
 Brachydios e o Rathalos celeste!
 --- BLOCK ---
 Pode alguém ser mais poderoso?
@@ -2261,14 +2263,14 @@ sobre ele é um mistério".
 Talvez meu guia não
 seja tão completo afinal...
 --- BLOCK ---
-Mas o que esperar de um
+Mas o que esperar de um 
 monstro que vive na Terra
 sagrada? Claro que é misterioso!
 --- BLOCK ---
 Mmm? O que é a Terra sagrada?
 --- BLOCK ---
-Obrigada por perguntar! Segundo meu
-guia ainda não terminado...
+Obrigada por perguntar! Segundo
+meu guia ainda não terminado...
 --- BLOCK ---
 "A Terra sagrada. Uma região
 inexplorada. Ninguém que se
@@ -2279,9 +2281,9 @@ lugar de férias, certo?
 --- BLOCK ---
 Divirta-se!
 --- BLOCK ---
-Bem, ouvi dizer que nessa
-área o magma é abundante.
-Prepare-se para suportar o calor!
+Bem, ouvi dizer que nessa área
+o magma é abundante. Prepare-se
+para suportar o calor!
 --- BLOCK ---
 Aliás, esta é a última missão
 que será oferecida a você aqui.
@@ -2291,8 +2293,8 @@ precisa se dedicar ao máximo!
 --- BLOCK ---
 Caçador... Você finalmente conseguiu.
 --- BLOCK ---
-Você teve coragem. Determinação. Ímpeto...
-E nem mesmo sei o
+Você teve coragem. Determinação.
+Ímpeto... E nem mesmo sei o
 que isso último significa!
 --- BLOCK ---
 Você completou todas as missões
@@ -2308,9 +2310,9 @@ Você é tão incrível, tão perfeito!
 ... Que não haverá mais missões
 nesta vila. Acabou. Finito. Kaput.
 --- BLOCK ---
-Mas não se preocupe! Sempre pode
-refazer as missões completadas. Faça isso
-quando tiver tempo livre, certo?
+Mas não se preocupe! Sempre pode 
+refazer as missões completadas. Faça
+isso quando tiver tempo livre, certo?
 --- BLOCK ---
 Afinal, um caçador deve caçar!
 --- BLOCK ---
@@ -2395,7 +2397,7 @@ Ok, problema resolvido.
 Se precisar de algo, diga
 a palavra mágica: "missão".
 --- BLOCK ---
-Tome cuidado, não aconeça algo a você!
+Cuidado para que não aconteça algo a você!
 --- BLOCK ---
 Adeus!
 --- BLOCK ---
@@ -2412,8 +2414,8 @@ Ok, isso é o que temos.
 E agora... missões! É
 o que está disponível.
 --- BLOCK ---
-Estes são os trabalhos que
-tenho. Interessa alguma destas missões?
+Estes são os trabalhos que tenho.
+Interessa alguma destas missões?
 --- BLOCK ---
 Hora de começar a trabalhar!
 --- BLOCK ---
@@ -2441,8 +2443,8 @@ Fanfarra... A lista de
 missões! Escolha as que
 quiser e vamos caçar!
 --- BLOCK ---
-Ok, agora queria apresentar uma velha
-amiga: a lista de missões!
+Ok, agora queria apresentar uma
+velha amiga: a lista de missões!
 --- BLOCK ---
 Ei, sabe de uma coisa?
 Tenho boas missões para você!
@@ -2481,8 +2483,8 @@ Boa sorte lá fora!
 --- BLOCK ---
 Não desista!
 --- BLOCK ---
-Não tem com o que se
-preocupar se a preparação estiver correta!
+Não tem com o que se preocupar
+se a preparação estiver correta!
 --- BLOCK ---
 Vai com tudo, caçador!
 --- BLOCK ---
@@ -2525,8 +2527,8 @@ Ah, que dedicação!
 Vejo nos seus
 olhos: "Deixe comigo!".
 --- BLOCK ---
-Acha que pode completar a missão
-sem se machucar? Vamos, desafio você!
+Acha que pode completar a missão sem
+se machucar? Vamos, desafio você!
 --- BLOCK ---
 Aperfeiçoe esses golpes críticos!
 --- BLOCK ---

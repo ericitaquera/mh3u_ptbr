@@ -298,7 +298,7 @@ Ing. A
 --- BLOCK ---
 Ing. B
 --- BLOCK ---
-Efe
+Efeito
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -336,17 +336,17 @@ Pão duro
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Cirulabaza
+Abóbora
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Puerro
+Cebola Enfezada
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Queso musgoso
+Queijo musgoso
 --- BLOCK ---
-Leche salada
+Leite salgado
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -364,57 +364,57 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Camarão
+Camarão rei
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Pan Jumbo
+Pão Jumbo
 --- BLOCK ---
 Arroz Kokoto
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Cebordelletas
+Ceboleca
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Manteca búfalo
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Orujo
+Manteiga búfalo
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
+Espanhola
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Cabeza dragón
+DUMMY
 --- BLOCK ---
-Atún peludo
+Cabeça de dragão
+--- BLOCK ---
+Atum peludo
 --- BLOCK ---
 Caviar rosa
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Pan de cielo
+Pão celestial
 --- BLOCK ---
-Megarrosquilla
+Megarrosquinha
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Trufa rey
+Trufa rei
 --- BLOCK ---
 Tomate gordo
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Manteca Kirin
+Manteiga Kirin
 --- BLOCK ---
 Queijo real
 --- BLOCK ---
@@ -715,9 +715,9 @@ HARDUMMY
 --- BLOCK ---
 Plus Capitão
 --- BLOCK ---
-Plus Lanzarroja
+Plus Lançarubra
 --- BLOCK ---
-Plus Lanzanegra
+Plus Lançanegra
 --- BLOCK ---
 Cerdo Andino
 --- BLOCK ---

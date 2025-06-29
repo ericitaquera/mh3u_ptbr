@@ -28,7 +28,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Inventário
+Owned
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -56,29 +56,29 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Poção
+No Boost
 --- BLOCK ---
-Saúde
+Health
 --- BLOCK ---
-Resistência
+Stamina
 --- BLOCK ---
-Oxigênio
+Oxygen
 --- BLOCK ---
-Ataque
+Attack
 --- BLOCK ---
-Defesa
+Defense
 --- BLOCK ---
-R. Fogo
+Fire Res
 --- BLOCK ---
-R. Água
+Water Res
 --- BLOCK ---
-R. Trovão
+ThunderRes
 --- BLOCK ---
-R. Gelo
+Ice Res
 --- BLOCK ---
-R. Dragão
+Dragon Res
 --- BLOCK ---
-Afetado
+Tipsy
 --- BLOCK ---
 ---
 --- BLOCK ---
@@ -90,35 +90,35 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Comprar
+Buy
 --- BLOCK ---
-Vender
+Sell
 --- BLOCK ---
-Comprar (Caixa)
+Buy, Send to Box
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Arte de Armas
+Weaponcraft
 --- BLOCK ---
-Arte de Armaduras
+Armorcraft
 --- BLOCK ---
-Adornos
+Decorations
 --- BLOCK ---
-Pedidos da Vila
+Villager Requests
 --- BLOCK ---
-Forjar Armas
+Forge Weapons
 --- BLOCK ---
-Melhorar Armas
+Upgrade Weapons
 --- BLOCK ---
-Forjar Armaduras
+Forge Armor
 --- BLOCK ---
-Melhorar Armaduras
+Upgrade Armor
 --- BLOCK ---
-Forjar Adornos
+Forge Decorations
 --- BLOCK ---
-Colocar Adornos
+Set Decorations
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -136,43 +136,43 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Armas
+Weapons
 --- BLOCK ---
-Armadura
+Armor
 --- BLOCK ---
-Cabeça
+Head
 --- BLOCK ---
-Peito
+Chest
 --- BLOCK ---
-Braços
+Arms
 --- BLOCK ---
-Cintura
+Waist
 --- BLOCK ---
-Pernas
+Legs
 --- BLOCK ---
-Grande Espada
+Great Sword
 --- BLOCK ---
-Espada Longa
+Long Sword
 --- BLOCK ---
-Espada e Escudo
+Sword & Shield
 --- BLOCK ---
-Espadas Duplas
+Dual Blades
 --- BLOCK ---
-Martelo
+Hammer
 --- BLOCK ---
-Flauta
+Hunting Horn
 --- BLOCK ---
-Lança
+Lance
 --- BLOCK ---
-Lança-canhão
+Gunlance
 --- BLOCK ---
-Espada Machado
+Switch Axe
 --- BLOCK ---
-Balestra Rápida
+Light Bowgun
 --- BLOCK ---
-Balestra Pesada
+Heavy Bowgun
 --- BLOCK ---
-Arco
+Bow
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -186,25 +186,25 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-FUEG
+FI
 --- BLOCK ---
-AGUA
+WA
 --- BLOCK ---
-TRUE
+LI
 --- BLOCK ---
-DRAG
+DR
 --- BLOCK ---
-HIEL
+IC
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-VENE
+PO
 --- BLOCK ---
-PARÁ
+PA
 --- BLOCK ---
-SUEÑ
+SLP
 --- BLOCK ---
-BABA
+SLM
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -226,13 +226,13 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Visão
+View Mode
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Visão
+View Mode
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -276,19 +276,19 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-R. Fogo
+Fire Res
 --- BLOCK ---
-R. Água
+Water Res
 --- BLOCK ---
-R. Gelo
+Ice Res
 --- BLOCK ---
-R. Trovão
+ThunderRes
 --- BLOCK ---
-R. Dragão
+Dragon Res
 --- BLOCK ---
-Defesa
+Defense
 --- BLOCK ---
-Ataque
+Attack
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -346,39 +346,39 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Clima de Moga
+Moga Forecast
 --- BLOCK ---
-Relatório de Caça
+Hunt Report
 --- BLOCK ---
-Gerar Recursos
+Generate Resources
 --- BLOCK ---
-Info de Recursos
+Resource Info
 --- BLOCK ---
-Pedidos da Vila
+Villager Requests
 --- BLOCK ---
-Hoje
+Today
 --- BLOCK ---
-Amanhã
+Tomorrow
 --- BLOCK ---
-Depois
+Day After
 --- BLOCK ---
-Monstros Grandes
+Large Monsters
 --- BLOCK ---
-Estado do Campo
+Field Conditions
 --- BLOCK ---
-Calma
+Tranquil
 --- BLOCK ---
-Criação Herbív.
+Herbivores Breeding
 --- BLOCK ---
-Calma
+Tranquil
 --- BLOCK ---
-Criação Jaggi
+Jaggi Breeding
 --- BLOCK ---
-Epidemia Bnahabra
+Bnahabra Outbreak
 --- BLOCK ---
-Calma
+Tranquil
 --- BLOCK ---
-Criação Ludroth
+Ludroth Breeding
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -432,231 +432,231 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Enviar
+Dispatch
 --- BLOCK ---
-Ver caixa de pesca
+Check Haul Box
 --- BLOCK ---
-Ver estado da frota
+View Fleet Status
 --- BLOCK ---
-Cap.
+Cap'n
 --- BLOCK ---
-Vermelho
+Red
 --- BLOCK ---
-Preto
+Black
 --- BLOCK ---
-Custo Receb.
+Res Cost
 --- BLOCK ---
-Região
+Region
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Dias
+Days Away
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-1 d.
+1d
 --- BLOCK ---
-2 d.
+2d
 --- BLOCK ---
-3 d.
+3d
 --- BLOCK ---
-4 d.
+4d
 --- BLOCK ---
-5 d.
+5d
 --- BLOCK ---
-6 d.
+6d
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-¿%s? Bom tempo.
-Haverá boa pesca!
+%s? Weather's
+fair. Oughta be a good haul!
 --- BLOCK ---
-¿%s? Tempestade se
-aproximando. Se atreve?
+%s? Storms are
+brewing. Feeling lucky?
 --- BLOCK ---
-¿%s? Boas ondas.
-Pode haver sorte!
+%s? Good waves.
+Could be a nice catch!
 --- BLOCK ---
-Fizemos melhorias. Hoje podemos ir
-para um lugar novo!
+We made a few upgrades. Today
+we can journey somewhere new!
 --- BLOCK ---
-Mar calmo! Pode ser
-que tudo corra bem.
+The seas are calm! This voyage
+might even end early.
 --- BLOCK ---
-Boa agitação. A pesca será boa
-em quase todos os lugares!
+Nice waves today. We could get
+a good catch almost anywhere!
 --- BLOCK ---
-Não há muitas
-novidades, receio.
+Not much to report,
+I'm afraid.
 --- BLOCK ---
-Hoje é um bom dia.
-Talvez cacemos algum monstro.
+Feeling great today! We might
+be able to hunt some monsters.
 --- BLOCK ---
-Vamos lá!
+And we're off!
 --- BLOCK ---
-Pesca
+Fishing
 --- BLOCK ---
-Tesouro
+Treasure
 --- BLOCK ---
-Caça
+Hunting
 --- BLOCK ---
-Costa de Moga
+Moga Coast
 --- BLOCK ---
-Recife de Moga
+Moga Shallows
 --- BLOCK ---
-Águas profundas de Moga
+Moga Deep
 --- BLOCK ---
-Marés lendárias
+Legendary Tides
 --- BLOCK ---
-Águas escuras
+Dark Waters
 --- BLOCK ---
-Estreito de Moga
+Moga Strait
 --- BLOCK ---
-Vulcão abissal
+Abyssal Volcano
 --- BLOCK ---
-Tumba pirata
+Pirate's Tomb
 --- BLOCK ---
-Ilha próxima
+Nearby Island
 --- BLOCK ---
-Ilha distante
+Distant Isle
 --- BLOCK ---
-Terra de ninguém
+No-Man's Land
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-(Pesca) Local frequentado pela
-população. Peixes comuns
-de Moga presentes.
+(Fishing) A spot the villagers
+often visit. Common Moga fish
+can be found here.
 --- BLOCK ---
-(Pesca) Local popular para
-capturar peixes valiosos.
-Não muito distante.
+(Fishing) Valuable fish can be
+caught in this popular spot
+only a short trip away.
 --- BLOCK ---
-(Pesca) Local de difícil acesso,
-mas que vale a pena pela
-variedade de peixes incomuns.
+(Fishing) A difficult spot to
+get to, but its unusual fish
+make the trip worth it.
 --- BLOCK ---
-(Pesca) Dizem que um
-pescador lendário pescou aqui.
-Paraíso dos peixes.
+(Fishing) A spot said to have
+once drawn a fisherman of
+legend. Fish paradise.
 --- BLOCK ---
-(Tesouro) Local perigoso.
-Possibilidade de recuperar
-itens de navios naufragados.
+(Treasure) A terrible place.
+Items can be salvaged from
+ships that ran aground here.
 --- BLOCK ---
-(Tesouro) Estreito com marés
-especiais. Tesouros incomuns
-podem estar escondidos.
+(Treasure) A strait with
+unique tides. Said to hide
+unusual treasures.
 --- BLOCK ---
-(Tesouro) Local temido
-até pelos mais
-experientes. Riquezas abundam.
+(Treasure) Even veteran
+fishermen fear for their
+lives here. Riches abound.
 --- BLOCK ---
-(Tesouro) Lugar amaldiçoado que
-enlouquece as pessoas.
-Repleto de tesouros.
+(Treasure) A cursed place
+that drives men mad. Said to
+be brimming with treasure.
 --- BLOCK ---
-(Caça) Ilha próxima à
-vila. Monstros fáceis de
-caçar habitam aqui.
+(Hunting) An island near the
+village. Relatively easy-to-
+hunt monsters inhabit it.
 --- BLOCK ---
-(Caça) Águas próximas a uma
-ilha distante. Apenas os
-caçadores preparados têm sucesso.
+(Hunting) The waters near
+an isolated island. Only full-
+fledged hunters succeed here.
 --- BLOCK ---
-(Caça) Monstros perigosos. Até
-os mais experientes
-temem essa ilha.
+(Hunting) Dangerous monsters
+even veteran hunters are wary
+of live on this island.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Itens:
+Spoils:
 --- BLOCK ---
-Cultivos
+Sources
 --- BLOCK ---
-Fertilizante
+Fertilizer
 --- BLOCK ---
-Cultivar
+Cultivate
 --- BLOCK ---
-Ver caixa de colheita
+Check Crop Box
 --- BLOCK ---
-Estatísticas
+View Farm Status
 --- BLOCK ---
-Campo
+Fields
 --- BLOCK ---
-Cogumelos
+Shrooms
 --- BLOCK ---
-Mel
+Honey
 --- BLOCK ---
-Insetos
+Insects
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Custo Recebido:
+Res Cost:
 --- BLOCK ---
-Trocar
+Trade
 --- BLOCK ---
-Comércio raro
+Rare Trade
 --- BLOCK ---
-Solicitar escalas
+Request Stopovers
 --- BLOCK ---
-Trocar
+Trade
 --- BLOCK ---
-Comércio raro
+Rare Trade
 --- BLOCK ---
-Ver escalas
+Review Stopovers
 --- BLOCK ---
-Escolher itens
+Select Goods
 --- BLOCK ---
-Escolher mercadorias
+Select Commodity
 --- BLOCK ---
-Escolher itens raros
+Select Rare Goods
 --- BLOCK ---
-Escolher bem raro
+Select Rare Commodity
 --- BLOCK ---
-Reino das fazendas
+Farmer Realm
 --- BLOCK ---
-Reino da caça
+Hunter Realm
 --- BLOCK ---
-Reino dos wyverns
+Wyverian Hub
 --- BLOCK ---
-Destinos
+Destinations
 --- BLOCK ---
-Ajuda de viagem
+Voyage Aid
 --- BLOCK ---
-Duração
+Duration
 --- BLOCK ---
-Terra fértil de fazendeiros
-autossuficientes que vendem colheitas
-e mercadorias ao Argosy.
+A fertile land that is home to
+self-sufficient farmers who trade
+crops and wares with the Argosy.
 --- BLOCK ---
-Terra de caçadores com armas
-e ferramentas difíceis de encontrar
-na Vila Moga.
+A land of hunters whose tools and
+weapons are hard to come by in
+Moga Village outside of trading.
 --- BLOCK ---
-Terra natal dos wyverns: um
-tesouro oculto de medicinas e
-conhecimentos de outro mundo.
+The homeland of the Wyverian race:
+a treasure trove of rare medicines
+and otherworldly knowledge.
 --- BLOCK ---
-Visitar
+Visit
 --- BLOCK ---
-Desviar
+Bypass
 --- BLOCK ---
-Restam
+Time Left
 --- BLOCK ---
-%d d a mais
+%dd Left
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Sair
+Departing
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
-Informações do item
+Item Info
 --- BLOCK ---
 HARDUMMY
 --- BLOCK ---
@@ -670,48 +670,42 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Ok
+OK
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Missões de Arena
+Arena Quests
 --- BLOCK ---
-Missões de desafio
+Challenge Quests
 --- BLOCK ---
-Classificações
+Leaderboards
 --- BLOCK ---
-Temporadas classif.
+Qualifying Times
 --- BLOCK ---
-Ranking S
+S Rank
 --- BLOCK ---
-Ranking A
+A Rank
 --- BLOCK ---
-Ranking B
+B Rank
 --- BLOCK ---
-Melhor
+Your Best
 --- BLOCK ---
-Tempo
+Time
 --- BLOCK ---
-Companheiros
+Partners
 --- BLOCK ---
-Itens
+Items
 --- BLOCK ---
-Mais informações
-sobre habilidades
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Objetivo
+Additional
+Skill Info
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-DUMMY
+Target
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -745,7 +739,13 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-(Sem espaç.)
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+(No Slots)
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -757,71 +757,67 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Aprendeu: %s.
+Learned "%s".
 --- BLOCK ---
-Pegar
+Pick Up
 --- BLOCK ---
-Brincar
+Snuggle
 --- BLOCK ---
-Mudar traje
+Change Costume
 --- BLOCK ---
-Novo traje inicial
+Emperor's New Duds
 --- BLOCK ---
-Listras comemorativas
+Memorial Stripes
 --- BLOCK ---
-Mascote rosa
+Pretty in Pink
 --- BLOCK ---
-Porco Andino
+Pygmelion
 --- BLOCK ---
-Malhas de anjo
+Angel Leotard
 --- BLOCK ---
-Ovelha sonolenta
+Sleepy Sheepy
 --- BLOCK ---
-Porco-rã
+Hog in a Frog
 --- BLOCK ---
-Mel preto
+Black Honey
 --- BLOCK ---
-Mobília
+Furnishings
 --- BLOCK ---
-Galeria
+Gallery
 --- BLOCK ---
-Downloads
+DLC (Downloadable Content)
 --- BLOCK ---
-Colocar
+Place
 --- BLOCK ---
-Remover
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Missão completa
---- BLOCK ---
-O acesso a esta missão foi encerrado.
---- BLOCK ---
-Já possui 1 missão.
---- BLOCK ---
-Recebeu: %s.
---- BLOCK ---
-Na bolsa: %s.
---- BLOCK ---
-Sua bolsa está cheia.
---- BLOCK ---
-Na caixa de itens: %s.
---- BLOCK ---
-A caixa de itens está cheia.
---- BLOCK ---
-Recebido: %d z.
---- BLOCK ---
-Na caixa: %s.
---- BLOCK ---
-A caixa está cheia.
---- BLOCK ---
-Não cumpre os requisitos.
---- BLOCK ---
-Inventário:
+Remove
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-DUMMY
+The Quest is already full.
+--- BLOCK ---
+Entry for this Quest has concluded.
+--- BLOCK ---
+You're already signed up for a Quest.
+--- BLOCK ---
+Received %s!
+--- BLOCK ---
+%s placed in Pouch.
+--- BLOCK ---
+Your Pouch is full.
+--- BLOCK ---
+%s sent to Item Box.
+--- BLOCK ---
+Your Item Box is full.
+--- BLOCK ---
+Received %dz!
+--- BLOCK ---
+%s sent to your Box.
+--- BLOCK ---
+Your Box is full.
+--- BLOCK ---
+You don't meet the requirements.
+--- BLOCK ---
+Owned:
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -829,7 +825,11 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Espaços necessários:
+DUMMY
+--- BLOCK ---
+DUMMY
+--- BLOCK ---
+Req Slots:
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -837,101 +837,101 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Armazenar itens
+Store Items
 --- BLOCK ---
-Pegar itens
+Remove Items
 --- BLOCK ---
-Combinar/Gerenciar itens
+Combine/Manage Items
 --- BLOCK ---
-Gerenciar equipamento
+Manage Equipment
 --- BLOCK ---
-Mudar a aparência
+Change Appearance
 --- BLOCK ---
-Conjuntos de equipamento
+Equipment Sets
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Caixa de itens
+Item Box
 --- BLOCK ---
-Caixa de itens
+Item Box
 --- BLOCK ---
-Bolsa de Espadachim
+Blademaster's Pouch
 --- BLOCK ---
-Bolsa do Artilheiro
+Gunner's Pouch
 --- BLOCK ---
-Comb. itens Caixa
+Combine Box Items
 --- BLOCK ---
-Lista de Combos
+Combo List
 --- BLOCK ---
-Mover
+Reorder
 --- BLOCK ---
-Vender
+Sell
 --- BLOCK ---
-Ordenar por:
+Sort By
 --- BLOCK ---
-Raridade
+Rarity
 --- BLOCK ---
-Hab. natural 1
+Innate Skill 1
 --- BLOCK ---
-Hab. natural 2
+Innate Skill 2
 --- BLOCK ---
-Núm esp.
+# of Slots
 --- BLOCK ---
-Valor
+Value
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 - - - - -
 --- BLOCK ---
-Retirar adorno
+Remove Decoration
 --- BLOCK ---
-Vendendo:
+Displaying:
 --- BLOCK ---
-Nome Ador.
+Decoration Names
 --- BLOCK ---
-Nome Hab.
---- BLOCK ---
-DUMMY
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Trocar de roupa
---- BLOCK ---
-Mudar penteado
---- BLOCK ---
-Traços
---- BLOCK ---
-Mudar cor da armadura
+Skill Names
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Equipar
+Change Clothing
 --- BLOCK ---
-Ver talismãs
+Change Hairstyle
 --- BLOCK ---
-Colocar adornos
+Facial Features
 --- BLOCK ---
-Reorganizar
+Change Armor Pigment
 --- BLOCK ---
-Vender
+DUMMY
 --- BLOCK ---
-Equipar conjunto
+DUMMY
 --- BLOCK ---
-Registrar equipamento
+Equip
 --- BLOCK ---
-Reorganizar
+View Talismans
 --- BLOCK ---
-Remover conjunto
+Set Decorations
 --- BLOCK ---
-Equipar conjunto
+Reorder
 --- BLOCK ---
-Guardar equipamento
+Sell
 --- BLOCK ---
-Reorganizar
+Equip a Set
 --- BLOCK ---
-Remover conjunto
+Register Equipment
+--- BLOCK ---
+Reorder
+--- BLOCK ---
+Remove a Set
+--- BLOCK ---
+Equip a Set
+--- BLOCK ---
+Register Equipment
+--- BLOCK ---
+Reorder
+--- BLOCK ---
+Remove a Set
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -961,29 +961,27 @@ DUMMY
 --- BLOCK ---
 12
 --- BLOCK ---
-Tipo 1
+Type 1
 --- BLOCK ---
-Tipo 2
+Type 2
 --- BLOCK ---
-Tipo 3
+Type 3
 --- BLOCK ---
-Tipo 4
+Type 4
 --- BLOCK ---
-Tipo 5
+Type 5
 --- BLOCK ---
-Tipo 6
+Type 6
 --- BLOCK ---
-Tipo 7
+Type 7
 --- BLOCK ---
-Tipo 8
+Type 8
 --- BLOCK ---
-Tipo 9
+Type 9
 --- BLOCK ---
-Tipo 10
+Type10
 --- BLOCK ---
-Tipo 11
---- BLOCK ---
-DUMMY
+Type11
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1003,7 +1001,9 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Subir nível
+DUMMY
+--- BLOCK ---
+Level Up
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1023,7 +1023,7 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Cancelar
+Qty.
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1039,9 +1039,9 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Tamanho da Caixa de itens aumentado!
+Item Box storage capacity increased!
 --- BLOCK ---
-A Caixa de itens está no máximo.
+Item Box reached maximum capacity!
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1075,176 +1075,173 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Lista de itens
+Item List
 --- BLOCK ---
-Categoria
+Category
 --- BLOCK ---
-Grande espada
+Great Sword
 --- BLOCK ---
-Espada e escudo
+Sword & Shield
 --- BLOCK ---
-Martelo
+Hammer
 --- BLOCK ---
-Lança
+Lance
 --- BLOCK ---
-Balestra leve
+Light Bowgun
 --- BLOCK ---
-Balestra pesada
+Heavy Bowgun
 --- BLOCK ---
-Machado espada
+Switch Axe
 --- BLOCK ---
-Espada longa
+Long Sword
 --- BLOCK ---
-Arco
+Bow
 --- BLOCK ---
-Lança-canhão
+Gunlance
 --- BLOCK ---
-Espadas duplas
+Dual Blades
 --- BLOCK ---
-Flauta
+Hunting Horn
 --- BLOCK ---
-Arte das armas
+Weaponcraft
 --- BLOCK ---
-Categoria
+Category
 --- BLOCK ---
-Cabeça
+Head
 --- BLOCK ---
-Peito
+Chest
 --- BLOCK ---
-Braços
+Arms
 --- BLOCK ---
-Cintura
+Waist
 --- BLOCK ---
-Pernas
+Legs
 --- BLOCK ---
-Arte de armaduras
+Armorcraft
 --- BLOCK ---
-Adornos
---- BLOCK ---
-DUMMY
---- BLOCK ---
-Forjar adornos
+Decorations
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Lista de nomes
---- BLOCK ---
-Tocar gongo
---- BLOCK ---
-Cancelar busca por companheiros
---- BLOCK ---
-Buscando companheiros
---- BLOCK ---
-Ocultar menu
---- BLOCK ---
-Mostrar menu
---- BLOCK ---
-Lista de monstros atualizada!
---- BLOCK ---
-Nível de Cha-Cha aumentou!
---- BLOCK ---
-Nível de Kayamba aumentou!
---- BLOCK ---
-Valor de Cha-Cha aumentou!
---- BLOCK ---
-Valor de Kayamba aumentou!
---- BLOCK ---
-Maestria de %s aumentada!
---- BLOCK ---
-Cha-chi de Cha-Cha e Kayamba aumentado!
---- BLOCK ---
-Obtido: %s!
---- BLOCK ---
-Máscara total (?) alcançada.
---- BLOCK ---
-Máscara gafe melhorada!
---- BLOCK ---
-
---- BLOCK ---
-Missões Arena
---- BLOCK ---
-Girar
---- BLOCK ---
-Clima de Moga
---- BLOCK ---
-Relatório de caça
---- BLOCK ---
-Gerar Recursos
---- BLOCK ---
-Informações de Recursos
---- BLOCK ---
-Pedidos da Vila
---- BLOCK ---
-Hoje
---- BLOCK ---
-Amanhã
---- BLOCK ---
-Depois de amanhã
---- BLOCK ---
-Monstros
-grandes
---- BLOCK ---
-Estado do campo
---- BLOCK ---
-Nenhum monstro
-grande visto.
---- BLOCK ---
-Recursos
---- BLOCK ---
-Norte
---- BLOCK ---
-Centro
---- BLOCK ---
-Sul
---- BLOCK ---
-Ver
-mapa
---- BLOCK ---
-Dia
---- BLOCK ---
-Noite
---- BLOCK ---
-Calmo
---- BLOCK ---
-Criação de herbívoros
---- BLOCK ---
-Criação de Bullfango
---- BLOCK ---
-Calmo
---- BLOCK ---
-Criação de Jaggi
---- BLOCK ---
-Epidemia de Bnahabra
---- BLOCK ---
-Criação de Jaggi
---- BLOCK ---
-Criação de Wroggi
---- BLOCK ---
-Calmo
---- BLOCK ---
-Criação de Ludroth
---- BLOCK ---
-Recursos: calmo
---- BLOCK ---
-Muitos bens
---- BLOCK ---
-Informação de caça
---- BLOCK ---
-Total pt
---- BLOCK ---
-Rec. ganhos
---- BLOCK ---
-Monstros grandes
---- BLOCK ---
-Monstros pequenos
---- BLOCK ---
-Itens Recursos
---- BLOCK ---
-Monstros pequenos
---- BLOCK ---
-Monstros grandes
+Forge Decorations
 --- BLOCK ---
 DUMMY
+--- BLOCK ---
+Name List
+--- BLOCK ---
+Sound the Gong
+--- BLOCK ---
+Cancel Companion Search
+--- BLOCK ---
+Seeking Companions
+--- BLOCK ---
+Hide Menu
+--- BLOCK ---
+Show Menu
+--- BLOCK ---
+The Monster List has been updated!
+--- BLOCK ---
+Cha-Cha's Level has increased!
+--- BLOCK ---
+Kayamba's Level has increased!
+--- BLOCK ---
+Cha-Cha's Valor has increased!
+--- BLOCK ---
+Kayamba's Valor has increased!
+--- BLOCK ---
+%s Mastery increased!
+--- BLOCK ---
+Cha-Cha and Kayamba's Chum-Chum increased!
+--- BLOCK ---
+%s obtained!
+--- BLOCK ---
+Ultimate Mask (?) obtained.
+--- BLOCK ---
+The Unfortunate Mask has improved!
+--- BLOCK ---
+ 
+--- BLOCK ---
+Arena Quests
+--- BLOCK ---
+Rotate
+--- BLOCK ---
+Moga Forecast
+--- BLOCK ---
+Hunt Report
+--- BLOCK ---
+Generate Resources
+--- BLOCK ---
+Resource Info
+--- BLOCK ---
+Villager Requests
+--- BLOCK ---
+Today
+--- BLOCK ---
+Tomorrow
+--- BLOCK ---
+Day After
+--- BLOCK ---
+Large Monsters
+--- BLOCK ---
+Field Conditions
+--- BLOCK ---
+No large monsters have
+been sighted.
+--- BLOCK ---
+Resrces
+--- BLOCK ---
+North
+--- BLOCK ---
+Central
+--- BLOCK ---
+South
+--- BLOCK ---
+Show
+Map
+--- BLOCK ---
+Day
+--- BLOCK ---
+Night
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Herbivores Breedng
+--- BLOCK ---
+Bullfango Breeding
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Jaggi Breeding
+--- BLOCK ---
+Bnahabra Outbreak
+--- BLOCK ---
+Baggi Breeding
+--- BLOCK ---
+Wroggi Breeding
+--- BLOCK ---
+Tranquil
+--- BLOCK ---
+Ludroth Breeding
+--- BLOCK ---
+Resources: Tranquil
+--- BLOCK ---
+Abundant Commodities
+--- BLOCK ---
+Hunt Report
+--- BLOCK ---
+Pt Total
+--- BLOCK ---
+Res Gain
+--- BLOCK ---
+Large Monsters
+--- BLOCK ---
+Small Monsters
+--- BLOCK ---
+Resource Items
+--- BLOCK ---
+Small Monsters
+--- BLOCK ---
+Large Monsters
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -1266,100 +1263,104 @@ DUMMY
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
-Adicionar silenciador
+DUMMY
 --- BLOCK ---
-Adicionar cano longo
+Attach Silencer
 --- BLOCK ---
-Adicionar mira com zoom
+Attach Long Barrel
 --- BLOCK ---
-Adicionar escudo
+Attach V.Zoom Scope
 --- BLOCK ---
-Adicionar cano de potencia
+Attach Shield
 --- BLOCK ---
-Remover limitador
+Attach Power Barrel
 --- BLOCK ---
-Remover limitador
+Remove Limiter
 --- BLOCK ---
-Remover silenciador
+Remove Limiter
 --- BLOCK ---
-Remover cano longo
+Remove Silencer
 --- BLOCK ---
-Adicionar mira fixa
+Remove Long Barrel
 --- BLOCK ---
-Remover escudo
+Attach Fixed Scope
 --- BLOCK ---
-Remover cano de potencia
+Remove Shield
 --- BLOCK ---
-Com limitador
+Remove Power Barrel
 --- BLOCK ---
-Com limitador
+Reinstall Limiter
 --- BLOCK ---
-Peça emprestada da Armaria. Silencia
-o ruído e torna
-os monstros mais difíceis
-de localizar você. Reduz
-um pouco o Recuo.
+Reinstall Limiter
 --- BLOCK ---
-Peça emprestada da Armaria.
-Aumenta o Ataque.
+A part loaned from the Armory.
+Dampens sound, making it hard
+for monsters to target the user.
+Also slightly reduces recoil.
 --- BLOCK ---
-Peça emprestada da Armaria. Pode
-aproximar ou afastar a visão
-com o controle cruzado.
+A part loaned from the Armory.
+It increases Attack.
 --- BLOCK ---
-Peça emprestada da Armaria.
-Um Escudo adicionado
-permite a Autoguarda.
+A part loaned from the Armory.
+It can be zoomed in and out by
+using the +Control Pad.
 --- BLOCK ---
-Peça emprestada da Armaria.
-Aumenta o Ataque.
+A part loaned from the Armory.
+Adding a Shield makes it possible
+to Auto-Guard.
 --- BLOCK ---
-Para Bala. leve, raridade +6. A
-arma permanece carregada ao trocar a
-munição, e você carrega toda a
-munição com os botões X e
-A. Não dispara muito seguido.
+A part loaned from the Armory.
+It increases Attack.
 --- BLOCK ---
-Para Bala. pesada, raridade +6. Melhora
-ainda mais o Ataque e você
-pode carregar Fogo de Wyvern. Mas
-é difícil de manusear e
-não permite o Disparo agachado.
+For Light Bowguns of Rarity 6 and up.
+Guns stay loaded even when ammo is
+switched. All ammo can be reloaded
+at once by pressing X and A Buttons.
+Shots cannot be fired rapidly.
 --- BLOCK ---
-Retira o silenciador da arma
-e devolve à Armaria.
+For Heavy Bowguns of Rarity 6 and up.
+Further boosts Attack and permits
+WyvernFire ammo to be loaded.
+Handling is tougher, however, and
+Crouching Fire is not possible.
 --- BLOCK ---
-Retira o cano longo da
-arma e devolve à Armaria.
+Removes the Silencer attachment
+from the weapon and returns it
+to the Armory.
 --- BLOCK ---
-Retira a mira com
-zoom da arma e
-restaura a mira normal.
+Removes the Long Barrel attachment
+from the weapon and returns it
+to the Armory.
 --- BLOCK ---
-Retira o escudo da arma
-e devolve à Armaria.
+Removes the Variable Zoom Scope
+attachment from the weapon and
+restores the standard scope.
 --- BLOCK ---
-Retira o cano de
-potência da arma e
-devolve à Armaria.
+Removes the Shield attachment
+from the weapon and returns it
+to the Armory.
 --- BLOCK ---
-Para Bala. leve, raridade
-+6. Reinstala o
-limitador na arma.
+Removes the Power Barrel attachment
+from the weapon and returns it
+to the Armory.
 --- BLOCK ---
-Para Bala. pesada, raridade
-+6. Reinstala o
-limitador na arma.
+For Light Bowguns of Rarity 6
+and up. Reinstalls the Limiter
+to the weapon.
 --- BLOCK ---
-(Sem dados de missão).
+For Heavy Bowguns of Rarity 6
+and up. Reinstalls the Limiter
+to the weapon.
 --- BLOCK ---
-Melhoria
+(No Quests available.)
 --- BLOCK ---
-Este equipamento não pode ser melhorado.
+Upgrade
 --- BLOCK ---
-Este equipamento não pode ser melhorado mais.
+This equipment cannot be upgraded.
 --- BLOCK ---
-Trocar peça
+Cannot be upgraded any further.
 --- BLOCK ---
-Aumentar nível
+Change Parts
+--- BLOCK ---
+Level Up
 --- BLOCK ---

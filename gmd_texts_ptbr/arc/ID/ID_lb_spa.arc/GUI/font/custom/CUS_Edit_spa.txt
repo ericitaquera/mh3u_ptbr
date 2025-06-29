@@ -62,7 +62,7 @@ Gestos
 --- BLOCK ---
 Lista  Combo
 --- BLOCK ---
-Patada
+Chute
 --- BLOCK ---
 DUMMY
 --- BLOCK ---
@@ -157,7 +157,7 @@ Câmera de foco
 Rastreie monstros grandes com o botão L.
 --- BLOCK ---
 Ataques especiais
-Chutes/ataques especiais com tela sensível ao toque.
+Chutes/ataques especiais com touchscreen.
 --- BLOCK ---
 Sinais
 Dê sinais com o touchscreen.
@@ -289,9 +289,9 @@ Painel Sinais
 --- BLOCK ---
 Sobre Conjuntos de painéis
 --- BLOCK ---
-Organize a distribuição dos painéis na
-tela sensível ao toque conforme desejar.
-Os painéis facilitam funções, como os
+Organize a distribuição dos painéis no
+touchscreen conforme desejar. Os
+painéis facilitam funções, como os
 controles da câmera, ajustes do mapa...
 --- BLOCK ---
 Use o seletor de <COLO 2>categorias <COLO 0>à
@@ -299,9 +299,9 @@ esquerda do touchscreen para selecionar
 o tipo de painel que deseja colocar.
 --- BLOCK ---
 Os painéis aparecem na <COLO 2>barra de seleção
-de painel <COLO 0>(parte superior da tela sensível
-ao toque). Toque e deslize-os para a <COLO
-4>caixa de painéis visíveis <COLO 0>para colocá-los.
+de painel <COLO 0>(parte superior do touchscreen).
+Toque e deslize-os para a <COLO 4>
+caixa de painéis visíveis <COLO 0>para colocá-los.
 --- BLOCK ---
 Seus tamanhos são fixos. Se não
 houver espaço na <COLO 4>caixa de
@@ -314,8 +314,8 @@ podem ser colocados ao mesmo tempo.
 --- BLOCK ---
 Para mover um painel, deslize-o para fora da
 área dos painéis visíveis. Os que você
-remover irão para a <COLO 2>lixeira <COLO
-0>à direita do touchscreen.
+remover irão para a <COLO 2>lixeira <COLO 0>
+à direita do touchscreen.
 --- BLOCK ---
 Ao fechar um painel, ele reaparecerá na
 barra de seleção de painéis. E você
@@ -336,17 +336,17 @@ No modo Foco, pressione levemente o
 botão L para direcionar a câmera
 para o monstro que está mirando.
 --- BLOCK ---
-Se pressionar rapidamente duas vezes o botão
-L no modo Foco, pode posicionar
+Se pressionar rapidamente duas vezes
+o botão L no modo Foco, pode posicionar
 a câmera atrás do seu caçador.
 --- BLOCK ---
-Se estiver enfrentando dois monstros grandes,
-ambos aparecerão no painel Câmera de
-foco. Toque em um dos dois
+Se estiver enfrentando dois monstros
+grandes, ambos aparecerão no painel
+Câmera de foco. Toque em um dos dois
 para mirar e focar nele.
 --- BLOCK ---
-Este painel mostra na tela sensível
-ao toque a Vida, Resistência, Afiação,
+Este painel mostra touchscreen
+a Vida, Resistência, Afiação,
 Munição e outros dados. Ao colocá-lo,
 os dados desaparecem da tela superior.
 --- BLOCK ---
@@ -356,19 +356,21 @@ mas seu tamanho facilita a leitura.
 --- BLOCK ---
 Ao tocar neste painel, você verá o
 estado de todo o seu grupo, assim
-como informações importantes sobre a missão atual.
+como informações importantes
+sobre a missão atual.
 --- BLOCK ---
-Este painel mostra na tela sensível
-ao toque informações de estado de
-seus companheiros. Ao colocá-lo, essas
+Este painel mostra no touchscreen
+informações de estado de seus
+companheiros. Ao colocá-lo, essas
 informações desaparecem da tela superior.
 --- BLOCK ---
 Ao tocar neste painel, você verá o
 estado de todo o seu grupo, assim
-como informações importantes sobre a missão atual.
+como informações importantes
+sobre a missão atual.
 --- BLOCK ---
-Este painel mostra o mapa na
-tela sensível ao toque. Ao colocá-lo,
+Este painel mostra o mapa no
+touchscreen. Ao colocá-lo,
 o mapa desaparece da tela superior.
 --- BLOCK ---
 Ao tocar neste painel, você alterna entre
@@ -390,9 +392,9 @@ mochila de itens. Toque em um
 item do painel para usá-lo imediatamente.
 --- BLOCK ---
 Toque neste painel para ver uma versão
-da Lista de combinações na tela sensível
-ao toque. Toque no item que deseja
-criar para iniciar o processo de combinação.
+da Lista de combinações o touchscreen.
+Toque no item que deseja criar
+para iniciar o processo de combinação.
 --- BLOCK ---
 Toque neste painel para ver uma lista de
 gestos no touchscreen. Toque

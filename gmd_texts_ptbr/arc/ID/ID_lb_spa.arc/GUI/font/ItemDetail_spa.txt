@@ -299,7 +299,7 @@ de suportar
 bastante peso.
 --- BLOCK ---
 Ferramenta necessária para colocar
-a Armadilha escolho
+a Armadilha de queda
 e outras armadilhas.
 --- BLOCK ---
 Armadilha para capturar
@@ -3784,9 +3784,9 @@ Munição para Balestra
 Pesada Montada.
 <COLO 05>(Suprimento)
 --- BLOCK ---
-Munición para Ballesta grande montada.
-¡Mantiene a los gigantes a
-raya! <COLO 05>(Sum.) [UNTRANSLATED]
+Munição para Balestra grande montada.
+Mantém os gigantes afastados!
+raya! <COLO 05>(Suprimento)
 --- BLOCK ---
 DUMMY 117
 --- BLOCK ---

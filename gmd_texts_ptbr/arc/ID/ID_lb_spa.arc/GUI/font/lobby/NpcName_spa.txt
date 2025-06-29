@@ -22,9 +22,9 @@ Capitão do Argosy
 --- BLOCK ---
 Capitão de frota
 --- BLOCK ---
-Caçador lançarubra
+Caçador Lançarubra
 --- BLOCK ---
-Caçador lançanegra
+Caçador Lançanegra
 --- BLOCK ---
 Cozinheiro ambulante
 --- BLOCK ---
@@ -92,9 +92,9 @@ Sabia ambiciosa
 --- BLOCK ---
 DUMMY045
 --- BLOCK ---
-Marinheiro caçadragão
+Marinheiro Caçadragão
 --- BLOCK ---
-Marinheiro caçadragão
+Marinheiro Caçadragão
 --- BLOCK ---
 Mestre da Guilda
 --- BLOCK ---

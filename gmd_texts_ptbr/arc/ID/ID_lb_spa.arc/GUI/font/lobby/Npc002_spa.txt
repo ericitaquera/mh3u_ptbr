@@ -10,20 +10,20 @@ TMSG_NPC002_4
 --- BLOCK ---
 O que vai ser hoje?
 --- BLOCK ---
-Se houver algo que você precise conversar
-com alguém, aqui estou eu.
+Se houver algo que você precise
+conversar com alguém, aqui estou eu.
 --- BLOCK ---
 <SUBS 0>
-Lembre-se de que a caça é mais do que
-apenas correr e matar bichos.
+Lembre-se de que a caça é mais do
+que apenas correr e matar bichos.
 --- BLOCK ---
 Um bom caçador é humilde o suficiente
 o suficiente para pedir conselhos mas
 esperto para entendê-los.
 --- BLOCK ---
-Não finja ser um desses caras 
-durões, quietos e solitários. Você viverá
-mais se você fizer alguns amigos, ha!
+Não finja ser um desses caras durões,
+quietos e solitários. Você viverá mais
+se você fizer alguns amigos, ha!
 --- BLOCK ---
 <SUBS 0>
 Você sem dúvida notou que alguns
@@ -34,8 +34,8 @@ diferentes de humanos, mas a Vila Moga
 estaria perdida sem sua sabedoria.
 --- BLOCK ---
 Sua habilidade em construir e navegar
-faz a vila prosperar. E o mesmo
-com os Wyverianos. Viva a diversidade!
+faz a vila prosperar. E o mesmo com
+os Wyverianos. Viva a diversidade!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -43,8 +43,8 @@ com os Wyverianos. Viva a diversidade!
 Apesar da distância, há um intenso
 comércio entre a vila e Porto Tanzia.
 --- BLOCK ---
-As missões da Tanzia vão testar
-seu temperamento, mas me escute, o
+As missões da Tanzia vão testar seu
+temperamento, mas me escute, o
 a recompensa vale a pena!
 --- BLOCK ---
 Chegar à Tanzia é fácil. Embarque
@@ -54,16 +54,16 @@ Peça permissão ao Felyne para embarcar
 Ele é muito capaz, então deixe-o
 cuidar dos assuntos marítimos.
 --- BLOCK ---
-Acho que as pessoas no porto gostarão
-de ver um rosto novo!
+Acho que as pessoas no porto
+ gostarão de ver um rosto novo!
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
 Meu filho é o responsável por tudo
 relacionado com a Floresta Moga.
 --- BLOCK ---
-Pergunte ao Júnior se você tiver
-qualquer dúvida.
+Pergunte ao Júnior se
+você tiver qualquer dúvida.
 --- BLOCK ---
 Ele tem muito que aprender, mas
 as dificuldades fazem você crescer.
@@ -75,9 +75,9 @@ Vocês poderiam ajudar um ao outro.
 O Lagiacrus é um monstro terrível,
 capaz de afundar um navio em segundos.
 --- BLOCK ---
-Se você o encontrar, deixa de
-heroísmos. Nade o mais rápido quanto
-você puder para escapar.
+Se você o encontrar, deixa de 
+heroísmos. Nade o mais rápido
+quanto você puder para escapar.
 --- BLOCK ---
 Mas não se preocupe. Certamente um dia
 destes... Não, não, eu não deveria
@@ -122,8 +122,8 @@ Troque sua arma e você mudará a caçada.
 A história muda completamente!
 --- BLOCK ---
 Então, se você está procurando novas
-maneiras de crescer ou se divertir, você
-já sabe um bom ponto de partida.
+maneiras de crescer ou se divertir,
+você já sabe um bom ponto de partida.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -143,8 +143,8 @@ Não importa o quão forte seja sua arma, se
 você atirar na direção errada, não causará
 mais danos do que uma brisa forte.
 --- BLOCK ---
-Aprenda a manter os alvos à vista
-e você vai se poupar de muitos problemas.
+Aprenda a manter os alvos à vista e você
+vai se poupar de muitos problemas.
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
@@ -159,13 +159,13 @@ Os prazos geralmente variam.
 entre 30 e 50 minutos, dependendo
 dos detalhes.
 --- BLOCK ---
-É possível encontrar cogumelos ou caçar
-monstrinhos em 15 minutos, mas
+É possível encontrar cogumelos ou
+caçar monstrinhos em 15 minutos, mas
 com monstros grandes demora mais.
 --- BLOCK ---
 Precisa verificar quanto dinheiro resta?
-Use o relógio ou abra "Informação
-missão" no menu do jogo.
+Use o relógio ou abra "Informação missão"
+no menu do jogo.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
@@ -185,22 +185,22 @@ A recompensa da missão é reduzida
 a cada desmaio. No terceiro,
 a missão falha.
 --- BLOCK ---
-Pelo que eu sei, o Felyne que
-te trazem a salvo te cobram um adicional
-de periculosidade astronômico.
+Pelo que eu sei, o Felyne que te trazem
+a salvo te cobram um adicional de
+periculosidade astronômico.
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-Deixe as missões de vez em quando e
-explore a Floresta Moga.
+Deixe as missões de vez em quando
+e explore a Floresta Moga.
 --- BLOCK ---
 Há muito o que fazer lá. Você poderia
-coletar itens úteis ou reunir
-Recursos para a vila...
+coletar itens úteis ou reunir Recursos
+para a vila...
 --- BLOCK ---
-Lembre-se que a Floresta Moga tem
-todo tipo de surpresas reservadas a você!
+Lembre-se que a Floresta Moga tem todo
+tipo de surpresas reservadas a você!
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
@@ -208,8 +208,8 @@ Eu providenciei a vinda do Argosy
 até aqui regularmente.
 --- BLOCK ---
 Negociar com outros países é tão bom
-para nossa vila como ter uma Frota
-de caça forte ou de uma Fazenda produtiva.
+para nossa vila como ter uma Frota de
+caça forte ou de uma Fazenda produtiva.
 --- BLOCK ---
 Ah, e se houver algo em particular que
 você quer resgatar, é melhor reunir
@@ -225,9 +225,9 @@ intenções não são moeda.
 Bem, já era hora de eu te contar sobre
 outra prática básica de caça: armadilhas.
 --- BLOCK ---
-Bem, tenho certeza de que não é necessário
-dizer que o seu trabalho não consiste
-apenas em cortar monstros.
+Bem, tenho certeza de que não é
+necessário dizer que o seu trabalho não
+consiste apenas em cortar monstros.
 --- BLOCK ---
 Nada do que fazemos é tão difícil ou
 tão PERIGOSO quanto tentar capturar
@@ -259,16 +259,16 @@ intuição, jovem!
 A menina no posto missionário
 sempre admirou os caçadores.
 --- BLOCK ---
-Assim que atingiu a maioridade, deixou a
-vila para trabalhar para a Guilda.
+Assim que atingiu a maioridade, deixou
+a vila para trabalhar para a Guilda.
 --- BLOCK ---
 Ele voltou para cuidar de nossos
 negócios com a Guilda... que
 ultimamente são muitos.
 --- BLOCK ---
-Eu tenho feito ela trabalhar muito duro
-devido aos terremotos, e veja que
-sorriso. Ela é muito bem formada.
+Eu tenho feito ela trabalhar muito
+duro devido aos terremotos, e veja
+que sorriso. Ela é muito bem formada.
 --- BLOCK ---
 E ela também é inteligente. Quando está
 tão longe da civilização, pequenino,
@@ -668,8 +668,8 @@ use uma arma com poderes de fogo.
 <SUBS 1>
 --- BLOCK ---
 <SUBS 0>
-O Uragaan frequentemente ronda ao redor de
-regiões vulcânicas.
+O Uragaan frequentemente ronda
+ao redor de regiões vulcânicas.
 --- BLOCK ---
 Acha que as mandíbulas dele são fortes?
 Verá quando ele se enrola e rola na sua
@@ -708,8 +708,8 @@ eu continuarei observando você.
 Bom dia, senhor caçador!
 Você dormiu bem?
 --- BLOCK ---
-Se lhe serve de consolo, a Vila Moga
-nunca sofreu dois terremotos
+Se lhe serve de consolo, a Vila
+Moga nunca sofreu dois terremotos
 no mesm dia... bate na madeira.
 --- BLOCK ---
 Mas vamos lá. Seja bem-vindo!
@@ -962,12 +962,12 @@ Pelo menos você tem bons pulmões,
 jovem... é o que dizem. Não deixe que
 um pouco de água assuste você!
 --- BLOCK ---
-Agora, o momento que você estava esperando:
-Eu vou te pagar!
+Agora, o momento que você estava
+esperando: Eu vou te pagar!
 --- BLOCK ---
-Tive que cavar fundo no cofrinho para isso,
-só isso. De agora em diante, você precisa
-ganhar a vida!
+Tive que cavar fundo no cofrinho para
+isso, só isso. De agora em diante,
+você precisa ganhar a vida!
 --- BLOCK ---
 <SUBS 0>
 Parece que a Guilda finalmente
@@ -998,7 +998,7 @@ Nunca se sabe quando pode aparecer e...
 PELO AMOR DE SATURNO, ATRÁS DE VOCÊ!
 --- BLOCK ---
 Ha ha ha, era brincadeira, caçador.
-Ah, você já esteve na Fazenda que á
+Ah, você já esteve na Fazenda que há
 escalando o penhasco a partir da vila?
 --- BLOCK ---
 Você conhece a saída que leva à floresta?
@@ -1145,12 +1145,12 @@ Mas não fique muito animado, ouviu? O
 Arzuros é moleza. Mas lá fora
 existem muitos monstros mais fortes.
 --- BLOCK ---
-Bem, enquanto você estava fora,
-perdeu a emoção que é
+Bem, enquanto você estava
+fora, perdeu a emoção que
 rolou na vila.
 --- BLOCK ---
-Um dos nossos rapazes voltou dizendo
-que tinha visto uma criatura estranha na
+Um dos nossos rapazes voltou dizendo que
+tinha visto uma criatura estranha na
 floresta, nem humana nem monstro.
 --- BLOCK ---
 Claro que poderíamos assumir que foi
@@ -1198,21 +1198,21 @@ Ha ha, brincadeira! Na Vila Moga
 Damos as boas-vindas a todos os de 
 braços abertos, seja Shakalaka ou Lynian.
 --- BLOCK ---
-Além disso, eu gosto dele. Faz sentido a
-piada! Ouviu ele dizer que quer que você
-seja seu capanga? Ha ha ha!
+Além disso, eu gosto dele. Faz sentido
+a piada! Ouviu ele dizer que quer que
+você seja seu capanga? Ha ha ha!
 --- BLOCK ---
 Bem... o que você acha de cuidar
 dele por um tempo?
 --- BLOCK ---
-Leve-o para caçar. Ele é um menino corajoso
-Para ele seria uma experiência para
-toda a da vida.
+Leve-o para caçar. Ele é um menino
+corajoso Para ele seria uma experiência
+para toda a da vida.
 --- BLOCK ---
 Que?
 Não me olhe assim!
 --- BLOCK ---
-Há há! Relaxa! Olha o ótima equipe vocês
+Há há! Relaxa! Olha que ótima equipe vocês
 são. Vocês são uma dupla arrasadora!
 --- BLOCK ---
 <SUBS 0>
@@ -1227,8 +1227,8 @@ Eles têm grandes bolsas no peito
 que enchem de ar para imitar
 o chamado de outros monstros.
 --- BLOCK ---
-Se, ao se aproximar de um Qurupeco, ele se
-sentir ameaçado, pode emitir o grito
+Se, ao se aproximar de um Qurupeco, ele
+se sentir ameaçado, pode emitir o grito
 de socorro de um grande wyvern voador.
 --- BLOCK ---
 E adivinha quem aparece então para o
@@ -1236,11 +1236,11 @@ jantar... Isso mesmo: um monstro gigante
 que acha que um dos seus está em perigo.
 --- BLOCK ---
 Meu conselho para você é: se você vir que
-um Qurupeco começa a encher o saco, cale a
-boca dele antes que ele tenha apoio!
+um Qurupeco começa a encher o saco, cale
+a boca dele antes que ele tenha apoio!
 --- BLOCK ---
-Como? Mmm, bem... Se você tiver
-uma bomba sônica, talvez você pudesse
+Como? Mmm, bem... Se você tiver uma
+bomba sônica, talvez você pudesse
 silenciar seus gritos...
 --- BLOCK ---
 <SUBS 0>
@@ -1265,8 +1265,8 @@ cair das mãos antes de usar!
 --- BLOCK ---
 <SUBS 1>
 --- BLOCK ---
-Parabéns, rapaz! Você nos ajudou muito! Um
-navio pode não ser nada mais madeira,
+Parabéns, rapaz! Você nos ajudou muito!
+Um navio pode não ser nada mais madeira,
 mas simboliza muito mais.
 --- BLOCK ---
 A grande frota de caça nos manterá vivos.
@@ -1291,8 +1291,8 @@ Não é uma tarefa fácil. O Barroth varre
 o deserto como um tornado, atacando
 qualquer coisa que encontre.
 --- BLOCK ---
-Ele tem o estranho hábito de se cobrir com
-lama para evitar o calor do deserto.
+Ele tem o estranho hábito de se cobrir
+com lama para evitar o calor do deserto.
 --- BLOCK ---
 E ainda mais estranho: suas fraquezas
 básicas são completamente invertidas está
@@ -1342,8 +1342,8 @@ até os ossos.
 Ou a Guilda tem um conceito muito bom
 de você, ou querem se livrar de você!
 --- BLOCK ---
-Você enfrentará monstros mais difíceis e
-em condições mais adversas daqueles
+Você enfrentará monstros mais difíceis
+e em condições mais adversas daqueles
 com os quais você está acostumado.
 --- BLOCK ---
 Não seja descuidado, rapaz, a não ser
@@ -1353,8 +1353,8 @@ que você queira descansar eternamente.
 Eu tentei avisá-lo que a caça na
 Tundra não é como fazer trilhas.
 --- BLOCK ---
-É melhor você encarar as coisas com calma
-e comece com missões que você pode
+É melhor você encarar as coisas com
+calma e comece com missões que você pode
 levar a cabo. Com o tempo, tudo chegará.
 --- BLOCK ---
 Lembre-se de que caça é caça. Não é
@@ -1371,9 +1371,9 @@ Dizem que o Lagiacrus foi
 avistado novamente nas águas de Moga.
 E você sabe o que isso significa...
 --- BLOCK ---
-Sim, mas não se preocupe! Posso garantir
-que está preparado.
-Você com certeza é mais forte que ele!
+Sim, mas não se preocupe! Posso
+garantir que está preparado. Você
+com certeza é mais forte que ele!
 --- BLOCK ---
 Escute-me com atenção, rapaz. O Lagiacrus
 tem órgãos especiais na parte de trás
@@ -1383,16 +1383,16 @@ Você deve ter cuidado com eles. Quanto
 mais eletricidade a besta gera, mais
 eles ficarão brilhantes...
 --- BLOCK ---
-Na verdade, ouvi dizer que é muito bonito.
-O brilho é tão forte que os
+Na verdade, ouvi dizer que é muito
+bonito. O brilho é tão forte que os
 marinheiros confundem isso com um raio.
 --- BLOCK ---
 O problema é que a maioria dos
 marinheiros morrem porque não
 saem logo dali!
 --- BLOCK ---
-Acontece que uma vez que os órgãos
-são carregados, o Lagiacrus libera toda
+Acontece que uma vez que os órgãos são
+carregados, o Lagiacrus libera toda
 eletricidade em um único golpe fatal.
 --- BLOCK ---
 Quanto mais bonitas as paisagens, mais
@@ -1403,24 +1403,24 @@ Em suma, vá com pés de chumbo quando vir
 aquele brilho. CUIDADO! Sim, gritei.
 Para que você não esqueça.
 --- BLOCK ---
-Mmm, se houvesse alguma maneira de evitar
-que ele carregasse a energia, você poderia
-evite acabar frito...
+Mmm, se houvesse alguma maneira de
+evitar que ele carregasse a energia,
+você poderia evite acabar frito...
 --- BLOCK ---
 Ah, eu disse "alguma chance"?
 Eu quis dizer ALTAS chances de
 ganho! Tudo ficará bem. He he...
 --- BLOCK ---
-A Guilda concordou em considerá-la um
-missão oficial, então passe pelo
+A Guilda concordou em considerá-la
+um missão oficial, então passe pelo
 posto da missão quando você quiser.
 --- BLOCK ---
 <SUBS 0>
 O Lagiacrus possui órgãos nas costas
 por onde passa a eletricidade.
 --- BLOCK ---
-Quanto mais energia a besta gera, mais
-brilha...
+Quanto mais energia a besta gera,
+mais brilha...
 --- BLOCK ---
 E uma vez que os órgãos estão
 carregado, o Lagiacrus libera tudo
@@ -1431,8 +1431,8 @@ você deve ter cuidado. Pensando nisso
 é um pouco como minha primeira namorada.
 --- BLOCK ---
 Mmm, se houvesse alguma maneira de evitar
-que se carregasse com energia, você poderia
-evitar acabar frito...
+que se carregasse com energia, você
+poderia evitar acabar frito...
 --- BLOCK ---
 Ah, eu disse "sofrer eletrocussão"?
 Foi um lapso de! Eu tenho toda confiança
@@ -1956,8 +1956,8 @@ se esqueça dos amigos que você tem aqui.
 --- BLOCK ---
 A Vila Moga sempre será seu lar.
 --- BLOCK ---
-E um dia, quando olharmos para o mar te
-virmos em pé na proa de um navio de
+E um dia, quando olharmos para o mar
+tev virmos em pé na proa de um navio de
 caça, saberemos...
 --- BLOCK ---
 Que uma das maiores pessoas que
@@ -2101,7 +2101,7 @@ Aquele Ceadeus que você derrotou? O
 Lagiacrus marfim o jantaria!
 --- BLOCK ---
 Meu primeiro encontro com um Lagiacrus
-mármoreo terminou em uma batalha épica.
+marfim terminou em uma batalha épica.
 --- BLOCK ---
 Eu tropecei nele por acaso, enquanto
 estava perseguindo outro monstro. Nossa

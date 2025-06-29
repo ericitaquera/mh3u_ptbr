@@ -38,13 +38,13 @@ Droga demoníaca
 --- BLOCK ---
 Megadroga demon.
 --- BLOCK ---
-Píldora de poder
+Pílula de poder
 --- BLOCK ---
 Pele de armadura
 --- BLOCK ---
 Megapele armad.
 --- BLOCK ---
-Píldora armadura
+Pílula armadura
 --- BLOCK ---
 Bebida gelada
 --- BLOCK ---
@@ -158,7 +158,7 @@ Rede
 --- BLOCK ---
 Ferram. armadilha
 --- BLOCK ---
-Armadilha escolho
+Armadilha de queda
 --- BLOCK ---
 Armadilha choque
 --- BLOCK ---
